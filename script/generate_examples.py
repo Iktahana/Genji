@@ -3,12 +3,62 @@ import os
 import json
 import re
 import subprocess
+import time
+import sys
+import threading
 from pathlib import Path
 from datetime import datetime, timezone
-import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# === 垃圾模板模式 (不合格判定基準) ===
+# ──────────────────────────────────────────────────────────
+# 設定
+# ──────────────────────────────────────────────────────────
+
+DATA_ROOT   = Path("data")
+MAX_WORKERS = 30    # 並列実行エージェント数
+REPORT_SEC  = 3.0   # 進捗表示の更新間隔（秒）
+
+# AIモデル情報
+MODELS = [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-pro",
+    "gemini-3-flash-preview",
+    "gemini-3.1-pro-preview"
+]
+
+class ModelManager:
+    def __init__(self, models):
+        self.models = models
+        self.current_index = 0
+        self.lock = threading.Lock()
+        self.failures_in_row = 0
+
+    def get_current_model(self):
+        with self.lock:
+            return self.models[self.current_index]
+
+    def switch_to_next_model(self):
+        with self.lock:
+            self.current_index = (self.current_index + 1) % len(self.models)
+            self.failures_in_row += 1
+            model = self.models[self.current_index]
+            # 全モデル試した場合は少し待つ
+            if self.failures_in_row >= len(self.models):
+                print(f"\n[INFO] 全モデルのクォータ制限に達した可能性があります。60秒待機します...", flush=True)
+                time.sleep(60)
+                self.failures_in_row = 0
+            return model
+
+    def reset_failure_count(self):
+        with self.lock:
+            self.failures_in_row = 0
+
+model_manager = ModelManager(MODELS)
+
+# 低品質なテンプレートの定義（これらに該当する例文は破棄・再生成の対象）
 JUNK_PATTERNS = [
+# ... (rest of JUNK_PATTERNS)
     r"私たちの生活に欠かせません",
     r"ビジネスシーンでは.*重要です",
     r"科学的研究が進みました",
@@ -46,71 +96,148 @@ JUNK_PATTERNS = [
     r"技術用語としても広く認識されています",
     r"地域によって方言的な変形があります",
     r"若い世代も自然に使用する一般的な言葉です",
-    r"文語的表現として古典に登場します",
+    r"文語的な表現として古典に登場します",
     r"その語源は興味深い歴史があります",
     r"現代でも使用頻度が高い重要語彙です"
 ]
 
-def clean_ansi(text):
-    ansi_escape = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
-    return ansi_escape.sub('', text)
+# ──────────────────────────────────────────────────────────
+# 進捗表示（GitHub Actions 対応）
+# ──────────────────────────────────────────────────────────
 
-def is_unqualified(examples):
-    """檢查例句是否不合格"""
-    if not examples:
-        return True
+class Progress:
+    IS_GHA = os.environ.get("GITHUB_ACTIONS") == "true"
+    BAR_W  = 28
+
+    @staticmethod
+    def _bar(done: int, total: int) -> str:
+        if total <= 0: return f"[{'░' * Progress.BAR_W}]  0.0%"
+        pct    = min(done / total, 1.0)
+        filled = round(pct * Progress.BAR_W)
+        return f"[{'█' * filled}{'░' * (Progress.BAR_W - filled)}] {pct:5.1%}"
+
+    @staticmethod
+    def group(title: str) -> None:
+        if Progress.IS_GHA: print(f"::group::{title}", flush=True)
+        else: print(f"\n┌─ {title}", flush=True)
+
+    @staticmethod
+    def endgroup() -> None:
+        if Progress.IS_GHA: print("::endgroup::", flush=True)
+
+    @staticmethod
+    def step(msg: str) -> None:
+        print(f"  │  {msg}", flush=True)
+
+    @staticmethod
+    def ok(msg: str) -> None:
+        print(f"  └✓ {msg}", flush=True)
+
+    @staticmethod
+    def bar_line(done: int, total: int, suffix: str = "") -> None:
+        bar = Progress._bar(done, total)
+        print(f"  │  {bar}  {suffix}", flush=True)
+
+# ──────────────────────────────────────────────────────────
+# ユーティリティ
+# ──────────────────────────────────────────────────────────
+
+progress_lock   = threading.Lock()
+updated_count   = 0
+processed_count = 0
+last_report_t   = 0
+
+def clean_ansi(text: str) -> str:
+    """出力から制御文字を削除"""
+    return re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])').sub('', text)
+
+def is_low_quality(examples: list) -> bool:
+    """既存の例文がテンプレート等の低品質なものか判定"""
+    if not examples: return True
     for ex in examples:
-        text = ex.get('text', '')
-        for pattern in JUNK_PATTERNS:
-            if re.search(pattern, text):
-                return True
+        txt = ex.get('text', '')
+        if any(re.search(p, txt) for p in JUNK_PATTERNS): return True
     return False
 
-def generate_examples_jp(entry, reading, gloss, pos):
-    """全日文提示詞調用 Gemini CLI"""
-    prompt = f"""
-以下の日本語単語について、辞書に掲載するのに適した具体的かつ高品質な例文を作成してください。
+def generate_examples_jp(entry: str, reading: str, gloss: str, pos: str) -> list:
+    """Gemini CLIを使用して高品質な例文を生成。失敗時はモデルを切り替えてリトライ。"""
+    max_retries = len(MODELS) * 2  # 各モデル2回ずつくらいは試せるように
+    
+    for _ in range(max_retries):
+        current_model = model_manager.get_current_model()
+        prompt = f"""
+以下の日本語の單語について、國語辭典の掲載に適した、自然で實用的な例文を5〜8個作成してください。
 
-単語: {entry}
+【對象單語】
+表記: {entry}
 読み: {reading}
 品詞: {pos}
 意味: {gloss}
 
 【作成ルール】
-1. **「生活に欠かせない」「ビジネスで重要」「科学的研究」などのテンプレート的な表現は厳禁です。**
-2. その単語が実際に使われる具体的なシーン（ニュース、専門現場、日常生活など）を想定してください。
+1. 汎用的なテンプレート表現（「生活に欠かせない」「重要です」等）は厳禁です。
+2. その語が実際に使われる具体的なシーン（ニュース、専門分野、日常生活等）を想定してください。
 3. 自然な日本語のコロケーション（語の繋がり）を重視してください。
-4. 例文を読むだけで単語の意味が推測できるような、情報量の多い文にしてください。
-5. **無理に20個作る必要はありません。5〜8個を目標とし、難解な語の場合は3個程度でも構いません。質を最優先してください。**
-6. 感動詞や副詞は「」を用いた会話形式、固有名詞は背景知識に基づいた文にしてください。
+4. 質を最優先してください。無理に多く作る必要はありません。難解な語の場合は3個程度でも構いません。
+5. 感動詞や副詞は「」を用いた會話文形式にしてください。
 
 【出力形式】
-JSON配列形式のみを出力してください。解説やMarkdownの枠は不要です。
-各オブジェクトは "text"（例文）と "source": "幻辞" を含めてください。
+JSON配列形式のみを出力してください。
+各オブジェクトは "text" キーと、以下の構造を持つ "citation" キーを含めてください。
+"citation": {{
+  "source": "幻辭AI",
+  "author": "Gemini",
+  "note": "{current_model}"
+}}
 
-例:
+出力例:
 [
-  {{"text": "具体的な例文1", "source": "幻辞"}},
-  {{"text": "具体的な例文2", "source": "幻辞"}}
+  {{
+    "text": "具体的な例文1",
+    "citation": {{ "source": "幻辭AI", "author": "Gemini", "note": "{current_model}" }}
+  }}
 ]
 """
-    try:
-        result = subprocess.run(
-            ['gemini', '-p', prompt],
-            capture_output=True,
-            text=True,
-            encoding='utf-8',
-            timeout=90
-        )
-        output = clean_ansi(result.stdout).strip()
-        json_match = re.search(r'\[\s*\{.*\}\s*\]', output, re.DOTALL)
-        if json_match:
-            return json.loads(json_match.group(0))
-        return None
-    except Exception:
-        return None
+        try:
+            res = subprocess.run(['gemini', '-m', current_model, '-p', prompt], 
+                                 capture_output=True, text=True, encoding='utf-8', timeout=120)
+            
+            out = clean_ansi(res.stdout).strip()
+            err = clean_ansi(res.stderr).strip()
+            
+            # クォータエラー（429）やその他のAPIエラーをチェック
+            if "429" in err or "Quota exceeded" in err or "Rate limit" in err or "ModelNotFoundError" in err:
+                # print(f"\n[INFO] モデル {current_model} で制限発生。次のモデルに切り替えます...", flush=True)
+                model_manager.switch_to_next_model()
+                continue
 
-def process_file(file_path):
+            match = re.search(r'\[\s*\{.*\}\s*\]', out, re.DOTALL)
+            if match:
+                try:
+                    res_json = json.loads(match.group(0))
+                    model_manager.reset_failure_count() # 成功したらリセット
+                    return res_json
+                except json.JSONDecodeError:
+                    try:
+                        fixed = re.sub(r',\s*\]', ']', match.group(0))
+                        res_json = json.loads(fixed)
+                        model_manager.reset_failure_count()
+                        return res_json
+                    except:
+                        pass
+            
+            # JSONが見つからない場合や解析失敗も失敗とみなしてリトライ（モデル切り替えはしない）
+            time.sleep(1)
+            
+        except subprocess.TimeoutExpired:
+            model_manager.switch_to_next_model()
+        except Exception:
+            pass
+            
+    return None
+
+def process_file(file_path: Path) -> bool:
+    global updated_count, processed_count
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -118,8 +245,8 @@ def process_file(file_path):
         modified = False
         for entry_obj in data:
             entry_text = entry_obj.get('entry', '')
-            reading = entry_obj.get('reading', {}).get('primary', '')
-            pos = ",".join(entry_obj.get('grammar', {}).get('pos', []))
+            reading    = entry_obj.get('reading', {}).get('primary', '')
+            pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
             
             for definition in entry_obj.get('definitions', []):
                 if 'examples' not in definition:
@@ -127,11 +254,11 @@ def process_file(file_path):
                 
                 std_examples = definition['examples'].get('standard', [])
                 
-                # 判定：是欠缺還是不合格
-                if is_unqualified(std_examples):
+                # 品質チェック
+                if is_low_quality(std_examples):
                     new_exs = generate_examples_jp(entry_text, reading, definition.get('gloss', ''), pos)
                     if new_exs:
-                        # 過濾新生成的內容
+                        # テンプレート混入チェック
                         valid_new = [ex for ex in new_exs if not any(re.search(p, ex.get('text', '')) for p in JUNK_PATTERNS)]
                         if valid_new:
                             definition['examples']['standard'] = valid_new
@@ -142,37 +269,46 @@ def process_file(file_path):
                 data[0]['meta']['updated_at'] = datetime.now(timezone.utc).isoformat() + 'Z'
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            return True
+            with progress_lock: updated_count += 1
+        
+        with progress_lock: processed_count += 1
+        return modified
     except Exception as e:
-        print(f"\n[Error] {file_path.name}: {e}")
-    return False
+        print(f"\n[エラー] {file_path.name}: {e}")
+        return False
+
+# ──────────────────────────────────────────────────────────
+# 実行
+# ──────────────────────────────────────────────────────────
 
 def main():
-    print("=== 辞書例文の全件品質チェック & 最適化タスク啟動 ===")
+    Progress.group(f"例文の自動生成・品質改善プロセスを開始します (並列エージェント数={MAX_WORKERS})")
+    Progress.step(f"使用モデル候補: {', '.join(MODELS)}")
+
+    all_dirs  = sorted([d for d in DATA_ROOT.iterdir() if d.is_dir()], key=lambda x: x.name)
+    all_files = []
+    for d in all_dirs:
+        all_files.extend(sorted(list(d.glob("*.json"))))
+
+    total_files = len(all_files)
+    Progress.step(f"スキャン対象: {total_files:,} ファイル")
+
     
-    # 優先處理 か 行
-    priority_order = ["か", "が", "き", "ぎ", "く", "ぐ", "け", "げ", "こ", "ご"]
-    data_dir = Path("data")
-    all_rows = sorted([d.name for d in data_dir.iterdir() if d.is_dir()])
-    
-    processing_queue = [r for r in priority_order if r in all_rows]
-    processing_queue += [d for d in all_rows if d not in priority_order]
-    
-    for row in processing_queue:
-        subdir = data_dir / row
-        print(f"\nScanning: [{row}]")
-        files = list(subdir.glob("*.json"))
-        total = len(files)
+    global last_report_t
+    last_report_t = time.perf_counter()
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(process_file, f): f for f in all_files}
         
-        fixed = 0
-        for i, file_path in enumerate(files):
-            if (i + 1) % 5 == 1:
-                sys.stdout.write(f"\r  Progress: {i+1}/{total} (Fixed/Updated: {fixed})")
-                sys.stdout.flush()
-            
-            if process_file(file_path):
-                fixed += 1
-        print(f"\n  Row [{row}] completed.")
+        for future in as_completed(futures):
+            now = time.perf_counter()
+            if now - last_report_t >= REPORT_SEC:
+                with progress_lock:
+                    last_report_t = now
+                    Progress.bar_line(processed_count, total_files, f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})")
+
+    Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
+    Progress.endgroup()
 
 if __name__ == "__main__":
     main()
