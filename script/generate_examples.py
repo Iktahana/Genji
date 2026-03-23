@@ -15,7 +15,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ──────────────────────────────────────────────────────────
 
 DATA_ROOT   = Path("data")
-MAX_WORKERS = 30    # 並列実行エージェント数
+CHECKPOINT_DIR = Path(".checkpoints")
+MAX_WORKERS = 8    # 並列実行エージェント数
 REPORT_SEC  = 3.0   # 進捗表示の更新間隔（秒）
 
 # AIモデル情報
@@ -55,6 +56,76 @@ class ModelManager:
             self.failures_in_row = 0
 
 model_manager = ModelManager(MODELS)
+
+# ──────────────────────────────────────────────────────────
+# Checkpoint管理（中断・再開機能）
+# ──────────────────────────────────────────────────────────
+
+class CheckpointManager:
+    def __init__(self, checkpoint_dir: Path = CHECKPOINT_DIR):
+        self.checkpoint_dir = checkpoint_dir
+        self.checkpoint_dir.mkdir(exist_ok=True)
+        self.checkpoint_file = self.checkpoint_dir / "progress.json"
+        self.processed_files = set()
+        self.updated_files = set()
+        self.lock = threading.Lock()
+        self._load_checkpoint()
+
+    def _load_checkpoint(self):
+        """前回の進捗をロード"""
+        if self.checkpoint_file.exists():
+            try:
+                with open(self.checkpoint_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    self.processed_files = set(data.get('processed', []))
+                    self.updated_files = set(data.get('updated', []))
+                    timestamp = data.get('timestamp', 'Unknown')
+                    print(f"✓ Checkpoint loaded: {len(self.processed_files)} files processed at {timestamp}")
+            except Exception as e:
+                print(f"! Checkpoint load failed: {e}. Starting fresh.")
+                self.processed_files = set()
+                self.updated_files = set()
+
+    def add_processed(self, file_path: str):
+        """処理済みファイルを記録"""
+        with self.lock:
+            self.processed_files.add(file_path)
+
+    def add_updated(self, file_path: str):
+        """更新されたファイルを記録"""
+        with self.lock:
+            self.updated_files.add(file_path)
+
+    def is_processed(self, file_path: str) -> bool:
+        """ファイルが既に処理されているか確認"""
+        return file_path in self.processed_files
+
+    def save_checkpoint(self):
+        """現在の進捗をセーブ"""
+        try:
+            with self.lock:
+                data = {
+                    'timestamp': datetime.now(timezone.utc).isoformat(),
+                    'processed': list(self.processed_files),
+                    'updated': list(self.updated_files),
+                    'processed_count': len(self.processed_files),
+                    'updated_count': len(self.updated_files)
+                }
+            with open(self.checkpoint_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"! Checkpoint save failed: {e}")
+
+    def clear_checkpoint(self):
+        """checkpoint をクリア"""
+        with self.lock:
+            self.processed_files.clear()
+            self.updated_files.clear()
+        if self.checkpoint_file.exists():
+            self.checkpoint_file.unlink()
+        print("✓ Checkpoint cleared")
+
+checkpoint_manager = CheckpointManager()
 
 # 低品質なテンプレートの定義（これらに該当する例文は破棄・再生成の対象）
 JUNK_PATTERNS = [
@@ -238,22 +309,29 @@ JSON配列形式のみを出力してください。
 
 def process_file(file_path: Path) -> bool:
     global updated_count, processed_count
+    file_str = str(file_path.relative_to(Path.cwd()))
+
+    # 既に処理済みなら skip
+    if checkpoint_manager.is_processed(file_str):
+        with progress_lock: processed_count += 1
+        return False
+
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        
+
         modified = False
         for entry_obj in data:
             entry_text = entry_obj.get('entry', '')
             reading    = entry_obj.get('reading', {}).get('primary', '')
             pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
-            
+
             for definition in entry_obj.get('definitions', []):
                 if 'examples' not in definition:
                     definition['examples'] = {'standard': [], 'literary': []}
-                
+
                 std_examples = definition['examples'].get('standard', [])
-                
+
                 # 品質チェック
                 if is_low_quality(std_examples):
                     new_exs = generate_examples_jp(entry_text, reading, definition.get('gloss', ''), pos)
@@ -263,14 +341,16 @@ def process_file(file_path: Path) -> bool:
                         if valid_new:
                             definition['examples']['standard'] = valid_new
                             modified = True
-        
+
         if modified:
             if 'meta' in data[0]:
                 data[0]['meta']['updated_at'] = datetime.now(timezone.utc).isoformat() + 'Z'
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
             with progress_lock: updated_count += 1
-        
+            checkpoint_manager.add_updated(file_str)
+
+        checkpoint_manager.add_processed(file_str)
         with progress_lock: processed_count += 1
         return modified
     except Exception as e:
@@ -282,6 +362,18 @@ def process_file(file_path: Path) -> bool:
 # ──────────────────────────────────────────────────────────
 
 def main():
+    import signal
+
+    def signal_handler(sig, frame):
+        """Ctrl+C で中断時に checkpoint を保存"""
+        print("\n\n[INFO] 処理を中断しています...", flush=True)
+        checkpoint_manager.save_checkpoint()
+        print(f"[INFO] Checkpoint 保存完了: {len(checkpoint_manager.processed_files)} files processed", flush=True)
+        print(f"[INFO] 次回実行時に処理中断地点から再開できます。", flush=True)
+        sys.exit(0)
+
+    signal.signal(signal.SIGINT, signal_handler)
+
     Progress.group(f"例文の自動生成・品質改善プロセスを開始します (並列エージェント数={MAX_WORKERS})")
     Progress.step(f"使用モデル候補: {', '.join(MODELS)}")
 
@@ -291,24 +383,55 @@ def main():
         all_files.extend(sorted(list(d.glob("*.json"))))
 
     total_files = len(all_files)
-    Progress.step(f"スキャン対象: {total_files:,} ファイル")
+    already_processed = len(checkpoint_manager.processed_files)
+    remaining_files = total_files - already_processed
 
-    
+    Progress.step(f"スキャン対象: {total_files:,} ファイル")
+    if already_processed > 0:
+        Progress.step(f"✓ 前回の進捗: {already_processed:,} ファイル既に処理済み")
+        Progress.step(f"→ 残り: {remaining_files:,} ファイル")
+
+    # 未処理のファイルのみをフィルタ
+    files_to_process = [f for f in all_files if not checkpoint_manager.is_processed(str(f.relative_to(Path.cwd())))]
+
     global last_report_t
     last_report_t = time.perf_counter()
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(process_file, f): f for f in all_files}
-        
-        for future in as_completed(futures):
-            now = time.perf_counter()
-            if now - last_report_t >= REPORT_SEC:
-                with progress_lock:
-                    last_report_t = now
-                    Progress.bar_line(processed_count, total_files, f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})")
+    try:
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = {executor.submit(process_file, f): f for f in files_to_process}
 
-    Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
-    Progress.endgroup()
+            for future in as_completed(futures):
+                now = time.perf_counter()
+                if now - last_report_t >= REPORT_SEC:
+                    with progress_lock:
+                        last_report_t = now
+                        Progress.bar_line(processed_count, total_files,
+                                        f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})")
+
+        # 通常完了時に checkpoint を保存
+        checkpoint_manager.save_checkpoint()
+        Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
+        Progress.step(f"Checkpoint 保存: {len(checkpoint_manager.processed_files)} files")
+        Progress.endgroup()
+
+    except Exception as e:
+        # エラー時も checkpoint を保存
+        checkpoint_manager.save_checkpoint()
+        print(f"\n[ERROR] 予期しないエラーが発生しました: {e}", flush=True)
+        print(f"[INFO] Checkpoint 保存完了。次回実行時に再開できます。", flush=True)
+        raise
 
 if __name__ == "__main__":
+    # コマンドライン引数の処理
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "--clear-checkpoint":
+            checkpoint_manager.clear_checkpoint()
+            sys.exit(0)
+        elif sys.argv[1] == "--status":
+            print(f"Processed files: {len(checkpoint_manager.processed_files)}")
+            print(f"Updated files: {len(checkpoint_manager.updated_files)}")
+            print(f"Checkpoint file: {checkpoint_manager.checkpoint_file}")
+            sys.exit(0)
+
     main()
