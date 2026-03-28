@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "aa1e24be-91f7-59d1-b216-3575859d5ac2",
+    "entry": "一次従属",
+    "reading": {
+      "primary": "いちじじゅうぞく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "linearly dependent",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ベクトル空間における基底の定義では、基底を構成するベクトル群は線形独立でなければならず、一次従属であってはならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "連立一次方程式の解が一意に定まる条件として、係数行列の行ベクトル（あるいは列ベクトル）が一次従属でないことが挙げられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "機械学習モデル構築において、特徴量間に一次従属があると多重共線性の問題が生じやすいため、除去を検討する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "物理システムのモデリングでは、状態変数が互いに一次従属な関係にある場合、システムの自由度が低下し、より単純なモデルで表現可能になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あるベクトルの集合が一次従属であるとは、そのうちの1つのベクトルが他のベクトルの線形結合で表せることを意味する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-24T16:24:14.870352+00:00Z"
+    }
+  }
+]

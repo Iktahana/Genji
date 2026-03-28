@@ -1,0 +1,106 @@
+[
+  {
+    "uuid": "42eddbd1-3b21-5c97-9f2b-82aac41076a7",
+    "entry": "一次変換",
+    "reading": {
+      "primary": "いちじへんかん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "linear transformation",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "平面上の任意の点を原点周りに回転させる操作は、2次正方行列を用いた一次変換として記述される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "線形代数学の基礎として、一次変換がベクトルの和とスカラー倍を保存する性質を証明する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンピュータグラフィックスにおける座標変換の多くは、行列計算による一次変換の連続によって実現されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この一次変換によって、単位正方形がどのような形状の平行四辺形に写像されるかを図示しなさい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "空間の一次変換において、固有ベクトルは変換後も方向が変わらない特別なベクトルとして定義される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "行列式が零となる一次変換は、空間全体をより低い次元の図形へと押し潰してしまう操作に相当する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複雑な信号を解析する際、基底の取り換えを一次変換として捉えることで計算の見通しが良くなる場合がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-24T16:27:43.072222+00:00Z"
+    }
+  }
+]

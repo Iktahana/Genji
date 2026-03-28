@@ -1,0 +1,100 @@
+[
+  {
+    "uuid": "a6f5ad88-436e-52d1-9c7b-dca412fe0002",
+    "entry": "ＵＰＳＥＲＴ",
+    "reading": {
+      "primary": "アップサート",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞",
+        "動詞-サ変",
+        "動詞-他動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "upsert",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "このバッチ処理では、新しく届いた顧客データをデータベースにアップサートするように実装しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "APIのPUTメソッドは、リソースが存在しない場合は新規作成し、存在する場合は更新するアップサートの動作をします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "開発者A：「このデータ、一意キーで重複チェックしてから挿入・更新するの面倒だね。」\n開発者B：「ええ、むしろアップサート処理を直接呼び出した方が効率的ですよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "サーバー間のデータ同期において、アップサート操作はデータの一貫性を保つ上で不可欠な機能です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最新の製品情報を製品マスターにアップサートするスクリプトを作成する必要があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このツールは、指定されたIDのレコードを自動的にアップサートします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T17:27:17.000048+00:00Z"
+    }
+  }
+]

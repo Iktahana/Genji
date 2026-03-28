@@ -1,0 +1,84 @@
+[
+  {
+    "uuid": "17db3409-fe5a-5adb-8d2a-d91145a9cdbf",
+    "entry": "ＳＰＯＦ",
+    "reading": {
+      "primary": "エス・ピー・オー・エフ",
+      "alternatives": [
+        "エスピーオーエフ"
+      ],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "single point of failure",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "システム設計では、SPOFを排除することが安定稼働の鍵となる。一つでも故障すると全体が止まるような設計は避けるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "そのネットワーク機器がSPOFになっていないか、担当者に確認する必要がある。もしそうなら、すぐに冗長化を検討しないと。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「まさか、あのサーバーがSPOFだったなんて！復旧作業で丸一日潰れたよ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "冗長化されていないデータベースは、SPOFのリスクが高い。バックアップ体制も重要だが、それ以前の問題だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-25T19:55:27.010948+00:00Z"
+    }
+  }
+]

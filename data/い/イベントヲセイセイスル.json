@@ -1,0 +1,83 @@
+[
+  {
+    "uuid": "5b965521-3d0b-57da-9d71-80189567991e",
+    "entry": "イベントを生成する",
+    "reading": {
+      "primary": "イベントをせいせいする",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "表現",
+        "動詞-サ変-する"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "to generate an event",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ユーザーがフォームの送信ボタンをクリックしたタイミングで、独自のトラッキングイベントを生成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "センサーが異常な温度を検知すると、直ちにシステム側にアラートイベントを生成する仕組みになっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "このモジュールは、ファイルのアップロードが完了するたびにバックグラウンドでイベントを生成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "マウスカーソルが画像に重なったときにマウスオーバーのイベントを生成する処理を記述した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-25T17:47:37.971591+00:00Z"
+    }
+  }
+]
