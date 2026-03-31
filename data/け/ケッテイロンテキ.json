@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このアルゴリズムは決定論的であり、同じ入力に対しては常に全く同じ結果を出力する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "乱数シードを固定することで、シミュレーションを決定論的に再現することが可能になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "決定論的なプロセスであっても、カオス理論のように初期値のわずかな差が将来に巨大な変動をもたらすこともある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "多から一へというのは、世界を因果的に決定論的に考えることである、過去から考えることである、機械的に考えることである。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T18:58:08.806920+00:00Z"
     }
   }
 ]
