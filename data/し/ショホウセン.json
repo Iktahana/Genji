@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "病院で診察を受けた後、薬剤師に処方箋を渡して薬を受け取った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "処方箋に書かれた内容を確認し、正しく薬を服用することが重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "海外旅行中に体調を崩し、現地で処方箋なしで薬を手に入れるのに苦労した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつか診察を受けに行ったときに、先に来ていた一学生が貰った処方箋を見ながら「また、杏仁水ですか」と云ってニヤリとした。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:02:02.267317+00:00Z",
       "freq_rank": 15601
     }
   }

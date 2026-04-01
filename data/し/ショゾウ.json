@@ -32,7 +32,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この美術館は、印象派の絵画を多数所蔵している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるいは昔の所蔵者が有名な人であった場合にはその人に関する聯想が骨董的の価値を高める事もある。",
@@ -279,7 +288,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T21:58:48.217752+00:00Z",
       "freq_rank": 14967
     }
   }
