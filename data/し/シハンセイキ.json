@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この会社は創業から四半世紀を迎えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はこの分野で四半世紀にわたり研究を続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "四半世紀前の出来事だが、昨日のことのように思い出せる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『サンプルブック』九ページの『陽の光は躍る』は、ちょうど四半世紀前に青戸高さん（ヴァイブ）、高野麻由美さん（ヴォーカル）、塚本俊明さん（ギター）とやったものだ。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T15:03:05.850522+00:00Z",
       "freq_rank": 28503
     }
   }
