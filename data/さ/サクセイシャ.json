@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプログラムの作成者は、非常に優秀なエンジニアであることが知られています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ドキュメントには、変更履歴とともに各作成者の名前が記録されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この機能、誰が作成者だったか知ってる？ちょっと聞きたいことがあるんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "青空文庫に収蔵されている「著作権の切れている作品」は、入力者・校正者・ファイル作成者名等と青空文庫が出典であることを明示すれば、〈有償であるか、無償であるかを問わず、青空文庫に対価を支払ったり、了解を求めたりする必要〉は一切無用である。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:08:58.009772+00:00Z"
     }
   }
 ]
