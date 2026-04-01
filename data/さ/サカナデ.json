@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の不用意な一言が、皆の気分を逆なでしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『書物の出現』を書いたアンリ＝ジャン・マルタンは、「買い手が印刷術という新しい方法に胡散臭さを感じていた」であるとか「写字生たちに気づかれてその神経を逆なで」しないため、といった諸説を否定してこう結論づけています。",
@@ -286,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T07:49:56.871144+00:00Z",
       "freq_rank": 42201
     }
   }

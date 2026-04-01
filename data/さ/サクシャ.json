@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この絵画の作者は、若くして亡くなった天才画家だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "物語の作者は、登場人物一人ひとりの背景まで深く作り込んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの有名なキャラクターの作者は、意外にも物静かな人だったよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「西部劇通信」にも無論個性は十分に現はれてゐるのであるが、人物をギリシャ人に仕立てたりするあの仮構は、作者自身にしつくりしたことではなかつたと思ふ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T08:03:00.930534+00:00Z",
       "freq_rank": 3129
     }
   }
