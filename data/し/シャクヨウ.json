@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この建物は、隣接する土地を借用して建設されたものです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「散文が結果的に一つのイデーの下に凝集してゐるに対し、詩は一つのイデーから出発する」といふ河上氏の言を借用するとして、その真偽如何を問はず、詩が欲しくなる時、詩人は「一つのイデーから出発」してゐるもの即ち詩に赴くのであつて、他の物へではない。",
@@ -254,7 +263,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T16:21:10.815165+00:00Z",
       "freq_rank": 19681
     }
   }

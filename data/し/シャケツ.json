@@ -32,7 +32,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつては、病気の治療法として瀉血が行われていたが、現在はほとんど行われていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたくしは心配性の逸作に向って、わたくしが父の死を見て心悸を亢進させ、実家の跡取りの弟の医学士から瀉血されたことも、それから通夜の三日間｜静臥していたことも、逸作には話さなかった。",
@@ -255,7 +264,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T16:21:10.825229+00:00Z"
     }
   }
 ]
