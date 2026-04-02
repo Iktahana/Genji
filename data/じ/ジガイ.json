@@ -31,7 +31,35 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "侍は主君の命に従い、その場で自害した。",
+              "text_en": "The samurai obeyed his lord's command and committed suicide on the spot.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "追い詰められた容疑者は、逮捕寸前に自害を図った。",
+              "text_en": "The cornered suspect attempted to commit suicide just before arrest.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史上、名誉のために自害を選んだ人物は少なくない。",
+              "text_en": "Historically, not a few people chose suicide for honor.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その一例とも見られるのは、『諸国咄』の中の「忍び扇の長歌」に、ある高貴な姫君と身分の低い男との恋愛事件が暴露して男は即座に成敗され、姫には自害を勧めると、姫は断然その勧告をはねつけて一流の「不義論」を陳述したという話がある。",
@@ -286,7 +314,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T23:54:51.794620+00:00Z",
       "freq_rank": 42196
     }
   }
