@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マルコ・ポーロは、東方見聞録で日本を「ジパング」と記述しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御存知のマルコポーロでありますが、彼の手記に書いてあるニッポンは、ジパングということでありまして、黄金で出来あがっている国だということになっております。",
@@ -68,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T04:15:08.479470+00:00Z",
       "freq_rank": 31056
     }
   }
