@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプロジェクトは、延べ100人年の作業量が必要と見積もられた。人年という単位は、労働力を集計する際に用いられる。「今回の開発には、かなりの人年がかかりそうですね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "年老いし彼は商人年老いし彼は商人。",
@@ -222,7 +231,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:17:00.237129+00:00Z"
     }
   }
 ]
