@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アプリケーションごとに異なるトラヒック特性を理解することが、効率的なネットワーク運用の第一歩だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "定期的にバーストが発生するトラヒック特性を持つシステムでは、十分なバッファ容量が求められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ユーザーの行動パターンによってトラヒック特性が変化するため、動的な帯域制御を導入した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T12:29:09.555429+00:00Z"
     }
   }
 ]
