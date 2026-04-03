@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回の騒動の張本人は、隣のクラスの生徒だったことが判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はいつもいたずらの張本人だが、誰も彼を責めることはなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "一連の誤報の張本人は、匿名のインターネットユーザーだと特定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "亡父の遺品の雨着物を着ている私は、この豪雨の張本人のような気がして、まことに、そら恐しい罪悪感を覚え、顔を挙げることが出来なかった。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T04:01:44.802880+00:00Z",
       "freq_rank": 27207
     }
   }
