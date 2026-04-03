@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経済的な理由により、この雑誌は発行停止となりました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なぜなら、読者の支配的なイデオロギーを迎えないということは、やがて発行部数の減少を意味し、従って又広告収入の減少をも意味することは云うまでもないし、又発売禁止や発行停止は直接に新聞企業の経済的基礎を破壊するから、である。",
@@ -84,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:27:07.845052+00:00Z"
     }
   }
 ]
