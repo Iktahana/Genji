@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつては人工甘味料としてチクロが使われていたが、現在は規制されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何かある題目に関して広く文献を調べようという場合にはいろいろなエンチクロペディやハンドブーフという種類のものはなくてならない重宝なものであるが、少し立ち入ってほんとうの事が知りたくなればもうそんなものは役に立たない。",
@@ -108,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T00:52:06.522043+00:00Z"
     }
   }
 ]
