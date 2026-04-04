@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "セキュリティシステムは、不正アクセスを検知するために継続的にパケットのパターンマッチングを行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "遺伝子解析では、DNA配列のパターンマッチングを用いて特定の病気の原因遺伝子を特定する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この検索エンジンは高度なパターンマッチング技術で、あいまいなクエリにも関連性の高い結果を返す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:13:09.633240+00:00Z"
     }
   }
 ]

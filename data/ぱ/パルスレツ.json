@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンピューターの内部では、高速なパルス列がデータとして絶え間なくやり取りされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "エンコーダーから出力されるパルス列をカウントすることで、回転軸の移動量を算出する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ノイズの影響でパルス列が乱れてしまい、受信側でデータの復元に失敗してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:29:33.983345+00:00Z"
     }
   }
 ]
