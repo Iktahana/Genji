@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "翻訳ソフトの設定で、文章単位ではなく単語単位の置換を指定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "文脈を理解するためには、文字ではなく文章単位で内容を追う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "プログラムがテキストを解析する際、改行コードを文章単位の区切りとして認識する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが、ＪＸ用に開発する新しいテキストベースの製品では、文章単位でカタカナも含めて一気に変換してしまう連文節変換まで機能を拡張し、これをＡＴＯＫ３と改名することとした。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:14:27.966774+00:00Z"
     }
   }
 ]
