@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キーボードで「きしゃ」と入力したら、変換候補のトップに「帰社」が表示された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "何度も使っている専門用語が、すぐに変換候補に出てくるようになって作業が捗る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "珍しい苗字なので、変換候補の一覧を最後までスクロールしないと見つからない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ、複数の変換候補からそのつど選んでいく方式で、パソコンにおける日本語入力が広く普及したように、修正しながら作業することを前提に、新しいタイプの点訳ソフトの活用も広がって行くだろう。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T13:16:37.291415+00:00Z"
     }
   }
 ]
