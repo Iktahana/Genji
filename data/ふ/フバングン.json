@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このマニュアルでは、手順のリストと、注釈のリストが、それぞれ独立した付番群として管理されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "付番群を正しく設定することで、文書全体で番号の重複や欠落が起こるのを防ぐことができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "法的文書のSGML化において、条・項・号の階層構造を一つの付番群として定義した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T10:29:58.005077+00:00Z"
     }
   }
 ]
