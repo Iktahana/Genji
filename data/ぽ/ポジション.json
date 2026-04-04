@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は株取引で、有利なポジションを確保するために待機している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ずっと後に先生が留学から帰って東京に住まわれるようになってから、ある時期の間は、ずいぶん頻繁に先生のお宅へ押しかけて行って先生のピアノの伴奏で自己流の演奏、しかもファースト・ポジションばかりの名曲弾奏を試みたのであったが、これには上記のような古い因縁があったのである。",
@@ -276,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T16:00:59.600461+00:00Z",
       "freq_rank": 4435
     }
   }
