@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語を学ぶ最初のステップは、ひらがなを覚えることだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供向けの絵本は、ほとんどひらがなで書かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "漢字が読めない人のために、ふりがなとしてひらがなが振られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この間の音韻の状態を明らかにすべき根本資料としては、平安朝初期には万葉仮名で書かれたものがかなりあるが、各時代を通じては主として平仮名で書かれたものであって、この期の諸音韻は、大抵は平仮名・片仮名で代表させることが出来る。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:36:30.868453+00:00Z",
       "freq_rank": 28414
     }
   }
