@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "DRAMのメモリアクセス方式の一つであるページモードを利用すると、行アドレスを固定したまま列アドレスだけを次々と切り替えることで、連続したアドレスのデータを高速に読み出すことが可能になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "まだCPUのクロック周波数が低かった古い仕様のコンピュータシステムでは、メインメモリのページモードの特性をソフトウェア側から最大限に活用して、少しでもプログラムの処理速度を稼ぐ涙ぐましい工夫がされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "現在の高速なDDRメモリの規格では、インターリーブなどさらに高度で複雑な技術が使われてデータの転送速度を上げているが、その根底にある基礎技術には昔ながらのページモードの概念がしっかりと受け継がれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T13:50:50.635654+00:00Z"
     }
   }
 ]

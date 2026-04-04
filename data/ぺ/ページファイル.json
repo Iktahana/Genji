@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システムが入っているCドライブの空き容量が逼迫して警告が出たので、Windowsの仮想メモリとして使われるページファイルを、容量に余裕のあるDドライブに移動させる設定を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "搭載されている物理メモリの容量が少ない古いPCでは、システムが頻繁にHDD上のページファイルへアクセスしてスワップを繰り返すため、全体の動作が極端に重くなりがちだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "システムのパフォーマンスを安定させるために、Windowsの仮想メモリの設定画面を開き、ページファイルのサイズを「システム管理」から「固定サイズ」に変更して断片化を防いだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T13:50:50.634199+00:00Z"
     }
   }
 ]
