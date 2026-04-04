@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この作家の新作は、エンターテイメント性を排し、純粋な人間ドラマを描いた本格小説として評価が高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "序でだから言つておくが、あんな無意味で退屈な文學を、心境小説とか本格小説とか命名してありがたがつてゐる文壇は、世界的にも特殊であり、馬鹿馬鹿しさの程が知れないと言ふものだ。",
@@ -132,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:05:57.739740+00:00Z"
     }
   }
 ]

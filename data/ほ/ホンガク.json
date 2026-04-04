@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本学は、地域社会との連携をさらに強化していく方針です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしわが貧乏国日本の忠実な少壮学者は貧乏な大学の研究所のために電池のわずかな費用を節約しつつ、たくあんをかじり、渋茶に咽喉を潤してそうして日本学界の名誉のために、また人間の知恵のために骨折り働いているのである。",
@@ -268,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T15:05:57.743443+00:00Z",
       "freq_rank": 13154
     }
   }
