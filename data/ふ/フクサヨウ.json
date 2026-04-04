@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この薬は効果が高いですが、眠気という副作用があるので注意が必要です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「えー、このサプリメントにも副作用があるの？ ちょっと心配だな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新薬の開発においては、有効性だけでなく、潜在的な副作用についても徹底的な検証が行われます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これに反してここで言うところの「映画による若返り法」はきわめて実用的に安直であり、しかもなんらの副作用や後害を及ぼす危険がないようである。",
@@ -188,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T05:14:01.237424+00:00Z",
       "freq_rank": 7402
     }
   }
