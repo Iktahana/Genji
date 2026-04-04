@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その展示会は、一流ホテルの広い会場で行われたため、場所代が高額だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奈良という侘しい古都に、薄暗い古道具屋の並んだ場末を考えるだけで寂しいのに、秋の薄暮の灯ともし頃、宵の燈火の黄色い光をイメージすると、一層情趣が侘しくなり、心の古い故郷に思慕する、或る種の切ないノスタルジアを感じさせる。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:55:25.547985+00:00Z",
       "freq_rank": 34245
     }
   }
