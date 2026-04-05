@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この研究は、現象を量的側面から分析しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "量的データに基づいて、市場の動向を予測する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は質的変化だけでなく、量的変化にも注目している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この颱風は日本で気象観測始まって以来、器械で数量的に観測されたものの中では最も顕著なものであったのみならず、それがたまたま日本の文化的施設の集中地域を通過して、云わば颱風としての最も能率の好い破壊作業を遂行した。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T10:48:01.332370+00:00Z",
       "freq_rank": 9010
     }
   }
