@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会員サイトの顧客データはハッシュ関数を利用したランダムファイルとしてサーバーに保存されており、何万人というユーザーの中から任意のレコードへ即座にアクセスできるようになっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "システムの動作履歴をただ末尾に書き足していくログファイルのような追記型とは異なり、途中のデータを書き換える必要があるランダムファイルの更新処理はプログラムが複雑になりがちだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "メモリ容量が極端に少なかった古いメインフレームのシステムでは、ディスク上の物理的な位置を直接計算して読み書きを行う、固定長のレコードを持つランダムファイルが多用されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T10:14:59.614956+00:00Z"
     }
   }
 ]

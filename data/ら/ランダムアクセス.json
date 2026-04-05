@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "従来のハードディスクと比べて、フラッシュメモリを用いたSSDはデータの物理的な位置を問わないランダムアクセスの速度が圧倒的に速い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "巨大な顧客データベースの設計において、数千万件のレコードに対するミリ秒単位での高速なランダムアクセス性能が厳しく求められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "バックアップ用の磁気テープはデータを先頭から順に読み書きするシーケンシャルアクセスには向いているが、特定のファイルを直接探すランダムアクセスは大の苦手だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T10:14:59.612743+00:00Z"
     }
   }
 ]

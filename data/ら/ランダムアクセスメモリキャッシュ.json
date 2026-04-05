@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サーバー用プロセッサの限界パフォーマンスを引き出すため、BIOS設定からランダムアクセスメモリキャッシュの細かな最適化をエンジニアが行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "演算中の一時的なデータは低速なストレージではなく高速なランダムアクセスメモリキャッシュに保存されるため、システム全体の処理速度の大幅な向上に寄与する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ユーザーから頻繁にアクセスされる小さな画像ファイルは、OSの機能によって自動的にランダムアクセスメモリキャッシュへ割り当てられ、瞬時に読み込まれるようになります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T10:14:59.613162+00:00Z"
     }
   }
 ]
