@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テキストデータを処理する際、レコード分離キャラクタで各行を分割する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "このシステムでは、レコード分離キャラクタとして、改行コードではなく特殊な制御文字を使用している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "異なるOS間でファイルを交換する際は、レコード分離キャラクタの違いが文字化けの原因になることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T11:23:38.676657+00:00Z"
     }
   }
 ]
