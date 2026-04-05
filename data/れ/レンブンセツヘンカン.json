@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語入力システムのかな漢字変換では、文脈を解析して最適な漢字を選ぶ連文節変換が重要な役割を果たす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "古いワープロは連文節変換の精度が低く、頻繁に手動で修正する必要があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "最近のAI技術の進歩により、連文節変換の能力は飛躍的に向上し、より自然な文章入力が可能になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが、ＪＸ用に開発する新しいテキストベースの製品では、文章単位でカタカナも含めて一気に変換してしまう連文節変換まで機能を拡張し、これをＡＴＯＫ３と改名することとした。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T11:42:40.307609+00:00Z"
     }
   }
 ]

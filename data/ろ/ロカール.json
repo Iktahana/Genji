@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ソフトウェアを国際化する際、日付や通貨のフォーマットを各地域のロカールに合わせて変更する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "システムの言語設定がおかしくなっていたので、ロカールの環境変数を『ja_JP.UTF-8』に設定し直した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "このアプリはユーザーの端末のロカール情報を読み取り、自動的に最適な言語で表示される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この方面の大家としては現にフランスのリヨン警察の鑑識課の主任を勤めているロカール氏が最も有名でありまして、氏によって幾多の難事件がきわめて容易に解決されましたが、それらの例は氏の最近の著書に詳しく書かれておりまして、もとよりすでに俊夫君の愛読書の一つとなっております。",
@@ -118,7 +143,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T11:55:56.889209+00:00Z"
     }
   }
 ]
