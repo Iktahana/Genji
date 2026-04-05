@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システムに新しいデータを読み込み中なので、しばらくお待ちください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "画像ファイルの読み込みに失敗し、画面に表示されない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このソフトウェアは、外部ファイルの読み込み機能が充実している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "起動時に拡張メモリ上に漢字フォントを読み込み、主メモリにテキストＶＲＡＭに相当する領域を確保する。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T09:34:26.405596+00:00Z",
       "freq_rank": 15502
     }
   }
