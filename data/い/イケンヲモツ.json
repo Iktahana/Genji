@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この問題について、彼は非常に明確な意見を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "世間一般とは少し違った意見を持っているが、筋は通っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "多様な考え方がある中で、自分なりの確固たる意見を持つことは大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芳賀博士の奇警なる御演説によると外國の者とは違ふと云ふことでございましたが、此點に於ては少し私は別な意見を持つて居ります。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:08.634879+00:00Z"
+      "updated_at": "2026-06-01T13:56:55.972529+00:00Z"
     }
   }
 ]

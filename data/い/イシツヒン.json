@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅の遺失品センターに財布を届けたところ、翌日には持ち主に連絡が入ったという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "観光客が新幹線の座席に遺失品を置き忘れ、終点の駅で一週間保管されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遺失品として届け出ていたパスポートが、ホテルの清掃員に発見されて返却された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "万年筆は、園長を館の入口で絞めあげるときに落ちたもので、それを後に何かの事情があって遺失品として届けたものであろう。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:08.752634+00:00Z",
+      "updated_at": "2026-06-01T13:57:03.262114+00:00Z",
       "frequencies": {
         "aozora": 9
       }

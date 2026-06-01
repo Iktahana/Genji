@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今朝からひどい腹痛に悩まされており、おそらく胃腸炎だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家族全員が胃腸炎にかかり、病院へ行くのも大変だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "胃腸炎が流行しているようなので、手洗いを徹底してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さらに、その翌日には食欲不振、腹痛、下痢等の胃腸炎の症状が起こった。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:09.395814+00:00Z",
+      "updated_at": "2026-06-01T14:01:17.321948+00:00Z",
       "frequencies": {
         "aozora": 2
       }

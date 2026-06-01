@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市役所の窓口に、都市開発計画に対する意見書を提出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "委員会は、専門家の意見書を参考に調査報告書を作成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "市民から寄せられた多数の意見書を、全て丁寧に検討しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはどうしても老中の許可を得なければならないので、吟味掛りの与力一同からそれぞれに意見書を呈出した。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:08.632585+00:00Z",
+      "updated_at": "2026-06-01T13:56:55.970435+00:00Z",
       "frequencies": {
         "aozora": 127
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このエスカレーターは一方向にしか動かない仕組みになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "データの送受信が一方向に制限されているため、返信はできない仕様だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "一方向の交通規制が敷かれ、ドライバーは迂回路へ誘導された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕はこうした場合に、以前にもやったように、靴を後前を逆にしてはこうかとも思ったが、しかし同一方向に三つの足跡があると云うことになると、それはもう一目瞭然に、瞞著であると云うことが看破されてしもう。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:09.332027+00:00Z",
+      "updated_at": "2026-06-01T13:59:14.405570+00:00Z",
       "freq_rank": 28610
     }
   }
