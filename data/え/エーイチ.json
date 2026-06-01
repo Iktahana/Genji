@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "印刷用紙はA1サイズでお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このポスターはA1サイズで作られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "A1の図面は大きすぎて、持ち運びが大変だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えばＡなる性格の第一行為をＡ１とすると、Ａ１からして類推のできるＡ２Ａ３Ａ４を順次に描出して行けば、全局面は無論出て来ない。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.864019+00:00Z"
+      "updated_at": "2026-06-01T21:27:54.216634+00:00Z"
     }
   }
 ]
