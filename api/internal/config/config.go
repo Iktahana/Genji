@@ -26,6 +26,8 @@ type Config struct {
 	// HeatW30 / HeatW365 は 30日 / 365日アクセス数の重み。
 	HeatW30  float64
 	HeatW365 float64
+	// HeatWFreq は log 正規化した meta.frequencies 合計の重み（コーパス頻度の下地）。
+	HeatWFreq float64
 }
 
 // Load は環境変数から Config を構築する。未設定の項目には既定値を使う。
@@ -40,6 +42,7 @@ func Load() Config {
 		HeatAggInterval: getenvDuration("GENJI_HEAT_AGG_INTERVAL", 15*time.Minute),
 		HeatW30:         getenvFloat("GENJI_HEAT_W30", 2),
 		HeatW365:        getenvFloat("GENJI_HEAT_W365", 1),
+		HeatWFreq:       getenvFloat("GENJI_HEAT_W_FREQ", 1),
 	}
 }
 
