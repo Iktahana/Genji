@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本日は品切れとなっておりますので、どうか悪しからずご了承ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ご期待に沿えない結果となり申し訳ありませんが、悪しからず。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "特別な対応はできかねますので、悪しからずご容赦ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どうか悪しからず御諒察を願います。",
@@ -293,7 +318,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:02:22.885653+00:00Z",
+      "updated_at": "2026-06-01T13:33:49.186056+00:00Z",
       "freq_rank": 40772,
       "frequencies": {
         "aozora": 37
