@@ -26,6 +26,8 @@ https://幻辞.com
 
 SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-first** な REST API を提供しています（`api/`、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
 
+**公開Endpoint: `https://dict-api.illusions.app`**
+
 | メソッド・パス | 説明 |
 |---|---|
 | `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
