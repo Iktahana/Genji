@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼とは幼い頃からの付き合いで、兄弟同然の間柄です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「失礼ですが、あちらの方とはどのような間柄でいらっしゃいますか？」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "私たちは仕事の上での付き合いであり、それ以上個人的な間柄ではありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私と緒方氏とは、ほんの二三度話合っただけの間柄ではあるが、よい小説家を、懸命に努力した人間を、よほどの不幸の場所に置いたまま、そのまま死なせてしまったという事実に就いて、かなりの苦痛を感じている。",
@@ -300,7 +325,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:41:37.429418+00:00Z",
+      "updated_at": "2026-06-01T12:49:50.376940+00:00Z",
       "freq_rank": 21289,
       "frequencies": {
         "aozora": 1175

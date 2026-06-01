@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ディスク容量は十分にあるのに、ファイルの数が多すぎてＩノードが枯渇してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "Linuxのファイルシステムで、このファイルのＩノード番号を確認するには「ls -i」コマンドを使うといい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "サーバーの障害調査中、Ｉノードの使用率が100パーセントに達していることに気付いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -48,7 +73,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:43:24.401232+00:00Z"
+      "updated_at": "2026-06-01T12:52:44.610824+00:00Z"
     }
   }
 ]

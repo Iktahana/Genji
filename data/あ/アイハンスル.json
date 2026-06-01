@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "開発部の「多機能化」という要求と、営業部の「低価格化」という相反する条件をどう両立させるかが課題だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "自由と平等という、時に相反する二つの理念について深く考えさせられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の郷閭の人々のうちには彼の学者として立つ事が彼の Lord としての生活と利害の相反することを恐れるものもあった。",
@@ -283,7 +300,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:43:24.402192+00:00Z",
+      "updated_at": "2026-06-01T12:52:44.612316+00:00Z",
       "frequencies": {
         "aozora": 173
       }
