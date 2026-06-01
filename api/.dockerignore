@@ -1,0 +1,7 @@
+bin/
+*.test
+*.out
+.git
+.gitignore
+README.md
+# genji.db は GENJI_DB_SOURCE=local 時のみ必要。remote ビルドでは無視されても問題ない。

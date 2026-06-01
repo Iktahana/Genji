@@ -53,6 +53,29 @@ https://dict-api.illusions.app/genji/entries.json?entry=雪&_shape=array
 
 詳細なクエリパラメータは [Datasette ドキュメント](https://docs.datasette.io/en/stable/json_api.html) を参照してください。
 
+#### Go / Gin API (`api/`)
+
+Datasette と並立する、Go + Gin 製の **OpenAPI-first** な REST API も提供しています（ポート 8080、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
+
+| メソッド・パス | 説明 |
+|---|---|
+| `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
+| `GET /v1/lookup/reading?reading=ゆき` | 読みの完全一致 |
+| `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索 |
+| `GET /v1/search/definitions?q=snow` | 語釈の全文検索 |
+| `GET /v1/random?count=5` | ランダム取得 |
+| `GET /v1/entries/{uuid}` | UUID で取得 |
+| `GET /v1/metadata` ・ `GET /healthz` | メタデータ・ヘルスチェック |
+| `GET /docs` | API ドキュメント（Redoc） |
+
+```bash
+docker pull ghcr.io/iktahana/genji-api:latest
+docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
+# http://localhost:8080/docs で仕様を閲覧
+```
+
+詳細は [`api/README.md`](./api/README.md) を参照してください。
+
 ### SQLite を直接使用する
 
 [Releases](/releases) ページから最新の `genji.db.gz` をダウンロードし、解凍して使用してください。

@@ -1,7 +1,30 @@
-# 幻辞 Datasette API サービス
+# 幻辞 API サービス
 services:
+  # Datasette API（既存・ポート 8001）
   api:
     build: .
     ports:
       - "8001:8001"
     restart: unless-stopped
+
+  # Go + Gin API（DB 内蔵・ポート 8080）
+  api-go:
+    build:
+      context: ./api
+      # 既定 (remote) は GitHub Releases から最新 DB を取得して内蔵する。
+      # ローカルの genji.db を埋め込みたい場合は GENJI_DB_SOURCE=local にする。
+      args:
+        GENJI_DB_SOURCE: remote
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    # Redis を使う場合は以下のコメントを外す（未設定ならキャッシュ無効で動作）。
+    # environment:
+    #   GENJI_REDIS_ADDR: "redis:6379"
+    # depends_on:
+    #   - redis
+
+  # 任意: キャッシュ用 Redis（未使用でも API は動作する）
+  # redis:
+  #   image: redis:7-alpine
+  #   restart: unless-stopped

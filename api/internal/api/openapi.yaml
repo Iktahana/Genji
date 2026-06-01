@@ -1,0 +1,488 @@
+openapi: 3.0.3
+info:
+  title: 『幻辞』 Genji API
+  description: |
+    幻辞プロジェクトの語彙データベース API（Go + Gin 実装）。約21万5千語を収録。
+    見出し語・読みの完全一致検索、全文検索（FTS5）、ランダム取得を提供する read-only API。
+  version: "1.0.0"
+  license:
+    name: MIT
+    url: https://github.com/Iktahana/Genji/blob/main/LICENSE
+  contact:
+    name: Genji
+    url: https://github.com/Iktahana/Genji
+
+servers:
+  - url: /
+    description: Genji API server
+
+tags:
+  - name: lookup
+    description: 完全一致検索
+  - name: search
+    description: 全文検索（FTS5）
+  - name: entries
+    description: エントリ取得
+  - name: system
+    description: システム情報
+
+paths:
+  /healthz:
+    get:
+      tags: [system]
+      operationId: getHealth
+      summary: ヘルスチェック
+      description: DB 接続を確認する
+      responses:
+        "200":
+          description: 正常
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Health"
+        "503":
+          description: DB 接続不可
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /v1/metadata:
+    get:
+      tags: [system]
+      operationId: getMetadata
+      summary: ビルドメタデータ取得
+      description: データベースの _metadata テーブル（バージョン・コミット・収録語数等）を返す
+      responses:
+        "200":
+          description: メタデータ
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Metadata"
+
+  /v1/entries/{uuid}:
+    get:
+      tags: [entries]
+      operationId: getEntryByUUID
+      summary: UUID でエントリ取得
+      parameters:
+        - name: uuid
+          in: path
+          required: true
+          description: エントリの UUID
+          schema:
+            type: string
+      responses:
+        "200":
+          description: エントリ
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Entry"
+        "404":
+          description: 見つからない
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /v1/lookup/entry:
+    get:
+      tags: [lookup]
+      operationId: lookupByEntry
+      summary: 見出し語で検索（完全一致）
+      parameters:
+        - name: word
+          in: query
+          required: true
+          description: 見出し語（漢字・カタカナ等）
+          schema:
+            type: string
+      responses:
+        "200":
+          description: 一致したエントリ一覧
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EntryList"
+
+  /v1/lookup/reading:
+    get:
+      tags: [lookup]
+      operationId: lookupByReading
+      summary: 読みで検索（完全一致）
+      parameters:
+        - name: reading
+          in: query
+          required: true
+          description: 読み（ひらがな・カタカナ）
+          schema:
+            type: string
+      responses:
+        "200":
+          description: 一致したエントリ一覧
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EntryList"
+
+  /v1/search/entries:
+    get:
+      tags: [search]
+      operationId: searchEntries
+      summary: 見出し語・読みを全文検索
+      description: 見出し語または読みを FTS5 で検索する
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: 検索クエリ
+          schema:
+            type: string
+        - name: limit
+          in: query
+          required: false
+          description: 取得件数の上限
+          schema:
+            type: integer
+            default: 50
+            minimum: 1
+            maximum: 200
+      responses:
+        "200":
+          description: 検索結果
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SearchResultList"
+
+  /v1/search/definitions:
+    get:
+      tags: [search]
+      operationId: searchDefinitions
+      summary: 語釈を全文検索
+      description: 語釈（gloss）を FTS5 で検索する
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: 検索クエリ（英語の語釈にマッチ）
+          schema:
+            type: string
+        - name: limit
+          in: query
+          required: false
+          description: 取得件数の上限
+          schema:
+            type: integer
+            default: 50
+            minimum: 1
+            maximum: 200
+      responses:
+        "200":
+          description: 検索結果
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DefinitionSearchResultList"
+
+  /v1/random:
+    get:
+      tags: [entries]
+      operationId: randomEntries
+      summary: ランダムな語を取得
+      parameters:
+        - name: count
+          in: query
+          required: false
+          description: 取得件数
+          schema:
+            type: integer
+            default: 5
+            minimum: 1
+            maximum: 100
+      responses:
+        "200":
+          description: ランダムなエントリ一覧
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EntryList"
+
+components:
+  schemas:
+    Error:
+      type: object
+      required: [code, message]
+      properties:
+        code:
+          type: integer
+          example: 404
+        message:
+          type: string
+          example: "entry not found"
+
+    Health:
+      type: object
+      required: [status]
+      properties:
+        status:
+          type: string
+          example: "ok"
+        cache:
+          type: string
+          description: キャッシュの状態（enabled / disabled）
+          example: "disabled"
+
+    Metadata:
+      type: object
+      description: _metadata テーブルの内容
+      properties:
+        version:
+          type: string
+        commit:
+          type: string
+        commit_short:
+          type: string
+        branch:
+          type: string
+        repository:
+          type: string
+        build_date:
+          type: string
+        entry_count:
+          type: string
+
+    Reading:
+      type: object
+      properties:
+        primary:
+          type: string
+          nullable: true
+        alternatives:
+          type: array
+          items:
+            type: string
+        is_heteronym:
+          type: boolean
+
+    Grammar:
+      type: object
+      properties:
+        pos:
+          type: array
+          items:
+            type: string
+        ctype:
+          type: string
+          nullable: true
+        inflections:
+          nullable: true
+          description: 活用情報（任意の JSON）
+
+    Citation:
+      type: object
+      properties:
+        source:
+          type: string
+          nullable: true
+        author:
+          type: string
+          nullable: true
+        note:
+          type: string
+          nullable: true
+
+    Example:
+      type: object
+      properties:
+        text:
+          type: string
+        citation:
+          $ref: "#/components/schemas/Citation"
+
+    Examples:
+      type: object
+      properties:
+        standard:
+          type: array
+          items:
+            $ref: "#/components/schemas/Example"
+        literary:
+          type: array
+          items:
+            $ref: "#/components/schemas/Example"
+
+    SensoryTags:
+      type: object
+      properties:
+        colors:
+          type: array
+          items:
+            type: string
+        temperature:
+          type: string
+          nullable: true
+        sounds:
+          type: array
+          items:
+            type: string
+        emotions:
+          type: array
+          items:
+            type: string
+
+    Definition:
+      type: object
+      properties:
+        index:
+          type: integer
+        gloss:
+          type: string
+          nullable: true
+        register:
+          type: string
+          nullable: true
+        nuance:
+          type: string
+          nullable: true
+        scenarios:
+          type: array
+          items:
+            type: string
+        sensory_tags:
+          $ref: "#/components/schemas/SensoryTags"
+        collocations:
+          type: array
+          items:
+            type: string
+        examples:
+          $ref: "#/components/schemas/Examples"
+
+    Relations:
+      type: object
+      properties:
+        homophones:
+          type: array
+          items:
+            type: string
+        synonyms:
+          type: array
+          items:
+            type: string
+        antonyms:
+          type: array
+          items:
+            type: string
+        related:
+          type: array
+          items:
+            type: string
+
+    EntryMeta:
+      type: object
+      properties:
+        version:
+          type: string
+        source:
+          type: string
+        updated_at:
+          type: string
+
+    Entry:
+      type: object
+      required: [uuid, entry]
+      properties:
+        uuid:
+          type: string
+        entry:
+          type: string
+        reading:
+          $ref: "#/components/schemas/Reading"
+        grammar:
+          $ref: "#/components/schemas/Grammar"
+        definitions:
+          type: array
+          items:
+            $ref: "#/components/schemas/Definition"
+        relations:
+          $ref: "#/components/schemas/Relations"
+        meta:
+          $ref: "#/components/schemas/EntryMeta"
+
+    EntryList:
+      type: object
+      required: [count, entries]
+      properties:
+        count:
+          type: integer
+        entries:
+          type: array
+          items:
+            $ref: "#/components/schemas/Entry"
+
+    SearchResult:
+      type: object
+      required: [uuid, entry]
+      properties:
+        uuid:
+          type: string
+        entry:
+          type: string
+        reading_primary:
+          type: string
+          nullable: true
+        pos:
+          type: array
+          items:
+            type: string
+        match_highlight:
+          type: string
+          description: マッチ箇所のハイライト（<b> タグ付き）
+
+    SearchResultList:
+      type: object
+      required: [count, results]
+      properties:
+        count:
+          type: integer
+        query:
+          type: string
+        results:
+          type: array
+          items:
+            $ref: "#/components/schemas/SearchResult"
+
+    DefinitionSearchResult:
+      type: object
+      required: [uuid, entry]
+      properties:
+        uuid:
+          type: string
+        entry:
+          type: string
+        reading_primary:
+          type: string
+          nullable: true
+        gloss:
+          type: string
+          nullable: true
+        def_index:
+          type: integer
+        match_highlight:
+          type: string
+          description: マッチ箇所のハイライト（<b> タグ付き）
+
+    DefinitionSearchResultList:
+      type: object
+      required: [count, results]
+      properties:
+        count:
+          type: integer
+        query:
+          type: string
+        results:
+          type: array
+          items:
+            $ref: "#/components/schemas/DefinitionSearchResult"
