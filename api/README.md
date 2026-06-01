@@ -17,8 +17,10 @@ read-only な API で、単一の `genji.db`（SQLite + FTS5）を参照する�
 | `GET /v1/search/entries` | 見出し語・読みの全文検索（FTS5） | query: `q`（必須）, `limit`（既定50, 上限200） |
 | `GET /v1/search/definitions` | 語釈(gloss)の全文検索（FTS5） | query: `q`（必須）, `limit`（既定50, 上限200） |
 | `GET /v1/random` | ランダム取得 | query: `count`（既定5, 上限100） |
+| `GET /v1/sitemap` | 全語彙を熱度順にページング | query: `page`（既定1）, `page_size`（既定1000, 上限50000） |
 | `GET /openapi.yaml` | OpenAPI 仕様（バイナリ同梱） | — |
 | `GET /docs` | API ドキュメント（Redoc） | — |
+| `GET /robots.txt` | クローラ拒否（前端へ誘導） | — |
 
 ### リクエスト例
 
@@ -63,9 +65,12 @@ API 仕様の全体はサーバー起動後にブラウザで `http://localhost:
 | `GENJI_REDIS_PASSWORD` | （空） | Redis パスワード |
 | `GENJI_REDIS_DB` | `0` | Redis DB 番号 |
 | `GENJI_CACHE_TTL` | `1h` | キャッシュ TTL（`time.ParseDuration` 形式、例 `30m`） |
+| `GENJI_HEAT_AGG_INTERVAL` | `15m` | 熱度ランキングの集計間隔 |
+| `GENJI_HEAT_W30` | `2` | 直近30日アクセス数の重み |
+| `GENJI_HEAT_W365` | `1` | 直近365日アクセス数の重み |
 
-> **キャッシュは任意**。`GENJI_REDIS_ADDR` が未設定、または Redis に接続できない場合は
-> 自動的にキャッシュ無効（Noop）で動作する。API の可用性は Redis に依存しない。
+> **キャッシュ・熱度は任意**。`GENJI_REDIS_ADDR` が未設定、または Redis に接続できない場合は
+> キャッシュ無効・熱度無効（sitemap は DB 順フォールバック）で動作する。API の可用性は Redis に依存しない。
 
 ## キャッシュの仕組み
 
@@ -112,6 +117,44 @@ read-only な辞書 API なので、クエリ結果を Redis にキャッシュ�
 即時反映したい場合は、TTL を短くするか、デプロイ時に Redis をフラッシュする。
 キーは `genji:v1:` プレフィックスで名前空間化されているため、`redis-cli --scan --pattern 'genji:v1:*'` で
 まとめて確認・削除できる。
+
+> なお `GET /v1/sitemap` の各ページも短 TTL（`min(GENJI_CACHE_TTL, 集計間隔)`）でキャッシュされる
+> （キー `genji:v1:sitemap:{page_size}:{page}`）。
+
+## 熱度ランキング（sitemap）
+
+`GET /v1/sitemap` は前端の sitemap 生成用に、**全収録語彙を熱度（人気度）の降順**でページングして返す。
+熱度はアクセス数を Redis でカウントして算出する（`internal/heat`）。
+
+### 熱度の定義
+
+```
+heat = GENJI_HEAT_W30 × (直近30日のアクセス数) + GENJI_HEAT_W365 × (直近365日のアクセス数)
+     = 2 × c30 + 1 × c365   （既定）
+```
+
+- 365日窓は30日窓を**含む**。よって直近30日のアクセスは実質 3 倍、31〜365日は 1 倍。
+- 「アクセス」としてカウントするのは `GET /v1/entries/{uuid}` / `GET /v1/lookup/entry` / `GET /v1/lookup/reading`
+  で**返った各語の uuid**（検索結果は対象外）。記録は非同期・ベストエフォート。
+
+### Redis データモデルと集計
+
+| キー | 用途 |
+|---|---|
+| `genji:hits:day:{YYYYMMDD}` | その日の語ごとのアクセス数（ZSET, TTL 366日） |
+| `genji:entries:all` | 全 uuid を 0 点で保持する土台（起動時に DB から seed） |
+| `genji:heat:index` | 集計済みランキング（ZSET, uuid→heat）。sitemap が `ZREVRANGE` で読む |
+
+- バックグラウンドで `GENJI_HEAT_AGG_INTERVAL`（既定 15分）ごとに集計：
+  直近30日 / 365日の day キーを `ZUNIONSTORE` で合算し、重み付けして `genji:heat:index` を再構築する。
+- 多重インスタンスでの重複集計は `genji:heat:agg:lock`（SETNX）で防ぐ。
+- DB バージョン（`_metadata.version`）が変わると `genji:entries:all` を再 seed する。
+
+### Redis 無効時のフォールバック
+
+`GENJI_REDIS_ADDR` 未設定・接続失敗時は、`/v1/sitemap` は DB の安定順
+（`freq_rank` 昇順 → 見出し語順）で全件をページングし、`heat` は `null` を返す。
+エンドポイント自体は常に動作する。
 
 ## ローカル開発
 

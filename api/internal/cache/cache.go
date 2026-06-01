@@ -10,6 +10,8 @@ import (
 	"time"
 
 	"github.com/redis/go-redis/v9"
+
+	"github.com/Iktahana/Genji/api/internal/redisx"
 )
 
 // Cache はキャッシュの抽象。
@@ -34,7 +36,8 @@ func (NoopCache) Close() error                                      { return nil
 
 // RedisCache は Redis を使う実装。
 type RedisCache struct {
-	client *redis.Client
+	client     *redis.Client
+	ownsClient bool // true なら Close() で client を閉じる
 }
 
 func (c *RedisCache) Get(ctx context.Context, key string) ([]byte, bool) {
@@ -53,32 +56,33 @@ func (c *RedisCache) Set(ctx context.Context, key string, val []byte, ttl time.D
 
 func (c *RedisCache) Enabled() bool { return true }
 
-func (c *RedisCache) Close() error { return c.client.Close() }
+func (c *RedisCache) Close() error {
+	if c.ownsClient {
+		return c.client.Close()
+	}
+	return nil
+}
 
-// New はキャッシュを構築する。
+// New は自前で Redis に接続してキャッシュを構築する（client を所有し Close で閉じる）。
 //
-// addr が空なら NoopCache を返す。addr 指定時は接続して PING を試み、
-// 失敗した場合はエラーで落とさず NoopCache にフォールバックする。
+// addr が空、または接続失敗時はエラーで落とさず NoopCache にフォールバックする。
 func New(addr, password string, db int) Cache {
-	if addr == "" {
-		log.Println("cache: disabled (GENJI_REDIS_ADDR not set)")
+	client := redisx.Connect(addr, password, db)
+	if client == nil {
 		return NoopCache{}
 	}
+	return &RedisCache{client: client, ownsClient: true}
+}
 
-	client := redis.NewClient(&redis.Options{
-		Addr:     addr,
-		Password: password,
-		DB:       db,
-	})
-
-	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Second)
-	defer cancel()
-	if err := client.Ping(ctx).Err(); err != nil {
-		log.Printf("cache: redis ping failed (%v), falling back to disabled cache", err)
-		_ = client.Close()
+// NewWithClient は既存の共有 Redis クライアントからキャッシュを構築する。
+//
+// client が nil なら NoopCache を返す。client の Close は呼び出し側が管理する
+// （Close() は何もしない）。
+func NewWithClient(client *redis.Client) Cache {
+	if client == nil {
+		log.Println("cache: disabled (no redis client)")
 		return NoopCache{}
 	}
-
-	log.Printf("cache: enabled (redis %s db=%d)", addr, db)
-	return &RedisCache{client: client}
+	log.Println("cache: enabled")
+	return &RedisCache{client: client, ownsClient: false}
 }

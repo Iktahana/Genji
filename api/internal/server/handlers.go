@@ -5,23 +5,26 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"math"
 	"time"
 
 	"github.com/Iktahana/Genji/api/internal/api"
 	"github.com/Iktahana/Genji/api/internal/cache"
+	"github.com/Iktahana/Genji/api/internal/heat"
 	"github.com/Iktahana/Genji/api/internal/store"
 )
 
-// Handler は StrictServerInterface の実装。store と cache を保持する。
+// Handler は StrictServerInterface の実装。store・cache・heat を保持する。
 type Handler struct {
 	store *store.Store
 	cache cache.Cache
+	heat  heat.Service
 	ttl   time.Duration
 }
 
 // NewHandler は Handler を生成する。
-func NewHandler(s *store.Store, c cache.Cache, ttl time.Duration) *Handler {
-	return &Handler{store: s, cache: c, ttl: ttl}
+func NewHandler(s *store.Store, c cache.Cache, h heat.Service, ttl time.Duration) *Handler {
+	return &Handler{store: s, cache: c, heat: h, ttl: ttl}
 }
 
 // 確実に StrictServerInterface を満たすことをコンパイル時に保証する。
@@ -79,6 +82,7 @@ func (h *Handler) GetEntryByUUID(ctx context.Context, request api.GetEntryByUUID
 	if err != nil {
 		return nil, err
 	}
+	h.heat.Hit(e.Uuid)
 	return api.GetEntryByUUID200JSONResponse(e), nil
 }
 
@@ -94,6 +98,7 @@ func (h *Handler) LookupByEntry(ctx context.Context, request api.LookupByEntryRe
 	if err != nil {
 		return nil, err
 	}
+	h.heat.Hit(entryUUIDs(list.Entries)...)
 	return api.LookupByEntry200JSONResponse(list), nil
 }
 
@@ -109,6 +114,7 @@ func (h *Handler) LookupByReading(ctx context.Context, request api.LookupByReadi
 	if err != nil {
 		return nil, err
 	}
+	h.heat.Hit(entryUUIDs(list.Entries)...)
 	return api.LookupByReading200JSONResponse(list), nil
 }
 
@@ -156,6 +162,106 @@ func (h *Handler) RandomEntries(_ context.Context, request api.RandomEntriesRequ
 		return nil, err
 	}
 	return api.RandomEntries200JSONResponse(api.EntryList{Count: len(entries), Entries: entries}), nil
+}
+
+// GetSitemap は全収録語彙を熱度降順でページングして返す。
+// Redis 有効時は heat ランキング、無効時は freq_rank→見出し語の安定順（heat=null）。
+func (h *Handler) GetSitemap(ctx context.Context, request api.GetSitemapRequestObject) (api.GetSitemapResponseObject, error) {
+	page := clamp(request.Params.Page, 1, 1, math.MaxInt32)
+	size := clamp(request.Params.PageSize, 1000, 1, 50000)
+	offset := (page - 1) * size
+
+	// heat はゆっくり更新されるため、ページ結果は短 TTL でキャッシュする。
+	key := "genji:v1:sitemap:" + itoa(size) + ":" + itoa(page)
+	out, err := cached(ctx, h, key, func() (api.SitemapPage, error) {
+		return h.buildSitemap(ctx, page, size, offset)
+	})
+	if err != nil {
+		return nil, err
+	}
+	return api.GetSitemap200JSONResponse(out), nil
+}
+
+func (h *Handler) buildSitemap(ctx context.Context, page, size, offset int) (api.SitemapPage, error) {
+	var (
+		items []api.SitemapItem
+		total int
+	)
+
+	if h.heat.Enabled() {
+		ranked, t, err := h.heat.Page(ctx, offset, size)
+		if err != nil {
+			return api.SitemapPage{}, err
+		}
+		total = t
+		uuids := make([]string, len(ranked))
+		for i, r := range ranked {
+			uuids[i] = r.UUID
+		}
+		rows, err := h.store.SitemapByUUIDs(uuids)
+		if err != nil {
+			return api.SitemapPage{}, err
+		}
+		// ランキングの順序を維持して組み立てる。
+		items = make([]api.SitemapItem, 0, len(ranked))
+		for _, r := range ranked {
+			row, ok := rows[r.UUID]
+			if !ok {
+				continue // DB に無い uuid（バージョン差異等）はスキップ
+			}
+			heatVal := r.Heat
+			items = append(items, api.SitemapItem{
+				Uuid:           row.UUID,
+				Entry:          row.Entry,
+				ReadingPrimary: row.ReadingPrimary,
+				UpdatedAt:      row.UpdatedAt,
+				Heat:           &heatVal,
+			})
+		}
+	} else {
+		t, err := h.store.CountEntries()
+		if err != nil {
+			return api.SitemapPage{}, err
+		}
+		total = t
+		rows, err := h.store.SitemapByFreq(size, offset)
+		if err != nil {
+			return api.SitemapPage{}, err
+		}
+		items = make([]api.SitemapItem, 0, len(rows))
+		for _, row := range rows {
+			items = append(items, api.SitemapItem{
+				Uuid:           row.UUID,
+				Entry:          row.Entry,
+				ReadingPrimary: row.ReadingPrimary,
+				UpdatedAt:      row.UpdatedAt,
+				Heat:           nil,
+			})
+		}
+	}
+
+	totalPages := 0
+	if size > 0 {
+		totalPages = (total + size - 1) / size
+	}
+	return api.SitemapPage{
+		Page:       page,
+		PageSize:   size,
+		Total:      total,
+		TotalPages: totalPages,
+		Items:      items,
+	}, nil
+}
+
+// entryUUIDs は entry スライスから uuid を抽出する（heat カウント用）。
+func entryUUIDs(entries []api.Entry) []string {
+	ids := make([]string, 0, len(entries))
+	for _, e := range entries {
+		if e.Uuid != "" {
+			ids = append(ids, e.Uuid)
+		}
+	}
+	return ids
 }
 
 // clamp は *int の値を [min, max] に収める。nil なら def を使う。

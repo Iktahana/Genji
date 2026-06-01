@@ -271,3 +271,113 @@ func sanitizeFTS(q string) string {
 	}
 	return strings.Join(quoted, " ")
 }
+
+// SitemapRow は sitemap 用の軽量な語彙行。Heat は呼び出し側（heat 連携）で設定する。
+type SitemapRow struct {
+	UUID           string
+	Entry          string
+	ReadingPrimary *string
+	UpdatedAt      *string
+	Heat           *float64
+}
+
+// CountEntries は収録語彙の総数を返す。
+func (s *Store) CountEntries() (int, error) {
+	var n int
+	err := s.db.QueryRow(`SELECT COUNT(*) FROM entries`).Scan(&n)
+	return n, err
+}
+
+// AllUUIDs は全エントリの uuid を返す（heat ランキングの土台 seed 用）。
+func (s *Store) AllUUIDs() ([]string, error) {
+	rows, err := s.db.Query(`SELECT uuid FROM entries`)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	uuids := make([]string, 0, 1024)
+	for rows.Next() {
+		var u string
+		if err := rows.Scan(&u); err != nil {
+			return nil, err
+		}
+		uuids = append(uuids, u)
+	}
+	return uuids, rows.Err()
+}
+
+// SitemapByUUIDs は指定 uuid 群の sitemap 行を取得する（順序は呼び出し側で復元する）。
+func (s *Store) SitemapByUUIDs(uuids []string) (map[string]SitemapRow, error) {
+	out := make(map[string]SitemapRow, len(uuids))
+	if len(uuids) == 0 {
+		return out, nil
+	}
+	placeholders := strings.TrimSuffix(strings.Repeat("?,", len(uuids)), ",")
+	args := make([]any, len(uuids))
+	for i, u := range uuids {
+		args[i] = u
+	}
+	query := `SELECT uuid, entry, reading_primary, json_extract(meta, '$.updated_at')
+	          FROM entries WHERE uuid IN (` + placeholders + `)`
+	rows, err := s.db.Query(query, args...)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var (
+			r       SitemapRow
+			reading sql.NullString
+			updated sql.NullString
+		)
+		if err := rows.Scan(&r.UUID, &r.Entry, &reading, &updated); err != nil {
+			return nil, err
+		}
+		if reading.Valid {
+			r.ReadingPrimary = &reading.String
+		}
+		if updated.Valid {
+			r.UpdatedAt = &updated.String
+		}
+		out[r.UUID] = r
+	}
+	return out, rows.Err()
+}
+
+// SitemapByFreq は Redis 無効時のフォールバック。freq_rank 昇順（無いものは後ろ）→ 見出し語順で返す。
+func (s *Store) SitemapByFreq(limit, offset int) ([]SitemapRow, error) {
+	rows, err := s.db.Query(`
+		SELECT uuid, entry, reading_primary,
+		       json_extract(meta, '$.updated_at') AS updated_at,
+		       CAST(json_extract(meta, '$.freq_rank') AS INTEGER) AS freq
+		FROM entries
+		ORDER BY (freq IS NULL), freq ASC, entry ASC
+		LIMIT ? OFFSET ?`, limit, offset)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	out := make([]SitemapRow, 0, limit)
+	for rows.Next() {
+		var (
+			r       SitemapRow
+			reading sql.NullString
+			updated sql.NullString
+			freq    sql.NullInt64
+		)
+		if err := rows.Scan(&r.UUID, &r.Entry, &reading, &updated, &freq); err != nil {
+			return nil, err
+		}
+		if reading.Valid {
+			r.ReadingPrimary = &reading.String
+		}
+		if updated.Valid {
+			r.UpdatedAt = &updated.String
+		}
+		out = append(out, r)
+	}
+	return out, rows.Err()
+}

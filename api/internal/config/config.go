@@ -14,23 +14,32 @@ type Config struct {
 	// Port は HTTP リッスンポート。
 	Port string
 
-	// RedisAddr が空ならキャッシュ無効（Noop）。
+	// RedisAddr が空ならキャッシュ・熱度集計とも無効（Noop）。
 	RedisAddr     string
 	RedisPassword string
 	RedisDB       int
 	// CacheTTL はキャッシュ項目の有効期限。
 	CacheTTL time.Duration
+
+	// HeatAggInterval は熱度ランキングの集計間隔。
+	HeatAggInterval time.Duration
+	// HeatW30 / HeatW365 は 30日 / 365日アクセス数の重み。
+	HeatW30  float64
+	HeatW365 float64
 }
 
 // Load は環境変数から Config を構築する。未設定の項目には既定値を使う。
 func Load() Config {
 	return Config{
-		DBPath:        getenv("GENJI_DB_PATH", "genji.db"),
-		Port:          getenv("PORT", "8080"),
-		RedisAddr:     os.Getenv("GENJI_REDIS_ADDR"),
-		RedisPassword: os.Getenv("GENJI_REDIS_PASSWORD"),
-		RedisDB:       getenvInt("GENJI_REDIS_DB", 0),
-		CacheTTL:      getenvDuration("GENJI_CACHE_TTL", time.Hour),
+		DBPath:          getenv("GENJI_DB_PATH", "genji.db"),
+		Port:            getenv("PORT", "8080"),
+		RedisAddr:       os.Getenv("GENJI_REDIS_ADDR"),
+		RedisPassword:   os.Getenv("GENJI_REDIS_PASSWORD"),
+		RedisDB:         getenvInt("GENJI_REDIS_DB", 0),
+		CacheTTL:        getenvDuration("GENJI_CACHE_TTL", time.Hour),
+		HeatAggInterval: getenvDuration("GENJI_HEAT_AGG_INTERVAL", 15*time.Minute),
+		HeatW30:         getenvFloat("GENJI_HEAT_W30", 2),
+		HeatW365:        getenvFloat("GENJI_HEAT_W365", 1),
 	}
 }
 
@@ -45,6 +54,15 @@ func getenvInt(key string, def int) int {
 	if v := os.Getenv(key); v != "" {
 		if n, err := strconv.Atoi(v); err == nil {
 			return n
+		}
+	}
+	return def
+}
+
+func getenvFloat(key string, def float64) float64 {
+	if v := os.Getenv(key); v != "" {
+		if f, err := strconv.ParseFloat(v, 64); err == nil {
+			return f
 		}
 	}
 	return def
