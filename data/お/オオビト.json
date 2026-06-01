@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の伝説に登場する大人は、一歩で川を渡れるほどの体躯を持つと語られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "昔話には、山を越えてやってきた大人が村人たちを脅かす場面がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子供たちは洞窟の奥に大人が住んでいるという噂を信じ、近づかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大人となつた今日でさへ、さうした悲運はやみはせぬ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.035332+00:00Z",
+      "updated_at": "2026-06-01T22:10:15.561007+00:00Z",
       "freq_rank": 1260,
       "frequencies": {
         "aozora": 4400

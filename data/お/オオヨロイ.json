@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武士が馬上で大鎧を着こなしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大鎧の重さは今の鎧の倍以上ある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国宝に指定された大鎧が博物館に展示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "で、本文通り、黒革縅の大鎧、樹蔭に沈んだ色ながら鎧の袖は颯爽として、長刀を軽くついて、少し屈みかかった広い胸に、兵の柄のしなうような、智と勇とが満ちて見える。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.164386+00:00Z",
+      "updated_at": "2026-06-01T22:08:19.447065+00:00Z",
       "frequencies": {
         "aozora": 23
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "倉庫の奥から、使い古された大きな大鋸が発見された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の木こりは、この重い大鋸を一人で使いこなしていたそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "丸太を切るために、大鋸を使って二人掛かりで作業を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その木挽の与吉は、朝から晩まで、同じことをして木を挽いて居る、黙って大鋸を以て巨材の許に跪いて、そして仰いで礼拝する如く、上から挽きおろし、挽きおろす。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.331767+00:00Z",
+      "updated_at": "2026-06-01T22:12:57.445068+00:00Z",
       "frequencies": {
         "aozora": 34
       }

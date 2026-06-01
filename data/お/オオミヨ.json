@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この繁栄の時代は皇帝の大御代によってもたらされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大御代が続く限り、国民は安心して生活できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歴史の記録には、この大御代における数々の功績が記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "反歌大御代の多摩の酒屋の門櫓酒の香さびて名も古りにけり西多摩の山の酒屋の鉾杉は三もと五もと青き鉾杉餅搗きの歌武蔵野や多摩のみなかみ、御嶽道払沢の口、春浅き日南のそとに、餅搗くや爺は杵とり、臼のべや婆は手に捏ね、ぽたらことのどに対ひぬ、ぽたらこよゆるにとめぐる。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.105295+00:00Z",
+      "updated_at": "2026-06-01T22:07:21.601277+00:00Z",
       "frequencies": {
         "aozora": 22
       }

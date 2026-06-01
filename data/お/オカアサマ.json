@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お母様には、入学式の際にお世話になり大変感謝しております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "友人の家に招かれた時、上品なお母様が丁寧に出迎えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お母様が作ってくださった料理は、いつも格別な味がする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私たち二人は、今から、あの大きな船の真正面に在る高い崖の上に登って、お父様や、お母様や、救いに来て下さる水夫さん達によく見えるように、シッカリと抱き合ったまま、深い淵の中に身を投げて死にます。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.188460+00:00Z",
+      "updated_at": "2026-06-01T22:10:12.246949+00:00Z",
       "freq_rank": 17627,
       "frequencies": {
         "aozora": 1624
