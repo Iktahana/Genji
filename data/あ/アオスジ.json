@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は怒りのあまり、こめかみにぴくぴくと青筋を立てていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "重い荷物を持ち上げようと力を入れると、腕に青筋が浮き出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「そんなに青筋を立てて怒らなくてもいいじゃないか」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何にせよ恵比寿講の帳合いと言うたなら、一文二文の間違いにも青筋を立てて算盤を弾き合うような吝垂れた金持連中の寄合の事で御座いますけに仮令、仕事が夜通しがかりになったにしても、出て来るものは漬物にお茶か、せいぜい握飯ぐらいで、それでもペコペコと頭を下げてお礼を言うて帰るのが普通で御座います。",
@@ -291,7 +316,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:47:28.303863+00:00Z",
+      "updated_at": "2026-06-01T12:59:44.515072+00:00Z",
       "frequencies": {
         "aozora": 180
       }

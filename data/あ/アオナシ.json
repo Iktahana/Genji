@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "デザートに出された青梨は、シャリシャリとした食感でとても甘い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山で見つけた野生の青梨をかじってみたが、まだ酸っぱくて硬かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この青梨は二十世紀梨という品種で、鳥取の名産なんだよ」と教わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "枝にある仏蘭西の青梨は薄紅く色づいたのが沢山生り下っていたばかりでは無く、どうかすると熟した果実は秋風に揺れて、まるで石でも落ちるように彼の足許へ落ちるのもあった。",
@@ -136,7 +161,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:47:43.489816+00:00Z",
+      "updated_at": "2026-06-01T13:00:30.813445+00:00Z",
       "frequencies": {
         "aozora": 11
       }

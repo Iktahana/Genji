@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンピュータが普及する前、オフィスでは重厚なアカウンティングマシンが帳簿作成に活躍していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "博物館には、初期の事務効率化を支えた手回し式の古いアカウンティングマシンが展示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父は昔、アカウンティングマシンを操作して正確に数字を弾き出す職人として働いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:48:29.413478+00:00Z"
+      "updated_at": "2026-06-01T13:02:53.232262+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パスワードを何度も入力ミスしたため、アカウントロックアウトがかかって操作不能になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "不正アクセスを防ぐために、3回の試行失敗で自動的にアカウントロックアウトする設定にしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「アカウントロックアウトを解除するには、管理者に身分証明書を提示して再発行を依頼してください」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:48:29.415681+00:00Z"
+      "updated_at": "2026-06-01T13:02:53.235236+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東京湾で青潮が発生し、沿岸に異臭が漂った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ニュースで、青潮によって多くの魚が死んでいる映像が流れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "青潮が起きると、海の色が乳白色の青緑色に変化することがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "月の影、川風、思、画堂、青潮、水の音、初夏、中津川、ほたる、杜鵑……これはと思ふ心地よき題もなきに、我まづ聊かひるみたれど、稚なきものも交れる今宵なればと、人々心したりと見ゆ。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:47:28.299779+00:00Z",
+      "updated_at": "2026-06-01T12:59:44.510606+00:00Z",
       "frequencies": {
         "aozora": 5
       }
