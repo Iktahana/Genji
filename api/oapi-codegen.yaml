@@ -1,0 +1,10 @@
+# oapi-codegen 設定: OpenAPI 仕様から Gin サーバー + 型を生成する
+package: api
+output: genji.gen.go
+generate:
+  models: true
+  gin-server: true
+  strict-server: true
+  embedded-spec: false
+output-options:
+  skip-prune: false
