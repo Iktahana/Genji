@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "町外れにある古い漆屋で職人を探している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "漆屋の店先には、美しい工芸品が並んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "漆器の修理を依頼しに漆屋へ行く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いろいろに手を尽して詮索した末に、越智の家の子孫は博多へ流れて行って、今では巴屋という漆屋になっていることを突きとめた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.189515+00:00Z",
+      "updated_at": "2026-06-01T16:57:03.787092+00:00Z",
       "frequencies": {
         "aozora": 1
       }
