@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オランダのウィンドミルは観光地として有名である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウィンドミルは風を利用して穀物を挽く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古いウィンドミルが歴史的建造物として保存されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ハム・ヤードで死んだ女の子とグレイト・ウィンドミル・ストリートで死んだ女の子はブロード・ストリート、デュフールズ・プレイスの学校に通っており、このポンプの水を飲む習慣があり、ネイラーズ・ヤードからの子供その他はこの学校およびブロード・ストリートに近いその他の学校に通っていた。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.388766+00:00Z",
+      "updated_at": "2026-06-01T14:41:16.846331+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物語の一部分を読んで、結末が気になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "壁の一部分が剥がれてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "機械の一部分を修理する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空には、晴れた空の一部分に黒い濃い雲形定規のやうな雲があつて、一寸欠け初めたばかりの月が、みえたり隠くれたり、可なり威勢よく渡れ亙つてゆくのが見られた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:09.326271+00:00Z",
+      "updated_at": "2026-06-01T13:59:08.444303+00:00Z",
       "freq_rank": 12747,
       "frequencies": {
         "aozora": 1937

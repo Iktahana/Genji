@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古文書の一巻を丁寧に広げると、かすかに墨の香りが漂ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この絵巻物の一巻には、平安貴族の日常が細密に描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "書庫の奥から源氏物語の一巻が発見されたというニュースが流れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此の我々の感性に近いもの、寧ろ民謡でさへある殉情詩が、此の殉情的な国で、今迄読まれなかつたなぞといふことは不思議だと、今度此の全集の第一巻が出た後では、諸君も必ずやさうお思ひになることと思ひます。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:09.342446+00:00Z",
+      "updated_at": "2026-06-01T13:59:14.412499+00:00Z",
       "freq_rank": 37675,
       "frequencies": {
         "aozora": 157

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "展望台に上がると、眼下に広がる市街地を一望することができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "山頂に立つと、雲の切れ間から平野を一望できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "屋上テラスから港の全景を一望しながら、ゆっくりコーヒーを飲んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一望千里の滿洲の赤土の原、あかあかと夕燒にてらされ、ひとり馬で歩いて居る猫背の乃木將軍のすがたが、この眼に見えるのだ。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:09.335558+00:00Z",
+      "updated_at": "2026-06-01T13:59:14.406696+00:00Z",
       "freq_rank": 19843,
       "frequencies": {
         "aozora": 345
