@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に赤蟻の巣ができたので殺虫剤を使った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤蟻に刺されると腫れることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "黒蟻よりも赤蟻の方が多く見かける地域もある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "へんな書き置きみたいなものを残して行きましたが、それがまた何とも不愉快、あなたはユダヤ人だったのですね、はじめてわかりました、虫にたとえると、赤蟻です、と書いてあるのです。",
@@ -200,7 +225,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:48:15.135045+00:00Z",
+      "updated_at": "2026-06-01T13:03:31.584789+00:00Z",
       "frequencies": {
         "aozora": 21
       }

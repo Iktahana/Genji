@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅の売店には、赤新聞がゴシップ記事で埋め尽くされていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その有名人のスキャンダルは、赤新聞の一面に大きく報道された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の赤新聞は、現在のタブロイド紙のような役割を果たしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……赤新聞と言うのは唯今でもどこかにある……土地の、その新聞は紙が青かった。",
@@ -234,7 +259,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:49:27.004353+00:00Z",
+      "updated_at": "2026-06-01T13:04:36.137408+00:00Z",
       "frequencies": {
         "aozora": 24
       }
