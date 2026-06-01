@@ -1,6 +1,6 @@
 // Package store は genji.db (SQLite + FTS5) への read-only アクセスを提供する。
 //
-// Datasette の metadata.yml に定義された canned query を Go に移植したもの。
+// 見出し語・読みの完全一致、FTS5 全文検索、ランダム取得などのクエリを提供する。
 package store
 
 import (

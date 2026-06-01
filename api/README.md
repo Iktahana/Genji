@@ -3,8 +3,7 @@
 幻辞プロジェクトの語彙データベース（約21万5千語）を提供する REST API の Go 実装。
 **OpenAPI-first**（[`openapi.yaml`](./openapi.yaml) を真実の源とし、`oapi-codegen` でサーバーコードを生成）。
 
-既存の Datasette API（ポート 8001）と並立する追加サービスで、read-only。
-DB は単一の `genji.db`（SQLite + FTS5）を参照する。
+read-only な API で、単一の `genji.db`（SQLite + FTS5）を参照する。
 
 ## エンドポイント
 
@@ -67,7 +66,52 @@ API 仕様の全体はサーバー起動後にブラウザで `http://localhost:
 
 > **キャッシュは任意**。`GENJI_REDIS_ADDR` が未設定、または Redis に接続できない場合は
 > 自動的にキャッシュ無効（Noop）で動作する。API の可用性は Redis に依存しない。
-> なお `/v1/random` は性質上キャッシュしない。
+
+## キャッシュの仕組み
+
+read-only な辞書 API なので、クエリ結果を Redis にキャッシュできる。Redis は**必須ではない**。
+
+### 有効化とフォールバック（`internal/cache`）
+
+- `GENJI_REDIS_ADDR` が**空** → `NoopCache`（一切キャッシュしない）。
+- アドレス指定あり → Redis クライアントを生成し **3 秒タイムアウトで PING** を実行。
+  - 成功 → `RedisCache` を使用（ログ `cache: enabled`）。
+  - **失敗 → エラーで落とさず `NoopCache` にフォールバック**（ログ `cache: redis ping failed ...`）。
+    起動も応答も Redis 障害に巻き込まれない。
+
+`GET /healthz` のレスポンスの `cache` フィールドで現在の状態（`enabled` / `disabled`）を確認できる。
+
+### Read-through の流れ（`internal/server` の `cached()` ヘルパー）
+
+1. `cache.Get(key)` を試す。**ヒットして JSON デコードに成功したら、その値をそのまま返す**（DB を引かない）。
+2. ミス、またはデコード失敗 → store（DB）を引く。
+3. 成功した結果を `json.Marshal` し、`cache.Set(key, value, TTL)` で保存してから返す。
+4. `Set` の失敗はログのみで、レスポンスには影響しない。
+
+キャッシュに保存される値は、各エンドポイントのレスポンス構造体（`EntryList` など）の **JSON バイト列**。
+
+### キャッシュ対象とキー
+
+| エンドポイント | キャッシュキー |
+|---|---|
+| `GET /v1/metadata` | `genji:v1:metadata` |
+| `GET /v1/entries/{uuid}` | `genji:v1:entry:{uuid}` |
+| `GET /v1/lookup/entry` | `genji:v1:lookup_entry:{word}` |
+| `GET /v1/lookup/reading` | `genji:v1:lookup_reading:{reading}` |
+| `GET /v1/search/entries` | `genji:v1:search_entries:{limit}:{q}` |
+| `GET /v1/search/definitions` | `genji:v1:search_definitions:{limit}:{q}` |
+
+**キャッシュしないエンドポイント**:
+
+- `GET /v1/random` — 毎回異なる結果を返すべきなので、キャッシュを参照も保存もしない。
+- `GET /healthz` — 常に DB の即時状態を反映する必要があるため。
+
+### TTL
+
+すべての `Set` に `GENJI_CACHE_TTL`（既定 `1h`）が適用される。データ更新（新しい `genji.db` のデプロイ）を
+即時反映したい場合は、TTL を短くするか、デプロイ時に Redis をフラッシュする。
+キーは `genji:v1:` プレフィックスで名前空間化されているため、`redis-cli --scan --pattern 'genji:v1:*'` で
+まとめて確認・削除できる。
 
 ## ローカル開発
 
@@ -113,8 +157,8 @@ docker run -p 8080:8080 -e GENJI_REDIS_ADDR=host.docker.internal:6379 genji-api
 
 ## 公開イメージ（GHCR）
 
-`main` への push で CI（`.github/workflows/build-and-release.yml` の `docker-api` ジョブ）が
-multi-arch（amd64/arm64）でビルドし、辞書イメージと同じ日付バージョン体系で公開する。
+`main` への push で CI（`.github/workflows/build-and-release.yml` の `docker` ジョブ）が
+multi-arch（amd64/arm64）でビルドし、SQLite リリースと同じ日付ベースのバージョン（`YYYY.M.D.HHMMSS`）+ `latest` で公開する。
 
 ```bash
 docker pull ghcr.io/iktahana/genji-api:latest

@@ -88,7 +88,7 @@ func noIndexMiddleware() gin.HandlerFunc {
 	}
 }
 
-// corsMiddleware は Datasette の datasette-cors と同等に全オリジンを許可する。
+// corsMiddleware は全オリジンからの読み取りを許可する。
 func corsMiddleware() gin.HandlerFunc {
 	return func(c *gin.Context) {
 		c.Header("Access-Control-Allow-Origin", "*")
