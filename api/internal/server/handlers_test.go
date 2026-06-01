@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"path/filepath"
+	"strings"
 	"sync"
 	"testing"
 	"time"
@@ -270,6 +271,21 @@ func TestDocsEndpoints(t *testing.T) {
 	}
 	if w := doGet(t, r, "/docs"); w.Code != 200 {
 		t.Errorf("/docs status=%d", w.Code)
+	}
+}
+
+func TestRobotsTxt(t *testing.T) {
+	r := newTestServer(t, cache.NoopCache{})
+	w := doGet(t, r, "/robots.txt")
+	if w.Code != 200 {
+		t.Fatalf("/robots.txt status=%d", w.Code)
+	}
+	body := w.Body.String()
+	if !strings.Contains(body, "Disallow: /") {
+		t.Errorf("robots.txt should disallow all, got:\n%s", body)
+	}
+	if !strings.Contains(body, "dict.illusions.app") {
+		t.Errorf("robots.txt should point crawlers to the frontend, got:\n%s", body)
 	}
 }
 
