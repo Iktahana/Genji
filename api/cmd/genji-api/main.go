@@ -67,8 +67,9 @@ func newRouter(handler *server.Handler) *gin.Engine {
 	r := gin.New()
 	r.Use(gin.Logger(), gin.Recovery())
 	r.Use(corsMiddleware())
+	r.Use(noIndexMiddleware())
 
-	// ドキュメント配信
+	// ドキュメント配信・robots.txt
 	api.RegisterDocs(r)
 
 	// 生成された strict ハンドラを配線
@@ -76,6 +77,15 @@ func newRouter(handler *server.Handler) *gin.Engine {
 	api.RegisterHandlers(r, strict)
 
 	return r
+}
+
+// noIndexMiddleware は全レスポンスに X-Robots-Tag: noindex を付与し、
+// 検索エンジンによる API レスポンスのインデックスを防ぐ（robots.txt と合わせた二重防御）。
+func noIndexMiddleware() gin.HandlerFunc {
+	return func(c *gin.Context) {
+		c.Header("X-Robots-Tag", "noindex, nofollow")
+		c.Next()
+	}
 }
 
 // corsMiddleware は Datasette の datasette-cors と同等に全オリジンを許可する。
