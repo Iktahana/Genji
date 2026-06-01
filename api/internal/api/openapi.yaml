@@ -389,6 +389,15 @@ components:
           type: string
         updated_at:
           type: string
+        freq_rank:
+          type: integer
+          nullable: true
+          description: "頻度ランク（小さいほど高頻度。hingston/japanese 由来）"
+        frequencies:
+          type: object
+          additionalProperties:
+            type: integer
+          description: '出典別の総出現回数。例: {"aozora": 1234}'
 
     Entry:
       type: object

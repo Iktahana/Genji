@@ -1,0 +1,7 @@
+# Genji 辞典データ生成スクリプト（script/build_dictionary.py）の依存。
+# 注意: これらはローカルでのデータ再生成にのみ必要。
+# CI（json_to_sqlite.py）はコミット済み JSON を使うため不要。
+
+# 青空文庫コーパスの形態素解析による頻度カウント用
+sudachipy>=0.6.8
+sudachidict_core>=20230927

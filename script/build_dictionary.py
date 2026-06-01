@@ -325,6 +325,8 @@ class OutputRecord:
     pos:                 list[str]
     freq_rank:           Optional[int]
     senses:              list[SenseOutput]
+    # 出典別の総出現回数。例: {"aozora": 1234}。疎フィールド（ヒット時のみ設定）
+    frequencies:         dict[str, int] = field(default_factory=dict)
 
 
 # ──────────────────────────────────────────────────────────
@@ -397,6 +399,11 @@ def record_to_dict(rec: OutputRecord, updated_at: str) -> dict:
     }
     if rec.freq_rank is not None:
         meta["freq_rank"] = rec.freq_rank
+    if rec.frequencies:
+        # ソース名 → 総出現回数。出現の多い順にソートして安定出力
+        meta["frequencies"] = dict(
+            sorted(rec.frequencies.items(), key=lambda kv: (-kv[1], kv[0]))
+        )
 
     return {
         "uuid":  rec.uuid,
@@ -1121,6 +1128,318 @@ def attach_aozora_examples(
 
 
 # ──────────────────────────────────────────────────────────
+# Phase 4.6: 青空文庫 頻度カウント（形態素解析）
+#
+# 例句収集（部分文字列マッチ）とは別パラダイム。Sudachi で本文を
+# 形態素解析し、内容語の dictionary_form（表記を保った原形）を
+# キーに総出現回数を数える。語境界・活用を考慮するため、部分文字列
+# マッチのような誤検出（短語が他語の一部に一致 等）が起きない。
+#
+# 注意:
+#   - 底本/奥付（フッタ）と、冒頭の記法説明ブロック（2本の区切り線に
+#     挟まれた「【テキスト中に現れる記号について】」等）は本文から除外し、
+#     頻度に含めない。
+#   - dictionary_form をキーにするため、同表記・同原形の異音異義語
+#     （例: 辛い=からい/つらい）は合算される（= 総出現回数の定義に一致）。
+# ──────────────────────────────────────────────────────────
+
+_FREQ_CHECKPOINT_NAME = "aozora_freq_checkpoint.json.gz"  # {tmp_dir}/ 以下に保存
+_FREQ_TABLE_NAME      = "aozora_freq.json.gz"             # 再利用可能な頻度テーブル
+
+# 奥付（底本情報）を検出するための行頭マーカー。これらで始まる行以降は
+# 本文ではないと判断し、頻度カウントから除外する。
+_FREQ_FOOTER_MARKERS = frozenset([
+    "底本：", "底本:", "底本の親本：", "初出：", "初出:",
+    "入力：", "入力:", "入力者：", "校正：", "校正:", "校正者：",
+    "翻訳者：", "翻訳:", "青空文庫作成ファイル", "●表記について",
+    "【テキスト中",
+])
+
+# 区切り線（記法説明ブロックの境界）を構成しうる文字
+_DELIM_CHARS = set("-‐‑‒–—―─━")
+
+# カウント対象外の品詞（大分類）
+_FREQ_SKIP_POS = frozenset(["助詞", "助動詞", "補助記号", "空白", "記号"])
+
+# 各ワーカープロセスで 1 度だけ生成する Sudachi トークナイザ
+_FREQ_TOKENIZER = None
+
+
+def _get_freq_tokenizer():
+    """ワーカープロセスごとに Sudachi トークナイザを遅延生成する。"""
+    global _FREQ_TOKENIZER
+    if _FREQ_TOKENIZER is None:
+        from sudachipy import dictionary  # 遅延 import（未インストール時は呼び出し側で警告）
+        _FREQ_TOKENIZER = dictionary.Dictionary(dict="core").create()
+    return _FREQ_TOKENIZER
+
+
+def _is_delim_line(line: str) -> bool:
+    """記法説明ブロックの区切り線か（ハイフン等が 8 文字以上連続）"""
+    s = line.strip()
+    return len(s) >= 8 and all(c in _DELIM_CHARS for c in s)
+
+
+def _extract_aozora_body_text(lines: list[str]) -> str:
+    """
+    青空文庫テキストから「本文」だけを抽出する（頻度カウント用）。
+      - 冒頭の記法説明ブロック（2 本の区切り線に挟まれた部分）を除外
+      - 奥付（フッタ）以降を除外
+      - ルビ/注記/外字マークアップを除去
+    """
+    # 冒頭 60 行内に区切り線が 2 本以上あれば、2 本目以降を本文開始とみなす
+    delim_idx = [i for i, l in enumerate(lines[:60]) if _is_delim_line(l)]
+    start = delim_idx[1] + 1 if len(delim_idx) >= 2 else 0
+
+    body: list[str] = []
+    for line in lines[start:]:
+        st = line.strip()
+        if st and any(st.startswith(m) for m in _FREQ_FOOTER_MARKERS):
+            break  # 奥付に到達。以降は本文ではない
+        body.append(strip_aozora_markup(line))
+    return "\n".join(body)
+
+
+def _safe_chunks(s: str, limit: int = 40000):
+    """Sudachi の入力長上限（約 49149 バイト）を超えないよう句点で分割する。"""
+    if len(s.encode("utf-8")) <= limit:
+        yield s
+        return
+    buf = ""
+    for part in re.split(r"(?<=。)", s):
+        if buf and len((buf + part).encode("utf-8")) > limit:
+            yield buf
+            buf = part
+        else:
+            buf += part
+    if buf:
+        yield buf
+
+
+def _freq_worker(file_paths: list[str]) -> tuple[dict[str, int], int, int]:
+    """
+    ProcessPoolExecutor 用ワーカー（モジュールレベル必須）。
+    Returns: (partial_counts, processed_files, counted_tokens)
+    """
+    from sudachipy import SplitMode  # 遅延 import
+    tok = _get_freq_tokenizer()
+    counts: dict[str, int] = defaultdict(int)
+    files_done = 0
+    tokens_done = 0
+
+    for path_str in file_paths:
+        try:
+            txt_file = Path(path_str)
+            try:
+                content = txt_file.read_text(encoding="utf-8")
+            except UnicodeDecodeError:
+                content = txt_file.read_text(encoding="shift_jis", errors="replace")
+
+            body = _extract_aozora_body_text(content.splitlines())
+            for raw_line in body.split("\n"):
+                line = raw_line.strip()
+                if not line:
+                    continue
+                for chunk in _safe_chunks(line):
+                    try:
+                        morphemes = tok.tokenize(chunk, SplitMode.C)
+                    except Exception:
+                        continue  # 解析不能な行はスキップ
+                    for m in morphemes:
+                        if m.part_of_speech()[0] in _FREQ_SKIP_POS:
+                            continue
+                        lemma = m.dictionary_form()
+                        if not lemma or not is_japanese_text(lemma):
+                            continue
+                        counts[lemma] += 1
+                        tokens_done += 1
+            files_done += 1
+        except Exception:
+            files_done += 1  # スキップしてもカウント
+            continue
+
+    return dict(counts), files_done, tokens_done
+
+
+def _save_freq_checkpoint(
+    checkpoint_path: Path,
+    processed_files: set[str],
+    counts: dict[str, int],
+) -> None:
+    """頻度チェックポイントをアトミックに保存する（gzip JSON）"""
+    tmp_path = checkpoint_path.with_name(checkpoint_path.name + ".tmp")
+    data = {"processed_files": list(processed_files), "counts": counts}
+    try:
+        with gzip.open(tmp_path, "wt", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False)
+        tmp_path.rename(checkpoint_path)
+    except Exception as exc:
+        tmp_path.unlink(missing_ok=True)
+        log.warning("頻度チェックポイント保存失敗: %s", exc)
+
+
+def _load_freq_checkpoint(
+    checkpoint_path: Path,
+) -> tuple[dict[str, int], set[str]]:
+    """頻度チェックポイントを読み込む。失敗時は空を返す。"""
+    try:
+        with gzip.open(checkpoint_path, "rt", encoding="utf-8") as f:
+            data = json.load(f)
+        counts   = data.get("counts", {})
+        proc_set = set(data.get("processed_files", []))
+        log.info("頻度チェックポイント読み込み: %d 語, %d ファイル処理済み",
+                 len(counts), len(proc_set))
+        return counts, proc_set
+    except Exception as exc:
+        log.warning("頻度チェックポイント読み込み失敗（無視）: %s", exc)
+        return {}, set()
+
+
+def build_corpus_frequency(
+    aozora_dir: Path,
+    n_workers: int = 1,
+    checkpoint_path: Optional[Path] = None,
+    table_path: Optional[Path] = None,
+    resume: bool = False,
+) -> dict[str, int]:
+    """
+    青空文庫テキストを形態素解析し、{dictionary_form: 総出現回数} を構築する。
+    Sudachi 未インストール時は空 dict を返す（警告のみ）。
+    """
+    if not aozora_dir.exists():
+        Progress.warn(f"青空文庫ディレクトリなし: {aozora_dir}")
+        return {}
+
+    # Sudachi の存在チェック（メインプロセスで早期に検出）
+    try:
+        _get_freq_tokenizer()
+    except Exception as exc:
+        Progress.warn(f"Sudachi が利用できないため頻度カウントをスキップ: {exc}")
+        Progress.warn("`pip install -r requirements.txt` で sudachipy / sudachidict_core を導入してください")
+        return {}
+
+    Progress.group(f"Phase 4.6 │ 青空文庫 頻度カウント（形態素解析, workers={n_workers}）")
+
+    counts: dict[str, int] = defaultdict(int)
+    already_processed: set[str] = set()
+    if resume and checkpoint_path and checkpoint_path.exists():
+        preloaded, already_processed = _load_freq_checkpoint(checkpoint_path)
+        for w, c in preloaded.items():
+            counts[w] += c
+        Progress.step(f"チェックポイント復元: {len(already_processed):,} ファイル処理済み  "
+                      f"{len(counts):,} 語")
+
+    all_txt_files = sorted(aozora_dir.rglob("*.txt"))
+    txt_files = [f for f in all_txt_files if str(f) not in already_processed]
+    total_files     = len(all_txt_files)
+    remaining_files = len(txt_files)
+    Progress.step(f"対象テキスト: {remaining_files:,} / {total_files:,} ファイル  workers: {n_workers}")
+
+    n_chunks   = max(n_workers, n_workers * 8)
+    chunk_size = max(1, (remaining_files + n_chunks - 1) // n_chunks)
+    chunks: list[list[str]] = [
+        [str(f) for f in txt_files[i: i + chunk_size]]
+        for i in range(0, remaining_files, chunk_size)
+    ]
+
+    done_files      = len(already_processed)
+    done_tokens     = 0
+    phase_t         = time.perf_counter()
+    last_report     = phase_t
+    last_checkpoint = phase_t
+    processed_in_run: set[str] = set()
+
+    shutdown_evt = threading.Event()
+    _orig_sigint = signal.getsignal(signal.SIGINT)
+
+    def _sigint_handler(sig: int, frame: object) -> None:
+        print("\n[SIGINT] 終了要求を受信しました。チェックポイント保存後に終了します...",
+              flush=True)
+        shutdown_evt.set()
+
+    signal.signal(signal.SIGINT, _sigint_handler)
+
+    try:
+        with ProcessPoolExecutor(max_workers=n_workers) as pool:
+            futures_map = {
+                pool.submit(_freq_worker, chunk): chunk for chunk in chunks
+            }
+            for fut in as_completed(futures_map):
+                if shutdown_evt.is_set():
+                    for pending in futures_map:
+                        pending.cancel()
+                    break
+
+                chunk_files_list = futures_map[fut]
+                partial, chunk_files, chunk_tokens = fut.result()
+                done_files  += chunk_files
+                done_tokens += chunk_tokens
+                processed_in_run.update(chunk_files_list)
+
+                for word, c in partial.items():
+                    counts[word] += c
+
+                now = time.perf_counter()
+                if checkpoint_path and now - last_checkpoint >= _CHECKPOINT_SEC:
+                    last_checkpoint = now
+                    all_proc = already_processed | processed_in_run
+                    _save_freq_checkpoint(checkpoint_path, all_proc, dict(counts))
+
+                if now - last_report >= _REPORT_SEC:
+                    last_report = now
+                    Progress.bar_line(
+                        done_files, total_files,
+                        f"{done_files:>6,} / {total_files:,} files  "
+                        f"{len(counts):,} 語  {done_tokens:,} tokens",
+                    )
+    finally:
+        signal.signal(signal.SIGINT, _orig_sigint)
+        if checkpoint_path:
+            all_proc = already_processed | processed_in_run
+            _save_freq_checkpoint(checkpoint_path, all_proc, dict(counts))
+            log.info("頻度チェックポイント保存完了: %s", checkpoint_path)
+
+    if shutdown_evt.is_set():
+        print(f"  頻度チェックポイント保存完了: {checkpoint_path}", flush=True)
+        sys.exit(130)
+
+    result = dict(counts)
+    # 再利用可能な頻度テーブルを永続化
+    if table_path:
+        try:
+            with gzip.open(table_path, "wt", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False)
+            Progress.step(f"頻度テーブル保存: {table_path}")
+        except Exception as exc:
+            log.warning("頻度テーブル保存失敗: %s", exc)
+
+    Progress.ok(f"{done_files:,} ファイル  {done_tokens:,} tokens  {len(result):,} 語")
+    Progress.endgroup()
+    return result
+
+
+def attach_corpus_frequency(
+    records: list[OutputRecord],
+    freq_counts: dict[str, int],
+    source: str = "aozora",
+) -> int:
+    """
+    各レコードの見出し語（entry = dictionary_form 相当）で頻度テーブルを引き、
+    meta.frequencies[source] に総出現回数を付与する（in-place）。
+    ヒット件数を返す。
+    """
+    if not freq_counts:
+        return 0
+    attached = 0
+    for rec in records:
+        c = freq_counts.get(rec.entry, 0)
+        if c > 0:
+            rec.frequencies[source] = c
+            attached += 1
+    return attached
+
+
+# ──────────────────────────────────────────────────────────
 # Phase 5: 読みでグループ化
 # ──────────────────────────────────────────────────────────
 
@@ -1263,6 +1582,8 @@ def main() -> None:
                         help="git pull をスキップ")
     parser.add_argument("--no-aozora",   action="store_true",
                         help="青空文庫例句付与をスキップ")
+    parser.add_argument("--no-frequency", action="store_true",
+                        help="青空文庫の頻度カウント（形態素解析）をスキップ")
     parser.add_argument("--verbose",     action="store_true",
                         help="DEBUG ログを出力")
     parser.add_argument("--dry-run",     action="store_true",
@@ -1324,6 +1645,19 @@ def main() -> None:
         attach_aozora_examples(records, sentence_index)
         aozora_matched = len(sentence_index)
 
+    # ── Phase 4.6: 青空文庫 頻度カウント ──────────────────
+    aozora_freq_attached = 0
+    if not args.no_frequency:
+        aozora_dir       = args.tmp_dir / "aozorabunko_text"
+        freq_ckpt_path   = args.tmp_dir / _FREQ_CHECKPOINT_NAME
+        freq_table_path  = args.tmp_dir / _FREQ_TABLE_NAME
+        freq_counts = build_corpus_frequency(
+            aozora_dir, n_workers=n_workers,
+            checkpoint_path=freq_ckpt_path, table_path=freq_table_path,
+            resume=args.resume,
+        )
+        aozora_freq_attached = attach_corpus_frequency(records, freq_counts, source="aozora")
+
     # ── Phase 5: グループ化 ────────────────────────────────
     Progress.group("Phase 5 │ 読みでグループ化")
     grouped = group_by_reading(records)
@@ -1353,6 +1687,7 @@ def main() -> None:
     print(f"  Total entries output      : {total_entries:>10,}", flush=True)
     print(f"  Frequency matched         : {freq_matched:>10,}", flush=True)
     print(f"  Aozora words with examples: {aozora_matched:>10,}", flush=True)
+    print(f"  Aozora frequency attached : {aozora_freq_attached:>10,}", flush=True)
     print(f"  Output directories used   : {used_dirs:>10,}", flush=True)
     print(f"  Elapsed time              : {elapsed:>10.1f}s", flush=True)
     print(f"  Peak memory               : {peak_mem / 1e6:>10.1f} MB", flush=True)
