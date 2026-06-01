@@ -401,22 +401,6 @@
         "examples": {
           "standard": [
             {
-              "text": "雨が降った後、川は下流に向かって勢いよく下っていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "ダムからの放水で、川の下流は水量が大幅に増した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
               "text": "カヌーで川を下り、自然を満喫した。",
               "citation": {
                 "source": "Illusions AI",
@@ -430,7 +414,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "件"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -438,7 +424,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:15:13.558905+00:00Z",
+      "updated_at": "2026-06-01T12:33:46.402805+00:00Z",
       "freq_rank": 5234,
       "frequencies": {
         "aozora": 1225
@@ -747,7 +733,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "下り"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

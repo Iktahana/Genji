@@ -315,14 +315,6 @@
         "examples": {
           "standard": [
             {
-              "text": "お買い上げありがとうございます。釣銭は〇〇円になります。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
               "text": "レジでお釣りの釣り銭を数え間違えた。",
               "citation": {
                 "source": "Illusions AI",
@@ -430,7 +422,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "吊り"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -438,7 +432,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-03T05:19:19.739710+00:00Z",
+      "updated_at": "2026-06-01T12:36:19.111768+00:00Z",
       "freq_rank": 4364,
       "frequencies": {
         "aozora": 1778
@@ -790,7 +784,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "釣り"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

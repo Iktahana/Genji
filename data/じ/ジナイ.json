@@ -31,14 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "この寺の敷地内には、古い歴史を持つ重要文化財がたくさん残されている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
               "text": "寺内の静けさは、日頃の喧騒を忘れさせてくれる。",
               "citation": {
                 "source": "Illusions AI",
@@ -301,7 +293,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "地内"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -309,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-02T04:13:44.351294+00:00Z",
+      "updated_at": "2026-06-01T12:34:54.335273+00:00Z",
       "frequencies": {
         "aozora": 358
       }
@@ -619,7 +613,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "寺内"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

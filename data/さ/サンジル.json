@@ -31,14 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "風が桜の花びらを一面に散らした。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
               "text": "彼の言葉は、会議室に集まった人々の間に不安を散じた。",
               "citation": {
                 "source": "Illusions AI",
@@ -235,7 +227,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "参じる"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -243,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T09:40:24.137943+00:00Z",
+      "updated_at": "2026-06-01T12:34:23.424876+00:00Z",
       "frequencies": {
         "aozora": 11
       }
@@ -517,7 +511,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "散じる"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

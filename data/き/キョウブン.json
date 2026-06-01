@@ -31,14 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "予期せぬ凶報に、家族全員が言葉を失った。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
               "text": "遠方に住む友人から、悲しい凶聞が届いた。",
               "citation": {
                 "source": "Illusions AI",
@@ -60,7 +52,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "狂文"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -68,7 +62,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T05:50:30.678411+00:00Z"
+      "updated_at": "2026-06-01T12:33:40.028849+00:00Z"
     }
   },
   {
@@ -189,7 +183,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "凶聞"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

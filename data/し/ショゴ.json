@@ -31,14 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "赤ちゃんが初めて「ママ」と発した時、両親は感動で涙した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
               "text": "初語が出ると、子供の言語発達は飛躍的に進むことが多い。",
               "citation": {
                 "source": "Illusions AI",
@@ -141,7 +133,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "諸語"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -149,7 +143,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T21:57:50.865643+00:00Z"
+      "updated_at": "2026-06-01T12:34:42.996717+00:00Z"
     }
   },
   {
@@ -343,7 +337,9 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "初語"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []

@@ -31,14 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "オペラのアリアを聴いていると、まるで物語の世界に入り込んだようだ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
               "text": "歌手は感情を込めて、そのオペラティックな詠唱を披露した。",
               "citation": {
                 "source": "Illusions AI",
@@ -329,14 +321,6 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
-            },
-            {
-              "text": "「この子、澄んだ声で歌うね！」と、母親は娘の歌声に目を細めた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
             }
           ],
           "literary": []
@@ -344,7 +328,11 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "詠誦",
+        "永承",
+        "永正"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -352,7 +340,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-25T19:19:41.358626+00:00Z",
+      "updated_at": "2026-06-01T12:33:13.862291+00:00Z",
       "freq_rank": 31924,
       "frequencies": {
         "aozora": 45
@@ -438,7 +426,11 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "詠唱",
+        "永承",
+        "永正"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -543,7 +535,11 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "詠唱",
+        "詠誦",
+        "永正"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
@@ -859,7 +855,11 @@
       }
     ],
     "relations": {
-      "homophones": [],
+      "homophones": [
+        "詠唱",
+        "詠誦",
+        "永承"
+      ],
       "synonyms": [],
       "antonyms": [],
       "related": []
