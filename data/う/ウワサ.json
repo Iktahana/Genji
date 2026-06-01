@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、あの俳優の結婚の「噂」が広まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼が会社を辞めるという「噂」は本当だったらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「噂」を鵜呑みにせず、自分で真偽を確かめるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを当の松岡は（これは譬噺で、事実談ではありません）レニンに呆れられているという事にも気づかず、「なんだ、レニンってのは、噂ほどにも無い男だ、我輩の眼光におされてしどろもどろではないか、意気地が無い！",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.297305+00:00Z",
+      "updated_at": "2026-06-01T18:34:18.715515+00:00Z",
       "freq_rank": 3183,
       "frequencies": {
         "aozora": 10360
