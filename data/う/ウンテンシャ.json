@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "すべての運転者は、交通ルールを遵守しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この道路は狭いので、運転者は対向車に十分注意してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転者の責任は重く、常に集中力が求められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "公園の垣根のところまで来ると、千二は、そこに一台のりっぱな自動車が、運転者もいないで放りっぱなしになっているのに気がついた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.468344+00:00Z",
+      "updated_at": "2026-06-01T20:46:44.900254+00:00Z",
       "frequencies": {
         "aozora": 3
       }
