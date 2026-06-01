@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "博物館の展示室で、武士が使っていた本物の大太刀を間近で見た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの大太刀を振り回すには、相当な腕力が必要だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "戦国時代の歴史書には、名工が鍛えた大太刀の伝説が記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やがて賊にふんした団長が、銀紙をはったキラキラした大太刀をひっつかんで出てきました。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.892134+00:00Z",
+      "updated_at": "2026-06-01T21:58:04.759696+00:00Z",
       "frequencies": {
         "aozora": 71
       }
