@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画のクライマックスで、主人公の顔が大写しになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事件のニュースで、犯人の似顔絵が大写しで報道された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "写真家は花の細部を大写しにして、その美しさを表現した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし物を言っている顔の大写しなどの場合には、この耳と目との空間知覚の齟齬が多少は起こるかもしれない。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.614249+00:00Z",
+      "updated_at": "2026-06-01T21:54:44.476577+00:00Z",
       "frequencies": {
         "aozora": 97
       }
