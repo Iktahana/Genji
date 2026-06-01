@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この動画フォーマットではアクセス単位ごとに独立してデコードできるため、ランダムシークが高速に行える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ストリーミング配信システムはアクセス単位を細かく分割することで、途中からの再生や早送りをスムーズに実現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "仕様書にはアクセス単位の最大サイズが規定されており、それを超えるデータは複数に分割して送信しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:57:20.510842+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.441887+00:00Z"
     }
   }
 ]

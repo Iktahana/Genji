@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロセッサの命令セット内でアクセス制御語を参照することで、メモリ領域への読み書き権限が決定される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オペレーティングシステムはアクセス制御語を用いてカーネル空間とユーザー空間を厳密に分離している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アクセス制御語のビットフィールド設計を誤ると、意図しないプロセスがシステムリソースを操作できてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -49,7 +74,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.155735+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.441102+00:00Z"
     }
   }
 ]

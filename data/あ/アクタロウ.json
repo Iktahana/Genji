@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あいつは昔から悪太郎で有名だったんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "悪太郎のせいで全員罰を受けることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は悪太郎だから何をしてもおかしくない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とにかく、この山男の身辺にはなんとなく一種神秘の雰囲気が揺曳しているように思われて、当時の悪太郎どもも容易には接近し得なかったようである。",
@@ -272,7 +297,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:58.568153+00:00Z",
+      "updated_at": "2026-06-01T13:15:44.568815+00:00Z",
       "frequencies": {
         "aozora": 76
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゼロトラストモデルでは、アクセスコンテキストとしてデバイスの状態や場所を評価してから接続を許可する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "同じユーザーでもオフィス内と社外では異なるアクセスコンテキストと判定され、求められる認証レベルが変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ポリシーエンジンはアクセスコンテキストをリアルタイムで分析し、リスクが高いと判断した場合は追加認証を要求する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -51,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.153053+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.438521+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "OSのアクセス制御により、一般ユーザーはシステムファイルへの書き込みが禁止されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "IoTデバイスへの不正侵入を防ぐため、ファームウェアレベルでのアクセス制御が重要視されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クラウド環境でのアクセス制御を一元管理するポリシーを策定し、全プロジェクトに適用することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.155206+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.440720+00:00Z"
     }
   }
 ]

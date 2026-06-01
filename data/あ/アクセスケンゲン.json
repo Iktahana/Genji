@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "クラウドの設定ミスでアクセス権限が過剰に付与されていたことがセキュリティ診断で発覚した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このAPIエンドポイントを呼び出すには管理者レベルのアクセス権限が必要で、一般ユーザーは使えない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "最小権限の原則に従い、各サービスアカウントに必要最小限のアクセス権限だけを割り当てるよう設計した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -57,7 +82,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.152785+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.438304+00:00Z"
     }
   }
 ]

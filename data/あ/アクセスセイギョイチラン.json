@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サーバー管理者はアクセス制御一覧を定期的に見直し、不要になったエントリを削除するよう義務付けられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アクセス制御一覧に新しいルールを追加する際は、既存のエントリとの順序関係に注意しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティ監査でアクセス制御一覧の棚卸しを実施したところ、数年前に設定したまま放置されたルールが多数見つかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.155387+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.440910+00:00Z"
     }
   }
 ]

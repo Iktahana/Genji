@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "規約違反を繰り返したアカウントにアクセス禁止の措置が取られ、ログイン自体ができなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "攻撃元とみられるIPアドレスに対してアクセス禁止を設定し、サーバーへの不正接続を遮断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "掲示板の荒らしに対してアクセス禁止を適用したところ、別のIPから再び書き込みが始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.151841+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.436854+00:00Z"
     }
   }
 ]

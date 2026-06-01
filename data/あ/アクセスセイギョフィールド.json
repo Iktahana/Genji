@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "フレームのアクセス制御フィールドを解析することで、そのパケットに与えられた優先度と権限が読み取れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プロトコルの仕様書にはアクセス制御フィールドの各ビットの意味が詳しく説明されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アクセス制御フィールドの値を書き換えるツールを使い、テスト環境で異なる権限レベルの動作を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -49,7 +74,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.156009+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.441299+00:00Z"
     }
   }
 ]

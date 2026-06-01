@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キャンペーン期間中にアクセス失敗率が急上昇し、ロードバランサーの設定を緊急で見直すことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ネットワーク品質の指標としてアクセス失敗率を継続的に監視し、閾値を超えたら自動でアラートが飛ぶように設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アクセス失敗率のログを分析したところ、特定の時間帯にだけ集中してエラーが起きているパターンが見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.153773+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.439360+00:00Z"
     }
   }
 ]

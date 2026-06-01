@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その事件の悪玉はいったい誰なのだろうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "悪玉と思われた彼が実は無実だったことが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "メディアはその政治家を悪玉として描き続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やはり小さい子供達同士の「三社祭」の悪玉、善玉の踊りが終ると、夫人はサッサと退場して自分の自動車へ行ってみると、木賀はもうとっくに乗っていた。",
@@ -293,7 +318,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:58.568979+00:00Z",
+      "updated_at": "2026-06-01T13:15:44.569656+00:00Z",
       "freq_rank": 27268,
       "frequencies": {
         "aozora": 106

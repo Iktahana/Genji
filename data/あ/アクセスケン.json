@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロジェクトのリポジトリに対するアクセス権を持っていないため、コードのクローンすらできない状態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "部署異動に伴い、旧部署の機密フォルダへのアクセス権が自動的に失効した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "監査のため、どのユーザーがどのリソースにアクセス権を持っているか一覧を出力するよう求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.152576+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.437916+00:00Z"
     }
   }
 ]

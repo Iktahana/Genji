@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "報告書が悪文だと上司に指摘され、何度も書き直しを命じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "法律の条文はしばしば悪文の典型と批判され、一般市民には難解すぎると言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "悪文を直す練習として、わざと読みにくい文章を書いてから修正するトレーニングを続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どうせ不埒な、悪文学者の創った詩句にちがいない。",
@@ -273,7 +298,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:57:13.832654+00:00Z",
+      "updated_at": "2026-06-01T13:19:20.755276+00:00Z",
       "frequencies": {
         "aozora": 45
       }

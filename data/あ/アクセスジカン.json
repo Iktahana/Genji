@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このSSDはアクセス時間が短いため、データベースのランダムリードが多いワークロードに向いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "HDDからSSDに換装したら、OSの起動時のアクセス時間が劇的に短くなり、作業効率が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アクセス時間を計測するベンチマークを走らせると、キャッシュ効果で2回目以降の測定値が大幅に改善した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.154396+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.439784+00:00Z"
     }
   }
 ]

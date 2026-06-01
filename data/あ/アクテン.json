@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "出発前夜から悪天が続き、山岳救助隊は待機を余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "悪天を避けるため、船長は出港を翌朝まで延期する決断をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "登山ガイドは「悪天になったらすぐ引き返す」と参加者に念を押した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "せめて半時なりともこの悪天候を、我らが同胞のなおひどい世の常をふたりして忘れてみよう。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:56:28.879951+00:00Z",
+      "updated_at": "2026-06-01T13:16:00.988197+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "クラウドストレージのアクセスキーが流出したため、直ちにキーを無効化して新しいものを発行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スクリプトにアクセスキーをハードコードするのは危険なので、環境変数から読み込む方式に変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "定期的にアクセスキーをローテーションすることがセキュリティ上の推奨事項だとドキュメントに書いてあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -56,7 +81,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:55:19.152147+00:00Z"
+      "updated_at": "2026-06-01T13:13:25.437159+00:00Z"
     }
   }
 ]

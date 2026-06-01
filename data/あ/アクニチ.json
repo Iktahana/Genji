@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "占い師は今日は悪日だから外出を避けるべきだと言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の人は悪日にあたる日は重要な決断をしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カレンダーに記されている悪日を避けて日程を決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人間がけがをしたり、遺失物をしたり、病気が亢進したり、あるいは飛行機がおちたり汽車が衝突したりする「悪日」や「さんりんぼう」も、現在の科学から見れば、単なる迷信であっても、未来のいつかの科学ではそれが立派に「説明」されることにならないとも限らない。",
@@ -298,7 +323,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:57:11.528264+00:00Z",
+      "updated_at": "2026-06-01T13:18:53.533773+00:00Z",
       "frequencies": {
         "aozora": 36
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古い社内システムは、まだActiveXコントロールを使用しているため、特定のブラウザでしか動作しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "セキュリティリスクのため、最近のブラウザではActiveXの実行が標準でブロックされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ActiveXを有効にするには、インターネットオプションの詳細設定を変更する必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -48,7 +73,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:56:24.571234+00:00Z"
+      "updated_at": "2026-06-01T13:16:31.936469+00:00Z"
     }
   }
 ]
