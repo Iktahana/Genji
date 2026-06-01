@@ -276,7 +276,12 @@ class CheckpointManager:
                     'processed_count': len(self.processed_files),
                     'updated_count': len(self.updated_files)
                 }
-            tmp_file = self.checkpoint_file.with_suffix('.tmp')
+            # tmp ファイル名はプロセス/スレッドごとにユニークにする。
+            # 全スレッドが同一の '.tmp' を共有すると、あるスレッドの replace() が
+            # tmp を消費した後に別スレッドの replace() がソース欠如で失敗する競合が起きる。
+            tmp_file = self.checkpoint_file.with_suffix(
+                f'.{os.getpid()}.{threading.get_ident()}.tmp'
+            )
             with open(tmp_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             tmp_file.replace(self.checkpoint_file)
