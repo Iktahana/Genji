@@ -17,6 +17,7 @@ import (
 
 	"github.com/Iktahana/Genji/api/internal/api"
 	"github.com/Iktahana/Genji/api/internal/cache"
+	"github.com/Iktahana/Genji/api/internal/heat"
 	"github.com/Iktahana/Genji/api/internal/store"
 )
 
@@ -101,8 +102,13 @@ func buildTestDB(t *testing.T) string {
 	return path
 }
 
-// newTestServer はテスト用の gin router と memCache を返す。
+// newTestServer はテスト用の gin router を返す（heat 無効）。
 func newTestServer(t *testing.T, c cache.Cache) *gin.Engine {
+	return newTestServerWithHeat(t, c, heat.Noop{})
+}
+
+// newTestServerWithHeat は heat サービスを指定してテスト用 router を返す。
+func newTestServerWithHeat(t *testing.T, c cache.Cache, hsvc heat.Service) *gin.Engine {
 	t.Helper()
 	gin.SetMode(gin.TestMode)
 
@@ -112,7 +118,7 @@ func newTestServer(t *testing.T, c cache.Cache) *gin.Engine {
 	}
 	t.Cleanup(func() { st.Close() })
 
-	h := NewHandler(st, c, time.Minute)
+	h := NewHandler(st, c, hsvc, time.Minute)
 	r := gin.New()
 	api.RegisterDocs(r)
 	api.RegisterHandlers(r, api.NewStrictHandler(h, nil))
@@ -356,3 +362,83 @@ func TestClamp(t *testing.T) {
 }
 
 func ptr(n int) *int { return &n }
+
+// fakeHeat は sitemap テスト用の制御可能な heat.Service。
+type fakeHeat struct {
+	ranked []heat.Ranked
+	total  int
+}
+
+func (fakeHeat) Enabled() bool   { return true }
+func (fakeHeat) Hit(...string)   {}
+func (fakeHeat) Seed(context.Context, []string, string) error { return nil }
+func (fakeHeat) StartAggregator(context.Context)              {}
+func (f fakeHeat) Page(_ context.Context, offset, limit int) ([]heat.Ranked, int, error) {
+	if offset >= len(f.ranked) {
+		return nil, f.total, nil
+	}
+	end := offset + limit
+	if end > len(f.ranked) {
+		end = len(f.ranked)
+	}
+	return f.ranked[offset:end], f.total, nil
+}
+
+const testUUID = "u1" // server テスト DB の sampleRawJSON が持つ uuid
+
+func TestSitemapWithHeat(t *testing.T) {
+	fh := fakeHeat{ranked: []heat.Ranked{{UUID: testUUID, Heat: 9}}, total: 1}
+	r := newTestServerWithHeat(t, cache.NoopCache{}, fh)
+
+	w := doGet(t, r, "/v1/sitemap?page=1&page_size=50")
+	if w.Code != 200 {
+		t.Fatalf("status = %d, body=%s", w.Code, w.Body.String())
+	}
+	var p api.SitemapPage
+	if err := json.Unmarshal(w.Body.Bytes(), &p); err != nil {
+		t.Fatalf("decode: %v", err)
+	}
+	if p.Total != 1 || p.Page != 1 || p.PageSize != 50 || p.TotalPages != 1 {
+		t.Errorf("pagination = %+v", p)
+	}
+	if len(p.Items) != 1 {
+		t.Fatalf("got %d items, want 1", len(p.Items))
+	}
+	if p.Items[0].Entry != "雪" {
+		t.Errorf("entry = %q, want 雪", p.Items[0].Entry)
+	}
+	if p.Items[0].Heat == nil || *p.Items[0].Heat != 9 {
+		t.Errorf("heat = %v, want 9", p.Items[0].Heat)
+	}
+}
+
+func TestSitemapFallbackWithoutRedis(t *testing.T) {
+	// heat 無効（Noop）→ DB 順フォールバック、heat=null
+	r := newTestServerWithHeat(t, cache.NoopCache{}, heat.Noop{})
+	w := doGet(t, r, "/v1/sitemap?page=1&page_size=50")
+	if w.Code != 200 {
+		t.Fatalf("status = %d", w.Code)
+	}
+	var p api.SitemapPage
+	json.Unmarshal(w.Body.Bytes(), &p)
+	if p.Total != 1 || len(p.Items) != 1 {
+		t.Fatalf("page = %+v", p)
+	}
+	if p.Items[0].Entry != "雪" {
+		t.Errorf("entry = %q, want 雪", p.Items[0].Entry)
+	}
+	if p.Items[0].Heat != nil {
+		t.Errorf("heat should be null without redis, got %v", *p.Items[0].Heat)
+	}
+}
+
+func TestSitemapPaginationDefaults(t *testing.T) {
+	r := newTestServerWithHeat(t, cache.NoopCache{}, heat.Noop{})
+	// page/page_size 省略 → 既定 page=1, page_size=1000
+	w := doGet(t, r, "/v1/sitemap")
+	var p api.SitemapPage
+	json.Unmarshal(w.Body.Bytes(), &p)
+	if p.Page != 1 || p.PageSize != 1000 {
+		t.Errorf("defaults = page %d size %d, want 1/1000", p.Page, p.PageSize)
+	}
+}

@@ -162,6 +162,30 @@ type SensoryTags struct {
 	Temperature *string   `json:"temperature,omitempty"`
 }
 
+// SitemapItem defines model for SitemapItem.
+type SitemapItem struct {
+	Entry string `json:"entry"`
+
+	// Heat 熱度指数（2×直近30日 + 1×直近365日のアクセス数）。Redis 無効時は null
+	Heat           *float64 `json:"heat,omitempty"`
+	ReadingPrimary *string  `json:"reading_primary,omitempty"`
+
+	// UpdatedAt エントリの更新日時（sitemap の lastmod 用）
+	UpdatedAt *string `json:"updated_at,omitempty"`
+	Uuid      string  `json:"uuid"`
+}
+
+// SitemapPage defines model for SitemapPage.
+type SitemapPage struct {
+	Items    []SitemapItem `json:"items"`
+	Page     int           `json:"page"`
+	PageSize int           `json:"page_size"`
+
+	// Total 全収録語彙数
+	Total      int `json:"total"`
+	TotalPages int `json:"total_pages"`
+}
+
 // LookupByEntryParams defines parameters for LookupByEntry.
 type LookupByEntryParams struct {
 	// Word 見出し語（漢字・カタカナ等）
@@ -198,6 +222,15 @@ type SearchEntriesParams struct {
 	Limit *int `form:"limit,omitempty" json:"limit,omitempty"`
 }
 
+// GetSitemapParams defines parameters for GetSitemap.
+type GetSitemapParams struct {
+	// Page ページ番号（1 始まり）
+	Page *int `form:"page,omitempty" json:"page,omitempty"`
+
+	// PageSize 1 ページあたりの件数
+	PageSize *int `form:"page_size,omitempty" json:"page_size,omitempty"`
+}
+
 // ServerInterface represents all server handlers.
 type ServerInterface interface {
 	// ヘルスチェック
@@ -224,6 +257,9 @@ type ServerInterface interface {
 	// 見出し語・読みを全文検索
 	// (GET /v1/search/entries)
 	SearchEntries(c *gin.Context, params SearchEntriesParams)
+	// 全収録語彙を熱度順にページングして取得
+	// (GET /v1/sitemap)
+	GetSitemap(c *gin.Context, params GetSitemapParams)
 }
 
 // ServerInterfaceWrapper converts contexts to parameters.
@@ -437,6 +473,41 @@ func (siw *ServerInterfaceWrapper) SearchEntries(c *gin.Context) {
 	siw.Handler.SearchEntries(c, params)
 }
 
+// GetSitemap operation middleware
+func (siw *ServerInterfaceWrapper) GetSitemap(c *gin.Context) {
+
+	var err error
+	_ = err
+
+	// Parameter object where we will unmarshal all parameters from the context
+	var params GetSitemapParams
+
+	// ------------- Optional query parameter "page" -------------
+
+	err = runtime.BindQueryParameterWithOptions("form", true, false, "page", c.Request.URL.Query(), &params.Page, runtime.BindQueryParameterOptions{Type: "integer", Format: ""})
+	if err != nil {
+		siw.ErrorHandler(c, fmt.Errorf("Invalid format for parameter page: %w", err), http.StatusBadRequest)
+		return
+	}
+
+	// ------------- Optional query parameter "page_size" -------------
+
+	err = runtime.BindQueryParameterWithOptions("form", true, false, "page_size", c.Request.URL.Query(), &params.PageSize, runtime.BindQueryParameterOptions{Type: "integer", Format: ""})
+	if err != nil {
+		siw.ErrorHandler(c, fmt.Errorf("Invalid format for parameter page_size: %w", err), http.StatusBadRequest)
+		return
+	}
+
+	for _, middleware := range siw.HandlerMiddlewares {
+		middleware(c)
+		if c.IsAborted() {
+			return
+		}
+	}
+
+	siw.Handler.GetSitemap(c, params)
+}
+
 // GinServerOptions provides options for the Gin server.
 type GinServerOptions struct {
 	BaseURL      string
@@ -472,6 +543,7 @@ func RegisterHandlersWithOptions(router gin.IRouter, si ServerInterface, options
 	router.GET(options.BaseURL+"/v1/random", wrapper.RandomEntries)
 	router.GET(options.BaseURL+"/v1/search/definitions", wrapper.SearchDefinitions)
 	router.GET(options.BaseURL+"/v1/search/entries", wrapper.SearchEntries)
+	router.GET(options.BaseURL+"/v1/sitemap", wrapper.GetSitemap)
 }
 
 type GetHealthRequestObject struct {
@@ -676,6 +748,28 @@ func (response SearchEntries200JSONResponse) VisitSearchEntriesResponse(w http.R
 	return err
 }
 
+type GetSitemapRequestObject struct {
+	Params GetSitemapParams
+}
+
+type GetSitemapResponseObject interface {
+	VisitGetSitemapResponse(w http.ResponseWriter) error
+}
+
+type GetSitemap200JSONResponse SitemapPage
+
+func (response GetSitemap200JSONResponse) VisitGetSitemapResponse(w http.ResponseWriter) error {
+
+	var buf bytes.Buffer
+	if err := json.NewEncoder(&buf).Encode(response); err != nil {
+		return err
+	}
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(200)
+	_, err := buf.WriteTo(w)
+	return err
+}
+
 // StrictServerInterface represents all server handlers.
 type StrictServerInterface interface {
 	// ヘルスチェック
@@ -702,6 +796,9 @@ type StrictServerInterface interface {
 	// 見出し語・読みを全文検索
 	// (GET /v1/search/entries)
 	SearchEntries(ctx context.Context, request SearchEntriesRequestObject) (SearchEntriesResponseObject, error)
+	// 全収録語彙を熱度順にページングして取得
+	// (GET /v1/sitemap)
+	GetSitemap(ctx context.Context, request GetSitemapRequestObject) (GetSitemapResponseObject, error)
 }
 
 type StrictHandlerFunc func(ctx *gin.Context, request any) (any, error)
@@ -958,6 +1055,32 @@ func (sh *strictHandler) SearchEntries(ctx *gin.Context, params SearchEntriesPar
 		sh.options.HandlerErrorFunc(ctx, err)
 	} else if validResponse, ok := response.(SearchEntriesResponseObject); ok {
 		if err := validResponse.VisitSearchEntriesResponse(ctx.Writer); err != nil {
+			sh.options.ResponseErrorHandlerFunc(ctx, err)
+		}
+	} else if response != nil {
+		sh.options.ResponseErrorHandlerFunc(ctx, fmt.Errorf("unexpected response type: %T", response))
+	}
+}
+
+// GetSitemap operation middleware
+func (sh *strictHandler) GetSitemap(ctx *gin.Context, params GetSitemapParams) {
+	var request GetSitemapRequestObject
+
+	request.Params = params
+
+	handler := func(ctx *gin.Context, request interface{}) (interface{}, error) {
+		return sh.ssi.GetSitemap(ctx, request.(GetSitemapRequestObject))
+	}
+	for _, middleware := range sh.middlewares {
+		handler = middleware(handler, "GetSitemap")
+	}
+
+	response, err := handler(ctx, request)
+
+	if err != nil {
+		sh.options.HandlerErrorFunc(ctx, err)
+	} else if validResponse, ok := response.(GetSitemapResponseObject); ok {
+		if err := validResponse.VisitGetSitemapResponse(ctx.Writer); err != nil {
 			sh.options.ResponseErrorHandlerFunc(ctx, err)
 		}
 	} else if response != nil {

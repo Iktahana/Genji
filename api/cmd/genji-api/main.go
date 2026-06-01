@@ -16,6 +16,8 @@ import (
 	"github.com/Iktahana/Genji/api/internal/api"
 	"github.com/Iktahana/Genji/api/internal/cache"
 	"github.com/Iktahana/Genji/api/internal/config"
+	"github.com/Iktahana/Genji/api/internal/heat"
+	"github.com/Iktahana/Genji/api/internal/redisx"
 	"github.com/Iktahana/Genji/api/internal/server"
 	"github.com/Iktahana/Genji/api/internal/store"
 )
@@ -30,10 +32,22 @@ func main() {
 	defer st.Close()
 	log.Printf("database opened: %s", cfg.DBPath)
 
-	c := cache.New(cfg.RedisAddr, cfg.RedisPassword, cfg.RedisDB)
-	defer c.Close()
+	// Redis クライアントは一度だけ生成し cache / heat で共有する（nil = 無効）。
+	rdb := redisx.Connect(cfg.RedisAddr, cfg.RedisPassword, cfg.RedisDB)
+	if rdb != nil {
+		defer rdb.Close()
+	}
+	c := cache.NewWithClient(rdb)
+	hsvc := heat.New(rdb, cfg.HeatW30, cfg.HeatW365, cfg.HeatAggInterval)
 
-	handler := server.NewHandler(st, c, cfg.CacheTTL)
+	// 熱度ランキングの土台 seed + 集計ループ起動（Redis 有効時のみ実体が動く）。
+	aggCtx, aggCancel := context.WithCancel(context.Background())
+	defer aggCancel()
+	if hsvc.Enabled() {
+		startHeat(aggCtx, st, hsvc)
+	}
+
+	handler := server.NewHandler(st, c, hsvc, cfg.CacheTTL)
 
 	router := newRouter(handler)
 
@@ -60,6 +74,20 @@ func main() {
 	if err := srv.Shutdown(ctx); err != nil {
 		log.Printf("shutdown error: %v", err)
 	}
+}
+
+// startHeat は DB バージョンに基づく seed を行い、集計ループを起動する。
+func startHeat(ctx context.Context, st *store.Store, hsvc heat.Service) {
+	version := ""
+	if m, err := st.Metadata(); err == nil && m.Version != nil {
+		version = *m.Version
+	}
+	if uuids, err := st.AllUUIDs(); err != nil {
+		log.Printf("heat: failed to load uuids for seed: %v", err)
+	} else if err := hsvc.Seed(ctx, uuids, version); err != nil {
+		log.Printf("heat: seed failed: %v", err)
+	}
+	hsvc.StartAggregator(ctx)
 }
 
 func newRouter(handler *server.Handler) *gin.Engine {

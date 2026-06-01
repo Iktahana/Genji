@@ -203,3 +203,71 @@ func TestSanitizeFTS(t *testing.T) {
 		}
 	}
 }
+
+func TestCountEntries(t *testing.T) {
+	s := openTestStore(t)
+	n, err := s.CountEntries()
+	if err != nil {
+		t.Fatalf("CountEntries: %v", err)
+	}
+	if n != 1 {
+		t.Errorf("count = %d, want 1", n)
+	}
+}
+
+func TestAllUUIDs(t *testing.T) {
+	s := openTestStore(t)
+	uuids, err := s.AllUUIDs()
+	if err != nil {
+		t.Fatalf("AllUUIDs: %v", err)
+	}
+	if len(uuids) != 1 || uuids[0] != "11111111-1111-1111-1111-111111111111" {
+		t.Errorf("uuids = %v", uuids)
+	}
+}
+
+func TestSitemapByUUIDs(t *testing.T) {
+	s := openTestStore(t)
+	const id = "11111111-1111-1111-1111-111111111111"
+	rows, err := s.SitemapByUUIDs([]string{id, "missing"})
+	if err != nil {
+		t.Fatalf("SitemapByUUIDs: %v", err)
+	}
+	row, ok := rows[id]
+	if !ok {
+		t.Fatalf("uuid %s not found in result", id)
+	}
+	if row.Entry != "雪" {
+		t.Errorf("entry = %q, want 雪", row.Entry)
+	}
+	if _, ok := rows["missing"]; ok {
+		t.Error("missing uuid should not be present")
+	}
+	// 空入力は空 map を返す。
+	empty, err := s.SitemapByUUIDs(nil)
+	if err != nil || len(empty) != 0 {
+		t.Errorf("empty input: %v, %v", empty, err)
+	}
+}
+
+func TestSitemapByFreq(t *testing.T) {
+	s := openTestStore(t)
+	rows, err := s.SitemapByFreq(10, 0)
+	if err != nil {
+		t.Fatalf("SitemapByFreq: %v", err)
+	}
+	if len(rows) != 1 {
+		t.Fatalf("got %d rows, want 1", len(rows))
+	}
+	if rows[0].Entry != "雪" {
+		t.Errorf("entry = %q, want 雪", rows[0].Entry)
+	}
+	if rows[0].Heat != nil {
+		t.Errorf("heat should be nil in fallback, got %v", rows[0].Heat)
+	}
+	// offset で範囲外 → 0 件。
+	rows2, _ := s.SitemapByFreq(10, 5)
+	if len(rows2) != 0 {
+		t.Errorf("offset beyond range should be empty, got %d", len(rows2))
+	}
+}
