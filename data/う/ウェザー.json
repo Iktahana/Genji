@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今朝のウェザーは快晴で、絶好の行楽日和だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "明日のウェザー予報によると、午後から雨が降るらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "登山前に必ず現地のウェザー情報を確認するようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ワシントンからマウント・ウェザーの気象台へ見学に出かけた田舎廻りのがたがた汽車はアメリカとは思われない旧式の煤けた小さな客車であったが、その客車が二つの仕切りに区分されていて、広い方の入口には「ホワイト」、狭い方には「カラード」という表札が打ってある。",
@@ -263,7 +288,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.479542+00:00Z",
+      "updated_at": "2026-06-01T15:51:52.317313+00:00Z",
       "frequencies": {
         "aozora": 7
       }
