@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平日の昼間、閑散とした映画館で一人で映画を観るのが好きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家の近くの映画館が、今週末で閉館することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "映画館の売店でポップコーンを買うと、いよいよ映画が始まる感じがする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私にしても、心の弱っている時に、ふらと映画館に吸い込まれる。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.724705+00:00Z",
+      "updated_at": "2026-06-01T21:02:42.406603+00:00Z",
       "freq_rank": 5179,
       "frequencies": {
         "aozora": 414
