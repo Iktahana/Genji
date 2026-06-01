@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "虫歯になった奥歯が激しく痛み出し、急いで歯医者の予約を入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "奥歯で硬いものを噛んだとたん、詰め物がぽろりと取れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "親知らずは奥歯の一番奥に生えるため、抜歯が難しい場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「右の奥歯がいたくてなりません。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.598024+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.451122+00:00Z",
       "freq_rank": 22689,
       "frequencies": {
         "aozora": 256

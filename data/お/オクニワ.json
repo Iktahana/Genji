@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の料亭の奥庭には、手入れの行き届いた苔庭が広がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "縁側から奥庭を眺めながら、祖父はゆっくりとお茶を飲んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "奥庭の紅葉が見頃を迎え、旅館の主人が宿泊客を案内して回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここから精進口の登山新道、三合目へ下りることが出来て、途中に中庭、奥庭などを通過するそうだ。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.593690+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.447336+00:00Z",
       "frequencies": {
         "aozora": 214
       }
