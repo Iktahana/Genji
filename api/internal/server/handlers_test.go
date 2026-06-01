@@ -48,8 +48,8 @@ func (m *memCache) Set(_ context.Context, key string, val []byte, _ time.Duratio
 	m.data[key] = cp
 }
 
-func (m *memCache) Enabled() bool  { return true }
-func (m *memCache) Close() error   { return nil }
+func (m *memCache) Enabled() bool { return true }
+func (m *memCache) Close() error  { return nil }
 func (m *memCache) keys() []string {
 	m.mu.Lock()
 	defer m.mu.Unlock()
@@ -270,6 +270,36 @@ func TestMetadataEndpoint(t *testing.T) {
 	}
 }
 
+func TestApiInfoEndpoint(t *testing.T) {
+	r := newTestServer(t, cache.NoopCache{})
+	w := doGet(t, r, "/")
+	if w.Code != 200 {
+		t.Fatalf("status = %d, body=%s", w.Code, w.Body.String())
+	}
+	var info api.ApiInfo
+	if err := json.Unmarshal(w.Body.Bytes(), &info); err != nil {
+		t.Fatalf("decode: %v", err)
+	}
+	if info.Name == "" || info.Description == "" {
+		t.Errorf("name/description empty: %+v", info)
+	}
+	if info.Version == nil || *info.Version != "e2e" {
+		t.Errorf("version = %v, want e2e", info.Version)
+	}
+	if info.EntryCount == nil || *info.EntryCount != "1" {
+		t.Errorf("entry_count = %v, want 1", info.EntryCount)
+	}
+	if info.Docs != "/docs" || info.Openapi != "/openapi.yaml" {
+		t.Errorf("docs/openapi = %q/%q", info.Docs, info.Openapi)
+	}
+	if !strings.Contains(info.Frontend, "dict.illusions.app") {
+		t.Errorf("frontend = %q", info.Frontend)
+	}
+	if len(info.Endpoints) == 0 {
+		t.Error("endpoints should not be empty")
+	}
+}
+
 func TestDocsEndpoints(t *testing.T) {
 	r := newTestServer(t, cache.NoopCache{})
 	if w := doGet(t, r, "/openapi.yaml"); w.Code != 200 || w.Body.Len() == 0 {
@@ -345,9 +375,9 @@ func TestRandomNotCached(t *testing.T) {
 func TestClamp(t *testing.T) {
 	five := 5
 	cases := []struct {
-		v              *int
-		def, min, max  int
-		want           int
+		v             *int
+		def, min, max int
+		want          int
 	}{
 		{nil, 50, 1, 200, 50},
 		{&five, 50, 1, 200, 5},
@@ -369,10 +399,10 @@ type fakeHeat struct {
 	total  int
 }
 
-func (fakeHeat) Enabled() bool   { return true }
-func (fakeHeat) Hit(...string)   {}
-func (fakeHeat) Seed(context.Context, []string, string) error { return nil }
-func (fakeHeat) StartAggregator(context.Context)              {}
+func (fakeHeat) Enabled() bool                                        { return true }
+func (fakeHeat) Hit(...string)                                        {}
+func (fakeHeat) Seed(context.Context, []heat.SeedEntry, string) error { return nil }
+func (fakeHeat) StartAggregator(context.Context)                      {}
 func (f fakeHeat) Page(_ context.Context, offset, limit int) ([]heat.Ranked, int, error) {
 	if offset >= len(f.ranked) {
 		return nil, f.total, nil

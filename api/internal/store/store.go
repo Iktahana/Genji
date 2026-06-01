@@ -288,6 +288,22 @@ func (s *Store) CountEntries() (int, error) {
 	return n, err
 }
 
+// sitemapPOSWhere は sitemap 対象（名詞・動詞・形容詞系列）に絞る WHERE 条件。
+// pos（JSON 配列）の要素の大分類が 名詞 / 動詞 / 形容詞 / 形容動詞 のいずれかなら対象。
+// 例: 名詞, 名詞-の形容詞, 動詞-サ変, 形容詞-語幹, 形容動詞。表現・副詞・助詞等は除外。
+const sitemapPOSWhere = `EXISTS (
+		SELECT 1 FROM json_each(pos)
+		WHERE value LIKE '名詞%' OR value LIKE '動詞%'
+		   OR value LIKE '形容詞%' OR value LIKE '形容動詞%'
+	)`
+
+// CountSitemapEntries は sitemap 対象品詞の語彙数を返す（フォールバックの total 用）。
+func (s *Store) CountSitemapEntries() (int, error) {
+	var n int
+	err := s.db.QueryRow(`SELECT COUNT(*) FROM entries WHERE ` + sitemapPOSWhere).Scan(&n)
+	return n, err
+}
+
 // AllUUIDs は全エントリの uuid を返す（heat ランキングの土台 seed 用）。
 func (s *Store) AllUUIDs() ([]string, error) {
 	rows, err := s.db.Query(`SELECT uuid FROM entries`)
@@ -305,6 +321,39 @@ func (s *Store) AllUUIDs() ([]string, error) {
 		uuids = append(uuids, u)
 	}
 	return uuids, rows.Err()
+}
+
+// FreqEntry は uuid と meta.frequencies の合計出現回数。熱度の seed に使う。
+type FreqEntry struct {
+	UUID    string
+	FreqSum int64
+}
+
+// EntryFreqSums は全エントリの uuid と meta.frequencies 値合計を返す。
+// frequencies が無い／meta が NULL の場合は合計 0。
+func (s *Store) EntryFreqSums() ([]FreqEntry, error) {
+	rows, err := s.db.Query(`
+		SELECT uuid,
+		       COALESCE((
+		           SELECT SUM(CAST(value AS INTEGER))
+		           FROM json_each(meta, '$.frequencies')
+		       ), 0) AS freq_sum
+		FROM entries
+		WHERE ` + sitemapPOSWhere)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	out := make([]FreqEntry, 0, 1024)
+	for rows.Next() {
+		var e FreqEntry
+		if err := rows.Scan(&e.UUID, &e.FreqSum); err != nil {
+			return nil, err
+		}
+		out = append(out, e)
+	}
+	return out, rows.Err()
 }
 
 // SitemapByUUIDs は指定 uuid 群の sitemap 行を取得する（順序は呼び出し側で復元する）。
@@ -353,6 +402,7 @@ func (s *Store) SitemapByFreq(limit, offset int) ([]SitemapRow, error) {
 		       json_extract(meta, '$.updated_at') AS updated_at,
 		       CAST(json_extract(meta, '$.freq_rank') AS INTEGER) AS freq
 		FROM entries
+		WHERE `+sitemapPOSWhere+`
 		ORDER BY (freq IS NULL), freq ASC, entry ASC
 		LIMIT ? OFFSET ?`, limit, offset)
 	if err != nil {

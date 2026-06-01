@@ -26,21 +26,24 @@ https://幻辞.com
 
 SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-first** な REST API を提供しています（`api/`、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
 
+**公開Endpoint: `https://dict-api.illusions.app`**
+
 | メソッド・パス | 説明 |
 |---|---|
+| `GET /` | API トップ情報（バージョン・収録語数・エンドポイント一覧） |
 | `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
 | `GET /v1/lookup/reading?reading=ゆき` | 読みの完全一致 |
 | `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索（FTS5） |
 | `GET /v1/search/definitions?q=snow` | 語釈の全文検索（FTS5） |
 | `GET /v1/random?count=5` | ランダム取得 |
 | `GET /v1/entries/{uuid}` | UUID で取得 |
-| `GET /v1/sitemap?page=1&page_size=1000` | 全語彙を熱度順にページング（sitemap 用） |
+| `GET /v1/sitemap?page=1&page_size=1000` | 対象品詞（名詞・動詞・形容詞系列）の語を熱度順にページング（sitemap 用） |
 | `GET /v1/metadata` ・ `GET /healthz` | メタデータ・ヘルスチェック |
 | `GET /docs` | API ドキュメント（Redoc） |
 
 ```bash
-docker pull ghcr.io/iktahana/genji-api:latest
-docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
+docker pull ghcr.io/illusions-lab/genji-api:latest
+docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
 # http://localhost:8080/docs で仕様を閲覧
 ```
 
@@ -89,8 +92,8 @@ SELECT * FROM _metadata;
 API の Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応、`genji.db` 内蔵）。
 
 ```bash
-docker pull ghcr.io/iktahana/genji-api:latest
-docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
+docker pull ghcr.io/illusions-lab/genji-api:latest
+docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
 ```
 
 ローカルからビルドして起動する場合:
