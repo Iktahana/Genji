@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのマルウェアはアスパックで圧縮・難読化されており、解析ツールでは簡単に中身を読み取れなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティ担当者はアスパックを使って実行ファイルを保護する手法が攻撃者にも悪用されていると報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "逆コンパイル作業を始めたところ、バイナリがアスパックによってパックされていることがすぐに判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -49,7 +74,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:05:11.245431+00:00Z"
+      "updated_at": "2026-06-01T13:42:35.048389+00:00Z"
     }
   }
 ]

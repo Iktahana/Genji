@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "設定情報のバックアップは、専用のフォーマットではなく単純なＡＳＣＩＩファイルとして出力される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "バイナリデータが含まれているとエラーになるため、テキストエディタで開いてＡＳＣＩＩファイルであることを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その古い計測機器は、測定結果をフロッピーディスクにＡＳＣＩＩファイル形式で保存する仕様になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -57,7 +82,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:05:07.625261+00:00Z"
+      "updated_at": "2026-06-01T13:40:44.251245+00:00Z"
     }
   }
 ]
