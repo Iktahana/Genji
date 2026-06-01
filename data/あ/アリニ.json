@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "倉庫のあり荷をチェックしてください",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "現在のあり荷は月初比で30%減少している",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "システムに登録されているあり荷と実在庫が合致しない",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "機会宮沢賢治恋のはじめのおとなひはかの青春に来りけりおなじき第二神来は蒼き上着にありにけりその第三は諸人の栄誉のなかに来りけりいまおゝその四愛憐は何たるぼろの中に来しぞも",
@@ -269,14 +294,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "在庫",
+        "手持ち",
+        "有り高",
+        "ストック"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "荷物",
+        "在庫管理",
+        "倉庫",
+        "棚卸し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:07.122917+00:00Z"
+      "updated_at": "2026-06-01T13:48:13.107402+00:00Z"
     }
   }
 ]
