@@ -71,9 +71,14 @@ type EntryList struct {
 
 // EntryMeta defines model for EntryMeta.
 type EntryMeta struct {
-	Source    *string `json:"source,omitempty"`
-	UpdatedAt *string `json:"updated_at,omitempty"`
-	Version   *string `json:"version,omitempty"`
+	// FreqRank 頻度ランク（小さいほど高頻度。hingston/japanese 由来）
+	FreqRank *int `json:"freq_rank,omitempty"`
+
+	// Frequencies 出典別の総出現回数。例: {"aozora": 1234}
+	Frequencies *map[string]int `json:"frequencies,omitempty"`
+	Source      *string         `json:"source,omitempty"`
+	UpdatedAt   *string         `json:"updated_at,omitempty"`
+	Version     *string         `json:"version,omitempty"`
 }
 
 // Error defines model for Error.
