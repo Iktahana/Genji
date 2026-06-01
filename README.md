@@ -24,45 +24,14 @@ https://幻辞.com
 
 ### API
 
-SQLite を直接使用できない環境向けに、Datasette ベースの REST API を提供しています。
-
-**エンドポイント:** `https://dict-api.illusions.app`
-
-#### 定型クエリ
-
-| クエリ | URL | パラメータ |
-|--------|-----|-----------|
-| 見出し語で検索 | `/genji/lookup_by_entry.json?word=雪` | `word` |
-| 読みで検索 | `/genji/lookup_by_reading.json?reading=ゆき` | `reading` |
-| 見出し語・読みを全文検索 | `/genji/search_entries.json?q=食べ` | `q` |
-| 語釈を全文検索 | `/genji/search_definitions.json?q=eat` | `q` |
-| ランダムな語を取得 | `/genji/random_entries.json?count=5` | `count` |
-
-#### テーブル直接アクセス
-
-```
-# 全エントリ一覧（ページング付き）
-https://dict-api.illusions.app/genji/entries.json?_size=20
-
-# 特定 UUID のエントリ
-https://dict-api.illusions.app/genji/entries/UUID.json
-
-# フィルタ付きクエリ
-https://dict-api.illusions.app/genji/entries.json?entry=雪&_shape=array
-```
-
-詳細なクエリパラメータは [Datasette ドキュメント](https://docs.datasette.io/en/stable/json_api.html) を参照してください。
-
-#### Go / Gin API (`api/`)
-
-Datasette と並立する、Go + Gin 製の **OpenAPI-first** な REST API も提供しています（ポート 8080、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
+SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-first** な REST API を提供しています（`api/`、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
 
 | メソッド・パス | 説明 |
 |---|---|
 | `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
 | `GET /v1/lookup/reading?reading=ゆき` | 読みの完全一致 |
-| `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索 |
-| `GET /v1/search/definitions?q=snow` | 語釈の全文検索 |
+| `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索（FTS5） |
+| `GET /v1/search/definitions?q=snow` | 語釈の全文検索（FTS5） |
 | `GET /v1/random?count=5` | ランダム取得 |
 | `GET /v1/entries/{uuid}` | UUID で取得 |
 | `GET /v1/metadata` ・ `GET /healthz` | メタデータ・ヘルスチェック |
@@ -116,17 +85,18 @@ SELECT * FROM _metadata;
 
 ### Docker
 
-Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応）。
+API の Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応、`genji.db` 内蔵）。
 
 ```bash
-docker pull ghcr.io/iktahana/genji:latest
-docker run -p 8001:8001 ghcr.io/iktahana/genji:latest
+docker pull ghcr.io/iktahana/genji-api:latest
+docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
 ```
 
-ローカルでビルドする場合、`genji.db` が無くてもコンテナ内で自動生成されます。
+ローカルからビルドして起動する場合:
 
 ```bash
 docker compose up -d --build
 ```
 
-`http://localhost:8001` で Datasette API にアクセスできます。
+`http://localhost:8080` で API、`http://localhost:8080/docs` で仕様を閲覧できます。
+詳細なビルドオプション（`GENJI_DB_SOURCE` や Redis 併用）は [`api/README.md`](./api/README.md) を参照してください。

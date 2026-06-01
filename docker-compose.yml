@@ -1,14 +1,7 @@
 # 幻辞 API サービス
 services:
-  # Datasette API（既存・ポート 8001）
-  api:
-    build: .
-    ports:
-      - "8001:8001"
-    restart: unless-stopped
-
   # Go + Gin API（DB 内蔵・ポート 8080）
-  api-go:
+  api:
     build:
       context: ./api
       # 既定 (remote) は GitHub Releases から最新 DB を取得して内蔵する。
