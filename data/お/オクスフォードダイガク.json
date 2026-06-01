@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はオクスフォード大学で哲学を専攻している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オクスフォード大学は13世紀に設立された世界で最も古い大学の一つです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この研究チームはオクスフォード大学の医学部に属しています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こういう風趣の作品を書いた作者落華生が、コロンビア大学、オクスフォード大学に遊学して、専門は印度哲学の教授であるというのは面白い。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.551184+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.425479+00:00Z",
       "frequencies": {
         "aozora": 19
       }

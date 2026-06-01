@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "机の上の置き時計を見ると、もう10時だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝日が当たる窓辺に置き時計を置いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この置き時計は祖母からもらったものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二つの時計――その一つは小形の置き時計で、右側の壁にくっつけた戸棚の上にある、もう一つは懐中時計でベットの頭の手すりにつるしてある――この二つの時計の秒を刻む音と、足もとのほうから聞こえて来る付添看護婦の静かな寝息のほかには何もない。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.406403+00:00Z",
+      "updated_at": "2026-06-01T22:16:22.290900+00:00Z",
       "frequencies": {
         "aozora": 28
       }

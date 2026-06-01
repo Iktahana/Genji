@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "岡大の医学部を目指して、毎日十時間勉強している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は岡大出身で、在学中に書いた論文が高く評価されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "岡大のオープンキャンパスに参加して、キャンパスの広さに驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先達てかねて紹介して置いた福岡大学の久保博士からの来書に、長塚君が診察を依頼に見えたとあるから、今頃は九州に居るだろう。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.249447+00:00Z",
+      "updated_at": "2026-06-01T22:13:10.169091+00:00Z",
       "frequencies": {
         "aozora": 2
       }
