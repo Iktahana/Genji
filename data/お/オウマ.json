@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バングラデシュでは黄麻の栽培が農家の重要な収入源となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "黄麻から作られた繊維は丈夫で安価なため、麻袋や包装材として広く使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "環境への配慮から、プラスチック袋の代わりに黄麻製のエコバッグを選ぶ消費者が増えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "着物でも夏であったが、黄麻の無地で、髪や容貌と似合っていた。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.469254+00:00Z",
+      "updated_at": "2026-06-01T21:48:56.421016+00:00Z",
       "frequencies": {
         "aozora": 10
       }

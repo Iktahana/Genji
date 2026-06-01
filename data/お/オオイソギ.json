@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大急ぎで荷物をまとめて、駅に向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大急ぎで用意したせいで、忘れ物が多かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大急ぎで逃げる人々の姿が目に焼き付いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いま、この仕事を大急ぎで片づけてしまいますから、それまで鳥渡、待っていて下さいね。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.590380+00:00Z",
+      "updated_at": "2026-06-01T21:51:55.528977+00:00Z",
       "freq_rank": 21929,
       "frequencies": {
         "aozora": 1782

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日からの大雨で、近くの川が増水し危険な状態になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大雨の中を自転車で走っていたら、全身ずぶ濡れになってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "梅雨の時期は、突然の大雨に備えて折りたたみ傘が手放せない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大雨の中を頭からぬれひたって銀座通りを歩いていてもだれもとがめる人もなければ、よけいな心配をする人もない。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.569845+00:00Z",
+      "updated_at": "2026-06-01T21:50:01.486123+00:00Z",
       "freq_rank": 10285,
       "frequencies": {
         "aozora": 612

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "往昔の日本は異なる姿をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "往昔の伝統が今も守られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "往昔から続く家業を引き継いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大陸移動説を唱えたウェーゲナーは、この事実をもってヨーロッパと北米大陸とが往昔連結していたという自説の証拠の一つとしてこれを引用しているくらいである。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.335252+00:00Z",
+      "updated_at": "2026-06-01T21:43:27.025807+00:00Z",
       "frequencies": {
         "aozora": 156
       }

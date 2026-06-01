@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大分県は別府温泉で知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大分県の農業生産高は全国トップレベルだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大分県を訪れたら、地元の野菜をぜひ食べてみたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "九州で福岡は東京流行の魁　九州で東京風の流行の真先に這入って来る処は福岡で、その次が大分県の別府だそうである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.592107+00:00Z",
+      "updated_at": "2026-06-01T21:51:55.530371+00:00Z",
       "frequencies": {
         "aozora": 49
       }

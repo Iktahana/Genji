@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海外渡航の前には、黄熱病の予防接種が推奨される国が多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "過去には黄熱病の大流行が多くの人命を奪った悲劇が記録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マラリアと同じく、黄熱病は蚊によって媒介される感染症だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "加ふるに黄熱病が猖獗を極めてゐて、ルモオルは船から船に移されて漸くのことで例の親戚の手に渡されたのだが、その親戚は貧乏になりはてちまつてゐたといふわけだ。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.418053+00:00Z",
+      "updated_at": "2026-06-01T21:47:42.361806+00:00Z",
       "frequencies": {
         "aozora": 36
       }

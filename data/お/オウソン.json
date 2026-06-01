@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王孫として宮中に育った彼は、幼い頃から帝王教育を受けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "亡命した王族の末裔として、彼は自らが正統な王孫であると主張した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "外国を訪問した王孫は、各地で市民と交流し親善を深めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし『淵鑑類函』四三二、後漢王延寿王孫賦、既に酔い眠った猴を縛り帰って庭厩に繋ぐとあれば、郭璞に始まったとは大啌だ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.349442+00:00Z",
+      "updated_at": "2026-06-01T21:43:33.829621+00:00Z",
       "frequencies": {
         "aozora": 39
       }

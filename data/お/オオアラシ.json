@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨晩は大嵐で、家の窓がガタガタと音を立てていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "船は突然の大嵐に見舞われ、荒れる海を航行するのに苦労した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "台風の中心部では、大嵐が吹き荒れて甚大な被害をもたらした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつかの大嵐には黒い波が一町に余る浜を打上がって松原の根を洗うた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.572434+00:00Z",
+      "updated_at": "2026-06-01T21:50:01.487216+00:00Z",
       "frequencies": {
         "aozora": 82
       }

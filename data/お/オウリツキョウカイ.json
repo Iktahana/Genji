@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アイザック・ニュートンは、**王立協会**の会長を務めたことで知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は科学の発展に貢献した功績が認められ、**王立協会**のフェローに選出された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この重要な研究成果は、**王立協会**が発行する権威ある学術誌に掲載された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "丁度この時に王立協会から恩賜賞（Royal Medal）を貰ったが受取りに出ることが出来なかった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.519416+00:00Z"
+      "updated_at": "2026-06-01T21:49:26.727834+00:00Z"
     }
   }
 ]
