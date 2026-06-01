@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深夜の海岸で、大きな海がめが産卵のために上陸してきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "海がめが優雅に水中を泳ぐ姿は、見ていて飽きない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "プラスチックゴミを食べてしまう海がめのニュースに胸が痛む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かと思うと、月夜に、海の底から砂地に這上って、砂に卵を産みにくる海がめもいる。",
@@ -199,7 +224,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.788122+00:00Z",
+      "updated_at": "2026-06-01T16:41:16.859517+00:00Z",
       "frequencies": {
         "aozora": 19
       }

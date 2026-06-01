@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年は午年だから、年賀状には馬のイラストをたくさん描いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私の父は午年生まれで、行動力があってエネルギッシュな性格をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "午年の人は気性が激しいと聞いたことがあるが、彼女はとても穏やかだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "天明六、丙午年は、不思議に元日も丙午で此の年、皆虧の蝕があつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.727955+00:00Z",
+      "updated_at": "2026-06-01T16:39:10.763607+00:00Z",
       "frequencies": {
         "aozora": 37
       }

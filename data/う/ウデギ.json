@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "電柱の腕木が老朽化していたため、新しいものに交換する工事が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の鉄道の信号機は、腕木を上下させて合図を送る腕木式だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電信柱の腕木に、重そうなケーブルがたくさん吊るされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何とも云へずさびしい気がしてぼんやりそっちを見てゐましたら向ふの河岸に二本の電信ばしらが丁度両方から腕を組んだやうに赤い腕木をつらねて立ってゐました。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.547637+00:00Z",
+      "updated_at": "2026-06-01T16:34:20.908937+00:00Z",
       "frequencies": {
         "aozora": 68
       }

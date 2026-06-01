@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生まれてからずっとこの町に住んでいるが、いまだに飽きることがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれてから一度も故郷を離れたことがなかった彼が、初めて飛行機に乗った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれてからの記憶で最も古いのは、縁側に揺れていたひまわりの花だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "生まれてから七、八十歳で死ぬまで一度も風邪を引かないような人があったら、はたが迷惑かもしれない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.765874+00:00Z"
+      "updated_at": "2026-06-01T16:42:17.869804+00:00Z"
     }
   }
 ]

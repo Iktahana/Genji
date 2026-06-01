@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その新聞社は右派の論調で知られ、長年保守層の読者に支持されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今回の選挙では、右派の候補者が新しい政策を打ち出し注目を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "議論が白熱する中、右派と左派の意見は平行線をたどるばかりだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は社会党の右派でも左派でもなければ、共産党員でもない。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.643584+00:00Z",
+      "updated_at": "2026-06-01T16:35:12.580410+00:00Z",
       "freq_rank": 16555,
       "frequencies": {
         "aozora": 8

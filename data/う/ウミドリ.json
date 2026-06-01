@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝早く海に行くと、海鳥が波打ち際で食事をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海鳥のひなが生まれる季節は、この地域で特別に保護される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海鳥が多く集まる場所は、魚が豊富だという目安になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "海上の日の出がどんなに美しかろうが、海鳥が飛ぼうが、鯨がはねようがそんな事はどうでもよい、一刻も早く目的地に上陸して動かぬ地盤が踏みたいと願う。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.809889+00:00Z",
+      "updated_at": "2026-06-01T16:42:00.024862+00:00Z",
       "freq_rank": 31876,
       "frequencies": {
         "aozora": 177

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母は公園で乳母車を押しながら、赤ちゃんを寝かしつけていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の乳母車は、今のようなクッション性がなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "双子だから二人乗り用の乳母車を買った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夕ぐれ、めっきり水の細った秋の公園の噴水が霧のように淡い水量を吐き出している傍を子守達は子を乗せた乳母車を押しながら家路に帰って行く。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.651184+00:00Z",
+      "updated_at": "2026-06-01T16:35:45.943354+00:00Z",
       "frequencies": {
         "aozora": 200
       }

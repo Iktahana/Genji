@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎月第一日曜日に馬市が開かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬市で良い駄馬を手頃な値段で買えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬市には農家だけでなく、武家の家臣たちも訪れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）（おお、諏訪の湖の辺まで馬市へ出しやすのじゃ、これから明朝お坊様が歩行かっしゃる山路を越えて行きやす。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.700323+00:00Z",
+      "updated_at": "2026-06-01T16:38:18.990414+00:00Z",
       "frequencies": {
         "aozora": 105
       }

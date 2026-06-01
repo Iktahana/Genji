@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海燕は嵐の中でも優雅に飛び回る小さな海鳥だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖に出ると、海燕の姿をよく見かけるようになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海燕は外洋で生活する数少ない野鳥の一種である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "市郎は其綱の片端を自分の胴に緊と結び付けて、海燕の巣を猟る支那人のように、岩を伝って真直に降り初めた。",
@@ -110,7 +135,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.804357+00:00Z",
+      "updated_at": "2026-06-01T16:42:00.022168+00:00Z",
       "frequencies": {
         "aozora": 18
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は生まれつき足が不自由だが、水泳では誰にも負けない記録を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれつき耳が聞こえない彼女は、手話を使って詩を作り続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は生まれつき好奇心が旺盛で、見知らぬものに出会うと必ず調べずにはいられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "生まれつき盲目で視神経の能力を欠いた人間には色という言葉はなんらの意味を持たない、物体の性質から色という観念をぬき出して考える事がどうしてもできない。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.765353+00:00Z",
+      "updated_at": "2026-06-01T16:42:17.868929+00:00Z",
       "freq_rank": 19938,
       "frequencies": {
         "aozora": 191

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の生まれ年に仕込まれたワインを、還暦の祝いに家族でそっと開けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "履歴書には生まれ年と生まれ月日を正確に記入する欄がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の生まれ年は戦争が終わった翌年で、激動の時代の幕開けでもあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "気候の変化が人間の生理にも若干の影響があるかもしれないとすると、それが胎児の特異性に多少の効果を印銘することが全然ないとも限らないし、そうなると生まれ年の干支とその人の特性とが、少なくもある期間については多少の相関を示す場合がないとも言われないような気がして来るのである。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.773307+00:00Z",
+      "updated_at": "2026-06-01T16:42:17.871838+00:00Z",
       "frequencies": {
         "aozora": 7
       }

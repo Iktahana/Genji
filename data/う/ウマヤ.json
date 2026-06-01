@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "馬の厩は毎日きちんと清掃しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その厩は木造で、古風な作りでした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "厩から馬の嘶く声が聞こえます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "村落の光る厩のうへに、かがやく愛の手は伸びゆきて、われの身は銀の一脈、ひそかに息づき生命はや絶えなんとする。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.747097+00:00Z",
+      "updated_at": "2026-06-01T16:40:49.980108+00:00Z",
       "freq_rank": 33224,
       "frequencies": {
         "aozora": 764
