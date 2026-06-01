@@ -33,6 +33,22 @@
             {
               "text": "これはアイリスの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "公園の花壇には、紫色のアイリスが見事に咲き誇っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は誕生日プレゼントに、アイリスをあしらった花束を贈られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -274,14 +290,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "菖蒲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "花",
+        "虹彩"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:44.663109+00:00Z",
       "freq_rank": 29607,
       "frequencies": {
         "aozora": 75

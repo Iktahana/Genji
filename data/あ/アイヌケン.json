@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "散歩中に、飼い主に従順な賢そうなアイヌ犬を見かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "北海道出身の祖父は、昔アイヌ犬を猟の相棒として飼っていたそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "がっしりとした体格のアイヌ犬は、日本の天然記念物に指定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "北海道犬"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本犬",
+        "天然記念物",
+        "狩猟犬",
+        "北海道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.598327+00:00Z"
     }
   }
 ]

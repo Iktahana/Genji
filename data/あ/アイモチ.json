@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "兄弟で実家の土地を相持ちにしているため、売却には全員の同意が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この別荘は、大学時代の友人たち数人との相持ちになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "共有名義の不動産を相持ちにすると、将来的にトラブルの原因となることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -74,14 +94,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "共有",
+        "共同所有",
+        "折半",
+        "割り勘"
+      ],
+      "antonyms": [
+        "専有",
+        "独占"
+      ],
+      "related": [
+        "共同",
+        "分担"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:54.163315+00:00Z",
       "frequencies": {
         "aozora": 5
       }

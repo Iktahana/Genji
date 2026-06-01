@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「最近は朝晩が少し冷え込むので、冬服から合服に着替えて出勤している。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「衣替えの時期に向けて、クリーニングに出しておいた合服のスーツを受け取ってきた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「春や秋の短い期間にしか着ない合服だが、一着持っておくと体温調節に便利だ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -162,14 +182,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "合い着",
+        "中間着"
+      ],
+      "antonyms": [
+        "夏服",
+        "冬服"
+      ],
+      "related": [
+        "衣替え",
+        "春",
+        "秋",
+        "衣服",
+        "制服"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:05.728375+00:00Z",
       "frequencies": {
         "aozora": 17
       }

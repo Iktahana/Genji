@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼は絶妙なドロップショットを放ち、ボールを相手コートの隅に沈めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "バレーボールでは、ボールを相手コートに落とせば得点になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "渾身のスマッシュが、相手コートに突き刺さった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "敵陣"
+      ],
+      "antonyms": [
+        "自陣"
+      ],
+      "related": [
+        "コート",
+        "テニス",
+        "バレーボール",
+        "スポーツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.476516+00:00Z"
     }
   }
 ]

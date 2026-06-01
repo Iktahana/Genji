@@ -32,12 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "私の不器用な手つきを見て、彼は隠そうともせずに露骨に嘲り笑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "人の新しい挑戦を嘲り笑うような態度は、チーム全体の士気を下げるだけだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼はライバルが犯した些細なミスを嘲り笑うことで、自分の優位性を保とうとしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -143,14 +159,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嘲笑する",
+        "冷笑する",
+        "あざわらう"
+      ],
+      "antonyms": [
+        "敬う",
+        "褒める"
+      ],
+      "related": [
+        "笑う",
+        "嘲る",
+        "揶揄",
+        "軽蔑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:31:57.301547+00:00Z",
       "frequencies": {
         "aozora": 47
       }

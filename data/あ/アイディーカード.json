@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "セキュリティエリアに入る際は、入り口のセンサーにＩＤカードをかざしてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ＩＤカードを紛失してしまったため、再発行の手続きを総務部で行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "社内では常にＩＤカードを首から下げておくのがルールとなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "身分証明書",
+        "認証カード",
+        "身分証"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "本人確認",
+        "提示",
+        "携帯",
+        "プラスチックカード"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.926027+00:00Z"
     }
   }
 ]

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "旅人たちは次の宿場町までまだ距離があるため、間の宿で一休みすることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "このあたりは、かつて東海道の間の宿として栄えた場所だそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "間の宿には、旅人のための小さな茶屋や商店が軒を連ねていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宿場",
+        "休憩所"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "江戸時代",
+        "旅籠",
+        "宿場町",
+        "街道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.607874+00:00Z"
     }
   }
 ]

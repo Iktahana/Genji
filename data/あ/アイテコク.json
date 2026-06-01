@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "首脳会談では、貿易不均衡の是正が相手国への主要な議題となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この技術援助プロジェクトは、相手国の経済的自立を支援することを目的としている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "留学先の文化を学ぶだけでなく、相手国に日本文化を紹介することも大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -242,14 +262,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相手方",
+        "当事国"
+      ],
+      "antonyms": [
+        "自国"
+      ],
+      "related": [
+        "二国間",
+        "交渉",
+        "条約",
+        "貿易"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.475677+00:00Z"
     }
   }
 ]

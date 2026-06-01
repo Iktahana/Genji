@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "毎日手入れをしているうちに、中古で買った車に愛着がわいてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最初は使いにくいと思っていた道具だが、慣れると不思議と愛着がわくものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自分で一から組み立てた家具は、完成した瞬間に愛着がわく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -51,14 +71,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "愛情が湧く",
+        "情が移る",
+        "親しみを感じる"
+      ],
+      "antonyms": [
+        "嫌気がさす"
+      ],
+      "related": [
+        "馴染む",
+        "慣れ親しむ",
+        "思い入れ",
+        "愛着"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:51.144224+00:00Z"
     }
   }
 ]

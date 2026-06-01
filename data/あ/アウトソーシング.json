@@ -34,6 +34,22 @@
             {
               "text": "これはアウトソーシングの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "コスト削減のため、経理業務の一部を専門の会社にアウトソーシングすることを決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "近年、多くの企業が人手不足を補うために、コールセンターの業務をアウトソーシングしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -42,14 +58,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "業務委託",
+        "外部委託",
+        "委託"
+      ],
+      "antonyms": [
+        "内製化",
+        "内部化"
+      ],
+      "related": [
+        "コスト削減",
+        "経営戦略",
+        "人員削減"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:58:28.104824+00:00Z",
       "freq_rank": 14223
     }
   }

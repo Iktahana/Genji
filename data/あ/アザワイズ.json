@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "システムがクラッシュしないよう、メモリは適切に解放してください。アザワイズ、予期せぬエラーが発生します。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "このオプションを選択してください。アザワイズ、デフォルトの動作が適用されます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "最初から説明書を読んでいれば、アザワイズこんなに時間を無駄にすることはなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "さもなければ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "英語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:32:50.520937+00:00Z"
     }
   }
 ]

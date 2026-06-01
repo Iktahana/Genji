@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "借金を苦にした若い夫婦が相対死を図ったというニュースに、胸が痛んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "近松門左衛門の浄瑠璃には、叶わぬ恋の末に相対死を選ぶ男女がよく描かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は心中事件の捜査資料を読み込み、二人が相対死に至った背景を調べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -162,14 +182,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "心中",
+        "情死"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "自殺",
+        "恋愛",
+        "悲劇",
+        "合意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:27.169900+00:00Z"
     }
   }
 ]

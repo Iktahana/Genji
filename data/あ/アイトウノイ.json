@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "災害の犠牲者の方々に、心より哀悼の意を表します。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "記帳所に設けられたノートには、訪れた多くのファンからの哀悼の意が綴られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "葬儀に参列できないため、せめてもの哀悼の意を込めて立派な供花を手配した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -123,14 +143,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "弔意",
+        "お悔やみ"
+      ],
+      "antonyms": [
+        "祝辞"
+      ],
+      "related": [
+        "葬儀",
+        "弔詞",
+        "礼儀",
+        "追悼"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.115330+00:00Z"
     }
   }
 ]

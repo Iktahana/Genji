@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "北海道の博物館を訪れ、アイヌの伝統文化や歴史について深く学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼はアイヌにルーツを持つ自身の出自を誇りに思い、その文化継承に尽力している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "アイヌの古い伝承には、自然と共に生きる知恵が詰まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -260,14 +280,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "先住民族"
+      ],
+      "antonyms": [
+        "和人"
+      ],
+      "related": [
+        "北海道",
+        "ウポポイ",
+        "アイヌ文化",
+        "蝦夷",
+        "カムイ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:51:45.597431+00:00Z",
       "freq_rank": 11446,
       "frequencies": {
         "aozora": 1565

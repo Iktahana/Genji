@@ -31,84 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例文1",
-              "source": "幻辞"
+              "text": "プロセッサの命令セット内でアクセス制御語を参照することで、メモリ領域への読み書き権限が決定される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文3",
-              "source": "幻辞"
+              "text": "オペレーティングシステムはアクセス制御語を用いてカーネル空間とユーザー空間を厳密に分離している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文21",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文23",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文25",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文27",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文29",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文31",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文33",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文35",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文37",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文39",
-              "source": "幻辞"
+              "text": "アクセス制御語のビットフィールド設計を誤ると、意図しないプロセスがシステムリソースを操作できてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -119,12 +63,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "メモリ保護",
+        "オペレーティングシステム",
+        "セキュリティ",
+        "権限",
+        "プログラム実行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:13:25.441102+00:00Z"
     }
   }
 ]

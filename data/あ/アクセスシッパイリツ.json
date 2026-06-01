@@ -31,84 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例文1",
-              "source": "幻辞"
+              "text": "キャンペーン期間中にアクセス失敗率が急上昇し、ロードバランサーの設定を緊急で見直すことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文3",
-              "source": "幻辞"
+              "text": "ネットワーク品質の指標としてアクセス失敗率を継続的に監視し、閾値を超えたら自動でアラートが飛ぶように設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文21",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文23",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文25",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文27",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文29",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文31",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文33",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文35",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文37",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文39",
-              "source": "幻辞"
+              "text": "アクセス失敗率のログを分析したところ、特定の時間帯にだけ集中してエラーが起きているパターンが見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -117,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "接続失敗率",
+        "エラー率"
+      ],
+      "antonyms": [
+        "接続成功率"
+      ],
+      "related": [
+        "可用性",
+        "ネットワーク",
+        "サーバー負荷",
+        "品質管理",
+        "不具合",
+        "タイムアウト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:13:25.439360+00:00Z"
     }
   }
 ]

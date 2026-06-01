@@ -34,8 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "生憎と持ち合わせがございませんので、後日お支払いいたします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「生憎の空模様ですが、イベントは予定通り開催いたします」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "担当者は生憎外出しておりまして、夕方には戻る予定です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -285,14 +305,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "折悪しく",
+        "運悪く",
+        "都合悪く",
+        "間が悪い"
+      ],
+      "antonyms": [
+        "幸い",
+        "折良く",
+        "運良く",
+        "都合良く"
+      ],
+      "related": [
+        "予定外",
+        "拒絶",
+        "謝罪",
+        "残念"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:52:09.337491+00:00Z",
       "freq_rank": 32509,
       "frequencies": {
         "aozora": 1246

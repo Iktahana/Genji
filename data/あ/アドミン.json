@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アドミンについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アドミンという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアドミンの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアドミンが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アドミンを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "管理者",
+        "アドミニストレータ"
+      ],
+      "antonyms": [
+        "一般ユーザー",
+        "ゲスト"
+      ],
+      "related": [
+        "アカウント",
+        "権限",
+        "システム",
+        "ログイン",
+        "設定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:03.517821+00:00Z"
+      "updated_at": "2026-06-01T13:17:41.858150+00:00Z"
     }
   }
 ]

@@ -31,84 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例文1",
-              "source": "幻辞"
+              "text": "規約違反を繰り返したアカウントにアクセス禁止の措置が取られ、ログイン自体ができなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文3",
-              "source": "幻辞"
+              "text": "攻撃元とみられるIPアドレスに対してアクセス禁止を設定し、サーバーへの不正接続を遮断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文21",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文23",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文25",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文27",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文29",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文31",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文33",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文35",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文37",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文39",
-              "source": "幻辞"
+              "text": "掲示板の荒らしに対してアクセス禁止を適用したところ、別のIPから再び書き込みが始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -117,14 +61,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "出入り禁止",
+        "接続禁止",
+        "遮断",
+        "ブロック",
+        "アク禁"
+      ],
+      "antonyms": [
+        "アクセス許可",
+        "自由通行",
+        "開放"
+      ],
+      "related": [
+        "セキュリティ",
+        "ペナルティ",
+        "荒らし対策",
+        "利用規約",
+        "制限",
+        "ブラックリスト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:13:25.436854+00:00Z"
     }
   }
 ]

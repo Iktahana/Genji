@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "夏祭りに向けて、彼女はいつもより念入りにアイメイクをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "汗や涙でアイメイクが崩れないように、ウォータープルーフのマスカラを使った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "舞台俳優は、役柄に合わせて独特のアイメイクを施すことがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -52,14 +72,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アイメーク"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "化粧",
+        "メイク",
+        "アイシャドウ",
+        "アイライナー",
+        "マスカラ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:54.161530+00:00Z",
       "frequencies": {
         "aozora": 1
       }

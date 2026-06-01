@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "アイドルフラグが立っている間は、システムは新しい処理を受け付けることができない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ループ処理の中でアイドルフラグを確認し、リソースの空きが出るのを待つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "通信が完了するとアイドルフラグが下がり、次のパケットが送出可能になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -45,12 +65,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "フラグ",
+        "アイドル状態",
+        "通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.333706+00:00Z"
     }
   }
 ]

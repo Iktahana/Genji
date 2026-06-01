@@ -34,22 +34,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アベニューについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アベニューという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアベニューの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアベニューが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アベニューを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -129,14 +113,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大通り",
+        "並木道",
+        "幹線道路"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ストリート",
+        "ブールバール",
+        "道路",
+        "街路樹"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:59:30.107063+00:00Z",
+      "updated_at": "2026-06-01T13:31:09.313475+00:00Z",
       "freq_rank": 43470,
       "frequencies": {
         "aozora": 1

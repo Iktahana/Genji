@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "長時間のフライトでも疲れないように、デスクの下に足置きを設置した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "美容室のシャンプー台にある足置きが、私の身長には少し合わなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ソファで映画を見るときは、必ずお気に入りの足置きを使ってリラックスしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -62,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "フットレスト",
+        "足台",
+        "足載せ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "椅子",
+        "ソファ",
+        "乗り物",
+        "快適",
+        "家具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:32:50.527387+00:00Z"
     }
   }
 ]

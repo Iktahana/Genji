@@ -31,84 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例文1",
-              "source": "幻辞"
+              "text": "ホームページのアクセス情報を解析ツールで確認したところ、スマートフォンからの閲覧が全体の7割を超えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文3",
-              "source": "幻辞"
+              "text": "サポートページにはFAQの下にアクセス情報として最寄り駅からの道順と電話番号を掲載している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文21",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文23",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文25",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文27",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文29",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文31",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文33",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文35",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文37",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文39",
-              "source": "幻辞"
+              "text": "イベント会場のアクセス情報が分かりにくいという参加者からの声を受け、地図アプリへのリンクを追加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -117,14 +61,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "接続情報",
+        "交通案内",
+        "経路案内"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "地図",
+        "経路",
+        "ログイン履歴",
+        "IPアドレス",
+        "ブラウザ情報",
+        "道順"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:13:25.439993+00:00Z"
     }
   }
 ]

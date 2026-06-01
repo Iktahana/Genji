@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「学生時代に愛用していたｉＢｏｏｋは、丸みを帯びたデザインがとても可愛らしかった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「クローゼットの奥から、十数年前に使っていたオレンジ色のｉＢｏｏｋが出てきた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ｉＢｏｏｋを無線LANに繋いで、カフェでレポートを作成するのが当時の憧れだった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ラップトップ",
+        "ノートパソコン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "Apple",
+        "Macintosh",
+        "PowerBook",
+        "コンピュータ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:05.730290+00:00Z"
     }
   }
 ]

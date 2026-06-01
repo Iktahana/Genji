@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "急激な円安に相伴う物価の上昇により、家計のやりくりが日に日に厳しくなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "手術にはある程度のリスクが相伴うことを、担当医は冷静な口調で患者に説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "新しいシステムの導入には大きな業務改革が相伴うため、現場からの反発は避けられないだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -226,14 +246,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "伴う",
+        "随伴する",
+        "並行する"
+      ],
+      "antonyms": [
+        "単独で"
+      ],
+      "related": [
+        "連動",
+        "付随",
+        "影響",
+        "共起"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.117004+00:00Z"
     }
   }
 ]

@@ -31,84 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例文1",
-              "source": "幻辞"
+              "text": "新しいレストランは開店早々に悪評が広まり、客足がなかなか伸びなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文3",
-              "source": "幻辞"
+              "text": "あの政治家は汚職事件をきっかけに悪評が定着し、次の選挙で大敗した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             },
             {
-              "text": "例文5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文21",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文23",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文25",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文27",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文29",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文31",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文33",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文35",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文37",
-              "source": "幻辞"
-            },
-            {
-              "text": "例文39",
-              "source": "幻辞"
+              "text": "粗悪な素材を使い続けたそのブランドは悪評が積み重なり、業績が急落した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -334,14 +278,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不評",
+        "酷評",
+        "悪名",
+        "悪噂"
+      ],
+      "antonyms": [
+        "好評",
+        "定評",
+        "絶賛",
+        "称賛"
+      ],
+      "related": [
+        "評判",
+        "噂",
+        "風評",
+        "名声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:19:20.751876+00:00Z",
       "freq_rank": 34962,
       "frequencies": {
         "aozora": 234

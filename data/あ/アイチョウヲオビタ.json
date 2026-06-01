@@ -32,8 +32,20 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼女の哀調を帯びた歌声が、聴衆の心にしみじみと染み入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "落日の海を見つめながら、彼は哀調を帯びた溜息を一つ漏らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -131,14 +143,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "物悲しい",
+        "悲しげな",
+        "哀愁漂う",
+        "憂いを帯びた",
+        "哀れな"
+      ],
+      "antonyms": [
+        "楽しげな",
+        "陽気な",
+        "快活な"
+      ],
+      "related": [
+        "哀愁",
+        "旋律",
+        "音色",
+        "悲哀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:51.147615+00:00Z"
     }
   }
 ]

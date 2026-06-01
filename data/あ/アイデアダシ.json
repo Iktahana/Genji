@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "プロジェクトのキックオフミーティングで、まずは自由にアイデア出しを行うことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "煮詰まってきたので、場所を変えて気分転換しながらアイデア出しを続けよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ホワイトボードが一杯になるまで、メンバーから次々とアイデア出しがなされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ブレインストーミング",
+        "発想",
+        "アイデアラッシュ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "企画",
+        "会議",
+        "提案",
+        "話し合い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.923867+00:00Z"
     }
   }
 ]

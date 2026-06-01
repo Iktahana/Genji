@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "SVC、すなわち相手先選択接続は、必要に応じて動的に接続先を切り替えることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "不特定の相手と通信する可能性があるため、このシステムでは相手先選択接続を採用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "相手先選択接続は、通信のたびに接続と切断のプロセスが発生する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "SVC",
+        "相手選択接続"
+      ],
+      "antonyms": [
+        "相手先固定接続",
+        "PVC"
+      ],
+      "related": [
+        "通信",
+        "ネットワーク"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.477504+00:00Z"
     }
   }
 ]

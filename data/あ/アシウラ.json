@@ -33,12 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "砂浜を裸足で歩くと、貝殻の破片が足裏に刺さって痛かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "疲れた体を癒やすために、足裏のマッサージ専門店に行ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は足裏の筋肉を鍛えるために、毎日青竹踏みをしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -288,14 +304,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "足の裏",
+        "蹠"
+      ],
+      "antonyms": [
+        "足の甲"
+      ],
+      "related": [
+        "土踏まず",
+        "踵",
+        "爪先",
+        "マッサージ",
+        "ツボ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:32:50.526183+00:00Z",
       "frequencies": {
         "aozora": 41
       }

@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "同じグループの企業同士が市場で相食むような事態は避けるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "似たようなコンセプトの新商品を同時に発売し、自社のブランド同士が相食む結果となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "限りあるパイを巡って同業他社と相食むより、新たな市場を開拓したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -195,14 +215,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "争う",
+        "競う",
+        "敵対する"
+      ],
+      "antonyms": [
+        "協力する",
+        "協調する"
+      ],
+      "related": [
+        "競争",
+        "対立",
+        "葛藤",
+        "仲間割れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:44.611172+00:00Z"
     }
   }
 ]

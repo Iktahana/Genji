@@ -35,7 +35,7 @@
             {
               "text": "予期しないプログラムの終了を防ぐため、Ctrl+Cを受け取るカスタムのシグナルハンドラを実装した。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
@@ -43,7 +43,7 @@
             {
               "text": "このシグナルハンドラ内では、メモリの解放や一時ファイルの削除など、終了前のクリーンアップを行う。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
@@ -51,7 +51,7 @@
             {
               "text": "シグナルハンドラが呼び出された際、ログに現在のプロセス状態を書き出すように設定した。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }

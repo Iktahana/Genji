@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナウンスメントについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナウンスメントという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナウンスメントの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナウンスメントが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナウンスメントを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -182,14 +166,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アナウンス",
+        "告知",
+        "発表",
+        "声明",
+        "公示"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "放送",
+        "ニュース",
+        "公式",
+        "情報",
+        "報告",
+        "伝達"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:04.686348+00:00Z",
+      "updated_at": "2026-06-01T13:18:49.794802+00:00Z",
       "frequencies": {
         "aozora": 8
       }

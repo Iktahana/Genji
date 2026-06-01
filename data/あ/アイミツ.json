@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "新しいシステムの導入にあたり、複数の業者から相見積を取ることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "コスト削減のため、定期的に取引先と相見積を行っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "相見積の結果、最も条件の良いA社に工事を発注した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相見積もり",
+        "競合見積"
+      ],
+      "antonyms": [
+        "特命随意契約",
+        "単独見積"
+      ],
+      "related": [
+        "比較",
+        "発注",
+        "経費",
+        "業者",
+        "ビジネス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.156279+00:00Z"
     }
   }
 ]

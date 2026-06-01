@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "コードのテスト中にいくつかのアサーションエラーが発生して、ビルドが途中で止まってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "相手の意見を尊重しながらも自分の主張をしっかり伝える、アサーションのスキルを研修で学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "契約書の草案には、両者の責任範囲に関する明確なアサーションが含まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "主張",
+        "自己主張",
+        "表明"
+      ],
+      "antonyms": [
+        "沈黙",
+        "従順"
+      ],
+      "related": [
+        "心理学",
+        "コミュニケーション",
+        "自信",
+        "権利"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:31:57.297229+00:00Z"
     }
   }
 ]

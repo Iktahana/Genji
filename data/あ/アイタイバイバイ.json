@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "その希少な美術品は、オークションではなく相対売買で取引された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "大口の株式を、証券会社を仲介して相対売買で取得した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "不動産を売却する際、仲介業者を通さずに相対売買を選ぶ人もいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "店頭取引",
+        "庭先取引",
+        "縁故取引"
+      ],
+      "antonyms": [
+        "競売",
+        "取引所取引",
+        "せり"
+      ],
+      "related": [
+        "売買",
+        "取引",
+        "契約",
+        "価格交渉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.370651+00:00Z"
     }
   }
 ]

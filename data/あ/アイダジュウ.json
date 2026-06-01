@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "長い冬休みの間中、彼は一日も欠かさずアルバイトに励んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "飛行機に乗っている間中、ずっと窓の外の雲を眺めて過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "重要な会議の間中、緊張で生きた心地がしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "終始",
+        "ずっと",
+        "期間内",
+        "四六時中"
+      ],
+      "antonyms": [
+        "一時的",
+        "瞬間"
+      ],
+      "related": [
+        "継続",
+        "時間",
+        "期間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:49:50.377982+00:00Z",
       "frequencies": {
         "aozora": 138
       }

@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "銀行に預けたままのアイドルキャピタルを運用して、新たな収益源を確保したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "投資先が見つからず、社内には膨大なアイドルキャピタルが滞留している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "経営陣はアイドルキャピタルの削減を目指し、大規模な設備投資を決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遊休資本"
+      ],
+      "antonyms": [
+        "稼働資本"
+      ],
+      "related": [
+        "資本",
+        "投資",
+        "資産",
+        "アイドルマネー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.330517+00:00Z"
     }
   }
 ]

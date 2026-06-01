@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "乾燥させた藍の葉を突き固めて作った藍玉は、高品質な染料の原料となる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "蔵の隅には、先代が丹精込めて作った立派な藍玉が積み上げられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "藍玉を水に溶かして発酵させ、布を深く鮮やかな青色に染め上げる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "藍の塊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "染色",
+        "染料",
+        "藍染め",
+        "徳島",
+        "インディゴ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:48:56.946614+00:00Z",
       "frequencies": {
         "aozora": 46
       }

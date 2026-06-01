@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "シャンソン歌手が情感豊かに『愛の賛歌』を歌い上げ、観客は静まり返った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "結婚式のBGMに、エディット・ピアフの『愛の賛歌』を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "祖母はよく、ラジオから流れる『愛の賛歌』を口ずさんでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -74,14 +94,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "賛歌",
+        "恋歌",
+        "ラブソング"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "エディット・ピアフ",
+        "シャンソン",
+        "歌",
+        "恋愛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.607316+00:00Z"
     }
   }
 ]

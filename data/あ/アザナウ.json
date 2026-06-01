@@ -32,12 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "村の男たちが集まって藁を何本も糾い、お祭りで使う太くて丈夫なしめ縄を作り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "工房の職人は手慣れた様子で麻の繊維を糾い、どんどん細い糸を紡いでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "禍福は糾える縄の如しと言うように、人生には良い時期と悪い時期が交互にやってくるものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -46,14 +62,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "縒る",
+        "編む",
+        "縒り合わせる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "縄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:31:57.304838+00:00Z",
       "frequencies": {
         "aozora": 2
       }

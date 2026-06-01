@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「諸般の事情を鑑み、本計画は白紙撤回と相成りました」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "何度も交渉を重ねた末、ようやく契約締結の運びと相成った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "予期せぬトラブルにより、急遽予定を変更することと相成りました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "なる",
+        "成立する",
+        "実現する",
+        "成就する",
+        "決定する"
+      ],
+      "antonyms": [
+        "失敗する",
+        "破談になる"
+      ],
+      "related": [
+        "結果",
+        "報告",
+        "文語",
+        "決定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.336754+00:00Z"
     }
   }
 ]

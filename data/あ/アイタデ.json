@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "この鮮やかな藍染の布は、伝統的な製法で藍蓼から作られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "江戸時代、阿波藩は藍蓼の栽培と藍染で全国にその名を知られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "自宅の庭で、染物の原料にするために数株の藍蓼を育てている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -76,14 +96,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "タデアイ",
+        "藍"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "染料",
+        "染色",
+        "蓼",
+        "インディゴ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.374302+00:00Z"
     }
   }
 ]

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "しばらく操作をしないと、パソコンは自動的にアイドル状態に移行する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "接続がアイドル状態のまま一定時間が経過したため、セッションが切断された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "プロセッサがアイドル状態にあるとき、消費電力は最小に抑えられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "待機状態",
+        "休止状態",
+        "スリープ"
+      ],
+      "antonyms": [
+        "稼働状態",
+        "アクティブ状態",
+        "ビジー状態"
+      ],
+      "related": [
+        "アイドルタイム",
+        "無操作",
+        "プロセッサ",
+        "待機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.332981+00:00Z"
     }
   }
 ]

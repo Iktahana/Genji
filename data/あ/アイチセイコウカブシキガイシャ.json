@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "愛知製鋼株式会社は、高品質な特殊鋼を世界中の自動車メーカーに供給している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は愛知製鋼株式会社に就職が決まり、生産管理の現場で研修を受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "愛知製鋼株式会社の株価が、新型エンジンの部品開発成功のニュースで上昇した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "愛知製鋼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "トヨタグループ",
+        "鉄鋼メーカー",
+        "愛知県"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:48:56.952899+00:00Z"
     }
   }
 ]

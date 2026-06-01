@@ -33,6 +33,22 @@
             {
               "text": "これはアウトオブオーダー実行の例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "アウトオブオーダー実行を採用したCPUは、依存関係のない命令を優先して処理することで高速化を実現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンパイラは、アウトオブオーダー実行の効率を最大化するように命令を並べ替える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -42,13 +58,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "インオーダー実行"
+      ],
+      "related": [
+        "パイプライン処理",
+        "CPU",
+        "マイクロアーキテクチャ",
+        "スーパースカラ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:56:40.859113+00:00Z"
     }
   }
 ]

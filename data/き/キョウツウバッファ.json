@@ -33,7 +33,7 @@
             {
               "text": "複数のプロセスがデータをやり取りするために、共有メモリ上に共通バッファを設けている。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
@@ -41,7 +41,7 @@
             {
               "text": "共通バッファからデータを読み込む際、排他制御を確実に行う必要がある。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
@@ -49,7 +49,7 @@
             {
               "text": "書き込みたいデータが共通バッファに収まりきらないため、一時的に処理を保留しました。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }

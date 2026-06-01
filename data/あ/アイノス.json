@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "結婚したばかりの二人は、郊外の小さなアパートにささやかな愛の巣を構えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "公園の大きな木の上で、カラスがせっせと愛の巣を作っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "週刊誌の記者は、ついに人気俳優の愛の巣とされるマンションを突き止めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -234,14 +254,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恋の巣",
+        "新居"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "同棲",
+        "新婚",
+        "愛人",
+        "住まい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.608763+00:00Z"
     }
   }
 ]

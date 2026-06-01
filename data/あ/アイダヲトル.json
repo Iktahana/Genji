@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "予算案について、与野党が互いに譲歩して間を取る形で決着した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "提示された価格が高すぎたので、もう少し間を取って調整してほしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "二人の意見が対立したため、折衷案として間を取ることに決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -211,14 +231,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "妥協する",
+        "歩み寄る",
+        "折衷する",
+        "中をとる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "妥協",
+        "折衷",
+        "中間",
+        "歩み寄り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:48:56.948073+00:00Z"
     }
   }
 ]

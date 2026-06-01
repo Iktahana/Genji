@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "雨上がりの森を散策していると、鮮やかな緑色の藍茸を見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この藍茸は美味しい出汁が出るので、スープ料理によく使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "きのこ狩りに行ったが、目当ての松茸は見つからず、藍茸ばかりが採れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -52,14 +72,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アイタケ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "きのこ",
+        "ベニタケ属",
+        "食用",
+        "森",
+        "菌類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.372817+00:00Z"
     }
   }
 ]

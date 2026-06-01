@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "旅先の山小屋で、偶然にも大学の先輩と相宿になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "昔の旅籠では、他の客と相宿になることも珍しくなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "出張先のホテルが満室で、同僚と相宿せざるを得なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -250,14 +270,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相部屋"
+      ],
+      "antonyms": [
+        "個室",
+        "貸切"
+      ],
+      "related": [
+        "宿泊",
+        "同宿",
+        "ルームシェア",
+        "宿屋"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:54.166159+00:00Z",
       "frequencies": {
         "aozora": 48
       }

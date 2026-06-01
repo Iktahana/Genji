@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "相なるべくは、明日のお昼までにお返事をいただければ幸いです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「相なるべくは波風を立てずに、円満に退職したい」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "相なるべくは、ご本人の口から直接説明していただきたいと考えております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "できれば",
+        "願わくは",
+        "可能ならば",
+        "叶うならば"
+      ],
+      "antonyms": [
+        "断じて",
+        "決して"
+      ],
+      "related": [
+        "希望",
+        "依頼",
+        "丁寧"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.337094+00:00Z"
     }
   }
 ]

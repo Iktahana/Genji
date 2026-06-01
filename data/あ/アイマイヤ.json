@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "明治初期の路地裏には、表向きは小料理屋を装った曖昧屋が軒を連ねていたそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その古い文学作品には、身売りされて曖昧屋で働くことになった少女の悲哀が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "警察の取り締まりが厳しくなり、この界隈の曖昧屋は次々と姿を消していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -106,14 +126,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "曖昧宿",
+        "出会い茶屋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "売春",
+        "歴史",
+        "隠語",
+        "江戸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.061586+00:00Z"
     }
   }
 ]

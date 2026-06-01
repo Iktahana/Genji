@@ -34,8 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「リビングのカーテンをアイボリーに変えたら、部屋全体が明るく柔らかな雰囲気になった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「結婚式で着るドレスは、純白よりも肌馴染みの良いアイボリーを選おうと思っている。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「アンティークのピアノの鍵盤は、長い年月を経て深い味わいのあるアイボリーに変色していた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -77,14 +97,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "象牙",
+        "象牙色"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "象",
+        "工芸品",
+        "ピアノ",
+        "色名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:05.736393+00:00Z",
       "freq_rank": 41292,
       "frequencies": {
         "aozora": 5

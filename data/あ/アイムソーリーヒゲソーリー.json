@@ -34,8 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「ごめん、牛乳こぼしちゃった」「もう、アイムソーリーヒゲソーリーって、ちゃんと拭いてよ！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "遅刻してきた彼がふざけて「アイムソーリーヒゲソーリー！」と言ったので、かえって部長を怒らせてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「お前のプリン食べちゃった」「えー！アイムソーリーヒゲソーリーじゃ済まないよ！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -44,14 +64,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ごめんなさい",
+        "すいません",
+        "申し訳ない"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "駄洒落",
+        "死語",
+        "謝罪",
+        "ジョーク"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.160659+00:00Z"
     }
   }
 ]

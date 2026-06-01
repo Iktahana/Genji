@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "ログイン画面で、割り当てられた自分のＩＤ番号とパスワードを入力した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "お問い合わせの際は、会員証の裏面に記載されているＩＤ番号をお知らせください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "管理システムには、全商品のＩＤ番号がデータベース化されて登録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "識別番号",
+        "固有番号",
+        "登録番号"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ログイン",
+        "パスワード",
+        "認証",
+        "アカウント"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.926328+00:00Z"
     }
   }
 ]

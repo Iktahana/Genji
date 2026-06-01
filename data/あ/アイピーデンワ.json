@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「固定電話をＩＰ電話に切り替えたら、毎月の基本料金がかなり安くなったよ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「こちらのＩＰ電話はインターネット回線を使用するため、停電時には通話ができなくなります。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「海外に住む友人と長電話をする時は、通話料を抑えるためにＩＰ電話を利用している。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "インターネット電話"
+      ],
+      "antonyms": [
+        "固定電話",
+        "アナログ電話"
+      ],
+      "related": [
+        "VoIP",
+        "通話",
+        "インターネット",
+        "通信網"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:05.725585+00:00Z"
     }
   }
 ]

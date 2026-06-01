@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "人生には喜怒哀楽があり、それが人間味というものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は感情を表に出さないため、その哀楽を読み取るのは難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅先で出会った人々と、酒を酌み交わしながら人生の哀楽を語り合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -266,14 +286,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "悲喜",
+        "苦楽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "喜怒哀楽",
+        "感情",
+        "悲しみ",
+        "楽しみ",
+        "情動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:44.659164+00:00Z",
       "frequencies": {
         "aozora": 24
       }

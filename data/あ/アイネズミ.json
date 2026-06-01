@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼女は今日の着物に、落ち着いた藍鼠の帯を合わせていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "書斎の壁紙を、深みのある藍鼠色に変えたら、ぐっと集中できる空間になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "夜明け前の東の空が、静かな藍鼠に染まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -260,14 +280,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "紺鼠",
+        "青鼠"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "伝統色",
+        "灰色",
+        "青色",
+        "和名",
+        "色彩"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:51:45.603819+00:00Z",
       "frequencies": {
         "aozora": 35
       }

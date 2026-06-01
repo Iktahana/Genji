@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「ホテルのクロークに荷物を預け、番号が書かれた合い符を受け取った。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「預けたコートを引き換えるために、ポケットから合い符を取り出した。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「合い符を紛失してしまったのですが、名前と電話番号で本人確認は可能でしょうか。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -266,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "合札",
+        "荷物札",
+        "引換券",
+        "預かり札"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "荷物",
+        "手荷物預かり",
+        "クローク",
+        "目印"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:05.727228+00:00Z"
     }
   }
 ]

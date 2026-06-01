@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼のあまりに突拍子もない提案に、聞いていた一同は開いた口がふさがらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "旅行先で紛失したと思っていた財布が、上着のポケットから出てきて開いた口がふさがらない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "息子の部屋の散らかりように、母親は呆れて開いた口がふさがらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -99,14 +119,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "呆れる",
+        "唖然とする",
+        "絶句する",
+        "茫然とする",
+        "言葉を失う"
+      ],
+      "antonyms": [
+        "平然とする",
+        "得心する"
+      ],
+      "related": [
+        "驚愕",
+        "非常識",
+        "意外",
+        "失笑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.372409+00:00Z"
     }
   }
 ]

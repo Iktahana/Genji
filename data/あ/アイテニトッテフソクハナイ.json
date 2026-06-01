@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「昨年の優勝者か。相手にとって不足はない、全力でぶつかるだけだ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵軍の将が名のある武将だと聞き、若き騎士は「相手にとって不足はない」と不敵に笑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ようやく本気を出せる。君のような天才なら、相手にとって不足はないよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -58,14 +78,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "好敵手",
+        "申し分ない"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "勝負",
+        "対決",
+        "ライバル",
+        "敵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.919859+00:00Z"
     }
   }
 ]

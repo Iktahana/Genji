@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "会議と会議の合間に、急いでコーヒーを飲んで一息ついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は仕事の合間を縫って、資格取得のための勉強を続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "雲の合間から差し込む日差しが、紅葉した山肌を美しく照らしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -283,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "隙間",
+        "幕間",
+        "絶え間",
+        "休み"
+      ],
+      "antonyms": [
+        "継続",
+        "連続"
+      ],
+      "related": [
+        "時間",
+        "休憩",
+        "仕事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:40.055829+00:00Z",
       "freq_rank": 7248,
       "frequencies": {
         "aozora": 490

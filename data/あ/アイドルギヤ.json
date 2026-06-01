@@ -35,8 +35,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "逆回転を防ぐために、二つのギヤの間にアイドルギヤを組み込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "アイドルギヤの摩耗が原因で、機械の駆動部から異音が発生していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "設計図を見ながら、アイドルギヤがスムーズに噛み合っているか慎重に確認する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +65,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "遊び歯車",
+        "アイドラギア"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "歯車",
+        "ギア",
+        "エンジン",
+        "トランスミッション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.330805+00:00Z"
     }
   }
 ]

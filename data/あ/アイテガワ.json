@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "交渉は難航したが、最終的に相手側の譲歩を引き出すことに成功した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "今回のトラブルの原因は、明らかに相手側の確認ミスにある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "試合中、相手側の執拗なマークに苦しめられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -66,14 +86,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "先方",
+        "相手方",
+        "向こう側"
+      ],
+      "antonyms": [
+        "当方",
+        "こちら側",
+        "味方",
+        "自己"
+      ],
+      "related": [
+        "相手",
+        "対立"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:54.474565+00:00Z",
       "frequencies": {
         "aozora": 5
       }

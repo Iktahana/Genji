@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "引っ越しの費用を抑えるため、三社に相見積もりを依頼した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "相見積もりを取ることで、サービスの適正価格を把握することができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ウェブサイト制作を発注する前に、必ず複数の会社から相見積もりをもらいましょう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "相見積",
+        "コンペ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ビジネス",
+        "契約",
+        "価格交渉",
+        "選定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.156684+00:00Z"
     }
   }
 ]

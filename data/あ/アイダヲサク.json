@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "些細な誤解が重なり、長年親しかった親友二人の間を裂くことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の無責任な一言が、信頼し合っていた夫婦の間を裂く決定打となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嫉妬に狂った第三者の策略によって、仲睦まじい恋人たちの間を裂いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -59,14 +79,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仲を裂く",
+        "引き離す",
+        "離反させる",
+        "仲違いさせる"
+      ],
+      "antonyms": [
+        "仲を取り持つ"
+      ],
+      "related": [
+        "離間",
+        "仲違い",
+        "不和",
+        "絶交"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:48:56.947766+00:00Z"
     }
   }
 ]

@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログデジタル変換器について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログデジタル変換器という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログデジタル変換器の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログデジタル変換器が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログデジタル変換器を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "AD変換器",
+        "ADC",
+        "A/D変換器"
+      ],
+      "antonyms": [
+        "DA変換器",
+        "DAC",
+        "D/A変換器"
+      ],
+      "related": [
+        "サンプリング",
+        "量子化",
+        "符号化",
+        "電子回路",
+        "標本化",
+        "信号処理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.913310+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.367431+00:00Z"
     }
   }
 ]

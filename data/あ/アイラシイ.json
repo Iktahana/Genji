@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "庭の片隅に、愛らしい野花がひっそりと咲いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "子犬が尻尾を振って駆け寄ってくる姿は、実に愛らしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女の愛らしい笑顔は、周囲の人々を明るい気持ちにさせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "かわいい",
+        "美しい"
+      ],
+      "antonyms": [
+        "醜い",
+        "不細工"
+      ],
+      "related": [
+        "素敵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:44.660279+00:00Z",
       "freq_rank": 22775,
       "frequencies": {
         "aozora": 679

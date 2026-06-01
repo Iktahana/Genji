@@ -32,8 +32,20 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "喧嘩している友人二人の間に立って、なんとか仲裁を試みた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嫁姑の間に立つ夫の苦労は、端から見ている以上に大きいものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -283,14 +295,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仲裁する",
+        "仲立ちする",
+        "調停する",
+        "媒介する",
+        "橋渡しする"
+      ],
+      "antonyms": [
+        "傍観する"
+      ],
+      "related": [
+        "仲介者",
+        "交渉",
+        "介入",
+        "第三者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:48:56.945375+00:00Z"
     }
   }
 ]

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "大学の言語学の授業で、アイヌ語の独特な音韻体系について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "北海道の地名には、アイヌ語が由来となっているものが数多く存在する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "消滅の危機にあるアイヌ語を保存するため、記録・伝承活動が行われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アイヌ・イタク"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "言語",
+        "ユーカラ",
+        "北海道",
+        "言語復興"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.598887+00:00Z"
     }
   }
 ]

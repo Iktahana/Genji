@@ -33,7 +33,7 @@
             {
               "text": "スタックは、最後に追加されたデータが最初に取り出される後入れ先出しリストの一種である。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -41,7 +41,7 @@
             {
               "text": "関数の呼び出し履歴を管理するため、システム内部では後入れ先出しリストが用いられている。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -49,7 +49,7 @@
             {
               "text": "ブラウザの「戻る」ボタンの機能は、閲覧したページのURLを後入れ先出しリストに保存することで実現できる。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -57,7 +57,7 @@
             {
               "text": "メモリ領域の枯渇を防ぐため、このアルゴリズムでは後入れ先出しリストのサイズに上限を設けている。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -65,7 +65,7 @@
             {
               "text": "深さ優先探索アルゴリズムの実装には、一般的に後入れ先出しリストがデータ構造として採用される。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -77,14 +77,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "スタック"
+      ],
+      "antonyms": [
+        "キュー"
+      ],
+      "related": [
+        "リスト",
+        "データ構造",
+        "アルゴリズム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-23T16:10:18.034006+00:00Z"
+      "updated_at": "2026-06-01T13:15:17.513055+00:00Z"
     }
   }
 ]

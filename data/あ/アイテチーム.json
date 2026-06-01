@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "相手チームの強力なサーブに翻弄され、第1セットを落としてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "試合終了後、健闘を称え合って相手チームの選手と握手を交わした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "次の対戦相手チームは守備が堅いので、機動力で崩す作戦を立てる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -58,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "敵チーム"
+      ],
+      "antonyms": [
+        "味方チーム",
+        "自チーム"
+      ],
+      "related": [
+        "対戦相手",
+        "試合",
+        "スポーツ",
+        "競技"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.917967+00:00Z"
     }
   }
 ]

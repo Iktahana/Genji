@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼は休日の午後、ソファに寝転がってアイドゥリにテレビのチャンネルを変え続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "窓の外の雨を眺めながら、カフェでアイドゥリと時間を過ごすのも悪くない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "仕事の締め切りが迫っているというのに、ついスマホを手に取ってアイドゥリにSNSをスクロールしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怠惰に",
+        "漫然と",
+        "のんびりと"
+      ],
+      "antonyms": [
+        "精力的に",
+        "勤勉に"
+      ],
+      "related": [
+        "余暇",
+        "閑散",
+        "休暇",
+        "無為"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.118830+00:00Z"
     }
   }
 ]

@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "遠い親戚だというが、彼と私の顔つきは驚くほど相似ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "全く別の地域で生まれた二つの物語が、不思議なほど細部まで相似る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "鏡の中の自分を見つめながら、亡き父の面影に相似てきたことを実感した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -83,14 +103,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "似通う",
+        "酷似する",
+        "類似する",
+        "似る",
+        "近似する"
+      ],
+      "antonyms": [
+        "異なる",
+        "相違する",
+        "かけ離れる"
+      ],
+      "related": [
+        "共通点",
+        "比較",
+        "特徴",
+        "似姿"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.338074+00:00Z"
     }
   }
 ]

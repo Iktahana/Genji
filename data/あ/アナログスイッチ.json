@@ -33,22 +33,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログスイッチについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログスイッチという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログスイッチの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログスイッチが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログスイッチを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -120,13 +104,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "デジタルスイッチ"
+      ],
+      "related": [
+        "スイッチ",
+        "アナログ回路",
+        "CMOS",
+        "マルチプレクサー",
+        "半導体",
+        "トランスミッションゲート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.912014+00:00Z"
+      "updated_at": "2026-06-01T13:22:06.355971+00:00Z"
     }
   }
 ]

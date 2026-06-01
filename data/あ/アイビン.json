@@ -34,8 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "聖人は、苦しむ人々に対して深い哀愍の情を示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼は過ちを犯した者に対しても、怒りではなく哀愍の心で接した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "裁判官の言葉には、被告の境遇に対する哀愍の念が込められていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -77,14 +97,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "哀れみ",
+        "同情",
+        "不憫",
+        "憐愍"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "慈悲",
+        "気の毒",
+        "同情心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:52:54.593081+00:00Z",
       "frequencies": {
         "aozora": 4
       }

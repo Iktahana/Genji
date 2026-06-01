@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "今日の夕食は、合い挽き肉をたっぷり使ったピーマンの肉詰めだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "餃子の餡には、キャベツとニラ、そして合い挽き肉を入れるのが我が家の定番だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "その店のハンバーグは、牛肉と豚肉の黄金比率で作られた特製の合い挽き肉が自慢らしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "合い挽き",
+        "合挽き",
+        "合挽き肉"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ひき肉",
+        "ミンチ",
+        "ハンバーグ",
+        "牛肉",
+        "豚肉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:54.591158+00:00Z"
     }
   }
 ]

@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アニリンについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アニリンという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアニリンの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアニリンが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アニリンを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -278,14 +262,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "フェニルアミン",
+        "アミノベンゼン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "有機化合物",
+        "染料",
+        "合成",
+        "毒性",
+        "化学式",
+        "ベンゼン環"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:08.193910+00:00Z",
+      "updated_at": "2026-06-01T13:21:07.559273+00:00Z",
       "frequencies": {
         "aozora": 26
       }

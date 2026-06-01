@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "キャンペーンの方向性を決めるため、若手社員を中心にアイデアラッシュが実施された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "アイデアラッシュの最中は他人の意見を否定せず、質より量を重視して発言する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "一時間のアイデアラッシュで、100個以上の新しいキーワードが提案された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ブレインストーミング",
+        "アイデア出し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "会議",
+        "議論",
+        "発想",
+        "集団思考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.924881+00:00Z"
     }
   }
 ]

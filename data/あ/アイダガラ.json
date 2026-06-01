@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼とは幼い頃からの付き合いで、兄弟同然の間柄です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「失礼ですが、あちらの方とはどのような間柄でいらっしゃいますか？」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "私たちは仕事の上での付き合いであり、それ以上個人的な間柄ではありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "関係",
+        "仲",
+        "交際",
+        "親交",
+        "縁故",
+        "つながり"
+      ],
+      "antonyms": [
+        "没交渉",
+        "断絶"
+      ],
+      "related": [
+        "親戚",
+        "知人",
+        "友人",
+        "家族",
+        "社交"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:49:50.376940+00:00Z",
       "freq_rank": 21289,
       "frequencies": {
         "aozora": 1175

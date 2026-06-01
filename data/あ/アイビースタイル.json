@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼は雑誌で見たアイビースタイルに憧れて、ネイビーのブレザーを買いに行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "アイビースタイルは、アメリカ東部の名門大学の学生たちの間で生まれたファッションだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "父から譲り受けたローファーは、私のアイビースタイルに欠かせないアイテムだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アイビールック",
+        "アメリカントラディショナル"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ファッション",
+        "アイビーリーグ",
+        "ブレザー",
+        "プレッピー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:54.594633+00:00Z"
     }
   }
 ]

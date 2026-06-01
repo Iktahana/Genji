@@ -32,8 +32,12 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "優勝候補が二人生き残り、決勝戦は実力が相半ばする激戦となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -131,14 +135,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "拮抗する",
+        "伯仲する",
+        "匹敵する"
+      ],
+      "antonyms": [
+        "偏る",
+        "圧倒する"
+      ],
+      "related": [
+        "半分",
+        "五分五分",
+        "互角",
+        "半々"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.335541+00:00Z"
     }
   }
 ]

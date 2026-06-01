@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "新製品の提案をするため、これから相手先の会社へ訪問する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "見積書を作成し、メールで相手先に送付した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "トラブルが発生した際は、速やかに相手先に連絡し、状況を説明する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "先方",
+        "取引先",
+        "相手方",
+        "宛先"
+      ],
+      "antonyms": [
+        "当方",
+        "自社",
+        "差出人",
+        "送信元"
+      ],
+      "related": [
+        "ビジネス",
+        "取引",
+        "通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:54.476834+00:00Z",
       "frequencies": {
         "aozora": 1
       }

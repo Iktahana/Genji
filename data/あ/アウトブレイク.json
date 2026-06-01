@@ -35,6 +35,22 @@
             {
               "text": "これはアウトブレイクの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "未知のウイルスの突然のアウトブレイクにより、町はパニックに陥った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "インフルエンザのアウトブレイクを防ぐため、手洗いやうがいが呼びかけられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +59,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "流行",
+        "爆発的発症",
+        "突発"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "疾病",
+        "感染症",
+        "パンデミック",
+        "医学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:56:26.786324+00:00Z"
     }
   }
 ]

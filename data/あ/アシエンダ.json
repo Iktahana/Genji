@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "メキシコ旅行の際、古いアシエンダを改装した美しいホテルに宿泊した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "植民地時代に建てられたそのアシエンダは、広大な農地と立派な邸宅を備えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "歴史の授業で、ラテンアメリカにおけるアシエンダ制の経済的影響について討論した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大農園",
+        "大土地所有"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ラテンアメリカ",
+        "メキシコ",
+        "農業",
+        "荘園",
+        "スペイン語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:32:50.527193+00:00Z"
     }
   }
 ]

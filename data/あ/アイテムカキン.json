@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "基本プレイは無料だが、強力な武器を入手するにはアイテム課金が必要なシステムだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "限定キャラクターを当てるためにアイテム課金を繰り返したが、結局引けなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ついついアイテム課金をしすぎてしまい、今月のスマートフォンの請求額に驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "アイテム販売"
+      ],
+      "antonyms": [
+        "月額課金",
+        "定額制",
+        "買い切り"
+      ],
+      "related": [
+        "基本無料",
+        "ソーシャルゲーム",
+        "ガチャ",
+        "マイクロトランザクション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.920699+00:00Z"
     }
   }
 ]

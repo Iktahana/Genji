@@ -371,22 +371,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日あぶれ者について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "あぶれ者という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はあぶれ者の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはあぶれ者が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "あぶれ者を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -457,14 +441,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "無頼者",
+        "ごろつき",
+        "無職者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "失業者",
+        "ならず者",
+        "浮浪者",
+        "無頼漢",
+        "不良"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T14:14:10.200586+00:00",
+      "updated_at": "2026-06-01T13:30:19.325538+00:00Z",
       "frequencies": {
         "aozora": 90
       }

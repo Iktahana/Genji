@@ -34,8 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "海外で長く生活するうちに、日本人としての自分のアイデンティティを強く意識するようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "組織の拡大に伴い、企業のアイデンティティを再定義する必要が出てきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統文化を継承することは、その地域のアイデンティティを守ることにもつながる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -85,14 +105,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自己同一性",
+        "独自性",
+        "本体"
+      ],
+      "antonyms": [
+        "没個性"
+      ],
+      "related": [
+        "自己",
+        "存在",
+        "個性",
+        "確立"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:34.927481+00:00Z",
       "freq_rank": 8503,
       "frequencies": {
         "aozora": 4

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "地元の愛鳥家たちが集まって、野鳥の観察会が開催された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その公園は、珍しい鳥が見られるスポットとして愛鳥家の間で有名だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "愛鳥家の彼は、自宅の庭に鳥の餌台を設置して訪れる客を待っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "バードウォッチャー",
+        "探鳥家"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "野鳥",
+        "探鳥",
+        "バードウォッチング",
+        "愛玩鳥"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:51.146586+00:00Z"
     }
   }
 ]

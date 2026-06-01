@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "不当な解雇を服さないとして、彼は会社を相手取って訴訟を起こした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "巨大資本を相手取って戦うのは無謀に見えたが、市民たちは団結した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "国の不作為を相手取った裁判の判決が、いよいよ明日言い渡される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -68,14 +88,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "訴える",
+        "争う",
+        "相手にする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "裁判",
+        "訴訟",
+        "対立",
+        "法廷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.918673+00:00Z"
     }
   }
 ]

@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "古い時代の農村では、正式な結婚の前に足入れという儀式が行われることがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "彼女は姑の家に足入れをして、農作業を手伝いながら家のしきたりを学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "足入れの期間中にどうしても家風に合わず、実家に帰ってしまう女性もいたという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -158,14 +174,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "試婚",
+        "足入れ婚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "婚姻",
+        "嫁入り",
+        "風習",
+        "民俗",
+        "江戸時代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:32:50.525450+00:00Z",
       "frequencies": {
         "aozora": 4
       }

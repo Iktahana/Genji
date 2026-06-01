@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "街角のオルゴール専門店から、アイネ・クライネ・ナハトムジークの優しい音色が聞こえてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "バイオリンの発表会で、小学生の姪がアイネ・クライネ・ナハトムジークを上手に弾いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "モーツァルト作曲のアイネ・クライネ・ナハトムジークは、世界で最も有名なクラシック音楽の一つだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "セレナード第13番"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "モーツァルト",
+        "ケッヘル番号",
+        "クラシック",
+        "名曲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.604661+00:00Z"
     }
   }
 ]

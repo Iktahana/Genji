@@ -33,22 +33,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日彼のについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼のという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼は彼のの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文には彼のが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "彼のを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -359,15 +343,26 @@
       }
     ],
     "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "homophones": [
+        "あの"
+      ],
+      "synonyms": [
+        "その",
+        "どの"
+      ],
+      "antonyms": [
+        "この"
+      ],
+      "related": [
+        "指示語",
+        "遠称",
+        "現場指示"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:08.204595+00:00Z",
+      "updated_at": "2026-06-01T13:22:12.233943+00:00Z",
       "freq_rank": 425
     }
   },
@@ -405,22 +400,6 @@
         "collocations": [],
         "examples": {
           "standard": [
-            {
-              "text": "私は毎日あのについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "あのという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はあのの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはあのが含まれている。",
-              "source": "幻辞"
-            },
             {
               "text": "あのを使って文を作ってみた。",
               "source": "幻辞"
@@ -732,10 +711,19 @@
       }
     ],
     "relations": {
-      "homophones": [],
-      "synonyms": [],
+      "homophones": [
+        "彼の"
+      ],
+      "synonyms": [
+        "あのう",
+        "ええと"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "フィラー",
+        "言葉に詰まる",
+        "感動詞"
+      ]
     },
     "meta": {
       "version": "1.0.0",

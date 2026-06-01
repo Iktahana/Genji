@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログ表現について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログ表現という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログ表現の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログ表現が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログ表現を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -118,13 +102,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "デジタル表現"
+      ],
+      "related": [
+        "連続的",
+        "階調",
+        "ニュアンス",
+        "曖昧",
+        "グラデーション",
+        "表現手法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.914542+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.369803+00:00Z"
     }
   }
 ]

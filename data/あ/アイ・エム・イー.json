@@ -35,6 +35,22 @@
             {
               "text": "これはＩＭＥの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "ＰＣを再起動したら、なぜかＩＭＥの言語バーが表示されなくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "専門用語の入力が多いので、ＩＭＥのユーザー辞書に単語を登録しておくと作業が捗る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -60,14 +76,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "インプットメソッドエディタ",
+        "入力エディタ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本語入力",
+        "文字入力",
+        "キーボード",
+        "変換",
+        "ソフトウェア"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:58.111205+00:00Z"
     }
   }
 ]

@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アプルーバルについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アプルーバルという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアプルーバルの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアプルーバルが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アプルーバルを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "承認",
+        "認可",
+        "許可"
+      ],
+      "antonyms": [
+        "却下",
+        "拒否"
+      ],
+      "related": [
+        "決裁",
+        "承諾",
+        "裁可"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:59:27.799321+00:00Z"
+      "updated_at": "2026-06-01T13:30:42.822911+00:00Z"
     }
   }
 ]

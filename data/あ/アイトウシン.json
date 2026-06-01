@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "あの議員の演説は、政策の具体性よりも支持者の愛党心をくすぐるような感情的な言葉で埋め尽くされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "祖父は熱心な党員であり、その並々ならぬ愛党心から選挙のたびにポスター貼りを手伝っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "若者の政治離れが進む中、伝統的な愛党心だけに頼った選挙活動はもはや限界にきている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "忠誠心",
+        "忠誠"
+      ],
+      "antonyms": [
+        "背反",
+        "不忠"
+      ],
+      "related": [
+        "政党",
+        "党員",
+        "組織",
+        "政治"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.114560+00:00Z"
     }
   }
 ]

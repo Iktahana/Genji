@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼から届いた手紙には、相も変わらぬ友人への気遣いが綴られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "故郷の山々は、子供の頃と相も変わらぬ姿で私を迎えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "先生の相も変わらぬ情熱的な指導に、生徒たちは深く感銘を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -91,14 +111,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相変わらぬ",
+        "いつも通りの",
+        "お決まりの",
+        "昔ながらの"
+      ],
+      "antonyms": [
+        "一変した",
+        "見違えるような"
+      ],
+      "related": [
+        "平凡",
+        "日常"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.162816+00:00Z"
     }
   }
 ]

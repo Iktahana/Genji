@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "猫は獲物のスズメに気づかれないよう、足音を忍ばせてそっと近づいていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "深夜に帰宅した彼は、家族を起こさないように足音を忍ばせて階段を上った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "サプライズパーティーの準備をするため、友人たちは足音を忍ばせて部屋に入ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -278,14 +294,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "足音を殺して",
+        "こっそり",
+        "密かに"
+      ],
+      "antonyms": [
+        "堂々と",
+        "足音を荒らげて"
+      ],
+      "related": [
+        "追跡",
+        "隠密",
+        "忍び"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:32:50.528394+00:00Z"
     }
   }
 ]

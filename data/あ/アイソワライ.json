@@ -35,8 +35,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "部長の下手な冗談に、若手社員たちは皆一斉に愛想笑いを浮かべた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼女は愛想笑いをしながらも、目は全く笑っていなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "気まずい沈黙を破るために、彼はつい愛想笑いをしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -278,14 +298,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "作り笑い",
+        "おためごかしの笑顔"
+      ],
+      "antonyms": [
+        "心からの笑い",
+        "大笑い",
+        "爆笑"
+      ],
+      "related": [
+        "社交辞令",
+        "お世辞",
+        "表情",
+        "人間関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:27.163155+00:00Z"
     }
   }
 ]

@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "その振り込め詐欺のグループは、巧みな言葉で高齢者を欺き惑わし、数百万という大金を騙し取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "敵軍の斥候の目を欺き惑わすために、夜間にわざと偽のキャンプファイアをいくつも焚いて陣地を偽装した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "株主や投資家を欺き惑わすような、悪質な虚偽の業績報告書が提出されていたことがついに発覚した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "騙す",
+        "たぶらかす",
+        "惑わす",
+        "眩ます"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "欺瞞",
+        "ペテン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:31:57.308006+00:00Z"
     }
   }
 ]

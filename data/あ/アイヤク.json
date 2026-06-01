@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼は役人時代、私の父と相役だったという縁で、昔からお世話になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "新しい奉行の相役として、経験豊富な与力が任命された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "プロジェクトを成功させるため、相役と緊密に連携して業務にあたった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -274,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "同僚",
+        "同役",
+        "僚友",
+        "相棒"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "役目",
+        "同輩",
+        "仲間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:54.165664+00:00Z",
       "frequencies": {
         "aozora": 41
       }

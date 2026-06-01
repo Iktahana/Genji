@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "厳しく叱られた時は落ち込んだが、あれも監督なりの愛のムチだったのだと今ならわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "何度も企画書を突き返されるが、先輩の愛のムチだと思って必死に食らいついている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "子供を甘やかすだけではなく、時には愛のムチも必要だと考えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -42,14 +62,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "厳しい指導",
+        "スパルタ教育"
+      ],
+      "antonyms": [
+        "甘やかし"
+      ],
+      "related": [
+        "叱咤激励",
+        "教育",
+        "試練",
+        "思いやり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:44.609948+00:00Z"
     }
   }
 ]

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "愛知県立芸術大学の卒業制作展で、巨大なキャンバスに描かれた作品に圧倒された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は愛知県立芸術大学で、日本画の伝統的な技法と現代的な表現を研究している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "愛知県立芸術大学の奏楽堂で行われた、オーケストラの定期演奏会を聴きに行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "県芸"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "愛知県",
+        "公立大学",
+        "芸術学部",
+        "大学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:48:56.950885+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "資料館では、一人のアイヌ人のおばあさんが自らの体験を語ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "歴史小説を読んで、明治時代を生きたアイヌ人の厳しい生活を知った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼はアイヌ人として初めて国会議員になった人物の生涯を調べている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -186,14 +206,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "アイヌ民族"
+      ],
+      "antonyms": [
+        "和人"
+      ],
+      "related": [
+        "北海道",
+        "樺太",
+        "千島列島",
+        "文化",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:45.600026+00:00Z"
     }
   }
 ]

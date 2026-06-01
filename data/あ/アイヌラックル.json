@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "アイヌの叙事詩には、英雄神であるアイヌラックルの活躍が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "子供たちに、アイヌラックルが火の神から火をもたらしたという伝説を話して聞かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "アイヌラックルは、アイヌの人々に文化や秩序をもたらした存在として崇められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オキクルミ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アイヌ神話",
+        "カムイ",
+        "英雄",
+        "伝承",
+        "文化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:51:45.602387+00:00Z",
       "frequencies": {
         "aozora": 1
       }

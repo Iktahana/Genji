@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "私たちの開発した新しい無線通信規格は、先日ＩＥＥＥによって正式な標準として承認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ＩＥＥＥが主催する国際会議で論文を発表するため、来月シカゴへ出張することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "パソコンのLANケーブルを買いに行き、パッケージにＩＥＥＥの規格番号が印字されているのを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -86,12 +106,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "電気工学",
+        "電子工学",
+        "標準化",
+        "学会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.118545+00:00Z"
     }
   }
 ]

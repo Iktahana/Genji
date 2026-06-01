@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「新しいｉＰｈｏｎｅのカメラ機能は非常に高性能で、暗い場所でも綺麗に撮れる。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「外出先でｉＰｈｏｎｅの充電が切れてしまい、連絡が取れなくて困った。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「長年使い慣れたｉＰｈｏｎｅから最新モデルへ機種変更する手続きを行った。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -44,13 +64,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "Android"
+      ],
+      "related": [
+        "スマートフォン",
+        "Apple",
+        "iOS",
+        "携帯電話",
+        "スマホ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:05.727802+00:00Z"
     }
   }
 ]

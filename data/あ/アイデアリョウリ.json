@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "冷蔵庫の残り物だけで作ったとは思えない、母のアイデア料理に驚かされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統的な和食にフレンチの技法を取り入れた、創作性あふれるアイデア料理を堪能した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "余った餃子の皮をピザ風にアレンジしたアイデア料理は、子供たちに大人気だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -43,14 +63,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "創作料理",
+        "アレンジ料理",
+        "オリジナル料理"
+      ],
+      "antonyms": [
+        "定番料理",
+        "伝統料理"
+      ],
+      "related": [
+        "料理",
+        "レシピ",
+        "調理",
+        "献立"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.925139+00:00Z"
     }
   }
 ]

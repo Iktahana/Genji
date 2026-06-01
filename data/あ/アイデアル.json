@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「これこそが私の求めていたアイデアルな生活だ」と、彼は田舎暮らしに満足げだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "若い頃に抱いていたアイデアルな社会像と、現実とのギャップに苦悩する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女の描く絵画には、どこかアイデアルで美しい空想の世界が広がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -76,14 +96,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "理想的",
+        "究極",
+        "完璧"
+      ],
+      "antonyms": [
+        "現実的",
+        "世俗的"
+      ],
+      "related": [
+        "理想",
+        "理念",
+        "概念"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:34.925429+00:00Z",
       "frequencies": {
         "aozora": 5
       }

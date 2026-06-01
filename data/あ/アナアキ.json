@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日穴あきについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "穴あきという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼は穴あきの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文には穴あきが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "穴あきを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -262,14 +246,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "有孔",
+        "貫通"
+      ],
+      "antonyms": [
+        "穴なし",
+        "無孔"
+      ],
+      "related": [
+        "穿孔",
+        "加工",
+        "メッシュ",
+        "ドーナツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:04.682914+00:00Z",
+      "updated_at": "2026-06-01T13:18:15.964096+00:00Z",
       "frequencies": {
         "aozora": 19
       }

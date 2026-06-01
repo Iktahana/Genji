@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "台風の影響で、列車の運休や遅延が相次いで発表された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "期待の若手が相次いでデビューし、球界は活気に溢れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "商店街の老舗が相次いで閉店し、通りは少し寂しくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "次々と",
+        "続々と",
+        "立て続けに",
+        "続け様に",
+        "連続して"
+      ],
+      "antonyms": [
+        "散発的に",
+        "ぽつぽつと"
+      ],
+      "related": [
+        "頻発",
+        "続発",
+        "多発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:51.149378+00:00Z"
     }
   }
 ]

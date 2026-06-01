@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "二人は初めから相惚れの仲だったようで、あっという間に結婚が決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "幼馴染の二人がいつの間にか相惚れになっていたとは、誰も気づかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「どうやらお互い相惚れみたいだけど、どっちから告白するんだろうね」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -82,14 +102,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相思相愛",
+        "両想い"
+      ],
+      "antonyms": [
+        "片想い",
+        "岡惚れ"
+      ],
+      "related": [
+        "恋愛",
+        "惚れる",
+        "男女"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.055043+00:00Z"
     }
   }
 ]

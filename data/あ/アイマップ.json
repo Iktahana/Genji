@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "パソコンとスマートフォンの両方で同じメールを見るため、設定をＰＯＰからＩＭＡＰに変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ＩＭＡＰを使えば、サーバー上のメールを直接操作できるので複数の端末からの管理が楽になります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "メールソフトの設定画面で、ＩＭＡＰサーバーのアドレスとポート番号を入力してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -42,13 +62,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "POP3"
+      ],
+      "related": [
+        "メール",
+        "サーバー",
+        "プロトコル",
+        "受信",
+        "同期"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.065463+00:00Z"
     }
   }
 ]

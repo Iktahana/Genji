@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "駅前には近代的なビルと古くからの商店が相並び、独特の景観を作っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "世界のトップアスリートと相並んでスタートラインに立ち、彼は武者震いした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「君たちの実力は相並んでいるから、どちらが選ばれてもおかしくない」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -130,14 +150,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "並ぶ",
+        "列なる",
+        "整列する"
+      ],
+      "antonyms": [
+        "散らばる"
+      ],
+      "related": [
+        "並行",
+        "一列",
+        "立ち並ぶ",
+        "並列"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.336491+00:00Z"
     }
   }
 ]

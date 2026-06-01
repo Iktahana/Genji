@@ -32,12 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "ひどく貧しい身なりをして広場に立つ若者を、街ゆく人々は冷たく嘲った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "村の古い伝統を馬鹿にして嘲るような若者の発言に、長老は静かに怒りを表した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼らは私の思いついた新しいアイデアを、現実離れしていると言ってさんざん嘲った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -287,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嘲笑する",
+        "揶揄する",
+        "からかう",
+        "馬鹿にする"
+      ],
+      "antonyms": [
+        "敬う",
+        "褒める"
+      ],
+      "related": [
+        "笑う",
+        "嘲り",
+        "軽蔑",
+        "冷笑",
+        "貶す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:31:57.302376+00:00Z",
       "frequencies": {
         "aozora": 1082
       }

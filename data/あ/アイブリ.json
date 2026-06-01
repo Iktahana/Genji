@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "「市場で見慣れない魚を見つけたので店主に尋ねると、それは合鰤だという答えが返ってきた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「合鰤を刺身にして食べてみたが、ブリほど脂っこくなく、上品な味わいだった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「釣り上げた魚の体側に黒い帯があったので、おそらく合鰤の幼魚だろうと判断した。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -45,12 +65,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ブリ",
+        "スズキ目",
+        "アジ科",
+        "海水魚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:05.730655+00:00Z"
     }
   }
 ]

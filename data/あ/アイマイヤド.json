@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "旅の途中で日が暮れてしまい、仕方なく場末の曖昧宿に一晩泊めてもらうことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "あの辺りには、わけありの男女が忍んで泊まるような曖昧宿がいくつか残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "古い映画に出てくる、ネオンが点滅する薄暗い曖昧宿の雰囲気がなんとも言えない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -90,14 +110,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "曖昧屋",
+        "飯盛旅籠"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "宿場",
+        "旅籠",
+        "遊女",
+        "街道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.062128+00:00Z"
     }
   }
 ]

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "苦しい時代を相共に生き抜いてきた戦友と、居酒屋で久々に酒を酌み交わした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "プロジェクトの成功を目指し、開発チームと営業チームが相共に手を取り合って奔走した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "夫婦で相共に白髪になるまで、この小さな町で穏やかに暮らしていきたいと願っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "一緒に",
+        "共に",
+        "共同で"
+      ],
+      "antonyms": [
+        "単独で",
+        "別々に"
+      ],
+      "related": [
+        "協力",
+        "並行",
+        "相互",
+        "同伴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.117701+00:00Z"
     }
   }
 ]

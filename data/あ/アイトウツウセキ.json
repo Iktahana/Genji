@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "会社創設メンバーの訃報に際し、社長は朝礼で哀悼痛惜の念を禁じ得ないと沈痛な面持ちで語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "偉大な文学者の死を報じる新聞の社説は、哀悼痛惜の思いに溢れた名文であった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "友人の若すぎる死に対し、私はただ哀悼痛惜の言葉を並べることしかできなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "哀悼",
+        "追悼",
+        "悼惜"
+      ],
+      "antonyms": [
+        "祝賀"
+      ],
+      "related": [
+        "お悔やみ",
+        "死去",
+        "惜別",
+        "弔辞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.114958+00:00Z"
     }
   }
 ]

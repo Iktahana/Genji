@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "マザー・テレサの生涯を描いたドキュメンタリー映画を見て、無償の愛徳について深く考えさせられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "キリスト教系のその学校では、学力だけでなく隣人に対する愛徳の精神を育む教育に力を入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は財産の多くを孤児院に寄付し、誰に知られることもなく愛徳のわざを実践し続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "愛",
+        "慈愛",
+        "施し"
+      ],
+      "antonyms": [
+        "冷酷",
+        "不徳"
+      ],
+      "related": [
+        "キリスト教",
+        "徳",
+        "慈善",
+        "ボランティア"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.115689+00:00Z"
     }
   }
 ]

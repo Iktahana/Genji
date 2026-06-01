@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アドミッションについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アドミッションという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアドミッションの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアドミッションが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アドミッションを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "入学",
+        "入場",
+        "許可",
+        "入会"
+      ],
+      "antonyms": [
+        "退学",
+        "拒絶",
+        "拒否"
+      ],
+      "related": [
+        "試験",
+        "選抜",
+        "手続き",
+        "事務"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:03.516691+00:00Z"
+      "updated_at": "2026-06-01T13:17:12.997132+00:00Z"
     }
   }
 ]

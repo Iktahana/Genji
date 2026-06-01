@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "競技かるたでは、先に自陣の札をなくすか、相手陣の札を取って送ることで勝利を目指す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "読み手の声が響くと同時に、彼女は素早く相手陣にある札を弾き飛ばした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "試合の終盤、彼は果敢に相手陣の札を狙いにいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "敵陣",
+        "相手コート"
+      ],
+      "antonyms": [
+        "自陣",
+        "味方陣"
+      ],
+      "related": [
+        "陣地",
+        "かるた",
+        "スポーツ",
+        "競技"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.478398+00:00Z"
     }
   }
 ]

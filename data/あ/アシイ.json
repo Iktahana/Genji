@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "食べ過ぎたせいか、どうも昨晩から胃の調子が悪しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "嘘をついて人を騙すような悪しい考えは、今すぐ捨てなさい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "そんな悪しい言葉遣いをしていると、誰からも信用されなくなりますよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -118,14 +134,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "悪い",
+        "劣る",
+        "卑しい",
+        "醜い"
+      ],
+      "antonyms": [
+        "良い",
+        "正しい",
+        "麗しい"
+      ],
+      "related": [
+        "善悪",
+        "悪徳",
+        "邪悪",
+        "不道徳"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:32:50.525143+00:00Z",
       "frequencies": {
         "aozora": 231
       }

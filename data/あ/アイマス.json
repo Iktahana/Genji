@@ -31,8 +31,12 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "満員電車の中で肩と肩が相摩す状態になり、とても息苦しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "擦れ合う",
+        "摩擦する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "接触",
+        "衝突",
+        "触れる",
+        "摩擦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.063026+00:00Z"
     }
   }
 ]

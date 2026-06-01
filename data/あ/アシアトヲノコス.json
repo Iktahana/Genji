@@ -34,12 +34,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "彼女は日本文学の研究において、後世に語り継がれる偉大な足跡を残した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "新しいプロジェクトを立ち上げ、この会社に自分の足跡を残したいと思っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "未踏の雪原に一番乗りして、自分だけの足跡を残すのは気分がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -145,14 +161,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "業績を残す",
+        "功績を残す",
+        "名を残す",
+        "爪痕を残す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "偉業",
+        "実績",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:32:50.524668+00:00Z"
     }
   }
 ]

@@ -35,6 +35,22 @@
             {
               "text": "これはＩＰｖ４の例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "従来のＩＰｖ４設定ではアドレスが足りなくなり、サブネットマスクを変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古いネットワーク機器の多くは、依然としてＩＰｖ４での運用を前提としている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -44,13 +60,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "IPv6"
+      ],
+      "related": [
+        "IPアドレス",
+        "インターネットプロトコル",
+        "グローバルIP",
+        "プライベートIP"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:48.031993+00:00Z"
     }
   }
 ]

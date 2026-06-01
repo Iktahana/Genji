@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アプルーブについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アプルーブという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアプルーブの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアプルーブが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アプルーブを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "承認する",
+        "認可する"
+      ],
+      "antonyms": [
+        "却下する",
+        "拒否する"
+      ],
+      "related": [
+        "決裁",
+        "許可",
+        "承諾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:59:27.799451+00:00Z"
+      "updated_at": "2026-06-01T13:30:42.823349+00:00Z"
     }
   }
 ]

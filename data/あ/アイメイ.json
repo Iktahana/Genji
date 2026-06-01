@@ -31,8 +31,20 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "青春時代の愛迷は、誰しもが一度は経験するほろ苦い記憶だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この小説は、複雑な人間関係の中で愛迷する若者たちの姿を描いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -50,14 +62,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恋煩い",
+        "迷い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恋愛",
+        "煩悩",
+        "執着"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.161088+00:00Z"
     }
   }
 ]

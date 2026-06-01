@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "久しぶりに実家に帰ると、父は相も変わらず書斎で本を読んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "あのレストランは、十年経った今でも相も変わらず美味しいハンバーグを提供している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「最近どう？」「相も変わらず、仕事に追われる毎日だよ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -274,14 +294,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "相変わらず",
+        "依然として",
+        "いつも通り",
+        "従来通り",
+        "昔ながら"
+      ],
+      "antonyms": [
+        "一変して",
+        "見違えるように"
+      ],
+      "related": [
+        "不変",
+        "恒常",
+        "マンネリ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:55:54.162266+00:00Z"
     }
   }
 ]

@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログ入力について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログ入力という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログ入力の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログ入力が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログ入力を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -118,13 +102,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "デジタル入力"
+      ],
+      "related": [
+        "センサー",
+        "電圧",
+        "ADC",
+        "信号処理",
+        "インターフェース",
+        "外部入力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.913989+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.368727+00:00Z"
     }
   }
 ]

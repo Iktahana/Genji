@@ -32,17 +32,9 @@
         "examples": {
           "standard": [
             {
-              "text": "「さっきまでテーブルにあったケーキ、もう跡形もないんだけど、誰か食べた？」",
-              "citation": {
-                "source": "幻辭AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
               "text": "「彼が残したはずの機密データは、何者かの手によってサーバー上から跡形もなく消去されていたんだ。」",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -50,7 +42,7 @@
             {
               "text": "「あんなに頑丈そうだった石造りの橋が、昨晩の濁流で跡形もなく押し流されるなんて信じられないよ。」",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -58,7 +50,7 @@
             {
               "text": "「ずっと胸の奥につかえていた漠然とした不安も、先生のその力強い一言で跡形もなく消え去りました。」",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -66,7 +58,7 @@
             {
               "text": "「昨夜の大雪で子供たちと作った大きな雪だるまも、今日のこのポカポカ陽気で跡形もなく溶けちゃったね。」",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -319,14 +311,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "綺麗さっぱり",
+        "木っ端微塵",
+        "根こそぎ",
+        "完全に"
+      ],
+      "antonyms": [
+        "歴然と"
+      ],
+      "related": [
+        "消滅",
+        "破壊",
+        "忘却",
+        "消失"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-23T16:11:11.543231+00:00Z"
+      "updated_at": "2026-06-01T13:15:44.930712+00:00Z"
     }
   }
 ]

@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "将来の目標について尋ねられたが、まだ曖昧模糊としていて言葉にできなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "霧に包まれた夜の街は、すべての輪郭が曖昧模糊として幻想的な風景だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "会議での彼の提案は曖昧模糊としており、具体的に何をすべきか誰にも分からなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -268,14 +288,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "有耶無耶",
+        "茫漠",
+        "混沌"
+      ],
+      "antonyms": [
+        "一目瞭然",
+        "明々白々",
+        "明白"
+      ],
+      "related": [
+        "状態",
+        "印象",
+        "表現",
+        "雰囲気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.061039+00:00Z"
     }
   }
 ]

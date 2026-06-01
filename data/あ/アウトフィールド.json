@@ -33,6 +33,22 @@
             {
               "text": "これはアウトフィールドの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "打球は大きく伸びて、アウトフィールドの奥深くへと飛んでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "外野手たちはアウトフィールドに散らばり、守備位置についた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +57,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "外野"
+      ],
+      "antonyms": [
+        "内野"
+      ],
+      "related": [
+        "野球",
+        "守備",
+        "グラウンド",
+        "スポーツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:56:26.784928+00:00Z"
     }
   }
 ]

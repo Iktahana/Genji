@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "天体望遠鏡の倍率を変えるには、アイピースを交換する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "顕微鏡を覗き込み、アイピースを通してミクロの世界を観察する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼はカメラのファインダーに目を当て、アイピース越しに被写体を捉えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -50,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "接眼レンズ"
+      ],
+      "antonyms": [
+        "対物レンズ"
+      ],
+      "related": [
+        "顕微鏡",
+        "望遠鏡",
+        "光学機器",
+        "レンズ",
+        "カメラ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:52:54.597238+00:00Z",
       "frequencies": {
         "aozora": 1
       }

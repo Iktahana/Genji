@@ -33,12 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "かつてサリドマイドという睡眠薬の副作用により、海豹肢症を持って生まれた子供たちが大きな社会問題となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "図書館の医学書コーナーで、妊娠初期の特定の薬物投与が原因で起こる海豹肢症の発生メカニズムについて読んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "海豹肢症の患者がより自然な動作を行えるようにするための、新しい義肢の開発プロジェクトが大学で進められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -47,14 +63,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アザラシ肢症",
+        "フォコメリア"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "サリドマイド",
+        "奇形",
+        "疾患"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:31:57.310855+00:00Z"
     }
   }
 ]

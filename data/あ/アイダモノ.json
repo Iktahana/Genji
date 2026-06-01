@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "夕食までの空腹を紛らわせるために、軽い間物を口にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "芝居の休憩時間に、売店で買った間物を友人と言い合いながら食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "子供たちが学校から帰ると、祖母がいつも手作りの間物を用意してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "間食",
+        "おやつ",
+        "菓子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "軽食",
+        "副食",
+        "季節",
+        "衣替え"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:48:56.947177+00:00Z"
     }
   }
 ]

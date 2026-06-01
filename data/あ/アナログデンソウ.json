@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログ伝送について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログ伝送という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログ伝送の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログ伝送が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログ伝送を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "アナログ通信"
+      ],
+      "antonyms": [
+        "デジタル伝送",
+        "デジタル通信"
+      ],
+      "related": [
+        "変調",
+        "連続波",
+        "伝送路",
+        "搬送波",
+        "電波",
+        "信号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.913454+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.367848+00:00Z"
     }
   }
 ]

@@ -35,6 +35,22 @@
             {
               "text": "これはＩＤの例句です。",
               "source": "幻辞"
+            },
+            {
+              "text": "会員制サイトにログインするために、登録したＩＤとパスワードを入力した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "建物に入る際、警備員から身分を証明するＩＤの提示を求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -228,14 +244,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "識別子",
+        "身分証明",
+        "ID番号"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アカウント",
+        "パスワード",
+        "認証",
+        "識別",
+        "ユーザー",
+        "証明書"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:48.027696+00:00Z",
       "freq_rank": 15460
     }
   }

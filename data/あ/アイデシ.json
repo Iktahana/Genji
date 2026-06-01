@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "共に厳しい修行を乗り越えてきた相弟子とは、今でも親友のような関係だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "先代の師匠の門下で学んだ相弟子たちが、一周忌の法要に集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "相弟子の中で最も筋が良いとされていた彼は、若くして自分の道場を構えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "同門",
+        "兄弟弟子",
+        "門下生"
+      ],
+      "antonyms": [
+        "師匠",
+        "師"
+      ],
+      "related": [
+        "修行",
+        "道場",
+        "稽古",
+        "師弟"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:34.926743+00:00Z",
       "frequencies": {
         "aozora": 41
       }

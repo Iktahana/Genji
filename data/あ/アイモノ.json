@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "旅の土産に、港町で買った相物を実家へ送った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ご飯のお供には、塩気の効いた相物がよく合う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "昔ながらの製法で作られたその店の相物は、地元で評判の一品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -162,14 +182,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "塩干物",
+        "合い着"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "干物",
+        "塩蔵品",
+        "衣替え",
+        "春物",
+        "秋物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:55:54.163747+00:00Z",
       "frequencies": {
         "aozora": 3
       }

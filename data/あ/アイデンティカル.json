@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "科学者の間では、この二つの実験結果はアイデンティカルなものであると見なされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "二人の主張は細部こそ異なるが、根本的な思想においてはアイデンティカルだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "アイデンティカルな双子の兄弟は、声や仕草までそっくりで判別がつかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "同一の",
+        "一致する",
+        "等しい"
+      ],
+      "antonyms": [
+        "異なる",
+        "別個の",
+        "相違する"
+      ],
+      "related": [
+        "双子",
+        "複製",
+        "合致"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.927227+00:00Z"
     }
   }
 ]

@@ -31,8 +31,20 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "環境保護と経済発展は、必ずしも相対立するものではないはずだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この物語では、善と悪という相対立する二つの力が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -226,14 +238,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "対立する",
+        "背馳する",
+        "相容れない",
+        "反目する",
+        "拮抗する"
+      ],
+      "antonyms": [
+        "一致する",
+        "同調する",
+        "協調する"
+      ],
+      "related": [
+        "矛盾",
+        "葛藤",
+        "論争",
+        "摩擦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.371227+00:00Z"
     }
   }
 ]

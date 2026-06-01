@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "駐車場でアイドリングをしたまま仮眠をとっていたトラックの運転手が、警備員に注意されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "寒い冬の朝、車のエンジンをかけてしばらくアイドリングをしてから出発した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "交差点で信号待ちをしていると、隣に停まったバイクのアイドリングの音がやけにうるさかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -74,14 +94,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "空回り",
+        "空転"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アイドリングストップ",
+        "暖機運転",
+        "エンジン",
+        "停車",
+        "アイドル状態"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:51:30.122211+00:00Z",
       "freq_rank": 35589,
       "frequencies": {
         "aozora": 4

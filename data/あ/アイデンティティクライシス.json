@@ -35,8 +35,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "定年退職後、何をすべきか分からなくなり、アイデンティティクライシスに陥ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "思春期の若者は、自分は何者なのかという問いに悩み、アイデンティティクライシスを経験することが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "急激な社会の変化の中で、多くの人々が精神的なアイデンティティクライシスに直面している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -45,14 +65,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自己喪失",
+        "自己不信",
+        "精神的危機"
+      ],
+      "antonyms": [
+        "自己確立"
+      ],
+      "related": [
+        "思春期",
+        "葛藤",
+        "精神分析",
+        "エリクソン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:34.927889+00:00Z"
     }
   }
 ]

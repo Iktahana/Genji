@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼の生まれ持った才能と日々の血を吐くような努力が相まって、ついに世界新記録を樹立した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "スパイスの爽やかな香りとトマトの酸味が相まって、非常に食欲をそそるカレーに仕上がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "素晴らしい脚本と俳優たちの迫真の演技が相まって、この映画は歴史に残る名作となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -282,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "重なって",
+        "加わって",
+        "協力して"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "相互作用",
+        "効果",
+        "シナジー",
+        "相乗効果"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:53:40.064823+00:00Z",
       "freq_rank": 19220
     }
   }

@@ -32,12 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "彼のプレゼンでの失敗に対して、会議室の隅から冷酷な嘲りの声が聞こえてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "観客からの容赦ない嘲りの中、彼女は最後まで堂々とステージでスピーチを終えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その斬新な提案は、最初は嘲りの的だったが、数年後に業界の標準へと成長した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -287,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嘲笑",
+        "冷笑",
+        "嘲弄"
+      ],
+      "antonyms": [
+        "尊敬",
+        "敬意"
+      ],
+      "related": [
+        "笑う",
+        "揶揄",
+        "軽蔑",
+        "嘲る",
+        "からかい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:31:57.300555+00:00Z"
     }
   }
 ]

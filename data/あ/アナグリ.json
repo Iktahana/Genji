@@ -32,22 +32,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日穴ぐりについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "穴ぐりという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼は穴ぐりの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文には穴ぐりが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "穴ぐりを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -135,14 +119,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ボーリング",
+        "穿孔"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "加工",
+        "金属",
+        "旋盤",
+        "ドリル",
+        "切削",
+        "工作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:04.689344+00:00Z"
+      "updated_at": "2026-06-01T13:18:49.801906+00:00Z"
     }
   }
 ]

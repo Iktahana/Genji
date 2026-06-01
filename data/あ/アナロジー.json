@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナロジーについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナロジーという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナロジーの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナロジーが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナロジーを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -342,14 +326,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "類推",
+        "比喩",
+        "類比",
+        "見立て"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "思考",
+        "推論",
+        "共通点",
+        "相似",
+        "抽象化",
+        "モデル化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.916011+00:00Z",
+      "updated_at": "2026-06-01T13:20:32.372543+00:00Z",
       "freq_rank": 23276,
       "frequencies": {
         "aozora": 51

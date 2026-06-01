@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "妻のつわりが始まった頃から、夫も相悪阻で食欲がなくなってしまったらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「もしかして、君も相悪阻なんじゃない？」と友人に心配された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "相悪阻は医学的な根拠が不明確だが、実際に経験する男性は少なくないという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "クーヴァード症候群",
+        "擬似つわり"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "つわり",
+        "妊娠",
+        "共感",
+        "心因性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.471021+00:00Z"
     }
   }
 ]

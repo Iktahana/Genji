@@ -33,8 +33,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "契約書の内容について、相手方の弁護士と最終調整を行っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "裁判の期日に相手方が出廷しなかったため、手続きが延期された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "こちらの提案に対する相手方の反応は、予想以上に好意的だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -260,14 +280,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "先方",
+        "向こう"
+      ],
+      "antonyms": [
+        "当方",
+        "こちら"
+      ],
+      "related": [
+        "当事者",
+        "契約",
+        "交渉",
+        "取引先"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:54.473523+00:00Z",
       "freq_rank": 11454,
       "frequencies": {
         "aozora": 222

@@ -34,22 +34,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アペタイザーについて考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アペタイザーという言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアペタイザーの意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアペタイザーが含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アペタイザーを使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -120,14 +104,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "前菜",
+        "オードブル",
+        "突き出し"
+      ],
+      "antonyms": [
+        "デザート",
+        "食後酒"
+      ],
+      "related": [
+        "料理",
+        "コース",
+        "食欲",
+        "レストラン",
+        "メニュー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:59:30.108628+00:00Z"
+      "updated_at": "2026-06-01T13:31:09.317935+00:00Z"
     }
   }
 ]

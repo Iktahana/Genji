@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "夕食前に間食いすると、せっかくのご馳走が食べられなくなるよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ダイエット中とは言え、仕事の合間のちょっとした間食いがやめられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼は空腹に耐えかねて、夜中にこっそり冷蔵庫を開けて間食いをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -58,14 +78,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "間食",
+        "おやつ",
+        "つまみ食い",
+        "買い食い"
+      ],
+      "antonyms": [
+        "正食",
+        "三食"
+      ],
+      "related": [
+        "嗜好品",
+        "空腹",
+        "肥満",
+        "甘味"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:49:50.377554+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "図面を正確に縮小して模写するために、古い製図道具であるアイドグラフを引っ張り出してきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "博物館の測量機器コーナーに、19世紀に使われていた真鍮製の美しいアイドグラフが展示されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "パンタグラフと似た原理で動くアイドグラフを使って、地図の輪郭線をゆっくりとなぞった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "縮図器",
+        "拡大器"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "製図",
+        "設計",
+        "幾何学",
+        "写図"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.120861+00:00Z"
     }
   }
 ]

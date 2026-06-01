@@ -31,8 +31,12 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "チェスの大会で、初戦からグランドマスターと当たってしまった。これは相手が悪い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -282,14 +286,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "分が悪い",
+        "手強い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "相手",
+        "強敵",
+        "勝負"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:54.475039+00:00Z"
     }
   }
 ]

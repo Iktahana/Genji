@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "主治医から処方されたＩＮＡＨを、毎朝決まった時間に忘れず服用している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ＩＮＡＨは結核治療の要となる薬だが、肝機能への影響には注意が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬剤師から「ＩＮＡＨを飲んでいる間はアルコールを控えてください」と指導を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -266,14 +286,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "イソニアジド",
+        "イソニコチン酸ヒドラジド"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "結核",
+        "抗結核薬",
+        "抗菌薬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:52:09.334545+00:00Z"
     }
   }
 ]

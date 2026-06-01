@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "この万年筆は、作家の間でも愛用者が多いことで知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新商品の開発にあたって、既存の愛用者たちの意見を参考にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "発売から20年が経つが、この化粧水には今も根強い愛用者がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -114,14 +134,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ユーザー",
+        "愛好家",
+        "ファン",
+        "リピーター",
+        "常連"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顧客",
+        "消費者",
+        "愛用品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:44.656645+00:00Z"
     }
   }
 ]

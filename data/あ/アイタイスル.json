@@ -32,8 +32,12 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "決勝戦で、ついに宿命のライバルと相対する時が来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -280,8 +284,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "自由と責任は、しばしば相対する概念として議論される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼の証言は、これまでの証拠と相対する内容を含んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "理想と現実は、時として厳しく相対するものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -290,14 +314,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "向かい合う",
+        "対面する",
+        "対立する",
+        "対峙する",
+        "面する"
+      ],
+      "antonyms": [
+        "背ける",
+        "回避する"
+      ],
+      "related": [
+        "正面",
+        "対角",
+        "相手",
+        "対等",
+        "敵対"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:50.369314+00:00Z"
     }
   }
 ]

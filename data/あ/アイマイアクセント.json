@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "彼の話し方は独特で、単語の高低差がはっきりしない曖昧アクセントの特徴が出ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "茨城や栃木の一部地域で話される言葉には、この曖昧アクセントが見られるそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "音声学の授業で、無型アクセントとも呼ばれる曖昧アクセントについて詳しく学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無アクセント",
+        "一型アクセント"
+      ],
+      "antonyms": [
+        "高低アクセント",
+        "標準アクセント"
+      ],
+      "related": [
+        "関東方言",
+        "栃木弁",
+        "茨城弁",
+        "言語学",
+        "方言学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:53:40.058628+00:00Z"
     }
   }
 ]

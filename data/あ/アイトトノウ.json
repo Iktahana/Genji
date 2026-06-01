@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "結婚式の準備がすべて相整い、あとは明日の本番を待つばかりとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "両軍の陣形が相整い、夜明けとともに太鼓の音が鳴り響いて戦端が開かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "新規事業の立ち上げに向けて資金と人材が相整い、いよいよプロジェクトが始動する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -42,14 +62,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "そろう",
+        "整う",
+        "完備する"
+      ],
+      "antonyms": [
+        "乱れる",
+        "欠ける"
+      ],
+      "related": [
+        "準備",
+        "万端",
+        "完了",
+        "成就"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:51:30.116121+00:00Z"
     }
   }
 ]

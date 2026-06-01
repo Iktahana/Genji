@@ -33,6 +33,22 @@
             {
               "text": "明け番の例文",
               "source": "幻辞"
+            },
+            {
+              "text": "昨夜は夜勤だったので、今日は明け番で休みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "明け番の日は、たいてい昼過ぎまで寝て過ごす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": []
@@ -41,14 +57,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "非番",
+        "休み",
+        "オフ"
+      ],
+      "antonyms": [
+        "当番",
+        "宿直",
+        "日勤"
+      ],
+      "related": [
+        "勤務",
+        "シフト",
+        "交代制",
+        "警察",
+        "消防"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:22:43.211944+00:00Z"
     }
   }
 ]

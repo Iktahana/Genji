@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "この犬は、柴犬と洋犬の間の子だそうで、両方の特徴を受け継いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "市場で見かけたその野菜は、カブとキャベツの間の子のような不思議な形をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼は日本人とアメリカ人の間の子で、二つの言語を流暢に話す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
             }
           ],
           "literary": [
@@ -293,26 +313,34 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [
-            {
-              "text": "例句",
-              "source": "幻辞"
-            }
-          ],
+          "standard": [],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ハーフ",
+        "混血",
+        "ハイブリッド",
+        "ミックス"
+      ],
+      "antonyms": [
+        "純血",
+        "生粋"
+      ],
+      "related": [
+        "血統",
+        "多文化",
+        "遺伝",
+        "国際結婚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:51:45.606471+00:00Z",
       "frequencies": {
         "aozora": 32
       }

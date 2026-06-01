@@ -31,12 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句が必要です。",
-              "source": "幻辞"
+              "text": "今年の母の日のプレゼントとして、濃いピンク色の花をたくさんつけたアザレアの立派な鉢植えを贈った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             },
             {
-              "text": "この言葉を使った例文です。",
-              "source": "幻辞"
+              "text": "春になって暖かくなると、近所の公園にある大きな花壇に色とりどりのアザレアが一斉に咲き乱れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "アザレアは寒さに少し弱い植物なので、冬の間は霜に当てないよう室内の日当たりの良い窓際に置いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -62,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "西洋ツツジ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ツツジ科",
+        "花",
+        "園芸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:31:57.311297+00:00Z",
       "frequencies": {
         "aozora": 2
       }

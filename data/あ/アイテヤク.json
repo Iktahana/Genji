@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "ドラマのヒロインの相手役に、期待の新人俳優が抜擢された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "舞台稽古では、相手役との呼吸が合わず何度も同じシーンをやり直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "映画で共演した相手役の女優とは、プライベートでも親交がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -274,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "共演者",
+        "パートナー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "演劇",
+        "映画",
+        "ドラマ",
+        "キャスト",
+        "配役"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T12:50:34.921124+00:00Z",
       "frequencies": {
         "aozora": 61
       }

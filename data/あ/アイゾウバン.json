@@ -31,8 +31,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "子供の頃に夢中で読んだ漫画の愛蔵版が発売されたので、迷わず全巻購入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "この写真集の愛蔵版には、未公開のカットが多数収録されているそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "著者の直筆サインが入った愛蔵版は、あっという間に予約で完売してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": []
@@ -41,14 +61,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "豪華版",
+        "限定版",
+        "保存版",
+        "特装版"
+      ],
+      "antonyms": [
+        "通常版",
+        "普及版",
+        "文庫版"
+      ],
+      "related": [
+        "書籍",
+        "出版",
+        "コレクター",
+        "初版"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:50:27.166907+00:00Z"
     }
   }
 ]

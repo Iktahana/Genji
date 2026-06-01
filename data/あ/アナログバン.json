@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログ盤について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログ盤という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログ盤の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログ盤が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログ盤を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "レコード",
+        "LP",
+        "EP",
+        "ドーナツ盤"
+      ],
+      "antonyms": [
+        "CD",
+        "デジタル音源"
+      ],
+      "related": [
+        "ターンテーブル",
+        "針",
+        "溝",
+        "蓄音機",
+        "レコードプレーヤー",
+        "音盤"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.914292+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.369453+00:00Z"
     }
   }
 ]

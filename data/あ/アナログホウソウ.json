@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アナログ放送について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アナログ放送という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアナログ放送の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアナログ放送が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アナログ放送を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -118,13 +102,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "デジタル放送",
+        "地デジ"
+      ],
+      "related": [
+        "VHF",
+        "UHF",
+        "電波",
+        "走査線",
+        "砂嵐",
+        "放送終了"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:06.915120+00:00Z"
+      "updated_at": "2026-06-01T13:20:32.371003+00:00Z"
     }
   }
 ]

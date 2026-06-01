@@ -32,8 +32,28 @@
         "examples": {
           "standard": [
             {
-              "text": "例句",
-              "source": "幻辞"
+              "text": "今回のプロジェクトでは、彼がリーダーを、私がサブリーダーを相勤めることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "舞台の主役をベテラン俳優が務め、若手実力派が脇を相勤める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祝宴の司会を新郎の友人と新婦の同僚が共同で相勤める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": [
@@ -59,14 +79,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "共に働く",
+        "同勤する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "同僚",
+        "勤務",
+        "奉公"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T12:49:51.151878+00:00Z"
     }
   }
 ]

@@ -31,22 +31,6 @@
         "examples": {
           "standard": [
             {
-              "text": "私は毎日アニメ映画について考えている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アニメ映画という言葉は日本語で重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "彼はアニメ映画の意味を理解している。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この文にはアニメ映画が含まれている。",
-              "source": "幻辞"
-            },
-            {
               "text": "アニメ映画を使って文を作ってみた。",
               "source": "幻辞"
             },
@@ -117,14 +101,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "劇場用アニメ",
+        "劇場版アニメ"
+      ],
+      "antonyms": [
+        "実写映画"
+      ],
+      "related": [
+        "興行収入",
+        "スタジオジブリ",
+        "シネコン",
+        "映画祭",
+        "劇場公開"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T13:58:08.190616+00:00Z"
+      "updated_at": "2026-06-01T13:21:07.553822+00:00Z"
     }
   }
 ]
