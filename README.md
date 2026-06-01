@@ -39,8 +39,8 @@ SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-fi
 | `GET /docs` | API ドキュメント（Redoc） |
 
 ```bash
-docker pull ghcr.io/iktahana/genji-api:latest
-docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
+docker pull ghcr.io/illusions-lab/genji-api:latest
+docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
 # http://localhost:8080/docs で仕様を閲覧
 ```
 
@@ -89,8 +89,8 @@ SELECT * FROM _metadata;
 API の Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応、`genji.db` 内蔵）。
 
 ```bash
-docker pull ghcr.io/iktahana/genji-api:latest
-docker run -p 8080:8080 ghcr.io/iktahana/genji-api:latest
+docker pull ghcr.io/illusions-lab/genji-api:latest
+docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
 ```
 
 ローカルからビルドして起動する場合:
