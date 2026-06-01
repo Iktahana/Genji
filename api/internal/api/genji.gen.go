@@ -297,7 +297,7 @@ type ServerInterface interface {
 	// 見出し語・読みを全文検索
 	// (GET /v1/search/entries)
 	SearchEntries(c *gin.Context, params SearchEntriesParams)
-	// 全収録語彙を熱度順にページングして取得
+	// 対象品詞の語彙を熱度順にページングして取得
 	// (GET /v1/sitemap)
 	GetSitemap(c *gin.Context, params GetSitemapParams)
 }
@@ -874,7 +874,7 @@ type StrictServerInterface interface {
 	// 見出し語・読みを全文検索
 	// (GET /v1/search/entries)
 	SearchEntries(ctx context.Context, request SearchEntriesRequestObject) (SearchEntriesResponseObject, error)
-	// 全収録語彙を熱度順にページングして取得
+	// 対象品詞の語彙を熱度順にページングして取得
 	// (GET /v1/sitemap)
 	GetSitemap(ctx context.Context, request GetSitemapRequestObject) (GetSitemapResponseObject, error)
 }

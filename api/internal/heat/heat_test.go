@@ -151,6 +151,34 @@ func TestAggregateIncludesFrequency(t *testing.T) {
 	}
 }
 
+func TestAggregateExcludesUnseeded(t *testing.T) {
+	h, _ := newTestHeat(t)
+	ctx := context.Background()
+
+	// a のみ seed（= sitemap 対象品詞）。z は seed されない非対象語。
+	if err := h.Seed(ctx, seeds("a"), "v1"); err != nil {
+		t.Fatalf("Seed: %v", err)
+	}
+	// 両方アクセスされる。
+	today := dayKey(time.Now().UTC())
+	h.client.ZIncrBy(ctx, today, 5, "a")
+	h.client.ZIncrBy(ctx, today, 99, "z")
+
+	h.aggregate(ctx)
+
+	// a は index に存在する。
+	if _, err := h.client.ZScore(ctx, indexKey, "a").Result(); err != nil {
+		t.Errorf("a should be in index: %v", err)
+	}
+	// z は seed されていないので、アクセスされても index に漏れない。
+	if _, err := h.client.ZScore(ctx, indexKey, "z").Result(); err != redis.Nil {
+		t.Errorf("z should NOT be in index, err = %v", err)
+	}
+	if total, _ := h.client.ZCard(ctx, indexKey).Result(); total != 1 {
+		t.Errorf("index card = %d, want 1 (a only)", total)
+	}
+}
+
 func TestPagePagination(t *testing.T) {
 	h, _ := newTestHeat(t)
 	ctx := context.Background()

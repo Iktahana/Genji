@@ -237,6 +237,15 @@ func (h *redisHeat) aggregate(ctx context.Context) {
 		log.Printf("heat: agg visited failed: %v", err)
 		return
 	}
+	// 訪問分を sitemap 対象（entries:all = 対象品詞のみ seed 済み）に絞り込む。
+	// これでアクセスされた非対象語が index に漏れない。
+	if err := h.client.ZInterStore(ctx, visitedTmpKey, &redis.ZStore{
+		Keys:    []string{visitedTmpKey, entriesAllKey},
+		Weights: []float64{1, 0},
+	}).Err(); err != nil {
+		log.Printf("heat: agg visited filter failed: %v", err)
+		return
+	}
 	// 全 uuid（土台 0 点）に頻度の下地と訪問分を重ねる。
 	// heat = 0×(全uuid) + wFreq×log(1+頻度) + 1×(2×c30 + 1×c365)
 	if err := h.client.ZUnionStore(ctx, indexTmpKey, &redis.ZStore{

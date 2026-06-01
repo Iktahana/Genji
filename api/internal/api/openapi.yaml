@@ -228,11 +228,12 @@ paths:
     get:
       tags: [sitemap]
       operationId: getSitemap
-      summary: 全収録語彙を熱度順にページングして取得
+      summary: 対象品詞の語彙を熱度順にページングして取得
       description: >
-        sitemap 生成用に、全収録語彙を熱度（人気度）の降順でページングして返す。
-        熱度 = 直近30日のアクセス数 × 2 + 直近365日のアクセス数 × 1。
+        sitemap 生成用に、対象品詞（名詞・動詞・形容詞系列）の語彙を熱度（人気度）の降順でページングして返す。
+        熱度 = 直近30日のアクセス数 × 2 + 直近365日のアクセス数 × 1 + log(1+コーパス頻度合計) × 1。
         Redis 未設定時は freq_rank → 見出し語の安定順で返し、heat は null になる。
+        表現・副詞・助詞などの語、および品詞情報の無い語は含めない。
       parameters:
         - name: page
           in: query

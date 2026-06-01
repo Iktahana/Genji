@@ -261,7 +261,7 @@ func (h *Handler) buildSitemap(ctx context.Context, page, size, offset int) (api
 			})
 		}
 	} else {
-		t, err := h.store.CountEntries()
+		t, err := h.store.CountSitemapEntries()
 		if err != nil {
 			return api.SitemapPage{}, err
 		}

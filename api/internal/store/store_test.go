@@ -261,10 +261,11 @@ func TestEntryFreqSums(t *testing.T) {
 		reading_alternatives TEXT, is_heteronym INTEGER DEFAULT 0, pos TEXT, ctype TEXT,
 		inflections TEXT, relations TEXT, meta TEXT, raw_json TEXT NOT NULL)`)
 	// a: 複数出典の合計 = 1200 + 34 = 1234。b: 頻度なし。c: meta が NULL。
-	db.Exec(`INSERT INTO entries (uuid, entry, meta, raw_json) VALUES
-		('a','雪','{"frequencies":{"aozora":1200,"jmdict":34}}','{}'),
-		('b','月','{"version":"1.0.0"}','{}'),
-		('c','花',NULL,'{}')`)
+	// いずれも sitemap 対象品詞（名詞）にしてフィルタを通す。
+	db.Exec(`INSERT INTO entries (uuid, entry, pos, meta, raw_json) VALUES
+		('a','雪','["名詞"]','{"frequencies":{"aozora":1200,"jmdict":34}}','{}'),
+		('b','月','["名詞"]','{"version":"1.0.0"}','{}'),
+		('c','花','["名詞"]',NULL,'{}')`)
 	db.Close()
 
 	s, err := Open(path)
@@ -289,6 +290,72 @@ func TestEntryFreqSums(t *testing.T) {
 	}
 	if got["c"] != 0 {
 		t.Errorf("freq[c] = %d, want 0 (meta NULL)", got["c"])
+	}
+}
+
+func TestSitemapPOSFilter(t *testing.T) {
+	dir := t.TempDir()
+	path := filepath.Join(dir, "pos.db")
+	db, err := sql.Open("sqlite3", path)
+	if err != nil {
+		t.Fatalf("open: %v", err)
+	}
+	db.Exec(`CREATE TABLE entries (uuid TEXT PRIMARY KEY, entry TEXT NOT NULL, reading_primary TEXT,
+		reading_alternatives TEXT, is_heteronym INTEGER DEFAULT 0, pos TEXT, ctype TEXT,
+		inflections TEXT, relations TEXT, meta TEXT, raw_json TEXT NOT NULL)`)
+	// 対象（名詞・動詞・形容詞系列）と非対象（表現・副詞・pos NULL）を混在させる。
+	db.Exec(`INSERT INTO entries (uuid, entry, pos, meta, raw_json) VALUES
+		('n','名詞語','["名詞"]','{}','{}'),
+		('v','動詞語','["動詞-サ変"]','{}','{}'),
+		('adj','形容詞語','["形容詞"]','{}','{}'),
+		('adjstem','形容詞語幹','["形容詞-語幹"]','{}','{}'),
+		('adjna','形容動詞語','["形容動詞"]','{}','{}'),
+		('nadj','の形容詞','["名詞-の形容詞","名詞"]','{}','{}'),
+		('expr','表現語','["表現"]','{}','{}'),
+		('adv','副詞語','["副詞"]','{}','{}'),
+		('nullpos','品詞なし',NULL,'{}','{}')`)
+	db.Close()
+
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("Open: %v", err)
+	}
+	defer s.Close()
+
+	wantQualified := map[string]bool{"n": true, "v": true, "adj": true, "adjstem": true, "adjna": true, "nadj": true}
+
+	n, err := s.CountSitemapEntries()
+	if err != nil {
+		t.Fatalf("CountSitemapEntries: %v", err)
+	}
+	if n != len(wantQualified) {
+		t.Errorf("CountSitemapEntries = %d, want %d", n, len(wantQualified))
+	}
+
+	freqs, err := s.EntryFreqSums()
+	if err != nil {
+		t.Fatalf("EntryFreqSums: %v", err)
+	}
+	if len(freqs) != len(wantQualified) {
+		t.Errorf("EntryFreqSums returned %d rows, want %d", len(freqs), len(wantQualified))
+	}
+	for _, f := range freqs {
+		if !wantQualified[f.UUID] {
+			t.Errorf("EntryFreqSums included non-target uuid %q", f.UUID)
+		}
+	}
+
+	rows, err := s.SitemapByFreq(50, 0)
+	if err != nil {
+		t.Fatalf("SitemapByFreq: %v", err)
+	}
+	if len(rows) != len(wantQualified) {
+		t.Errorf("SitemapByFreq returned %d rows, want %d", len(rows), len(wantQualified))
+	}
+	for _, r := range rows {
+		if !wantQualified[r.UUID] {
+			t.Errorf("SitemapByFreq included non-target uuid %q (%s)", r.UUID, r.Entry)
+		}
 	}
 }
 

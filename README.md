@@ -37,7 +37,7 @@ SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-fi
 | `GET /v1/search/definitions?q=snow` | 語釈の全文検索（FTS5） |
 | `GET /v1/random?count=5` | ランダム取得 |
 | `GET /v1/entries/{uuid}` | UUID で取得 |
-| `GET /v1/sitemap?page=1&page_size=1000` | 全語彙を熱度順にページング（sitemap 用） |
+| `GET /v1/sitemap?page=1&page_size=1000` | 対象品詞（名詞・動詞・形容詞系列）の語を熱度順にページング（sitemap 用） |
 | `GET /v1/metadata` ・ `GET /healthz` | メタデータ・ヘルスチェック |
 | `GET /docs` | API ドキュメント（Redoc） |
 
