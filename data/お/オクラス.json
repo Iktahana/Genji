@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨のせいで出発を遅らす羽目になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "トラブルが起きて納期を遅らすことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "交通渋滞で到着時間を遅らさざるを得ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私が出掛けて行く時間を遅らすと、彼の女は心配して外の生け垣へもたれて立っていたりした。",
@@ -229,7 +254,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.635661+00:00Z",
+      "updated_at": "2026-06-01T23:14:01.285976+00:00Z",
       "frequencies": {
         "aozora": 50
       }
