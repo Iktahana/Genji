@@ -578,7 +578,7 @@ def process_batch(batch: list) -> int:
                     for ex in valid:
                         if 'citation' not in ex:
                             ex['citation'] = {
-                                "source": "幻辭AI",
+                                "source": "Illusions AI",
                                 "author": "Gemini",
                                 "note": model_name
                             }
