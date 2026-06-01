@@ -93,14 +93,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "稼働時間",
+        "連続稼働時間"
+      ],
+      "antonyms": [
+        "ダウンタイム",
+        "停止時間"
+      ],
+      "related": [
+        "サーバー",
+        "可用性",
+        "信頼性",
+        "SLA",
+        "運用"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T17:46:17.673098+00:00Z"
+      "updated_at": "2026-06-01T13:12:21.849242+00:00Z"
     }
   }
 ]

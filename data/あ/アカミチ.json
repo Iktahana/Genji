@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い地籍図で赤道として表記されている小道を歩く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この赤道はもはや現地には物理的に存在しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤道の所有者が不明なため、通行が問題になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（明治四十一年九月二十五日『東京朝日新聞』）　　　　　　　　　五　　　　　　秋分　昨日まで北半球の上に照っていた太陽がまさに南半球へ越えんとして丁度赤道の真上に来る日である。",
@@ -281,7 +306,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:52:28.969833+00:00Z",
+      "updated_at": "2026-06-01T13:08:07.228497+00:00Z",
       "freq_rank": 20638,
       "frequencies": {
         "aozora": 233

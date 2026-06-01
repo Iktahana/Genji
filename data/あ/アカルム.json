@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東の空が白み、少しずつ周囲が明るんできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "冬の朝は、6時を過ぎてようやく外が明るみ始める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "街灯が灯り、夕闇に包まれていた通りがぱっと明るんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "薄れ明るむ雲の垂れ幕とたそがれる宵闇の力とあらがう気象の摩擦から福慈岳の巨体は、巨体さながらに雲の帳の表にうっすり浮出で、または帳の奥に潜って見えたりする。",
@@ -130,7 +155,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:50:45.021479+00:00Z",
+      "updated_at": "2026-06-01T13:07:24.449189+00:00Z",
       "frequencies": {
         "aozora": 126
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "名古屋のみそ煮込みうどんは赤味噌で味付けされています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤味噌は豆板醤よりも優しい味わいです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この赤味噌は江戸時代から作られている伝統的なものです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今日の買物――弐十弐銭　　酒二杯┌三十五銭　　白米一升└十八銭　　　平麦一升弐十弐銭　　煮干五十目十銭　　　　赤味噌百目十銭　　　　餅七ツ二銭　　　　沢庵漬一本三十弐銭　　なでしこ大包一個壱円弐十銭　木炭一俵八銭　　　　バツト一物価騰貴、殊に生活必需品の騰貴は私を脅威する。",
@@ -111,7 +136,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:52:28.969131+00:00Z",
+      "updated_at": "2026-06-01T13:08:07.227907+00:00Z",
       "frequencies": {
         "aozora": 10
       }

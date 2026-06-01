@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋田書店から創刊されたその漫画雑誌は、長年にわたって少年読者に親しまれてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は小学生のころ、秋田書店の冒険漫画を毎月発売日に買いに行くのを楽しみにしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "図書館の蔵書整理をしていると、秋田書店が出版した昭和のコミックが段ボール箱から出てきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -48,7 +73,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:52:23.328133+00:00Z"
+      "updated_at": "2026-06-01T13:11:39.295338+00:00Z"
     }
   }
 ]

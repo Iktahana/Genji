@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "糖尿病の診察で、朝方の血糖値が上がるのは暁現象が原因だと医師に説明された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "インスリンの量を調整しても、どうしても暁現象による早朝の高血糖が防げない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "夜間の低血糖を避けるためにも、暁現象のメカニズムをしっかり理解しておく必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -49,7 +74,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:49:29.083307+00:00Z"
+      "updated_at": "2026-06-01T13:05:21.274866+00:00Z"
     }
   }
 ]

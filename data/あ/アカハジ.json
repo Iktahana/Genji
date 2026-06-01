@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "赤恥をかいてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤恥になるような失敗をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤恥をかかないようにしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ほとんど完全に近く人をだまして、そうして、或るひとりの全知全能の者に見破られ、木っ葉みじんにやられて、死ぬる以上の赤恥をかかせられる、それが、「尊敬される」という状態の自分の定義でありました。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:50:02.540651+00:00Z",
+      "updated_at": "2026-06-01T13:05:22.899471+00:00Z",
       "frequencies": {
         "aozora": 49
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人気のレストランに電話したが、今週末はもう予約の空き枠がないと言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "キャンセルが出たおかげで、たまたま明日の午後の空き枠に歯医者の予約を入れることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "カレンダーを確認して、来週の会議室の空き枠を部署のメンバーに共有しておいてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -56,7 +81,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:53:05.148767+00:00Z"
+      "updated_at": "2026-06-01T13:11:20.139146+00:00Z"
     }
   }
 ]

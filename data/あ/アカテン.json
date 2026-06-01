@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数学のテストで赤点を取ってしまい、夏休みに補習を受けることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "答案用紙を裏返すと、真っ赤なインクで書かれた赤点の数字が目に飛び込んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "赤点さえ回避できればいいと考えている弟の態度に、母はため息をついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤点、黒点、黒はよく、黒点かぱりかぱり。",
@@ -71,7 +96,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:49:29.086984+00:00Z",
+      "updated_at": "2026-06-01T13:05:21.603576+00:00Z",
       "frequencies": {
         "aozora": 2
       }
