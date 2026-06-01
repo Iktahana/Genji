@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "読書感想文の課題で、私はエドガー・アラン・ポーの「黄金虫」を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「黄金虫」は暗号解読がテーマのミステリー小説として有名だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は書斎で、古びた「黄金虫」の挿絵を眺めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家畜の糞を丸めてボールを作り転がし歩く黄金虫がある。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.229257+00:00Z",
+      "updated_at": "2026-06-01T21:39:08.235050+00:00Z",
       "frequencies": {
         "aozora": 62
       }
