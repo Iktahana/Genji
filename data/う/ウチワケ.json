@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "請求書を受け取ったら、まず内訳をしっかり確認するようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅費の内訳を提出したところ、交通費の領収書が一枚足りないと言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "見積書に内訳が書いていなかったので、詳しく教えてほしいと業者に頼んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内訳をすれば葛飾閑吟集　　　　　　六十三首但、内一首、「紫のあやめ積藁」の歌、『北原白秋集』と重複。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.414573+00:00Z",
+      "updated_at": "2026-06-01T16:29:41.096677+00:00Z",
       "freq_rank": 9906,
       "frequencies": {
         "aozora": 36

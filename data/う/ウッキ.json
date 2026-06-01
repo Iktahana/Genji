@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験前夜から続く鬱気が晴れず、朝になっても布団から出られなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長雨が続くと鬱気に押しつぶされそうになり、外に出るだけで気持ちが違う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "仕事のミスが重なった週はずっと鬱気を抱えたまま過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かの女は鬱気の性質から、顔の色はやや蒼白かった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.426596+00:00Z",
+      "updated_at": "2026-06-01T16:29:41.105888+00:00Z",
       "frequencies": {
         "aozora": 19
       }
