@@ -38,7 +38,7 @@ func main() {
 		defer rdb.Close()
 	}
 	c := cache.NewWithClient(rdb)
-	hsvc := heat.New(rdb, cfg.HeatW30, cfg.HeatW365, cfg.HeatAggInterval)
+	hsvc := heat.New(rdb, cfg.HeatW30, cfg.HeatW365, cfg.HeatWFreq, cfg.HeatAggInterval)
 
 	// 熱度ランキングの土台 seed + 集計ループ起動（Redis 有効時のみ実体が動く）。
 	aggCtx, aggCancel := context.WithCancel(context.Background())
@@ -82,10 +82,16 @@ func startHeat(ctx context.Context, st *store.Store, hsvc heat.Service) {
 	if m, err := st.Metadata(); err == nil && m.Version != nil {
 		version = *m.Version
 	}
-	if uuids, err := st.AllUUIDs(); err != nil {
-		log.Printf("heat: failed to load uuids for seed: %v", err)
-	} else if err := hsvc.Seed(ctx, uuids, version); err != nil {
-		log.Printf("heat: seed failed: %v", err)
+	if freqs, err := st.EntryFreqSums(); err != nil {
+		log.Printf("heat: failed to load entries for seed: %v", err)
+	} else {
+		entries := make([]heat.SeedEntry, len(freqs))
+		for i, f := range freqs {
+			entries[i] = heat.SeedEntry{UUID: f.UUID, FreqSum: f.FreqSum}
+		}
+		if err := hsvc.Seed(ctx, entries, version); err != nil {
+			log.Printf("heat: seed failed: %v", err)
+		}
 	}
 	hsvc.StartAggregator(ctx)
 }

@@ -9,6 +9,7 @@ read-only な API で、単一の `genji.db`（SQLite + FTS5）を参照する�
 
 | メソッド・パス | 説明 | パラメータ |
 |---|---|---|
+| `GET /` | API トップ情報（辞書バージョン・収録語数・エンドポイント一覧） | — |
 | `GET /healthz` | ヘルスチェック（DB 疎通） | — |
 | `GET /v1/metadata` | ビルドメタデータ（version / commit / entry_count 等） | — |
 | `GET /v1/entries/{uuid}` | UUID で1件取得 | path: `uuid` |
@@ -68,6 +69,7 @@ API 仕様の全体はサーバー起動後にブラウザで `http://localhost:
 | `GENJI_HEAT_AGG_INTERVAL` | `15m` | 熱度ランキングの集計間隔 |
 | `GENJI_HEAT_W30` | `2` | 直近30日アクセス数の重み |
 | `GENJI_HEAT_W365` | `1` | 直近365日アクセス数の重み |
+| `GENJI_HEAT_W_FREQ` | `1` | log 正規化したコーパス頻度（`meta.frequencies` 合計）の重み |
 
 > **キャッシュ・熱度は任意**。`GENJI_REDIS_ADDR` が未設定、または Redis に接続できない場合は
 > キャッシュ無効・熱度無効（sitemap は DB 順フォールバック）で動作する。API の可用性は Redis に依存しない。
@@ -130,12 +132,16 @@ read-only な辞書 API なので、クエリ結果を Redis にキャッシュ�
 
 ```
 heat = GENJI_HEAT_W30 × (直近30日のアクセス数) + GENJI_HEAT_W365 × (直近365日のアクセス数)
-     = 2 × c30 + 1 × c365   （既定）
+     + GENJI_HEAT_W_FREQ × log(1 + Σmeta.frequencies)
+     = 2 × c30 + 1 × c365 + 1 × log(1 + 頻度合計)   （既定）
 ```
 
 - 365日窓は30日窓を**含む**。よって直近30日のアクセスは実質 3 倍、31〜365日は 1 倍。
 - 「アクセス」としてカウントするのは `GET /v1/entries/{uuid}` / `GET /v1/lookup/entry` / `GET /v1/lookup/reading`
   で**返った各語の uuid**（検索結果は対象外）。記録は非同期・ベストエフォート。
+- 末尾の頻度項は `meta.frequencies`（青空文庫など出典別の総出現回数）の合計を log 正規化した
+  **コーパス頻度の下地**。アクセスが少ない語のコールドスタート時の並び順を、出現頻度で決める。
+  アクセスが増えれば人気度が優先される。log でアクセス数（小さい整数）と桁を揃えている。
 
 ### Redis データモデルと集計
 
@@ -143,12 +149,14 @@ heat = GENJI_HEAT_W30 × (直近30日のアクセス数) + GENJI_HEAT_W365 × (�
 |---|---|
 | `genji:hits:day:{YYYYMMDD}` | その日の語ごとのアクセス数（ZSET, TTL 366日） |
 | `genji:entries:all` | 全 uuid を 0 点で保持する土台（起動時に DB から seed） |
+| `genji:heat:freq` | 全 uuid を `log(1+頻度合計)` で保持（起動時に DB から seed）。頻度の下地 |
 | `genji:heat:index` | 集計済みランキング（ZSET, uuid→heat）。sitemap が `ZREVRANGE` で読む |
 
 - バックグラウンドで `GENJI_HEAT_AGG_INTERVAL`（既定 15分）ごとに集計：
-  直近30日 / 365日の day キーを `ZUNIONSTORE` で合算し、重み付けして `genji:heat:index` を再構築する。
+  直近30日 / 365日の day キーを `ZUNIONSTORE` で合算し、`genji:heat:freq`（重み `W_FREQ`）と
+  重み付け合算して `genji:heat:index` を再構築する。
 - 多重インスタンスでの重複集計は `genji:heat:agg:lock`（SETNX）で防ぐ。
-- DB バージョン（`_metadata.version`）が変わると `genji:entries:all` を再 seed する。
+- DB バージョン（`_metadata.version`）が変わると `genji:entries:all` と `genji:heat:freq` を再 seed する。
 
 ### Redis 無効時のフォールバック
 

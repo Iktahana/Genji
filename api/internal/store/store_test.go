@@ -191,11 +191,11 @@ func TestMetadata(t *testing.T) {
 
 func TestSanitizeFTS(t *testing.T) {
 	cases := map[string]string{
-		"雪":       `"雪"`,
-		"a b":     `"a" "b"`,
-		`he"llo`:  `"he""llo"`,
-		"   ":     `""`,
-		"snow*":   `"snow*"`,
+		"雪":      `"雪"`,
+		"a b":    `"a" "b"`,
+		`he"llo`: `"he""llo"`,
+		"   ":    `""`,
+		"snow*":  `"snow*"`,
 	}
 	for in, want := range cases {
 		if got := sanitizeFTS(in); got != want {
@@ -247,6 +247,48 @@ func TestSitemapByUUIDs(t *testing.T) {
 	empty, err := s.SitemapByUUIDs(nil)
 	if err != nil || len(empty) != 0 {
 		t.Errorf("empty input: %v, %v", empty, err)
+	}
+}
+
+func TestEntryFreqSums(t *testing.T) {
+	dir := t.TempDir()
+	path := filepath.Join(dir, "freq.db")
+	db, err := sql.Open("sqlite3", path)
+	if err != nil {
+		t.Fatalf("open: %v", err)
+	}
+	db.Exec(`CREATE TABLE entries (uuid TEXT PRIMARY KEY, entry TEXT NOT NULL, reading_primary TEXT,
+		reading_alternatives TEXT, is_heteronym INTEGER DEFAULT 0, pos TEXT, ctype TEXT,
+		inflections TEXT, relations TEXT, meta TEXT, raw_json TEXT NOT NULL)`)
+	// a: 複数出典の合計 = 1200 + 34 = 1234。b: 頻度なし。c: meta が NULL。
+	db.Exec(`INSERT INTO entries (uuid, entry, meta, raw_json) VALUES
+		('a','雪','{"frequencies":{"aozora":1200,"jmdict":34}}','{}'),
+		('b','月','{"version":"1.0.0"}','{}'),
+		('c','花',NULL,'{}')`)
+	db.Close()
+
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("Open: %v", err)
+	}
+	defer s.Close()
+
+	rows, err := s.EntryFreqSums()
+	if err != nil {
+		t.Fatalf("EntryFreqSums: %v", err)
+	}
+	got := make(map[string]int64, len(rows))
+	for _, r := range rows {
+		got[r.UUID] = r.FreqSum
+	}
+	if got["a"] != 1234 {
+		t.Errorf("freq[a] = %d, want 1234", got["a"])
+	}
+	if got["b"] != 0 {
+		t.Errorf("freq[b] = %d, want 0 (頻度なし)", got["b"])
+	}
+	if got["c"] != 0 {
+		t.Errorf("freq[c] = %d, want 0 (meta NULL)", got["c"])
 	}
 }
 

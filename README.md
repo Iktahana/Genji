@@ -30,6 +30,7 @@ SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-fi
 
 | メソッド・パス | 説明 |
 |---|---|
+| `GET /` | API トップ情報（バージョン・収録語数・エンドポイント一覧） |
 | `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
 | `GET /v1/lookup/reading?reading=ゆき` | 読みの完全一致 |
 | `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索（FTS5） |

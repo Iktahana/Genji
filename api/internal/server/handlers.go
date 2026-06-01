@@ -50,6 +50,48 @@ func cached[T any](ctx context.Context, h *Handler, key string, produce func() (
 	return v, nil
 }
 
+// frontendURL は利用者向け前端サイト。
+const frontendURL = "https://dict.illusions.app"
+
+// apiEndpoints はトップページに掲載する主要エンドポイント一覧。
+var apiEndpoints = []api.EndpointInfo{
+	{Path: "/v1/metadata", Summary: "ビルドメタデータ取得"},
+	{Path: "/v1/entries/{uuid}", Summary: "UUID でエントリ取得"},
+	{Path: "/v1/lookup/entry", Summary: "見出し語で検索（完全一致）"},
+	{Path: "/v1/lookup/reading", Summary: "読みで検索（完全一致）"},
+	{Path: "/v1/search/entries", Summary: "見出し語・読みを全文検索"},
+	{Path: "/v1/search/definitions", Summary: "語釈を全文検索"},
+	{Path: "/v1/random", Summary: "ランダムな語を取得"},
+	{Path: "/v1/sitemap", Summary: "全収録語彙を熱度順にページング取得"},
+	{Path: "/healthz", Summary: "ヘルスチェック"},
+}
+
+// GetApiInfo は辞書バージョン等の基本情報とエンドポイント一覧を返す（トップページ）。
+func (h *Handler) GetApiInfo(ctx context.Context, _ api.GetApiInfoRequestObject) (api.GetApiInfoResponseObject, error) {
+	info, err := cached(ctx, h, "genji:v1:root", func() (api.ApiInfo, error) {
+		m, err := h.store.Metadata()
+		if err != nil {
+			return api.ApiInfo{}, err
+		}
+		return api.ApiInfo{
+			Name:        "『幻辞』 Genji API",
+			Description: "幻辞プロジェクトの語彙データベース API（read-only）。約21万5千語を収録。",
+			Version:     m.Version,
+			EntryCount:  m.EntryCount,
+			BuildDate:   m.BuildDate,
+			CommitShort: m.CommitShort,
+			Docs:        "/docs",
+			Openapi:     "/openapi.yaml",
+			Frontend:    frontendURL,
+			Endpoints:   apiEndpoints,
+		}, nil
+	})
+	if err != nil {
+		return nil, err
+	}
+	return api.GetApiInfo200JSONResponse(info), nil
+}
+
 // GetHealth は DB 疎通を確認する。
 func (h *Handler) GetHealth(_ context.Context, _ api.GetHealthRequestObject) (api.GetHealthResponseObject, error) {
 	cacheState := "disabled"

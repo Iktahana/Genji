@@ -27,6 +27,20 @@ tags:
     description: システム情報
 
 paths:
+  /:
+    get:
+      tags: [system]
+      operationId: getApiInfo
+      summary: API トップ情報
+      description: 辞書のバージョン・収録語数・ビルド日時・主要エンドポイント／ドキュメントへのリンクを返す
+      responses:
+        "200":
+          description: API 情報
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ApiInfo"
+
   /healthz:
     get:
       tags: [system]
@@ -247,6 +261,57 @@ paths:
 
 components:
   schemas:
+    EndpointInfo:
+      type: object
+      required: [path, summary]
+      properties:
+        path:
+          type: string
+        summary:
+          type: string
+
+    ApiInfo:
+      type: object
+      description: API トップページの基本情報
+      required: [name, description, docs, openapi, frontend, endpoints]
+      properties:
+        name:
+          type: string
+          example: "『幻辞』 Genji API"
+        description:
+          type: string
+        version:
+          type: string
+          nullable: true
+          description: 辞書データのバージョン（_metadata 由来）
+        entry_count:
+          type: string
+          nullable: true
+          description: 収録語彙数
+        build_date:
+          type: string
+          nullable: true
+        commit_short:
+          type: string
+          nullable: true
+        docs:
+          type: string
+          description: API ドキュメント（Redoc）の URL
+          example: "/docs"
+        openapi:
+          type: string
+          description: OpenAPI 仕様の URL
+          example: "/openapi.yaml"
+        frontend:
+          type: string
+          description: 利用者向け前端サイト
+          example: "https://dict.illusions.app"
+        endpoints:
+          type: array
+          description: 主要エンドポイント一覧
+          items:
+            $ref: "#/components/schemas/EndpointInfo"
+
     Error:
       type: object
       required: [code, message]

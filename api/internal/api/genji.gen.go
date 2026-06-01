@@ -14,6 +14,32 @@ import (
 	"github.com/oapi-codegen/runtime"
 )
 
+// ApiInfo API トップページの基本情報
+type ApiInfo struct {
+	BuildDate   *string `json:"build_date,omitempty"`
+	CommitShort *string `json:"commit_short,omitempty"`
+	Description string  `json:"description"`
+
+	// Docs API ドキュメント（Redoc）の URL
+	Docs string `json:"docs"`
+
+	// Endpoints 主要エンドポイント一覧
+	Endpoints []EndpointInfo `json:"endpoints"`
+
+	// EntryCount 収録語彙数
+	EntryCount *string `json:"entry_count,omitempty"`
+
+	// Frontend 利用者向け前端サイト
+	Frontend string `json:"frontend"`
+	Name     string `json:"name"`
+
+	// Openapi OpenAPI 仕様の URL
+	Openapi string `json:"openapi"`
+
+	// Version 辞書データのバージョン（_metadata 由来）
+	Version *string `json:"version,omitempty"`
+}
+
 // Citation defines model for Citation.
 type Citation struct {
 	Author *string `json:"author,omitempty"`
@@ -50,6 +76,12 @@ type DefinitionSearchResultList struct {
 	Count   int                      `json:"count"`
 	Query   *string                  `json:"query,omitempty"`
 	Results []DefinitionSearchResult `json:"results"`
+}
+
+// EndpointInfo defines model for EndpointInfo.
+type EndpointInfo struct {
+	Path    string `json:"path"`
+	Summary string `json:"summary"`
 }
 
 // Entry defines model for Entry.
@@ -238,6 +270,9 @@ type GetSitemapParams struct {
 
 // ServerInterface represents all server handlers.
 type ServerInterface interface {
+	// API トップ情報
+	// (GET /)
+	GetApiInfo(c *gin.Context)
 	// ヘルスチェック
 	// (GET /healthz)
 	GetHealth(c *gin.Context)
@@ -275,6 +310,19 @@ type ServerInterfaceWrapper struct {
 }
 
 type MiddlewareFunc func(c *gin.Context)
+
+// GetApiInfo operation middleware
+func (siw *ServerInterfaceWrapper) GetApiInfo(c *gin.Context) {
+
+	for _, middleware := range siw.HandlerMiddlewares {
+		middleware(c)
+		if c.IsAborted() {
+			return
+		}
+	}
+
+	siw.Handler.GetApiInfo(c)
+}
 
 // GetHealth operation middleware
 func (siw *ServerInterfaceWrapper) GetHealth(c *gin.Context) {
@@ -540,6 +588,7 @@ func RegisterHandlersWithOptions(router gin.IRouter, si ServerInterface, options
 		ErrorHandler:       errorHandler,
 	}
 
+	router.GET(options.BaseURL+"/", wrapper.GetApiInfo)
 	router.GET(options.BaseURL+"/healthz", wrapper.GetHealth)
 	router.GET(options.BaseURL+"/v1/entries/:uuid", wrapper.GetEntryByUUID)
 	router.GET(options.BaseURL+"/v1/lookup/entry", wrapper.LookupByEntry)
@@ -549,6 +598,27 @@ func RegisterHandlersWithOptions(router gin.IRouter, si ServerInterface, options
 	router.GET(options.BaseURL+"/v1/search/definitions", wrapper.SearchDefinitions)
 	router.GET(options.BaseURL+"/v1/search/entries", wrapper.SearchEntries)
 	router.GET(options.BaseURL+"/v1/sitemap", wrapper.GetSitemap)
+}
+
+type GetApiInfoRequestObject struct {
+}
+
+type GetApiInfoResponseObject interface {
+	VisitGetApiInfoResponse(w http.ResponseWriter) error
+}
+
+type GetApiInfo200JSONResponse ApiInfo
+
+func (response GetApiInfo200JSONResponse) VisitGetApiInfoResponse(w http.ResponseWriter) error {
+
+	var buf bytes.Buffer
+	if err := json.NewEncoder(&buf).Encode(response); err != nil {
+		return err
+	}
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(200)
+	_, err := buf.WriteTo(w)
+	return err
 }
 
 type GetHealthRequestObject struct {
@@ -777,6 +847,9 @@ func (response GetSitemap200JSONResponse) VisitGetSitemapResponse(w http.Respons
 
 // StrictServerInterface represents all server handlers.
 type StrictServerInterface interface {
+	// API トップ情報
+	// (GET /)
+	GetApiInfo(ctx context.Context, request GetApiInfoRequestObject) (GetApiInfoResponseObject, error)
 	// ヘルスチェック
 	// (GET /healthz)
 	GetHealth(ctx context.Context, request GetHealthRequestObject) (GetHealthResponseObject, error)
@@ -861,6 +934,30 @@ type strictHandler struct {
 	ssi         StrictServerInterface
 	middlewares []StrictMiddlewareFunc
 	options     StrictGinServerOptions
+}
+
+// GetApiInfo operation middleware
+func (sh *strictHandler) GetApiInfo(ctx *gin.Context) {
+	var request GetApiInfoRequestObject
+
+	handler := func(ctx *gin.Context, request interface{}) (interface{}, error) {
+		return sh.ssi.GetApiInfo(ctx, request.(GetApiInfoRequestObject))
+	}
+	for _, middleware := range sh.middlewares {
+		handler = middleware(handler, "GetApiInfo")
+	}
+
+	response, err := handler(ctx, request)
+
+	if err != nil {
+		sh.options.HandlerErrorFunc(ctx, err)
+	} else if validResponse, ok := response.(GetApiInfoResponseObject); ok {
+		if err := validResponse.VisitGetApiInfoResponse(ctx.Writer); err != nil {
+			sh.options.ResponseErrorHandlerFunc(ctx, err)
+		}
+	} else if response != nil {
+		sh.options.ResponseErrorHandlerFunc(ctx, fmt.Errorf("unexpected response type: %T", response))
+	}
 }
 
 // GetHealth operation middleware

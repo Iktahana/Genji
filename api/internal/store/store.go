@@ -307,6 +307,38 @@ func (s *Store) AllUUIDs() ([]string, error) {
 	return uuids, rows.Err()
 }
 
+// FreqEntry は uuid と meta.frequencies の合計出現回数。熱度の seed に使う。
+type FreqEntry struct {
+	UUID    string
+	FreqSum int64
+}
+
+// EntryFreqSums は全エントリの uuid と meta.frequencies 値合計を返す。
+// frequencies が無い／meta が NULL の場合は合計 0。
+func (s *Store) EntryFreqSums() ([]FreqEntry, error) {
+	rows, err := s.db.Query(`
+		SELECT uuid,
+		       COALESCE((
+		           SELECT SUM(CAST(value AS INTEGER))
+		           FROM json_each(meta, '$.frequencies')
+		       ), 0) AS freq_sum
+		FROM entries`)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	out := make([]FreqEntry, 0, 1024)
+	for rows.Next() {
+		var e FreqEntry
+		if err := rows.Scan(&e.UUID, &e.FreqSum); err != nil {
+			return nil, err
+		}
+		out = append(out, e)
+	}
+	return out, rows.Err()
+}
+
 // SitemapByUUIDs は指定 uuid 群の sitemap 行を取得する（順序は呼び出し側で復元する）。
 func (s *Store) SitemapByUUIDs(uuids []string) (map[string]SitemapRow, error) {
 	out := make(map[string]SitemapRow, len(uuids))

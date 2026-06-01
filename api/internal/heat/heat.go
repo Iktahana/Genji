@@ -1,14 +1,19 @@
 // Package heat は API アクセス数に基づく語彙の熱度（人気度）を Redis で管理する。
 //
 // 日毎のアクセス数を ZSET に記録し、バックグラウンドで
-//   heat = w30 × (直近30日の総数) + w365 × (直近365日の総数)
+//
+//	heat = w30 × (直近30日の総数) + w365 × (直近365日の総数)
+//	       + wFreq × log(1 + Σmeta.frequencies)
+//
 // を集計して全語彙のランキング ZSET（genji:heat:index）を作る。
+// 末尾の頻度項はコーパス出現回数の「下地」で、アクセスが少ない語の並び順を決める。
 // Redis が無い場合は Noop（全て無効）にフォールバックする。
 package heat
 
 import (
 	"context"
 	"log"
+	"math"
 	"time"
 
 	"github.com/redis/go-redis/v9"
@@ -17,6 +22,7 @@ import (
 const (
 	dayKeyPrefix     = "genji:hits:day:"
 	entriesAllKey    = "genji:entries:all"
+	freqKey          = "genji:heat:freq"
 	indexKey         = "genji:heat:index"
 	indexTmpKey      = "genji:heat:index:tmp"
 	w30TmpKey        = "genji:heat:_w30"
@@ -36,6 +42,12 @@ type Ranked struct {
 	Heat float64
 }
 
+// SeedEntry は土台 seed 用の1語。FreqSum は meta.frequencies の合計出現回数。
+type SeedEntry struct {
+	UUID    string
+	FreqSum int64
+}
+
 // Service は熱度カウンタ/ランキングの抽象。
 type Service interface {
 	// Enabled は Redis 連携が有効かを返す。
@@ -44,8 +56,9 @@ type Service interface {
 	Hit(uuids ...string)
 	// Page はランキング ZSET から offset/limit のページを返す（heat 降順）。総件数も返す。
 	Page(ctx context.Context, offset, limit int) (items []Ranked, total int, err error)
-	// Seed は DB バージョンが変わっていれば全 uuid を 0 点で土台 ZSET に積む。
-	Seed(ctx context.Context, uuids []string, version string) error
+	// Seed は DB バージョンが変わっていれば全 uuid を土台 ZSET に積む
+	// （entries:all は 0 点、freq は log(1+頻度) 点）。
+	Seed(ctx context.Context, entries []SeedEntry, version string) error
 	// StartAggregator は集計ループを起動する（ctx 終了で停止）。
 	StartAggregator(ctx context.Context)
 }
@@ -53,28 +66,28 @@ type Service interface {
 // Noop は Redis 無効時の実装。
 type Noop struct{}
 
-func (Noop) Enabled() bool                                              { return false }
-func (Noop) Hit(...string)                                              {}
-func (Noop) Page(context.Context, int, int) ([]Ranked, int, error)     { return nil, 0, nil }
-func (Noop) Seed(context.Context, []string, string) error              { return nil }
-func (Noop) StartAggregator(context.Context)                           {}
+func (Noop) Enabled() bool                                         { return false }
+func (Noop) Hit(...string)                                         {}
+func (Noop) Page(context.Context, int, int) ([]Ranked, int, error) { return nil, 0, nil }
+func (Noop) Seed(context.Context, []SeedEntry, string) error       { return nil }
+func (Noop) StartAggregator(context.Context)                       {}
 
 // redisHeat は Redis を使う実装。
 type redisHeat struct {
-	client      *redis.Client
-	w30, w365   float64
-	aggInterval time.Duration
+	client           *redis.Client
+	w30, w365, wFreq float64
+	aggInterval      time.Duration
 }
 
 // New は Service を構築する。client が nil なら Noop を返す。
-func New(client *redis.Client, w30, w365 float64, aggInterval time.Duration) Service {
+func New(client *redis.Client, w30, w365, wFreq float64, aggInterval time.Duration) Service {
 	if client == nil {
 		return Noop{}
 	}
 	if aggInterval <= 0 {
 		aggInterval = 15 * time.Minute
 	}
-	return &redisHeat{client: client, w30: w30, w365: w365, aggInterval: aggInterval}
+	return &redisHeat{client: client, w30: w30, w365: w365, wFreq: wFreq, aggInterval: aggInterval}
 }
 
 func (h *redisHeat) Enabled() bool { return true }
@@ -132,38 +145,48 @@ func (h *redisHeat) Page(ctx context.Context, offset, limit int) ([]Ranked, int,
 	return items, int(total), nil
 }
 
-func (h *redisHeat) Seed(ctx context.Context, uuids []string, version string) error {
+func (h *redisHeat) Seed(ctx context.Context, entries []SeedEntry, version string) error {
 	cur, err := h.client.Get(ctx, seededVersionKey).Result()
 	if err == nil && cur == version && version != "" {
 		return nil // 既に同バージョンで seed 済み
 	}
 
-	tmp := entriesAllKey + ":tmp"
-	if err := h.client.Del(ctx, tmp).Err(); err != nil {
+	allTmp := entriesAllKey + ":tmp"
+	freqTmp := freqKey + ":tmp"
+	if err := h.client.Del(ctx, allTmp, freqTmp).Err(); err != nil {
 		return err
 	}
-	for i := 0; i < len(uuids); i += seedBatch {
+	for i := 0; i < len(entries); i += seedBatch {
 		end := i + seedBatch
-		if end > len(uuids) {
-			end = len(uuids)
+		if end > len(entries) {
+			end = len(entries)
 		}
-		members := make([]redis.Z, 0, end-i)
-		for _, u := range uuids[i:end] {
-			members = append(members, redis.Z{Score: 0, Member: u})
+		allMembers := make([]redis.Z, 0, end-i)
+		freqMembers := make([]redis.Z, 0, end-i)
+		for _, e := range entries[i:end] {
+			allMembers = append(allMembers, redis.Z{Score: 0, Member: e.UUID})
+			// log 正規化（log(1+n)）でアクセス数と桁を揃える。頻度なしは 0。
+			freqMembers = append(freqMembers, redis.Z{Score: math.Log1p(float64(e.FreqSum)), Member: e.UUID})
 		}
-		if err := h.client.ZAdd(ctx, tmp, members...).Err(); err != nil {
+		if err := h.client.ZAdd(ctx, allTmp, allMembers...).Err(); err != nil {
+			return err
+		}
+		if err := h.client.ZAdd(ctx, freqTmp, freqMembers...).Err(); err != nil {
 			return err
 		}
 	}
-	if len(uuids) > 0 {
-		if err := h.client.Rename(ctx, tmp, entriesAllKey).Err(); err != nil {
+	if len(entries) > 0 {
+		if err := h.client.Rename(ctx, allTmp, entriesAllKey).Err(); err != nil {
+			return err
+		}
+		if err := h.client.Rename(ctx, freqTmp, freqKey).Err(); err != nil {
 			return err
 		}
 	}
 	if err := h.client.Set(ctx, seededVersionKey, version, 0).Err(); err != nil {
 		return err
 	}
-	log.Printf("heat: seeded %d entries (version=%s)", len(uuids), version)
+	log.Printf("heat: seeded %d entries (version=%s)", len(entries), version)
 	return nil
 }
 
@@ -214,10 +237,11 @@ func (h *redisHeat) aggregate(ctx context.Context) {
 		log.Printf("heat: agg visited failed: %v", err)
 		return
 	}
-	// 全 uuid（土台 0 点）に訪問分を重ねる → 未訪問=0, 訪問=heat
+	// 全 uuid（土台 0 点）に頻度の下地と訪問分を重ねる。
+	// heat = 0×(全uuid) + wFreq×log(1+頻度) + 1×(2×c30 + 1×c365)
 	if err := h.client.ZUnionStore(ctx, indexTmpKey, &redis.ZStore{
-		Keys:    []string{entriesAllKey, visitedTmpKey},
-		Weights: []float64{0, 1},
+		Keys:    []string{entriesAllKey, freqKey, visitedTmpKey},
+		Weights: []float64{0, h.wFreq, 1},
 	}).Err(); err != nil {
 		log.Printf("heat: agg index failed: %v", err)
 		return
