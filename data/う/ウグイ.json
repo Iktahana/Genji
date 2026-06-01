@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "川釣りで石斑魚が釣れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "石斑魚は淡水魚の一種である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "石斑魚は塩焼きにすると美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "石斑魚が飛んでも松葉が散っても、そのまま直ぐに、すらすらと行方も知れず流れよう、それをしばらくでも引留めるのは、ただちっとも早く幕を開ける外はない、と松崎の目にも見て取られた。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.774759+00:00Z",
+      "updated_at": "2026-06-01T16:12:10.774937+00:00Z",
       "frequencies": {
         "aozora": 12
       }

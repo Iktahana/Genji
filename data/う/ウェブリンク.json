@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ブログの記事中にウェブリンクを貼ったつもりが、URLが間違っていて別のサイトに飛んでしまっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "資料にウェブリンクを添付しておけば、読者がそのまま参照先へアクセスできる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "メール内のウェブリンクをクリックする前に、必ずURLが正規のドメインかどうか確認する習慣をつけている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.526706+00:00Z"
+      "updated_at": "2026-06-01T16:03:30.457647+00:00Z"
     }
   }
 ]

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "養殖場で飼育しているサーモンに魚虱が寄生し、大量の魚が弱ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "魚虱はエラや体表に寄生して魚の血を吸うため、感染が広がると養殖業に深刻な被害をもたらす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究者が魚虱の駆除に有効な新しい薬剤を開発し、養殖業者の間で注目されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.672681+00:00Z"
+      "updated_at": "2026-06-01T16:08:28.705236+00:00Z"
     }
   }
 ]
