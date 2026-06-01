@@ -3,8 +3,7 @@
 幻辞プロジェクトの語彙データベース（約21万5千語）を提供する REST API の Go 実装。
 **OpenAPI-first**（[`openapi.yaml`](./openapi.yaml) を真実の源とし、`oapi-codegen` でサーバーコードを生成）。
 
-既存の Datasette API（ポート 8001）と並立する追加サービスで、read-only。
-DB は単一の `genji.db`（SQLite + FTS5）を参照する。
+read-only な API で、単一の `genji.db`（SQLite + FTS5）を参照する。
 
 ## エンドポイント
 
@@ -158,8 +157,8 @@ docker run -p 8080:8080 -e GENJI_REDIS_ADDR=host.docker.internal:6379 genji-api
 
 ## 公開イメージ（GHCR）
 
-`main` への push で CI（`.github/workflows/build-and-release.yml` の `docker-api` ジョブ）が
-multi-arch（amd64/arm64）でビルドし、辞書イメージと同じ日付バージョン体系で公開する。
+`main` への push で CI（`.github/workflows/build-and-release.yml` の `docker` ジョブ）が
+multi-arch（amd64/arm64）でビルドし、SQLite リリースと同じ日付ベースのバージョン（`YYYY.M.D.HHMMSS`）+ `latest` で公開する。
 
 ```bash
 docker pull ghcr.io/iktahana/genji-api:latest
