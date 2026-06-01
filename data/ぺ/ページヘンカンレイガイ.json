@@ -33,7 +33,7 @@
             {
               "text": "新しいデバイスドライバを組み込んでカーネルのデバッグを行っている最中、コードのバグで不正なメモリアドレスを参照したことによるページ変換例外が発生し、システムが完全にパニックを起こした。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -41,7 +41,7 @@
             {
               "text": "プログラムがアクセスしようとした仮想アドレスに対応する物理アドレスへのマッピングがページテーブルに見つからない場合、CPUは直ちに実行を中断し、ページ変換例外をOSのカーネルに通知する。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -49,7 +49,7 @@
             {
               "text": "OS側でページ変換例外のハンドラを適切に実装し、必要なデータをディスクからメモリに読み込む処理を記述することで、現代のシステムに不可欠なデマンドページングの仕組みを実現できる。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }

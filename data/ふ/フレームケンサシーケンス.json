@@ -33,7 +33,7 @@
             {
               "text": "受信側のルーターは、フレームの末尾にあるフレーム検査シーケンスを計算し直して、伝送中のデータ破損がないか確認している。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -41,7 +41,7 @@
             {
               "text": "もし計算した値と受信したフレーム検査シーケンスの値が一致しなければ、そのパケットは破棄されて再送要求が出される。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
@@ -49,7 +49,7 @@
             {
               "text": "ノイズが多い通信環境では、フレーム検査シーケンスのエラーによるパケットロスが頻発し、スループットが著しく低下する。",
               "citation": {
-                "source": "幻辭AI",
+                "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3.1-pro-preview"
               }
