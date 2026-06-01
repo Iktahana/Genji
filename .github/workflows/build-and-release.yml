@@ -93,6 +93,11 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
+      # GHCR は namespace が小文字でなければならないため owner を小文字化する
+      - name: Resolve image owner (lowercase)
+        id: owner
+        run: echo "owner=${GITHUB_REPOSITORY_OWNER,,}" >> "$GITHUB_OUTPUT"
+
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
@@ -102,5 +107,5 @@ jobs:
           build-args: |
             GENJI_DB_SOURCE=local
           tags: |
-            ghcr.io/iktahana/genji-api:latest
-            ghcr.io/iktahana/genji-api:${{ needs.build-and-release.outputs.version }}
+            ghcr.io/${{ steps.owner.outputs.owner }}/genji-api:latest
+            ghcr.io/${{ steps.owner.outputs.owner }}/genji-api:${{ needs.build-and-release.outputs.version }}

@@ -204,9 +204,9 @@ docker run -p 8080:8080 -e GENJI_REDIS_ADDR=host.docker.internal:6379 genji-api
 multi-arch（amd64/arm64）でビルドし、SQLite リリースと同じ日付ベースのバージョン（`YYYY.M.D.HHMMSS`）+ `latest` で公開する。
 
 ```bash
-docker pull ghcr.io/iktahana/genji-api:latest
+docker pull ghcr.io/illusions-lab/genji-api:latest
 # または特定版
-docker pull ghcr.io/iktahana/genji-api:2026.4.1.120000
+docker pull ghcr.io/illusions-lab/genji-api:2026.4.1.120000
 ```
 
 ## アーキテクチャ
