@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "全身を巡った静脈血は、まず右心房へと戻ってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ペースメーカーのリード線が、静脈を通って右心房に留置された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "心臓の解剖図を見ながら、右心房と左心房の位置関係を確認する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "血液は心臓の左側から動脈を通って体内のすべての部分に流れて（ハーヴィの考えでは）組織の間隙を経て静脈に入り静脈を通して心臓の右心房に達しここより右心室に入る。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.941585+00:00Z",
+      "updated_at": "2026-06-01T16:15:42.359646+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は漢字が苦手で、手紙を書くたびにいくつもの嘘字を書いてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "看板の文字が嘘字になっているのに気づき、店主にこっそり教えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔の文献を読んでいると、意図的な当て字なのか単なる嘘字なのか判断に迷うことがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "嘘字か、どうか不安なのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.094487+00:00Z",
+      "updated_at": "2026-06-01T16:20:36.756746+00:00Z",
       "frequencies": {
         "aozora": 9
       }

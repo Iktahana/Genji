@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この話は薄ら怖い感じがするが、本当は怖くない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄ら暗い廊下を、そっと進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄ら温かい飲み物が、体を優しく温めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信仰とやらも少し薄らいでまいったのでございましょうか、あの口笛も、ひょっとしたら、父の仕業ではなかったろうかと、なんだかそんな疑いを持つこともございます。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.047484+00:00Z",
+      "updated_at": "2026-06-01T16:18:35.329277+00:00Z",
       "frequencies": {
         "aozora": 229
       }
