@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "値渡しでは呼び出し元の変数は変更されないため、関数内で引数を書き換えても副作用が生じない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "Cの基本データ型は値渡しが原則なので、ポインタを使わない限り呼び出し元の値は変わらない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "チュートリアルでは値渡しと参照渡しの違いを、図を使って丁寧に解説していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:08:25.647298+00:00Z"
+      "updated_at": "2026-06-01T13:47:46.686215+00:00Z"
     }
   }
 ]

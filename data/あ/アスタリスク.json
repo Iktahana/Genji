@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パスワードを入力すると、画面上にはアスタリスクが表示されるようになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "注釈が必要な箇所には、文末にアスタリスクをつけて説明を加えておいてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "検索キーワードの末尾にアスタリスクをつけることで、前方一致検索が可能です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その話全体を指す場合はなにもせず、特定の箇所を指す場合はアスタリスクを打ちました。",
@@ -72,7 +97,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:05:07.627927+00:00Z",
+      "updated_at": "2026-06-01T13:41:37.061629+00:00Z",
       "frequencies": {
         "aozora": 2
       }

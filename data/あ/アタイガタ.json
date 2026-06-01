@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "値型の変数はスタックに直接データが格納されるため、参照型に比べてアクセスが速い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "構造体を値型として定義すると、代入のたびにコピーが作成されることをチームメンバーに説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このAPIでは整数や真偽値のような値型をそのままJSONに渡すことができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:07:42.453436+00:00Z"
+      "updated_at": "2026-06-01T13:47:46.684678+00:00Z"
     }
   }
 ]

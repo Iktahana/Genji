@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "何度洗っても白いシャツの脇の汗ジミが落ちなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夏が終わると毎年スーツの背中に汗ジミが残り、クリーニングに出す羽目になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "久しぶりに着ようとした去年のTシャツに汗ジミがついていて、がっかりした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あれから夕方まで、生田川の川原では、正成の部下がみな裸になって、みそぎするように汗を流したり泥土の具足を洗っていたが、正成もまた、そうして来たのか、よろい下着にも、汗ジミのない白い襟もとを涼やかにのぞかせていた。",
@@ -64,7 +89,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:08:01.773838+00:00Z",
+      "updated_at": "2026-06-01T13:45:45.525938+00:00Z",
       "frequencies": {
         "aozora": 1
       }

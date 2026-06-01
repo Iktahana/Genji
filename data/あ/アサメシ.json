@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝飯を食べないで出勤する人も多いというが、栄養学的には良くない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "我が家の朝飯はご飯と味噌汁とたくあんで十分だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちが朝飯を食べ終わるまで学校の出発時間は待ってくれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "朝飯の膳に向つた時、女中がさりげない風でたづねた。",
@@ -297,7 +322,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:02:01.757630+00:00Z",
+      "updated_at": "2026-06-01T13:33:39.074146+00:00Z",
       "freq_rank": 26126,
       "frequencies": {
         "aozora": 1310

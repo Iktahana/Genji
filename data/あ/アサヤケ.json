@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東の空が赤く朝焼けしているから、今日は天気がいいだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝焼けの鮮やかさに見とれて、思わず立ち止まってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "炎のような朝焼けだった朝は、決まって午後に雨が降っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仰げば朝焼けで、一天が燃えている。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:02:01.759313+00:00Z",
+      "updated_at": "2026-06-01T13:33:39.076047+00:00Z",
       "freq_rank": 36744,
       "frequencies": {
         "aozora": 45

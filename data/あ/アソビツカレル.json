@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一日中遊んで、子どもたちは遊び疲れて眠ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長く遊び疲れて、ソファで休んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "公園で遊び疲れた子どもたちが家に帰ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "遊び疲れると、太郎とチロは、俵の上に寝そべって、うとうととしました。",
@@ -74,7 +99,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:07:46.119678+00:00Z",
+      "updated_at": "2026-06-01T13:46:39.953026+00:00Z",
       "frequencies": {
         "aozora": 43
       }

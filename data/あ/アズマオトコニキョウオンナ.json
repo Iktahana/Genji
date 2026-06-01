@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母は『東男に京女と言うように、江戸の男性と京都の女性が最高だ』と何度も繰り返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "東男に京女という言葉は、江戸時代から民間に伝わる有名な言い伝えだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は東男に京女という理想をそのまま現実にした人物だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『東男に京女やなア。",
@@ -65,7 +90,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:05:48.108186+00:00Z"
+      "updated_at": "2026-06-01T13:43:03.349572+00:00Z"
     }
   }
 ]

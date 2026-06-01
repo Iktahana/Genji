@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えた馬酔木は、春に淡いピンクの花をつける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬酔木の美しい花が、今年も咲き始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬酔木は日本の山地に自生している常緑灌木だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明治三十八年十二月六日夜十二時｜記〔『馬酔木』明治三十九年一月一日〕",
@@ -298,7 +323,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:06:32.416770+00:00Z",
+      "updated_at": "2026-06-01T13:45:32.876381+00:00Z",
       "frequencies": {
         "aozora": 176
       }

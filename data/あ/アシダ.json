@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨の日には足駄を履いて出かけるのが江戸の粋とされていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "芸者が足駄をからんころんと鳴らしながら石畳を渡っていく姿が印象的だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "舞台の小道具として用意された足駄は、職人が一から削り出した本格的なものだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "門を出ると傘をたたく雨の音も、高い足駄の踏み心地もよい。",
@@ -294,7 +319,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:02:52.117185+00:00Z",
+      "updated_at": "2026-06-01T13:37:13.129144+00:00Z",
       "frequencies": {
         "aozora": 386
       }

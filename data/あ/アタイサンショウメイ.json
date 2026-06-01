@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "XMLのスキーマ定義には値参照名を使って再利用可能な型を宣言する方法が記述されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ドキュメントを読み返すと、値参照名の命名規則についての注記が仕様書の末尾に添えられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "パーサーは値参照名を解決する際に循環参照が生じないかどうかを事前にチェックする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -48,7 +73,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:07:42.453584+00:00Z"
+      "updated_at": "2026-06-01T13:47:46.684881+00:00Z"
     }
   }
 ]

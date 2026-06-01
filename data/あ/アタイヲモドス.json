@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この関数は処理が成功したとき0を、失敗したとき−1を値を戻す設計になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "再帰関数は基底ケースに達したときに計算結果を値を戻し、呼び出し元でそれを受け取る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "APIの仕様書には、各エンドポイントがどのような型の値を戻すかが詳細に記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:08:25.647799+00:00Z"
+      "updated_at": "2026-06-01T13:47:46.686466+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "FTPソフトを使ってHTMLファイルをサーバーにアップロードする際、転送設定をアスキーモードに変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "バイナリモードで送るべき画像を誤ってアスキーモードで転送してしまい、ファイルが破損して開けなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "改行コードの違いを吸収するため、テキストファイルのやり取りにはアスキーモードを使用するのが鉄則だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:05:07.625470+00:00Z"
+      "updated_at": "2026-06-01T13:40:44.251465+00:00Z"
     }
   }
 ]

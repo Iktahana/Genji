@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "通信プロトコルの仕様書によると、アソシエーション起動側から最初の接続要求を送信することになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ログを確認したところ、アソシエーション起動側の端末がタイムアウトで自ら接続を切断していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "新しいシステムのテストでは、こちらのサーバーをアソシエーション起動側として動作させる必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -47,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:07:46.112093+00:00Z"
+      "updated_at": "2026-06-01T13:45:57.252171+00:00Z"
     }
   }
 ]

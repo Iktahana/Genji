@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏になると、子どもの背中に汗疹ができやすくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "汗疹がかゆくて、夜中に何度も目が覚めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎日シャワーを浴びることで、汗疹の発生を減らせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "秋草　過日、わたしはもののはじに、ことしの夏のことを書き添へるつもりで、思はずいろ／＼なことを書き、親戚から送つて貰つた桃の葉で僅かに汗疹を凌いだこと、遲くまで戸も閉められない眠りがたい夜の多かつたこと、覺えて置かうと思ふこともかなり多いと書いて見た。",
@@ -192,7 +217,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:06:32.420217+00:00Z",
+      "updated_at": "2026-06-01T13:45:32.880471+00:00Z",
       "frequencies": {
         "aozora": 7
       }

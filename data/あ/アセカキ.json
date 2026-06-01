@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どものころから汗かきで、少し歩いただけでシャツが背中に張りついてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "汗かきな体質のせいで、夏の満員電車がひときわつらい季節になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「お父さんは汗かきだから、夏は大変ね」と娘が濡れたタオルを持ってきてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "協会の諸兄によろしく（八月十五日）　それから書き忘れましたが何か本を一冊（何か僕に「やッたらどうや」とお考えになるものがありましたら結構ですが……）　これだけ書くのに便所へ油汗かきに行く事二回、これから第三回目に参ります。",
@@ -280,7 +305,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:08:01.772471+00:00Z",
+      "updated_at": "2026-06-01T13:45:45.524330+00:00Z",
       "frequencies": {
         "aozora": 34
       }
