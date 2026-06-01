@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この浦里の漁師たちは夜明け前から舟を出して沖へ向かう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "嵐が過ぎた翌朝、浦里の浜辺には多くの漂流物が打ち上げられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "浦里には昔ながらの塩田が残っており、毎年夏に観光客が訪れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでも、都会離れたこの浦里などでは、暗いさびしい貴船神社の森影で、この何百年前の祖先から土の底まで根をおろした年中行事がひそやかに行なわれていた。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.950132+00:00Z",
+      "updated_at": "2026-06-01T16:48:13.759044+00:00Z",
       "frequencies": {
         "aozora": 39
       }

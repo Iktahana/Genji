@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "迷い込んだ裏通りには、雰囲気の良い小さな喫茶店があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔ながらの裏通りは、車が通ることもなくとても静かだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの裏通りを抜ければ、大通りに出られるはずだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此処は銀座の裏通りのカフェー、卓子の上で扇風器は、哀しげな唸りをつづけてゐる。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.982686+00:00Z",
+      "updated_at": "2026-06-01T16:49:10.290946+00:00Z",
       "freq_rank": 34213,
       "frequencies": {
         "aozora": 537

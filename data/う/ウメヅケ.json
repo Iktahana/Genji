@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母の家に行くと、必ず梅漬けがご飯のお供として出てきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "自分で梅漬けを作ってみたら、市販のものより塩気が強くなりすぎた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "梅漬けと白いご飯だけで、朝食を手早く済ませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また梅漬け、干柿、栗、およそ保存にたえるものは、なんでも糧倉へみたしていたが、しかし城兵一日の糧を、かりに米六合とみれば、千人で日に六石、古法の三斗五升俵にして十七俵強の容積である。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.870355+00:00Z",
+      "updated_at": "2026-06-01T16:45:29.471932+00:00Z",
       "frequencies": {
         "aozora": 1
       }

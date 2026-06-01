@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨夜の嵐で、庭の高木の末木が勢いよく折れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遠くの山々の末木が、夕日に染まって赤く輝いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭師が末木を丁寧に切り揃えて、木全体の形を整えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るところその伽羅に本木と末木との二つありて、はるばる仙台より差下され候｜伊達権中納言殿の役人ぜひとも本木の方を取らんとし、某も同じ本木に望を掛け互にせり合い、次第に値段をつけ上げ候。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.933039+00:00Z",
+      "updated_at": "2026-06-01T16:47:08.872177+00:00Z",
       "frequencies": {
         "aozora": 13
       }

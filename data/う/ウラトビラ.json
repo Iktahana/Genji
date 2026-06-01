@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本の裏扉を開くと、著者の生年月日が記載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "図書館員は裏扉に貸出記録を書き込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い本の裏扉は傷んでいることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本能的にグラスゴウが裏扉に突進し、立ちすくんで警戒して震える様子は、さながら猟犬が獲物に襲いかかるが如し。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.980273+00:00Z",
+      "updated_at": "2026-06-01T16:47:43.682493+00:00Z",
       "frequencies": {
         "aozora": 1
       }
