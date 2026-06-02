@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "机の下に屑籠を置いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オフィスの屑籠は毎晩回収される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "紙くずが屑籠からあふれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何の関係もない色々の工場で製造された種々の物品がさまざまの道を通ってある家の紙屑籠で一度集合した後に、また他の家から来た屑と混合して製紙場の槽から流れ出すまでの径路に、どれほどの複雑な世相が纏綿していたか、こう一枚の浅草紙になってしまった今では再びそれをたどって見るようはなかった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.204372+00:00Z",
+      "updated_at": "2026-06-02T06:52:40.438862+00:00Z",
       "frequencies": {
         "aozora": 162
       }

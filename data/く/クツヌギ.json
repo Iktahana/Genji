@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関の靴脱ぎに来客の靴が何足も並んでいて、にぎやかな雰囲気だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "靴脱ぎが狭くて大家族の靴が入りきらず、いつも散らかっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い日本家屋は靴脱ぎが低く、段差のないつくりになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東向きの、屋根のない門をはいって突き当たりの玄関の靴脱ぎ石は、横降りの雨にぬれるような状態であったような気がする。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.907779+00:00Z",
+      "updated_at": "2026-06-02T06:59:29.539867+00:00Z",
       "frequencies": {
         "aozora": 21
       }

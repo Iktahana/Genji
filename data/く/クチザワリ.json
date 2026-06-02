@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプリンは口触りが滑らかで、子どもにも食べやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しいレシピで作ったムースは口触りが軽く、客に好評だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "豆腐の口触りが気になる子どもでも、このハンバーグなら喜んで食べる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「お蕎麦がおいやなら、こちらに御飯も御座います」　蕎麦は色が黒いが、口触りがまことによい。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:56:40.889383+00:00Z",
       "frequencies": {
         "aozora": 2
       }
