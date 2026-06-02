@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "蚕蛾は繭から出た後、数日で産卵して死ぬ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "蚕蛾は羽が退化しており飛べない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "養蚕家は蚕蛾の繁殖期を管理している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうすると、その死がいの頭から、かいこが生まれ、両方の目にいねがなり、二つの耳にあわがなりました。",
@@ -106,7 +131,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:50:43.154136+00:00Z",
+      "updated_at": "2026-06-02T02:54:26.002914+00:00Z",
       "frequencies": {
         "aozora": 1
       }
