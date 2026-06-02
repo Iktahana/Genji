@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "災害の噂が広まった途端、スーパーからカップ麺の買い占めが始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "転売目的のマスクの買い占めが横行し、必要な人の手に届かない状況が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "買い占めによって店頭から消毒液が消え、医療現場にまで影響が及んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "パン粉を買い占めたり、チーズを買い占めたり、そして、それを労働者に高くで売りつける。",
@@ -289,7 +314,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:54:09.689320+00:00Z",
+      "updated_at": "2026-06-02T03:01:18.690482+00:00Z",
       "freq_rank": 22095,
       "frequencies": {
         "aozora": 28
