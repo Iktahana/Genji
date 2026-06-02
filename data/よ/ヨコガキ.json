@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この報告書は横書きで作成される必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の日本文は縦書きが一般的だったが、今では英文の影響もあり横書きが増えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "教科書の本文は縦書き、数式は横書きで混在していることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "箱根ホテルでは勘定をもって来てくれと四、五度も頼んで待ち草臥れた頃にやっと持って来たのであったが、熱海ホテルの方ではまだお茶を飲んでいる最中に甲斐甲斐しい女給仕が横書きの勘定書をもって来て、「サービス三十銭頂戴します」と云った。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:55:11.943751+00:00Z",
       "freq_rank": 40465,
       "frequencies": {
         "aozora": 19

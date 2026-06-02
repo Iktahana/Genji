@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "橋の上で強い横風を受け、ハンドルを取られそうになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "横風が激しかったため、飛行機は着陸をやり直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "横風の中でも帆を巧みに操り、ヨットは無事に港へ戻ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "適当な楽譜を得るためにはじめには銀座へんの大きな楽器店へ捜しに行ったが、そういう商店はなんとなくお役所のように気位が高いというのか横風だというのか、ともかくも自分には気が引けるようで不愉快であったから、おしまいには横浜のドーリングとかいう商会へ手紙で聞き合わしたり注文したりする事にしていた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:55:22.819927+00:00Z",
       "frequencies": {
         "aozora": 50
       }
