@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山の頂上から黒い噴煙が真っ直ぐに立ち上っているのが見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "遠くの火山から上がった噴煙が、夕日を赤黒く染めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "風向きが変わったため、街の方へ火山の噴煙が流れてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次の日はポツオリに行って腹立たしくうるさい案内者に悩まされながらセラピスの寺の柱に残る地盤昇降の跡を見、ソルファタラ旧火口の噴煙を調べ、汚い家でスパゲッティの昼食を食って、帰りの電車で、贋銀貨をつかまされた外にはあまり人間味のある記憶が保存されていない。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:13:10.121281+00:00Z",
       "frequencies": {
         "aozora": 160
       }
