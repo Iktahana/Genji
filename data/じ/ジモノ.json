@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その店で売っている地物は新鮮だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "農家直営の店で地物の野菜を買っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "旅行で訪れた土地で地物のお土産を探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その中でも水蒸気が地上の物体に接触して生ずる露と霜と木花と、氷点下に過冷却された霧の滴が地物に触れて生ずる樹氷または「花ボロ」を除けば、あとは皆地上数百ないし数千メートルの高所から降下するものである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:40:19.212833+00:00Z",
       "frequencies": {
         "aozora": 67
       }
