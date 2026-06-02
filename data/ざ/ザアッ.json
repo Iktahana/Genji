@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "蛇口を開けると水がざあっと流れ出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雨がざあっと降ってきたので傘を広げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ホースからざあっと水を噴いて庭を潤した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると空中にざあっと雨のやうな音がして何かまっくらなものがいくかたまりもいくかたまりも鉄砲丸のやうに川の向ふの方へ飛んで行くのでした。",
@@ -263,7 +288,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:24.987366+00:00Z",
+      "updated_at": "2026-06-02T08:16:09.928978+00:00Z",
       "frequencies": {
         "aozora": 60
       }
