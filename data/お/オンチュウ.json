@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お問い合わせは、営業部御中までお送りくださいますようお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この書類は人事部御中で、直接ご開封ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "〇〇会社営業課御中として、契約書を郵送いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　裾野の水車　本年の富士登山二回の中、第一回は大宮口から頂上をかけて、途中で泊らず、須走口に下山、第二回は吉田口から五合目まで馬で行き、そこの室に一泊、御中道を北から南へと逆廻りして、御殿場に下りた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:58:47.350155+00:00Z",
       "frequencies": {
         "aozora": 49
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "御曹司と聞いていたが、実際に会うと驚くほど気さくな青年だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は大手商社の御曹司でありながら、新入社員と同じ現場仕事から始めたという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その御曹司は父親の反対を押し切って、音楽の道に進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明治の聖代の今日だって、犬塚信乃だの犬飼現八だの、八郎御曹司為朝だの朝比奈三郎だの、白縫姫だの楠こまひめだののような人は、どうも見当りません。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:55:48.601903+00:00Z",
       "frequencies": {
         "aozora": 77
       }
