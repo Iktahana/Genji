@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プログラムでエンディアンを扱う際、下位バイトの位置を正確に指定する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このプロセッサの下位バイトは、最初にメモリに書き込まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "16進数表記では、下位バイトが右側に表示される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -57,7 +82,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:12:00.790152+00:00Z"
+      "updated_at": "2026-06-02T03:25:08.475774+00:00Z"
     }
   }
 ]
