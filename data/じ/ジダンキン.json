@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "保険会社が示談金を支払いました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "示談金の請求書が届きました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "示談金の額は両者の合意で決定されます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もともとこの話は松村と同窓の友人である白川奨の口から始つたので、白川は此資金が産む果実をとつて、自己の担任せる訴訟事件示談金の財源にしようと企てた。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:31:14.655397+00:00Z",
       "frequencies": {
         "aozora": 16
       }
