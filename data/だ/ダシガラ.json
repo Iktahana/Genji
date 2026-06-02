@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コーヒーの出し殻は、堆肥として利用できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨夜のお茶の出し殻を捨てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "出し殻を乾かして、消臭剤として使用している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは今お話した富豪連が、崑崙山の麓で使い棄てた緑茶の出し殻から精製した白い粉末で、相当高価なものだそうですが、それでも我慢して、普通のお茶に交ぜて服んでみると、芳香や風味は格別無い代りに、純粋のエキスですから神気の冴える事は非常なものです。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:13:59.000460+00:00Z",
       "frequencies": {
         "aozora": 3
       }
