@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプログラムは円周率の近似値として3.14159を使用している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "数値計算の結果は厳密な解ではなく近似値に留まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近似値の許容誤差は、工学設計の目的によって設定される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空間表象の近似値的な理解はそれが制約であるという解釈によって、即ち始めの約束に従えばその限りに於て範疇であるという解釈によって、極限的な理解へ飛躍することが出来るであろう。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T05:03:10.585587+00:00Z",
       "frequencies": {
         "aozora": 10
       }
