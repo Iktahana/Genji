@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遅刻しそうだったので、公園の真ん中を突っ切って駅に向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は人混みをものともせず突っ切って前へ進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "近道をしようと、雑木林を突っ切って隣の集落へ出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "農家の垣には梨の花と八重桜、畠には豌豆と蚕豆、麦笛を鳴らす音が時々聞こえて、燕が街道を斜めに突っ切るように飛びちがった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:17.338267+00:00Z",
+      "updated_at": "2026-06-02T11:44:24.134232+00:00Z",
       "frequencies": {
         "aozora": 130
       }
