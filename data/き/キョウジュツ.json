@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "被告は取調べで当初の供述を翻し、アリバイを主張し始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "目撃者の供述が捜査の方向性を大きく変えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は弁護士の助言に従い、事件当日の詳細を供述した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "予審及捜査に関する調書上の記述よりも、被告が法廷でした供述を重んずるといふ主義の裁判官であるならば、彼等は当然無罪となるべきものであつた。",
@@ -254,7 +279,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T04:20:02.631042+00:00Z",
       "freq_rank": 11006,
       "frequencies": {
         "aozora": 135

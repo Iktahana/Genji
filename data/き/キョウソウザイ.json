@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "疲労が溜まった時、強壮剤を飲むと体が回復する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者は体の弱い患者に強壮剤を処方した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "強壮剤に頼るのではなく、十分な睡眠が最も重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何々ピン以上の滋養強壮剤、陰萎、腎虚の大妙薬、物はためし、効能霊験、万病の持薬、このごろ流行の若返り法などとは論外、ええ、膃肭獣の腎蔵――。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T04:16:35.562324+00:00Z",
       "frequencies": {
         "aozora": 35
       }
