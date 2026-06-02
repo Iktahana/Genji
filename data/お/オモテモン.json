@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "城の表門には衛兵が立っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "表門から中に入ると、広い庭園が広がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い寺社の表門は、重要文化財として指定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "旱魃を免れた県には、米穀県外移出禁止というような城壁が築かれてはいるが、表門は閉っていても、裏のくゞり戸があいているので、四斗俵ならぬ三斗五升いりの袋ならその門を通過させてもらえるのだと笑っていた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.079172+00:00Z",
+      "updated_at": "2026-06-02T01:28:38.670678+00:00Z",
       "frequencies": {
         "aozora": 516
       }
