@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新薬承認の噂が流れ、思惑買いが殺到してバイオ株が急上昇した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "利上げ観測を受けた思惑買いで、銀行株が軒並み値を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アナリストは「この上昇は業績改善ではなく思惑買いにすぎない」と警告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我々の同業者の中でも、景気に乗って思惑買いをして、一時は大いに儲けたものもあった。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.138027+00:00Z",
+      "updated_at": "2026-06-02T01:30:57.651423+00:00Z",
       "frequencies": {
         "aozora": 3
       }
