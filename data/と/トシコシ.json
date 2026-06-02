@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年は実家に帰り、家族みんなで年越しをすることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は神社の境内で友人たちと年越しし、初詣をそのまま済ませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年越しの瞬間、除夜の鐘が百八つ鳴り響く中で新年を迎えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしお伝は二年越しここに奉公している正直者で、今までに浮いた噂などは勿論なかったと亭主は証明した。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:07:47.908464+00:00Z",
       "freq_rank": 17515,
       "frequencies": {
         "aozora": 97

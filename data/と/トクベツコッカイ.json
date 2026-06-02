@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "首相指名のために特別国会が召集され、与野党の票読みが連日報道された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "特別国会の会期は三十日と定められたが、重要法案の審議延長を求める声が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "総選挙から三週間後に特別国会が開かれ、新しい内閣が発足した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その内閣が、同じ特別国会に於て不信任案が提出され、その間五カ月有余というのでありますから、いかに吉田内閣が独立日本の要望にこたえ得ず、その立っている基盤がいかに脆弱であるかということを示す証左であると思うのであります。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:05:10.257976+00:00Z",
       "frequencies": {
         "aozora": 3
       }
