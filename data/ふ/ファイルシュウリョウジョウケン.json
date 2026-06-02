@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プログラムが無限ループに陥ったのは、データの読み込み処理でファイル終了条件の判定が漏れていたためだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "COBOLのREAD文には、ファイル終了条件に達したときの処理を記述するAT END句が用意されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "テキストファイルを1行ずつ読み込み、ファイル終了条件を満たすまで処理を繰り返すロジックを組んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:28.631316+00:00Z"
+      "updated_at": "2026-06-02T13:02:17.417248+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部署内の資料共有を効率化するため、クラウドベースのファイルシェアリングツールを導入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "P2Pネットワークを用いたファイルシェアリングは、違法なデータの温床になりやすいという問題がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は個人的なサーバーを立ち上げ、友人とのファイルシェアリング環境を構築した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:28.581005+00:00Z"
+      "updated_at": "2026-06-02T13:02:17.416515+00:00Z"
     }
   }
 ]

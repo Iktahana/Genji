@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マルウェアの検知システムは、拡張子だけでなくファイルコンテンツそのものを解析して判断を下す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "検索エンジンは、メタデータだけでなくファイルコンテンツのテキストもインデックス化している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "破損したドキュメントを復旧ツールにかけたが、ファイルコンテンツの一部は失われたままだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:28.573976+00:00Z"
+      "updated_at": "2026-06-02T13:02:17.414831+00:00Z"
     }
   }
 ]

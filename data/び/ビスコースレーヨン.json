@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいブラウスはビスコースレーヨン製で、シルクのような美しい光沢がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ビスコースレーヨンは吸湿性に優れている反面、水に濡れると強度が落ちるという弱点がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は展示会で、環境に配慮した新しい製造工程で作られたビスコースレーヨンを発表した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:22.190844+00:00Z"
+      "updated_at": "2026-06-02T13:01:25.469638+00:00Z"
     }
   }
 ]

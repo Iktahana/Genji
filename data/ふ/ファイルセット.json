@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "製品のインストーラは、実行ファイルや設定データなど複数のファイルセットから構成されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "バックアップシステムは、夜間に変更されたファイルセットのみを差分としてクラウドに送信する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "配布された圧縮ファイルには、トレーニング用の画像とラベルデータが含まれたファイルセットが同梱されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:28.644122+00:00Z"
+      "updated_at": "2026-06-02T13:02:17.418487+00:00Z"
     }
   }
 ]
