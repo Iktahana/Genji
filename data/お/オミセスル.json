@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この機密文書をお見せすることはできません",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ほど完成品の写真をお見せするつもりです",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕はこれと同じ写真を家から持って来てお見せすることが出来ます。",
@@ -285,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.753792+00:00Z"
+      "updated_at": "2026-06-02T01:19:28.053257+00:00Z"
     }
   }
 ]

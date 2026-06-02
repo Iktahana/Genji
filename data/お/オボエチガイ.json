@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "待ち合わせ場所を駅の東口だと思っていたが、覚え違いで実際は西口だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「あの映画は一九九五年公開だったよ」「それは覚え違いで、一九九七年だよ」と友人に指摘された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の住所を覚え違いしていたせいで、送った荷物が戻ってきてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんな記憶が今かなりはっきり浮んで来るが、これが果して事実であったのか、あるいは覚え違いであるかも分らない。",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.642645+00:00Z",
+      "updated_at": "2026-06-02T01:16:55.404587+00:00Z",
       "frequencies": {
         "aozora": 8
       }
