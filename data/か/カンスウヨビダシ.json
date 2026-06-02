@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "ループの内側で毎回重い関数呼び出しを行っていたため、ループ外に移動させて速度を改善した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -60,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T12:55:41.761148+00:00Z"
+      "updated_at": "2026-06-02T03:56:30.298385+00:00Z"
     }
   }
 ]
