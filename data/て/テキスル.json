@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海岸近くの湿潤な気候は稲の栽培に適する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女の経験と資格はこのポジションに十分適すると判断され、即日採用が決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すくなくともこれによつて、日本語はずつと「音樂性」を豐富にし、純正詩歌の表現に適するやうになるであらう。",
@@ -245,7 +262,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:22.851629+00:00Z",
+      "updated_at": "2026-06-02T11:53:12.917826+00:00Z",
       "freq_rank": 37373,
       "frequencies": {
         "aozora": 1831

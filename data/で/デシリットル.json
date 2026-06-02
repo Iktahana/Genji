@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レシピで1デシリットルの牛乳を使う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "注射器は1デシリットル単位で目盛られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このコップは2デシリットル入る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此菓子はまずオレンジの内莢で香をつけた牛乳四デシリットルの中に、玉子十個とフルーレットクレーム四デシリットルを混ぜる。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:31.656120+00:00Z",
+      "updated_at": "2026-06-02T11:58:15.232283+00:00Z",
       "frequencies": {
         "aozora": 4
       }
