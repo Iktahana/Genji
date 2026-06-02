@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サッカーの試合で彼はハットトリックを決め、グラウンドを大暴れした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい子猫は家に来てすぐに、部屋中を走り回って大暴れしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ストレスが溜まると、つい飲みに行って大暴れしてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その大暴れの最中に、外堀から黒雲をまき起して、金色の鱗をかゞやかしながら天上に昇つた怪物のあることを、多数の人が目撃した。",
@@ -271,14 +296,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "暴れ",
+        "荒れ狂う"
+      ],
+      "antonyms": [
+        "静か"
+      ],
+      "related": [
+        "暴力",
+        "混乱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.569753+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.339022+00:00Z",
       "frequencies": {
         "aozora": 33
       }

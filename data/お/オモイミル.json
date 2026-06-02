@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自分の行いを思い見ると、あの時の判断は間違っていたと気づく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "相手の立場に立って思い見れば、彼の怒りも無理はないと思えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "過去の出来事を思い見ると、あれが人生の転機だったとよくわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "むらさき色の着物をきて、藤倉の裏をひるがえして、寺の廊下を遠く歩いて去った少女の姿は、私の胸の奥に焚きもののような香を残し、私は彼女を思い見るだけで、もううっとりとなるのであった。",
@@ -151,14 +176,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "省みる",
+        "顧みる",
+        "思い返す",
+        "振り返る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "内省",
+        "反省",
+        "回顧",
+        "省察",
+        "思い返す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.940126+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.988530+00:00Z",
       "frequencies": {
         "aozora": 30
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "第3四半期の売上高は前年同期比15%増となり、市場予測を大きく上回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この店舗の年間売上高は初めて1億円を突破し、スタッフ全員が歓声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "決算発表で社長は「売上高は伸びたが、利益率の改善が今後の課題だ」と語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こっちの店の制度は、たいがい売子がじぶんの売上高の何割かを貰うことになっているから、みんな一｜片でも高いものをひとつでも余計に売りつけようというので一生懸命だ。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "売り上げ",
+        "年商"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "決算",
+        "財務諸表",
+        "業績",
+        "収益"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.080237+00:00Z",
+      "updated_at": "2026-06-02T00:26:48.899647+00:00Z",
       "frequencies": {
         "aozora": 39
       }

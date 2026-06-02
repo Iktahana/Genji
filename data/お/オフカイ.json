@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "掲示板のオフ会に初めて参加するときは、緊張感がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ツイッターのオフ会を企画して、フォロワー20人が集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オフ会で実際に会ってみると、プロフィール写真とは違う人もいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "コンピューターはすべての情報を、０か１か、オンかオフかいずれの状態にあるかという基本単位の組み合わせによって取り扱っている。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オフラインミートアップ",
+        "リアル集会",
+        "オフラインイベント"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オンラインコミュニティ",
+        "SNS",
+        "ネット",
+        "同好会",
+        "集会",
+        "交流会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.427501+00:00Z"
+      "updated_at": "2026-06-02T02:12:24.205070+00:00Z"
     }
   }
 ]

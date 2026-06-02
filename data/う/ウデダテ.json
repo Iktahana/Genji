@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は周囲に力を見せつけるために、皆の前でわざと腕立てを始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あんなに見せつけるような腕立てをしても、誰も感心しないよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "荒っぽい腕立てで相手を威嚇するなんて、なんと幼稚なのだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その翌日、わたくしは贋唖がばれてしまう懸念の方はとにかくとして、女乞食に腕立てしてしまったことがにちゃ／＼心に粘って鬱陶しく、貰いに出る気にもなりません。",
@@ -262,14 +287,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見せびらかし"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "自慢",
+        "筋力",
+        "力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.559725+00:00Z",
+      "updated_at": "2026-06-01T23:14:43.518546+00:00Z",
       "frequencies": {
         "aozora": 38
       }

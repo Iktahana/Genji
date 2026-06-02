@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今朝は遅出のシフトだったので、いつもよりゆっくり寝ていられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は午後からの遅出の出勤準備をして、家を出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病院の遅出担当が、午前中のスタッフから申し送りを受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これが大抵は毎夜の客止め、お気の毒さま明晩お早く、と木戸で断られて、遅出の客はすごすご、山の手は書生さんの縄張りで例の堂摺連という名物の発生したのが二十三、四年頃のこと、これがまた大いに景気を煽った。",
@@ -226,21 +251,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "看護師の遅出勤務は、帰りが夜遅くなるのが体力的に大変だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今週のシフト表を見ると、遅出が２回組み込まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "工場の遅出スタッフは、夕方の４時から業務を開始する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遅番",
+        "レイトシフト"
+      ],
+      "antonyms": [
+        "早出",
+        "早番"
+      ],
+      "related": [
+        "勤務",
+        "シフト",
+        "出勤",
+        "夜勤"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.264962+00:00Z",
+      "updated_at": "2026-06-02T01:37:48.946335+00:00Z",
       "frequencies": {
         "aozora": 1
       }

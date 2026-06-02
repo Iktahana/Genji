@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遅ればせの祝福ではあるが、心からおめでとうと伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遅ればせの参加になってしまったが、チームに合流できて良かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遅ればせの返信になり、大変失礼いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "西洋の学者の掘り散らした跡へはるばる遅ればせに鉱石の欠けらを捜しに行くもいいが、われわれの足元に埋もれている宝をも忘れてはならないと思う。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遅い",
+        "後れた"
+      ],
+      "antonyms": [
+        "早い",
+        "迅速"
+      ],
+      "related": [
+        "時間",
+        "期限",
+        "遅れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.691222+00:00Z",
+      "updated_at": "2026-06-02T01:25:12.915752+00:00Z",
       "frequencies": {
         "aozora": 34
       }

@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サーバーの応答時間が三秒を超えるとユーザーの離脱率が急増するというデータが出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "負荷テストの結果、同時接続数が千を超えると応答時間が著しく悪化することが確認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "救急要請からの応答時間を短縮するため、出動体制の見直しが進められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レスポンスタイム"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "パフォーマンス",
+        "通信",
+        "速度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.399137+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.295377+00:00Z"
     }
   }
 ]

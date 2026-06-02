@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもの頃、祖母から浦島太郎の昔話を何度も聞かせてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "浦島太郎が玉手箱を開けた瞬間に白い煙が立ち込め、老人になってしまう場面が忘れられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「亀を助けて竜宮城に招かれたのが浦島太郎だよ」と父が絵本を読みながら弟に教えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "浦島太郎さんの海が見えるよ。",
@@ -255,12 +280,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "竜宮城",
+        "乙姫",
+        "日本昔話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.952350+00:00Z"
+      "updated_at": "2026-06-02T00:24:11.180978+00:00Z"
     }
   }
 ]

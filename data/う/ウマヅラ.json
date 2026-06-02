@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの映画の悪役は、特徴的な馬面のせいで一度見たら忘れられない顔をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「自分は馬面だから、帽子をかぶるとバランスがとれるんだ」と彼が自嘲気味に言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "小さい頃は馬面であることを気にしていたけれど、今では個性として受け入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もう一つの説によると、「玉虫色の小さな馬に乗って、猩々緋のようなものの着物を着て、金の瓔珞をいただいた」女が空中から襲って来て「妖女はその馬の前足をあげて被害の馬の口に当ててあと足を耳からたてがみにかけて踏みつける、つまり馬面にひしと組みつくのである」。",
@@ -282,14 +307,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "長顔"
+      ],
+      "antonyms": [
+        "丸顔"
+      ],
+      "related": [
+        "顔",
+        "容姿",
+        "特徴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.721267+00:00Z",
+      "updated_at": "2026-06-01T23:57:27.726595+00:00Z",
       "frequencies": {
         "aozora": 53
       }

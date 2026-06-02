@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "度重なる嫌がらせに耐えかね、彼はついに警察へ訴え出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "不当な解雇を巡り、労働組合は労働委員会に訴え出る準備を進めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "被害者は泣き寝入りすることなく、勇気を持って公的機関に事実を訴え出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、もちろん、今夜のこのできごとを、警察に訴え出るつもりは無い。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "訴える",
+        "告発する",
+        "告訴する"
+      ],
+      "antonyms": [
+        "撤回する"
+      ],
+      "related": [
+        "苦情",
+        "異議",
+        "抗議"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.440384+00:00Z",
+      "updated_at": "2026-06-01T22:56:28.282410+00:00Z",
       "frequencies": {
         "aozora": 220
       }

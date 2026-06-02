@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イカのエンペラは、刺身や天ぷらにすると美味だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このイカは、エンペラの部分が特に大きい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "居酒屋で、イカのエンペラ焼きを注文した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "クーベリックが大半をアメリカで過し、有名なエンペラー・ストラディヴァリウスという銘器（時価二十万｜弗と称される）を持っていたり、妻君が伯爵夫人であったりした関係で、ジャーナリスティックには非常に騒がれているが、演奏の点ではコチアンに左袒する人も決して少くない。",
@@ -47,14 +72,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鰭"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イカ",
+        "軟体動物",
+        "刺身"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.773582+00:00Z"
+      "updated_at": "2026-06-02T01:05:47.461369+00:00Z"
     }
   }
 ]

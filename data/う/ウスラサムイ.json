@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋口は薄ら寒い日が増えてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "風が吹くと、薄ら寒さを感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄ら寒い朝、重ねた羽織を羽織った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まだ薄ら寒い朝の町を、疲れて膝のがく／＼するやうな足を引き摩つて、停車場へ出掛けた。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "肌寒い",
+        "冷える",
+        "寒い"
+      ],
+      "antonyms": [
+        "暖かい",
+        "暑い"
+      ],
+      "related": [
+        "悪寒",
+        "気温",
+        "恐怖"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.047166+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.877384+00:00Z",
       "frequencies": {
         "aozora": 184
       }

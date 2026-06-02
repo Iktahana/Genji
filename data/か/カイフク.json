@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い建築物の回復には多額の費用が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "環境汚染からの回復には数十年かかるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このシステムの回復には専門家の支援が必要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから帰宿の途中、地下鉄の昇降器の中で卒倒したが、その時はすぐに回復した。",
@@ -291,7 +316,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風邪から回復するまで1週間かかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "手術後、患者は順調に回復している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は病気から完全に回復したと医者が言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -300,14 +350,33 @@
       "homophones": [
         "開腹"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "快復",
+        "回生",
+        "復活",
+        "立ち直り",
+        "復旧",
+        "蘇生"
+      ],
+      "antonyms": [
+        "悪化",
+        "衰退",
+        "後退",
+        "低下"
+      ],
+      "related": [
+        "治癒",
+        "療養",
+        "リハビリ",
+        "再生",
+        "健康",
+        "復興"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.740803+00:00Z",
+      "updated_at": "2026-06-02T03:25:57.562200+00:00Z",
       "freq_rank": 1663,
       "frequencies": {
         "aozora": 1505
@@ -346,7 +415,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者は開腹して腫瘍を取り除いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開腹して原因を調査する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "緊急の開腹が必要な状態だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "只今、第四参謀が盲腸炎で入院し、直ちに開腹手術をいたしますそうです」「なに、第四参謀が……」「そうであります。",
@@ -460,9 +554,18 @@
       "homophones": [
         "回復"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "腹部切開"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "手術",
+        "腹腔",
+        "外科",
+        "切開",
+        "縫合",
+        "腹腔鏡"
+      ]
     },
     "meta": {
       "version": "1.0.0",

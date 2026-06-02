@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父はここ数年でめっきり老いぼれてしまい、散歩もままならなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「俺もすっかり老いぼれたな」と彼は鏡を見ながらため息をついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "老いぼれたと思っていた隣家の柴犬が、子猫を追いかけて庭中を走り回っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……近来、妙な句ばかり出来る、私も老いぼれたのかも知れない、まだ老いぼれるには早すぎるが！",
@@ -62,14 +87,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぼける",
+        "衰える"
+      ],
+      "antonyms": [
+        "若返る",
+        "活気づく"
+      ],
+      "related": [
+        "老化",
+        "身体"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.091250+00:00Z",
+      "updated_at": "2026-06-02T01:11:01.678843+00:00Z",
       "frequencies": {
         "aozora": 105
       }

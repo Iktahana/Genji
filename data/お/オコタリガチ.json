@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "勉強を怠りがちな彼が、今回は珍しく予習をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "暑い日はつい運動を怠りがちになってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家事も仕事も忙しくて、健康管理が怠りがちだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帰って来ると、いやな噂が耳に入り、気を悪くしていたので、医専が県立であるところから、県内の方々から依頼して来る手術も人に譲り怠りがちであった。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怠け癖",
+        "怠惰"
+      ],
+      "antonyms": [
+        "勤勉",
+        "真摯"
+      ],
+      "related": [
+        "怠け",
+        "怠い",
+        "癖"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.757852+00:00Z"
+      "updated_at": "2026-06-02T01:26:35.565691+00:00Z"
     }
   }
 ]

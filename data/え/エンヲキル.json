@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の確執の末、彼は親族全員と縁を切る決意をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "親の反対を押し切って結婚しようとした彼女に、父は縁を切ると宣言した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "幼馴染と縁を切ることになるとは、あの頃は思いもしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「もう政治とは絶対に縁を切る！",
@@ -238,14 +263,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "絶交する",
+        "手を引く",
+        "手を切る",
+        "絶縁する"
+      ],
+      "antonyms": [
+        "縁を結ぶ",
+        "仲直りする"
+      ],
+      "related": [
+        "疎遠",
+        "決別",
+        "人間関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.849721+00:00Z"
+      "updated_at": "2026-06-02T01:07:04.038144+00:00Z"
     }
   }
 ]

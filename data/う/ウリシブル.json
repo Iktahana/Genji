@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地価の上昇を見込んで、地主たちは土地を売り渋るようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "希少なコレクションをなかなか売り渋っていたが、資金難に迫られてついに手放した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オーナーは思い入れのある絵画を売り渋ったが、美術館の熱意に最終的に折れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,13 +63,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "買い進む"
+      ],
+      "related": [
+        "市場",
+        "在庫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.109509+00:00Z",
+      "updated_at": "2026-06-02T00:26:27.660956+00:00Z",
       "frequencies": {
         "aozora": 1
       }

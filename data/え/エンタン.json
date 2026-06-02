@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の塗料には鉛丹が含まれており、現在は規制されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この古い橋の防食塗料には鉛丹が使われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鉛丹は化学実験でも使用される化学物質である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（大正十二年九月、渋柿）　　　　　　　＊　震災の火事の焼け跡の煙がまだ消えやらぬころ、黒焦げになった樹の幹に鉛丹色のかびのようなものが生え始めて、それが驚くべき速度で繁殖した。",
@@ -173,14 +198,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "丹",
+        "四三酸化鉛"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔料",
+        "塗料"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.598170+00:00Z",
+      "updated_at": "2026-06-02T01:04:06.893545+00:00Z",
       "frequencies": {
         "aozora": 18
       }

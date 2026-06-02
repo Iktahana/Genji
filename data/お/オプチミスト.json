@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はどんな困難な状況でも明るい未来を信じて動き続けるオプチミストとして知られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「絶対にうまくいく」と言い続ける彼女は、周囲から生粋のオプチミストだと思われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "不景気の時代にも積極的に新事業へ投資し続けたのは、彼がオプチミストだったからこそだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてこんな些細な事柄にもオプチミストとペシミストの差別は現われるものかと思ったりした。",
@@ -143,14 +168,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "楽観家",
+        "楽天家"
+      ],
+      "antonyms": [
+        "悲観家",
+        "ペシミスト"
+      ],
+      "related": [
+        "楽観",
+        "人物",
+        "態度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.551891+00:00Z",
+      "updated_at": "2026-06-02T02:15:15.805102+00:00Z",
       "frequencies": {
         "aozora": 18
       }

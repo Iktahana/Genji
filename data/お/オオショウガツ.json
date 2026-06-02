@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大正月は正月飾りをつけたままの期間だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大正月の間は親戚が集まって過ごす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今年の大正月は天気が良かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "正月十四日までを大正月といひ、十五日より廿日までを小正月といふ、是｜我里俗の習せなり。",
@@ -69,14 +94,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "正月"
+      ],
+      "antonyms": [
+        "小正月"
+      ],
+      "related": [
+        "元日",
+        "年始",
+        "伝統行事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.837447+00:00Z"
+      "updated_at": "2026-06-02T01:16:10.955592+00:00Z"
     }
   }
 ]

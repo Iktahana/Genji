@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンサートのチケットは発売開始から10分で売り切れになり、サイトにはエラーメッセージが溢れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "人気ラーメン店のランチセットは毎日11時半には売り切れで、12時に来ても食べられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "限定コラボ商品は売り切れ続出で、メーカーは増産を急きょ決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自費の負担で僅かに五百部ほど印刷し、内四百部ほど市場に出したがその年の中に売り切れてしまつた。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "完売",
+        "品切れ"
+      ],
+      "antonyms": [
+        "在庫あり"
+      ],
+      "related": [
+        "在庫",
+        "入荷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.095508+00:00Z",
+      "updated_at": "2026-06-02T00:26:27.655017+00:00Z",
       "freq_rank": 12072,
       "frequencies": {
         "aozora": 24

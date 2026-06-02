@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コーヒーが切れてきたので、また買い足す必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スタッフが在庫を確認して、鉛筆を買い足した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "冬が近づいてきたから、電池をもう一箱買い足しておこう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はもう住居は借りて置いてある、それからいくらかの家具は買ってあるが、そのほかは家にある木の道具類を売ってしまって、その金で買い足すといいと言った。",
@@ -86,14 +111,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "買い増す",
+        "追加購入",
+        "買い増し"
+      ],
+      "antonyms": [
+        "売却",
+        "処分"
+      ],
+      "related": [
+        "購入",
+        "買い物",
+        "商品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:14:41.580967+00:00Z",
       "frequencies": {
         "aozora": 22
       }

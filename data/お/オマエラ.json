@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お前ら、ちょっと来い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お前らの計画は失敗する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お前らに任せるわけにはいかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お前らまだ、親爺さんの睾丸の中に這入っとった時分だよ。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "お前たち",
+        "あなたたち",
+        "君たち"
+      ],
+      "antonyms": [
+        "俺たち",
+        "私たち"
+      ],
+      "related": [
+        "二人称",
+        "複数",
+        "代名詞",
+        "くだけた表現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.686419+00:00Z"
+      "updated_at": "2026-06-02T02:20:38.471501+00:00Z"
     }
   }
 ]

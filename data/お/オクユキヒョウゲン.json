@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画では照明の当て方を工夫して、画面に奥行き表現を加えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この絵画は遠近法の使い方が見事で、素晴らしい奥行き表現がされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "CG制作において、テクスチャの明暗は重要な奥行き表現の一つだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遠近法",
+        "パース"
+      ],
+      "antonyms": [
+        "平面的表現"
+      ],
+      "related": [
+        "絵画",
+        "CG",
+        "図法",
+        "描写",
+        "投影"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.633072+00:00Z"
+      "updated_at": "2026-06-02T01:23:58.739749+00:00Z"
     }
   }
 ]

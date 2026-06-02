@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "茶会ではお薄を提供することが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "濃茶ではなく、お薄を飲むのが儀式の流れだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お薄を飲むときの作法を学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夜は如法の闇に、昼もなお薄暗い洞窟のうちに端座して、ただ右の腕のみを、狂気のごとくに振っていた。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄茶"
+      ],
+      "antonyms": [
+        "濃茶"
+      ],
+      "related": [
+        "抹茶",
+        "茶道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.326406+00:00Z",
+      "updated_at": "2026-06-02T01:13:36.873081+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あれほどの才能ある研究者が若くして病に倒れたのは、惜しむべきことだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長年地域に貢献してきたあの図書館が閉館するとは、惜しむべき事態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人の別れは惜しむべきことだったが、彼の夢を応援することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この種の人は正式の教育を受けない独創的気分の勝った人に往々見受ける事で甚だ惜しむべき事である。",
@@ -269,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "残念な",
+        "遺憾な"
+      ],
+      "antonyms": [
+        "喜ばしい"
+      ],
+      "related": [
+        "惜しむ",
+        "残念",
+        "遺憾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.035793+00:00Z"
+      "updated_at": "2026-06-02T01:31:21.210494+00:00Z"
     }
   }
 ]

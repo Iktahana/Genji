@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「食事中はお行儀よくしなさい」と祖母が孫たちに言い聞かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "入学式を前に母親は子どもに学校でのお行儀について繰り返し教えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女はお行儀の良さで知られ、どんな席でも周囲から好感を持たれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」とそのお人形さんみたいな可愛い女の子が、お爺さんの前にお行儀よく坐り、まんまるい眼をぱちくりさせて答へる。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "礼儀",
+        "作法"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "躾",
+        "教養",
+        "マナー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.509212+00:00Z"
+      "updated_at": "2026-06-02T01:24:22.565846+00:00Z"
     }
   }
 ]

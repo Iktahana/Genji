@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "満員電車の中では、毎朝のように乗客同士の押し合いが繰り広げられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "セール会場の入り口で、開店と同時に激しい押し合いが発生した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祭りの神輿を担ぐ人々の押し合いを見ていると、熱気が伝わってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後に待っている人のことなどはまるで考えないで、自分さえ切符を買ってしまえばそれでいいという紳士淑女達のことであるから、切符売子と色々押し問答をした上に、必ず大きな札を出しておつりを勘定させる、その上に押し合いへし合いお互いに運動を妨害するから、どうしても一人｜宛平均三十秒はかかるであろう。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "押し合う",
+        "ぶつかり合う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "混雑",
+        "競争",
+        "人出"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.885130+00:00Z",
+      "updated_at": "2026-06-02T01:28:47.227112+00:00Z",
       "frequencies": {
         "aozora": 51
       }

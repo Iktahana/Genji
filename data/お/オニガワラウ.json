@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「来年の計画なんて、鬼が笑うってもんだ」と高齢者が言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "5年後の予測なんて、鬼が笑うに違いない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そんな見通しの甘い計画は、鬼が笑うよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "来年の話をすると鬼が笑うって言うじゃねえか。",
@@ -70,14 +95,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "笑える",
+        "滑稽である"
+      ],
+      "antonyms": [
+        "真摯",
+        "厳粛"
+      ],
+      "related": [
+        "表現",
+        "笑う",
+        "鬼",
+        "ことわざ",
+        "動詞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.095078+00:00Z"
+      "updated_at": "2026-06-02T01:59:16.926736+00:00Z"
     }
   }
 ]

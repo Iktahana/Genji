@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このバスの運転系統は、駅と住宅街を結ぶ重要なルートだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新しい路線の開通に伴い、一部の運転系統が変更された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転系統のマップを確認して、目的地への行き方を調べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "市内の電車は車台の多数を焼失したので、運転系統がいろいろに変更して、以前ならば一直線にゆかれたところも、今では飛んでもない方角を迂回して行かなければならない。",
@@ -69,14 +94,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "路線",
+        "運行系統",
+        "ルート"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "系統番号",
+        "行き先",
+        "バス",
+        "鉄道",
+        "運行管理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.466394+00:00Z"
+      "updated_at": "2026-06-02T00:29:36.624544+00:00Z"
     }
   }
 ]

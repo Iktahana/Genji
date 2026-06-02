@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "波が打ち寄せる音を聞きながら、砂浜を歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "台風の影響で、高い波が打ち寄せている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "潮が打ち寄せるたびに、砂が洗い流されていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また絶えず石炭を積み込む荷揚ロープの緩急が打ち寄せる波の音と和して、消燈された甲板のゴルフ棒の蔭で船員と港の土人街の女とが抱擁して別離を悲しんでいる。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "打ち返す",
+        "押し寄せる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "波",
+        "海岸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.409360+00:00Z",
+      "updated_at": "2026-06-01T22:34:14.002866+00:00Z",
       "frequencies": {
         "aozora": 131
       }

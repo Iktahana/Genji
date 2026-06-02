@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "瓜の蔓に茄子はならぬというように、親と子は似た性質を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "瓜の蔓に茄子はならぬことわざは、血統の重要性を示している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔から瓜の蔓に茄子はならぬと言われてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "教育というものは菜園で言えば肥料みたいなもので、瓜の蔓に茄子はならぬと言いますが、瓜になんぼこやしをやったって茄子に変化するものでもなし、茄子が瓜に変ったりはしません。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "蛙の子は蛙",
+        "似た者親子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "諺",
+        "遺伝"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.140115+00:00Z"
+      "updated_at": "2026-06-02T00:26:54.094337+00:00Z"
     }
   }
 ]

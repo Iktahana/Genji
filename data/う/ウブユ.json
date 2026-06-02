@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お爺さんが汲んできてくれた水で沸かした産湯に、赤ちゃんが気持ちよさそうに入っています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "初めての産湯に少し驚いたのか、赤ちゃんが小さく声を上げていました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "産湯を使わせてもらうという言葉を聞いて、伝統的な習慣の重みを感じました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何らの寵児ぞ、天地の大きな盥で産湯を浴びるよ。",
@@ -245,14 +270,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "初湯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "産着",
+        "産声",
+        "新生児",
+        "出産",
+        "産屋"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.675576+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.444050+00:00Z",
       "frequencies": {
         "aozora": 68
       }

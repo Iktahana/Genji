@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生のお別れの会が学校の講堂で開かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お別れの会で生徒たちが感謝の言葉を述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "多くの同窓生がお別れの会に出席した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その製造に十日ばかり費した為に、出来上ったのは、鈴子夫人と森川森之助の結婚式の前の晩で、丁度その晩は、鈴子夫人のお別れの会に、私共友人達が招待されている時でした。",
@@ -54,14 +79,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "告別式"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お別れ会",
+        "葬儀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.670894+00:00Z"
+      "updated_at": "2026-06-02T02:26:39.919323+00:00Z"
     }
   }
 ]

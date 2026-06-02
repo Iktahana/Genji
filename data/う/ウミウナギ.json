@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市場には珍しい海鰻が並んでいて、店主が手際よく捌いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "岩場の穴の中に、鋭い歯を持つ海鰻が潜んでいるのを見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "釣り上げた海鰻の引きは、川の鰻とは比べ物にならないほど強かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熱海滞在中漁船に乗って魚見崎の辺で魚を釣っていたら大きな海鰻がかかったこと、これを船上で煮て食わされたが気味が悪くて食われなかったようなことなどを夢のように覚えている。",
@@ -133,14 +158,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ウツボ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魚",
+        "海洋生物",
+        "ウナギ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.781035+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.512035+00:00Z",
       "frequencies": {
         "aozora": 15
       }

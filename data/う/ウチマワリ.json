@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「新宿へ行くなら、山手線の内回りに乗るのが一番早いよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "高速道路の内回りが工事中で、一車線規制が行われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "競技用トラックの内回りを走り、タイムを縮めるための練習をする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジイドのように、いい年をして尚個体を先頭に立ててのたうちまわり、悪あがきをする、時々まるで十七八の少年を見るような熱狂ぶりを見せたりするが、これが作家の本当の姿ではないだろうか。",
@@ -78,13 +103,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "外回り"
+      ],
+      "related": [
+        "走路",
+        "レーン",
+        "競争"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.337524+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.072743+00:00Z"
     }
   }
 ]

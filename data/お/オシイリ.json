@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深夜の突然の押し入りに、住人はパニックに陥った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この事件の容疑者は、過去にも何度か空き巣の押し入りを繰り返していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "防犯カメラの映像には、犯人が窓を割って押し入りする様子が映っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なかば叫ぶような喜びの声をあげて老人はその中へ押し入り、たちまち以前の態度に返って、何も明らかな目当てもなく、人込みの中をあちらこちらと歩き廻った。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "侵入",
+        "乱入",
+        "土足参入"
+      ],
+      "antonyms": [
+        "退出",
+        "退去"
+      ],
+      "related": [
+        "強盗",
+        "泥棒",
+        "住居侵入",
+        "犯罪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.899989+00:00Z"
+      "updated_at": "2026-06-02T01:27:25.913857+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大型車の駐車場所を見つけるのに苦労した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域では大型車の通行を制限する措置が取られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型車のタイヤは定期的なチェックが重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "適切な予防措置および適切な役務との交換を条件に、大型飛行船ないし、大道を行くボートに似た形の原子力駆動の大型車に搭乗して、居住地区全部を彷徨することが認められ、この惑星の過去と未来の記録を収めた図書館で思うがままに没頭することができた。",
@@ -117,14 +142,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大型自動車"
+      ],
+      "antonyms": [
+        "小型車",
+        "軽自動車"
+      ],
+      "related": [
+        "トラック",
+        "バス",
+        "貨物車",
+        "大型免許"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.676452+00:00Z",
+      "updated_at": "2026-06-02T01:19:08.550509+00:00Z",
       "frequencies": {
         "aozora": 10
       }

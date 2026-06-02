@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その時になって初めて親の気持ちを思い知った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大人になって初めて親の苦労を思い知るようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの失敗から本当の大切さを思い知った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なんでも、少しでもおまえが失望の苦痛をよけいに思い知るようにする。",
@@ -262,14 +287,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "知る",
+        "認識する",
+        "理解する",
+        "悟る",
+        "気づく"
+      ],
+      "antonyms": [
+        "知らない"
+      ],
+      "related": [
+        "認識",
+        "理解",
+        "覚悟"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.899030+00:00Z",
+      "updated_at": "2026-06-02T02:23:08.949167+00:00Z",
       "freq_rank": 40695,
       "frequencies": {
         "aozora": 485

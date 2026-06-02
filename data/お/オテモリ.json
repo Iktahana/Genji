@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回の人事は完全なお手盛りで、社員から不満が噴出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お手盛りの予算編成をやめ、第三者の審査を導入すべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの役員はお手盛りで自分の報酬を上げたと言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男子の任官というものも、全く藤原氏の権力者のお手盛りであったから、下級官吏達の生涯は、始めから終りまで不安定で、一旦藤原氏の機嫌をそこねたら、任官も覚束ない者が多かった。",
@@ -69,14 +94,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "身勝手",
+        "独断",
+        "横領",
+        "着服",
+        "恣意的"
+      ],
+      "antonyms": [
+        "公正",
+        "公平",
+        "透明性"
+      ],
+      "related": [
+        "不正",
+        "私利",
+        "主観",
+        "不誠実",
+        "不透明"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.653397+00:00Z"
+      "updated_at": "2026-06-02T01:46:52.059706+00:00Z"
     }
   }
 ]

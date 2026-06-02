@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋の深まりとともに、川を流れる落ち鮎の姿が見られるようになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "釣り人たちは、落ち鮎を狙って川岸に集まってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "塩焼きにした落ち鮎は、この時期ならではの贅沢な味覚だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "木犀、萩、水引、鶏頭が、次々に屋敷の庭に咲き、八百屋の店頭には八ツ頭、唐の芋の新鮮なのが現われたり、魚屋の盤台には落ち鮎、かますなどが、膏ののった体を横たえたりした。",
@@ -165,14 +190,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "下り鮎"
+      ],
+      "antonyms": [
+        "上り鮎",
+        "若鮎"
+      ],
+      "related": [
+        "鮎",
+        "産卵",
+        "秋",
+        "川",
+        "遡上",
+        "落ち魚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.441348+00:00Z",
+      "updated_at": "2026-06-02T01:41:05.401819+00:00Z",
       "frequencies": {
         "aozora": 17
       }

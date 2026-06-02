@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大晦の夜は、家族揃って年越しそばを食べるのが習慣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "街中が慌ただしくなる大晦の雰囲気が、なぜか懐かしく感じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "一年の最後の日である大晦には、神社へお参りに行く予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "武雄の温泉宿で泊ったのがちょうど大晦日の晩であった。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大晦日",
+        "年の瀬",
+        "歳末"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "除夜の鐘",
+        "年越し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.908632+00:00Z",
+      "updated_at": "2026-06-02T01:16:49.411460+00:00Z",
       "frequencies": {
         "aozora": 5
       }

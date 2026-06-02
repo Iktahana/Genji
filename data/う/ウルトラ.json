@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウルトラモダンな建築物がそびえ立っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウルトラリアリズムの映像表現に驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウルトラスパーク機は高性能だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ウルトラ大学生諸君、こんな散歩が何で面白いだろう。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "超",
+        "極端"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "接頭辞",
+        "程度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.199939+00:00Z",
+      "updated_at": "2026-06-02T00:27:06.149381+00:00Z",
       "freq_rank": 12577,
       "frequencies": {
         "aozora": 20

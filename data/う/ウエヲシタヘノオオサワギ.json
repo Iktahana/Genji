@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "犬が式場に迷い込んで、披露宴会場は上を下への大騒ぎになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "結婚式当日に新郎が遅刻して、親族の間で上を下への大騒ぎが起きた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "火災報知器が誤作動し、デパート全体が上を下への大騒ぎとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから菊次さんの家では、上を下への大騒ぎがはじまりました。",
@@ -150,14 +175,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大混乱",
+        "てんやわんや",
+        "騒乱"
+      ],
+      "antonyms": [
+        "平穏",
+        "静寂"
+      ],
+      "related": [
+        "騒動",
+        "混乱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.603178+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.292993+00:00Z"
     }
   }
 ]

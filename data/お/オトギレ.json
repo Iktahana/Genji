@@ -29,21 +29,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ライブ配信の途中で音切れが起き、視聴者からコメント欄に苦情が殺到した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "録音を聞き返すと、インタビューの重要な部分でひどい音切れが発生していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "Bluetooth接続は電波干渉を受けやすく、地下鉄の中では頻繁に音切れする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "音声途絶"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ノイズ",
+        "音質"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.721128+00:00Z"
+      "updated_at": "2026-06-02T01:49:23.409580+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日の単調な仕事に倦み疲れて、転職を考えるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長年同じことを繰り返していると、人は倦み疲れてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は人間関係の複雑さに倦み疲れた様子で、休暇を取ることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "太陽が中天に一休みして暑さと砂ほこりにみんなが倦み疲れる頃を見はからい彼は唄をうたった。",
@@ -69,14 +94,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "疲れる",
+        "くたびれる",
+        "疲弊する"
+      ],
+      "antonyms": [
+        "元気になる"
+      ],
+      "related": [
+        "疲労",
+        "倦怠感"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.803218+00:00Z",
+      "updated_at": "2026-06-02T00:22:56.165643+00:00Z",
       "frequencies": {
         "aozora": 40
       }

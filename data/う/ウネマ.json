@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨上がりの畝間には泥が溜まりやすく、歩くのには長靴が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "雑草が畝間まで広がってきたので、週末に手入れをしないといけない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "畝間を歩きながら、野菜の育ち具合を一つ一つ丁寧に確認していく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "春といっても横にひろがった薺が、枝を束ねた桑畑の畝間にすっと延び出して僅かに白い花が見え出してまだ麦が首を擡げない頃は其短い麦の間に小さな体にしては恐ろしげな毛を頭に立てた雲雀がちょろちょろと駈け歩いて居る。",
@@ -221,14 +246,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "溝"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "畝",
+        "農地",
+        "畑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.628251+00:00Z",
+      "updated_at": "2026-06-02T00:21:40.275179+00:00Z",
       "frequencies": {
         "aozora": 20
       }

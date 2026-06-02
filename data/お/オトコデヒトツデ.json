@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父親は男手一つで三人の子どもを育てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は男手一つで家族を支えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖父は男手一つで孫たちの面倒をみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "父にして見れば早く妻に別れて、男手一つで育て上げた一人息子は掌中の珠より可惜しかった。",
@@ -61,14 +86,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "独力で",
+        "一人で",
+        "孤軍奮闘"
+      ],
+      "antonyms": [
+        "助力を得て"
+      ],
+      "related": [
+        "親一人",
+        "苦労",
+        "支援"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.776787+00:00Z"
+      "updated_at": "2026-06-02T01:50:56.326331+00:00Z"
     }
   }
 ]

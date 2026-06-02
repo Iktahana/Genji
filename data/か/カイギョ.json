@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このレストランでは、新鮮な海魚を毎日仕入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海魚の中でも、マグロは最も高級な食材の一つである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海魚を塩焼きにするのが、最もシンプルで美味しい調理法だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "魚の中に於て、海魚は潮汐によつて其の氣が張弛するが、河魚は朝間詰夕間詰に於て著しく活溌になることは、老漁の看取して十二分に信じて居ることである。",
@@ -263,14 +288,30 @@
       "homophones": [
         "怪魚"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "海の魚",
+        "塩水魚",
+        "海産魚",
+        "海水魚"
+      ],
+      "antonyms": [
+        "淡水魚",
+        "川魚",
+        "湖魚"
+      ],
+      "related": [
+        "魚",
+        "漁業",
+        "海",
+        "刺身",
+        "海産物",
+        "魚介類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.199102+00:00Z",
+      "updated_at": "2026-06-02T02:50:04.452553+00:00Z",
       "frequencies": {
         "aozora": 24
       }
@@ -306,7 +347,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深海には、まだ解明されていない怪魚が多く生息している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怪魚の写真がインターネットで話題になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この怪魚を初めて見たとき、本当に信じられない思いがした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と言つてすましてゐるかと思ふと、また、おきなと称する怪魚が北海に住んでゐて、「其大きさ二里三里にも及べるにや、つひに其魚の全身を見たる人はなし。",
@@ -540,9 +606,19 @@
       "homophones": [
         "海魚"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "奇魚",
+        "珍魚",
+        "謎の魚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "深海魚",
+        "未確認生物",
+        "魚",
+        "海洋生物",
+        "幻の魚"
+      ]
     },
     "meta": {
       "version": "1.0.0",

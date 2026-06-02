@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「あんなぎりぎりで助かるとは、本当に運のいい人だ」と救急隊員がつぶやいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "落とした財布がそのまま届けられ、「こんなに運のいいことはない」と彼女は喜んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は運のいい男で、就職活動でも最初に受けた会社にすんなり内定をもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と狸は低い聲で言ひ、けれども、別段何も感じないらしく、ただもう好きなひとの傍にゐるといふ幸福感にぬくぬくとあたたまつてゐる樣子で、どつしりと腰を落ちつけ、死魚のやうに濁つた眼であたりを見廻し、小蟲を拾つて食べたりしながら、「しかし、おれは運のいい男だなあ。",
@@ -272,14 +297,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "幸運な",
+        "ツイている",
+        "強運な"
+      ],
+      "antonyms": [
+        "運の悪い",
+        "不運な",
+        "ツイていない"
+      ],
+      "related": [
+        "ラッキー",
+        "縁起が良い",
+        "棚ぼた",
+        "成功"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.532113+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.310806+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うちの弟は本当に怒りん坊で、すぐに顔を真っ赤にする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "怒りん坊なのは父親譲りだと、母はいつも苦笑いしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "怒りん坊な性格を自覚して、最近は深呼吸を心がけている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「こんな怒りん坊は、誰だつて、見たことがありません。",
@@ -53,14 +78,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怒りんぼ",
+        "短気者",
+        "癇癪持ち"
+      ],
+      "antonyms": [
+        "温厚な人",
+        "おっとりした人"
+      ],
+      "related": [
+        "子供",
+        "仇名",
+        "感情的",
+        "癇癖"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.793679+00:00Z",
+      "updated_at": "2026-06-02T01:26:20.771354+00:00Z",
       "frequencies": {
         "aozora": 2
       }

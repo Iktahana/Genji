@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ついに部長のお出ましだ、静かにしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "朝から機嫌の悪いお出ましで、周囲はピリピリしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "サプライズゲストのお出ましに、会場が沸いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "亭主が、Ｔ「天狗様が　お出ましに　なります」　団九郎が驚いた。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "登場",
+        "出現",
+        "到来",
+        "来臨",
+        "現れ"
+      ],
+      "antonyms": [
+        "不在",
+        "不出場",
+        "欠席"
+      ],
+      "related": [
+        "出演",
+        "参加",
+        "公開",
+        "表舞台",
+        "注目"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.679534+00:00Z",
+      "updated_at": "2026-06-02T01:46:52.067377+00:00Z",
       "freq_rank": 43506,
       "frequencies": {
         "aozora": 308

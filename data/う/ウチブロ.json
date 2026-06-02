@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅館には内風呂と露天風呂があり、好きなときに利用できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い家を改築して内風呂を設けたことで、生活が一段と快適になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "銭湯通いを続けてきた祖父も、内風呂ができてからは家で入浴するようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内風呂は兎かくに火災を起し易いからである。",
@@ -158,13 +183,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "露天風呂"
+      ],
+      "related": [
+        "風呂",
+        "浴室",
+        "温泉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.325894+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.066209+00:00Z",
       "frequencies": {
         "aozora": 21
       }

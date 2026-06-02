@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが誕生日のプレゼントを嬉しがって飛び跳ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "母親は息子の合格を嬉しがっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は花束をもらって、とても嬉しがっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「常に孤独で居る人間は、稀れに逢う友人との会合を、さながら宴会のように嬉しがる」とニイチェが云ってるのは真理である。",
@@ -278,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "喜ぶ",
+        "浮かれる",
+        "はしゃぐ",
+        "悦ぶ",
+        "興じる"
+      ],
+      "antonyms": [
+        "悲しむ",
+        "嫌がる"
+      ],
+      "related": [
+        "歓喜",
+        "笑顔",
+        "高揚",
+        "上機嫌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.234228+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.743188+00:00Z"
     }
   }
 ]

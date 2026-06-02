@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本の上表紙には著者の名前が印字されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上表紙が破れているので修理に出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上表紙のデザインが秀逸だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "部屋の中央にあるたものちゃぶ台には読みさしの英語の本が開いたまま伏せてあったが、その表紙には反物のたとう紙で綿密に上表紙がかけてあった。",
@@ -85,14 +110,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "表紙",
+        "カバー",
+        "表装"
+      ],
+      "antonyms": [
+        "裏表紙"
+      ],
+      "related": [
+        "本",
+        "綴じ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.343543+00:00Z"
+      "updated_at": "2026-06-02T00:28:25.527286+00:00Z"
     }
   }
 ]

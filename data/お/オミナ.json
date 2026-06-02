@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その女は常に笑顔を絶やさない",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "隣の女が毎日花を育てている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その女の声は舞台に響き渡った",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に女には今日の表現が明日の存在になるんだ。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "女性",
+        "婦人"
+      ],
+      "antonyms": [
+        "男",
+        "男性"
+      ],
+      "related": [
+        "人間",
+        "性別"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.759415+00:00Z",
+      "updated_at": "2026-06-02T02:20:05.868484+00:00Z",
       "freq_rank": 759,
       "frequencies": {
         "aozora": 133837

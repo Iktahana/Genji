@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「噂をすれば影」とはまさにこのことだ、と彼が部屋に入ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "田中さんの話をしていたら、「噂をすれば影」、本人が現れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「噂をすれば影」というように、ちょうど彼から電話がかかってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "噂をすれば影とやらで、ひょっくり自分が現われたなら、升屋の老人｜喫驚りして開いた口がふさがらぬかも知れない。",
@@ -189,14 +214,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "噂をすれば影が射す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ことわざ",
+        "偶然"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.302778+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.210638+00:00Z"
     }
   }
 ]

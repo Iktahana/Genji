@@ -326,14 +326,23 @@
         "解義",
         "海技"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ミーティング",
+        "集会",
+        "会合",
+        "協議"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "議論",
+        "討論",
+        "議題"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.184874+00:00Z",
+      "updated_at": "2026-06-02T02:50:04.448361+00:00Z",
       "freq_rank": 721,
       "frequencies": {
         "aozora": 1894
@@ -675,9 +684,20 @@
         "解義",
         "海技"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "疑い",
+        "疑問",
+        "疑惑"
+      ],
+      "antonyms": [
+        "確信",
+        "信頼"
+      ],
+      "related": [
+        "疑う",
+        "不安",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -823,9 +843,15 @@
         "解義",
         "海技"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "回覧"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "相談",
+        "会議",
+        "通知"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -865,7 +891,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古典の解義について、複数の学派が異なる見解を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "宗教経典の解義は、時代によって変わることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この難しい概念の解義には、専門知識が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この象徴に関する別の解義は、後に他の章で詳説するが、とにかくポオやメーテルリンクは、これによって象徴派と呼ばれている。",
@@ -1118,9 +1169,18 @@
         "回議",
         "海技"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "説明",
+        "解釈",
+        "注釈",
+        "解説"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "意味",
+        "言語",
+        "文献"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1158,7 +1218,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は数十年間の海技を身につけた経験豊富な船長だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海技の習得には、長年の実務経験が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海上安全委員会は海技の向上を推進している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、克子を迎えたときは目的通り、すでに一介の造船技師として、また航海技術研究家として、ただの市民になっていた。",
@@ -1211,9 +1296,16 @@
         "回議",
         "解義"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "航海技術",
+        "操船術"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "船",
+        "航海",
+        "技術"
+      ]
     },
     "meta": {
       "version": "1.0.0",

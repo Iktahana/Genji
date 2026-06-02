@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「昨夜ずっと家にいたよ」「嘘をつけ、あの時間にコンビニで見かけたぞ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「残業で遅くなった」と言うと、妻は「嘘をつけ」と一言だけ言って部屋に戻っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「全部食べました」と言う息子に「嘘をつけ、ゴミ箱に隠してあるだろう」と父が笑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おみよはわたくしが殺したのじゃございません」「嘘をつけ。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嘘つくな",
+        "出鱈目を言うな"
+      ],
+      "antonyms": [
+        "本当だ"
+      ],
+      "related": [
+        "嘘",
+        "否定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.109588+00:00Z"
+      "updated_at": "2026-06-01T22:12:49.601553+00:00Z"
     }
   }
 ]

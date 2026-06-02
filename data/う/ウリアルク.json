@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は自転車に荷台を取り付け、近所の農家から仕入れた野菜を住宅街で売り歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "震災後、支援物資が届くまでの間、商店主は残った食料を避難所周辺で売り歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "若い頃の祖父は風呂敷包みを背負って鍋や釜を売り歩き、家族を養っていたという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "七味唐辛子を売り歩く男で、頭には高くとがった円錐形の帽子をかぶり、身にはまっかな唐人服をまとい、そうしてほとんど等身大の唐辛子の形をした張り抜きをひもで肩につるして小わきにかかえ、そうして「トーン、トーオン、トンガシノコ」と四拍子の簡単な旋律を少しぼやけた中空なバリトンで歌い歩くのがいた。",
@@ -262,14 +287,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "行商",
+        "訪問販売"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "商売",
+        "営業",
+        "売り歩き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.083653+00:00Z",
+      "updated_at": "2026-06-02T00:26:48.902610+00:00Z",
       "frequencies": {
         "aozora": 90
       }

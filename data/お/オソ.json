@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "妻は妊娠初期の悪阻で毎日苦しんでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "悪阻の症状が強くて、朝食を食べられない日が多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医師は彼女の悪阻を緩和する薬を処方してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我邦でも昔から壁土や土器をかじる子供があるが、他人種でもやはり胃病やヒステリーあるいは悪阻のために土を食いたがる者が往々あるそうである。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "つわり"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "妊娠",
+        "症状",
+        "医学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.241077+00:00Z",
+      "updated_at": "2026-06-02T01:35:47.288990+00:00Z",
       "freq_rank": 36862,
       "frequencies": {
         "aozora": 31

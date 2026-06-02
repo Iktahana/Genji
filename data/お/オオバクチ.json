@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社を立て直すために、彼は新事業への進出という大博打に出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "貯金のほとんどを投資につぎ込むなんて、まさに人生を賭けた大博打だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その大博打に勝てば、一気に経営陣の仲間入りができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "落合の藪の中でさ、大博打ができたんだよ。",
@@ -53,14 +78,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "博打",
+        "ギャンブル",
+        "投機",
+        "冒険"
+      ],
+      "antonyms": [
+        "堅実",
+        "無難"
+      ],
+      "related": [
+        "危険",
+        "リスク",
+        "一か八か",
+        "勝負"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.010890+00:00Z"
+      "updated_at": "2026-06-02T01:19:39.956409+00:00Z"
     }
   }
 ]

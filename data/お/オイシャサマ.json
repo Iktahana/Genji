@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "町のお医者様に診てもらったら風邪だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うちのかかりつけのお医者様はとても親切で信頼できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お医者様の診断結果をお待ちしております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お医者様の御診察ではその前にお二人で××にドライブをなすったのが悪かった……ナル程。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "医師",
+        "医者",
+        "先生"
+      ],
+      "antonyms": [
+        "患者"
+      ],
+      "related": [
+        "病院",
+        "診察",
+        "医療",
+        "健康"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.013673+00:00Z"
+      "updated_at": "2026-06-02T01:08:41.171983+00:00Z"
     }
   }
 ]

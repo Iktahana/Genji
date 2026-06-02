@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "年末の大商いで、百貨店の売り場は朝から人で溢れかえっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "相場が大きく動いた日は大商いとなり、証券会社の電話が鳴り止まなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初売りの日は大商いを期待して、店員全員が早朝から準備に追われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "横浜で屈指といわれる豪商でも、ここぞと思う大商いをする時は、船の碇泊期間だけ、目ぼしい外人を生擒っておくため自分の妻、妾、娘さえ提供するのがあるというほどに。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "商売",
+        "取引"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "商人",
+        "売上",
+        "商業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.554586+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.330643+00:00Z",
       "frequencies": {
         "aozora": 1
       }

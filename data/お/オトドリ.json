@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "リハーサルの音取をしておいたおかげで、本番前に細かいテンポのズレを修正できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "レコーディングスタジオで行った音取のデータをもとに、ミックスダウンが進められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "野外での音取は風のノイズが入りやすいため、ウインドシールドが欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ともかく私は、この頃その人からの手紙を貰つて、音取かく――と見る場合妙なぎこちなさを覚えるのです。",
@@ -102,14 +127,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "録音",
+        "音声録音"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音声",
+        "収録",
+        "音源",
+        "録音機",
+        "マイク",
+        "音響"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.862826+00:00Z",
+      "updated_at": "2026-06-02T02:00:40.778543+00:00Z",
       "frequencies": {
         "aozora": 12
       }

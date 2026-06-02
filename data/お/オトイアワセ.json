@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商品に関するお問い合わせは、こちらの窓口までお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近、サポートセンターへのお問い合わせが急増している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "何度もお問い合わせをいただいてお待たせして申し訳ありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "※翻訳についてのお問い合わせは、青空文庫ではなく、訳者本人（http://www.alz.jp/221b/）までお願いします。",
@@ -61,14 +86,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "問い合わせ",
+        "照会",
+        "質問",
+        "問い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "連絡",
+        "相談",
+        "回答",
+        "返信",
+        "窓口",
+        "カスタマーサポート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.683436+00:00Z"
+      "updated_at": "2026-06-02T01:49:06.385546+00:00Z"
     }
   }
 ]

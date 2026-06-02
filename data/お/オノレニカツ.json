@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "怒りに任せて行動するのではなく、己に克つ努力が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼が成功したのは、常に己に克つ習慣を持っていたからである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "修養とは、毎日己に克つことの積み重ねである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "己に克つといふことが微塵程もない。",
@@ -134,14 +159,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自制する",
+        "堪える",
+        "我慢する"
+      ],
+      "antonyms": [
+        "放縦",
+        "奔放"
+      ],
+      "related": [
+        "修養",
+        "克己",
+        "抑制"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.208244+00:00Z"
+      "updated_at": "2026-06-02T02:04:31.055450+00:00Z"
     }
   }
 ]

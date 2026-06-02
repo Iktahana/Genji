@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "僧侶は朝の儀式で鐘を打ち鳴らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "店員は営業開始の合図として鈴を打ち鳴らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は祝いの知らせを鐘を打ち鳴らして伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "桂正作は武士の子、今や彼が一家は非運の底にあれど、ようするに彼は紳士の子、それが下等社会といっしょに一膳めしに舌打ち鳴らすか、と思って涙ぐんだのではない。",
@@ -262,14 +287,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鳴らす",
+        "響かせる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鐘",
+        "音"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.304885+00:00Z",
+      "updated_at": "2026-06-01T22:17:01.603998+00:00Z",
       "frequencies": {
         "aozora": 113
       }

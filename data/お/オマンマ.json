@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが「おまんま、ちょうだい」とおねだりする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おまんまの準備ができたので、みんなで食卓に集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このおまんまの炊き加減は完璧だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "行つて見るとまだ叔母は朝御飯が漸くすんだばかりで、ゆるゆるとお茶を飲みながら近所の人とトラックの話をしてゐるのだ。",
@@ -288,21 +313,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おまんまを食べないと元気が出ないよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎日おまんまをしっかり食べることが大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おまんまのおかずに何がいいか相談する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ご飯",
+        "食事",
+        "飯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "食べる",
+        "食物",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.727149+00:00Z",
+      "updated_at": "2026-06-02T02:20:35.366113+00:00Z",
       "freq_rank": 13303,
       "frequencies": {
         "aozora": 2489

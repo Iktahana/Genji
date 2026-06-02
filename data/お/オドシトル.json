@@ -30,21 +30,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暴力団が店主から脅し取った金額は数百万円に上った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は隣人を脅し取ろうとして現行犯逮捕された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プライベート写真を脅し取られるなんて、本当に悔しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恐喝する",
+        "ゆする",
+        "たかる",
+        "強奪する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恐喝",
+        "脅迫",
+        "強請",
+        "毟り取る",
+        "詐取"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.959207+00:00Z",
+      "updated_at": "2026-06-02T01:55:57.652510+00:00Z",
       "frequencies": {
         "aozora": 1
       }

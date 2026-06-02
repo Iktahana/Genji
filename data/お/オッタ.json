@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "凍結した路面で足を滑らせて、その場で派手に落った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "木から果実が一個、ボトッと地面に落った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "突然の揺れで棚の上の置物が落ったので、慌てて拾った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それだのに今や教団は、教主優婆塞｜失踪のために、大混乱に墜落った。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "落ちた",
+        "転んだ"
+      ],
+      "antonyms": [
+        "上がった",
+        "登った"
+      ],
+      "related": [
+        "落下"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.546733+00:00Z"
+      "updated_at": "2026-06-02T01:43:39.568203+00:00Z"
     }
   }
 ]

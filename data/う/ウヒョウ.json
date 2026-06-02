@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の朝、電線には雨氷がぴかぴかと輝いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雨氷で覆われた木の枝は、その重さで折れることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気象予報では、今夜雨氷が予想されると警告していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "以上挙げたものの外に稀有な降水の種類として凍雨と雨氷を数える事が出来る。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "凍雨"
+      ],
+      "antonyms": [
+        "晴天"
+      ],
+      "related": [
+        "氷雨",
+        "気象",
+        "降水"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.662551+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.505675+00:00Z",
       "frequencies": {
         "aozora": 12
       }

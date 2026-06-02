@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "贈り物は渡す側の気持ちも大切だが、受け手の好みを考えることも欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "メッセージの受け手が誰かによって、言葉の選び方は大きく変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "広告の受け手が感情移入できるストーリーを作ることが、ブランド認知を高める鍵だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこでこの三通のレッド・ペーパーに対する受け手の反応やいかにと問えば、第一の日本のソフトウエア市場に対するものには、いまだしとは言えど敏感な反応が返っているという。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "受信者",
+        "受容者",
+        "受領者"
+      ],
+      "antonyms": [
+        "出し手",
+        "送り手"
+      ],
+      "related": [
+        "受信",
+        "伝達"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.815310+00:00Z",
+      "updated_at": "2026-06-01T22:05:01.526093+00:00Z",
       "freq_rank": 17327,
       "frequencies": {
         "aozora": 8

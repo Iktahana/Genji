@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は人混みを激しく押しのけて、駅のホームを駆け抜けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "邪魔な箱を足で押しのけて、ようやく奥の荷物を取り出すことができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は自分を否定する周囲の意見を押しのけて、自分の夢を追うことに決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれどもそこからボートまでのところにはまだまだ小さな子どもたちや親たちやなんか居て、とても押しのける勇気がなかったのです。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "どける",
+        "押し分ける",
+        "排斥する",
+        "除外する"
+      ],
+      "antonyms": [
+        "招き入れる",
+        "受け入れる"
+      ],
+      "related": [
+        "邪魔",
+        "競争",
+        "障害物",
+        "排除"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.002095+00:00Z",
+      "updated_at": "2026-06-02T01:28:56.693902+00:00Z",
       "frequencies": {
         "aozora": 421
       }

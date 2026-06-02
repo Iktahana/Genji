@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロジェクトの完了を遅らせるわけにはいかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "一人の遅刻で会議を遅らせるのは申し訳ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "さらなる調査が必要で決定を遅らせることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは、言うまでもなくこの乙電車が次の停留所に着すべき時間を遅らせる。",
@@ -246,14 +271,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遅らす",
+        "延ばす",
+        "猶予する",
+        "順延する"
+      ],
+      "antonyms": [
+        "繰り上げる",
+        "急がせる"
+      ],
+      "related": [
+        "スケジュール",
+        "進行",
+        "調整",
+        "遅延"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.637675+00:00Z",
+      "updated_at": "2026-06-02T01:23:58.742368+00:00Z",
       "freq_rank": 25936,
       "frequencies": {
         "aozora": 91

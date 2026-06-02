@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "終演後、ロビーでは表方のスタッフが観客の送り出しに追われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表方の仕事は、チケットの確認から座席への誘導まで多岐にわたる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "華やかな舞台を支えるのは、役者だけでなく、気配りの行き届いた表方の存在だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（この私の意見は画家に対して衝動主義の制作を慾求してゐるのではない、具体的には次の機会に述べる）私は画家の多作主義を主唱する発表方法では、小集団主義と、個展主義とに賛成したい。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "観客対応"
+      ],
+      "antonyms": [
+        "裏方"
+      ],
+      "related": [
+        "劇場",
+        "接客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.033814+00:00Z",
+      "updated_at": "2026-06-02T02:21:45.150443+00:00Z",
       "frequencies": {
         "aozora": 44
       }

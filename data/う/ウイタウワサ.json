@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人気俳優の彼には、これまで一度も浮いた噂が流れたことがなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "街の社交場では、誰と誰が親密だという浮いた噂が絶えなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女が突然退職したのは、社内での浮いた噂を気にしたせいだと言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "商売柄で若い時には随分浮いた噂もきこえたが、この十年以来は慾一方に凝り固まっているとかいうので、近所の評判はあまり好くなかった。",
@@ -199,14 +224,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "浮いた話"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "浮いた",
+        "噂",
+        "恋愛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.415597+00:00Z"
+      "updated_at": "2026-06-01T21:52:59.063159+00:00Z"
     }
   }
 ]

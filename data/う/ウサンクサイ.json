@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その人の説明は胡散臭い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この製品は胡散臭い宣伝をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その計画は胡散臭い気がして参加しなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "往来の人々が、何か胡散臭い目つきでこちらを眺める気がして私は、いつまでも窓から顔を出していることも出来なかった。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怪しい",
+        "疑わしい",
+        "胡散",
+        "得体が知れない"
+      ],
+      "antonyms": [
+        "清潔",
+        "正当"
+      ],
+      "related": [
+        "疑う",
+        "不気味",
+        "疑惑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.878270+00:00Z",
+      "updated_at": "2026-06-01T22:07:27.056004+00:00Z",
       "freq_rank": 23432
     }
   }

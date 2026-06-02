@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日10時間の練習を続けた彼は、オーバートレーニングで体を壊し、大会を欠場することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "コーチは選手たちにオーバートレーニングのサインを見逃さないよう繰り返し指導した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長距離ランナーの彼女はオーバートレーニング症候群と診断され、一ヶ月間の完全休養を命じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "過剰練習",
+        "練習過多"
+      ],
+      "antonyms": [
+        "練習不足"
+      ],
+      "related": [
+        "疲労",
+        "怪我",
+        "トレーニング"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:34:14.426675+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "老いらくの恋と笑われても、二人は本当に幸せそうだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は老いらくを畑仕事と読書で静かに過ごしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "老いらくに至っても、彼の新しいことへの探究心は少しも衰えなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "老いらくの恋で人妻を奪った者さえある。",
@@ -133,14 +158,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "老年",
+        "老境",
+        "老後"
+      ],
+      "antonyms": [
+        "青春",
+        "若年"
+      ],
+      "related": [
+        "老いらくの恋",
+        "加齢",
+        "老年期"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.095658+00:00Z",
+      "updated_at": "2026-06-02T01:08:54.991591+00:00Z",
       "frequencies": {
         "aozora": 19
       }

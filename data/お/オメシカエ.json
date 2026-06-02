@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "披露宴の合間に、新婦は色鮮やかな振袖にお召し替えをされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "濡れた服をそのままにしていると風邪を引くので、すぐにお召し替えください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宿泊客たちが夕食前に、備え付けの浴衣へとお召し替えをしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まずお召し替えをなされませ」　お時は戸棚の古葛籠の底を探したが、小柄の十吉の着物では間に合いそうもないので、彼女は二枚の女物を引き出した。",
@@ -87,14 +112,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "着替え",
+        "更衣"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "着物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.818590+00:00Z"
+      "updated_at": "2026-06-02T02:20:33.270465+00:00Z"
     }
   }
 ]

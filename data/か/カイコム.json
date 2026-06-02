@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "台風が来る前に、スーパーで食料を大量に買い込んでおいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年末セールで服を買い込みすぎて、クローゼットが溢れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は旅行前にお土産用のお菓子を買い込み、スーツケースに詰め込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしの店では武具を扱わないから、ほかの店へ持って行ってくれと一旦は断わったそうですが、幾らでもいいから引取ってくれと頻りに頼むので、こっちも気の毒になってとうとう買い込むことになったのだということです。",
@@ -280,14 +305,29 @@
       "homophones": [
         "掻い込む"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "買いだめする",
+        "まとめ買いする",
+        "仕入れる",
+        "買いあさる",
+        "ストックする"
+      ],
+      "antonyms": [
+        "売り払う",
+        "処分する"
+      ],
+      "related": [
+        "まとめ買い",
+        "買いだめ",
+        "備蓄",
+        "在庫",
+        "仕入れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.276552+00:00Z",
+      "updated_at": "2026-06-02T02:57:22.724712+00:00Z",
       "frequencies": {
         "aozora": 188
       }
@@ -324,7 +364,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は図書館で借りた本を何冊も脇に掻い込んで、足早に歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "両手が荷物でふさがったので、傘を腕に掻い込んで駅まで走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は買い物袋を脇に掻い込みながら、アパートの階段を駆け上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――風の模樣は……まあ何だらうと、此弱蟲が悄々と、少々ぐらつく欄干に凭りかゝると、島田がすつと立つて……九月初旬でまだ浴衣だつた、袖を掻い込むで、白い手を海の上へさしのべた。",
@@ -439,7 +504,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが川岸にしゃがんで、両手で水を掻い込んで顔を洗った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "倒れた鍋からこぼれ出るスープを、彼は布巾で掻い込むようにして拭き取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バケツの水を両手で掻い込んで、熱くなった額にかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -448,9 +538,18 @@
       "homophones": [
         "買い込む"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "すくい込む",
+        "かき込む",
+        "抱え込む"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "小脇に抱える",
+        "すくう",
+        "かき集める",
+        "抱える"
+      ]
     },
     "meta": {
       "version": "1.0.0",

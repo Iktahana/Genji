@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新技術の発表をきっかけに、市場で大相場が形成された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "投資家たちは、このチャンスに大相場を狙おうと息巻いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの時株を買っていれば、今ごろ大相場で大儲けできていたはずだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると、そこには附近に商店を持った大相場師のＳが、いよいよ起訴されたこと、またしても近頃流行する、都会女の自殺が写真入で報道されていた。",
@@ -53,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "活況",
+        "好況"
+      ],
+      "antonyms": [
+        "不況",
+        "暴落"
+      ],
+      "related": [
+        "相場",
+        "株式",
+        "投機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.873590+00:00Z"
+      "updated_at": "2026-06-02T01:16:33.758219+00:00Z"
     }
   }
 ]

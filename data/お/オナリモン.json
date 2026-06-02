@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "御成門は城の中でも格式高い門として建てられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "義雄は喧嘩のあとで意志が通じたと云ふいい氣持ちを味はひながら、電車を芝公園の御成門で下りると、向ふから海軍水路部の前を、弟の馨がいそ／＼とやつて來た。",
@@ -165,14 +174,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "門"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "建築",
+        "身分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.060181+00:00Z",
+      "updated_at": "2026-06-02T01:57:13.629792+00:00Z",
       "frequencies": {
         "aozora": 22
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は想い人の名前を日記に書いては消しを繰り返していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祭りの夜、彼は想い人の姿を人混みの中に探し続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "戦地に赴く兵士は、故郷に残した想い人の写真を胸ポケットにしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仮に想い人としましたら。",
@@ -69,14 +94,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恋人",
+        "意中の人",
+        "恋しい人",
+        "愛しい人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恋愛",
+        "愛情",
+        "片思い",
+        "慕情",
+        "思慕"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.935149+00:00Z"
+      "updated_at": "2026-06-02T02:23:12.987061+00:00Z"
     }
   }
 ]

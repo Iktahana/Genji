@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「一回説明しただけじゃおかったるくて、もっと練習しないと身につかない」とコーチが言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの量の食事では育ち盛りの息子にはおかったるいようで、すぐに追加を求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "一時間しか眠れなくて体がおかったるく、頭が全然働かなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "英文は元来自分には少しおかったるい方だから、余り大口を利く訳には行かぬが、兎に角原詩よりも訳の方が、趣味も詩想もよく分る、原文では十遍読んでも分らぬのが、訳の方では一度で種々の美所が分って来る、しかも其のイムプレッションを考えて見ると、如何にもバイロン的だ。",
@@ -61,14 +86,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "物足りない",
+        "不十分",
+        "生ぬるい",
+        "不満足"
+      ],
+      "antonyms": [
+        "十分な",
+        "満足な"
+      ],
+      "related": [
+        "不足",
+        "欲求不満",
+        "物足りなさ",
+        "方言"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.252105+00:00Z"
+      "updated_at": "2026-06-02T01:20:15.448602+00:00Z"
     }
   }
 ]

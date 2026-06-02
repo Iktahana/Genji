@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は冗談かと思ったら、大真面目な顔でその計画を語り始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "そんな大真面目な顔をして、どうしたの？",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は大真面目に将来の夢を語ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　園は大真面目で、「いゝえ。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "本気",
+        "本心",
+        "真剣"
+      ],
+      "antonyms": [
+        "不真面目",
+        "冗談"
+      ],
+      "related": [
+        "真摯",
+        "態度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.072970+00:00Z",
+      "updated_at": "2026-06-02T01:18:00.102743+00:00Z",
       "frequencies": {
         "aozora": 184
       }

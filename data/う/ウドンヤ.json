@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近所のうどんやで食べる月見うどんが、子供のころからの好物だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夜遅くまで開いているうどんやを見つけて、仕事帰りにふらりと立ち寄った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あのうどんやの主人は毎朝四時に起きて自分でだしをとっているそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "坂田はんをこんな落目にさせたのは、もとはといえば皆わてからやと、かえって同情してくれて、そしていろいろあった挙句、わてかてもとをただせばうどん屋の娘やねん。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うどん店",
+        "製麺所",
+        "麺処"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "饂飩",
+        "飲食店",
+        "外食",
+        "立ち食い",
+        "暖簾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.593399+00:00Z"
+      "updated_at": "2026-06-01T23:15:40.054963+00:00Z"
     }
   }
 ]

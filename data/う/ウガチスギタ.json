@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その評論家の意見は、あまりに穿ちすぎた見方で共感を得られなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は自分の失敗を陰謀論に結びつけるという、穿ちすぎた結論を出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "友人の何気ない一言を深読みして、穿ちすぎた解釈をしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分達の本堂に在す仏を拝んでは、次の瞬間に冷静な美術批評家ぶって見、それを些か誇とする――私の穿ちすぎた感じ方かも知れないが、そこに何とも云えず佗びしいものがある。",
@@ -101,14 +126,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "こじつけた",
+        "無理のある",
+        "牽強付会な"
+      ],
+      "antonyms": [
+        "的確な",
+        "妥当な",
+        "素直な"
+      ],
+      "related": [
+        "穿ち過ぎ",
+        "深読み",
+        "こじつけ",
+        "拡大解釈"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.722483+00:00Z"
+      "updated_at": "2026-06-01T22:04:02.409411+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先月の売れ高は前月比で15パーセント増加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "店舗の売れ高を集計するのが営業報告の重要な業務だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "製品の売れ高が目標を上回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから酒屋の主人に帳簿を出さしてしらべて見ましたが酒の売れ高がこのごろ毎年減って行くやうであります。",
@@ -165,14 +190,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "売上",
+        "売上高",
+        "営業収益",
+        "出高"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "収支",
+        "決算",
+        "商い",
+        "売買"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.249346+00:00Z",
+      "updated_at": "2026-06-02T00:28:00.748572+00:00Z",
       "frequencies": {
         "aozora": 17
       }

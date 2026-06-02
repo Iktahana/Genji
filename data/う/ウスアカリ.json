@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "街灯の薄明かりの下で、彼は恋人からの手紙を何度も読み返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "洞窟の奥から漏れてくる薄明かりを頼りに、私たちは一歩ずつ進んでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "停電した室内で、ろうそくの薄明かりが壁に奇妙な影を映し出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　炬火の薄明かりの中へ地主の藤沢が事務所から出て来た。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "微光"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "光",
+        "暗さ",
+        "照明"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.966245+00:00Z",
+      "updated_at": "2026-06-01T22:10:56.924265+00:00Z",
       "frequencies": {
         "aozora": 26
       }

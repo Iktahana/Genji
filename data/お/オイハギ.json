@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜道で追いはぎに襲われ、財布を奪われてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の物語に出てくる追いはぎは、山賊のような恐ろしい存在だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この辺りは昔、追いはぎが出たと言われているから気をつけて」と忠告された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、太平の世の中でもまれには都大路に白昼追いはぎが出たり、少し貸してくれなどという相手も出現するから、そういう時にはこれがたちまちにして原始民時代の武器として甦生するという可能性も備えているのである。",
@@ -288,21 +313,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あんなに高い手数料をとるなんて、まさに追いはぎのようなやり方だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「そんな価格で売るなんて、追いはぎ同然じゃないか！」と客が怒鳴った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの店は品揃えはいいが、値段が追いはぎ並みに高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "強盗",
+        "盗賊",
+        "山賊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "犯罪",
+        "歴史",
+        "道路"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.086287+00:00Z",
+      "updated_at": "2026-06-02T01:11:01.675597+00:00Z",
       "frequencies": {
         "aozora": 11
       }

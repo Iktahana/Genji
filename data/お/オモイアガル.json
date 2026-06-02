@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数枚の絵が売れただけで、彼はすっかり思い上がってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "少し出世したからといって思い上がるな、と上司に諭された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "褒めるとすぐ思い上がるから、あいつは扱いが難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よくいう思い上がるということ、それはこんなことを指すのではないかと思えてならないくらいである。",
@@ -62,14 +87,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自惚れる",
+        "高慢になる",
+        "図に乗る"
+      ],
+      "antonyms": [
+        "謙遜する",
+        "卑下する"
+      ],
+      "related": [
+        "高慢",
+        "自負",
+        "思い上がり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.854138+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.455701+00:00Z",
       "frequencies": {
         "aozora": 114
       }

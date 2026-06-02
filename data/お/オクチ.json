@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は奥地の村で育った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "探検隊はアマゾンの奥地に向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その地域の奥地はまだ開発されていない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでいて何となく夫妻の間に味がない、お人良しでしかも根がしっかり者の良人の岳神が少しにやにやしながら、「働けそうな女なので、共稼ぎにはいいと思いましてね、この奥地の八溝山の岳神の妹だったのを貰って来ましたのです。",
@@ -280,14 +305,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内地",
+        "辺境",
+        "奥深い土地",
+        "僻地",
+        "奥野"
+      ],
+      "antonyms": [
+        "沿岸",
+        "都市",
+        "表地"
+      ],
+      "related": [
+        "辺境",
+        "未開地",
+        "内陸",
+        "山奥",
+        "奥地探検"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.571401+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.172707+00:00Z",
       "freq_rank": 25692,
       "frequencies": {
         "aozora": 284

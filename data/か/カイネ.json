@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "三年前の買値より三割も値上がりしたので、売り時かもしれないと思った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "買値を大幅に下回る売却価格では損失が出るだけだと、担当者に説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "競売に参加した業者は、買値の上限をあらかじめ社内で設定していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「うん、それは、併し、買値の話だよ。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "購入価格",
+        "原価"
+      ],
+      "antonyms": [
+        "売値"
+      ],
+      "related": [
+        "価格",
+        "売値",
+        "値段",
+        "相場",
+        "取引"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:22:45.609770+00:00Z",
       "freq_rank": 35002,
       "frequencies": {
         "aozora": 13

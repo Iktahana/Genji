@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼にはインターネット上の活動で使う裏名があるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "本名とは別に、親しい友人だけに教える裏名を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "多くの作家が、ペンネームという名の裏名を持って執筆している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うらなりのトマトのような少年工が、その樹の下で、回数をかぞえた。",
@@ -261,14 +286,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "通名",
+        "変名",
+        "偽名"
+      ],
+      "antonyms": [
+        "本名",
+        "実名"
+      ],
+      "related": [
+        "名前",
+        "秘密",
+        "芸名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.985220+00:00Z"
+      "updated_at": "2026-06-02T00:25:42.191526+00:00Z"
     }
   }
 ]

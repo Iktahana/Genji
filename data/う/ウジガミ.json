@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "正月には家族揃って、地元の氏神様へ初詣に行くのが恒例だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この神社の氏神は、古くからこの地域を災害から守ってくれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祭りでは、氏神を乗せた神輿が威勢よく町内を練り歩く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本の諸国にあるこの種の部落的タブーは、おそらく風俗習慣を異にした外国の移住民や帰化人やを、先祖の氏神にもつ者の子孫であろう。",
@@ -269,14 +294,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産土神",
+        "鎮守",
+        "守護神",
+        "地主神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神社",
+        "氏子",
+        "祭り",
+        "神道",
+        "土地神",
+        "鎮守の森"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.947584+00:00Z",
+      "updated_at": "2026-06-01T22:08:54.376308+00:00Z",
       "frequencies": {
         "aozora": 289
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "霧の中に、遠くの街灯の光がうすぼんやりと浮かび上がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔の記憶を辿ってみたが、その時の光景はうすぼんやりとしか思い出せない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "疲れのせいか、パソコンの画面の文字がうすぼんやりと霞んで見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　圧搾空気の鉄管にくゝりつけた電球が薄ぼんやりと漆黒の坑内を照している。",
@@ -290,21 +315,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「おい、うすぼんやり突っ立っていないで、早く手を貸してくれ！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大事な会議の最中だというのに、彼はうすぼんやりと窓の外を眺めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "何を考えているのか分からない、うすぼんやりとした表情で彼は返事をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぼんやり",
+        "漫然"
+      ],
+      "antonyms": [
+        "はっきり",
+        "鮮明"
+      ],
+      "related": [
+        "曖昧",
+        "態度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.030618+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.935997+00:00Z",
       "frequencies": {
         "aozora": 109
       }

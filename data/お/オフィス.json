@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝八時にオフィスに着くと、すでに何人かの同僚がパソコンに向かって作業していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引っ越し先のオフィスは日当たりがよく、午前中は明るい光の中で仕事ができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼はオフィスを飛び出して雨の中を走り、なんとか最終電車に間に合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "父の住居｜附きのオフィスは年々｜寂寥を増した。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "事務所",
+        "執務室"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "職場",
+        "会社",
+        "ビル"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.406828+00:00Z",
+      "updated_at": "2026-06-02T02:10:12.497203+00:00Z",
       "freq_rank": 3155,
       "frequencies": {
         "aozora": 210

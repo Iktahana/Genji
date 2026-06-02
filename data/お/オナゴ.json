@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の古老は「おなごは昔から農作業でも男に負けないくらいよう働いとった」と方言で語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その昔話には、おなごが一人で険しい山を越えて薬草を届けるという場面が出てくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「昔はおなごがこの仕事に就くことなんて、ほとんどなかったんやで」と祖母が教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ああふるさとの永日に少女子どものなつかしさたとしへもなきなつかしさやさしく指を眼にあててももいろの秋の夕日をすかしみるわが身の春は土にうもれて空しく草木の根をひたせる涙。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "女性",
+        "女",
+        "婦人",
+        "娘"
+      ],
+      "antonyms": [
+        "男",
+        "男子",
+        "男性"
+      ],
+      "related": [
+        "女性",
+        "婦女子",
+        "姫",
+        "乙女",
+        "女人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.021185+00:00Z",
+      "updated_at": "2026-06-02T01:57:21.680948+00:00Z",
       "freq_rank": 2370,
       "frequencies": {
         "aozora": 4446

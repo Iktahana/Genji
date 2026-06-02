@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "万葉の歌人は、愛しい人を待つ庭に美しい橘を植うと詠った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古の農夫たちが、豊かな実りを願って苗を植う姿が目に浮かぶようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "寺の境内に、先代の住職が慈しみを持って植うといわれる古木が立っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "○十四日　檜扇の花を植う。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "植える"
+      ],
+      "antonyms": [
+        "抜く"
+      ],
+      "related": [
+        "農業",
+        "園芸",
+        "種子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.457224+00:00Z"
+      "updated_at": "2026-06-01T21:55:17.439103+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "狂言の舞台で、ユーモラスな表情の嘯の面をつけた役者が登場した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "博物館の展示室で、木彫りの嘯の面を興味深く観察する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嘯の面を被った演者が、特徴的な口の形でコミカルな仕草を演じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それに猶、諸君も嫌ひではない冗舌は、此処に十分に按配されてをり、直き直きに抽象語を以てしなければ、かの「意味がない」と云つて嘯く、平盤な心情の人達のためには、十分哲学的学術的な言葉も此処には見出されるのである。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "空吹く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "嘯く",
+        "嘘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.105859+00:00Z",
+      "updated_at": "2026-06-01T22:12:49.598575+00:00Z",
       "frequencies": {
         "aozora": 68
       }

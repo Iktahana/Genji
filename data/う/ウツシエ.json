@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の絵師が旅先で描いた写し絵が、当時の港の風景を今に伝えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "写し絵師が市場の賑わいをそのまま紙に描き取っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は写し絵の技法で、祭りの様子を細かく書き留めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕が之迄に見た写し絵は大抵果物とか花鳥とかといふものばかりで、そんなのは全く珍らしかつた。",
@@ -272,7 +297,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治の見世物小屋では、写し絵を使った幻灯ショーが人々を楽しませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子供たちは暗闇に映し出される写し絵の動きに歓声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は子供の頃に見た写し絵の鮮やかさを、老いてなお語り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -290,21 +340,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この小説は当時の社会の写し絵として、後世の研究者に繰り返し引用された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の絵画は戦時下の人々の苦しみの写し絵だと評論家に評された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "廃墟となった工場の写真が、産業衰退の写し絵として展覧会に展示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "影絵",
+        "幻灯",
+        "スケッチ",
+        "写生",
+        "投影"
+      ],
+      "antonyms": [
+        "実物"
+      ],
+      "related": [
+        "映像",
+        "投影機",
+        "江戸時代",
+        "芝居",
+        "魔法のランプ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.482463+00:00Z",
+      "updated_at": "2026-06-01T22:57:02.934642+00:00Z",
       "frequencies": {
         "aozora": 27
       }

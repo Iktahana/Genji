@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王の眠りを守るために、夜通しでおとぎを務める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "姫のおとぎをするために、物語を語り始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔は身分の高い方のおとぎをする役職があったそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かうしたじめ／＼した池沼のほとりの雰囲気はいつも自分の頭の何処かに幼ない頃から巣くつてゐる色々な御伽噺中の妖精を思出すやうである。",
@@ -288,21 +313,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供のころ、寝る前によくおとぎを読んでもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "おとぎの教訓は、大人になっても心に残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この本は、有名なおとぎを現代風にアレンジした作品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "昔話",
+        "童話",
+        "物語"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お伽草子",
+        "昔語り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.715166+00:00Z",
+      "updated_at": "2026-06-02T01:49:23.405926+00:00Z",
       "frequencies": {
         "aozora": 34
       }

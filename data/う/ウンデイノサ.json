@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新人と経験者の仕事の質には雲泥の差があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "去年と今年の収入は雲泥の差をつけられました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "同じ年代でも経験による実力は雲泥の差が出ます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妻君の話の役に立つた細つそりした女優とは、それは妻君の顔と、即ち雲泥の差を有つてゐたのである。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天地の差"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "相違",
+        "差",
+        "格差"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.481389+00:00Z",
+      "updated_at": "2026-06-02T00:29:53.932968+00:00Z",
       "freq_rank": 31493
     }
   }

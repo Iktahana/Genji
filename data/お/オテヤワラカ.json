@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日の試験は、先生、どうぞお手柔らかにお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "厳しい指導の中にも、彼なりのお手柔らかさがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お手柔らかに頼むと言ったのに、初日から徹底的に絞られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「全くだ」とＡも思ふ、「しかしま、お手柔らかに」と、表情以て友達甲斐を発揮する。",
@@ -165,14 +190,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "優しい",
+        "柔らか",
+        "温和",
+        "穏やか",
+        "丁寧"
+      ],
+      "antonyms": [
+        "厳しい",
+        "粗暴",
+        "乱暴"
+      ],
+      "related": [
+        "親切",
+        "思いやり",
+        "礼儀",
+        "配慮",
+        "柔軟"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.654169+00:00Z"
+      "updated_at": "2026-06-02T01:46:52.060013+00:00Z"
     }
   }
 ]

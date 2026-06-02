@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母の老い先を考えると不安でいっぱいだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "老い先をどう過ごすか人生設計が大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父は老い先の生活を故郷で過ごしたいと願っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "否、君のみにあらず、われは一目見しかの旗亭の娘の君によく肖たると、老い先なき水車場の翁とまた牛乳屋の童と問わず、みなわれに永久の別れあるものぞとは思い忍ぶあたわず。",
@@ -271,14 +296,19 @@
       "homophones": [
         "生い先"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "余生"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "高齢",
+        "死"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.010501+00:00Z",
+      "updated_at": "2026-06-02T01:08:22.213867+00:00Z",
       "frequencies": {
         "aozora": 34
       }
@@ -314,7 +344,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "息子の生い先にはいろいろな可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "生い先の不安を感じながら前に進むしかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "娘の生い先をサポートするのが親の役目だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妾は児の重ね重ね竜に縁あるを奇として、それに因める名をば命けつ、生い先の幸多かれと祷れるなりき。",
@@ -380,9 +435,15 @@
       "homophones": [
         "老い先"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "将来",
+        "先行き"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "展望",
+        "未来"
+      ]
     },
     "meta": {
       "version": "1.0.0",

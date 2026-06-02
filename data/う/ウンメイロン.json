@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代ギリシャの哲学者たちは運命論について議論を重ねていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "宗教的な運命論では、すべての出来事は神によって定められているとされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は運命論を信じず、自分の人生は自分の選択で決まると主張していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と杯を彼に返し「僕は運命論者ではありません。",
@@ -269,14 +294,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "決定論"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "哲学",
+        "思想"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.565647+00:00Z",
+      "updated_at": "2026-06-02T00:30:01.996333+00:00Z",
       "frequencies": {
         "aozora": 39
       }

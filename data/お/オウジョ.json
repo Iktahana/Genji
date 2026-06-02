@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王女は人々の苦しみを知るために、隠れて城を抜け出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "隣国の王女との政略結婚が、戦争を回避するための手段だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "童話の中で王女は、最後には自分の運命を切り開く強さを持っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大王はお妃と王子王女とただ四人で山へ行かれた。",
@@ -279,14 +304,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "皇女"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "王族",
+        "姫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.314438+00:00Z",
+      "updated_at": "2026-06-02T01:13:36.869277+00:00Z",
       "freq_rank": 16387,
       "frequencies": {
         "aozora": 983

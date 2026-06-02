@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ファクタリング会社に売掛債権を譲渡することで、資金調達を早めることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "取引先の信用不安が高まったため、保有する売掛債権に対して貸倒引当金を積み増した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "弁護士は「売掛債権は会社の財産なので、倒産手続きでは最優先で保全する必要がある」と述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "売掛金",
+        "未収債権"
+      ],
+      "antonyms": [
+        "買掛債務"
+      ],
+      "related": [
+        "債権",
+        "担保"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.093757+00:00Z"
+      "updated_at": "2026-06-02T00:26:27.653671+00:00Z"
     }
   }
 ]

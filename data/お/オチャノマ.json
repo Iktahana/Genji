@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家族がお茶の間に集まってテレビを見ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お茶の間のテーブルには今朝の新聞が置いてある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "冬はお茶の間で家族一緒に寛ぐ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どこを探しても見当らないので、お父さんは近所までマッチを買いに行かれた留守に、武雄さんが帰って来て、「御飯御飯」　と怒鳴りながらお茶の間へ座り込みました。",
@@ -213,14 +238,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "リビング",
+        "座敷",
+        "居間",
+        "家族室"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "家",
+        "建築",
+        "家族",
+        "くつろぎ",
+        "空間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.493804+00:00Z"
+      "updated_at": "2026-06-02T01:41:08.848280+00:00Z"
     }
   }
 ]

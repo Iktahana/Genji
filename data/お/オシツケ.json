@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "上司からの唐突な意見の押し付けに、部署の全員が困惑している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "自分の価値観を他人に押し付けをするのは、もうやめにしたほうがいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "それは単なる善意の押し付けであり、相手にとっては迷惑なだけだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この混合した粉を硝子板の表面に一様に篩いかけて後押し付けると三色の粉を不同なく板の上に密布し、顕微鏡で見れば全体がモザイックのようになっている。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "強制",
+        "強要"
+      ],
+      "antonyms": [
+        "自由",
+        "任意"
+      ],
+      "related": [
+        "強引",
+        "一方的",
+        "命令",
+        "押しつけがましい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.975183+00:00Z",
+      "updated_at": "2026-06-02T01:31:20.003033+00:00Z",
       "freq_rank": 10584,
       "frequencies": {
         "aozora": 6

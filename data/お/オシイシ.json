@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漬物を美味しく漬けるために、重い圧し石を上に乗せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭の端に転がっていた大きな石を、圧し石として使うことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "樽の中の野菜が浸るように、念入りに圧し石を配置する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女将が階下へ下りかける、階子口ですれ違いに、「ゲンコツぁん、お居やすか」「まだ寝んねおしいしまへんのん」　桃龍と里栄が入って来た。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "重石",
+        "漬物石"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "圧力",
+        "固定",
+        "漬物",
+        "重み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.898843+00:00Z"
+      "updated_at": "2026-06-02T01:27:25.912888+00:00Z"
     }
   }
 ]

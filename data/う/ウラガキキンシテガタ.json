@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "銀行から裏書禁止手形として振り出されたため、譲渡ができない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "裏書禁止手形を受け取ってしまったので、期日まで待つしかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この重要な取引には、裏書禁止手形が使われることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "指図禁止手形"
+      ],
+      "antonyms": [
+        "譲渡可能手形"
+      ],
+      "related": [
+        "手形",
+        "法律",
+        "金融",
+        "決済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.921563+00:00Z"
+      "updated_at": "2026-06-02T00:22:59.905498+00:00Z"
     }
   }
 ]

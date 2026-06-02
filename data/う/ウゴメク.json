@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "腐った木の中で虫が蠢いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜の路上で怪しい人物たちが蠢いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "群衆の中で人々が蠢いて移動していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　幹太郎は、狂暴なものが、一時に、胸のなかで蠢くのを感じた。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "蠕動する"
+      ],
+      "antonyms": [
+        "静止する"
+      ],
+      "related": [
+        "虫",
+        "蠢かす",
+        "不気味"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.859403+00:00Z",
+      "updated_at": "2026-06-01T22:07:02.098991+00:00Z",
       "frequencies": {
         "aozora": 366
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場からの汚水が川に流れ込み、魚が死んでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "街中の汚水が地下を通って処理場へ運ばれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "汚水が溢れ出さないように、定期的な点検が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水の清浄法　近頃汚水から清水を得るのに電気分解を用いる法が出来た。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "下水",
+        "排水",
+        "廃水"
+      ],
+      "antonyms": [
+        "清水",
+        "綺麗な水"
+      ],
+      "related": [
+        "汚濁",
+        "環境",
+        "水"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.159678+00:00Z",
+      "updated_at": "2026-06-02T01:33:49.192253+00:00Z",
       "freq_rank": 28755,
       "frequencies": {
         "aozora": 128

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は試験の結果を運否天賦と受け入れ、次に向けて頑張った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "すべてを運否天賦で済ませては、成長することはできない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その芸術家は運否天賦を信じながらも、毎日修行を欠かさなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「いや、銀行などで事をきめるのは、運否天賦というものですからね。",
@@ -87,14 +112,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "一か八か",
+        "運任せ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運",
+        "賭け",
+        "確率"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.550350+00:00Z"
+      "updated_at": "2026-06-02T00:30:01.989490+00:00Z"
     }
   }
 ]

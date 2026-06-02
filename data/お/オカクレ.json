@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その著名な作家のお隠れは先月のことだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼のお隠れは関係者を大きく動揺させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長年の病気の末、お隠れになられたそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」お丹真顔になりて、「だがね、皆で頂戴いたしますというと黙ってどこかへお隠れなすったから可いのだろうと思いまして……」　巡査はじれ込み、「一体全体ここをどこだと思っちょるんだ。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "死去",
+        "他界",
+        "逝去"
+      ],
+      "antonyms": [
+        "誕生"
+      ],
+      "related": [
+        "崩御",
+        "亡くなる",
+        "忌中"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.211174+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.173389+00:00Z"
     }
   }
 ]

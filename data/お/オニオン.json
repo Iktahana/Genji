@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "料理にはオニオンを細かく切ることが重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オニオンの甘みを引き出すため、ゆっくり炒める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "サラダに生のオニオンを加えるとシャキシャキの食感になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのチューブを高志が黙ってわたし、慶一はトマトとオニオンのスライスをのせ、ケチャップをかけた。",
@@ -197,14 +222,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "玉ねぎ",
+        "タマネギ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "野菜",
+        "食べ物",
+        "料理",
+        "香味",
+        "食材"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.079641+00:00Z",
+      "updated_at": "2026-06-02T01:59:16.921910+00:00Z",
       "freq_rank": 33747,
       "frequencies": {
         "aozora": 20

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都のお土産に、伝統的な押し寿司を買ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お祭りには、家族みんなで押し寿司を食べる習慣がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "職人が作った押し寿司は、型崩れせずに美しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "天野祐吉の発明の場合はいっそう偶然の機会からなのであって、彼が早昼の食事をするために銀座の丸花屋という大阪寿司屋に飛びこんで鳥貝の押し寿司をほほばりながら、ちょいと店のガラス棚にならんだ蒲鉾の一列を見たときにあたかも稲妻が鏡に当って反射するように、この発明のアイデアが浮かびあがったのだ。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "箱寿司"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寿司",
+        "なれずし",
+        "棒寿司",
+        "ちらし寿司",
+        "木型"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.956315+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.996790+00:00Z",
       "frequencies": {
         "aozora": 1
       }

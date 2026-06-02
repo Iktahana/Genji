@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝食の御御御付は特に美味しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この御御御付には豆腐とわかめが入っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎朝欠かさず御御御付を飲む習慣がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と落ちついて言ひ、昨夜はどうしましたとか何とかいふ事はいつさい問はず、「おみおつけが冷たくなりまして、」と低くつぶやいて、お爺さんの朝食の支度をする。",
@@ -261,14 +286,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "みそ汁",
+        "汁物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本食",
+        "味噌",
+        "食事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.736066+00:00Z"
+      "updated_at": "2026-06-02T02:20:35.371144+00:00Z"
     }
   }
 ]

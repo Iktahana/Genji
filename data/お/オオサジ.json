@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レシピに「醤油大さじ2」とあったので、計量スプーンで丁寧に量ってから加えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「砂糖は大さじ1杯で十分よ、入れすぎると甘くなりすぎるから」と母が教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大さじで味噌を量りながら、今日の味噌汁には少し多めに入れようと決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "慎み深く大さじを持ちあつかいながら、葉子は自分に何かきわ立った印象を与えようとして、いろいろなまねを競い合っているような人々のさまを心の中で笑っていた。",
@@ -53,14 +78,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大匙"
+      ],
+      "antonyms": [
+        "小さじ"
+      ],
+      "related": [
+        "計量",
+        "調理",
+        "レシピ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.816315+00:00Z",
+      "updated_at": "2026-06-02T01:15:50.024879+00:00Z",
       "freq_rank": 23580,
       "frequencies": {
         "aozora": 1

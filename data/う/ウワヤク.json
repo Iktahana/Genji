@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飲み会で上役の隣に座ることになり、終始緊張しっぱなしだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しい上役は現場の意見を尊重してくれる人で、仕事がやりやすくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "上役の機嫌を損ねないよう、報告書の言葉遣いには細心の注意を払った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上役と言うものは下役の苦労を知らんのが通例じゃが……」「……と言うのが……何でもその日田の御金奉行の野西｜春行という若侍が、あの騒動の起って以来、毎日、御城内の大目付、川村｜様のお役宅に押しかけて来て、この騒動がいつまでも片付かねば蔵元屋の信用にかかわる。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上司",
+        "上官",
+        "目上"
+      ],
+      "antonyms": [
+        "下役",
+        "部下"
+      ],
+      "related": [
+        "組織",
+        "指揮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.360737+00:00Z",
+      "updated_at": "2026-06-02T00:28:25.536418+00:00Z",
       "frequencies": {
         "aozora": 443
       }

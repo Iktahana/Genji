@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金属板に磁石を近づけると、渦電流が発生してブレーキがかかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "変圧器の鉄芯は、渦電流によるエネルギー損失を抑えるために薄い板を重ねて作られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "IHクッキングヒーターは、鍋の底に渦電流を流して加熱する仕組みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "フーコー電流"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "電磁気学",
+        "電気",
+        "損失"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.063792+00:00Z"
+      "updated_at": "2026-06-01T22:11:07.887344+00:00Z"
     }
   }
 ]

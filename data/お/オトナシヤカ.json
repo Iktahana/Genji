@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その庭園は大人しやかな雰囲気を漂わせていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女のピアノの演奏は大人しやかで品がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "寺の廊下は大人しやかな静けさに包まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「道、」「は、」と、答をし、大人しやかな小間使は、今座に直った勇美子と対向に、紅革の蒲団を直して、「千破矢様の若様、さあ、どうぞ。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "穏やか",
+        "大人しい",
+        "しとやか"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "静か",
+        "従順",
+        "品がある"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.879879+00:00Z",
+      "updated_at": "2026-06-02T02:00:40.786143+00:00Z",
       "frequencies": {
         "aozora": 5
       }

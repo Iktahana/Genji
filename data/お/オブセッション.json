@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のオブセッションは友人たちを心配させていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオブセッションがどこまで深刻なのか専門家に診てもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女はそのオブセッションから脱出するよう彼を支援した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戦争がはじまると、所在の悪因縁を絶ち切って、なにもかにもさらりとやめ、田舎へひっこんで鬚剃の石鹸溶しでコオフィを飲むような実誼な暮しをし、この世の欲という欲はみななくなったつもりでいたが、肉親のオブセッション（執着）は手のつけられないもので、あれをひと目見たいと思うと、もう矢も楯もない。",
@@ -53,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "強迫観念",
+        "執着",
+        "固執",
+        "妄執"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "強迫症",
+        "執念",
+        "こだわり",
+        "強迫性障害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.527790+00:00Z",
+      "updated_at": "2026-06-02T02:15:23.744971+00:00Z",
       "frequencies": {
         "aozora": 2
       }

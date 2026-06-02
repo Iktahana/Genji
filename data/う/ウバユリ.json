@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山野に自生するウバユリは、夏に白い花を咲かせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウバユリの根は、昔は食料として採集されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "林の奥深くでウバユリの群落を発見した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "姥百合、大虎杖、水芭蕉、夜衾草、矢車草等の巨大なるものが見られたのも、このあたりからであったが、最早原始の面影を失ってしまった。",
@@ -79,14 +104,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "百合"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "花",
+        "植物",
+        "球根"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.660692+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.503879+00:00Z",
       "frequencies": {
         "aozora": 2
       }

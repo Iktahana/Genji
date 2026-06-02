@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その人の大髭は彼のトレードマークだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大髭を生やした紳士が駅を歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "映画の中で大髭の悪役が登場した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まぎれもなく、あの赤ら顔、あの大髭、あの鷲鼻、まさにケレンコである。",
@@ -61,14 +86,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "長髭",
+        "蓄髭"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "髭",
+        "口髭",
+        "顎髭"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.028137+00:00Z",
+      "updated_at": "2026-06-02T01:17:43.839810+00:00Z",
       "frequencies": {
         "aozora": 3
       }

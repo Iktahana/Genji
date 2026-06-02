@@ -29,21 +29,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母は漬物桶の上に、年季の入った重し石を二つ置いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "重し石が重すぎて、桶の縁にひびが入ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "川原で拾ってきた丸い石を、重し石として重宝している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "漬物石"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "漬物",
+        "重し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.999731+00:00Z",
+      "updated_at": "2026-06-02T02:21:24.809826+00:00Z",
       "frequencies": {
         "aozora": 1
       }

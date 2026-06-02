@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人は長い時間をかけてお互いを思い合うようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "戦地に赴く彼と残された彼女は、離れていても思い合っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの二人が思い合っているのは、周りの誰の目にも明らかだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして源兵衛は、あの利発な美しいおくみ坊と兼ね兼ね深く思い合うた仲。",
@@ -94,14 +119,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "愛し合う",
+        "慈しみ合う",
+        "気遣い合う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "信頼",
+        "絆",
+        "相思相愛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.851561+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.454127+00:00Z",
       "frequencies": {
         "aozora": 53
       }

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "花崗岩から採取した雲母を顕微鏡で観察すると、薄く透光する結晶層が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雲母は化粧品や絶縁材として産業的に重要な鉱物である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔、子どもたちは雲母の薄皮を剥がして、光に透かしてきらきら遊ぶのが好きだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "校庭は幾分赤味の勝つた砂の色で、閉ざされた教室々々の窓の硝子は雲母のやうに照れ返つてゐる。",
@@ -280,14 +305,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "マイカ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉱物",
+        "絶縁体"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.565026+00:00Z",
+      "updated_at": "2026-06-02T00:30:01.997579+00:00Z",
       "frequencies": {
         "aozora": 168
       }

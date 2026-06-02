@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "脳炎の合併症で患者は運動失調を起こしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "小脳梗塞は重度の運動失調をもたらすことがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動失調により、患者は歩行が困難になり杖が必要になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それともあまりにも現代的な作家の猥褻さや性的神経症が脳に巧みに入り込んで運動失調や麻痺を起こしたら。",
@@ -46,14 +71,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運動失調症"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神経障害",
+        "脳疾患",
+        "協調運動障害",
+        "医学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.501659+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.537089+00:00Z"
     }
   }
 ]

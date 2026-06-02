@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "無実なのに盗難の疑いをかけられてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その時期に彼女は離職の疑いをかけられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "多くの国民が当局の判断に疑いをかけられた容疑者に同情した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さりとておとよにあられもない疑いをかけられるも苦しいから、「おとよさん決して疑ってくれな、おはまには神かけて罪はないです。",
@@ -110,14 +135,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "疑われる",
+        "容疑をかけられる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "犯罪",
+        "疑惑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.137633+00:00Z"
+      "updated_at": "2026-06-01T22:13:03.863065+00:00Z"
     }
   }
 ]

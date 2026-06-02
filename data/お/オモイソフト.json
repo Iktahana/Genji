@@ -30,21 +30,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このゲームはとても重いソフトだから、高いスペックが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "重いソフトをインストールしたから、パソコンの動きが遅くなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クラウド化して重いソフトをインストールしなくて済むようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重いアプリ",
+        "メモリ食い"
+      ],
+      "antonyms": [
+        "軽いソフト",
+        "軽量アプリケーション"
+      ],
+      "related": [
+        "CPU",
+        "メモリ",
+        "リソース"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.901987+00:00Z"
+      "updated_at": "2026-06-02T02:23:08.950755+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こちらのデザインがお気に召すか分かりませんが、いかがでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "王様がお気に召すような美しい宝石を献上した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "もしこのワインがお気に召せば、もう一本お持ちしましょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕はすぐに返事を書き、正成に菊水の旗を送りたいが、しかし、君には、菊水の旗よりも、菊川の旗がお気に召すように思われる。",
@@ -278,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "気に入る",
+        "好む",
+        "愛好する",
+        "満足する"
+      ],
+      "antonyms": [
+        "気に食わない",
+        "嫌う",
+        "不服"
+      ],
+      "related": [
+        "好み",
+        "選択",
+        "尊敬語",
+        "嗜好"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.462966+00:00Z"
+      "updated_at": "2026-06-02T01:22:15.888299+00:00Z"
     }
   }
 ]

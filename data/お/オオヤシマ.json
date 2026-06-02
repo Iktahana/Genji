@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の人々は大八洲と呼んでこの国を敬った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大八洲の四つの島が遠く見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大八洲は世界の舞台で重要な役割を果たしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は遠い神代のわが大八洲の国々の山や森が、こういう神秘的なビーイングによって棲まわれていたと想像してみた。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "日本",
+        "本州"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "古事記",
+        "神話",
+        "島国"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.144335+00:00Z"
+      "updated_at": "2026-06-02T01:18:45.382567+00:00Z"
     }
   }
 ]

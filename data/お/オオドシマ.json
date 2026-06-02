@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歌舞伎の演目には気の強い大年増が登場する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は大年増だが、年相応の魅力があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大年増の女主人が旅館の経営に手腕を振るっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかもダミアは今は年齢からいっても大年増だ、牛のような大年増だ。",
@@ -245,14 +270,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "年増"
+      ],
+      "antonyms": [
+        "若作り",
+        "少女"
+      ],
+      "related": [
+        "年齢",
+        "女性",
+        "表現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.961695+00:00Z"
+      "updated_at": "2026-06-02T01:17:06.296680+00:00Z"
     }
   }
 ]

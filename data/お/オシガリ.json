@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "勝手に人の本を持っていくなんて、押し借りもいいところだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "押し借りされたままで、結局お気に入りの漫画が戻ってこなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "強引に押し借りをするような真似はやめてほしいと伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「世にはめずらしい押し借りもあるものだ。",
@@ -134,14 +159,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無理借り"
+      ],
+      "antonyms": [
+        "押し貸し"
+      ],
+      "related": [
+        "借用",
+        "強要",
+        "横柄",
+        "無心",
+        "拝借"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.925863+00:00Z",
+      "updated_at": "2026-06-02T01:28:07.312124+00:00Z",
       "frequencies": {
         "aozora": 17
       }

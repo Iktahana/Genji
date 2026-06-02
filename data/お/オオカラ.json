@@ -32,21 +32,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その店のカレーは大辛で、水を三杯飲まずにはいられなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "辛いのが好きなら、メニューに「大辛」と書いてあるラーメンをおすすめします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大辛のチリソースは瓶詰めで売られており、料理の味付けに使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "激辛"
+      ],
+      "antonyms": [
+        "甘口"
+      ],
+      "related": [
+        "辛い",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.650463+00:00Z"
+      "updated_at": "2026-06-02T01:14:26.509820+00:00Z"
     }
   }
 ]

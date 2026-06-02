@@ -35,21 +35,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "車が突然動かなくなり、修理工場で見てもらったところ、オルタネーターの故障だと判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "バッテリーを交換したばかりなのにすぐに上がるため、オルタネーターが発電していないのではないかと疑っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "長年乗り続けた愛車から異音がするので、オルタネーターのベアリングを確認することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "発電機",
+        "交流発電機"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "電気",
+        "自動車",
+        "充電"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:26:23.156493+00:00Z"
     }
   }
 ]

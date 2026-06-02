@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "派閥間の内輪もめが続き、プロジェクトの進行が三か月も遅れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "選挙前に候補者選びをめぐって党内で内輪もめが起きた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "内輪もめをしている場合じゃない、締め切りは明日だぞ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "併し今度の内閣も、最早そろ／＼評判が悪くなつて来たが、あれでは、内輪もめがして到底永くは続くまいよ。",
@@ -119,14 +144,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内紛",
+        "内輪喧嘩",
+        "内訌"
+      ],
+      "antonyms": [
+        "一致団結",
+        "結束"
+      ],
+      "related": [
+        "仲間割れ",
+        "対立",
+        "組織",
+        "争い",
+        "派閥"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.423070+00:00Z",
+      "updated_at": "2026-06-01T22:50:43.988841+00:00Z",
       "frequencies": {
         "aozora": 12
       }

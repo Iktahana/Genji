@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏休みには、田舎の祖父母の家で思う存分駆け回りたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "食べ放題の店で、大好物の寿司を思う存分堪能した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "練習の成果を出し切り、思う存分戦えたので悔いはない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "食べる方は引受けるから、君、思う存分にやってみちゃどうだね」　こうして、柚木は蒔田の店から、小そのが持っている家作の一つに移った。",
@@ -278,14 +303,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "心ゆくまで",
+        "存分",
+        "十分"
+      ],
+      "antonyms": [
+        "不十分"
+      ],
+      "related": [
+        "満足",
+        "徹底"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.963692+00:00Z",
+      "updated_at": "2026-06-02T02:21:08.896941+00:00Z",
       "freq_rank": 20586
     }
   }

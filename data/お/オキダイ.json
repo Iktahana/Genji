@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しく買ったプリンターのために、しっかりした置き台を探している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "観葉植物を飾るために、おしゃれな木製の置き台を購入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この置き台はキャスター付きで、移動が楽にできる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "斎めの置き台の上に載せられてあるのを見て、山ではこうした植物の新鮮な色を見ることで時の移り変わりのわかるのがおもしろいと女房たちが言っているのを、姫君たちは何がおもしろいのかわからぬと聞いていた。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スタンド",
+        "台"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "置き棚",
+        "家具",
+        "台座"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.398405+00:00Z",
+      "updated_at": "2026-06-02T01:21:42.646969+00:00Z",
       "frequencies": {
         "aozora": 2
       }

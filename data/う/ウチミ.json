@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ドアの角に膝をぶつけ、青あざができるほどの打ち身になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "スキーで派手に転倒したが、幸いにも全身の軽い打ち身で済んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "打ち身がズキズキと痛むので、氷嚢を使って患部を冷やした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何分にも足の痛みどころであるから、それを悪くこじらせて打ち身のようになっても困るという心配から、そのころ浅草の馬道に有名な接骨の医者があるというので、赤坂から馬道まで駕籠に乗って毎日通うことにした。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "あざ",
+        "内出血"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "怪我",
+        "身体",
+        "痛み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.337498+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.073059+00:00Z",
       "frequencies": {
         "aozora": 22
       }

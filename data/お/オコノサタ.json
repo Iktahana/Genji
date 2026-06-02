@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こんな無謀な計画を立てるなんて、まさに烏滸の沙汰だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "失敗が見えているのに突っ込むのは、烏滸の沙汰としか言いようがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの時の行動を振り返ると、本当に烏滸の沙汰だったと冷や汗が出る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "尤も、私の詞が氏に影響するなどと考へるのは、或は少々の烏滸の沙汰かも知れないが……。",
@@ -77,14 +102,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "愚劣",
+        "ばかげたこと",
+        "不知恵"
+      ],
+      "antonyms": [
+        "英知",
+        "賢明"
+      ],
+      "related": [
+        "愚か",
+        "馬鹿",
+        "無分別"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.776726+00:00Z"
+      "updated_at": "2026-06-02T01:26:35.572353+00:00Z"
     }
   }
 ]

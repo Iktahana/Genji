@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "皆さまからのお志は、ありがたく震災復興基金へ寄付させていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お志を無駄にしないよう、大切に使わせていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先日はご丁寧にお志をいただき、ありがとうございました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……どんな仕合せになりましょうとも、ぬいもあなたのお志はうれしく存じますでしょう」　小母さんの声は意外にも曇って震えていた。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "親切",
+        "好意",
+        "厚意",
+        "善意",
+        "情け"
+      ],
+      "antonyms": [
+        "悪意",
+        "冷淡"
+      ],
+      "related": [
+        "思いやり",
+        "恩",
+        "心遣い",
+        "贈り物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.735487+00:00Z"
+      "updated_at": "2026-06-02T01:26:05.349276+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨の日でも屋内競技なら練習を続けられるのが助かる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バドミントンや卓球は代表的な屋内競技として知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "体育館では今日も屋内競技の地区大会が開かれ、観客席が埋まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "青や赤の照明もながれず、それは屋内競技場に似ていて天井に鉄骨が組まれ、ステージのまるく張り出したフロアを見下ろして、三方にせりあがる階段教室のような席があった。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "室内競技"
+      ],
+      "antonyms": [
+        "屋外競技",
+        "野外競技"
+      ],
+      "related": [
+        "スポーツ",
+        "体育館",
+        "競技場",
+        "武道",
+        "レクリエーション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.580130+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.501218+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マラソンはオリンピック競技の中でも最もドラマチックな展開が生まれる種目とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スケートボードが新たにオリンピック競技に採用され、若い世代の間で大きな注目を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オリンピック競技に出場するためには、各国際競技連盟が定める参加標準記録を満たす必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "オリンピック競技では馬や羚羊や魚の妙技に肉薄しようという世界中の人間の努力の成果が展開されているのであろう。",
@@ -85,14 +110,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オリンピック種目"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オリンピック",
+        "競技",
+        "スポーツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:25:55.328483+00:00Z"
     }
   }
 ]

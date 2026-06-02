@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この事件はA級の機密事項として扱われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はA級ライセンスを持つプロのドライバーだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "A級の品質を誇るこの製品は、多くの顧客に選ばれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "暮から東京裁判はＡ級被告東條英機の公判に入った。",
@@ -214,14 +239,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "一級",
+        "特級",
+        "トップクラス"
+      ],
+      "antonyms": [
+        "B級",
+        "二級",
+        "三級"
+      ],
+      "related": [
+        "等級",
+        "ランク",
+        "優良"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.869935+00:00Z"
+      "updated_at": "2026-06-02T01:07:04.047184+00:00Z"
     }
   }
 ]

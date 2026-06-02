@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "忙しいと「どうせ無理だ」と思いがちだが、そこで踏ん張るのが大事だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "失敗すると自分だけが悪いと思いがちだが、状況のせいもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年が離れていると話が合わないと思いがちだが、意外と共通点がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いくたびか一杯くわされて苦汁をなめながら、なおかつ小説家というものは実際の話しか書かぬ人間だと、思いがちなのである。",
@@ -245,14 +270,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "考えがち",
+        "しがち"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "傾向",
+        "性質"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.878582+00:00Z"
+      "updated_at": "2026-06-02T02:20:49.466481+00:00Z"
     }
   }
 ]

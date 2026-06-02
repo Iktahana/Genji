@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "伝統工芸である大津絵の力強いタッチが、今の時代でも人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "旅館の部屋に飾られた大津絵を見て、日本の情緒を感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祖母がコレクションしていた大津絵を、大事に引き継いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当時母上の戯れに物せし大津絵ぶしあり。",
@@ -247,12 +272,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "浮世絵",
+        "民俗画",
+        "滋賀県"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.906619+00:00Z",
+      "updated_at": "2026-06-02T01:16:49.410164+00:00Z",
       "frequencies": {
         "aozora": 135
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お医者さんに風邪だと診断されて薬をもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもはお医者さんが好きで治療も素直に受ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "定期的にお医者さんにかかるのは費用がかかるが大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お医者さんは町に着くと直ぐ、「ここの人はどうして一日を過ごしていますか」　と尋ねました。",
@@ -261,14 +286,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "医師",
+        "医者",
+        "先生"
+      ],
+      "antonyms": [
+        "患者"
+      ],
+      "related": [
+        "病院",
+        "診察",
+        "医療",
+        "健康"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.013964+00:00Z"
+      "updated_at": "2026-06-02T01:08:41.172527+00:00Z"
     }
   }
 ]

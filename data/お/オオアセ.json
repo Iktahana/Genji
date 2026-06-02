@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "真夏の炎天下で草むしりをしたら、Tシャツが大汗でびっしょりになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プレゼンテーションが始まる直前、緊張のあまり手のひらに大汗をかいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "運動不足の私が少し走っただけで、顔から大汗が噴き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際に大汗をかいて長い時間を費やした後に、やっと無理やりに詰め込む事が出来たのであった。",
@@ -261,14 +286,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "汗"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "疲労",
+        "運動",
+        "緊張"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.558985+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.335508+00:00Z",
       "frequencies": {
         "aozora": 142
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "農村では大年神を祀った社が街道沿いにある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大年神は豊作をもたらす神として信仰されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎年春、農民たちは大年神に参拝して豊作を祈った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは須佐之男命のお子の大年神というお方でした。",
@@ -61,14 +86,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "歳神様",
+        "年神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神道",
+        "農業",
+        "穀物",
+        "豊穣"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.953018+00:00Z"
+      "updated_at": "2026-06-02T01:17:06.291977+00:00Z"
     }
   }
 ]

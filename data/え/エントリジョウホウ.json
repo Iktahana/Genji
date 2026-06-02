@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お問い合わせの際は、お客様のエントリ情報を正確にご記入ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "エントリ情報に不備があると、申し込みが受理されない場合があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "データベースから、特定のエントリ情報だけを抽出する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "入力情報"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "データ",
+        "エントリ",
+        "システム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.657279+00:00Z"
+      "updated_at": "2026-06-02T01:04:51.495524+00:00Z"
     }
   }
 ]

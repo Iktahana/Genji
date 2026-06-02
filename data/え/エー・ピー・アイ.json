@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "外部システムと連携するために、新しいＡＰＩを設計した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このＡＰＩを呼び出せば、顧客データが自動的に取得できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "エンジニアはＡＰＩのドキュメントを読み込んで、開発を進めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当時ドイツ・グラモフォン系のレコードは、シャリアピンの綴をＣＨＡでなくてＳＣＨＡＬＩＡＰＩＮにしていた関係もあったであろう。",
@@ -47,14 +72,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アプリケーションプログラミングインターフェース"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "インターフェース",
+        "ＳＤＫ",
+        "ウェブサービス",
+        "ＲＥＳＴful",
+        "エンドポイント",
+        "開発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.952561+00:00Z"
+      "updated_at": "2026-06-02T01:08:22.773262+00:00Z"
     }
   }
 ]

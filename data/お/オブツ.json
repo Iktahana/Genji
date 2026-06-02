@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "道路に不法投棄された汚物を清掃業者が片付けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "病院では毎日の汚物処理が専門の部門で管理される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "汚物による感染リスクを避けるため適切な処理が求められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その後には、蝸牛が這いまわった後のように、彼の内臓から吐き出された、糊のような汚物が振り撒かれた。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "糞尿",
+        "排泄物",
+        "廃棄物",
+        "不潔物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "汚水",
+        "排泄",
+        "汚染",
+        "廃棄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.528631+00:00Z",
+      "updated_at": "2026-06-02T02:15:23.745319+00:00Z",
       "freq_rank": 33748,
       "frequencies": {
         "aozora": 185

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "質問に対してお茶を濁す返事をされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大臣はお茶を濁すような答弁を繰り返している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はいつもお茶を濁して真実を明かさない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、これはおかしい程売れず、結果、学校、官庁、団体への大量寄贈でお茶を濁すなど、うわべは体裁よかったが、思えば、醜態だったね。",
@@ -142,14 +167,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ごまかす",
+        "はぐらかす",
+        "うやむやにする",
+        "言い逃れる",
+        "煙に巻く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "誤魔化し",
+        "言い訳",
+        "回避",
+        "曖昧",
+        "言い逃れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.499689+00:00Z"
+      "updated_at": "2026-06-02T01:43:51.779500+00:00Z"
     }
   }
 ]

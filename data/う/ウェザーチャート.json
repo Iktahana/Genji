@@ -31,21 +31,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "航海士は最新のウェザーチャートを読み込み、進路を決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "テレビのニュースでは、毎日気象予報士がウェザーチャートを使って説明する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このウェザーチャートを見ると、台風が接近しているのがよくわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天気図"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "気象",
+        "観測"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.481906+00:00Z"
+      "updated_at": "2026-06-01T21:56:51.097661+00:00Z"
     }
   }
 ]

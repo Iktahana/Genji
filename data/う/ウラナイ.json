@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、友達の間で占いブームが起きている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "毎朝のニュース番組で、その日の運勢を占いで確認する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この占いによると、今週は何か新しいことを始めると良いらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "翁はこの山には人身の岳神が住み守ると聞いたが、それにしたら、その岳神は結婚していて、恐らくその妻は良人より年長のいわゆる姉女房であるであろうと山占いをした。",
@@ -288,21 +313,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅前には行列のできる有名な占いがいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "人生に迷ったとき、ふと街の占いの店を訪ねてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は腕の良い占いとして、地元では知られた存在だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運勢判断",
+        "占術"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "占い師",
+        "運勢",
+        "予言",
+        "星占い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.985824+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.192153+00:00Z",
       "freq_rank": 4122,
       "frequencies": {
         "aozora": 378

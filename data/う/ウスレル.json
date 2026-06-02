@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "色褪せた写真が、さらに薄れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの頃の記憶が薄れてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "年月とともに、その面影が薄れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "灰が薄れると太陽が銅色や卵黄色に見えた。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "消える",
+        "薄らぐ",
+        "弱まる"
+      ],
+      "antonyms": [
+        "鮮明になる",
+        "強まる"
+      ],
+      "related": [
+        "色",
+        "感情",
+        "記憶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.052625+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.879890+00:00Z",
       "freq_rank": 36435,
       "frequencies": {
         "aozora": 546

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験前日で、落ち落ち寝てなんかいられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "騒がしい外の音のせいで、夜も落ち落ち眠れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このような重大な局面では、落ち落ち座って待つことなどできない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "木の葉落ち落ちて森寂に、風留むで肅殺の氣の充つる處、枝は朱槍を横へ、薄は白劍を伏せ、徑は漆弓を潛め、霜は鏃を研ぐ。",
@@ -271,14 +296,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ゆっくり",
+        "のんびり",
+        "安心して",
+        "安閑と"
+      ],
+      "antonyms": [
+        "そわそわ",
+        "落ち着かず",
+        "不安げに"
+      ],
+      "related": [
+        "安心",
+        "平穏",
+        "休息",
+        "緊張"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.444778+00:00Z"
+      "updated_at": "2026-06-02T01:41:05.404309+00:00Z"
     }
   }
 ]

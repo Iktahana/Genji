@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は地球温暖化の進行を憂えて、環境保護活動に身を投じることを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "国の将来を憂える若者たちが集まり、自主的な政策討論会を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもたちの読書離れを憂えた図書館員は、新しい読み聞かせプログラムを立ち上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どんな危険に陥った場合でも、彼はただ、今自分のしている仕事（妖怪を退治するなり、三蔵法師を救い出すなり）の成否を憂えるだけで、自分の生命のことなどは、てんで考えの中に浮かんでこないのである。",
@@ -289,21 +314,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "作家はかつての下町の風景が失われたことを憂えて、記録文学を書き続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "伝統工芸の担い手が減っていることを憂える職人の声が、NHKの番組で紹介された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "言葉の乱れを憂える国語学者は、正しい日本語の普及に生涯を捧げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "案ずる",
+        "心配する",
+        "嘆く",
+        "慮る",
+        "危惧する",
+        "恐れる"
+      ],
+      "antonyms": [
+        "喜ぶ",
+        "楽しむ"
+      ],
+      "related": [
+        "患う",
+        "悼む",
+        "憂慮",
+        "気遣う"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.227778+00:00Z",
+      "updated_at": "2026-06-02T00:28:00.738875+00:00Z",
       "frequencies": {
         "aozora": 243
       }

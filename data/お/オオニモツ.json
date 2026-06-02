@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "転勤のため大荷物を抱えて新幹線に乗り込もうとしたが、網棚に載せるのに一苦労した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "留学初日、大荷物を引きずって寮の階段を上がるのに三十分近くかかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "登山口で大荷物を背負った中年グループを追い抜いたが、頂上に着くと彼らが先に休んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高原でひとまず人夫を返し、荷馬車に大荷物を頼んでテクル事にした。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "荷物",
+        "大手荷物"
+      ],
+      "antonyms": [
+        "手ぶら",
+        "軽装"
+      ],
+      "related": [
+        "旅行",
+        "移動",
+        "梱包",
+        "荷造り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.975596+00:00Z",
+      "updated_at": "2026-06-02T01:17:24.024921+00:00Z",
       "frequencies": {
         "aozora": 11
       }

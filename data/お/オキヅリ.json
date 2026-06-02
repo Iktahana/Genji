@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今度の週末は、早起きして久しぶりに沖釣りに出かける予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "沖釣り用の竿とリールを揃えて、準備は万端だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "沖釣りで大きな鯛を釣るのが、父の長年の夢だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "為さんが川へ引き込まれた」　為さんというのは、町内のちいさい紙屋の亭主で、草履屋とはまったく縁のない商売でありながら、藤吉とは子供のときの手習い朋輩といい、両方がおなじ釣り道楽の仲間であるので、ふだんから親しく往きかいして、岡釣りに沖釣りに誘いあわせて行くことも珍らしくなかった。",
@@ -101,14 +126,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "船釣り"
+      ],
+      "antonyms": [
+        "磯釣り",
+        "投げ釣り",
+        "陸っぱり"
+      ],
+      "related": [
+        "漁船",
+        "海釣り",
+        "遊漁船",
+        "太公望"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.403905+00:00Z",
+      "updated_at": "2026-06-02T01:21:00.273203+00:00Z",
       "frequencies": {
         "aozora": 11
       }

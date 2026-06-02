@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うちの会社では毎月全員で会議を開いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うちの会社の商品は業界で高い評価を受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うちの会社に就職できて本当に幸運だと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実はな、向うへ行て、空を見て、どれが南十字星か判らんかったら恥やさかいな、昨日うちの会社の文芸部の男に案内してもろて、四ツ橋の電気科学館へ行て、プラ、プラ、プラチナ……」「プラネタリュウム」　君枝は言って、赧くなった。",
@@ -86,14 +111,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "自社",
+        "弊社",
+        "わが社"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "会社",
+        "職場",
+        "社員",
+        "内輪",
+        "組織",
+        "勤め先"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.310182+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.027802+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "伝説の沈没船を追ってダイバーたちが潜ったが、そこは多くの冒険家にとって海の藻屑となる危険な場所だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "嵐の夜、小さなボートで外洋に出た彼らは、あえなく海の藻屑と化してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "宝探しの夢に魅せられた彼は、いつしか自分の命を海の藻屑とすることを厭わなくなっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妾も、日出雄も、此儘海の藻屑と消えても、决して未練に助からうとは思ひませぬ。",
@@ -134,14 +159,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "水死",
+        "溺死",
+        "露",
+        "泡"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "遭難",
+        "難破",
+        "海難事故",
+        "海底"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.824558+00:00Z"
+      "updated_at": "2026-06-02T00:26:08.108271+00:00Z"
     }
   }
 ]

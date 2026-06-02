@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の祇園には、今でも歴史ある置屋がいくつも残っていて、舞妓さんが暮らしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "芸舞妓たちは、日々の稽古を積んで置屋で共同生活を送っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつて置屋だった建物が、今は観光客向けのカフェとして利用されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鰻の寝床みたいな狭い路地だったけれど、しかしその辺は宗右衛門町の色町に近かったから、上町や長町あたりに多いいわゆる貧乏長屋ではなくて、路地の両側の家は、たとえば三味線の師匠の看板がかかっていたり、芝居の小道具づくりの家であったり、芸者の置屋であったり、また自前の芸者が母親と猫と三人（？",
@@ -279,12 +304,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "遊郭",
+        "花街",
+        "芸者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.485889+00:00Z",
+      "updated_at": "2026-06-02T01:24:22.557932+00:00Z",
       "frequencies": {
         "aozora": 34
       }

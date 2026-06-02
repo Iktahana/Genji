@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このレバーを押し下げると、機械が起動する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "窓を押し下げて、新鮮な空気を取り入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "少し力を込めてボタンを押し下げる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――　何年だったか、兎に角その或る薄ら寒い午後、芥川さんは制服の膝をきちんと折って坐って、ぽつぽつ喋りながら、時々、両肱を張って手を胸の前で合わせては上から下へ押し下げるような風をなすった。",
@@ -62,14 +87,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "引き下げる",
+        "下げる",
+        "低下させる"
+      ],
+      "antonyms": [
+        "押し上げる",
+        "引き上げる",
+        "上げる"
+      ],
+      "related": [
+        "下押し",
+        "引き下げ",
+        "値下げ",
+        "圧力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.953610+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.995114+00:00Z",
       "frequencies": {
         "aozora": 15
       }

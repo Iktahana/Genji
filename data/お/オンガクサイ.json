@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎年夏に開催される音楽祭には、世界中からのアーティストが集まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その音楽祭は、地域の経済に大きな波及効果をもたらしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は音楽祭のプロデューサーとして、多くの素晴らしい演奏を実現させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夜に入つては音楽祭だと云ふので辻辻に焚火が行はれ、男の児等は爆丸を投げて人を驚かし、又｜大通には音楽隊を先に立てた騎馬の市民の提灯行列があつた。",
@@ -69,14 +94,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "音楽フェスティバル",
+        "フェス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "コンサート",
+        "野外ライブ",
+        "音楽"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:27:31.531616+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あいつは有名な横着者で、仕事をしない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そんな横着者にプロジェクトは任せられません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "横着者ばかりのチームではうまくいかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしいつの代にも横着者は絶えないもので、その禁断を承知しながら時々に阿漕の平次をきめる奴がある。",
@@ -253,14 +278,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怠け者"
+      ],
+      "antonyms": [
+        "勤勉家",
+        "働き者"
+      ],
+      "related": [
+        "性格",
+        "怠惰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.380466+00:00Z"
+      "updated_at": "2026-06-02T01:11:48.127025+00:00Z"
     }
   }
 ]

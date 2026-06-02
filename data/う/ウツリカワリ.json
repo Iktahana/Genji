@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "季節の移り変わりは、空の色や風の匂いで感じ取ることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "激しい時代の移り変わりの中で、伝統を守り続けるのは難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "景色の移り変わりを眺めながら、列車はゆっくりと進んでいく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのうえ光と影の移り変わりは溪間にいる人に始終｜慌しい感情を与えていた。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "変化",
+        "変遷"
+      ],
+      "antonyms": [
+        "停滞"
+      ],
+      "related": [
+        "季節",
+        "時間",
+        "推移"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.517036+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.252605+00:00Z",
       "freq_rank": 21643,
       "frequencies": {
         "aozora": 32

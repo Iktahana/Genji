@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "作業台に薄い板を敷いて、工具を置いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この薄い板なら、曲げやすいだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄い板を合わせて、額縁を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それに何せ薄い板切れでいい加減に作つた舟だから、水がしみ込んで來て危いのよ。",
@@ -262,14 +287,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄板",
+        "シート",
+        "板"
+      ],
+      "antonyms": [
+        "厚板"
+      ],
+      "related": [
+        "金属板",
+        "木板",
+        "合板",
+        "薄鋼板"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.968415+00:00Z"
+      "updated_at": "2026-06-01T22:11:05.583963+00:00Z"
     }
   }
 ]

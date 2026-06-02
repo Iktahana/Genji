@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沖仲仕たちが船から荷物を下ろしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父は港で沖仲仕として働いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖仲仕の仕事は体力を要する労働だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "荒療治　（山本勝治氏）　ある港町の沖仲仕達を組織化しようとしてゐる一人のコンミユニストが、大事な仕事を前にして自分の固い決意の弛緩をふと意識する。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "港湾労働者",
+        "ステベ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "港",
+        "荷役",
+        "船",
+        "労働",
+        "埠頭"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.418979+00:00Z",
+      "updated_at": "2026-06-02T01:21:00.280107+00:00Z",
       "frequencies": {
         "aozora": 49
       }

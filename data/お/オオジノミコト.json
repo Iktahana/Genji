@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祭典では皇祖にあたる方を偲び、静かに手を合わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "神話の中で語られる皇祖の物語に、子供たちは熱心に耳を傾けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史書を紐解き、皇祖から続く家系図を辿ってみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "既にして太祖崩じて太孫の位に即きたもうや、刑官に諭したまわく、大明律は皇祖の親しく定めさせたまえるところにして、朕に命じて細閲せしめたまえり。",
@@ -229,14 +254,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天皇の祖父"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皇室",
+        "天皇",
+        "系譜",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.850493+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.960339+00:00Z",
       "frequencies": {
         "aozora": 58
       }

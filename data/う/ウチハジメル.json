@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コーチの号令とともに選手たちは一斉にボールを打ち始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "時計が十二時を告げると、祭りの太鼓が打ち始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "雨が本降りになった頃、鍛冶師は炉の前で鉄を打ち始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（おいよは砧の盤にむかいて打ち始める。",
@@ -69,14 +94,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "打ち掛かる",
+        "始める",
+        "着手する"
+      ],
+      "antonyms": [
+        "打ち終える",
+        "打ち止める"
+      ],
+      "related": [
+        "開始",
+        "着手",
+        "動作開始",
+        "太鼓",
+        "打楽器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.314184+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.030907+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "若き武将は主君を守るため、敵の軍勢に突撃し、壮絶な討ち死にを遂げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "多くの仲間が戦場で討ち死にしたという知らせを受け、村中が悲しみに暮れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "逃げ延びる道はあったが、彼は侍としての誇りを守るために討ち死にを選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "計略を敵に見すかされてむざむざと討ち死にしたかな。",
@@ -279,14 +304,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "戦死"
+      ],
+      "antonyms": [
+        "生還",
+        "勝利"
+      ],
+      "related": [
+        "戦争",
+        "戦場",
+        "死"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.277749+00:00Z",
+      "updated_at": "2026-06-01T22:15:06.094536+00:00Z",
       "frequencies": {
         "aozora": 48
       }

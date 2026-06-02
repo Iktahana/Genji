@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お見事！その一手は見落としていませんでした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お見事だ。君の力量は本当にすごい",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お見事！その決断は全く予想外でした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「へい、いいえ、お顔は存じておりますほどでもござりませんが、その上被の召ものでござります、お見事な、」　こう云ったのは羆の筒袖。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見事",
+        "素晴らしい"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "賞賛",
+        "拍手"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.751077+00:00Z"
+      "updated_at": "2026-06-02T02:20:05.864161+00:00Z"
     }
   }
 ]

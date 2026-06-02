@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "麗らかな天気の日は外出したくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちの麗らかな声が外から聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "麗らかな気分で新しい一日が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "初めて大久保の新居に移った時は、春の麗らかな日であって、裏の竹藪で鶯がしきりに鳴いてた。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "明るい",
+        "晴れやか",
+        "朗らか"
+      ],
+      "antonyms": [
+        "暗い",
+        "陰鬱"
+      ],
+      "related": [
+        "麗ら",
+        "晴天",
+        "輝き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.053428+00:00Z",
+      "updated_at": "2026-06-02T00:29:20.950589+00:00Z",
       "frequencies": {
         "aozora": 138
       }

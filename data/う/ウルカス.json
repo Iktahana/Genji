@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食べ終わった茶碗を、水に潤かしておく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "硬い豆を煮る前に、一晩しっかり水に潤かす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "カレーのこびりついた鍋を先に潤かしてから洗う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "余は座敷へ案内されてからもうるかすといふことが解釋に苦んだ。",
@@ -46,14 +71,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ふやかす",
+        "浸す",
+        "浸ける"
+      ],
+      "antonyms": [
+        "乾かす"
+      ],
+      "related": [
+        "水",
+        "料理",
+        "米",
+        "下準備",
+        "水分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.173250+00:00Z"
+      "updated_at": "2026-06-02T00:27:18.845765+00:00Z"
     }
   }
 ]

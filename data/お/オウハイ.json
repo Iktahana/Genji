@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "女王の夫である王配は、公務を精力的にこなした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "王配殿下は、国内外の様々なチャリティイベントに参加されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史上、王配が政治に大きな影響力を持った例も少なくない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "副王配下の隊も頻々としてピサロ側に寝返った。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "王の配偶者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "王室",
+        "称号",
+        "夫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.421475+00:00Z"
+      "updated_at": "2026-06-02T01:12:23.506609+00:00Z"
     }
   }
 ]

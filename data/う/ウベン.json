@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "顕微鏡で羽弁を観察すると、無数の羽枝が規則正しく並んでいるのが見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "鳥の羽根を手に取ると、羽弁がびっしりと密に絡み合っているのがわかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "羽弁が損傷した羽根は飛行効率が落ちるため、鳥はくちばしで丁寧に手入れをする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "車の羽弁が五色に塗ってある。",
@@ -157,14 +182,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "羽根膜",
+        "羽片"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "羽柄",
+        "羽毛",
+        "羽軸",
+        "鳥",
+        "羽根"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.685754+00:00Z"
+      "updated_at": "2026-06-01T23:50:45.450971+00:00Z"
     }
   }
 ]

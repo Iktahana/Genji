@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原発から流出した汚染水が海域に影響を与えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "汚染水の処理方法をめぐって国内外で議論が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地方の地下水は汚染水の影響を受けている可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "汚染水によるコレラ伝染。",
@@ -101,14 +126,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "排水",
+        "汚水",
+        "廃水"
+      ],
+      "antonyms": [
+        "清水",
+        "淡水"
+      ],
+      "related": [
+        "汚染",
+        "環境",
+        "水質"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.237919+00:00Z",
+      "updated_at": "2026-06-02T01:35:47.287225+00:00Z",
       "frequencies": {
         "aozora": 9
       }

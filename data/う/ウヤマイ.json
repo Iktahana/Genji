@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生に対する敬いの気持ちを、いつまでも心に留めておきたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "年長者への敬いは、日本の伝統文化の基本である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親に対する敬いの心を子どもに教えることは、非常に大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さるに町方の者としいえば、かたいなる児ども尊び敬いて、しばらくもともに遊ばんことを希うや、親しく、優しく勉めてすなれど、不断は此方より遠ざかりしが、その時は先にあまり淋しくて、友欲しき念の堪えがたかりしその心のまだ失せざると、恐しかりしあとの楽しきとに、われは拒まずして頷きぬ。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "尊敬",
+        "崇拝",
+        "敬慕",
+        "畏敬",
+        "崇敬"
+      ],
+      "antonyms": [
+        "軽蔑"
+      ],
+      "related": [
+        "敬う",
+        "尊敬",
+        "畏敬",
+        "感謝"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.886073+00:00Z"
+      "updated_at": "2026-06-02T00:22:43.998395+00:00Z"
     }
   }
 ]

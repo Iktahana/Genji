@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "能楽師は謡物の一段を暗唱するところから稽古を積み始め、何年もかけて全曲を身につけていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この謡物は演じる際に扇子の所作と組み合わせて披露されることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "師匠は選りすぐりの謡物を弟子たちに渡し、各自の声質に合った演目を稽古させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『四つの海』は今なお杵屋の一派では用いている謡物の一つで、これも抽斎が多方面であったということを証するに足る作である。",
@@ -63,12 +88,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "謡曲",
+        "能",
+        "唱歌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.124170+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.853523+00:00Z",
       "frequencies": {
         "aozora": 2
       }

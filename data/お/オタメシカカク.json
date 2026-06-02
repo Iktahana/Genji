@@ -29,21 +29,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新商品のシャンプーが、今ならお試し価格で購入できるそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お試し価格で提供しているうちに、一度試してみようかな。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このサブスクリプションサービスは、初月のみお試し価格で利用可能です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "入門価格",
+        "特別価格",
+        "割引価格",
+        "体験価格"
+      ],
+      "antonyms": [
+        "定価",
+        "通常価格"
+      ],
+      "related": [
+        "キャンペーン",
+        "試用",
+        "プロモーション",
+        "値引き",
+        "期間限定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.394544+00:00Z"
+      "updated_at": "2026-06-02T01:38:31.468100+00:00Z"
     }
   }
 ]

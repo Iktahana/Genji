@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鮮やかな色彩の上絵が施された皿は、贈り物として喜ばれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "陶芸教室で初めて上絵に挑戦したが、筆が震えて線が曲がってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "窯から出したばかりの作品を見て、上絵の出来栄えを確認する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「……極上誂織の白七子をお納戸の紋附に染め、江戸褄模様に翻れ梅、紅白の上絵彩色銀糸にて松葉を散らしに縫わせ……英泉の筆意を頼み、下着は縮緬鼠のさや形、帯は花色勝山に色糸を以て阿蘭陀模様を竪縞の如く縫わせたらば類なくてよかろうか。",
@@ -261,14 +286,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上絵付け"
+      ],
+      "antonyms": [
+        "下絵"
+      ],
+      "related": [
+        "陶磁器",
+        "装飾",
+        "美術",
+        "工芸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.271513+00:00Z",
+      "updated_at": "2026-06-02T00:27:56.975636+00:00Z",
       "frequencies": {
         "aozora": 16
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うだつの上がらない仕事ばかり割り当てられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その地方の経済はうだつの上がらない状況が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うだつの上がらない毎日から何とか抜け出したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "石の上の雑草みたいな、うだつの上がらない自分たちの生活に、また当分、陽があたらない諦めを嘆いた。",
@@ -70,14 +95,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見込みのない",
+        "期待できない",
+        "つまらない"
+      ],
+      "antonyms": [
+        "有望な",
+        "見込みのある"
+      ],
+      "related": [
+        "人生",
+        "失敗",
+        "無能"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.169763+00:00Z"
+      "updated_at": "2026-06-01T22:14:02.245969+00:00Z"
     }
   }
 ]

@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "決算書を見た銀行員は「売掛金の回収サイクルが長すぎる」と融資に難色を示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "得意先が倒産し、多額の売掛金が回収不能になって経営危機に陥った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "売掛金の管理を徹底するため、入金予定日を一覧にしたリストを毎週更新している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "未収金",
+        "債権"
+      ],
+      "antonyms": [
+        "買掛金",
+        "債務"
+      ],
+      "related": [
+        "勘定科目",
+        "資産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.093359+00:00Z"
+      "updated_at": "2026-06-02T00:26:27.653486+00:00Z"
     }
   }
 ]

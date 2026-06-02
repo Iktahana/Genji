@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どものころは嫌いだったピーマンも、大人になった今では平気で食べられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「もう大人なんだから、自分のことは自分で決めなさい」と母に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大人向けのアニメが深夜帯に増えてから、アニメ業界の裾野が大きく広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大人となつた今日でさへ、さうした悲運はやみはせぬ。",
@@ -279,14 +304,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "成人",
+        "成年者",
+        "年長者"
+      ],
+      "antonyms": [
+        "子供",
+        "未成年",
+        "幼児"
+      ],
+      "related": [
+        "社会人",
+        "成熟",
+        "責任",
+        "親",
+        "年齢",
+        "大人社会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.862632+00:00Z",
+      "updated_at": "2026-06-02T02:00:40.779398+00:00Z",
       "freq_rank": 1260,
       "frequencies": {
         "aozora": 4400

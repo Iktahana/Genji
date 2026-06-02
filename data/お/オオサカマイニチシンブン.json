@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書館の古新聞コーナーで大阪毎日新聞の大正期の紙面を手に取り、当時の文体の重厚さに驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は「大阪毎日新聞が毎日新聞の前身だということを知っている若者は少ない」とよく話していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大阪毎日新聞のアーカイブを参照して、関東大震災当時の大阪での報道を卒業論文にまとめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（昭和九年二月『大阪毎日新聞』）",
@@ -269,14 +294,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大毎"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "毎日新聞",
+        "新聞社"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.812921+00:00Z"
+      "updated_at": "2026-06-02T01:15:50.023138+00:00Z"
     }
   }
 ]

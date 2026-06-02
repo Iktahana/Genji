@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "量子力学では、実空間の波動関数をフーリエ変換することで運動量空間の表現が得られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "粒子の状態を運動量空間で記述すると、散乱問題の計算が大幅に簡単になる場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "教授は黒板に「運動量空間におけるシュレーディンガー方程式」と書き、講義を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "実空間"
+      ],
+      "related": [
+        "量子力学",
+        "波動関数",
+        "フーリエ変換",
+        "逆格子",
+        "運動量"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.519864+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.306545+00:00Z"
     }
   }
 ]

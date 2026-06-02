@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「花壇の端っこに、パンジーの苗を丁寧に植え込んでいこう」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は土を掘り起こし、春に咲く球根を一心不乱に植え込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "砂漠に緑を取り戻すため、ボランティアたちが木々を一本ずつ植え込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして庭の二方には、各種の樹木を雑然と植え込む。",
@@ -46,14 +71,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "植える",
+        "移植する",
+        "埋め込む"
+      ],
+      "antonyms": [
+        "抜く",
+        "引き抜く"
+      ],
+      "related": [
+        "植え込み",
+        "苗",
+        "庭",
+        "土",
+        "根付かせる",
+        "園芸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.562466+00:00Z",
+      "updated_at": "2026-06-01T21:58:37.183180+00:00Z",
       "frequencies": {
         "aozora": 59
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の非は自ずから明らかであり、誰もが認めざるを得ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "データを見れば、その傾向は自ずから明らかである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この結論は自ずから明らかな論理から導き出される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この前提が実用上無謀ならざる事は数回同じ実験を繰返す時は自ずから明らかなるべきも、とにかくここに予言者と被予言者との期待に一種の齟齬あるを認め得べし。",
@@ -77,14 +102,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自明",
+        "明白",
+        "自明の理"
+      ],
+      "antonyms": [
+        "不明瞭",
+        "曖昧"
+      ],
+      "related": [
+        "公理",
+        "論理",
+        "証明",
+        "明白"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.192591+00:00Z"
+      "updated_at": "2026-06-02T02:04:35.896068+00:00Z"
     }
   }
 ]

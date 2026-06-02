@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山道で滑って捻挫したが、持っていた絆創膏で応急手当をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供が指を切ってしまったので、すぐに水で洗い流し、応急手当をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "救命講習で応急手当の重要性を学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "市郎の人工呼吸｜其他の応急手当が効を奏して、彼女は間もなく息を吹き返した。",
@@ -261,14 +286,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "救急手当",
+        "応急処置"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "救急",
+        "救護",
+        "負傷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.192130+00:00Z",
+      "updated_at": "2026-06-02T01:10:01.707923+00:00Z",
       "frequencies": {
         "aozora": 42
       }

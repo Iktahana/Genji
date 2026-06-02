@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母が丁寧に縫ってくれた産着を、退院したばかりの娘に着せると、まだ少し大きそうでした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新品の産着を用意するのは初めての経験で、何を選べばいいか迷ってしまいます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "引き出しの奥から、自分が小さい頃に着ていた産着を見つけて、なんだか懐かしい気持ちになりました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おたよりをくださいましたら、またそのとき産着の一枚も贈りましょうわい」　そして、みずから立ち上がりながら、玄関の格子戸をあけてやったものでしたから、なにとてくし巻きお由ばかりが鬼の心をもっていられましょうぞ！",
@@ -128,14 +153,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産衣",
+        "初着",
+        "お宮参り着"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "産湯",
+        "産声",
+        "おくるみ",
+        "新生児",
+        "出産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.670546+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.438517+00:00Z",
       "frequencies": {
         "aozora": 11
       }

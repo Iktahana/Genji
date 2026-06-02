@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "能舞台で謡が朗々と響き始めると、観客は静かに息をのんで耳を傾けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は謡の稽古を欠かさず、週に一度、師匠のもとへ通っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "謡の低く引き延ばされた声が夜の座敷に満ち、場の空気がじわりと張り詰めていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "のみならず、此処には、我が民謡の精神は実になみ／＼としてゐて、これは、詩書を手にする程の人には最も直ちに、感じられる底のものである。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "謡曲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "歌",
+        "能",
+        "芸能"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.119026+00:00Z",
+      "updated_at": "2026-06-01T22:12:49.604042+00:00Z",
       "freq_rank": 35756,
       "frequencies": {
         "aozora": 1047

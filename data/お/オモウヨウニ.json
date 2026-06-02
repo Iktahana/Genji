@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "緊張のせいか、足が思うように動かず、転んでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "練習不足で、バイオリンの音が思うように出なくて焦った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "仕事が思うように進まず、今夜は残業になりそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この頃では僕にも少しその習慣がついたらしく、稀れに人と逢わない日を、寂しく思うようにさえなって来た。",
@@ -278,14 +303,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "思い通り",
+        "意のまま",
+        "順調"
+      ],
+      "antonyms": [
+        "思い通りにならない"
+      ],
+      "related": [
+        "計画",
+        "実現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.976930+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.900391+00:00Z"
     }
   }
 ]

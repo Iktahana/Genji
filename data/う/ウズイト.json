@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "流体力学の実験で、水槽の中に鮮やかな渦糸が発生した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "竜巻の中心付近では、強力な渦糸が形成されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンピュータシミュレーションにより、翼端から伸びる渦糸の挙動を解析した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "行ったかと思うと、もうずいと中へはいったので、それからずばりと鋭い声で、胸をえぐるがごとくいったものです。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "物理学",
+        "流体力学",
+        "渦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.051297+00:00Z"
+      "updated_at": "2026-06-01T22:11:07.882896+00:00Z"
     }
   }
 ]

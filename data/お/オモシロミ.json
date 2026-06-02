@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この小説は展開が早すぎて、心理描写の面白みに欠ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "骨董品の面白みは、時代を超えて受け継がれてきた傷や汚れにある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の作る料理は美味しいが、盛り付けに今ひとつ面白みがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "全體旅をしながら何物をも見ず、見ても何等の感興も起さず、起しても其を折角の同伴者と語り合て更に興を増すこともしないなら、初めから其人は旅の面白みを知らないのだ、など自分は獨り腹の中で愚痴つて居ると『あれは何でしよう、そら彼の山の頂邊の三｜角の家のやうなもの。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "興味",
+        "趣"
+      ],
+      "antonyms": [
+        "退屈"
+      ],
       "related": []
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.009841+00:00Z",
+      "updated_at": "2026-06-02T02:21:24.815914+00:00Z",
       "freq_rank": 23294,
       "frequencies": {
         "aozora": 40

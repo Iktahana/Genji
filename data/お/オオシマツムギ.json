@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大島紬は奄美大島の伝統工芸品である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女の帯は本物の大島紬を使っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大島紬の着物は成人式に最適だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "毛手柄の丸髷に、珊瑚珠の根掛をして、黒繻子の半衿を掛けた大島紬の綿入の上へ、古くなつたお召の絆纏をはおつて、七釐の前にしやがんでゐたのが、違ひますよと云つて、けぶたさうに蹙めた顏をこちらへ向けましたの。",
@@ -205,14 +230,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "本場大島紬"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "紬",
+        "着物",
+        "織物",
+        "伝統工芸",
+        "奄美大島"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.836681+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.954645+00:00Z",
       "frequencies": {
         "aozora": 23
       }

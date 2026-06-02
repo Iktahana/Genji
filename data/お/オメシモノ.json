@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日のお召し物は、春らしい淡いピンク色でとてもお似合いです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "格式ある晩餐会にふさわしいお召し物を選んでいただいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大臣はいつも、その場にふさわしい洗練されたお召し物を身につけていらっしゃる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いま一人が影武者というのだ」「そこでお召し物はなんと踏んだ」「藤色と踏んだよ」「え、藤色とばかりじゃ、本読みが納まらねえぜ。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "衣服",
+        "着物",
+        "衣装"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "被服"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.821455+00:00Z",
+      "updated_at": "2026-06-02T02:20:33.271649+00:00Z",
       "frequencies": {
         "aozora": 33
       }

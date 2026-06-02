@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い町並みには、裏店と呼ばれる小さな住宅が多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "裏店に住む人たちは近所付き合いが密だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この裏店はかつて醸造業の作業場だったという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どんな裏店でも朝顔の鉢ぐらいは見られる。",
@@ -253,14 +278,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "長屋"
+      ],
+      "antonyms": [
+        "表店"
+      ],
+      "related": [
+        "江戸",
+        "住居"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.967332+00:00Z",
+      "updated_at": "2026-06-02T00:24:11.187633+00:00Z",
       "frequencies": {
         "aozora": 160
       }

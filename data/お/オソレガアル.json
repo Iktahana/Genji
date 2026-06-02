@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このまま雨が降り続けば、川が氾濫する恐れがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "記録を早急に整理しないと、機密情報が流出する恐れがあるよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この古い橋は強度不足で、崩落する恐れがあるため通行止めにされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども彼のやうに一切を演繹することの出来る人は、ヒュマニティの実質を見失ひ易い恐れがある。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "危険性がある",
+        "危ぶまれる",
+        "可能性がある"
+      ],
+      "antonyms": [
+        "安全である",
+        "確実である"
+      ],
+      "related": [
+        "恐れ",
+        "危険",
+        "懸念",
+        "可能性",
+        "危機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.316405+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.497022+00:00Z"
     }
   }
 ]

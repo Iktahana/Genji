@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本銀行は物価抑制のため国債の売りオペを実施し、市場の資金を吸収した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "売りオペの規模が予想を超えたため、短期金利が急上昇した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アナリストは「今週の売りオペが金融市場に与える影響は限定的だろう」と見ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "売りオペレーション"
+      ],
+      "antonyms": [
+        "買いオペ"
+      ],
+      "related": [
+        "日本銀行",
+        "金融政策",
+        "通貨供給量",
+        "金利",
+        "公開市場操作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.090001+00:00Z"
+      "updated_at": "2026-06-02T00:26:48.903867+00:00Z"
     }
   }
 ]

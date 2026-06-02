@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "将棋で大駒の扱いは重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "飛車は大駒なので大切に動かす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プロ棋士は大駒の配置を戦略的に考える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "角という大駒一枚落しても、大丈夫勝つ自信を持っていた坂田が、平手で二局とも惨敗したのである。",
@@ -54,13 +79,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "小駒"
+      ],
+      "related": [
+        "将棋",
+        "飛車",
+        "角行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.748112+00:00Z",
+      "updated_at": "2026-06-02T01:15:19.702726+00:00Z",
       "frequencies": {
         "aozora": 2
       }

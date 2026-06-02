@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この裏屋は昔から貧しい家族の住む場所だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "路地裏の裏屋からは毎日様々な音が聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は古い裏屋で一人暮らしをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "卑賤にそだちたる我身なれば、始よりこの以上を見も知らで、世間は裏屋に限れる物と定め、我家のほかに天地のなしと思はゞ、はかなき思ひに胸も燃えじを、暫時がほども交りし社会は夢に天上に遊べると同じく、今さらに思ひやるも程とほし。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "路地裏"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "路地",
+        "裏通り",
+        "細道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.049621+00:00Z"
+      "updated_at": "2026-06-02T00:29:20.945424+00:00Z"
     }
   }
 ]

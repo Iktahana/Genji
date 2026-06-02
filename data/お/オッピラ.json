@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のおっぴらな嘘にはついに怒った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おっぴらな態度は社会人として不適切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はおっぴらな理由で仕事を休んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男の生徒たちはおおっぴらに女の方を見やる機会を得て、等しく物好きらしい眼を、渡井のしゃくり上げる肩のところから、手拭の下に真赤にしている横顔へと向けた。",
@@ -253,14 +278,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公然",
+        "あからさま",
+        "堂々",
+        "おおっぴら"
+      ],
+      "antonyms": [
+        "内緒",
+        "密か",
+        "秘密"
+      ],
+      "related": [
+        "公開",
+        "表立つ",
+        "公衆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.590484+00:00Z"
+      "updated_at": "2026-06-02T01:46:14.687758+00:00Z"
     }
   }
 ]

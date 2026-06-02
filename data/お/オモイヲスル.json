@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "喜びの思いをする",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども、そんな実情を打明けたら、客は居心地の悪い思いをする。",
@@ -278,14 +287,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "感じる",
+        "経験する",
+        "体験する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感覚",
+        "心情",
+        "感情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.957040+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.891097+00:00Z"
     }
   }
 ]

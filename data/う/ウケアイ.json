@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼が幹事をやれば、忘年会が盛り上がることは請け合いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この薬を飲めば、すぐに熱が下がることは請け合いですよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "職人の腕がいいから、仕上がりの美しさは請け合いです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここで一番自分の腕を見せてやろうという料簡になって、その鯉をすぐに取って来ようと安請け合いに受け合った。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "保証",
+        "約束"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "契約",
+        "確約",
+        "信頼",
+        "保証書"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.780220+00:00Z",
+      "updated_at": "2026-06-01T22:05:06.819340+00:00Z",
       "freq_rank": 28518,
       "frequencies": {
         "aozora": 24

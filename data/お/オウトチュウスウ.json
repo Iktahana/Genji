@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "抗がん剤の副作用として強い吐き気が生じるのは、薬物が嘔吐中枢を刺激するためだと医師に説明された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "延髄にある嘔吐中枢は内耳からの信号を受け取ることで、乗り物酔いを引き起こす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "制吐剤はドーパミン受容体を介して嘔吐中枢の興奮を抑制する仕組みになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,12 +63,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "脳",
+        "嘔吐",
+        "神経"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.402845+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.297482+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの人とはどこかで会った覚えがあるのだが、どうしても思い出せない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は九十歳を過ぎてもまだ覚えがしっかりしていて、昔の出来事を細部まで語ってくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どものころ無断で遊びに出て母に怒られた覚えが、今でも鮮明に残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それといふのが世態で何しろ神経生存だけになつてゐて、まづまあ金ピカ流儀を覚えて「嗤はれないやうに嗤はれないやうに」か、又一方「我等は若きプロレタリアだツ」になるほか差当つて帰趨を知らないからである。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "記憶",
+        "暗記"
+      ],
+      "antonyms": [
+        "忘却"
+      ],
+      "related": [
+        "脳"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.632491+00:00Z",
+      "updated_at": "2026-06-02T02:19:51.256303+00:00Z",
       "freq_rank": 1167,
       "frequencies": {
         "aozora": 2646

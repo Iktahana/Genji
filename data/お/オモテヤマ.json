@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "表山に植えた茶畑は、日当たりが良く、良質の茶が採れることで有名だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域では、表山の斜面を利用した農業が営まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "表山と裏山では、生育する植物の種類が異なっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ぽうっとなるようなところ見せつけらても、鳴っちゃいけねえぜ」　ぐるりと築地塀を回って表山門からはいってみると、門には額がない。",
@@ -101,14 +126,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "陽地"
+      ],
+      "antonyms": [
+        "裏山"
+      ],
+      "related": [
+        "日当たり",
+        "耕作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.079929+00:00Z",
+      "updated_at": "2026-06-02T02:22:39.418499+00:00Z",
       "frequencies": {
         "aozora": 5
       }

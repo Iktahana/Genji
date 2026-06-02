@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このバナナは熟れすぎているので、食べた方がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "熟れすぎたトマトは甘さが強い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "フルーツが熟れすぎると、保存期間が短くなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "熟れ腐る",
+        "過熟"
+      ],
+      "antonyms": [
+        "生熟れ",
+        "早熟"
+      ],
+      "related": [
+        "果実",
+        "腐敗",
+        "軟化",
+        "旬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.237719+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.746167+00:00Z"
     }
   }
 ]

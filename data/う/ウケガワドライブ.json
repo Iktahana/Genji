@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "データのバックアップを取る際は、受け側ドライブの空き容量を必ず確認してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "外付けHDDを受け側ドライブに設定し、大量の動画ファイルを転送し始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "受け側ドライブへの書き込みエラーが発生し、作業が中断されてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "送り側ドライブ"
+      ],
+      "related": [
+        "ドライブ",
+        "コピー先",
+        "転送先",
+        "ファイル転送",
+        "バックアップ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.800255+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.802087+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新作の料理を友人に食べてもらって、味の腕試しをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大きな試合に出るのは、今の自分の力を試す良い腕試しになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "腕試しに、この難しいパズルに挑戦してみようと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本邦にはあいにく虎がないから外国に渡った勇士でなければ虎で腕試しした者がない。",
@@ -119,14 +144,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "力試し",
+        "腕比べ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挑戦",
+        "競技",
+        "実力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.560444+00:00Z",
+      "updated_at": "2026-06-01T23:14:43.519027+00:00Z",
       "frequencies": {
         "aozora": 13
       }

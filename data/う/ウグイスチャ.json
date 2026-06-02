@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この着物は鶯茶の上品な色合いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "部屋の壁を鶯茶に塗った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鶯茶の絹織物は高級品である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お納戸、利久、御幸鼠、鶯茶、それにはなほ青柳の色も雑つて、或は虫ばみ、或はねぢれたのもあり、斑らに濃い地面の色の上に垂れ流れるのは自らなる絵模様である。",
@@ -222,14 +247,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うぐいす色",
+        "黄緑"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "色",
+        "茶色",
+        "緑色"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.777288+00:00Z"
+      "updated_at": "2026-06-01T22:05:06.816969+00:00Z"
     }
   }
 ]

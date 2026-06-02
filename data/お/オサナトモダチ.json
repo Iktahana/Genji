@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼友達とは今でも毎年集まって食事をする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "幼友達の結婚式に出席した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "幼友達の成長を見守るのは嬉しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを讀んで、すつかり感動した彼の幼友達が、この『旗手』を印刷させたのでした。",
@@ -237,14 +262,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "幼なじみ",
+        "竹馬の友"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "友人",
+        "旧知",
+        "親友",
+        "仲間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.855578+00:00Z",
+      "updated_at": "2026-06-02T01:26:53.575101+00:00Z",
       "frequencies": {
         "aozora": 61
       }

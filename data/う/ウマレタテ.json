@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生まれたての子犬は目も開いておらず、手のひらにすっぽりと収まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれたての赤ちゃんを抱いたとき、こんなに軽いのかと驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれたての命のかよわさに、産院の廊下でそっと涙をこぼした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで私がまずお目にかかりまして御様子でも申し上げたらよろしいかと思います」　と源氏は申し込んだのであるが、「まだお生まれたての方というものは醜うございますからお見せしたくございません」　という母宮の御挨拶で、お見せにならないのにも理由があった。",
@@ -102,14 +127,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "新生児",
+        "赤ちゃん",
+        "嬰児",
+        "赤ん坊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "誕生",
+        "出産",
+        "授乳",
+        "育児",
+        "乳幼児",
+        "新生"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.761528+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.737508+00:00Z",
       "freq_rank": 44861,
       "frequencies": {
         "aozora": 7

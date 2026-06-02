@@ -37,7 +37,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は歴戦のウォリアーとして、多くの若手兵士から尊敬を集めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新作のファンタジー映画では、屈強な女性ウォリアーが主人公を務める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古代の伝説に登場するウォリアーたちは、魔法の盾を手に戦ったという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アスキー出版局が出してくれた「コンピュータ・ウォリアーズ」や「ワークステーション原典」は奴の仕事だ。",
@@ -77,14 +102,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "戦士",
+        "兵士"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "戦闘",
+        "武器",
+        "勇気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.613867+00:00Z"
+      "updated_at": "2026-06-01T21:59:08.216679+00:00Z"
     }
   }
 ]

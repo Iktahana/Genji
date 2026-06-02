@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "温帯に位置する日本は四季の変化が豊かで、農業に適した気候を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その植物は温帯から亜熱帯にかけて広く分布している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "温帯性の落葉広葉樹林が広がるこの山では、秋の紅葉が見事だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "春という言葉が正当な意味をもつのは、地球上でも温帯の一部に限られている。",
@@ -271,14 +296,23 @@
       "homophones": [
         "御大"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "温帯地域"
+      ],
+      "antonyms": [
+        "熱帯",
+        "寒帯"
+      ],
+      "related": [
+        "気候",
+        "四季",
+        "気候区分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:16.468503+00:00Z",
+      "updated_at": "2026-06-02T02:29:23.969107+00:00Z",
       "freq_rank": 42973,
       "frequencies": {
         "aozora": 58
@@ -315,7 +349,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「御大が来る前に資料を揃えておけ」と先輩が小声で指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "御大の一声で会議の方向性がすっかり変わってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長年この業界を仕切ってきた御大が引退を表明し、関係者に衝撃が走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）「御大事になさい……」　まるで遠くへ行く人への別辞だ、――Ｓ子はさういふなり下向いた。",
@@ -549,9 +608,20 @@
       "homophones": [
         "温帯"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ボス",
+        "大物",
+        "主宰者"
+      ],
+      "antonyms": [
+        "下っ端",
+        "手下"
+      ],
+      "related": [
+        "権力者",
+        "頭目",
+        "長"
+      ]
     },
     "meta": {
       "version": "1.0.0",

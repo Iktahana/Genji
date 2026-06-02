@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一度は断ろうとしたが、相手の熱意を思い返して承諾した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "布団の中でその日の失敗を思い返し、一人で反省した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの判断は本当に正しかったのかと、今でも思い返すことがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして思い返す間のないうちに「それじゃあ、交番へ来てくれたまえ」とついこんな事を云ってしまった。",
@@ -270,14 +295,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "再考する",
+        "考え直す",
+        "振り返る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "反省",
+        "修正",
+        "決断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.875336+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.464273+00:00Z",
       "freq_rank": 32350,
       "frequencies": {
         "aozora": 541

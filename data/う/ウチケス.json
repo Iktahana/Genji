@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は新聞の報道を激しく打ち消した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "警察は容疑者が犯行を打ち消そうとしたと述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その根拠のない噂は、本人が直接打ち消すことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「雨だれの音じゃありませんかしら」　その苦しい云い訳を打ち消すように、台所の鯉はまた跳ねた。",
@@ -289,21 +314,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "防音壁が外の騒音を打ち消す効果がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しいイヤホンは周囲の雑音を打ち消す機能を備えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オーケストラのティンパニは他の楽器の音を打ち消してしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "否定する",
+        "消す"
+      ],
+      "antonyms": [
+        "肯定する",
+        "認める"
+      ],
+      "related": [
+        "消滅",
+        "否定",
+        "消音"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.263802+00:00Z",
+      "updated_at": "2026-06-01T22:16:27.836479+00:00Z",
       "freq_rank": 40338,
       "frequencies": {
         "aozora": 544

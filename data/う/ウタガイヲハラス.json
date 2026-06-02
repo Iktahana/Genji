@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は新しい証拠を提出して疑いを晴らすことに成功した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その医学的検査により、病気についての疑いを晴らせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は長年の努力で周囲の疑いを晴らしてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが又、彼の意気込みの激しさはただならぬものがあったから、あるいは彼は部屋にはいって来た時ぼくらの容子を見て、何か疑わしく思ったのではなかろうかと思われて、それでは矢張りその疑いを晴らす為に飲む可きだとも思った。",
@@ -94,14 +119,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "疑念を払拭する",
+        "無実を証明する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "潔白"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.137773+00:00Z"
+      "updated_at": "2026-06-01T22:13:03.863505+00:00Z"
     }
   }
 ]

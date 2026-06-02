@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の小説を読むと、よく裏長屋の生活が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "狭い裏長屋に住む家族の物語は、涙なしには読めない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "都会の喧騒を離れた一角に、古い裏長屋が残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "即ち蕪村は、ここで裏長屋の女房を指しているのである。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "長屋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "江戸",
+        "住居",
+        "路地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.993294+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.194126+00:00Z",
       "frequencies": {
         "aozora": 252
       }

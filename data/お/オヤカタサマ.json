@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お館様のご出陣に際し、家臣一同が門前に整列して静かに見送った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「お館様、敵軍が川の向こう岸に集結しているとの報告が入りました」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "お館様の慈悲深いお言葉に、広場に集まった領民たちは深く感動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――なぜなればもう　夜明けがお館様に来ることはなし、無残！",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "主君",
+        "主人",
+        "殿様"
+      ],
+      "antonyms": [
+        "家来"
+      ],
+      "related": [
+        "時代劇",
+        "身分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.175384+00:00Z"
+      "updated_at": "2026-06-02T02:23:14.785543+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "写真を撮るとき、日陰では適切なエクスポージャーを設定するのが難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夕日の明かりを考慮して、カメラのエクスポージャーを調整した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "エクスポージャーが長すぎたせいで、写真が全体的に白っぽくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -47,21 +72,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古いフィルムはエクスポージャーの調整が難しく、現像まで不安だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "光を当てすぎてエクスポージャーに失敗し、フィルムが真っ黒になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "芸術的な表現のために、あえて不正確なエクスポージャーで撮影した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "露出",
+        "摘発",
+        "暴露"
+      ],
+      "antonyms": [
+        "隠蔽",
+        "秘密"
+      ],
+      "related": [
+        "公開",
+        "スキャンダル",
+        "報道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.262170+00:00Z"
+      "updated_at": "2026-06-02T00:40:41.087635+00:00Z"
     }
   }
 ]

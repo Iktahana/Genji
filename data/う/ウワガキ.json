@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "封筒の上書きが読みやすいように、太いペンで丁寧に書いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「小包の上書きに宛先を書いてから出してね」と母に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誤字がないよう、上書きを確認してから投函した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこには明らかに「室生犀星樣」と上書きされてる、二三の手紙が這入つてゐた。",
@@ -274,21 +299,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いデータを新しいファイルで上書きしてしまった！",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "保存ボタンを押すと、自動的にファイルが上書きされます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誤って上書きしないように、作業用ファイルはコピーしておくべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "書き換え"
+      ],
+      "antonyms": [
+        "追記"
+      ],
+      "related": [
+        "ファイル",
+        "データ",
+        "コンピュータ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.281653+00:00Z",
+      "updated_at": "2026-06-02T00:27:56.979122+00:00Z",
       "freq_rank": 20894,
       "frequencies": {
         "aozora": 33

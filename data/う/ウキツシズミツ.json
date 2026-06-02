@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボートが波間に浮きつ沈みつしながら進む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海底の物が流れによって浮きつ沈みつしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クラゲが海中で浮きつ沈みつしながら漂っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "狸は夕陽にきらきら輝く湖面に浮きつ沈みつ、「あいたたた、あいたたた、ひどいぢやないか。",
@@ -262,14 +287,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "浮き沈み",
+        "浮沈"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "変動",
+        "波動",
+        "振幅"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.745324+00:00Z"
+      "updated_at": "2026-06-01T22:04:00.459816+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の話はいつもの大嘘で、誰も信じていなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そんな大嘘が通用すると思っているのか？",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はすぐにばれるような大嘘をついて、皆を呆れさせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの大がたりの大嘘つきめが……。",
@@ -271,14 +296,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大ぼら",
+        "虚言"
+      ],
+      "antonyms": [
+        "真実",
+        "事実"
+      ],
+      "related": [
+        "嘘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.612074+00:00Z",
+      "updated_at": "2026-06-02T01:14:11.509052+00:00Z",
       "frequencies": {
         "aozora": 101
       }

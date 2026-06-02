@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "演奏前にみんなで丁寧に音合せをする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ギターの音合せが済んだら、曲を始めよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "オーケストラが舞台上で静かに音合せをしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "音合せの度がだんだん重なってゆくうちに、雨蛙は節廻しもひどく上手になって、将監が吹くどんな曲にも鳴きつれることが出来るようになったと言います。",
@@ -45,14 +70,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "調律",
+        "チューニング",
+        "調音",
+        "音調整"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音程",
+        "楽器",
+        "音叉",
+        "ピッチ",
+        "演奏",
+        "合奏"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.683151+00:00Z",
+      "updated_at": "2026-06-02T01:49:06.385105+00:00Z",
       "frequencies": {
         "aozora": 1
       }

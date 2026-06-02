@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "連日の激務のせいか、鏡の中の自分の面やつれが気にかかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長い病床から復帰した彼は、すっかり面やつれして別人のようだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "心配事があるのか、彼女の面やつれした顔つきが痛々しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ夫人は一夜の内に、太く面やつれがしたけれども、翌日、伊勢を去る時、揉合う旅籠屋の客にも、陸続たる道中にも、汽車にも、かばかりの美女はなかったのである。",
@@ -239,14 +264,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "痩せ衰え",
+        "面痩せ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "疲労",
+        "不健康",
+        "やつれる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.129513+00:00Z",
+      "updated_at": "2026-06-02T02:22:57.673627+00:00Z",
       "frequencies": {
         "aozora": 29
       }

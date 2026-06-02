@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨の中で走ってきたので、髪が「ウェッティ」な感じになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "シャワー直後の「ウェッティ」な髪の毛が好きだと彼は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ジェルを塗った髪は「ウェッティ」な光沢が出る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ウェッティンゲンにおいては、弾丸の雨下する中に、竜騎兵第九連隊の先頭に立って致命傷を受けたモープティー大佐を腕に抱き取った。",
@@ -49,14 +74,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "濡れた"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "髪型",
+        "スタイル"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.490650+00:00Z"
+      "updated_at": "2026-06-01T21:56:51.102948+00:00Z"
     }
   }
 ]

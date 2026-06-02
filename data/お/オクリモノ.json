@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誕生日に素敵な贈り物をもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "感謝の気持ちを込めて贈り物を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "贈り物にはメッセージカードを添えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "するとこの龍宮のお土産も、あの人間のもろもろの禍の種の充滿したパンドラの箱の如く、乙姫の深刻な復讐、或ひは懲罰の意を祕めた贈り物であつたのか。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "プレゼント",
+        "贈呈品",
+        "贈答品"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "贈る",
+        "受け取る",
+        "ギフト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.677587+00:00Z",
+      "updated_at": "2026-06-02T01:25:12.911494+00:00Z",
       "freq_rank": 8154,
       "frequencies": {
         "aozora": 473

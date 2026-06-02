@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼い子供が「お母、お母」と泣きながら母親の服の裾を引っ張っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「お母、今日のおやつは何？」と無邪気に尋ねる声が聞こえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は小さな声で「お母」と呼びかけ、安心して目を閉じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空想的な人物であつた彼女のお母さんは、アメリカで金持になつてゐる親戚に会ひに行つて、家を建てて貰はうなぞと考へた。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "母",
+        "母親"
+      ],
+      "antonyms": [
+        "父"
+      ],
+      "related": [
+        "家族",
+        "親"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.187927+00:00Z"
+      "updated_at": "2026-06-02T01:18:59.905415+00:00Z"
     }
   }
 ]

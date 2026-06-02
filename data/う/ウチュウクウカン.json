@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地球の重力を振り切り、静寂に包まれた宇宙空間へと探査機が突き進む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宇宙空間では熱の伝わり方が地上とは異なるため、精密機器の温度管理が非常に難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "望遠鏡を使えば、宇宙空間を漂う美しい星雲の姿を捉えることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "冬のあいだは明瞭すぎて、つくりものめいて見えたり、宇宙空間に身をさらしているような不安をおぼえたりするが、夏になると適度に光が散乱し、安全な気分で天空の大きさを楽しめる。",
@@ -237,14 +262,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "宇宙",
+        "星間空間",
+        "深宇宙"
+      ],
+      "antonyms": [
+        "大気圏内",
+        "地表"
+      ],
+      "related": [
+        "真空",
+        "無重力",
+        "宇宙線",
+        "暗黒物質",
+        "星間物質"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.363390+00:00Z"
+      "updated_at": "2026-06-01T22:50:12.748115+00:00Z"
     }
   }
 ]

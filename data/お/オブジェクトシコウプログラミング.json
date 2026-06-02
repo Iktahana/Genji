@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オブジェクト指向プログラミングの原則を習得することは重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このコースではオブジェクト指向プログラミングの実践的な技法を教える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オブジェクト指向プログラミングを正しく実践するには経験が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "OOP"
+      ],
+      "antonyms": [
+        "手続き型プログラミング",
+        "関数型プログラミング"
+      ],
+      "related": [
+        "クラス",
+        "継承",
+        "カプセル化",
+        "ポリモーフィズム",
+        "オブジェクト指向言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.514446+00:00Z"
+      "updated_at": "2026-06-02T02:15:23.742340+00:00Z"
     }
   }
 ]

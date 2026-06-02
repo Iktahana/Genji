@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒くなってきたので、出かけるときは「上着」を着てください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "レストランに入るとき、店員が「上着」を預かってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この「上着」は少し大きいけれど、冬にはちょうどいいだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "機会宮沢賢治恋のはじめのおとなひはかの青春に来りけりおなじき第二神来は蒼き上着にありにけりその第三は諸人の栄誉のなかに来りけりいまおゝその四愛憐は何たるぼろの中に来しぞも",
@@ -290,21 +315,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ジムに行くときは、動きやすい「上着」を選ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい「上着」を買ったので、早く着て出かけたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この「上着」はカジュアルなデザインで、普段使いにぴったりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ジャケット",
+        "コート"
+      ],
+      "antonyms": [
+        "下着"
+      ],
+      "related": [
+        "衣服",
+        "ファッション",
+        "防寒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.294159+00:00Z",
+      "updated_at": "2026-06-02T00:27:56.984999+00:00Z",
       "freq_rank": 12844,
       "frequencies": {
         "aozora": 1121

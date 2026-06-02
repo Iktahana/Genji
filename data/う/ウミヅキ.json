@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "妻の産み月は来月の予定だから、出産準備を進めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "産み月が近づくにつれて、母親の身体は大きく変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者に産み月の検査を受けるよう勧められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もう産み月で痛み出して居るかも知れませんがなあ。",
@@ -93,14 +118,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "臨月"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "妊娠",
+        "出産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.806617+00:00Z",
+      "updated_at": "2026-06-02T00:22:56.166409+00:00Z",
       "frequencies": {
         "aozora": 7
       }

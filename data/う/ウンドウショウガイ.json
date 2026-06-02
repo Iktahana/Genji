@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パーキンソン病患者が薬の副作用で運動障害を起こした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "脳卒中の後遺症として運動障害が残ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "小児の運動障害の多くは脳性麻痺が原因である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "右側上下肢に軽い運動障害があると云うが、粗大力減弱はなく、異常反射も証明されない。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運動機能障害"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "麻痺",
+        "疾患",
+        "神経障害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.503659+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.538530+00:00Z"
     }
   }
 ]

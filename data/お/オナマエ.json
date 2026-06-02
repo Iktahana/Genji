@@ -33,6 +33,14 @@
             {
               "text": "もっとも手紙のおもてには、Ｍ・Ｔさんのお名前は書かれておりませぬ。",
               "source": "幻辞"
+            },
+            {
+              "text": "恐れ入りますが、お名前をお聞かせいただけますでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -282,14 +290,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "名前",
+        "名"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "人物",
+        "呼び名",
+        "称号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-02T01:57:13.627233+00:00Z"
     }
   }
 ]

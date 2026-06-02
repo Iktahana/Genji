@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "求人票に「応募資格：大卒以上、英検二級以上」と明記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年齢制限が応募資格に含まれているため、三十五歳以上の人は書類を出せなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「応募資格を満たしているか確認してから書類を送ってください」と担当者に念を押された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　と、呟きながら読んで行って、「応募資格ハ男女ヲ問ハズ、専門学校卒業又ハ同程度以上ノ学力ヲ有スル者」という個所まで来ると、道子の眼は急に輝いた。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "受験資格",
+        "参加資格"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "募集要項",
+        "条件",
+        "選考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.466507+00:00Z"
+      "updated_at": "2026-06-02T01:12:51.651386+00:00Z"
     }
   }
 ]

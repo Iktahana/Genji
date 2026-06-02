@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は激痛に耐えかねて、その場に蹲ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "迷子の子供が道端で蹲り、泣きじゃくっているのを見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "砲撃の音が聞こえる間、兵士たちは塹壕の中で低く蹲っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "頑丈な木造りの二三の椅子と卓子とが蹲る侏儒のやうにあるべからぬ所に散らばつてゐた。",
@@ -280,14 +305,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "屈む",
+        "縮こまる"
+      ],
+      "antonyms": [
+        "立つ",
+        "起きる"
+      ],
+      "related": [
+        "姿勢",
+        "恐怖",
+        "疲労"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.060571+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.884861+00:00Z",
       "frequencies": {
         "aozora": 555
       }

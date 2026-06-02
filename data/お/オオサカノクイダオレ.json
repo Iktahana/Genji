@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行から戻った友人は「大阪の食い倒れって本当だね、三日間食べ続けたら財布が空になった」と笑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大阪の食い倒れとはよく言ったもので、難波をひとまわりするだけでたこ焼きに串カツにと散財してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「大阪の食い倒れを体験しに行こうよ」と誘われ、三人で道頓堀の屋台を端から端まで食べ歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「京の着倒れ、大阪の食い倒れ」　というが京大阪の咄家は、昔から着物に金を掛ける。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "食い倒れ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "大阪グルメ",
+        "道頓堀",
+        "大阪文化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.799899+00:00Z"
+      "updated_at": "2026-06-02T01:15:50.018178+00:00Z"
     }
   }
 ]

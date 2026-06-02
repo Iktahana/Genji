@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦国時代の鬼武者たちは、次々と敵陣に突撃していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの大坂城の兵士たちは、まさに鬼武者のように勇敢に戦った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "映画の主人公は、鬼武者のように敵将に立ち向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "▲野球界の鬼武者　抑も早慶両大学が戟を交ゆるに至つた径路を語るには、第一にその径路と、当時両校を囲繞した四辺の空気を説明しなければならぬ。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "猛将",
+        "勇士",
+        "豪傑"
+      ],
+      "antonyms": [
+        "臆病者",
+        "弱虫"
+      ],
+      "related": [
+        "武者",
+        "武士",
+        "勇気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.136939+00:00Z"
+      "updated_at": "2026-06-02T02:01:58.490927+00:00Z"
     }
   }
 ]

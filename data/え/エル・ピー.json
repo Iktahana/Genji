@@ -331,6 +331,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "工場の生産スケジュールを最適化するため、ＬＰを使って資源配分の計算をシステムに組み込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -350,7 +358,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旧式の会計システムはＬＰで請求書を印刷していたが、設備更新でプリンターが新しくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "データセンターにはＬＰが数台並んでいて、毎日大量のレポートを高速で出力している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このファイルをＬＰに送って印刷してください」と上司に頼まれ、設定を確認してから実行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -368,7 +401,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "職場に導入されたＬＰは静音設計で、隣のデスクに座っていても印刷音がほとんど気にならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "トナー切れのサインが出たので、ＬＰのカートリッジを交換した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会議資料を急いでＬＰで出力したら、紙詰まりが起きて焦った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -386,21 +444,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イギリスの総選挙でＬＰが議席を大幅に伸ばし、連立政権を組む可能性が出てきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "政治学の授業でＬＰの歴史的変遷について調べ、自由主義の理念がどう受け継がれてきたかをレポートにまとめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ＬＰの党首が会見で減税政策の具体案を発表し、野党から激しい批判を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レコード",
+        "線形計画法"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "録音",
+        "印刷",
+        "政党"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.173469+00:00Z",
+      "updated_at": "2026-06-02T00:58:50.339677+00:00Z",
       "freq_rank": 28963
     }
   }

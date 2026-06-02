@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠慮深い性格の彼女は、なかなか自分の希望を口にしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遠慮深い彼は、困っていても人に頼ることを極力避けようとする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遠慮深い客ほど実は不満を抱えていることが多いと、女将は語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "遠慮深い小さな聲で云つて居るのであつたが流石に昨日の大宮の車夫とはちがつて、畫の中の物體を指摘したりしないで「色」を云つたりする處がそれだけ新しい時代の子供であるのかも知れない。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "控え目",
+        "謙虚"
+      ],
+      "antonyms": [
+        "大胆",
+        "積極的"
+      ],
+      "related": [
+        "内気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.839224+00:00Z"
+      "updated_at": "2026-06-02T01:08:38.919673+00:00Z"
     }
   }
 ]

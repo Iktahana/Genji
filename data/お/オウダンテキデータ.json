@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "現在の顧客の購買行動を分析するため、最新の横断的データを収集した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "経済学の論文では、特定の時点における複数企業の横断的データが用いられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この調査は、全国の家庭から得られた横断的データに基づいて行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "クロスセクションデータ"
+      ],
+      "antonyms": [
+        "時系列データ"
+      ],
+      "related": [
+        "統計",
+        "解析"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.368650+00:00Z"
+      "updated_at": "2026-06-02T01:11:48.120920+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ソナタは、クラシック音楽の中で最も重要な音楽形式の一つである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その作曲家は、伝統的な音楽形式を大胆に改変している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "音楽形式の理解は、より深く音楽を鑑賞するために必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際連句一巻の形式はソナタのごとき音楽形式とかなりまで類似した諸点をもつのである。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "楽曲形式"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "作曲",
+        "構成",
+        "音楽"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:27:31.530522+00:00Z"
     }
   }
 ]

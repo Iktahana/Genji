@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の芝居は、開演前から大入りで座席は満席だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人気アイドルの握手会には、会場に大入りが出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この映画館は週末になるといつも大入りだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芝居はどこでも大入りで、見物の血を湧かせた。",
@@ -269,14 +294,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "満員"
+      ],
+      "antonyms": [
+        "不入り"
+      ],
+      "related": [
+        "観客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.609716+00:00Z",
+      "updated_at": "2026-06-02T01:14:11.506492+00:00Z",
       "frequencies": {
         "aozora": 168
       }

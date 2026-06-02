@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はAO入試で希望の大学に合格した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "AO入試は学力試験だけでなく、人物評価も重視される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "娘は高校での活動を活かしてAO入試に挑戦するつもりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "アドミッション・オフィス入試",
+        "総合型選抜"
+      ],
+      "antonyms": [
+        "一般入試"
+      ],
+      "related": [
+        "大学受験",
+        "面接",
+        "エントリーシート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.868264+00:00Z"
+      "updated_at": "2026-06-02T01:07:04.045598+00:00Z"
     }
   }
 ]

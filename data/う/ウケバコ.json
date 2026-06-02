@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関先の受け箱に新聞が届けられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "牛乳瓶を受け箱から取り出して冷蔵庫に入れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "郵便受けがいっぱいだったので、予備の受け箱を設置した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "格子から予がのぞくとたんに、板塀に取り付けてある郵便受け箱にカサリという音がした。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "郵便受け",
+        "ポスト"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "投函",
+        "配達",
+        "郵便"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.827467+00:00Z"
+      "updated_at": "2026-06-01T22:05:01.534661+00:00Z"
     }
   }
 ]

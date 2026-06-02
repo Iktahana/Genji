@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会場には多くの参加者が集まり、立ち見が出るほどの盛況となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夏山シーズンにはこの峠を多くの登山者が越えるため、道はよく整備されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "発表会には多くの保護者が訪れ、子どもたちの演奏に温かい拍手を送っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さうあるべきがよかつたかも知れない多くの元気な顔たちの中に、私は容易におまへを見付ける。",
@@ -290,7 +315,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "参加者の多くは初めての土地に戸惑いながらも、すぐに打ち解けていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クラスの多くが賛成したため、修学旅行の行き先は京都に決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アンケート回答者の多くが「満足した」と答えており、運営側は手応えを感じていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -308,21 +358,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の作品は多く戦時中の経験をもとにしており、重厚な内容のものばかりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夏の夕立は多く午後三時ごろに降り出して、一時間ほどで上がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この地域の農家は多くがリンゴを栽培していて、秋には盛大な収穫祭が開かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "たくさん",
+        "数多く",
+        "大勢",
+        "大半"
+      ],
+      "antonyms": [
+        "少なく",
+        "僅か"
+      ],
+      "related": [
+        "数量",
+        "頻度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.714156+00:00Z",
+      "updated_at": "2026-06-02T01:14:42.912908+00:00Z",
       "freq_rank": 262,
       "frequencies": {
         "aozora": 18770

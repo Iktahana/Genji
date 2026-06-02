@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "選挙では各候補者に一定額の運動費が配分される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この政治団体の運動費は選挙管理委員会に報告書で記載される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "違法な運動費の使用は重大な犯罪である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "討幕派の軍用費調達というほどの大仕掛けではなくとも、江戸をあばれ廻る浪士どもの運動費調達ぐらいのことは無いともいわれない。",
@@ -261,14 +286,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "選挙費用"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "政治活動",
+        "資金"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.514463+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.542845+00:00Z"
     }
   }
 ]

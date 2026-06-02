@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この梅色という魚は新鮮な刺身が最高だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "市場で梅色を見つけたので、晩御飯に焼き魚にしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "梅色の唐揚げはお店の一番人気メニューだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たゞ若さは、青春は、娘は、かくおのれを謎の地に伏せる間も、謎の地に伏せるほど身のうちをうす紅梅色に華やがし、醸し出す艶冶な電気は、相対の性に向って逸奔し度がって仕方がありません。",
@@ -183,14 +208,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ウメイロ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魚",
+        "海水魚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.852707+00:00Z",
+      "updated_at": "2026-06-02T00:21:50.877619+00:00Z",
       "frequencies": {
         "aozora": 4
       }

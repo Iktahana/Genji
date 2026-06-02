@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "患者は痛みで呻きながら横たわっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "重い荷物を持って呻く声が聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜中に子どもが呻いているので調子が悪いのかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と狸は低く呻くやうに言ひ、「ただなら塗つてもらはうか。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うなる",
+        "苦悶する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "呻き",
+        "苦痛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.856307+00:00Z",
+      "updated_at": "2026-06-02T00:21:50.880456+00:00Z",
       "frequencies": {
         "aozora": 1018
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "采女正は宮中の女性たちを統括する、非常に重責な役職だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ドラマの中で、采女正が若手の采女たちを厳しく指導するシーンがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "当時の記録によると、采女正は宮廷儀礼にも深く関わっていたようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを取り調べると、豐後國日田にゐる徳川家の目附役竹中｜采女正に宛てた、栗山大膳利章の封書を懷中してゐた。",
@@ -221,14 +246,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "采女司の長官"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "采女司",
+        "官職",
+        "律令"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.630290+00:00Z",
+      "updated_at": "2026-06-02T00:21:40.277064+00:00Z",
       "frequencies": {
         "aozora": 27
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人の再会は運命的であり、周囲の誰もがそう感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この物語の展開は運命的で、計算されたかのような流れである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はその出来事を運命的な導きだと信じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして君がこの文壇――實は散文壇――に入り、その不潔な空氣に觸れしめたことが、運命的に腹立たしく呪はしいのだ。",
@@ -253,14 +278,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "宿命的"
+      ],
+      "antonyms": [
+        "偶然的"
+      ],
+      "related": [
+        "運命"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.561844+00:00Z",
+      "updated_at": "2026-06-02T00:30:01.993532+00:00Z",
       "frequencies": {
         "aozora": 194
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は「噂に違わぬ」才能を持つ若手画家だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この映画は「噂に違わぬ」傑作で、何度も見返したくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のリーダーシップは「噂に違わぬ」もので、チームを勝利に導いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（噂に違わぬ化物屋敷！",
@@ -62,14 +87,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "評判通りの",
+        "期待通りの"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "実力",
+        "評判"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.300683+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.209019+00:00Z"
     }
   }
 ]

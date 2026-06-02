@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沿岸警備隊は海難救助のために常に待機している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嵐の中での海難救助は非常に危険だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海難救助に参加する船乗りは高度な訓練を受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "海難救助協会の救難船が、現場に馳せつけた頃には、もう北海丸の船影はなく、炭塵や油の夥しく漂った海面には、最初にかけつけた釧路丸が、激浪に揉まれながら為す術もなく彷徨っているばかりだった。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "海上救助",
+        "船舶救助",
+        "遭難救助"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海難",
+        "遭難",
+        "救助",
+        "海上保安庁",
+        "救助活動",
+        "船舶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:22:27.843187+00:00Z"
     }
   }
 ]

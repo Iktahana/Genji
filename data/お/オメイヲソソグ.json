@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の冤罪を証明する新証拠が発見され、彼はついに汚名をそそぐ機会を得た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「試合に負けた汚名をそそぐには、次の大会で結果を出すしかない」とコーチは選手たちに語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "失脚した政治家は回顧録を出版し、歴史に刻まれた汚名をそそごうと試みた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小慧しくよそおった社会的な地位や名声に目を眩まされて牛を売りそこねないよう、諺の汚名をそそぐように勉強しましょう。",
@@ -88,14 +113,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "汚名を返上する",
+        "雪辱する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "名誉",
+        "回復"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.800957+00:00Z"
+      "updated_at": "2026-06-02T02:20:20.210213+00:00Z"
     }
   }
 ]

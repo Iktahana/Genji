@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本人選手がマラソン世界記録を更新するという快挙を成し遂げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "無名の高校生棋士が名人を破るという快挙に、将棋界全体が沸いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "女性初の南極単独徒歩横断という快挙は、世界中から称賛を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "世間は向さんの快挙を見て、それからは誤訳者と云えば私、私と云えば誤訳者、誤訳書と云えばファウスト、ファウストと云えば誤訳書と云うことにしている。",
@@ -175,14 +200,25 @@
       "homophones": [
         "開渠"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "偉業",
+        "大業"
+      ],
+      "antonyms": [
+        "失敗",
+        "惨敗"
+      ],
+      "related": [
+        "成功",
+        "勝利",
+        "栄光",
+        "達成"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.170920+00:00Z",
+      "updated_at": "2026-06-02T02:51:49.966935+00:00Z",
       "freq_rank": 20024,
       "frequencies": {
         "aozora": 23
@@ -219,7 +255,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "農地の排水のため、田畑の脇に開渠が掘られ、雨水が流れ込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市街地の開渠は悪臭の原因になることがあり、近年は暗渠化が進んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工事現場では開渠を設けて地下水位を下げ、掘削作業を安全に進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -228,9 +289,18 @@
       "homophones": [
         "快挙"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "溝",
+        "用水路",
+        "水路"
+      ],
+      "antonyms": [
+        "暗渠"
+      ],
+      "related": [
+        "排水",
+        "灌漑"
+      ]
     },
     "meta": {
       "version": "1.0.0",

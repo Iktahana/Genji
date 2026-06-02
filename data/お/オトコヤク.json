@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宝塚の舞台で、彼女の演じる男役は多くのファンを魅了する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "劇団の練習で、急遽私が男役を演じることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "男役としての立ち振る舞いを完璧に身につけるために、日々訓練している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男役のほうはどうもみんな芝居臭さが過ぎて「俳諧」をこわしているような気がする。",
@@ -269,14 +294,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男形",
+        "男性役"
+      ],
+      "antonyms": [
+        "女役",
+        "女形",
+        "立女形"
+      ],
+      "related": [
+        "宝塚",
+        "立役",
+        "二枚目",
+        "歌舞伎",
+        "女形",
+        "役者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.806696+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.230387+00:00Z",
       "freq_rank": 40941,
       "frequencies": {
         "aozora": 44

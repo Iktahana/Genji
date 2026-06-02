@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「道の端に小さなお地蔵さんがいて、地域の人たちが花を供えていた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「お地蔵さんに手を合わせて、旅の安全を祈願した。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「子供の頃、帰り道にあるお地蔵さんの前を通るのが少し怖かった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　傍で突っ立っている所在なさにきくと、君枝は、「何にでも効くお地蔵さんや」　と、手と声に力を入れて、「――かりに眼エが悪いとしたら、このお地蔵さんの眼エに水掛けて、洗たら良うなるし、胸の悪い人やったら、胸の処たわしで撫でたらよろしおますねん」　しきりに洗いながら、言った。",
@@ -237,14 +262,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "地蔵",
+        "地蔵菩薩",
+        "お地蔵様"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏像",
+        "石仏",
+        "菩薩",
+        "道祖神",
+        "子供の守護",
+        "六地蔵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.130435+00:00Z"
+      "updated_at": "2026-06-02T01:33:55.591504+00:00Z"
     }
   }
 ]

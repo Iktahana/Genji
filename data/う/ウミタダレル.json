@@ -30,21 +30,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長く放置した傷が膿み爛れて、医者に見てもらう必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "虫刺されを掻きすぎると膿み爛れてしまう危険がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "火傷の跡が膿み爛れないように、毎日消毒している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ただれる",
+        "腐る",
+        "化膿する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感染",
+        "化膿",
+        "傷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.794821+00:00Z",
+      "updated_at": "2026-06-02T00:22:56.164070+00:00Z",
       "frequencies": {
         "aozora": 5
       }

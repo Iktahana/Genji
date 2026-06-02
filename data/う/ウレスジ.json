@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このシリーズは売れ筋商品として定着している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売れ筋の家電製品を探している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "季節ごとに売れ筋の商品が変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ミダス雑誌の売れ筋はよく知ってるよな。",
@@ -46,14 +71,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "人気商品",
+        "ヒット商品",
+        "好評",
+        "定番",
+        "看板商品"
+      ],
+      "antonyms": [
+        "死に筋"
+      ],
+      "related": [
+        "トレンド",
+        "ランキング",
+        "需要",
+        "流行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.238641+00:00Z",
+      "updated_at": "2026-06-02T00:28:00.746470+00:00Z",
       "freq_rank": 19954,
       "frequencies": {
         "aozora": 1

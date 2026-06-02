@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "流れ作業の送り込みがスムーズになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り込みの速度を調整してプロセスを最適化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "自動化により送り込みが大幅に効率化された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は夕食後例のやうに食堂上部の美麗なる談話室に出でゝ、春枝夫人に面會し、日出雄少年には甲比丹クツクの冐瞼旅行譚や、加藤清正の武勇傳や、また私がこれ迄の漫遊中の失策談などを語つて聽かせて、相變らず夜を更かしたので、夫人と少年をば其船室に送り込み、明朝を約して其處を去つた。",
@@ -269,14 +294,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "投入",
+        "供給",
+        "搬入"
+      ],
+      "antonyms": [
+        "汲み出し",
+        "排出"
+      ],
+      "related": [
+        "送電",
+        "移送",
+        "注入",
+        "送入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.654642+00:00Z",
+      "updated_at": "2026-06-02T01:24:26.030985+00:00Z",
       "freq_rank": 36293,
       "frequencies": {
         "aozora": 2

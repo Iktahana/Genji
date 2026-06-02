@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "フランスの高級レストランではオマール料理が名物だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "誕生日のディナーでオマールを注文した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオマールは特に身が詰まっていて美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "シーザーから三〇〇年後に彼らは大僧正テオフィロス（Theophilos）の指図によっていったん復興されていたアレキサンドリアの図書館を掠奪し、更に三〇〇年後にはアラビアの酋長カリフ・オマール（Chalif Omar）がこの図書館のわずかに残存していた物を灰燼に委してしまった。",
@@ -149,14 +174,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ロブスター"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海老",
+        "食材",
+        "甲殻類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.729366+00:00Z",
+      "updated_at": "2026-06-02T02:20:35.367461+00:00Z",
       "freq_rank": 41890,
       "frequencies": {
         "aozora": 14

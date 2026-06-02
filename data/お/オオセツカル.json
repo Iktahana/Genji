@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部長から直接、このプロジェクトの進行を仰せつかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "重要な役割を仰せつかった以上、責任を持ってやり遂げたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "重要な任務を仰せつかったので、精一杯頑張るつもりです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いやはや、そんなことと知っていたなら、僕は何もこんなお人好しの役目を仰せつかるのではなかった。",
@@ -174,14 +199,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "命じられる",
+        "指示される"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仰せ",
+        "仰せ付ける",
+        "命令"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.868323+00:00Z",
+      "updated_at": "2026-06-02T01:17:09.251951+00:00Z",
       "frequencies": {
         "aozora": 131
       }

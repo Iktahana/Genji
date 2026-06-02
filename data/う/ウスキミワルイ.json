@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その映画の薄気味悪い場面が、印象に残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄気味悪い符号が、壁に書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちは、その薄気味悪い歌を怖がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蛙や蝸牛などのグロテスクなものを薄気味悪い思いをしてまで食べなくとも、巴里には甘い料理がいくらもある。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不気味",
+        "気味悪い",
+        "薄気味の悪い"
+      ],
+      "antonyms": [
+        "爽やか",
+        "明るい"
+      ],
+      "related": [
+        "恐怖",
+        "不安",
+        "怪奇",
+        "怪しい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.980190+00:00Z"
+      "updated_at": "2026-06-01T22:11:05.590976+00:00Z"
     }
   }
 ]

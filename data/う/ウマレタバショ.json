@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は生まれた場所を長年探し続け、ようやく瀬戸内の小さな島にたどり着いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "パスポートには氏名のほかに生まれた場所と生年月日が記載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれた場所には特別な感情があり、通るたびに足が止まってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（彼の名前には生まれた場所のアクアペンデンテが名前につけることがある）彼はヴェサリウスの後継者として適していた。",
@@ -54,14 +79,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "生まれ故郷",
+        "出生地",
+        "故郷",
+        "生地",
+        "ふるさと"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "出身",
+        "戸籍",
+        "本籍",
+        "誕生",
+        "土地",
+        "出生届"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.762207+00:00Z"
+      "updated_at": "2026-06-02T00:19:53.737832+00:00Z"
     }
   }
 ]

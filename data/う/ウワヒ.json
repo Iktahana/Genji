@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "上翳のため視力が低下している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医師が上翳の診断をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上翳の治療には時間がかかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ガラスの目玉をはめて、大きなうわひげをはやした、それはかわいらしいでくのぼうが、どの戸口にも立っていて、しめたり、あけたり、おへやのなかにすずしい風のはいるようにしていました。",
@@ -47,12 +72,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "眼病",
+        "視力障害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.343006+00:00Z"
+      "updated_at": "2026-06-02T00:28:25.526198+00:00Z"
     }
   }
 ]

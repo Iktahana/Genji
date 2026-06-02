@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験に落ちたことがショックで、ひどく落ち込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "些細な失敗でいちいち落ち込んでいては、前に進めないよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "友達に励まされて、少し落ち込んでいた気分が晴れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どうして素足でここへ来たか、平生用心深い子で、縁側から一度も落ちたことも無かったのだから、池の水が少し下がって低かったら、落ち込むようなことも無かったろうにと悔やまれる。",
@@ -289,7 +314,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不況の影響で、建設業界の景気は大きく落ち込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夏場のレジャー需要は、天候不順のために大幅に落ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "世界的な原油価格の下落により、関連企業の株価が落ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -307,21 +357,63 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "泥道で足を滑らせて、足が穴に落ち込んでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "落ち込んだ穴から這い上がるために、必死に壁を蹴った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "整備されていない畑の穴に足が落ち込んで、怪我をしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "沈む",
+        "気落ちする",
+        "がっかりする",
+        "意気消沈する",
+        "低迷する"
+      ],
+      "antonyms": [
+        "立ち直る",
+        "元気づく",
+        "奮起する",
+        "回復する"
+      ],
+      "related": [
+        "憂鬱",
+        "スランプ",
+        "失意",
+        "不況",
+        "陥没"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.461017+00:00Z",
+      "updated_at": "2026-06-02T01:41:05.408419+00:00Z",
       "freq_rank": 16187,
       "frequencies": {
         "aozora": 705

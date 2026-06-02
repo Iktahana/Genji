@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "データベースの各オブジェクト識別子は一意に割り当てられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このシステムではオブジェクト識別子を使ってデータを追跡管理する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オブジェクト識別子が重複しないように防止機構が組み込まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "OID",
+        "識別子",
+        "ユニークID"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "LDAP",
+        "X.500",
+        "ディレクトリ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.510757+00:00Z"
+      "updated_at": "2026-06-02T02:12:43.761172+00:00Z"
     }
   }
 ]

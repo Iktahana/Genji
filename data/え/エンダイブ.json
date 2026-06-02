@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サラダにエンダイブの苦味が良いアクセントになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友人の畑で採れた新鮮なエンダイブを分けてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "エンダイブは洗って水気をよく切ってから使うと美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジャコウソウやサルビアやエンダイブや様々なハーブのかぐわしい匂いが満ち満ちて、秋には祖母が摘んで、台所の梁に木綿袋で吊るすのが習わしだった。",
@@ -45,14 +70,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "チコリ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "野菜",
+        "サラダ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.604396+00:00Z",
+      "updated_at": "2026-06-02T01:04:06.898132+00:00Z",
       "frequencies": {
         "aozora": 1
       }

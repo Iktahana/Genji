@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その僧侶は町でも有徳な人として知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "有徳な人生を送ることが彼の目標だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の有徳さと誠実さは周囲から深く敬われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはとにかく、この老人はこの煙管と灰吹のおかげで、ついぞ家族を殴打したこともなく、また他の器物を打毀すこともなく温厚篤実な有徳の紳士として生涯を終ったようである。",
@@ -281,14 +306,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "有徳者",
+        "篤志",
+        "高潔",
+        "誠実",
+        "品行方正"
+      ],
+      "antonyms": [
+        "不徳",
+        "無徳",
+        "不誠実"
+      ],
+      "related": [
+        "徳",
+        "道徳",
+        "善行",
+        "人徳",
+        "徳望"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.578183+00:00Z",
+      "updated_at": "2026-06-01T23:33:32.304903+00:00Z",
       "frequencies": {
         "aozora": 169
       }

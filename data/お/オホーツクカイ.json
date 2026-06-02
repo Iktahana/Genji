@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オホーツク海は北海道の北東に広がる海だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎冬オホーツク海から流氷が北海道へ流れてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オホーツク海の漁場は日本有数の水産物の供給地である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、ほんとうに、こんなオホーツク海のなぎさに座って乾いて飛んで来る砂やはまなすのいい匂を送って来る風のきれぎれのものがたりを聴いているとほんとうに不思議な気持がするのでした。",
@@ -279,12 +304,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "北海道",
+        "サハリン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.629726+00:00Z"
+      "updated_at": "2026-06-02T02:19:51.253915+00:00Z"
     }
   }
 ]

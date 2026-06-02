@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大人数での移動になるため、バスを二台チャーターして会場へ向かうことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大人数での忘年会は店の予約が難しいと幹事が頭を抱えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大人数が一度に押し寄せたため受付が長蛇の列となり、入場まで一時間待ちになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「ところが眷属大人数です。",
@@ -279,14 +304,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "多人数",
+        "大勢"
+      ],
+      "antonyms": [
+        "少人数",
+        "少数"
+      ],
+      "related": [
+        "団体",
+        "群衆",
+        "混雑",
+        "大人数編成"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.977908+00:00Z",
+      "updated_at": "2026-06-02T01:17:24.026514+00:00Z",
       "frequencies": {
         "aozora": 4
       }

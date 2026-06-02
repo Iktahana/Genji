@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼児がお丸を使うように練習している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "赤ちゃんがお丸に座るのに慣れるまで、親は根気強く促す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "保育園ではお丸の使い方を教えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "火鉢の火を絶やさぬやうにして風を引かせぬのも、夜なかに手水が支へて、ううんと云つて、夜着を跳ね退けるとき、直に目を醒まして、お丸に手水をさせるのも、皆博士が自分で遣つてゐるのであるから、それを手放しては安心してゐられぬ。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "便器"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "赤ちゃん",
+        "トイレ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.713549+00:00Z",
+      "updated_at": "2026-06-02T02:20:35.363727+00:00Z",
       "frequencies": {
         "aozora": 35
       }

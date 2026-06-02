@@ -29,21 +29,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工事現場のオブストラクションが交通に支障をきたしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プロジェクトの進行中にいくつかのオブストラクションが発生した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオブストラクションを除去するために追加の予算が必要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "妨害",
+        "障害",
+        "阻害"
+      ],
+      "antonyms": [
+        "援助",
+        "促進"
+      ],
+      "related": [
+        "遮断",
+        "障壁",
+        "妨げ",
+        "ブロック"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.527729+00:00Z"
+      "updated_at": "2026-06-02T02:15:23.744658+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裏階段は狭くて急だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "サーヴァントは裏階段を使って移動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この館には裏階段が複数ある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二階へ上るといっても、女中部屋の脇からの裏階段で、母屋とは棟ちがいの中二階の部屋に案内した。",
@@ -261,14 +286,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "勝手階段",
+        "非常階段"
+      ],
+      "antonyms": [
+        "正面階段"
+      ],
+      "related": [
+        "建物",
+        "通路",
+        "構造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.914971+00:00Z"
+      "updated_at": "2026-06-02T00:22:59.900100+00:00Z"
     }
   }
 ]

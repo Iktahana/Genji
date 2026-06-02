@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅近くの鰻屋からは昼過ぎになると蒲焼きのタレの香りが漂ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "予約なしで人気の鰻屋に並んだら、二時間待つよう言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その鰻屋は三代続く老舗で、秘伝のタレを毎日継ぎ足しながら守り続けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "引切の無い人通りも、およそ途中で立停って、芸者の形を見物するのは、鰻屋の前に脂気を嗅ぐ、奥州のお婆さんと同じ恥辱だ、という心得から、誰も知らぬ顔で行違う。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鰻店"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鰻",
+        "飲食店",
+        "蒲焼",
+        "専門店",
+        "暖簾",
+        "外食"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.602140+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.058019+00:00Z",
       "frequencies": {
         "aozora": 150
       }

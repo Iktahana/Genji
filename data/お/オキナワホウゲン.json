@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "観光地で地元の人が話している沖縄方言が、心地よく響いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "おじいちゃんが時々口にする沖縄方言の意味が分からない時がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "沖縄方言を習得するために、CD教材を買って毎日聞いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おきなわやまとぐちというのは、その言葉自体が示しているように、言語としては正体のあいまいなもので、日本語でもなければ方言でもないのであるが、沖縄方言と日本語とをこねまぜたものである。",
@@ -69,14 +94,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "琉球語",
+        "ウチナーグチ",
+        "沖縄語"
+      ],
+      "antonyms": [
+        "標準語",
+        "共通語"
+      ],
+      "related": [
+        "沖縄",
+        "方言",
+        "琉球",
+        "訛り",
+        "島言葉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.455965+00:00Z"
+      "updated_at": "2026-06-02T01:22:15.883688+00:00Z"
     }
   }
 ]

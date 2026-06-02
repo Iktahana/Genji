@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このコースでの英語学習はオプショナルだが、参加した生徒は全員が成績を伸ばした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "健康診断のオプショナルな検査項目として、脳ドックが新たに加えられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プログラムへの参加はオプショナルとされていたが、実際にはほぼ全員が集まっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "任意",
+        "選択的",
+        "随意"
+      ],
+      "antonyms": [
+        "必須",
+        "義務"
+      ],
+      "related": [
+        "選択",
+        "オプション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.535127+00:00Z"
+      "updated_at": "2026-06-02T02:15:15.799004+00:00Z"
     }
   }
 ]

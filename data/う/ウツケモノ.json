@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "若き日の信長は周囲から「うつけ者」と呼ばれ、誰にも本心を見せなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そんなうつけ者の言葉など聞くな」と父は息子に諭した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "うつけ者に見えた彼が、実は誰よりも深く物事を考えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前田利家は余り人の悪口を云うような人では無いが、其の世上の「うつけ者」の二人として挙げた中の一人は、確と名は指して無いが信雄ではないかと思われる。",
@@ -245,14 +270,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "愚か者",
+        "馬鹿",
+        "阿呆",
+        "間抜け",
+        "抜け作",
+        "白痴"
+      ],
+      "antonyms": [
+        "賢者",
+        "知者",
+        "利口"
+      ],
+      "related": [
+        "織田信長",
+        "呆ける",
+        "大うつけ",
+        "愚弄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.474482+00:00Z",
+      "updated_at": "2026-06-01T22:57:02.931786+00:00Z",
       "frequencies": {
         "aozora": 30
       }

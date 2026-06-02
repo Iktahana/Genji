@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不便をおかけして申し訳ございません。お詫び申し上げます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お詫びといっては何ですが、ご来店の際は割引をさせていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "誠にお詫びいたします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私共は如何様にもあなたにお詫びを致します。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "謝罪",
+        "謝り",
+        "陳謝"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "謝る",
+        "反省"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.675826+00:00Z",
+      "updated_at": "2026-06-02T02:26:39.921976+00:00Z",
       "freq_rank": 8139
     }
   }

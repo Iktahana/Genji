@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸の町には女髪結いが多く、女性たちの髪を整える仕事で生計を立てていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "時代劇に登場する女髪結いが、客の愚痴を聞きながら手際よく髪を結う場面が好きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "女髪結いとして腕を磨いた彼女は、やがて弟子を取るほどの名人になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宿屋を見つけると、さっそく腕の良さそうな女髪結い屋を探した。",
@@ -109,14 +134,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "髪結い",
+        "女性美容師"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "髪結い",
+        "美容師",
+        "美容院",
+        "江戸時代",
+        "髪型"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:32:11.388630+00:00Z"
     }
   }
 ]

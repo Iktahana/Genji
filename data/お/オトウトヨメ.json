@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弟嫁が手料理を振る舞ってくれて、とても美味しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟嫁は、家庭菜園で野菜作りを楽しんでいるそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近、弟嫁から相談事の電話があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其とも嫂と弟嫁か、敵同士か、いづれ二重の幻影である。",
@@ -143,14 +168,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "義妹"
+      ],
+      "antonyms": [
+        "兄嫁"
+      ],
+      "related": [
+        "弟",
+        "夫婦",
+        "家族",
+        "義弟",
+        "嫁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.703637+00:00Z",
+      "updated_at": "2026-06-02T01:49:06.393507+00:00Z",
       "frequencies": {
         "aozora": 15
       }

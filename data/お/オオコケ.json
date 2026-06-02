@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "期待されていた新作映画が、興行的に大コケした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のデビュー作は大コケだったが、その後才能を開花させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あのプロジェクトの失敗は、まさかの大コケだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "杉寛が倒れ、大庭六郎に「昇給」の伯父さんの役をやらせたが、こいつは大コケ、芝居をめちゃ／＼にしちまやがった、ひどい目にあった。",
@@ -47,14 +72,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大失敗",
+        "大敗"
+      ],
+      "antonyms": [
+        "大成功",
+        "大当たり"
+      ],
+      "related": [
+        "不評",
+        "興行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.742562+00:00Z"
+      "updated_at": "2026-06-02T01:15:03.279373+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日練習を続けたおかげで、ようやくピアノの腕が上がってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "留学先で学んだおかげで、彼女のフランス語の腕が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "釣りの腕が上がったのか、今日は大物が次々と釣れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さぞ腕が上がるだろう。",
@@ -70,14 +95,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上達する",
+        "腕を上げる"
+      ],
+      "antonyms": [
+        "衰える",
+        "低下する"
+      ],
+      "related": [
+        "修行",
+        "練習",
+        "成長"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.545436+00:00Z"
+      "updated_at": "2026-06-01T23:14:43.508217+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祭りの日、祖父は箪笥の奥にしまっていた男帯を取り出し、慣れた手つきで締め直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "呉服屋の棚には女性用の華やかな帯に並んで、落ち着いた色柄の男帯も揃えてあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "着付け教室で男帯の締め方を習い、父の七五三に間に合わせることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お末が単衣の上に羽織を着て、メレンスの結び下げの男帯の代りに、後ろの見えないのを幸ひに一とまはりしかない短い女帯をしめるやうになつた頃から、不景気不景気と云ふ声がうるさい程聞こえ出した。",
@@ -150,13 +175,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女帯"
+      ],
+      "related": [
+        "帯",
+        "半幅帯"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.736860+00:00Z",
+      "updated_at": "2026-06-02T01:49:23.413620+00:00Z",
       "frequencies": {
         "aozora": 14
       }

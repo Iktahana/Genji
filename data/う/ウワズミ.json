@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "味噌汁の上澄みだけをそっと掬って、病人に飲ませる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "煮込み料理の鍋から脂の上澄みを丁寧に取り除く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "泥水が静まり、コップの底に砂が沈んで上澄みが現れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……溝の上澄みのような冷たい汁に、おん羮ほどに蜆が泳いで、生煮えの臭さといったらなかった。",
@@ -141,14 +166,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "上汁",
+        "上清"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "液体",
+        "分離",
+        "沈殿"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.312702+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.213825+00:00Z",
       "frequencies": {
         "aozora": 12
       }

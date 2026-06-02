@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最後の勝負で引き分けになり、結局はお相子になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今回の取引は貸し借りを相殺して、お相子ということにしましょう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "負けが込んでいたが、最後の一手で逆転し、お相子まで持ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とにかく今回でおあいこだ。",
@@ -45,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "引き分け",
+        "同点",
+        "五分五分"
+      ],
+      "antonyms": [
+        "決着",
+        "勝敗"
+      ],
+      "related": [
+        "勝負",
+        "仲直り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.959426+00:00Z"
+      "updated_at": "2026-06-02T01:08:05.713591+00:00Z"
     }
   }
 ]

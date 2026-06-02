@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はテストで60点取ったことを鬼の首を取ったようにクラスで自慢している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父は庭の雑草を全部取り除いたことを鬼の首を取ったようにはしゃいでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は家を掃除しただけなのに、鬼の首を取ったように得意げに見せびらかした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "破産した人間の土地を値切り倒して、それで時価よりも安く買えると彼は、鬼の首を取ったように喜んだ。",
@@ -54,14 +79,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "威張る",
+        "自慢する",
+        "有頂天",
+        "得意がる"
+      ],
+      "antonyms": [
+        "謙虚",
+        "控えめ"
+      ],
+      "related": [
+        "首",
+        "成功",
+        "勝利"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.118160+00:00Z"
+      "updated_at": "2026-06-02T02:01:58.481884+00:00Z"
     }
   }
 ]

@@ -30,21 +30,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "SNSに投稿した短い体験談に尾ひれがついて、翌日には全国規模のニュースサイトに掲載されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "最初は些細な口喧嘩だったのに、伝言ゲームのように伝わるうちに尾ひれがついて、集団対立のように語られるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅先での小さなハプニングが職場に伝わると必ず尾ひれがついて、大冒険に変わってしまうのが面白い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "誇張される",
+        "大げさになる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "噂",
+        "話",
+        "風聞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.318302+00:00Z"
+      "updated_at": "2026-06-02T02:07:43.114959+00:00Z"
     }
   }
 ]

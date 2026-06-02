@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生に呼ばれた彼は、心当たりがあるのか、うそうそと周囲を伺いながら職員室へ向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "借金を催促しに来た男は、家の中をうそうそと覗き込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "落ち着きのない子供が、見知らぬ場所でうそうそと歩き回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猫はあたかも何事も起らなかったかのようにうそうそと橋の欄干を嗅いでいた。",
@@ -259,12 +284,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "うろうろ",
+        "そわそわ",
+        "落ち着かない",
+        "不安"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.088963+00:00Z",
+      "updated_at": "2026-06-01T22:13:28.967737+00:00Z",
       "frequencies": {
         "aozora": 62
       }

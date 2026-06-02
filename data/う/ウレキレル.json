@@ -30,21 +30,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人気アーティストのライブチケットは発売から数分で売れ切れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "台風接近が報じられると、スーパーの非常食や飲料水が午前中のうちに売れ切れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "限定版のスニーカーは抽選販売にもかかわらず、受け取り当日中に売れ切れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "完売する",
+        "捌ける",
+        "品切れになる",
+        "尽きる"
+      ],
+      "antonyms": [
+        "売れ残る"
+      ],
+      "related": [
+        "在庫切れ",
+        "注文殺到",
+        "品薄",
+        "欠品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.229504+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.739801+00:00Z"
     }
   }
 ]

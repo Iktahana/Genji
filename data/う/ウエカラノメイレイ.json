@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「現場の苦労も知らないで、上からの命令だけで動かそうとするなよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "会社員である以上、不条理なことでも上からの命令には逆らえない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その作戦は、司令部からの「上からの命令」として厳格に伝えられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは上からの命令ではなかったが、こういう事件を仕出かした以上、三島に向ってその破却を勧告するのが親類の義務であった。",
@@ -69,14 +94,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上司の命令",
+        "上からの指示",
+        "命令"
+      ],
+      "antonyms": [
+        "下からの要求",
+        "現場からの声"
+      ],
+      "related": [
+        "上下関係",
+        "指示",
+        "組織",
+        "従う",
+        "服従",
+        "権限"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.554806+00:00Z"
+      "updated_at": "2026-06-01T21:58:37.179933+00:00Z"
     }
   }
 ]

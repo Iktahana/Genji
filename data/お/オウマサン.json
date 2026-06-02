@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お馬さんだよ」と母が言うと、二歳の娘は牧場の柵越しに恐る恐る手を伸ばした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "絵本の中のお馬さんに夢中になった息子は、毎晩その本を読んでくれとせがんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "動物園でお馬さんに乗せてもらった甥は、大喜びで手を振り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「お馬さん、お馬さん、あなたがほんとうにかけ出したら、どんなに疾いでしょうね。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "馬"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "動物",
+        "幼児語",
+        "競馬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.470531+00:00Z"
+      "updated_at": "2026-06-02T01:12:51.653802+00:00Z"
     }
   }
 ]

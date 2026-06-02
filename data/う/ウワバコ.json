@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "贈り物の上箱を丁寧に開けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上箱を取り外すと内箱が現れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上箱には送り主の名前が書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どちらも茣蓙で包んで上箱に入れて、貴重品扱いにして門司の山九運送店宛に出して下さいな。",
@@ -245,14 +270,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "外箱",
+        "表箱"
+      ],
+      "antonyms": [
+        "内箱",
+        "中箱"
+      ],
+      "related": [
+        "梱包",
+        "パッケージ",
+        "二重箱",
+        "保護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.334561+00:00Z"
+      "updated_at": "2026-06-02T00:29:10.863521+00:00Z"
     }
   }
 ]

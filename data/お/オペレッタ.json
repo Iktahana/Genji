@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウィーンではオペレッタが今も劇場で上演されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオペレッタは楽しい旋律と面白い台詞で知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "地元劇団はモーツァルトのオペレッタを新演出で上演する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "四七年度に入ってオペラとオペレッタへの関心がたかまった。",
@@ -181,14 +206,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "軽歌劇"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オペラ",
+        "ミュージカル",
+        "歌劇",
+        "レハール",
+        "オッフェンバック"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.607181+00:00Z",
+      "updated_at": "2026-06-02T02:17:51.048990+00:00Z",
       "freq_rank": 35374,
       "frequencies": {
         "aozora": 20

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その書店では海賊版の本が混在して販売されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海賊版を購入することはその著者の利益を損なう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "出版社は海賊版の流通を厳しく監視している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,14 +63,25 @@
       "homophones": [
         "海賊盤"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "海賊盤",
+        "不正コピー",
+        "違法複製"
+      ],
+      "antonyms": [
+        "正規版",
+        "本物"
+      ],
+      "related": [
+        "著作権",
+        "海賊",
+        "複製"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.529610+00:00Z",
+      "updated_at": "2026-06-02T03:12:19.143089+00:00Z",
       "freq_rank": 18427
     }
   },
@@ -79,7 +115,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のコンサートの海賊盤がネットで売られているらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海賊盤のDVDは画質が悪く音声も不安定だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "有名なアルバムの海賊盤が大量に出回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -88,9 +149,19 @@
       "homophones": [
         "海賊版"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "海賊版",
+        "コピー盤"
+      ],
+      "antonyms": [
+        "正規盤"
+      ],
+      "related": [
+        "CD",
+        "DVD",
+        "音楽",
+        "映像"
+      ]
     },
     "meta": {
       "version": "1.0.0",

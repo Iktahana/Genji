@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バグが修正されるまでの間、開発チームは手動でデータを変換するという回避策を採用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "システム障害が続いているため、担当者は一時的な回避策として別のサーバーを使う方法を提案した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティパッチが公開されるまでの回避策として、該当ポートをファイアウォールで閉じるよう指示が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はいつもの回避策をつかった。",
@@ -53,14 +78,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "回避手段",
+        "対処法",
+        "抜け道",
+        "代替手段",
+        "迂回策",
+        "ワークアラウンド"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "回避",
+        "問題解決",
+        "バグ対処",
+        "リスク管理",
+        "暫定対応",
+        "システム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:26:19.683183+00:00Z"
     }
   }
 ]

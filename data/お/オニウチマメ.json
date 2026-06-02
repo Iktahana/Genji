@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "節分の夜、鬼打ち豆を家中にまいて邪気を払う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「鬼打ち豆をまくぞ」と父が掛け声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "炒られた鬼打ち豆の香ばしい匂いが部屋に広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちょうど、鬼打ち豆を撒いて居る頃、表の方を、「厄払いましょう厄払いましょう」と言いながら通る者があることも知っているでしょう。",
@@ -45,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "豆",
+        "節分豆"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "節分",
+        "鬼",
+        "豆撒き",
+        "大豆",
+        "儀式",
+        "年中行事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.076430+00:00Z"
+      "updated_at": "2026-06-02T01:59:16.920945+00:00Z"
     }
   }
 ]

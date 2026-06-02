@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "若い頃の女遊びが祟り、今になって家族関係がぎくしゃくしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "仕事一筋だった父には女遊びの気配など一切なかったと母は言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "女遊びに明け暮れた末、彼は大切なものをすべて失った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若い時の女遊びは、女を買うのではなく、自分の男を見せびらかしに行くんだから、自惚れこそは最大の敵と思っていなさい。",
@@ -253,14 +278,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "浮気",
+        "色遊び",
+        "道楽",
+        "放蕩"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "色恋",
+        "花柳界",
+        "遊廓",
+        "男女関係",
+        "風俗"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:11.385787+00:00Z",
       "frequencies": {
         "aozora": 61
       }

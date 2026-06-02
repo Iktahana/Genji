@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "逃げた猫を全力で追っかける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夢を追っかけるのは素晴らしいことだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は常に最新のトレンドを追っかけるタイプだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしあまりあせり過ぎては、却って自分にある好い物を捨てて自分にないものを追っかける恐れがありはしないか。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追いかける",
+        "追う",
+        "追跡する",
+        "追い回す"
+      ],
+      "antonyms": [
+        "逃げる",
+        "逃走する"
+      ],
+      "related": [
+        "追跡",
+        "逃走",
+        "追いかけっこ",
+        "追い詰める"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.520178+00:00Z",
+      "updated_at": "2026-06-02T01:43:51.788298+00:00Z",
       "frequencies": {
         "aozora": 1625
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王位継承者として彼は特別な教育を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "王位継承者の誕生は国民に大きな喜びをもたらした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "王位継承者が公務に初めて参加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三百万の領民と百四十万リーヴルの年収を持つ王位継承者ルイ・シャルルは、臨終の祈祷も終油も受けず、暗牢の粗木の臥牀の上で満十歳と三カ月の短い生を終え、アウレリアス王以来、異常な運命に死んだ八百七十二人の史上の不幸な王の群の中へその名を列ねることになった。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "後継者",
+        "次期国王"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "王位",
+        "世継ぎ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.152281+00:00Z"
+      "updated_at": "2026-06-02T01:09:27.325733+00:00Z"
     }
   }
 ]

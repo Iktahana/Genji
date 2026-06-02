@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父は腕まくりして大掃除の準備を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大工たちは腕まくりをして力仕事に取り組んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "庭の草むしりの前に腕まくりをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此句に音律があるから、讀んで――見ただけではない、如何にも腕まくりした男が、盆踊か何かの踊の一團を崩して、悠々として通るのが表れてゐる。",
@@ -279,14 +304,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "袖まくり",
+        "たすき掛け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "本腰",
+        "やる気",
+        "準備",
+        "気合い",
+        "腕前"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.571143+00:00Z",
+      "updated_at": "2026-06-01T23:33:32.285990+00:00Z",
       "frequencies": {
         "aozora": 122
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この危険物取扱者の資格は、乙種のものが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "乙種合格を目指して、毎日参考書を読み込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "乙種とはいえ、その実力は甲種に引けを取らない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "乙種の科学者は、そう簡単にも片付けてしまわない。",
@@ -253,14 +278,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "二種",
+        "B種",
+        "乙号"
+      ],
+      "antonyms": [
+        "甲種",
+        "一種"
+      ],
+      "related": [
+        "等級",
+        "分類",
+        "甲種",
+        "丙種"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.614262+00:00Z",
+      "updated_at": "2026-06-02T01:46:14.696690+00:00Z",
       "frequencies": {
         "aozora": 32
       }

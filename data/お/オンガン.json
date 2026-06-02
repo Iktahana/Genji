@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その医者は温顔で患者に接していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖母の温顔を見ると、心が落ち着く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "温顔で語りかけてくれる先生のおかげで、クラスの雰囲気が良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ゆき短な右の手に、畳んだままの扇を取って、温顔に微笑を含み、動ぎ出でつ、ともなく客僧の前へのっしと坐ると、気に圧された僧は、ひしと茶斑の大牛に引敷かれたる心地がした。",
@@ -261,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "和顔",
+        "慈顔"
+      ],
+      "antonyms": [
+        "険相",
+        "鬼相"
+      ],
+      "related": [
+        "温和",
+        "笑顔",
+        "慈悲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:27:46.133522+00:00Z",
       "frequencies": {
         "aozora": 71
       }

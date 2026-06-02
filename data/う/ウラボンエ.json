@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近所の寺で盂蘭盆会が開かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "盂蘭盆会には多くの参拝者が訪れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "盂蘭盆会の期間中は様々な行事が催される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのうちに七月が来て、盂蘭盆会の前夜となったので、※の家では燈籠をかけて紙銭を供えた。",
@@ -221,14 +246,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お盆",
+        "盆供養"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "行事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.020784+00:00Z"
+      "updated_at": "2026-06-02T00:25:54.547115+00:00Z"
     }
   }
 ]

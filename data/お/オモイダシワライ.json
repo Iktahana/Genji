@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日のくだらないことを思い出し笑いしながら歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "懐かしい思い出し笑いがふっとこぼれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "思い出し笑いをしていたら、隣の人に不思議そうに見られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また自分のことでないことに公憤を起こしまして、自分の心にだけ置いておくことに我慢のできぬような時、けれども自分の妻はこんなことのわかる女でないのだと思うと、横を向いて一人で思い出し笑いをしたり、かわいそうなものだなどと独言を言うようになります。",
@@ -279,14 +304,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "後ろで笑う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "笑顔",
+        "記憶",
+        "思い出"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.904216+00:00Z"
+      "updated_at": "2026-06-02T02:23:08.952287+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公演前日の大浚いで台詞が飛んでしまい、演出家に厳しく指摘された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「今日の大浚いはかなりよくなった、本番はこの調子でいこう」と座長が全員に声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "劇団の大浚いに客演俳優も加わり、通し稽古が深夜まで続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その田原屋の二階で藤間光奴という踊りの師匠の大浚いが催された。",
@@ -69,14 +94,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "総ざらい",
+        "通し稽古"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "稽古",
+        "公演",
+        "予行演習"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.817646+00:00Z",
+      "updated_at": "2026-06-02T01:15:50.025367+00:00Z",
       "frequencies": {
         "aozora": 4
       }

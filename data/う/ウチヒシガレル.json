@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "愛犬を失った悲しみに打ちひしがれ、しばらく何も手につかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "落選の知らせを受けた彼は、その場に打ちひしがれてうずくまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "親友の急逝に打ちひしがれた彼女は、葬儀の間中ずっと泣き続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「先刻から見ていると、よく主人の世話をしているようだが」　蔭になり日向になり、深い悲しみに打ちひしがれる主人六兵衛の世話を焼いているのは、店中でこの娘たった一人だったことは、平次が早くも見ていたのです。",
@@ -70,14 +95,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "打ちのめされる",
+        "傷つく",
+        "打撃を受ける",
+        "憔悴する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "悲嘆",
+        "喪失感",
+        "ショック",
+        "絶望",
+        "落胆",
+        "精神的打撃"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.321777+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.033122+00:00Z"
     }
   }
 ]

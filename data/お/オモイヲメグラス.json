@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人生について思いを巡らす",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複雑な問題について思いを巡らした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "宇宙の謎に思いを巡らせている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "地球若かりし頃に建設された一つの巨大構造物の床へと、沙漠の砂がそこから直接落ちて行っているようだった――悠久の地質学的激動を通していかにこの構造物が耐え忍んできたか、当時も今も、私には思いを巡らす余地すらない。",
@@ -54,14 +79,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "思案する",
+        "考察する",
+        "考える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "思索",
+        "熟考",
+        "思考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.959494+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.892965+00:00Z"
     }
   }
 ]

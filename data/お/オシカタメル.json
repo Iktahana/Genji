@@ -29,21 +29,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雪を両手で強く押し固めて、雪玉を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "土をスコップで丁寧に押し固めて、花壇の土台を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "砂糖を容器に入れてギュッと押し固め、型抜きをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "固める",
+        "圧縮する",
+        "圧搾する",
+        "凝縮する"
+      ],
+      "antonyms": [
+        "ほぐす",
+        "緩める"
+      ],
+      "related": [
+        "地盤",
+        "密度",
+        "基礎",
+        "粘土",
+        "土木",
+        "凝固"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.922343+00:00Z",
+      "updated_at": "2026-06-02T01:28:07.308734+00:00Z",
       "frequencies": {
         "aozora": 2
       }

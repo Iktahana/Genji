@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私たちは、お互いに高め合える関係でありたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お互いに忙しい日々を過ごしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お互いに納得した上で、契約を交わした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あれももう私は、ごめんです）あなたも作家、私も作家、けれども今まで一度も逢った事は無し、またお互いにその作品を一度も読んだ事のない者どうしが、ふっとした事で、こうして長い手紙を交換する。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "互いに",
+        "相互に"
+      ],
+      "antonyms": [
+        "一方的に"
+      ],
+      "related": [
+        "相手",
+        "両者",
+        "関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.359091+00:00Z",
+      "updated_at": "2026-06-02T01:38:40.271149+00:00Z",
       "freq_rank": 7427
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウルフの群れが雪の中を駆け回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウルフは厳しい冬を乗り越えるために狩りをする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜中にウルフの遠吠えが聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "但しビイルショウスキイは「ウルファウスト」を知って「ウルマイステル」を知らなかった。",
@@ -271,14 +296,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "狼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イヌ科",
+        "野生動物",
+        "遠吠え"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.205251+00:00Z",
+      "updated_at": "2026-06-02T00:27:22.658872+00:00Z",
       "freq_rank": 23592,
       "frequencies": {
         "aozora": 115

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は夜通し踊り抜いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "バレエダンサーは三時間のシーンを踊り抜いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "アイドルはコンサート全体を踊り抜いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お爺さんは調子に乗つて、大谷通れば石ばかり笹山通れば笹ばかり　とさらに一段と声をはり上げて歌ひつづけ、いよいよ軽妙に踊り抜く。",
@@ -85,14 +110,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "踊り続ける",
+        "踊り倒す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "踊る",
+        "ダンス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.981537+00:00Z"
+      "updated_at": "2026-06-02T01:56:18.046690+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "来月の音楽会では、彼の新作が初演される予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その音楽会の入場券は、発売開始から数時間で完売した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は毎月の音楽会を欠かさず鑑賞することにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それといふのが、これが都より田舎へ出すのであれば、何音楽会に行きました、何展覧会に行きました等々の、謂はば事件があるわけですが、こちらでは、何を豊富に感じてゐるとも、それが事件の形を採りませんので、書くことがまるでないやうな有様にもなるのだと、今更思ひ知る次第です。",
@@ -273,14 +298,22 @@
       "homophones": [
         "音楽界"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "コンサート",
+        "演奏会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音楽",
+        "公演",
+        "聴衆",
+        "舞台"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:16.336929+00:00Z",
+      "updated_at": "2026-06-02T02:27:14.960789+00:00Z",
       "frequencies": {
         "aozora": 526
       }
@@ -316,7 +349,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "音楽界の巨人たちが、新人演奏家の才能を賞賛している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この若き作曲家は、音楽界に革新をもたらそうとしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "音楽界では、彼の名前は既に伝説的な存在だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――つまり音楽界は盛んであるのだ。",
@@ -566,9 +624,16 @@
       "homophones": [
         "音楽会"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "音楽業界"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音楽",
+        "文化",
+        "芸術",
+        "業界"
+      ]
     },
     "meta": {
       "version": "1.0.0",

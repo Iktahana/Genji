@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもは浮き輪をつけてプールに入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浮き輪を使えば、初心者でも水に浮きやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ビーチで浮き輪が流されないように気をつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さらに、架線をはりめぐらせた広い道をわたった角にある、赤白の浮き輪やロープを飾った、カウンターだけの店に、高志は三人をみちびいて入った。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "浮き袋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "水泳",
+        "海",
+        "プール"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.765079+00:00Z",
+      "updated_at": "2026-06-01T22:04:47.364353+00:00Z",
       "frequencies": {
         "aozora": 3
       }

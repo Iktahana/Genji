@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公の場で、感情をあらわにするものではない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大勢の人の前、公の場でスピーチをするのは緊張する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "公の場で自分の考えを述べるのは、勇気が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "郭公の場合には明らかに雌を呼ぶためだと解釈されているようであるが、ほととぎすの場合でもはたして同様であるか、どうかは疑わしい。",
@@ -190,14 +215,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "人前",
+        "公衆の面前"
+      ],
+      "antonyms": [
+        "私的な場",
+        "密室"
+      ],
+      "related": [
+        "公人",
+        "世間",
+        "社会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.144096+00:00Z"
+      "updated_at": "2026-06-02T01:18:45.381183+00:00Z"
     }
   }
 ]

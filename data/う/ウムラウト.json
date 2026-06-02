@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ドイツ語のウムラウトは英語にはない特殊な発音だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウムラウトの上に付く点々は何と呼ぶのか知っていますか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このウムラウトの単語はどう発音するのか教えてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二六　死の骰子　ドイツの帝室博物館に皇帝よりの御出品として「死の骰子」(Der Todes Wurfel［「u」はウムラウト（¨）付き］)という物が陳列してある。",
@@ -69,14 +94,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "変音"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ドイツ語",
+        "発音記号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.841603+00:00Z",
+      "updated_at": "2026-06-02T00:21:50.873850+00:00Z",
       "frequencies": {
         "aozora": 14
       }

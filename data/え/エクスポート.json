@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "作成したリストをCSV形式でエクスポートして、別のツールに読み込ませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "データベースから必要なデータをエクスポートする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "海外へ製品をエクスポートする事業を拡大したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -81,14 +106,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "輸出",
+        "出力",
+        "売却"
+      ],
+      "antonyms": [
+        "輸入",
+        "入力"
+      ],
+      "related": [
+        "転送",
+        "荷送り",
+        "商品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.269232+00:00Z",
+      "updated_at": "2026-06-02T00:40:41.087952+00:00Z",
       "freq_rank": 35313
     }
   }

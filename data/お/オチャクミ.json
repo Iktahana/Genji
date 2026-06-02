@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新人時代、私の仕事はお茶汲みと電話当番だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "営業事務のお茶汲みは毎日のルーチンだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い会社ではお茶汲みは若い女性の役割とされていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると給料と同額ぐらいの稿料を貰うけれども、毎月というわけではなく、毎月にしたところで、合せて、お茶汲みの女給仕に及ばない金額であった。",
@@ -93,14 +118,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "給仕",
+        "接待",
+        "お手伝い",
+        "事務"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "職場",
+        "仕事",
+        "接客",
+        "サービス",
+        "会社"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.483139+00:00Z"
+      "updated_at": "2026-06-02T01:41:08.845925+00:00Z"
     }
   }
 ]

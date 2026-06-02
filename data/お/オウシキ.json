@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "黄鐘は雅楽の基本となる音階である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "黄鐘から始まる曲は格式高さを示していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "黄鐘の音は宮廷の重要な儀式で響き渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "平調―壱越（または神仙）―盤渉―黄鐘―双調（または勝絶）―平調この音階にあって宮音たる平調と、徴音たる盤渉とは、主要なる契機として常に整然たる関係を保持している。",
@@ -79,12 +104,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "雅楽",
+        "音階",
+        "音楽"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.245311+00:00Z",
+      "updated_at": "2026-06-02T01:10:49.683751+00:00Z",
       "frequencies": {
         "aozora": 15
       }

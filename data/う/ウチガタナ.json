@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "侍は腰に差した打刀の柄に手をかけ、鋭い視線で辺りを警戒した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "博物館には、名工によって鍛えられた美しい刃文を持つ打刀が展示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "実戦用の打刀は、太刀よりも短く、素早く抜き放つことができるように設計されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "行子の眼にうつった大炊介という男性は、蔓巻の打刀を指した士の風体なのに、どこにも髯がないことであった。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "刀",
+        "日本刀"
+      ],
+      "antonyms": [
+        "太刀"
+      ],
+      "related": [
+        "日本刀",
+        "武士",
+        "脇差",
+        "刀剣",
+        "帯刀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.237587+00:00Z",
+      "updated_at": "2026-06-01T22:16:23.671569+00:00Z",
       "frequencies": {
         "aozora": 7
       }

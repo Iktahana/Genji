@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この曲の音律は西洋の12音階ではなく、独特の音階が用いられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古典音楽の音律を理解することは、作曲の基本である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "東洋楽器の音律は西洋とは大きく異なる特性を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「雲に鳥」という言葉の軽く果敢ない音律によって構成され、そしてこの「調べ」の構成が、それ自ら句の詩情するリリシズムを構成しているのである。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "音階",
+        "調律"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音楽",
+        "旋律",
+        "周波数",
+        "調和"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:31:41.941822+00:00Z",
       "freq_rank": 44227,
       "frequencies": {
         "aozora": 242

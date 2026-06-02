@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "田舎から出てきた彼は、都市生活について初い質問ばかりしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "初い顔つきをした少年が、警察官の前で緊張していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の初い態度は、世間知らずの印象を与えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猩々は最初いたづらをする積りであつたのに、夫人が叫びながら振り放さうとするので、獣もそれに抗抵するうちに気が荒くなつたらしい。",
@@ -197,14 +222,32 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "純情な",
+        "無邪気な",
+        "あどけない",
+        "初々しい",
+        "幼い",
+        "素朴な"
+      ],
+      "antonyms": [
+        "ずれた",
+        "世慣れた",
+        "老練な",
+        "したたかな"
+      ],
+      "related": [
+        "純粋",
+        "天真爛漫",
+        "初心",
+        "恥ずかしがり",
+        "無垢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.664385+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.437311+00:00Z",
       "frequencies": {
         "aozora": 21
       }

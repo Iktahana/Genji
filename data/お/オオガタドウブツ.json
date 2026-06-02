@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "象やライオンなどの大型動物は多くの食料を必要とする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型動物の骨の強さは小さい動物とは比べられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "絶滅危機の大型動物を保護するプログラムが進んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（なんとなく、大型動物を殺すのはより悪いことに見えるものだ。",
@@ -45,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "メガファウナ"
+      ],
+      "antonyms": [
+        "小型動物"
+      ],
+      "related": [
+        "哺乳類",
+        "生態系",
+        "象",
+        "クジラ",
+        "大型哺乳類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.679527+00:00Z"
+      "updated_at": "2026-06-02T01:19:08.552867+00:00Z"
     }
   }
 ]

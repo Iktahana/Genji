@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沖縄では毎年海神祭が行われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海神祭では海の神に感謝を捧げる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海神祭の時期になると村全体が盛り上がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "謝名城（大宜味村）の海神祭のおもろには「ねらやじゆ〔潮〕満すい、みなと〔湊〕じゆ満ゆい……」とあつて、沖あひの事を斥すらしい。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ウンジャミ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "沖縄",
+        "祭り",
+        "海"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.421166+00:00Z"
+      "updated_at": "2026-06-02T00:29:10.072333+00:00Z"
     }
   }
 ]

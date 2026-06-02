@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "浮寝鳥が月夜に浮かんでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "多くの浮寝鳥が静かな池を覆っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浮寝鳥を観察するのは野鳥観察の楽しみだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "客の私が、却って浮寝鳥に枯柳の腰模様の着物の小皺もない娘の膝の上にハンケチを宛てがい、それから、鮨を小皿に取分けて、笹の葉を剥いてやらねばならなかった。",
@@ -85,14 +110,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "水鳥"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥",
+        "浮く",
+        "睡眠"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.749279+00:00Z"
+      "updated_at": "2026-06-01T22:04:00.462644+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "矢が将軍の内兜をかすめて飛び去り、一同は肝を冷やした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "兜を脱ぐと、内兜の裏側に敵の返り血がついていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵の槍先が内兜に食い込み、彼は絶体絶命のピンチに陥った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "能楽の内兜を見透かして、能楽師を恐れ入らして遣ろう……ぐらいの了簡で、初めからわかったような高慢な顔をして楽屋を覗きに来る馬鹿が多い。",
@@ -183,12 +208,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "兜",
+        "甲冑",
+        "武具",
+        "鎧",
+        "面頬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.228321+00:00Z",
+      "updated_at": "2026-06-01T22:16:23.669924+00:00Z",
       "frequencies": {
         "aozora": 20
       }

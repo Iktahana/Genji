@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その運ちゃんは運転技術が優れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "タクシーの運ちゃんに目的地を告げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運ちゃんと雑談しながら目的地に着いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "車置き場でぼーっとしていると、ぼろを着た少年がジェファースン・ホープという運ちゃんはいるかと訪ねてきて、ベイカー街二二一Ｂの紳士が馬車をご指名だと言うのです。",
@@ -173,14 +198,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運転手",
+        "ドライバー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "タクシー",
+        "バス",
+        "職業",
+        "自動車"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.454249+00:00Z"
+      "updated_at": "2026-06-02T00:29:36.618633+00:00Z"
     }
   }
 ]

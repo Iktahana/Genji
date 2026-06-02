@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦前の南方資料には「回教徒の人口は全体の六割に達する」と記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父の手記には、マレー半島で出会った回教徒の商人から香辛料を買ったエピソードが残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "明治期の外交報告書には、オスマン帝国の回教徒との交渉についての詳細が書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後者は、ギリシア人（Ionian）であったのが後には一般外国人、あるいは回教徒の意に用いられ、ちょうどギリシア人の barbaros に相当するものになっているからおもしろい。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ムスリム",
+        "イスラム教徒"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イスラム教",
+        "宗教",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:51:49.970051+00:00Z",
       "frequencies": {
         "aozora": 68
       }

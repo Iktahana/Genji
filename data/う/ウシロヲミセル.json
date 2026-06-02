@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武士として戦場で敵に後ろを見せることは、最大の恥辱とされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窮地に立たされても、彼は決して後ろを見せずに戦い続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "逃げ腰になって後ろを見せた瞬間に、一気に攻め込まれてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昨夜おれが吉原行きを断わって戻って来たのを、放蕩者に似合わない、敵に後ろを見せるは名折れだとひやかしたが、本心はやっぱり、おれが吉原を断わって、待たせてある人のために帰って来てくれた、それがこんなに嬉しいのだ。",
@@ -118,14 +143,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "逃げる",
+        "敗走する",
+        "退却する",
+        "背を向ける"
+      ],
+      "antonyms": [
+        "立ち向かう",
+        "対峙する",
+        "迎え撃つ"
+      ],
+      "related": [
+        "退却",
+        "敗北",
+        "逃走",
+        "撤退",
+        "背中"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.940076+00:00Z"
+      "updated_at": "2026-06-01T22:08:54.373646+00:00Z"
     }
   }
 ]

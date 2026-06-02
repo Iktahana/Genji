@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「えへへ、実は私が犯人です」と白状した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "照れながら「えへへ、ありがとう」と返礼した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「えへへ、また失敗しちゃった」と笑った",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「えへへ、」と龜は不敵に笑ひ、「せつかく助けてやつたは恐れいる。",
@@ -221,14 +246,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "へへへ",
+        "ふふふ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "笑い",
+        "照れ笑い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.924802+00:00Z",
+      "updated_at": "2026-06-02T00:54:58.584824+00:00Z",
       "frequencies": {
         "aozora": 80
       }

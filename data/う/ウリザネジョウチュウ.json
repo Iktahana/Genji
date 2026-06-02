@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "愛犬にノミが寄生していたため、動物病院で検査すると瓜実条虫の感染も確認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "瓜実条虫はノミを介して犬や猫に感染するため、ノミ予防が重要だと獣医に教わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "幼児が感染した瓜実条虫の節片が便の中に発見され、すぐに駆虫薬が投与された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -40,12 +65,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寄生虫",
+        "犬",
+        "猫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.108577+00:00Z"
+      "updated_at": "2026-06-02T00:26:27.660715+00:00Z"
     }
   }
 ]

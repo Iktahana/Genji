@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二月の週末、家族で近くの公園へ梅見に出かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "梅見の宴を楽しむ人々が、白酒を酌み交わしながら枝を見上げていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "今年の梅見は例年より早く、一月末にはもう見頃を迎えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また例えば、清元の「十六夜清心」のうちの「梅見帰りの船の唄、忍ぶなら忍ぶなら、闇の夜は置かしやんせ」のところも同様の形をもっている。",
@@ -253,14 +278,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "観梅"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "梅",
+        "花見",
+        "春"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.874055+00:00Z",
+      "updated_at": "2026-06-02T00:22:27.243588+00:00Z",
       "frequencies": {
         "aozora": 64
       }

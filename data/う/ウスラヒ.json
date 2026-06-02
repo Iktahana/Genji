@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "池の上に薄ら氷が張っているので、歩かない方がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝方、窓の端に薄ら氷が見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄ら氷は溶けやすいので、午後には消える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはまた彼女のやつれた姿にちょうど朝日に輝いている薄ら氷に近いものを与えていた。",
@@ -72,14 +97,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "薄氷"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "冬",
+        "寒さ",
+        "氷",
+        "危険"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.049510+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.878481+00:00Z",
       "frequencies": {
         "aozora": 3
       }

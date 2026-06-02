@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親は子どもの小さなミスを大目に見ることも大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の遅刻癖を上司が大目に見ていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "規則を厳格に適用せず、大目に見る文化もある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは上へ通った事ではないが、いわゆる大目に見るのであった、黙許であった。",
@@ -262,14 +287,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "許す",
+        "見逃す",
+        "容赦する"
+      ],
+      "antonyms": [
+        "咎める",
+        "糾弾する"
+      ],
+      "related": [
+        "寛大"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.116115+00:00Z"
+      "updated_at": "2026-06-02T01:18:29.903249+00:00Z"
     }
   }
 ]

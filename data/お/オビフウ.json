@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "銀行から受け取った現金は帯封で束ねられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯封の上に印字された金額を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯封の色によって紙幣の額面が区別されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家内にも言いきかせ、とにかく之は怪しいから、そっくり帯封も破らずそのままにして保存して置くよう、あとで代金を請求して来たら、ひとまとめにして返却するよう、手筈をきめて置いたのである。",
@@ -288,21 +313,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新聞の帯封には今月のキャンペーン広告が印刷されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯封が付いていたので本が配送中に傷つかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯封に書かれた住所から差出人を確認できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "帯掛け",
+        "封帯",
+        "紙帯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "帯",
+        "紙幣",
+        "新聞",
+        "郵送",
+        "包装"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.371014+00:00Z",
+      "updated_at": "2026-06-02T02:09:53.316600+00:00Z",
       "frequencies": {
         "aozora": 41
       }

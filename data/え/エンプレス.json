@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その国のエンプレスは、国民から絶大な尊敬を集めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "豪華な戴冠式で、彼女は新しいエンプレスとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史書には、美しくも聡明なエンプレスの生涯が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "エンプレス号の金貨「金貨百万ドルを積んだエンプレス号、東京湾沖に沈没す。",
@@ -109,14 +134,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "女帝",
+        "皇后"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皇帝",
+        "王妃",
+        "皇室"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.770202+00:00Z",
+      "updated_at": "2026-06-02T01:05:47.458235+00:00Z",
       "frequencies": {
         "aozora": 10
       }

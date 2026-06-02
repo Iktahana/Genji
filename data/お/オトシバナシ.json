@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は得意な落とし噺で、聴衆を大笑いさせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この落とし噺は古典落語の中でも特に人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "師匠から新しい落とし噺を習い、発表会で演じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あなたの前だが、落とし噺で二時間なんてのはありませんよ。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "落語",
+        "笑い話",
+        "冗談"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "落語家",
+        "寄席",
+        "噺"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.837044+00:00Z",
+      "updated_at": "2026-06-02T01:53:28.558338+00:00Z",
       "frequencies": {
         "aozora": 1
       }

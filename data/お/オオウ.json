@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒かったので、毛布で肩を覆って暖をとった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は両手で顔を覆い、恥ずかしそうに下を向いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "分厚い雲が空を覆い、雨が降りそうな気配だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "瞳の上を覆う角膜はいつも涙をためたように光っている。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "包む",
+        "被う"
+      ],
+      "antonyms": [
+        "暴く",
+        "露わにする"
+      ],
+      "related": [
+        "隠蔽"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.612233+00:00Z",
+      "updated_at": "2026-06-02T01:14:11.508222+00:00Z",
       "freq_rank": 14503,
       "frequencies": {
         "aozora": 1454

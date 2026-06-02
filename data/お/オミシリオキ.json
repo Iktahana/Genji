@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "初めまして、田中と申します。今後ともお見知りおきください",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今日からこちらで働きます。お見知りおきましたら幸いです",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "こちらは遠方からのお客様です。どうぞお見知りおきください",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「これが私の女でございます、どうかお見知りおきを願います」　老人はそれから老婆に御馳走の用意をさした。",
@@ -269,14 +294,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ご承知おき"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挨拶",
+        "初対面"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.750143+00:00Z"
+      "updated_at": "2026-06-02T02:20:05.865047+00:00Z"
     }
   }
 ]

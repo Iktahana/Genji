@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "訪問客が来たので、お茶請けに和菓子を用意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "母がお茶請けの最中を丁寧に焼いてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お茶請けとしてチョコレートビスケットを出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "講習所の先生として、せん子などを相手にお茶請けを麦落雁ぐらゐな枯淡なもので済ます時の自分を別人のやうに思ふ。",
@@ -53,14 +78,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "茶菓子",
+        "お菓子",
+        "和菓子",
+        "おやつ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お茶",
+        "茶会",
+        "茶道",
+        "食べ物",
+        "点心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.482109+00:00Z"
+      "updated_at": "2026-06-02T01:41:08.845324+00:00Z"
     }
   }
 ]

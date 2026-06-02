@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日は仕事が予想外に忙しくて、帰るのが遅くになってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "こんなに遅くまで起きていたので、明日の朝は少し寝坊しそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "予定よりも出発が遅くになったため、到着が夜中になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「君ちやん（僕の名、実は君介、どうもブラ公みたいな名ですよ）どうも遅くなつて御免よ、富田の奥さんがいろんな話をしなさるから、あとからあとから話しなさるから。",
@@ -289,21 +314,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「すみません、もっと遅く話してくれませんか」と彼は頼んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は歩くのが遅く、グループの列から離れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "時計の針がいつもより遅く動いているように感じ、時間が長く思えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ゆっくり",
+        "のろく",
+        "緩やかに"
+      ],
+      "antonyms": [
+        "早く",
+        "速く",
+        "急いで"
+      ],
+      "related": [
+        "遅れ",
+        "遅刻",
+        "夜遅く",
+        "ゆっくり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.257137+00:00Z",
+      "updated_at": "2026-06-02T01:37:48.941760+00:00Z",
       "freq_rank": 3210,
       "frequencies": {
         "aozora": 488

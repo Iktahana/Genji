@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の音楽的な表現方法は非常に独創的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この映画のサウンドトラックは非常に音楽的な構成になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "音楽的なセンスのある人は、良い音を耳で判断できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまり言へば聴者は、それを旋律の美しさに於て聴かないで、歌詞の面白さに於て聴き、真の音楽的陶酔とはちがふところの、別の散文化の興味で聴くからである。",
@@ -270,13 +295,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "非音楽的"
+      ],
+      "related": [
+        "音楽",
+        "芸術的"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:27:31.536150+00:00Z",
       "frequencies": {
         "aozora": 338
       }

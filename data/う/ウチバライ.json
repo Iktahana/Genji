@@ -30,21 +30,63 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "契約時に百万円を内払いし、残額は引き渡し時に支払う取り決めにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "注文確定の時点で代金の半額を内払いするよう業者から求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "資金繰りが苦しいため今月は内払いでお願いしたいと先方に相談した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内金",
+        "手付金",
+        "前払い",
+        "一部払い",
+        "分割払い",
+        "中間払い"
+      ],
+      "antonyms": [
+        "全額払い",
+        "一括払い"
+      ],
+      "related": [
+        "支払い",
+        "割賦",
+        "手付",
+        "内金",
+        "清算",
+        "決済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.320953+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.032595+00:00Z"
     }
   }
 ]

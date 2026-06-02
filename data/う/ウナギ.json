@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "浜名湖産の鰻を使った蒲焼きを、職人が炭火で丁寧に焼き上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "川で捕れた鰻を祖父がさばいて塩焼きにしてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "鰻の稚魚であるシラスウナギの漁獲量が年々減っていると漁師が嘆いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "13　その夜さらに、室生犀星君と連れだち、三人で田端の料理屋で鰻を食べた。",
@@ -280,14 +305,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "マナマズ目",
+        "鰻魚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "土用の丑の日",
+        "蒲焼",
+        "絶滅危惧種",
+        "養殖",
+        "白焼き",
+        "肝吸い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.595013+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.056317+00:00Z",
       "freq_rank": 19236,
       "frequencies": {
         "aozora": 997

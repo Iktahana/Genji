@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "静かな音楽は、荒れた心を落ち着ける効果がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "深呼吸をして、自分自身の怒りを落ち着ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "騒がしい環境だと、どうしても子供を落ち着けるのが難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」とレストレードは腰を落ち着ける。",
@@ -278,14 +303,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "静める",
+        "鎮める",
+        "沈める",
+        "和らげる",
+        "安定させる"
+      ],
+      "antonyms": [
+        "動揺させる",
+        "興奮させる"
+      ],
+      "related": [
+        "落ち着き",
+        "冷静",
+        "平静",
+        "鎮静",
+        "穏やか"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.464203+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.839361+00:00Z",
       "freq_rank": 36807,
       "frequencies": {
         "aozora": 131

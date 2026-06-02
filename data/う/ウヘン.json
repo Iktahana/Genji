@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この方程式の右辺を整理すると、解が簡単に求められます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "左辺と右辺を入れ替えても、等式が成り立つことを確認してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "右辺が0になるように項を移動させると、二次方程式の形になります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紙の左上から右辺の中ほどまで二条の並行曲線が引いてあるのが上野の麓を通る鉄道線路を示している。",
@@ -288,21 +313,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "右辺に石を並べて、相手の陣地を広げないように封じ込めました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "碁盤の右辺で激しい攻防が続いています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "相手は右辺に自信があるようで、そこを重点的に攻めてきました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "右側",
+        "右項"
+      ],
+      "antonyms": [
+        "左辺",
+        "左側",
+        "左項"
+      ],
+      "related": [
+        "方程式",
+        "数式",
+        "等号",
+        "数学",
+        "左辺"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.683387+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.448701+00:00Z",
       "frequencies": {
         "aozora": 14
       }

@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "訓練データに対してオーバーフィッティングしたモデルは、テストデータでの精度が大幅に落ちた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ドロップアウト層を追加することで、ニューラルネットワークのオーバーフィッティングを効果的に抑制できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このモデルはオーバーフィッティングしている可能性がある」とチームリーダーがレビューで指摘した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "過学習"
+      ],
+      "antonyms": [
+        "未学習"
+      ],
+      "related": [
+        "機械学習",
+        "モデル",
+        "データ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:34:14.429731+00:00Z"
     }
   }
 ]

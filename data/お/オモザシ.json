@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の面差しには亡くなった母親の面影がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "遠くから歩いてくる男の面差しに見覚えがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "成長するにつれて、弟の面差しが凛々しくなってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なぜなら、そのすぐあと私の方へ向き直ると、その面差しは心から心配しているように見えたからだ。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "顔つき",
+        "表情",
+        "面影"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "容貌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.989539+00:00Z",
+      "updated_at": "2026-06-02T02:21:24.808185+00:00Z",
       "frequencies": {
         "aozora": 31
       }

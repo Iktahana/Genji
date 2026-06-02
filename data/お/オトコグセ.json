@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の男癖の悪さには、親友の僕でもさすがに愛想が尽きた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "結婚直前になって男癖が災いし、婚約破棄されることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "男癖さえ直れば彼女は完璧なんだけどな、と彼はため息をついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「その女は何處の者でせう」「親分、――これは言つて宜いか惡いかわかりませんが、一、二年前、丁子屋にそんな下女が居りましたよ、房州女で」「今でも居るでせうか」「いえ、男癖が惡いので、出してしまひました。",
@@ -54,13 +79,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女癖"
+      ],
+      "related": [
+        "好色",
+        "色好み",
+        "男好き",
+        "男狂い",
+        "色情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.743885+00:00Z"
+      "updated_at": "2026-06-02T01:50:39.353559+00:00Z"
     }
   }
 ]

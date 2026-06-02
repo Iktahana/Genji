@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "営業トークを全て鵜呑みにするのではなく、契約書を細部まで確認したほうがいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "専門家の予測を盲目的に鵜呑みにするのは危険で、自分なりの分析が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "併しもと／＼御馳走をたべに来たわけでないから、わたしは硬いパンでも硬い肉でも一切鵜呑みにする覚悟で、なんでも片端から頬張っていると、老人はあまり洋食を好まないらしく、且は病後という用心もあるとみえて、ほんのお附合に少しばかり食って、やがてナイフとフォークを措いてしまった。",
@@ -217,21 +234,38 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大きな魚を鵜呑みにするペリカンの姿に、子供たちは目を丸くして驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "丸呑みにする"
+      ],
+      "antonyms": [
+        "吟味する",
+        "咀嚼する"
+      ],
+      "related": [
+        "理解",
+        "盲信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.641433+00:00Z"
+      "updated_at": "2026-06-02T00:21:40.284439+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "熱帯の森では、夜になると大蝙蝠が飛び交う姿が見られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "動物園で飼育されている大蝙蝠は、バナナを美味しそうに食べていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大蝙蝠は、果物を食べることで植物の種子散布に貢献している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひらひらと、こちらからもひらひらと、ものの鳥ほどはあろうという大蝙蝠が目を遮った。",
@@ -167,14 +192,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "フルーツバット"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "コウモリ",
+        "哺乳類",
+        "動物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.742243+00:00Z",
+      "updated_at": "2026-06-02T01:15:03.278999+00:00Z",
       "frequencies": {
         "aozora": 17
       }

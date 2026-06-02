@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うっかり落とし穴に足を踏み入れるところだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ゲームのステージには落とし穴がたくさんある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その計画には大きな落とし穴が隠れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "およそこの六言六蔽の聖人の訓えは、学問を好まない者が墜ち入る落とし穴を示して、一々的中する。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "トラップ",
+        "わな",
+        "罠",
+        "落とし",
+        "陥穽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "함정",
+        "罠",
+        "陥穽",
+        "落とし",
+        "危険",
+        "盲点"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.821876+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.235685+00:00Z",
       "freq_rank": 14217,
       "frequencies": {
         "aozora": 38

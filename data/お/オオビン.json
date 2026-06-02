@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "居酒屋でビールの大瓶を二本頼み、乾杯した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母は醤油の大瓶をどかりと台所に置き、料理を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大瓶のオリーブオイルを買ったほうが割安だと気づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "縦横に並んだのは、いずれも絵の具の大瓶である。",
@@ -270,13 +295,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "小瓶"
+      ],
+      "related": [
+        "瓶",
+        "容器",
+        "酒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.035535+00:00Z",
+      "updated_at": "2026-06-02T01:17:43.845077+00:00Z",
       "frequencies": {
         "aozora": 38
       }

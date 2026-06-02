@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地域には、古墳時代に作られた小さな円墳が点在している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "発掘調査の結果、円墳の中から貴重な副葬品が発見された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は週末になると、地元の円墳を巡るのが趣味だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "概ね円墳で、ハニワが出るのは他の関東の古墳に通じている。",
@@ -73,14 +98,23 @@
       "homophones": [
         "鉛粉"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "丸墓"
+      ],
+      "antonyms": [
+        "前方後円墳",
+        "方墳"
+      ],
+      "related": [
+        "古墳",
+        "古墳時代",
+        "埋葬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.771613+00:00Z",
+      "updated_at": "2026-06-02T01:05:47.459163+00:00Z",
       "frequencies": {
         "aozora": 2
       }
@@ -116,7 +150,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の化粧には、毒性のある鉛粉が使われていたというから驚きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この古い絵画の顔料には、鉛粉が含まれている可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史の書物で、平安時代の貴族が鉛粉で顔を白く塗っていたという記述を読んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鉛粉真白けで丸ふたつ頬紅さいたるおどけづら、円い眼ばりもくるくると今日も呆けた宙がへり。",
@@ -150,9 +209,16 @@
       "homophones": [
         "円墳"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "鉛白"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔料",
+        "白粉",
+        "化粧品",
+        "鉛"
+      ]
     },
     "meta": {
       "version": "1.0.0",

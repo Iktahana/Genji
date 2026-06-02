@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "獲れたての魚を塩蔵にして保存性を高め、冬の間の貴重な食料とする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この地方では、古くから野菜を塩蔵して発酵させる伝統的な製法が伝わっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "市場には、丁寧に塩蔵された肉や魚が所狭しと並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤鰯は鰯の塩蔵｜若くは乾蔵せるものにして、其の味の美ならざること言ふまでも無し。",
@@ -135,14 +160,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "塩漬け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "保存食",
+        "塩",
+        "食品加工"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.582558+00:00Z",
+      "updated_at": "2026-06-02T01:03:52.031475+00:00Z",
       "frequencies": {
         "aozora": 13
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この新作スイーツ、驚くほど美味しいから、あなたもぜひお試しあれ！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「新開発の洗剤です。頑固な汚れが落ちるか、一度お試しあれ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「私の故郷の隠れた名物です。騙されたと思って、一度お試しあれ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「よかったら、おためしあれ。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "やってみてください",
+        "どうぞお試しを"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "試す",
+        "体験",
+        "チャレンジ",
+        "勧め",
+        "試用"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.393703+00:00Z"
+      "updated_at": "2026-06-02T01:38:31.467814+00:00Z"
     }
   }
 ]

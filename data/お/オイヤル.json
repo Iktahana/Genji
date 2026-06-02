@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強い風が暗雲を沖へ追いやり、空が一面晴れ渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "兄は弟を自分の部屋から追いやり、鍵をかけて一人で勉強を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "先住猫が新入りを隅へ追いやり、ご飯を独り占めしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "兵タイを内地へ帰えすと約束して、まだその舌の端が乾かないうちに、反対に戦場へ追いやるのは随分ツライ話だ。",
@@ -289,21 +314,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "多額の借金が一家を破産へと追いやった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "過酷な労働環境が彼女を心身の限界へと追いやっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長引くいじめが少年を深刻な孤立へと追いやってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追い払う",
+        "追い出す",
+        "排除する",
+        "押しやる"
+      ],
+      "antonyms": [
+        "迎え入れる",
+        "招く"
+      ],
+      "related": [
+        "駆逐",
+        "追放",
+        "疎外"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.094780+00:00Z",
+      "updated_at": "2026-06-02T01:08:54.990399+00:00Z",
       "freq_rank": 40103,
       "frequencies": {
         "aozora": 410

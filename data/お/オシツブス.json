@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あやまって虫を踏んで、足の裏で押しつぶしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "硬い果物をうっかりカバンの底に入れてしまい、完全に押しつぶされていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "粘土を掌で平らに押しつぶして、円盤の形を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上も下もすっかり黒ずくめで、それがとてもじょうとうのきれで、その上にエナメルのくつをはき、押しつぶすと、てんじょうと縁鍔だけになるぼうしをかぶっていました。",
@@ -289,21 +314,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "反対派の意見を力ずくで押しつぶして、強引に計画を通した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "芽生えかけていた改革の機運を、古参の幹部たちが押しつぶそうとしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "個人の小さな努力が、大きな組織の論理によって押しつぶされるのを見るのは忍びない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "圧殺する",
+        "粉砕する",
+        "握りつぶす",
+        "却下する",
+        "封殺する"
+      ],
+      "antonyms": [
+        "膨らませる",
+        "復元する"
+      ],
+      "related": [
+        "圧力",
+        "挫折",
+        "圧壊",
+        "破棄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.978531+00:00Z",
+      "updated_at": "2026-06-02T01:28:56.682720+00:00Z",
       "frequencies": {
         "aozora": 251
       }

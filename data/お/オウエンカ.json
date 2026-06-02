@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "野球の応援歌は世代を超えて愛されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応援歌が大合唱されて、会場は盛り上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応援歌のメロディは誰もが知っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "校庭に篝火をたき、夕闇の中で酒樽を抜いて、応援歌を呶鳴り、新しい応援団長は壇上に立つと、一高に負けるなと悲痛な演説をやって、心あるものは泣くのである。",
@@ -149,14 +174,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "応援ソング"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "応援団",
+        "応援",
+        "エール",
+        "スポーツ",
+        "試合",
+        "合唱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.159478+00:00Z",
+      "updated_at": "2026-06-02T01:09:44.044471+00:00Z",
       "frequencies": {
         "aozora": 19
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "様々な可能性について思いを巡らせる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今後のキャリアについて思いを巡らせた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この状況の原因について思いを巡らせている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちょうど仕事が暇だったのが災いして、マニュアルを読んでは実際に操作し、手を止めている間はこれで何ができるだろうと思いを巡らせる、エキスパンドブック漬けの一週間が続きました。",
@@ -46,14 +71,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "思案する",
+        "考察する",
+        "考える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "思索",
+        "熟考",
+        "思考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.959844+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.893238+00:00Z"
     }
   }
 ]

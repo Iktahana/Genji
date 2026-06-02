@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レストランのオーナーが厨房から出てきて、常連客のテーブルに挨拶に回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼はそのビルの元オーナーで、売却後も近所に住み続けているらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "犬のオーナーとして責任を持つことが、近隣との良好な関係を築く第一歩だと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "親父はこの銀行のオーナーだよ。",
@@ -79,14 +104,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "所有者",
+        "主"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "経営者",
+        "資産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:33:42.058144+00:00Z",
       "freq_rank": 3825,
       "frequencies": {
         "aozora": 5

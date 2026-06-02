@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自分の過ちの大きさを思い知らされて、後悔した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大人になって初めて親の苦労を思い知らされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "失敗によって自分の限界を思い知らされた経験が大事だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その酬いを、ここでフックに思い知らすわけであるが、ピーターの要求は、フックに「私は卑怯者だ」と言えというのである。",
@@ -54,14 +79,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "知らせる",
+        "悟らせる",
+        "気づかせる",
+        "思い知らせる"
+      ],
+      "antonyms": [
+        "隠す"
+      ],
+      "related": [
+        "教育",
+        "懲罰",
+        "認識"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.897224+00:00Z",
+      "updated_at": "2026-06-02T02:23:08.948001+00:00Z",
       "frequencies": {
         "aozora": 132
       }

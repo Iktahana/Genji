@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "企画の大筋は決まったので、あとは細かい詰めの作業に入るだけだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先生に論文の大筋を説明し、アドバイスを求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "交渉の大筋で合意したので、契約締結は時間の問題だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたくしたちは、こういう横町を、曲る度びに、遠方の町の外れに必ず閃めく、明くてネオンの点っている大筋の通りを眺めやりながら、ところ／″＼で問い訊ねて、どうやら瀬戸物町の池上の本宅の前へ出ました。",
@@ -197,14 +222,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "概要",
+        "要点",
+        "大意",
+        "あらまし"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "詳細",
+        "細部",
+        "概略"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.855648+00:00Z",
+      "updated_at": "2026-06-02T01:17:09.246267+00:00Z",
       "freq_rank": 20682,
       "frequencies": {
         "aozora": 20

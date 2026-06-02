@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の夜は、このおこたから出られなくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "おこたで蜜柑を食べながらテレビを見るのが一番幸せだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "寒くなってきたから、そろそろおこたを出そうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "せめては亡人の菩提を弔ふために、月の二日を命日とさだめ、供養をおこたらず營んで居ります。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "こたつ",
+        "掘り炬燵"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "暖房",
+        "冬",
+        "毛布"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.754545+00:00Z"
+      "updated_at": "2026-06-02T01:26:35.564165+00:00Z"
     }
   }
 ]

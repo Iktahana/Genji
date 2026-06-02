@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "太郎は古典的な男名だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その男名は昔からあるものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "外国人にも読みやすい男名をつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "果然、事実は鳶頭金助の陳述したとおり、生島屋の奇妙な家憲に事を発し、七郎兵衛の設けた子どもも、兄の八郎兵衛の子どもと同様女でしたが、根が小欲に深い拝金宗の七郎兵衛はここに悪才を働かし、かく娘を男に仕立てて、名も陽吉と男名まえをつけながら、巧みに生島屋の六万両という大身代を私していたのでありました。",
@@ -224,21 +249,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "成人式で男名に改めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの青年はようやく男名を得た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "男名を与えられて一人前と認められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男の名前",
+        "男性名"
+      ],
+      "antonyms": [
+        "女名",
+        "女性名"
+      ],
+      "related": [
+        "名前",
+        "命名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.781208+00:00Z"
+      "updated_at": "2026-06-02T01:50:56.328129+00:00Z"
     }
   }
 ]

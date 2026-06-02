@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は嬉しげな表情で話を聞いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "友人は嬉しげに自分の成功について語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちは嬉しげに駆け回っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "達沢は嬉しげにたゞニタニタしてゐたが、ヒヨイと顔を外向けると真面目くさつて、一人の若い運動員に必要もなさゝうなことを云付けてゐた。",
@@ -278,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "楽しげ",
+        "嬉しそう",
+        "満足げ",
+        "晴れやか"
+      ],
+      "antonyms": [
+        "悲しげ",
+        "寂しげ",
+        "憂い顔"
+      ],
+      "related": [
+        "表情",
+        "笑み",
+        "心理",
+        "様子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.235058+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.743803+00:00Z"
     }
   }
 ]

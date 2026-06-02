@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウサギは後ろ足で地面を蹴って高く跳んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬は後ろ足で立ち上がり、前足で暴れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "犬は後ろ足で立ち上がってドアに飛びついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鼻息も荒く、後ろ足で立ち上がり、身体を上下に大きく揺さぶりながら、猛々しく走った。",
@@ -149,14 +174,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "後脚",
+        "後肢"
+      ],
+      "antonyms": [
+        "前足",
+        "前脚"
+      ],
+      "related": [
+        "足",
+        "身体",
+        "動物",
+        "肢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.921975+00:00Z",
+      "updated_at": "2026-06-01T22:08:37.803076+00:00Z",
       "freq_rank": 39534,
       "frequencies": {
         "aozora": 15

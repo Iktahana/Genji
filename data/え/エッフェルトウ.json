@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パリを訪れたら、まずエッフェル塔を見に行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エッフェル塔の頂上からは、パリ全体が一望できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エッフェル塔はフランスの象徴として世界中で知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飾窓の二面は普通の新衣裳の飾人形だが、残った一つの入口に向って右の飾窓のがみんなの目あての「エッフェル塔見物」の機械人形だ。",
@@ -279,12 +304,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "パリ",
+        "フランス",
+        "鉄塔",
+        "セーヌ川",
+        "万国博覧会",
+        "観光名所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.653914+00:00Z",
+      "updated_at": "2026-06-02T00:46:18.755465+00:00Z",
       "freq_rank": 34542
     }
   }

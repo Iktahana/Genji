@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「昔のゲームは面白かった」というのは思い出補正で、実際に遊ぶと意外と単調だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "懐かしのドラマを再放送で見たら、思い出補正が外れて少しがっかりした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもの頃に食べた駄菓子を久しぶりに買ってみたが、思い出補正があったのか、思ったより甘さが気になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,12 +63,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ノスタルジー",
+        "懐古",
+        "バイアス",
+        "美化",
+        "回顧",
+        "思い出"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.921850+00:00Z"
+      "updated_at": "2026-06-02T02:23:12.981252+00:00Z"
     }
   }
 ]

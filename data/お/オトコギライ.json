@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は過去の苦い経験からか、ひどい男嫌いになってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "せっかくの合コンも、男嫌いな彼女を誘い出すのは至難の業だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "極度の男嫌いを公言している彼女に、しつこく言い寄るのは逆効果だよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "屡々病気の口実を以て、彼を避ける、のは未だ我慢出来るとして、（何故なら彼女も全然男嫌いではないのだから――）時々約束の手渡し以外にせびるのだ。",
@@ -239,14 +264,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男性嫌い"
+      ],
+      "antonyms": [
+        "男好き",
+        "女嫌い"
+      ],
+      "related": [
+        "嫌悪",
+        "女嫌い",
+        "偏見",
+        "ミサンドリー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.742652+00:00Z",
+      "updated_at": "2026-06-02T01:50:39.352351+00:00Z",
       "frequencies": {
         "aozora": 30
       }

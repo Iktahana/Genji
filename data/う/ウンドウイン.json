@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この運動員は毎日街頭で活動しています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "政治の運動員として、彼は地域を回っています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "社会改革のため、多くの運動員が立ち上がりました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その日が来ると羽織袴の、揃つて粗雑な顔をした運動員達が道場の内や外を迂路ついてゐるのが見られた。",
@@ -189,14 +214,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "活動家"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運動",
+        "活動",
+        "運動家"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.486884+00:00Z",
+      "updated_at": "2026-06-02T00:29:53.936306+00:00Z",
       "frequencies": {
         "aozora": 23
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若い頃からオカルティズムに傾倒しており、不思議な話には目がない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "図書館の奥深くに、ヨーロッパの古いオカルティズムに関する資料が保管されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "神秘的な現象を論理的に解明しようとする姿勢は、オカルティズムの探求とは少し異なるようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "オカルティズムや異常心理学にはいささかなりと興味を持ったことがなかった。",
@@ -149,14 +174,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "神秘主義",
+        "秘教"
+      ],
+      "antonyms": [
+        "科学主義",
+        "合理主義"
+      ],
+      "related": [
+        "哲学",
+        "信仰",
+        "超自然"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.315602+00:00Z",
+      "updated_at": "2026-06-02T01:20:16.721003+00:00Z",
       "frequencies": {
         "aozora": 14
       }

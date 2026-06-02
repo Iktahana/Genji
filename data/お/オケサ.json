@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新潟を訪れたとき、祭りでおけさを聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このレストランではおけさが背景に流れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おけさは地域の文化を代表する民謡だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まだ宵のうちは帳場の蓄音機が人寄せの佐渡おけさを繰り返していると、ぽつぽつ付近の丘の上から別荘の人たちが見物に出かけて来る。",
@@ -221,14 +246,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おけさ節"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "佐渡おけさ",
+        "民謡",
+        "新潟",
+        "伝統芸能",
+        "踊り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.713792+00:00Z",
+      "updated_at": "2026-06-02T01:25:40.777485+00:00Z",
       "frequencies": {
         "aozora": 84
       }

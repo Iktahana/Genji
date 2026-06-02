@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "購入したカメラの解説書を読み込んで、マニュアル操作の方法を習得した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古典文学の解説書には本文のほかに詳細な語注と現代語訳が付いていて便利だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "機械の解説書には図が豊富で、組み立て手順を視覚的に把握できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もし時代に応じて適当に釈注を加えさえすれば、これは永久に適用さるべき科学方法論の解説書である。",
@@ -261,14 +286,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "マニュアル",
+        "手引き",
+        "説明書",
+        "参考書",
+        "ガイドブック",
+        "入門書"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "解説",
+        "教科書",
+        "注釈書",
+        "テキスト",
+        "ハンドブック"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:10:58.751021+00:00Z",
       "frequencies": {
         "aozora": 38
       }

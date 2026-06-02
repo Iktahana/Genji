@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物を固定するために、教わったばかりの男結びをやってみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ロープの端を男結びにするのは、意外と難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "紐を男結びにすれば、絶対に緩まないと自信満々に言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "手槍を取って庭に降り立つとき、数馬は草鞋の緒を男結びにして、余った緒を小刀で切って捨てた。",
@@ -117,14 +142,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "本結び",
+        "真結び",
+        "reef knot"
+      ],
+      "antonyms": [
+        "女結び"
+      ],
+      "related": [
+        "結び目",
+        "蝶結び",
+        "縦結び",
+        "ちょう結び",
+        "固結び"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.804322+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.228215+00:00Z",
       "frequencies": {
         "aozora": 14
       }

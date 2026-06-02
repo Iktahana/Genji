@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は隙を見せた相手に対し、鋭い剣筋で打ち掛かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "審判の合図とともに、両者は一斉に竹刀を構えて打ち掛かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "背後から忍び寄る影に対し、咄嗟に護身術で打ち掛かる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　チョビ安、泣きながら、小さな拳をふるって、鉄十郎をはじめそばの伊賀者へ、トントンうちかかる。",
@@ -61,14 +86,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "攻撃する",
+        "切りかかる",
+        "斬りかかる",
+        "襲いかかる"
+      ],
+      "antonyms": [
+        "受ける",
+        "防ぐ",
+        "かわす"
+      ],
+      "related": [
+        "攻撃",
+        "斬り込む",
+        "仕掛ける"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.206670+00:00Z"
+      "updated_at": "2026-06-01T22:16:23.665973+00:00Z"
     }
   }
 ]

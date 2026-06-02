@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この商品は大型で、配送には大きなトラックが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型テレビの価格が下がり、多くの家庭で導入が進んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型の家具を買うときは、部屋のサイズを確認しておく必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "枕上の小卓の上に大型の扁平なピストルが斜めに横たわり、そのわきの水飲みコップの、底にも器壁にも、白い粉薬らしいものがべとべとに着いているのが目についた。",
@@ -270,14 +295,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大形"
+      ],
+      "antonyms": [
+        "小型",
+        "小形"
+      ],
+      "related": [
+        "中型",
+        "サイズ",
+        "規模"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.673492+00:00Z",
+      "updated_at": "2026-06-02T01:19:08.547894+00:00Z",
       "freq_rank": 2935,
       "frequencies": {
         "aozora": 728

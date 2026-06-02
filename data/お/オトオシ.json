@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "居酒屋に入ると、まずはお通しが運ばれてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今日のお通しは、旬のタケノコの煮物だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お通しを一口食べて、その店が美味しいと確信した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「はあ、すぐそごまで、お通しやてくなんせや。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "突き出し",
+        "先付け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "居酒屋",
+        "前菜",
+        "料理",
+        "チャージ",
+        "席料"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.712078+00:00Z",
+      "updated_at": "2026-06-02T01:49:06.393846+00:00Z",
       "frequencies": {
         "aozora": 12
       }

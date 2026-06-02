@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの頃の往日を追憶し、彼は静かに涙を流した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "往日の栄光を取り戻そうと、チームは必死に練習に励んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の手紙には、もう戻ることのない往日への切ない思いが綴られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "季子は剣を墓にかけて、故人の意に酬いたと云うから、余も亦「猫」を碣頭に献じて、往日の気の毒を五年後の今日に晴そうと思う。",
@@ -141,14 +166,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "昔",
+        "往昔"
+      ],
+      "antonyms": [
+        "今日",
+        "近日"
+      ],
+      "related": [
+        "過去",
+        "往事",
+        "古代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.311139+00:00Z",
+      "updated_at": "2026-06-02T01:13:36.866271+00:00Z",
       "frequencies": {
         "aozora": 23
       }

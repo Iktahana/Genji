@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏祭りのフィナーレを飾る打ち上げ花火が、夜空に大輪を咲かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "川沿いの土手に陣取り、目の前で上がる打ち上げ花火に歓声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "打ち上げ花火の音が遠くまで響き、窓の外が一瞬明るくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "打ち上げ花火はたしかに芸術である。",
@@ -77,14 +102,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "花火",
+        "烟火"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "祭り",
+        "夏",
+        "夜空",
+        "打ち上げ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.190587+00:00Z",
+      "updated_at": "2026-06-01T22:14:02.252093+00:00Z",
       "freq_rank": 39670
     }
   }

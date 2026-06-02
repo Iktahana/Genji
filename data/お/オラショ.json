@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "隠れキリシタンたちが、密かに守り伝えた祈りの言葉、オラショ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い書物の中に、当時のオラショが記録されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "集落の長老が、歌うようにオラショを唱え始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ラウダアト・ドウヌム、その他日本語のオラショを唱へ、パアデレ様と離し給ふなと叫び追ひ、離れ去る気配がないので、ベルトラン神父は火あぶり。",
@@ -69,14 +94,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "祈り",
+        "祈祷"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "隠れキリシタン",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:24:13.333101+00:00Z",
       "frequencies": {
         "aozora": 4
       }

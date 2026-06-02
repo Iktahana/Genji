@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "特売品はあっという間に人気が集中し、閉店前にすべて売り切った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "農家は収穫したトマトを道の駅に持ち込み、夕方までに全量売り切った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バンドのメンバーは「ツアーのチケットを売り切ったのは今回が初めてだ」と喜んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "聞いてみたら、昔出たベントレイの雪の本は、現在一冊も残っていない、この本も、二十年間には売り切るつもりだというのである。",
@@ -78,14 +103,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "完売する",
+        "売り尽くす"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "販売",
+        "在庫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.095461+00:00Z"
+      "updated_at": "2026-06-02T00:26:27.654701+00:00Z"
     }
   }
 ]

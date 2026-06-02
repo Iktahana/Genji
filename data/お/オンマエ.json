@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「御前に恥じぬよう、全力を尽くしてまいります」と武士は神前で誓った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "神の御前に額ずき、一族の安寧をひたすら祈り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「御前の御慈悲に、深く感謝申し上げます」と使者は深々と頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "柵の外より頻りに汽車の方を覗く美髯公のいずれ御前らしきが顔色の著しく白き西洋人めくなど土地柄なるべし。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "貴殿",
+        "あなた"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "敬語",
+        "尊称"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:30:52.520256+00:00Z",
       "freq_rank": 23160,
       "frequencies": {
         "aozora": 2881

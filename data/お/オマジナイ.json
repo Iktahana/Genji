@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テストの前に、娘はいつもお呪いを唱えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このお呪いを言うと、幸運が訪れると信じられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの頃、お呪いで怖い思いをなくそうとしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、どうぞ今しばらくの間はご出産にならないようにとお祈りになって、そのお呪いに、お下着のお腰のところへ石ころをおつるしになり、それでもって当分お腹をしずめておおきになりました。",
@@ -288,21 +313,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このお呪いのようなコードは削除しても動作に影響しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プログラムにお呪いが残っていて、本当は不要なのではないかと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お呪いみたいなコードを整理して、コードをシンプルにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "呪文",
+        "まじない",
+        "護符",
+        "お守り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魔術",
+        "迷信",
+        "呪術",
+        "縁起",
+        "御札"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.703228+00:00Z",
+      "updated_at": "2026-06-02T02:20:38.475797+00:00Z",
       "freq_rank": 29473
     }
   }

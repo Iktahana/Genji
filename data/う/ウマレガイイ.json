@@ -32,21 +32,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生まれがいいからといって、努力を怠れば何も成し遂げられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は生まれがいいせいか、立ち振る舞いに自然な品がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれがいい彼は幼い頃から厳格な礼儀作法の教育を受けて育った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "家柄がいい",
+        "門地が高い",
+        "高貴な生まれ",
+        "良家の出"
+      ],
+      "antonyms": [
+        "生まれが悪い",
+        "低い家柄"
+      ],
+      "related": [
+        "家柄",
+        "血筋",
+        "門地",
+        "貴族",
+        "素性",
+        "身分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.759741+00:00Z"
+      "updated_at": "2026-06-02T00:19:53.735799+00:00Z"
     }
   }
 ]

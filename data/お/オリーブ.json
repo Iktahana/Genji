@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えたオリーブの木に、小さな実がたくさんなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "朝食に、サラダと一緒にオリーブを食べるととても美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このオリーブは品種改良されていて、とても味が良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それらの間をつづってオリーブのつくり葉が、金銀のモール線を綾なして居るのは、どこでも同じしつらえではあるが、独逸はやっぱり独逸らしい。",
@@ -267,12 +292,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オリーブ油",
+        "植物",
+        "平和の象徴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:25:55.337312+00:00Z",
       "freq_rank": 9985,
       "frequencies": {
         "aozora": 56

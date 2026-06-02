@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の髪から、ほのかに香水の移り香が漂ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "衣替えで出した服から、以前使っていた柔軟剤の移り香がして懐かしくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "部屋に入ると、線香の移り香がまだ残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　と云った、大島の知らず、絣の羽織の袖を、居寄って振袖の紫に敷いて熟と瞻たのであったが、「せめて、移り香を。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "残り香"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "香り",
+        "香水",
+        "匂い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.518824+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.253234+00:00Z",
       "frequencies": {
         "aozora": 51
       }

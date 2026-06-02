@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王から授かった宝剣を、両手で謹んで押し頂く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "神聖な儀式の間、信者たちは聖なる遺物を押し頂くように祈りを捧げる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は敬意を表して、目の前に差し出された書状を恭しく押し頂いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "却つてその方が私も望むところだ、何しろ望みが叶つて嬉しい、お爺さんも一杯やらないか、と冷酒の茶椀をさすと、いかにも嬉しさうに寄つて來て受取つて押し頂く。",
@@ -110,14 +135,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "拝受する",
+        "頂戴する",
+        "戴く",
+        "崇める"
+      ],
+      "antonyms": [
+        "突き放す",
+        "投げ出す"
+      ],
+      "related": [
+        "謙譲",
+        "恩賜",
+        "敬意",
+        "贈り物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.898467+00:00Z",
+      "updated_at": "2026-06-02T01:27:25.913288+00:00Z",
       "frequencies": {
         "aozora": 41
       }

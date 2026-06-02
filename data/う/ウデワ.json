@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その女優は金色の腕輪を着けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもがビーズの腕輪を手作りしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い銀製の腕輪は祖母の遺品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし四家フユ子は英介氏の腕輪のなかに障害馬のように飛こむと、棕櫚の毛皮のような髪の毛を乱雑にカールした黄色い額の波打際を仰向けにして、ずるそうに彼にわらいかけた。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "バングル",
+        "ブレスレット",
+        "腕貫",
+        "手環"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "装身具",
+        "アクセサリー",
+        "指輪",
+        "ネックレス",
+        "腕飾り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.571008+00:00Z",
+      "updated_at": "2026-06-01T23:33:32.288279+00:00Z",
       "frequencies": {
         "aozora": 103
       }

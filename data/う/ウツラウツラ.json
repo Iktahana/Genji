@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昼下がりの暖かな教室で、授業中にうつらうつらしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電車の中で、うつらうつらしながら読書にふけった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "熱があるのか、夜中に何度も目が覚め、うつらうつらとした眠りを繰り返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うつらうつらと僕はする……風もある……松林を透いて空が見えるうつらうつらと僕はする。",
@@ -257,14 +282,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "うとうと",
+        "居眠り"
+      ],
+      "antonyms": [
+        "目覚めている"
+      ],
+      "related": [
+        "睡眠",
+        "眠気",
+        "疲労"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.516206+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.251587+00:00Z",
       "frequencies": {
         "aozora": 473
       }

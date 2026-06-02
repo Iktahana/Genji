@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢字の音訓を学ぶことは、日本語の学習の基本である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちは教科書で各漢字の音訓を覚えていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複数の読み方を持つ漢字の音訓を区別することは重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本編には音訓の仮名を下さず、かなづけは余が所為なり。",
@@ -63,14 +88,20 @@
       "homophones": [
         "温燻"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "読み"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "漢字",
+        "音読み",
+        "訓読み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:16.376051+00:00Z",
+      "updated_at": "2026-06-02T02:28:01.891261+00:00Z",
       "frequencies": {
         "aozora": 5
       }
@@ -106,7 +137,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この鮭は温燻で仕上げられており、独特の風味がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "温燻という方法で作られたベーコンは、優しい味わいが特徴だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鶏肉を温燻にすると、しっとりとした食感が保たれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たいてい温燻にするらしいので、それもちょっと煙らしただけで、半分生のようなのを、低温で保存したものである。",
@@ -124,9 +180,16 @@
       "homophones": [
         "音訓"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "熱燻"
+      ],
+      "antonyms": [
+        "冷燻"
+      ],
+      "related": [
+        "燻製",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",

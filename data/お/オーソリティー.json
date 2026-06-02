@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その分野では彼はオーソリティーとして認識されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医学の専門家としてのオーソリティーを持つ医師だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オーソリティーのある出版社から本を発行することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「さア、承って居りませんですが」「もし何でしたら　その方にでも伺って見たら又　何とか……」　自分　たまらなくなって「オーソリティーの問題じゃない」という。",
@@ -56,14 +81,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "権威",
+        "当局"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "支配",
+        "権力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:27.610754+00:00Z",
       "frequencies": {
         "aozora": 5
       }

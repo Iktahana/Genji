@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "退院後も体調は思わしくなく、母は自宅での療養を続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "今期の業績は思わしくなく、役員会での議論が紛糾した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "転職後の環境が思わしくなく、半年で再び転職を考え始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『ただその時は健康が思わしくないからあまり浮き浮きしないで物思いに沈んでいたに違いない。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "芳しくない",
+        "不調",
+        "悪い"
+      ],
+      "antonyms": [
+        "思わしい"
+      ],
+      "related": [
+        "状況",
+        "不振",
+        "改善"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.141253+00:00Z"
+      "updated_at": "2026-06-02T02:22:57.679780+00:00Z"
     }
   }
 ]

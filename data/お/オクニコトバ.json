@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "故郷を離れて何十年も経つのに、ふとした拍子にお国言葉が出てしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女の話すお国言葉が温かくて、初めて会ったのに親しみを感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "方言研究家が各地のお国言葉を記録して回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "放送演説の名人といわれていた故永田青嵐ですら、いつ聴いても「私は砕けて喋っていますよ」といった同じ調子が見え透いてうんざりさせられるし、この人を真似た某大官の演説は、砕けすぎて気を許したのか、お国言葉の東北弁まるだしだ。",
@@ -101,14 +126,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "方言",
+        "訛り",
+        "郷里の言葉",
+        "土語"
+      ],
+      "antonyms": [
+        "共通語",
+        "標準語"
+      ],
+      "related": [
+        "地方",
+        "郷土",
+        "訛る",
+        "喋り方",
+        "言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.591815+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.505017+00:00Z"
     }
   }
 ]

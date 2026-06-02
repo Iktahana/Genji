@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お帰りなさい」と元気に迎えると、相手も笑顔になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "妻が仕事から戻ると、子どもたちが「お帰りなさい」と言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「お帰りなさい、今日はどうでしたか」と聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "５向ふに、水車が、見えてゐます、　　苔むした、小屋の傍、ではもう、此処からお帰りなさい、お帰りなさい　　僕は一人で、行けます、行けます、僕は、何を云つてるのでせう　　いいえ、僕とて文明人らしくもつと、他の話も、すれば出来た　　いいえ、やつぱり、出来ません出来ません。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "おかえり"
+      ],
+      "antonyms": [
+        "いってきます"
+      ],
+      "related": [
+        "帰宅",
+        "出迎え"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.208028+00:00Z",
+      "updated_at": "2026-06-02T01:19:14.169543+00:00Z",
       "freq_rank": 41415
     }
   }

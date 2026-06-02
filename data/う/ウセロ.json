@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「失せろ、ここは俺の庭だ！」と大声で叫んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "相手に「失せろ！」と言い放った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「失せろ、邪魔だ」と短気な返事が返ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "汝を贔屓に目が眩んで、今までは知らなかったが、海に千年、川に千年、劫を経た古狸、攫出してお汁の実にする、さあ失せろ。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "去れ",
+        "出て行け",
+        "失せやがれ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "失せる",
+        "追い払う",
+        "罵倒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.082282+00:00Z"
+      "updated_at": "2026-06-01T22:13:28.962401+00:00Z"
     }
   }
 ]

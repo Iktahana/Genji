@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "受付係の女性は来訪者に丁寧に会議室の場所を案内した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "受付係がインフルエンザで休んだため、社員が交代で玄関に立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "イベント会場の受付係は名簿を確認しながら、参加者にパンフレットを配布した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "首と胴とを、別々にして捨てるなどと云うことは余程考えて……」　司法主任がそう云いかけているところへ、受付係の巡査が、急いで寄って来た。",
@@ -125,14 +150,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "フロント係",
+        "案内係",
+        "受け付け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "受付",
+        "フロント",
+        "事務",
+        "窓口",
+        "接客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.807848+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.808339+00:00Z"
     }
   }
 ]

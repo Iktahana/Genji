@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弟夫婦が、週末に実家へ挨拶に来るそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟夫婦のために、新しい食器セットをプレゼントした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟夫婦はとても仲が良くて、いつも羨ましく思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "弟夫婦は年少きまま無益の奢侈に財を費し、幾時も経ざるに貧しくなりて、兄の許に合力を乞ひに来ければ、兄は是非なく銭十万を与へけるに、それをも少時に用ひ尽してまた合力を乞ひに来りぬ。",
@@ -262,13 +287,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "兄夫婦"
+      ],
+      "related": [
+        "弟",
+        "家族",
+        "夫婦",
+        "義弟",
+        "義理の妹"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.702693+00:00Z"
+      "updated_at": "2026-06-02T01:49:06.392067+00:00Z"
     }
   }
 ]

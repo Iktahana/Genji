@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女が妊娠したというおめでたがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "春に会社で新入社員を迎えるのはおめでただ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "先月は結婚というおめでたで一族が大騒ぎだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんなおめでたい席に。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "慶事",
+        "懐妊"
+      ],
+      "antonyms": [
+        "凶事"
+      ],
+      "related": [
+        "結婚",
+        "出産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.827442+00:00Z",
+      "updated_at": "2026-06-02T02:20:33.274711+00:00Z",
       "frequencies": {
         "aozora": 45
       }

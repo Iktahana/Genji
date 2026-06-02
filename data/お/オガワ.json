@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村を流れる清らかな小川で、子供たちが夢中になって魚を捕まえている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "散歩中に心地よい音を立てる小川のそばで、少し休憩をとることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭の奥にある小川のせせらぎが、日々の疲れを癒やしてくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "威勢よく流れる小川だけがその日の記憶として残つてゐる。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "せせらぎ",
+        "小河",
+        "渓流",
+        "水路"
+      ],
+      "antonyms": [
+        "大河"
+      ],
+      "related": [
+        "川",
+        "自然",
+        "水辺",
+        "風景",
+        "清流"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.349538+00:00Z",
+      "updated_at": "2026-06-02T01:20:32.676657+00:00Z",
       "freq_rank": 5881,
       "frequencies": {
         "aozora": 2620

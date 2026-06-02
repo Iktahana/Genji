@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "計画は往々にして予定通りに進まないものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初対面では往々にして緊張して言葉が出なくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "急いで作った料理は往々にして味が落ちる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だがそれにもかかはらず、彼等のローマ字論者や假名文字論者に對して、尚且つ僕が滿點の贊意を表せず、時に大いに反感の敵意をさへ表するのは、彼等の「誤つた實利主義」が、往々にして僕等の美的藝術意識と衝突し、且つ却つて國語の純粹性を破壞するところの、反日本主義的のものに思はれるからである。",
@@ -278,14 +303,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "しばしば",
+        "多くの場合",
+        "よく"
+      ],
+      "antonyms": [
+        "滅多にない"
+      ],
+      "related": [
+        "傾向",
+        "まま"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.169424+00:00Z"
+      "updated_at": "2026-06-02T01:09:44.050914+00:00Z"
     }
   }
 ]

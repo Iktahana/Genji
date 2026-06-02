@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書室に置いてある小倉百人一首で競技かるたを練習している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おばあちゃんが小倉百人一首を朗唱してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古典の授業で小倉百人一首について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その次には小倉百人一首を一首宛思い出してはそれの意味を考える。",
@@ -133,14 +158,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "百人一首"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "かるた",
+        "藤原定家",
+        "和歌",
+        "短歌",
+        "競技かるた"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.699058+00:00Z"
+      "updated_at": "2026-06-02T01:25:40.772802+00:00Z"
     }
   }
 ]

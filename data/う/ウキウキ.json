@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠足の前日、子供たちは浮き浮きして夕食もそこそこに早寝した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "給料日の朝、彼は浮き浮きしながら出社し、同僚に昼食をおごった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「今日は誕生日だからね」と彼女は浮き浮きした声で電話してきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、入口で支那人の玄關番から外套と帽子を受け取ると、また聞えて來た浮き浮きした舞踏曲の音色をあとに殘して、遁れるやうな氣持で酒塲「アポロ」の外へ飛び出した。",
@@ -282,14 +307,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ワクワク",
+        "浮き立つ",
+        "心躍る",
+        "はしゃぐ"
+      ],
+      "antonyms": [
+        "しょんぼり",
+        "憂鬱",
+        "落ち込む"
+      ],
+      "related": [
+        "ワクワク",
+        "高揚",
+        "上機嫌",
+        "軽やか",
+        "喜び",
+        "弾む"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.733966+00:00Z",
+      "updated_at": "2026-06-01T22:04:02.417356+00:00Z",
       "freq_rank": 19086,
       "frequencies": {
         "aozora": 203

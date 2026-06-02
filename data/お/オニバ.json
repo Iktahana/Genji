@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の八重歯は鬼歯のように前に突き出ていて、個性的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもが鬼歯になると、親は矯正を考えるようになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その女優は鬼歯がチャームポイントだと言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "答　私としては布類の方は全然知らず、骨については貞子が平素笑った時に鬼歯が両方一個宛目立って見えました。",
@@ -109,14 +134,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "八重歯",
+        "出っ歯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "歯",
+        "牙",
+        "容姿"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.122807+00:00Z",
+      "updated_at": "2026-06-02T02:01:58.486907+00:00Z",
       "frequencies": {
         "aozora": 8
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "火の取り扱いには十分に注意しないと、大やけどをするぞ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "熱湯をこぼして、手に大やけどを負ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大やけどの治療のために、専門の病院へ急いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、空襲で家は焼かれ、その二十六になる末娘は大やけどをして、医者の手当も受けたけれど、象さんが来た、象さんが来た、とうわごとを言って、息を引きとったという。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "重度の火傷"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "火傷",
+        "負傷",
+        "重傷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.135234+00:00Z",
+      "updated_at": "2026-06-02T01:18:45.378200+00:00Z",
       "frequencies": {
         "aozora": 9
       }

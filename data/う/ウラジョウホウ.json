@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スパイから裏情報が入り、作戦が修正された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "記者は裏情報源を保護するため、名前を明かさない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その企業の裏情報を握っている人物は誰だろうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マザロフ紳士については、裏情報を提供して、パリで逮捕して、拘留しました。",
@@ -63,14 +88,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "極秘情報",
+        "インサイダー情報"
+      ],
+      "antonyms": [
+        "表情報"
+      ],
+      "related": [
+        "秘密",
+        "噂"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.963033+00:00Z"
+      "updated_at": "2026-06-02T00:24:11.184143+00:00Z"
     }
   }
 ]

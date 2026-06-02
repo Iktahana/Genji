@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恥ずかしさから、彼女は顔を俯けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は深くため息をつきながら、頭を俯けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "観衆からのブーイングに、選手たちは皆、俯けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "父は暫し語なく俯ける我子の顏を凝視め居しが、『時頼、そは正氣の言葉か』。",
@@ -86,14 +111,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ひっくり返す",
+        "逆さにする"
+      ],
+      "antonyms": [
+        "起こす"
+      ],
+      "related": [
+        "回転",
+        "転倒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.516313+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.251350+00:00Z",
       "frequencies": {
         "aozora": 17
       }

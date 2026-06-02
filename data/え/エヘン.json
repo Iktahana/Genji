@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「えへん、皆さんの注意をお願いします」と始めた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スピーチの前に「えへん」と咳払いした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「えへん、重要な連絡があります」と切り出した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いい加減、たきぎ拾ひに疲れると、岩上に大あぐらをかき、えへん！",
@@ -257,14 +282,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "咳払い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "咳",
+        "注意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.925102+00:00Z",
+      "updated_at": "2026-06-02T00:54:58.586410+00:00Z",
       "frequencies": {
         "aozora": 205
       }

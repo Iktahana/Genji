@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "停電が起きた瞬間、ビルの中は上を下への混乱に陥った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "荷物が全部ひっくり返り、引越し先の部屋は上を下への状態だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新社長就任のニュースで社内は上を下への様相を呈した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また暫く歩きて、突然為事机の傍に寄り、机の上の物を上を下へといじり廻し、終りに壁に掛けたる袋の中よりブラシを見出して手に取り、上着の塵を払う。",
@@ -270,14 +295,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "てんやわんや",
+        "大混乱"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "騒動",
+        "混乱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.601728+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.292497+00:00Z"
     }
   }
 ]

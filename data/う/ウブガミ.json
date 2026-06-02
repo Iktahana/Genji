@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "無事に生まれてきてくれた子供を、産神様にお守りいただこうと家族で神社にお参りに行きました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この村には古くから、出産のたびに産神様に赤飯を供えるという習慣が残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "産神様が見守ってくださっているという安心感から、里帰りで出産することに決めました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "惟うに、親仁の産神は彼処であるから、かく珍らしい、伊豆紫の若茄子に、烏帽子を着せ、狩衣召させて、一粒種のお鶴という、娘の婿にでもする気であろう。",
@@ -109,14 +134,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産土神",
+        "氏神",
+        "守り神",
+        "産の神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "氏子",
+        "産屋",
+        "出産",
+        "神社",
+        "鎮守"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.670984+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.437984+00:00Z",
       "frequencies": {
         "aozora": 8
       }

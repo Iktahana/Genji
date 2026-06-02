@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "馬小屋の奥には新しい馬が二頭いる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝、馬小屋から馬を出して放牧する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬小屋の臭いは独特だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（いえもう何でございます、実はこの先一町行け、そうすれば上段の室に寝かして一晩｜扇いでいてそれで功徳のためにする家があると承りましても、全くのところ一足も歩行けますのではございません、どこの物置でも馬小屋の隅でもよいのでございますから後生でございます。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "厩舎",
+        "馬舎",
+        "小屋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "馬",
+        "建物",
+        "飼育"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.717526+00:00Z",
+      "updated_at": "2026-06-01T23:57:27.722469+00:00Z",
       "frequencies": {
         "aozora": 219
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "絶好の甘い球が来たのに、緊張のあまり打ちそこなって空振り三振した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "壁に釘を打とうとしたが、金槌を打ちそこなって自分の親指を叩いてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "蚊を叩こうと両手を合わせたが、わずかにタイミングを打ちそこない、逃げられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蠅を打つにも、全心全力で打てば、めつたに打ちそこなうことはない。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "外し損ねる",
+        "空振りする"
+      ],
+      "antonyms": [
+        "命中させる"
+      ],
+      "related": [
+        "失敗",
+        "打撃"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.282259+00:00Z"
+      "updated_at": "2026-06-01T22:15:06.097813+00:00Z"
     }
   }
 ]

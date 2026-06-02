@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毛染めで、髪が薄らいでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "色あせた布は、洗うたびに色が薄らぐ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "記憶が薄らぐにつれて、顔を思い出せなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それだけに同情の念が薄らぐのだが、その代り、祟りというものがあるなら、こういう婆さんこそ一層恐ろしいのだ。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄れる",
+        "弱まる",
+        "減る"
+      ],
+      "antonyms": [
+        "強まる",
+        "増す"
+      ],
+      "related": [
+        "消滅",
+        "緩和",
+        "消失"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.047632+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.876724+00:00Z",
       "frequencies": {
         "aozora": 610
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そんな風に人を疑るような言い方をするのは、もうやめてほしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無実の同僚を疑ってしまい、後で深く反省した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "証拠もないのに他人を疑るのは、賢いやり方とは言えない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あなたの手腕を疑るなんて、千回は詫びねばなりません。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "疑う",
+        "勘ぐる",
+        "訝る",
+        "怪しむ"
+      ],
+      "antonyms": [
+        "信じる",
+        "信頼する"
+      ],
+      "related": [
+        "疑念",
+        "疑惑",
+        "推測"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.147125+00:00Z",
+      "updated_at": "2026-06-01T22:14:53.143158+00:00Z",
       "frequencies": {
         "aozora": 254
       }

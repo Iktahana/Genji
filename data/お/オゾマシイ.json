@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニュースで流れたその事故の映像は、本当に悍ましいものだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その怪物の悍ましい姿が夢に出てきてうなされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "悍ましい記憶を忘れるために、彼女は旅に出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "恐らくは二人とも同様に、隠秘学上の経歴の中の特定の段階で、何らかの悍ましい宗教的な通過儀礼を受けたことを物語っているのだろう。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "恐ろしい",
+        "気味悪い",
+        "不気味",
+        "嫌悪"
+      ],
+      "antonyms": [
+        "好ましい",
+        "素晴らしい"
+      ],
+      "related": [
+        "怖い",
+        "不快",
+        "ぞっとする"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.339359+00:00Z",
+      "updated_at": "2026-06-02T01:38:40.264218+00:00Z",
       "freq_rank": 32079,
       "frequencies": {
         "aozora": 78

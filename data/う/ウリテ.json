@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その売り手は信頼できる大企業だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売り手と買い手の交渉が長引いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売り手の利益を最大化する工夫が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "売り手のじいさんやばあさんも長い煙管を吹かしたり編み物をしているのでありました。",
@@ -269,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "販売者",
+        "売主"
+      ],
+      "antonyms": [
+        "買い手",
+        "購入者"
+      ],
+      "related": [
+        "市場",
+        "取引"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.125816+00:00Z",
+      "updated_at": "2026-06-02T00:26:41.760934+00:00Z",
       "freq_rank": 14785,
       "frequencies": {
         "aozora": 43

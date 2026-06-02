@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "2026年は午の年ですね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うちの家族は午の年生まれが多いです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "午の年に生まれた人は活発だとよく言われます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若い人は筑前の出生、博多の孫一と云ふ水主でね、十九の年、……七｜年前、福岡藩の米を積んだ、千六百｜石の大船に、乘組の人數、船頭とも二十｜人、寶暦午の年十｜月六日に、伊勢丸と云ふ其の新造の乘初です。",
@@ -198,14 +223,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "午年",
+        "馬年"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "十二支",
+        "干支"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.738803+00:00Z"
+      "updated_at": "2026-06-02T00:14:27.693793+00:00Z"
     }
   }
 ]

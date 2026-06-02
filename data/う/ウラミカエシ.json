@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その古書の裏見返しには、前の持ち主の走り書きが鉛筆でうっすら残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "本の裏見返しに著者の略歴と代表作の一覧が印刷されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は文庫本の裏見返しに短いメッセージを書き込んで、誕生日プレゼントに添えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見返し",
+        "後見返し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "表紙",
+        "本",
+        "書籍",
+        "裏表紙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.031013+00:00Z"
+      "updated_at": "2026-06-02T00:26:09.495613+00:00Z"
     }
   }
 ]

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "次の卯の年には、地元の神社で盛大なお祭りが開催されることになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "母が生まれたのは卯の年で、干支の置物をいつも大切に飾っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "卯の年は飛躍の年だと言われているので、新しい事業を始めることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "色の黒い※野な顔をした田舎武士は、安政乙卯の年十月二日の午後十時、かの有名な安政の大地震に逢って、母を救い出そうとして家の中へ入ったところで、家が潰れて圧死した。",
@@ -160,14 +185,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "卯年"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "干支",
+        "暦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.635252+00:00Z"
+      "updated_at": "2026-06-02T00:21:40.281908+00:00Z"
     }
   }
 ]

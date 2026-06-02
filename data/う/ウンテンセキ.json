@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "運転席に座ってミラーを調整し、出発の準備を整える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転席は、車の中で最も視界が広くなるように設計されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誰が運転席に座るか話し合って決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どう、うまくいって」　もうどこかへ行ってしまったかと思ったエミリーが、辛抱強く運転席の隣に座って待っていた。",
@@ -269,14 +294,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運転台",
+        "操縦席"
+      ],
+      "antonyms": [
+        "助手席",
+        "後部座席"
+      ],
+      "related": [
+        "ハンドル",
+        "ペダル",
+        "ダッシュボード",
+        "車内"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.470775+00:00Z",
+      "updated_at": "2026-06-02T00:29:36.628579+00:00Z",
       "frequencies": {
         "aozora": 112
       }

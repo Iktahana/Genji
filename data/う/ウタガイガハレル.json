@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい証拠が提出されて、容疑者の疑いが晴れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の疑いが晴れるまでに三年の月日がかかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その後の調査により、彼女の疑いが晴れることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飛山君は幸福となるし、飛山君のお父さんは疑いが晴れるし、森君は本当に好い事をしたと思う。",
@@ -78,14 +103,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嫌疑が晴れる",
+        "無実が証明される"
+      ],
+      "antonyms": [
+        "疑われる"
+      ],
+      "related": [
+        "無罪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.134878+00:00Z"
+      "updated_at": "2026-06-01T22:13:03.861098+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供の頃の彼女は、近所でも有名なお転婆だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "そんなお転婆な振る舞いは、今の職場では控えたほうがいいよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女がお転婆で、木登りばかりしていた記憶がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちょいちょいと櫛を入れて、（まあ、女がこんなお転婆をいたしまして、川へ落こちたらどうしましょう、川下へ流れて出ましたら、村里の者が何といって見ましょうね。",
@@ -278,14 +303,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "やんちゃ",
+        "活発",
+        "元気",
+        "わんぱく",
+        "悪戯好き"
+      ],
+      "antonyms": [
+        "おしとやか",
+        "上品",
+        "慎ましい"
+      ],
+      "related": [
+        "女の子",
+        "子供",
+        "性格",
+        "行動",
+        "躾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.670676+00:00Z",
+      "updated_at": "2026-06-02T01:46:52.064162+00:00Z",
       "frequencies": {
         "aozora": 149
       }

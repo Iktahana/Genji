@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師に横臥するよう指示され、検査台に横になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "疲れ果てた旅人がベンチに横臥したまま動かなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "横臥位での超音波検査は、臓器の見え方が仰臥位と異なる場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "腫物が、なほるばかりでなく、肌がなめらかになり色が白くなるかも知れない、と家の者に冗談を言ひ、靜かに横臥し、藥のききめを待つてゐました。",
@@ -280,14 +305,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "横たわり",
+        "臥床"
+      ],
+      "antonyms": [
+        "直立",
+        "起立"
+      ],
+      "related": [
+        "仰臥",
+        "伏臥",
+        "横たわる",
+        "臥す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.178912+00:00Z",
+      "updated_at": "2026-06-02T01:10:01.699545+00:00Z",
       "frequencies": {
         "aozora": 157
       }

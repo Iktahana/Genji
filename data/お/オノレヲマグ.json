@@ -29,21 +29,39 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "信念に反する政策への署名を求められたが、老学者は己を枉ぐことを固く断った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "信念を曲げる",
+        "原則を捨てる"
+      ],
+      "antonyms": [
+        "貫く"
+      ],
+      "related": [
+        "信念",
+        "原則",
+        "妥協"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.211975+00:00Z"
+      "updated_at": "2026-06-02T02:04:31.058306+00:00Z"
     }
   }
 ]

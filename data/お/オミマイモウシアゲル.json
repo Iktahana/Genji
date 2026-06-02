@@ -30,21 +30,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この度は心よりお見舞い申し上げます",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ご病気のことをお聞きし、心よりお見舞い申し上げます",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "被災地の皆様にお見舞い申し上げます",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お悔やみ申し上げます"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挨拶",
+        "手紙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.762945+00:00Z"
+      "updated_at": "2026-06-02T02:20:05.870442+00:00Z"
     }
   }
 ]

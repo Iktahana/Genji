@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "女心を理解することは、難しいと彼は言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "女心の複雑さは、文学の主題になってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの詩は、女心を詩的に表現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（昭和十年五月、映画評論）　　　　　十五　乙女心三人姉妹　川端康成の原著は読んだことはないが、この映画の話の筋はきわめて単純なもので、ちょっとした刃傷事件もあるが、そういう部分はむしろはなはだ不出来でありまた話の結末もいっこう収まりがついていない。",
@@ -221,14 +246,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "女性心理"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "女心と秋の空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:30:13.547779+00:00Z",
       "freq_rank": 34604,
       "frequencies": {
         "aozora": 182

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "甥姪が遊びに来るたびに、静かな家が一気に賑やかになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "伯母は甥姪全員にお年玉を配り、笑顔で迎えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "兄弟が多いせいで甥姪の数も十人を超え、名前を覚えるのに苦労した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば人並にえらくなって、両親を馬車に乗せて上げたいとか、もし万一兄に不幸があった時は、両親や甥姪たちのために、医者にでもなって世話をしてやろうかという気持も、時がたつに従い、だんだんうすれてしまった。",
@@ -71,14 +96,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "甥",
+        "姪"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "家族",
+        "親戚",
+        "血縁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.093009+00:00Z",
+      "updated_at": "2026-06-02T01:11:01.680817+00:00Z",
       "frequencies": {
         "aozora": 4
       }

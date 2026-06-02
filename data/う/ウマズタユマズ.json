@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は目標に向かって、倦まず弛まず努力を続けた結果、ついに成功を掴んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "職人は、朝から晩まで倦まず弛まず、ひたすらに陶器を作り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "毎日倦まず弛まず練習を重ねたおかげで、ようやく憧れの曲を弾けるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あわれ年少未熟の日の、八十八｜阪九十九折、木の根｜岩角躓き倒れ、傷つきてはまた起ち上がり、起ち上がりてはまた傷つき、倦まず弛まず泣血辛酸、かくして玉の緒も絶え絶えに、出世の大本城へは辿り着きしものなるべし。",
@@ -101,14 +126,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "懸命に",
+        "絶え間なく"
+      ],
+      "antonyms": [
+        "怠惰に"
+      ],
+      "related": [
+        "努力",
+        "継続",
+        "精神"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.720697+00:00Z"
+      "updated_at": "2026-06-01T23:57:27.725158+00:00Z"
     }
   }
 ]

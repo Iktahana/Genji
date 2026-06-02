@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鉛筆の芯が折れてしまったので新しいのと交換した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い鉛筆の芯は硬くなっていて書きづらい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鉛筆の芯の濃さはHBやBなどの記号で表示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "沼井の方を見ると、沼井もしきりに鉛筆の芯をけずっているのだ。",
@@ -174,14 +199,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "芯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉛筆",
+        "黒鉛",
+        "筆記"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.743716+00:00Z"
+      "updated_at": "2026-06-02T01:05:31.983433+00:00Z"
     }
   }
 ]

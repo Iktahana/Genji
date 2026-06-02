@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師はうつ病の症状について詳しく説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カウンセラーと一緒にうつ病の治療に当たっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うつ病は誰もがかかる可能性のある病気だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "収容所でも年を取つた兵隊が激しいノルマに耐へられなくてうつ病になつて行き、ひどい取越苦労にとりつかれて、自殺したものも幾人かあつた。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "躁うつ病",
+        "抑うつ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "躁病",
+        "精神疾患",
+        "メンタルヘルス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.503191+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.244903+00:00Z",
       "freq_rank": 9124,
       "frequencies": {
         "aozora": 1

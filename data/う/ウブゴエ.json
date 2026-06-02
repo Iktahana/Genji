@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "手術室の外で待っていると、突然元気な産声が聞こえてきて涙があふれました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この子の初めての産声は、私にとって一生忘れない音です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "赤ちゃんが無事に産声を上げた瞬間、周りのスタッフ全員が安堵の表情を見せました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……口惜い、）と恍惚して、枕にひしと喰つかしって、うむと云うが最期で、の、身二ツになりはならしったが、産声も聞えず、両方ともそれなりけり。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "初泣き",
+        "第一声"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "産声を上げる",
+        "新生児",
+        "誕生",
+        "出産",
+        "産湯"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.672128+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.440484+00:00Z",
       "freq_rank": 44540,
       "frequencies": {
         "aozora": 42

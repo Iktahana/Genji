@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の片隅に、牛殺しの白い花がひっそりと咲いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "牛殺しの枝は非常に丈夫で、昔は鎌の柄などに使われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山道を歩いていると、真っ赤に色づいた牛殺しの実を見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これではまるで土方か牛殺しと同等であると言って少しばかり憤慨したのであった。",
@@ -111,14 +136,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ベニカナメモチ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "バラ科"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.895993+00:00Z",
+      "updated_at": "2026-06-01T22:08:58.664140+00:00Z",
       "frequencies": {
         "aozora": 12
       }

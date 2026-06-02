@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "農家が米の売り惜しみをしたため、市場への出荷量が減少し米価が上昇した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "コレクターたちの売り惜しみが続いたことで、希少切手の価格はさらに高騰した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "売り惜しみが横行すれば消費者が困るとして、公正取引委員会が調査に乗り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "買い占めや売り惜しみなどは、そもそもこの根本原因の末梢的結果だろう。",
@@ -71,13 +96,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "売り急ぎ"
+      ],
+      "related": [
+        "出し惜しみ",
+        "需給",
+        "在庫",
+        "市場混乱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.084232+00:00Z",
+      "updated_at": "2026-06-02T00:26:48.903325+00:00Z",
       "frequencies": {
         "aozora": 4
       }

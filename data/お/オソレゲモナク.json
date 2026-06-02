@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は恐れ気もなく、燃え盛る火の中に飛び込んでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "少女は恐れ気もなく、大きな犬の頭を撫でてみせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "敵の真っ只中に、恐れ気もなく堂々と乗り込んでいく彼に驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何んの恐れ気もなく、平和に、純潔な、そして園の心におのずと涙ぐましさを誘うような淋しさ、――淋しさではない。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "平然と",
+        "堂々と",
+        "勇敢に",
+        "臆せず"
+      ],
+      "antonyms": [
+        "恐る恐る",
+        "びくびくして",
+        "怯えて"
+      ],
+      "related": [
+        "大胆",
+        "勇敢",
+        "度胸",
+        "恐れず",
+        "いけいけどんどん"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.319910+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.497898+00:00Z"
     }
   }
 ]

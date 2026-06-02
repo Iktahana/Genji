@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「このへたくそ」という売り言葉に、思わず怒りが込み上げてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "酔った客からの売り言葉を、ベテランの店員は冷静にかわした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女の売り言葉に黙っていられなくなり、つい言い返してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "双方が次第に云い募って、角兵衛が『貴様も小屋の代人で出て来たからは、どうして俺たちの顔を立てるか、その覚悟はあるだろう』と云うと、岩蔵の方でも『知れたことだ、おれの首でもやる』と売り言葉に買い言葉、根が乱暴な連中だから堪まりません。",
@@ -133,14 +158,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "悪態",
+        "喧嘩腰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "売り言葉に買い言葉",
+        "口論"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.103610+00:00Z",
+      "updated_at": "2026-06-02T00:26:27.657463+00:00Z",
       "frequencies": {
         "aozora": 14
       }

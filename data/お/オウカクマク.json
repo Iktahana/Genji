@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "腹式呼吸では横隔膜を大きく動かすことで肺に空気を取り込む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "しゃっくりは横隔膜の痙攣によって起こる現象だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "歌手は横隔膜を鍛えることで、より安定した発声を身につける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "横隔膜を両手で押えて笑った。",
@@ -189,14 +214,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "膈"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "筋肉",
+        "呼吸",
+        "腹式呼吸",
+        "臓器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.176628+00:00Z",
+      "updated_at": "2026-06-02T01:09:44.056265+00:00Z",
       "frequencies": {
         "aozora": 19
       }

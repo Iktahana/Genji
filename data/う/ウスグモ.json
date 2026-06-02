@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空に薄雲がかかり、月の輪郭がぼんやりと滲んで見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "薄雲越しに差す日差しは柔らかく、洗濯物がほどよく乾いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "山頂から見下ろすと、眼下に薄雲の帯がたなびいていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "生々しい眉間の傷のような月が、薄雲の間にひっかかっていた。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "薄層雲",
+        "雲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "雲",
+        "巻雲",
+        "空",
+        "気象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.992870+00:00Z",
+      "updated_at": "2026-06-01T22:09:13.026738+00:00Z",
       "frequencies": {
         "aozora": 150
       }

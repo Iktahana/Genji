@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の横柄な態度が職場で問題になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "横柄な発言は避けるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上司の横柄な対応に失望した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "』『だから謝罪た、へん其樣な横柄な言草があるけえ、蹈みましたから、御免下さいましと云ふもんだ。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "高慢",
+        "傲慢",
+        "横風"
+      ],
+      "antonyms": [
+        "謙虚",
+        "卑下"
+      ],
+      "related": [
+        "態度",
+        "尊大"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.450703+00:00Z",
+      "updated_at": "2026-06-02T01:12:37.675338+00:00Z",
       "freq_rank": 31823,
       "frequencies": {
         "aozora": 464

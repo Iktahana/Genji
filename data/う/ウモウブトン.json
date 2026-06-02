@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬は高級な羽毛布団を使うと、とても暖かく眠れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "羽毛布団は値段が高いが、十年以上持つことがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "羽毛布団のクリーニングに出すと、想像以上に費用がかかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ルシンダの　まくらから　うもうを　はんぶん　ぬきだしたところで、　ああ　これは　ほしかった　うもうぶとんに　できると　おもいなおします。",
@@ -47,14 +72,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "羽毛掛け布団"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "布団",
+        "寝具",
+        "掛布団",
+        "ダウン",
+        "保温"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.883276+00:00Z"
+      "updated_at": "2026-06-02T00:22:43.995381+00:00Z"
     }
   }
 ]

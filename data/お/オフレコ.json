@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "記者会見でオフレコの話をしてしまったため、後で新聞に掲載されてしまい、謝罪することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "部長がオフレコという前置きをして、プロジェクトの遅延について率直な意見を述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このインタビューはオフレコ扱いなので、公式な発表があるまで内容を明かすことはできません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「いや、とんでもない……ただの強盗だ……このことはオフレコで、頼む。",
@@ -46,14 +71,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "非公開",
+        "秘密",
+        "極秘"
+      ],
+      "antonyms": [
+        "オンレコ",
+        "公開",
+        "公式"
+      ],
+      "related": [
+        "マスコミ",
+        "取材",
+        "プライバシー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.484451+00:00Z",
+      "updated_at": "2026-06-02T02:12:43.752672+00:00Z",
       "freq_rank": 35203,
       "frequencies": {
         "aozora": 1

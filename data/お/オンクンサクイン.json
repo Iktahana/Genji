@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "辞書の音訓索引から目的の漢字を探すことができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この本の付録に詳細な音訓索引が掲載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複雑な音訓索引を使いこなすには練習が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本書収むる所の語彙、実に十五万八千百六十四語、古語より現代語と、新古の国語化したる外来語とに及び、国語的語彙の外に百科辞彙語類の大概を網羅し、附録に「難音訓索引」「字音索引」「字音と国語との仮名遣表」「常用漢字・略字表」「国字表」「文法に関する数表」を添附して、国語学習の便に資してゐる。",
@@ -47,12 +72,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "辞典",
+        "索引",
+        "漢字"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:28:01.891660+00:00Z"
     }
   }
 ]

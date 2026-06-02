@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「そんな、お礼には及びません」と彼は謙虚に微笑んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "差し出した手土産に対して「お礼には及びません」と言われ、少し困ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "助けてくれた親切な女性に感謝しようとすると、「お礼には及びません」と彼女は去っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お礼にゆかなきゃなりませんからね」　すると半纏男は笑いながら、「お礼には及びませんよ。",
@@ -77,14 +102,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "どういたしまして",
+        "気になさらないでください"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感謝",
+        "謙遜",
+        "丁寧語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.571890+00:00Z"
+      "updated_at": "2026-06-02T02:26:10.244163+00:00Z"
     }
   }
 ]

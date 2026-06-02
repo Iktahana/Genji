@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は学生時代からずっと大モテで、いつも周囲に人がいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この新メニューは、若い女性客に大モテだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "転校初日に大モテした思い出は、今でも忘れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "強盗強姦にかけてはツワモノで、彼は部下に大モテだった。",
@@ -64,14 +89,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "人気者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "モテる",
+        "好感度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.128036+00:00Z",
+      "updated_at": "2026-06-02T01:18:29.906019+00:00Z",
       "frequencies": {
         "aozora": 3
       }

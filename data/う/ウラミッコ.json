@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「どっちが先に転職しても恨みっこなしだよな」と同期ふたりで確認し合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試合で負けた側のキャプテンが「恨みっこなしでいこう」と手を差し伸べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ここで別れても恨みっこはないわ」と彼女はさっぱりした顔で言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "別れるからなら、恨みっこのねえように、みんな一様に別れてしまいてえのだ。",
@@ -165,14 +190,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恨み合い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恨み",
+        "競争",
+        "揉め事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.033907+00:00Z"
+      "updated_at": "2026-06-02T00:26:09.498661+00:00Z"
     }
   }
 ]

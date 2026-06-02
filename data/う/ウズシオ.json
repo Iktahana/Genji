@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鳴門海峡の観潮船に乗って、間近で激しい渦潮を観察した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大潮の時期になると、橋の上からでも巨大な渦潮が巻く様子が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "激流が岩にぶつかり、いたるところに小さな渦潮を作り出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "多々桜君霊前その桃が実となり、君すでに亡してふてふ一つ渦潮のまんなかに炎天にたへて咲く花のうごいてゐる八月七日　晴、まさしく大暑、花屋。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "渦"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海",
+        "潮流",
+        "自然現象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.061326+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.885660+00:00Z",
       "frequencies": {
         "aozora": 33
       }

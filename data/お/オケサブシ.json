@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "民謡のイベントでおけさ節の演奏があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おけさ節の振り付けを習うクラスに参加している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祭りの夜におけさ節が町中に響き渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おけさ節も出れば、いそ節、ほうかい節、しののめ節も出る。",
@@ -85,14 +110,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おけさ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "民謡",
+        "三味線",
+        "佐渡",
+        "新潟",
+        "伝統芸能",
+        "ハイヤ節"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.714055+00:00Z"
+      "updated_at": "2026-06-02T01:25:40.777945+00:00Z"
     }
   }
 ]

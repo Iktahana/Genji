@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の御触書には、当時の商業活動や生活ルールに関する詳細な指示が記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "町奉行所から発せられた御触書が町内の掲示板に貼り出されて、全ての住民に周知された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この御触書の内容から、当時の社会情勢と統治体制を理解することができます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "嘉永六年の黒船騒ぎのとき、浦賀奉行がだした御触書が翻訳つきで博物館にありますが、外国人を見ると青い眼玉の子供を孕むから……これは失礼、見ちゃならんと書いてある。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お触れ",
+        "触書",
+        "令状",
+        "公告"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "幕府",
+        "江戸時代",
+        "大名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.473951+00:00Z"
+      "updated_at": "2026-06-02T02:12:43.752316+00:00Z"
     }
   }
 ]

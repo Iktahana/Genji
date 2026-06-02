@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この映画の映画音楽は、一度聴いたら忘れられないほど壮大だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "カフェで流れていた映画音楽を聴いて、懐かしい気分になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私は映画音楽を専門に研究する作曲家を目指している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次に映画音楽の特殊な要求として、非常な短時間（といつても十秒以下ではむりであろうが）のうちに一つの色なり気分なりを象徴し得る音楽を欲することがある。",
@@ -85,14 +110,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "サウンドトラック",
+        "サントラ",
+        "劇伴"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映画",
+        "音楽",
+        "作曲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.717522+00:00Z"
+      "updated_at": "2026-06-02T00:31:16.425521+00:00Z"
     }
   }
 ]

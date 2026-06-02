@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "逢魔が時の薄暗い路地を急ぎ足で歩いていると、背後でガタンと音がして思わず振り返った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「昔から逢魔が時には出歩くものじゃないと言われてきた」と祖母が窓の外を眺めながらつぶやいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夕暮れの公園は逢魔が時の雰囲気が漂い、子供たちも早々に家路についていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論この内にも、狐狸とか他の動物の仕業もあろうが、昔から言伝えの、例の逢魔が時の、九時から十一時、それに丑満つというような嫌な時刻がある、この時刻になると、何だか、人間が居る世界へ、例の別世界の連中が、時々顔を出したがる。",
@@ -157,14 +182,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "黄昏時",
+        "たそがれ時",
+        "夕暮れ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魔物",
+        "怪異",
+        "夕方"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.470183+00:00Z"
+      "updated_at": "2026-06-02T01:12:51.653459+00:00Z"
     }
   }
 ]

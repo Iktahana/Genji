@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お客様、この度は当店の商品をお買い上げいただきありがとうございます。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「本日、当店の商品をお買い上げの方に特別なプレゼントがございます。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その高級家具をお買い上げになるとは、素晴らしい決断ですね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どんな帯をお買い上げだか知らねえが、買うなら早いことおしなせえよ」　その声がつつぬけに聞こえたとみえて、若主人陽吉がふとこちらを向きましたので、右門の視線と陽吉の視線とが、はしなくもそこでぱたりとぶつかりました。",
@@ -173,14 +198,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "購入"
+      ],
+      "antonyms": [
+        "売却"
+      ],
+      "related": [
+        "買い物",
+        "商品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.202091+00:00Z",
+      "updated_at": "2026-06-02T01:18:59.908700+00:00Z",
       "frequencies": {
         "aozora": 17
       }

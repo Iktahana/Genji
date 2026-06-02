@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "なすを煮込むときは、落としぶたを使うと味がしみやすくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "落としぶたがない場合は、キッチンペーパーで代用できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大根の煮込みに落としぶたをのせて、弱火で30分煮た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　小林少年は、たちあがって、その銀色の長い棒をてんじょうの落としぶたのほうへ、のばしました。",
@@ -77,14 +102,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "落とし蓋",
+        "内蓋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "蓋",
+        "鍋",
+        "調理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.837967+00:00Z",
+      "updated_at": "2026-06-02T01:53:28.558786+00:00Z",
       "frequencies": {
         "aozora": 5
       }

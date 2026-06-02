@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母親は幼子を抱いて授乳している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "幼子の泣き声が聞こえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この幼子は生後3か月だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしは幼子イエスを肩にのせた聖クリストファの画像をながめました。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "子供",
+        "幼児",
+        "赤ん坊",
+        "児童"
+      ],
+      "antonyms": [
+        "大人",
+        "成人"
+      ],
+      "related": [
+        "育児",
+        "家族",
+        "乳幼児",
+        "慈しむ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.845443+00:00Z",
+      "updated_at": "2026-06-02T01:26:53.573650+00:00Z",
       "freq_rank": 35680,
       "frequencies": {
         "aozora": 89

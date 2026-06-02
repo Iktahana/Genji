@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その方は、御年90才とは思えないほどお元気だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "御年を召し上がった方々への敬意を忘れてはならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女の御年は60才を越えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さてもお父樣は幾年の前にか失せ給ひし、お前さまの親御樣なれば御年もまだお若かりしならんと問へば、いや若しといふほどにはあらず、別れしは八年の前おもへば夢のやうな別れ成しとあるに、さらば御病氣は俄の病にてやありしと、たゝみかけて問へば、何の病氣かは、我が父はこれこの池に身を沈め給ひしなり。",
@@ -255,14 +280,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "年齢"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "年",
+        "高齢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:29:59.875955+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「いい加減にしなさい、この大馬鹿者！」と父が一喝した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "嘘をついてまで金をだまし取るなんて、なんて大馬鹿者だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史的な教訓を無視するような政治家は、まさに大馬鹿者だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "屹度三人の方を白眼で「大馬鹿者！",
@@ -261,14 +286,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "馬鹿者",
+        "愚か者",
+        "阿呆"
+      ],
+      "antonyms": [
+        "賢者",
+        "智者"
+      ],
+      "related": [
+        "無知な人",
+        "愚鈍",
+        "呆け者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.008302+00:00Z"
+      "updated_at": "2026-06-02T01:19:39.955918+00:00Z"
     }
   }
 ]

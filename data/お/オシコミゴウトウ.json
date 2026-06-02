@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日、隣のマンションで押し込み強盗があったらしいよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "怖くて夜も眠れないので、押し込み強盗対策の防犯カメラをつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "鍵はしっかりかけていたのに、押し込み強盗に入られてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "スコットランドで押し込み強盗をしたと思えば、次の週はコーンワルで孤児院の設立資金とかぬかして金を騙し集めていたりしやがる。",
@@ -69,14 +94,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "強盗",
+        "侵入強盗",
+        "押し入り強盗"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "窃盗",
+        "泥棒",
+        "空き巣",
+        "強奪",
+        "不法侵入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.944206+00:00Z"
+      "updated_at": "2026-06-02T01:31:19.992857+00:00Z"
     }
   }
 ]

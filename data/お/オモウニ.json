@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "思うに、今回の失敗の原因は準備不足にあるのではないか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女が急に明るくなったのは、思うに素敵な出会いがあったからだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "思うに、この計画を成功させるには、皆の協力が不可欠だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕があらゆる俳句を理解し得ず、俳句を本質的に毛嫌いしながら、一人例外として蕪村を好み、彼の俳句だけを愛読したという事実は、思うにおそらく、蕪村の情操における特異なものが、僕の趣味性や気質における特殊な情操と密に符合し、理解の感流するものがあったためであろう。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "考えるに",
+        "結論として",
+        "推測するに"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "推論",
+        "判断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.966897+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.898906+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもたちが誕生日プレゼントで大喜びしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼が試験に合格して大喜びする様子が見られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "家族中が新居完成で大喜びだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "みんながみんな大喜びで笑ひ始めた。",
@@ -279,14 +304,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "歓喜",
+        "喜悦",
+        "大歓喜"
+      ],
+      "antonyms": [
+        "落胆",
+        "悲嘆"
+      ],
+      "related": [
+        "喜ぶ",
+        "満悦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.164631+00:00Z",
+      "updated_at": "2026-06-02T01:18:59.895783+00:00Z",
       "frequencies": {
         "aozora": 615
       }

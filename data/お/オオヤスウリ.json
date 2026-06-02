@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "デパートが季節の大安売りを開いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今週末の大安売りで家具を半額で買った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大安売り期間中に必要な冬の衣類をそろえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、「ああ西瓜や、西瓜や、うまい西瓜の大安売りや！",
@@ -125,14 +150,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "特売",
+        "セール",
+        "バーゲン"
+      ],
+      "antonyms": [
+        "定価販売"
+      ],
+      "related": [
+        "商売",
+        "割引",
+        "消費"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.146501+00:00Z",
+      "updated_at": "2026-06-02T01:18:45.383668+00:00Z",
       "frequencies": {
         "aozora": 11
       }

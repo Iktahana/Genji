@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "探査機が無事に打ち上がったと知らせが届き、管制室に拍手が広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ロケットが轟音とともに打ち上がり、見学していた人々から歓声が沸いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "花火が次々と夜空に打ち上がり、川沿いを埋めた人々が一斉に見上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "月光の谿緑ヶ丘夜景角の月黄にしめる横雲のうへ、燦爛とうちあがる青きぬがさ。",
@@ -73,21 +98,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "台風の翌朝、大量の流木が浜辺に打ち上がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クジラが砂浜に打ち上がり、救助のため多くのボランティアが集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "漁師が浜を歩いていると、見慣れない漂流物が打ち上がっているのを見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "打ち上げられる",
+        "発射される",
+        "飛び上がる"
+      ],
+      "antonyms": [
+        "落ちる",
+        "着地する"
+      ],
+      "related": [
+        "ロケット",
+        "打ち上げ",
+        "空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.177286+00:00Z",
+      "updated_at": "2026-06-01T22:14:02.249333+00:00Z",
       "frequencies": {
         "aozora": 9
       }

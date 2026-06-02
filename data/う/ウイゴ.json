@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "待ちに待った初子の誕生に、一家は喜びに包まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "初子を抱き上げる父親の腕は、まだ少しぎこちなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は初子のために、夜な夜な小さな産着を縫い進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "西の浮川横綱が、高千穂バローズ（現ユニシス）の研究所でソフトウエアに携わっていた初子夫人と二人三脚で会社を起こして以来、日本語ワープロで成功物語を書き上げた経緯はいずれ追う。",
@@ -279,14 +304,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "第一子",
+        "長子"
+      ],
+      "antonyms": [
+        "末子"
+      ],
+      "related": [
+        "子供",
+        "誕生"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.407280+00:00Z",
+      "updated_at": "2026-06-01T21:52:59.058460+00:00Z",
       "frequencies": {
         "aozora": 333
       }

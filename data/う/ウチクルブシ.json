@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい靴が足に合わず、右足の内踝に靴擦れができてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "足首を捻った拍子に内踝のあたりを強く打ち、ひどく腫れ上がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ズボンの裾を少しめくって、内踝にある特徴的なタトゥーを見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは、内踝の上部三寸くらゐのところで、比目魚筋の上に団子くらゐの大きな灸をすゑるのだ。",
@@ -46,13 +71,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "外踝"
+      ],
+      "related": [
+        "足首",
+        "踝",
+        "解剖"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.254567+00:00Z",
+      "updated_at": "2026-06-01T22:16:27.835260+00:00Z",
       "frequencies": {
         "aozora": 1
       }

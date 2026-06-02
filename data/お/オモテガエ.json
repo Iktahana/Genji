@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新年を気持ちよく迎えるために、居間の畳の表替えを畳店に依頼した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表替えをしたばかりの畳は、い草の香りが部屋いっぱいに広がって心地よい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長年使って擦り切れた畳も、表替えをすれば新品のような美しさを取り戻す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれどもだんだんと自分が畳の表替えをするということをずいぶん考えなければならぬようになってきますと、こんどは畳がもっときれいならよいと思う。",
@@ -61,14 +86,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "畳替え"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "畳",
+        "修理",
+        "メンテナンス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.043115+00:00Z",
+      "updated_at": "2026-06-02T02:21:45.151521+00:00Z",
       "frequencies": {
         "aozora": 7
       }

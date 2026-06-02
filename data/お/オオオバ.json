@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大叔母は若い頃にパリで絵を学んだとかで、家には洋画が何枚も飾られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母の姉、つまり大叔母に当たる人が先月100歳の誕生日を迎えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大叔母が他界し、一族の古い記憶を語れる人がいなくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのじぶんには、すゞ子の曾祖母は、まだ玉木の大叔母ちやんのところにいらつしやいました。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大おば"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "祖母の姉妹",
+        "親戚",
+        "叔母"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.632784+00:00Z",
+      "updated_at": "2026-06-02T01:14:26.501084+00:00Z",
       "frequencies": {
         "aozora": 32
       }

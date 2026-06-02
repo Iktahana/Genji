@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友達を驚かすサプライズパーティーを開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "突然現れて母を驚かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "予期しない電話で彼を驚かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "手際よくやって驚かす性質のものではなく、むしろ如何にすれば成功し如何にすれば失敗するかを明らかにする方に効果がある。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "びっくりさせる"
+      ],
+      "antonyms": [
+        "安心させる"
+      ],
+      "related": [
+        "驚く",
+        "意外"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.988119+00:00Z",
+      "updated_at": "2026-06-02T01:56:18.052138+00:00Z",
       "freq_rank": 44178,
       "frequencies": {
         "aozora": 2800

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ここは山の境界線だから、片側だけで雨が降る馬の背を分けるような天気がよくある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「山で急に雨が止んだと思ったら、まさに馬の背を分ける現象が起きたんだね」と登山のガイドが言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "まるで馬の背を分けるように、道を境にして一方だけがびしょ濡れになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夏の雨は馬の背を分けるというが、全くその通りだ。",
@@ -48,12 +73,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "天気",
+        "雨"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.733775+00:00Z"
+      "updated_at": "2026-06-02T00:14:27.693387+00:00Z"
     }
   }
 ]

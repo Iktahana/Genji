@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人は迷った末に運に任せてコインを投げ、旅の行き先を決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「もうどうにでもなれ、運に任せるしかない」と彼は書類を提出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試験の準備を十分にせず運に任せた結果、案の定不合格になってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "スレイニは肩をすくめて、「運に任せるさ。",
@@ -54,14 +79,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運を天に任せる",
+        "成り行きに任せる"
+      ],
+      "antonyms": [
+        "自力で切り拓く",
+        "準備を整える"
+      ],
+      "related": [
+        "運命",
+        "僥倖",
+        "ギャンブル",
+        "偶然",
+        "楽観的"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.530505+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.309790+00:00Z"
     }
   }
 ]

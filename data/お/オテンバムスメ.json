@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あのおてんば娘が、いつの間にか立派な女性になったものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "近所のおてんば娘が、また塀を乗り越えて遊んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "おてんば娘だった姉が、急に大人しくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "或る日、おてんば娘の甜瓜が、かぼちやに毒舌を吐きました。",
@@ -101,14 +126,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "やんちゃな娘",
+        "活発な娘",
+        "元気な娘",
+        "わんぱくな娘"
+      ],
+      "antonyms": [
+        "おしとやかな娘",
+        "大人しい娘"
+      ],
+      "related": [
+        "娘",
+        "女の子",
+        "性格",
+        "行動",
+        "家族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.669371+00:00Z",
+      "updated_at": "2026-06-02T01:46:52.064591+00:00Z",
       "frequencies": {
         "aozora": 9
       }

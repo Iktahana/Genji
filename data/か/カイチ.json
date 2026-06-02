@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "獬豸は中国の法廷に描かれることが多く、正義の象徴として古くから崇められてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "博物館の展示に獬豸の像があり、解説には「悪人を見分ける力を持つ」と記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "韓国の宮廷建築にも獬豸の像が置かれており、邪悪なものを退ける守護獣とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「これ／＼一坊や、一坊や、くわらかいち、くわらかいち。",
@@ -273,12 +298,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "伝説",
+        "神話",
+        "中国",
+        "司法",
+        "正義"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:17:56.198611+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お得意様には毎月ニュースレターと特別割引クーポンをお送りしております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "十年来のお得意様が店を訪れると、店主は笑顔で奥から上等な茶を運んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大切なお得意様をお待たせしてしまい、誠に申し訳ございませんでした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "之れは巴里祭の期間中これ等の踊り場がする、お得意様への奉仕であった。",
@@ -165,14 +190,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "常連客",
+        "得意先"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顧客",
+        "上客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.723054+00:00Z"
+      "updated_at": "2026-06-02T01:49:23.410531+00:00Z"
     }
   }
 ]

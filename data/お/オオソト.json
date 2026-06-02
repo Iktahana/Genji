@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボールがラインを大きく越えて、大外に飛んでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼はコースの右側を攻めるつもりで、大外に位置取りをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "競技場では、大外のレーンから選手が追い上げてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どの宿という心当りもなかったが、無作法なる宿引きが、電車の中の客席へ割り込んで、あまりにツベコベと、一つの宿屋を吹聴するので、宿引の来ない宿屋にゆくに限ると決め、電車の窓から投げ込まれた引札の中から選り取って、大外河を姓とする芙蓉閣なる宿屋へ、昼飯を食べに入った。",
@@ -269,14 +294,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "外側",
+        "外方"
+      ],
+      "antonyms": [
+        "内側",
+        "内方"
+      ],
+      "related": [
+        "競馬",
+        "競走",
+        "走路"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.874043+00:00Z"
+      "updated_at": "2026-06-02T01:16:33.758940+00:00Z"
     }
   }
 ]

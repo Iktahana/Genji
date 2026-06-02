@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのバーのオールドな内装は、50年代のアメリカを思わせる雰囲気に満ちていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このオールドなデザインこそが、ブランドの魅力だと思う」とデザイナーは主張した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "街の片隅に残るオールドな商店街の建物は、地元住民から愛着を持って守られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "銘仙の袷に金紗の羽織を着、兎の毛で縁をとつたオールドローズの繻子の肩掛に寒々とくるまり、海老茶の袴を胸高く穿いてゐる。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "古い"
+      ],
+      "antonyms": [
+        "新しい",
+        "若い"
+      ],
+      "related": [
+        "時間",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:37:24.353049+00:00Z",
       "freq_rank": 14023,
       "frequencies": {
         "aozora": 98

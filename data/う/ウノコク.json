@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の農家は卯の刻にはすでに畑に出て、仕事の準備を始めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "卯の刻を告げる鐘の音を聞きながら、宿坊の冷たい空気を吸い込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "静まり返った夜明けの卯の刻に、彼は長い旅路に出発した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「二万の御人数の裡、一万二千を以て、西条村の奥森の平を越え倉科村へかかって、妻女山に攻めかかり、明朝卯の刻に合戦を始める。",
@@ -278,14 +303,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "午前六時頃"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "時刻",
+        "十二時辰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.634878+00:00Z"
+      "updated_at": "2026-06-02T00:21:40.281315+00:00Z"
     }
   }
 ]

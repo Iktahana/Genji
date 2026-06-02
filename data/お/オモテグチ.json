@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "客人を迎える際は、勝手口ではなく表口から入ってもらうのが当然だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表口のチャイムが鳴ったので、急いで玄関まで迎えに出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "泥棒は人目につく表口を避け、裏の窓を破って侵入したようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "暁の空に大宮表口の裾野原は、うす紙をはがすように目がさめる。",
@@ -269,14 +294,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "玄関"
+      ],
+      "antonyms": [
+        "裏口"
+      ],
+      "related": [
+        "建物",
+        "出入り口"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.045681+00:00Z",
+      "updated_at": "2026-06-02T02:21:45.153100+00:00Z",
       "frequencies": {
         "aozora": 238
       }

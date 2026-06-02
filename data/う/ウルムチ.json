@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "烏魯木斉は新疆ウイグル自治区の首府だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "烏魯木斉へは飛行機で向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "烏魯木斉の気候は大陸性で寒冷だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飛天夜叉　烏魯木斉は新疆の一地方で、甚だ未開｜辺僻の地である（筆者、紀暁嵐は曾てこの地にあったので、烏魯木斉地方の出来事をたくさんに書いている）。",
@@ -63,12 +88,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "中国",
+        "新疆ウイグル自治区",
+        "都市"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.214388+00:00Z",
+      "updated_at": "2026-06-02T00:27:22.661625+00:00Z",
       "freq_rank": 41339,
       "frequencies": {
         "aozora": 4

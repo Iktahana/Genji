@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場が閉鎖になってしまい、おまんまの食い上げになるかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おまんまの食い上げを避けるため、別の仕事を探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この業界で失敗すると、おまんまの食い上げになる可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こうすればもっとよくなるのではないかと思う点が多々あるが、いや、これが良くなったら、映画は脅威で、おまんまの食い上げだから、よくなってはいけないのだと、黙っているのである。",
@@ -46,14 +71,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "失業",
+        "失職"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "生計",
+        "職業",
+        "経済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.727687+00:00Z"
+      "updated_at": "2026-06-02T02:20:35.366521+00:00Z"
     }
   }
 ]

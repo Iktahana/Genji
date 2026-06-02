@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゲームのボスキャラクターが新しいウェポンを装備して再登場し、プレイヤーたちは攻略法を話し合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "空港のセキュリティチェックで、スーツケースの中にウェポンと誤認されるものが入っていないか確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このウェポンは射程が短い分、威力が高く設定されているんだ」とゲームの開発者がインタビューで明かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しばらくして、アメリカ海兵隊のウェポンズ・キャリアのトラックが一台、徐行して来た。",
@@ -95,14 +120,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "武器",
+        "兵器"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "攻撃",
+        "防御"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.526319+00:00Z"
+      "updated_at": "2026-06-01T21:56:01.761140+00:00Z"
     }
   }
 ]

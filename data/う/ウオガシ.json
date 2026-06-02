@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "築地の魚河岸で働く職人は、夜明け前から仕入れと仕込みを始める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "魚河岸近くの定食屋では、朝一番に競り落とした鮮魚をその日のうちに刺身で出す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "父は若いころ魚河岸で下働きをしながら、目利きの技術を身につけたと話してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "誰か旧｜魚河岸の方の側で手鏡を日光に曝らしてそれで反射された光束を対岸のビルディングに向けて一人で嬉しがっているものと思われた。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "魚市場"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "市場",
+        "商業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.665552+00:00Z",
+      "updated_at": "2026-06-01T22:01:35.607538+00:00Z",
       "frequencies": {
         "aozora": 138
       }

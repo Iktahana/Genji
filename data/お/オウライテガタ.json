@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、旅人は関所を通る際に往来手形を提示する必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この古文書には、江戸の街を出入りするための往来手形が記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "往来手形がなければ、当時の旅は非常に困難だっただろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは近衛家の往来手形だった。",
@@ -61,14 +86,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "通行手形"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "江戸時代",
+        "旅",
+        "通行許可"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.516032+00:00Z"
+      "updated_at": "2026-06-02T01:13:24.853599+00:00Z"
     }
   }
 ]

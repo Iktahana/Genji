@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その文章には欧文脈が多く含まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "翻訳文では欧文脈が出やすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の欧文脈は理解しづらい時がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現代の俳優は、刻々変遷する日常の口語体に、絶えず注意を払ふのみならず、漢文脈より欧文脈に推移する文学的表現に親しみ、あらゆる職業、教養、年配、性格を通して各種の人物に接触し、その「話し方」を微細にノオトする必要があるのである。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "翻訳調"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本語",
+        "翻訳",
+        "文体",
+        "外来語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.451558+00:00Z"
+      "updated_at": "2026-06-02T01:12:37.675000+00:00Z"
     }
   }
 ]

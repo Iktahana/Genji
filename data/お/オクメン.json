@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は緊張していたのか、臆面な表情を浮かべていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "突然の発表に、一同は臆面のない表情で驚きを隠せなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "面接の直前、彼は鏡を見て臆面な自分に気合を入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "以上はただ全くの素人の想い出話のついでに思い付くままの空想を臆面もなく書付けて見ただけである。",
@@ -279,12 +304,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔色",
+        "表情",
+        "恥じらい",
+        "面目"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.618887+00:00Z",
+      "updated_at": "2026-06-02T01:23:58.736472+00:00Z",
       "freq_rank": 43857,
       "frequencies": {
         "aozora": 323

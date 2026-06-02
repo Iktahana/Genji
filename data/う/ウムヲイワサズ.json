@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生は有無を言わさず宿題を提出させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親は有無を言わさず子どもを寝かしつける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上司の指示には有無を言わさず従わなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蟇口をば開けて見い」　といった調子で有無を言わさず捻じ上げて行くので能率の上る事非常であったという。",
@@ -262,14 +287,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "強制的に",
+        "問答無用で"
+      ],
+      "antonyms": [
+        "慎重に"
+      ],
+      "related": [
+        "強引",
+        "断固"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.844475+00:00Z"
+      "updated_at": "2026-06-02T00:21:50.874629+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試合で終始受け太刀に回った剣士は、相手の隙を探しながら体力を温存した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "議会の答弁で大臣は野党の攻勢に受け太刀の状態が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「受け太刀ばかりでは勝機はない」と師範は弟子に間合いを詰めるよう諭した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まあ、もう少し待ってやることさ」　受け太刀に困っている半七を、お六が横合いから救い出してくれた。",
@@ -149,14 +174,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "守り",
+        "防御",
+        "受け身",
+        "防戦"
+      ],
+      "antonyms": [
+        "攻め太刀",
+        "攻撃",
+        "先手"
+      ],
+      "related": [
+        "剣術",
+        "刀剣",
+        "防御",
+        "受け身",
+        "武道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.806205+00:00Z",
+      "updated_at": "2026-06-01T22:04:49.807127+00:00Z",
       "frequencies": {
         "aozora": 15
       }

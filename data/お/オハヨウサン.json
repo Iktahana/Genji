@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "同僚に「お早うさん」とカジュアルに挨拶します。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "工事現場では、朝「お早うさん」という独特の挨拶が交わされます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "地方によって「お早うさん」という挨拶が一般的なところもあります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お早うさんゆうべの夢は？",
@@ -47,14 +72,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "おはよう",
+        "お早う"
+      ],
+      "antonyms": [
+        "おやすみなさい"
+      ],
+      "related": [
+        "朝",
+        "挨拶",
+        "方言",
+        "親称"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.250691+00:00Z"
+      "updated_at": "2026-06-02T02:05:00.753274+00:00Z"
     }
   }
 ]

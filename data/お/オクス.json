@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人前で話すことにはまだ少し臆してしまう自分がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は失敗を恐れて、新しい挑戦をするのを臆している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "そんなに臆してばかりいないで、もっと自信を持って前に進めよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その実態が、かくの如きものである以上、とてもそれは恥かしくて、口に出しては言えない言葉であるべき筈なのに、「恋愛」と臆するところ無くはっきりと発音して、きょとんとしている文化女史がその辺にもいたようであった。",
@@ -278,14 +303,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "尻込みする",
+        "怯む",
+        "躊躇する",
+        "委縮する",
+        "気後れする"
+      ],
+      "antonyms": [
+        "大胆になる",
+        "勇む",
+        "奮い立つ"
+      ],
+      "related": [
+        "臆病",
+        "遠慮",
+        "恐れ",
+        "萎縮",
+        "逡巡"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.550627+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.167436+00:00Z",
       "frequencies": {
         "aozora": 20
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父の書斎には古い音盤が整然と並んでいて、それを見るだけで昭和の薫りが漂った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "中古レコード店の棚を丁寧に探し、長年探し求めていた音盤をようやく見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このジャズの音盤は一九五〇年代の録音で、今では非常に希少です」と店主が説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "敵性の言葉という理由で中等学校の正課から、英語がとりのぞかれ、レコードは音盤とよばれ、イギリスやアメリカの音楽はレコードできいてもいけなかった。",
@@ -269,14 +294,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レコード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音",
+        "音楽",
+        "録音"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:30:36.482148+00:00Z",
       "frequencies": {
         "aozora": 31
       }

@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食卓を汚さないように、可愛い柄の**オイルクロス**を敷いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ピクニックの際には、地面に**オイルクロス**を広げて座ると便利だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この防水エプロンは、**オイルクロス**で作られているので汚れがつきにくい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こどもべやに　だれも　いないことを　たしかめると、　おもいきって　せきたんいれの　したに　しいてある　オイルクロスに　とびおります。",
@@ -49,14 +74,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "防水布"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "布",
+        "防水",
+        "加工",
+        "テーブルクロス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.108485+00:00Z"
+      "updated_at": "2026-06-02T01:08:54.997619+00:00Z"
     }
   }
 ]

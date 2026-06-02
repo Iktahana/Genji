@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "代々続くこの家では、屋敷の北西の角に内神様を祀っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "正月には家族全員で内神に手を合わせ、一年の家内安全を祈願する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父は毎日欠かさず内神の社を掃除し、供え物を新しくしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "喜多八、さあ、其の氣で歩ばつしと、今こそ着流で駒下駄なれ、以前は、つかさやをかけたお太刀一本一寸極め、振分の荷物、割合羽、函嶺の夜路をした、内神田の叔父的、名を彌次郎兵衞といふ小田原通、アイお茶代を置いたよ、とヅイと出るのに、旅は早立とあつて午前六時に搖起された眠い目でついて行く。",
@@ -175,14 +200,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "氏神",
+        "守護神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神社",
+        "祠",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.238620+00:00Z",
+      "updated_at": "2026-06-01T22:16:27.828859+00:00Z",
       "frequencies": {
         "aozora": 4
       }

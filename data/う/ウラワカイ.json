@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うら若い女性たちが楽しそうに歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はうら若い時代に世界を旅していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うら若い世代の意見を聞くことは大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "武蔵野に見るような黒土を踏んで、うら若いひのきの植林が、一と塊まりに寄り添っている、私たちの足許には釣鐘草、萩、擬宝珠、木楡が咲く。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "若い",
+        "若々しい"
+      ],
+      "antonyms": [
+        "老いた",
+        "年老いた"
+      ],
+      "related": [
+        "若さ",
+        "若々しさ",
+        "少年"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.062910+00:00Z",
+      "updated_at": "2026-06-02T00:29:20.953319+00:00Z",
       "frequencies": {
         "aozora": 206
       }

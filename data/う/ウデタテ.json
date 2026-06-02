@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎朝、起きてすぐに腕立てを50回するのが日課になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "体育館の隅で、彼らは腕立ての回数を競い合っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "腕立てをして筋肉を鍛えることが、健康維持の秘訣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その翌日、わたくしは贋唖がばれてしまう懸念の方はとにかくとして、女乞食に腕立てしてしまったことがにちゃ／＼心に粘って鬱陶しく、貰いに出る気にもなりません。",
@@ -262,14 +287,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "腕立て伏せ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運動",
+        "体操",
+        "筋力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.557720+00:00Z",
+      "updated_at": "2026-06-01T23:14:43.517856+00:00Z",
       "frequencies": {
         "aozora": 38
       }

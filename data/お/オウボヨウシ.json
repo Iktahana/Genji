@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は応募用紙を丁寧に記入し、宛名を二度確認してから封筒に入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「応募用紙は必ず黒のボールペンで記入してください」と案内に書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "当日会場に行くと、受付で応募用紙を手渡され、その場で記入するよう求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "謎を解いてないこの小説をここで切って出すなら、これは謎の解答を「懸賞」として、一等当選者に金一千円也、以下五等まで賞品多数、応募用紙は必ず本誌挿込みのハガキ使用のことということにすれば「新探偵」の購読者は急に二、三倍がたの増加を示すことになろう。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "申込書",
+        "エントリーシート"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "記入",
+        "提出",
+        "募集"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.470145+00:00Z"
+      "updated_at": "2026-06-02T01:12:51.652557+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "全身から戻ってきた血液は、まず右房に入り、そこから右室へ送られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "医師は超音波検査で、患者の右室の動きを入念に確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "右室に大きな負荷がかかると、心不全の症状が現れることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山口はわたしの左室、大杉は右室に入れられました。",
@@ -280,12 +305,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "心臓",
+        "解剖",
+        "循環器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.898097+00:00Z",
+      "updated_at": "2026-06-01T22:08:58.666189+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カモが浮き巣を作って、卵を温めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "水上に浮き巣を作る水鳥もいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浮き巣が波で揺れながら、親鳥が見守っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まもなく、古市の一夜、思わぬ災難から、浮き巣の世帯も失い、また夫婦とも、六波羅兵の藤井寺の屯につながれて、あげくに、二度目の子まで亡くすに至ったものである。",
@@ -111,12 +136,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "巣",
+        "鳥",
+        "浮く"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.739768+00:00Z",
+      "updated_at": "2026-06-01T22:04:00.458189+00:00Z",
       "frequencies": {
         "aozora": 1
       }

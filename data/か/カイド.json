@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遺跡からは灰土が多く出土した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "灰土層の厚さから火災の規模を推定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "考古学者は灰土を慎重に掘り進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤さびの鉄片や、まっ黒こげの灰土のみのぼうぼうとつづいた、がらんどうの焼けあとでは、四日五日のころまで、まだ火気のある路ばたなぞに、黒こげの死体がごろごろしていました。",
@@ -282,14 +307,21 @@
         "塊土",
         "開度"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "土砂"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "灰",
+        "土",
+        "混合物",
+        "建築"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.655581+00:00Z",
+      "updated_at": "2026-06-02T03:19:50.366380+00:00Z",
       "frequencies": {
         "aozora": 9
       }
@@ -325,7 +357,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工事現場に塊土が積み上げられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "塊土を砕いて基礎工事に使う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この塊土は硬くて掘削が大変だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其志望や大、其氣象や高、其勢や順、其理や適、是れ、支那海の盡くる所、太平洋の初まる所に國を起し、世界東西の文明を呼吸し、高きに據つて、亞細亞思想（若し此の如きものありとせば）の頑固なる塊土とも云ふべき支那に向つて、大打撃を與へたる時勢が生み出せる、正統の子たる也。",
@@ -576,9 +633,16 @@
         "灰土",
         "開度"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "土塊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "土",
+        "塊",
+        "地面",
+        "砂利"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -616,7 +680,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この角度の開度は45度だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開度を調整してフィッティングを改善した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "門の開度を広げて出入りしやすくした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一羽を狙えば距離に同率のものがあって他にもあたるちゅう趣向かな」「それには鳥の飛び方ばかりでなく、散弾の展開度との関係も調べなくちゃ。",
@@ -859,9 +948,18 @@
         "灰土",
         "塊土"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "発散度"
+      ],
+      "antonyms": [
+        "収束度"
+      ],
+      "related": [
+        "数学",
+        "角度",
+        "物理",
+        "発散"
+      ]
     },
     "meta": {
       "version": "1.0.0",

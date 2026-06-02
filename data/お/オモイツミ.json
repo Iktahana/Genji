@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証拠が積み重なり、被告は重い罪に問われることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "無実の人を陥れるとは、これほど重い罪はないと裁判官は言い渡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は重い罪を犯したにもかかわらず、最後まで反省の色を見せなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どんな重い罪科になつてもちつとも不満はありません。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重罪",
+        "大罪",
+        "悪事"
+      ],
+      "antonyms": [
+        "軽微な罪"
+      ],
+      "related": [
+        "犯罪",
+        "刑罰",
+        "悪行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.916171+00:00Z"
+      "updated_at": "2026-06-02T02:23:08.956633+00:00Z"
     }
   }
 ]

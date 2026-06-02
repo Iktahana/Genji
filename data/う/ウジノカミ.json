@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "氏上として、一族の結束を乱すような行為は厳に慎むよう命じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "氏上の交代を機に、家訓を改めて見直すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は若くして氏上の座を継ぎ、重責に身が引き締まる思いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、氏中最も正系に属する人を氏上と称して尊信し、他を氏人と言つたのである。",
@@ -261,14 +286,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "族長",
+        "首長"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "氏人",
+        "氏族",
+        "統治"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.953737+00:00Z",
+      "updated_at": "2026-06-01T22:10:56.917756+00:00Z",
       "frequencies": {
         "aozora": 106
       }

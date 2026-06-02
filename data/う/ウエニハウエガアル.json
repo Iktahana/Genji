@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スポーツの世界では上には上があるということを痛感した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "競技で優勝しても上には上があると思い知らされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "どんな分野でも上には上があるのだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上には上があるものだ」　翁は人の世の言葉ではじめてこういった。",
@@ -254,14 +279,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "上には上がいる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "謙虚",
+        "向上心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.590225+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.284401+00:00Z"
     }
   }
 ]

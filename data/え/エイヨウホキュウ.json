@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "運動後は栄養補給を心がけている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "病院で患者に栄養補給をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試合前に栄養補給を十分に行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "元来が公費患者といふものは支給される食事だけでは栄養が充分でないから、栄養補給のために小遣を稼ぐ必要があるのである。",
@@ -93,14 +118,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "栄養補助"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "栄養補助食品",
+        "栄養剤",
+        "食事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.049706+00:00Z"
+      "updated_at": "2026-06-02T00:37:53.397821+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沖縄の海人たちは朝の4時に漁に出かける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海人の祖父から教わった潜り方は今も変わらない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域の海人は素潜りで貝を採集する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と何の事やら、わけのわからんやうな事を悟り澄ましたみたいな口調で言ひ、兩腕をうしろに組み、ひとり家を出て、あちらこちら海岸を逍遙し、苅薦の亂れ出づ見ゆ海人の釣船　などと、れいの風流めいた詩句の斷片を口ずさみ、「人は、なぜお互ひ批評し合はなければ、生きて行けないのだらう。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "漁師",
+        "漁夫"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "沖縄",
+        "漁業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.840224+00:00Z",
+      "updated_at": "2026-06-02T00:21:50.870566+00:00Z",
       "freq_rank": 38728,
       "frequencies": {
         "aozora": 171

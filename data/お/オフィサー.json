@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "港に入港した船の前に税関オフィサーが立ち、積み荷の申告書を丁寧に確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "国連のオフィサーとして赴任したのは、紛争直後の不安定な地域だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "警備会社のオフィサーが夜通し施設を巡回し、異常がないことを記録していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところがＰＷの士官がサックの一つに横になっているのを誰かが発見し、艦長が僕でないインタープレターにこれはどうしたことだと聞いたら、あのオフィサー、つまり俺が、そうしてもいいといったと答えた。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "職員",
+        "士官"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "役員",
+        "警察官",
+        "兵士"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.395234+00:00Z",
+      "updated_at": "2026-06-02T02:10:12.495592+00:00Z",
       "frequencies": {
         "aozora": 2
       }

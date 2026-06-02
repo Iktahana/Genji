@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この経験から得るところがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "先輩の話からは得るところがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "失敗を通じて得るところがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けだし原始の自由律は、日本語の本然的な発想であったのに、後代の定形律は、支那の模倣でないとしても、多少｜或は不自然の拘束であったように、今日から推測され得るところがあるからだ。",
@@ -174,14 +199,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "収穫がある",
+        "学びがある"
+      ],
+      "antonyms": [
+        "無駄足"
+      ],
+      "related": [
+        "成果",
+        "経験",
+        "成長"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.199679+00:00Z"
+      "updated_at": "2026-06-02T00:27:06.149033+00:00Z"
     }
   }
 ]

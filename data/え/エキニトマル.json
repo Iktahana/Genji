@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "この快速電車は、次の小さな駅に止まるので注意してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
             }
           ],
           "literary": []
@@ -54,14 +62,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "駅に停車する"
+      ],
+      "antonyms": [
+        "駅を通過する"
+      ],
+      "related": [
+        "駅",
+        "停車"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.203360+00:00Z"
+      "updated_at": "2026-06-02T00:39:43.000061+00:00Z"
     }
   }
 ]

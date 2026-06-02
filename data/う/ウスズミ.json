@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薄墨で書かれた香典の名前を見て、受付の人が丁寧に受け取ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "書道の師範が薄墨を使い、霞がかかったような山水画をさらりと描いてみせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「香典袋の名前は薄墨で書くのが正式なのよ」と祖母が教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私の習慣として、手紙は読んで了へば、大概棄てるし、殊に訃報は直ちに破くのであるが、此度も私は読み終るや破かうとしたが、ハツと思つて思ひとゞまり、薄墨色のインクで印刷された端書をもう一度マジ／＼と見直した。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "淡墨"
+      ],
+      "antonyms": [
+        "濃墨"
+      ],
+      "related": [
+        "墨",
+        "書道",
+        "毛筆",
+        "灰色"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.005112+00:00Z",
+      "updated_at": "2026-06-01T22:09:13.033708+00:00Z",
       "frequencies": {
         "aozora": 266
       }

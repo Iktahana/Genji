@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夕暮れ時の海浜を散歩していると、波の音だけが聞こえる静かなひとときを味わえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "台風が接近するにつれて波が高くなり、海浜に並んでいた海水浴客のテントが次々と飛ばされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地元の人々が毎年夏の終わりに海浜の清掃活動を行い、流れ着いたゴミを丁寧に拾い集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし彼の旅行は単に月並な名所や景色だけを追うて、汽車の中では居眠りする亜類のではなくて、何の目的もなく野に山に海浜に彷徨するのが好きだという事である。",
@@ -269,14 +294,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "海岸",
+        "浜",
+        "海辺"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海",
+        "砂浜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:26:19.687659+00:00Z",
       "freq_rank": 32546,
       "frequencies": {
         "aozora": 291

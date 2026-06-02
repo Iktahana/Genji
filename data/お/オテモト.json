@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食事の際、お手許にお箸をご用意いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お手許を確認したところ、一膳足りないようです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お客様、お手許をどうぞお使いください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「はい、あちらの姉さんも、あの御気象で、よく可愛がって下さいます、が、願えますものならば、貴女のお手許に、とその時も思った事でござります。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "箸",
+        "お箸"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "食事",
+        "食卓",
+        "箸置き",
+        "器",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.649917+00:00Z",
+      "updated_at": "2026-06-02T01:46:52.058552+00:00Z",
       "frequencies": {
         "aozora": 112
       }

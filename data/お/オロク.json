@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その事件の後、彼はおろく なってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長時間の運転でおろく なり、意識がぼんやりしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薬の副作用でおろく なっているようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "』　紺屋のおろくにくいあん畜生は紺屋のおろく、猫を擁えて夕日の濱を知らぬ顏して、しやなしやなと。",
@@ -262,14 +287,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ぼんやりする",
+        "呆ける"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "疎か",
+        "古語",
+        "呆然",
+        "うわの空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.628143+00:00Z"
+      "updated_at": "2026-06-02T02:29:46.945016+00:00Z"
     }
   }
 ]

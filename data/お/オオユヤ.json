@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸の町には大湯屋が何軒もあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大湯屋は町人たちの憩いの場だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の大湯屋の跡地には商業施設が建っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東大寺の大きな鐘楼の傍から、石段を降りますと、「大湯屋」という古い建築物に突き当ります。",
@@ -61,14 +86,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大浴場",
+        "銭湯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "入浴",
+        "温泉",
+        "建物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.151435+00:00Z"
+      "updated_at": "2026-06-02T01:18:45.388095+00:00Z"
     }
   }
 ]

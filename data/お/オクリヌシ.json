@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "贈り主の気持ちを大切にしたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "贈り主から丁寧なお手紙が届いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "贈り主に感謝の手紙を書いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば前の柿の例にしても、贈って来た人の好意は全然引離して考えに入れず、柿よりも米、味噌、醤油の方が生活必需品としてより価値的だといった議論をしたり、また、贈り主の意だけ認め過ぎて、送ってくれるなら古草鞋｜片足でもよいのだという議論は、只今の柿の贈物の実相には当て嵌りません。",
@@ -167,14 +192,23 @@
       "homophones": [
         "送り主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "送り主",
+        "贈与者"
+      ],
+      "antonyms": [
+        "受取人"
+      ],
+      "related": [
+        "プレゼント",
+        "贈呈",
+        "献品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.673585+00:00Z",
+      "updated_at": "2026-06-02T01:25:12.908382+00:00Z",
       "frequencies": {
         "aozora": 26
       }
@@ -210,7 +244,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物の送り主はどこですか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り主の連絡先が必要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り主に直接問い合わせてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飛脚の送り主は愛妹菊路でした。",
@@ -332,9 +391,18 @@
       "homophones": [
         "贈り主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "贈り主",
+        "発送人"
+      ],
+      "antonyms": [
+        "受取人"
+      ],
+      "related": [
+        "発送",
+        "配送",
+        "郵便"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "男顔だけどメイクが上手で、アイラインひとつで雰囲気がまったく変わると友人に驚かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「男顔だから宝塚の男役が似合いそう」と言われ続けた彼女は、実際に舞台に立つ夢を抱いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男顔を気にしていた学生時代が嘘のように、今では自分の顔立ちが気に入っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少し大柄の色白で、眉の太さも眼鼻立ちの逞しさも、見ようによっては少し男顔ですが、それだけ歌舞伎芝居の名女形に見るような一種の魅力があって、成熟し切った女性の、情熱も意志も人一倍強そうな、不思議な美しさを持っているのでした。",
@@ -46,13 +71,17 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女顔"
+      ],
+      "related": [
+        "顔立ち"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.738909+00:00Z"
+      "updated_at": "2026-06-02T01:49:23.414771+00:00Z"
     }
   }
 ]

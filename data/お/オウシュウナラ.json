@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イングランドの田園地帯には、樹齢数百年の欧州楢の木がそびえ立っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "欧州楢の堅い木材は、ワインの樽やフローリングに使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "秋には、欧州楢の葉が美しい黄金色に染まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "欧州楢と楡の茂みから、より温暖で湿潤な気候へと。",
@@ -47,14 +72,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "イングリッシュオーク"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "コナラ",
+        "ナラ",
+        "ブナ科",
+        "広葉樹",
+        "落葉樹",
+        "木材"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.290814+00:00Z"
+      "updated_at": "2026-06-02T01:14:19.029790+00:00Z"
     }
   }
 ]

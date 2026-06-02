@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パトカーの屋根の回転灯が赤く光っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜間の工事現場では回転灯が安全信号として機能している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "警察車両の回転灯が点灯すると交通が混雑する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "肥沃な平野の向こうには海があり、殉教島の灯台から、回転灯火の光線が時折照射している。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "パトランプ",
+        "ビーコン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "灯",
+        "照明",
+        "光",
+        "警告灯",
+        "信号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:19:03.222269+00:00Z",
       "frequencies": {
         "aozora": 1
       }

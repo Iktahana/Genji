@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "所要時間は多くとも二時間あれば十分なので、午後の便で間に合う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "参加者は多くとも二十人の予定なので、この会議室で十分対応できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "予算は多くとも五万円に収めるよう計画し直してほしいと上司から指示があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分に課せられる仕事が如何に多くとも、なお婦人の神聖な天職たる芋田耕作だけは除外されていることを有難く思おうと考えた。",
@@ -213,14 +238,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "せいぜい",
+        "最大限"
+      ],
+      "antonyms": [
+        "少なくとも"
+      ],
+      "related": [
+        "数量",
+        "上限"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.715877+00:00Z"
+      "updated_at": "2026-06-02T01:14:42.914291+00:00Z"
     }
   }
 ]

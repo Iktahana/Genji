@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "思いなしか、彼女の声がいつもより明るく聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "思いなしか、今日の空は昨日より青く澄んでいるような気がした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "薬を飲み始めてから、思いなしか体が少し楽になってきた気がする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "膚の細い、黄い石や、黒い石の上を辷ると、思いなしか、沈んだ、冴えた声をして、ついと通る。",
@@ -278,14 +303,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "気のせいか",
+        "錯覚か"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "錯覚",
+        "思い込み",
+        "気のせい",
+        "幻覚",
+        "勘違い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.924079+00:00Z"
+      "updated_at": "2026-06-02T02:23:12.983451+00:00Z"
     }
   }
 ]

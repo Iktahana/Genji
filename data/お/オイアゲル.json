@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "後続集団が猛スピードで追い上げてきたが、首位のランナーはそのまま逃げ切った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試合終盤に相手チームが猛烈に追い上げてきて、あっという間に一点差まで詰め寄られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新興ブランドが老舗を追い上げ、ついに市場シェアで肩を並べるほどになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "われわれが彼らを拒絶することは、彼らを断頭台へまで追い上げることを意味している。",
@@ -78,14 +103,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追撃する",
+        "詰め寄る",
+        "迫る"
+      ],
+      "antonyms": [
+        "引き離される"
+      ],
+      "related": [
+        "競争",
+        "追走",
+        "接戦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.979807+00:00Z",
+      "updated_at": "2026-06-02T01:08:05.723052+00:00Z",
       "frequencies": {
         "aozora": 35
       }

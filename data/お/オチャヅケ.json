@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜中に空腹を感じて、お茶漬けを食べてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "シンプルなお茶漬けが一番好きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疲れた時はお茶漬けでさっぱりと済ませる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こゝの店の名物だという菊の花の味噌漬を飯の上に載せたお茶漬けを食べていますと、川づらでぴよ／＼と鳴く声が頻りに聞えます。",
@@ -173,14 +198,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ご飯",
+        "丼",
+        "軽食",
+        "簡単食"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本食",
+        "ご飯",
+        "漬物",
+        "食事",
+        "簡食"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.492296+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.847174+00:00Z",
       "freq_rank": 28256,
       "frequencies": {
         "aozora": 18

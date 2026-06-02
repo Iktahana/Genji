@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "怪しい売り付けのトラブルが増えているという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "押し売りのような売り付けをされて困っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "高齢者への売り付けの被害が報告されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "同じ「感傷」を売り付けるにしても小説家や映画製作者に比べてみると実に可哀相なみじめな商売である。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "販売",
+        "押し売り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "営業",
+        "商売"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.125333+00:00Z",
+      "updated_at": "2026-06-02T00:26:41.759907+00:00Z",
       "frequencies": {
         "aozora": 2
       }

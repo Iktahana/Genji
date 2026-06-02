@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医学的には、お股の健康管理は重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者はお股の検査をするように指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お股の不快感があれば、医者に相談するべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なおまたフランスには 〔raffine'〕という語がある。",
@@ -247,14 +272,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "股間",
+        "陰部",
+        "局部"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "身体",
+        "外陰部",
+        "股"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.704760+00:00Z"
+      "updated_at": "2026-06-02T02:20:38.476792+00:00Z"
     }
   }
 ]

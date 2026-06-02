@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このラーメンの味は本当に美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お母さんが作った天ぷらは美味しいと子どもたちが喜んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このレストランのステーキは美味しいと評判だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕が美味しい美味しいと、そのお魚フライを食べてゐると、やがてツカツカと、白い大きい※ーレをかぶり、青い洋服に薄い焦茶のストッキングをはいた、大きなアメリカの小母さんが這入つて来ました。",
@@ -290,21 +315,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そんな美味しい話は世の中にはないだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "美味しい求人の話が舞い込んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その投資話は美味しすぎてうさんくさい気がした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "旨い",
+        "美味",
+        "絶品",
+        "好味"
+      ],
+      "antonyms": [
+        "不味い"
+      ],
+      "related": [
+        "味",
+        "食事",
+        "料理",
+        "食通",
+        "グルメ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.010978+00:00Z",
+      "updated_at": "2026-06-02T01:08:41.168484+00:00Z",
       "freq_rank": 2644,
       "frequencies": {
         "aozora": 407

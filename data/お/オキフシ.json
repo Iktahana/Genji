@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高齢の祖母は、起き伏しが以前より大変そうに見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "けがをしてから、起き伏しをするだけでも一苦労だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は起き伏しが楽なように、介護用のベッドを選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "暫く静かに休養したかったし、また一つには幸子が最後の日迄起き伏しをしていた部屋で、遺品の品々の間に、愛しい妻の面輪をいつくしみ度い心からでもあったろう。",
@@ -290,21 +315,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの子は起き伏しなく泣き叫んでばかりいて、親も参っているようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病気をしてから、起き伏しなく咳が止まらなくて苦しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は起き伏しなく仕事に追われており、ゆっくり眠る時間もない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "起臥",
+        "日常生活",
+        "常々",
+        "日夜"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "生活",
+        "動作",
+        "朝夕",
+        "日常",
+        "身のこなし"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.477548+00:00Z",
+      "updated_at": "2026-06-02T01:22:15.893313+00:00Z",
       "frequencies": {
         "aozora": 32
       }

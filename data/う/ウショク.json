@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "定期検診でう蝕が二本見つかり、すぐに削って詰める治療を受けることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "フッ素塗布はう蝕の予防に有効で、特に乳歯が生え始めた幼児には積極的に勧められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "甘いものを食べた後に歯磨きを怠った結果、奥歯にう蝕が広がって神経まで達してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "或は日明を蔽う蝕魔の翳であるかも知れない。",
@@ -141,14 +166,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "虫歯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "歯",
+        "健康",
+        "医学",
+        "医科"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.922187+00:00Z"
+      "updated_at": "2026-06-01T22:08:37.802143+00:00Z"
     }
   }
 ]

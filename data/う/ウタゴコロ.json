@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は技巧に走らず、豊かな歌心を持って和歌と向き合っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "幼い頃から歌心のある子供で、日常の何気ない風景を詩に綴っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "どんなに言葉を飾っても、根底に歌心がなければ人の心には響かない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "詩とは、何等かの形式のリズムによる、詩心（或ひは歌心と云つてもよい）の容器である。",
@@ -157,14 +182,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "風流心"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "短歌",
+        "和歌",
+        "詩情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.149060+00:00Z",
+      "updated_at": "2026-06-01T22:14:53.146287+00:00Z",
       "frequencies": {
         "aozora": 19
       }

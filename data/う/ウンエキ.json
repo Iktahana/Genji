@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "中世の瘟疫は多くの人命を奪った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域では瘟疫が流行した歴史がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "瘟疫から身を守るため、村人たちは対策を講じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは毛巡税と云う者の住んでいた家で、五六年前に瘟疫で一家の者が死絶えて、今では住んでいる者は無いはずであるが、それでも時どき小供が出て来て東西を買うのを見たことがあるから、何人かが住んでいるだろうが、しかし、この地方には白と云う姓の者は無いと云うことであった。",
@@ -71,14 +96,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "伝染病",
+        "流行病"
+      ],
+      "antonyms": [
+        "健康"
+      ],
+      "related": [
+        "疫病",
+        "感染症"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.381464+00:00Z",
+      "updated_at": "2026-06-02T00:28:39.663336+00:00Z",
       "frequencies": {
         "aozora": 5
       }

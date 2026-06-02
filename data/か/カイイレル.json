@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商社は東南アジアの農園から有機コーヒー豆を直接買い入れて販売している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市が地権者から用地を買い入れ、新しい公民館の建設を予定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古書店が遺族から蔵書を一括して買い入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鶴代の貰ってきた金は一台の荷車と、それに満載する野菜を買い入れるのにちょうどだった。",
@@ -182,14 +207,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "購入する",
+        "買う",
+        "買い取る"
+      ],
+      "antonyms": [
+        "売却する"
+      ],
+      "related": [
+        "取引",
+        "購買"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:43:22.155897+00:00Z",
       "frequencies": {
         "aozora": 128
       }

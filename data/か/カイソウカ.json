@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "都市部への人口集中が進むにつれ、地方社会の階層化が急速に深まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究チームは所得データをもとに世帯を五段階に階層化し、医療受診行動との相関を分析した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社内の職務を明確に階層化することで、責任の所在があいまいになる問題が大幅に減った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ハードディスクによって大量の情報の蓄積に備えたこのマシン向けに、マイクロソフトはファイルの管理を階層化してすっきりとデータを管理できるよう工夫した、ＭＳ―ＤＯＳの新バージョン２・０を開発していた。",
@@ -54,14 +79,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "多層化",
+        "層別化",
+        "成層化"
+      ],
+      "antonyms": [
+        "平準化",
+        "均一化"
+      ],
+      "related": [
+        "階層",
+        "社会階層",
+        "格差",
+        "ネットワーク",
+        "分類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:15:55.606994+00:00Z"
     }
   }
 ]

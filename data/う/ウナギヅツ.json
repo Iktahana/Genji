@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は川沿いの藪から竹を切り出し、自分で鰻筒を作って川底に仕掛けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夕方に川に仕掛けた鰻筒を翌朝引き上げると、中に太い鰻が一匹入っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "鰻筒は竹や塩ビパイプで作られた筒状の仕掛けで、鰻が自ら入り込みやすい構造になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鰻取り",
+        "うなぎてぼ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "漁具",
+        "鰻",
+        "伝統漁法",
+        "仕掛け",
+        "川漁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.600490+00:00Z"
+      "updated_at": "2026-06-01T23:15:40.056973+00:00Z"
     }
   }
 ]

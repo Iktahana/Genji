@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その運搬船は毎月アジア各国の港に立ち寄って、貨物を配達している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嵐の中でも運搬船は航海を続け、予定通りに目的地に到着した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "最新の運搬船は、より多くの荷物を効率的に運べるように設計されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は弁当を仕舞ってから、荷船オデッサ丸の舷にぴったりと繋ってある大運搬船の舷に、一人の仲間と竝んで、海に向って坐って居た。",
@@ -69,14 +94,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "貨物船",
+        "輸送船"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海運",
+        "船舶",
+        "貿易",
+        "港湾",
+        "船荷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.546473+00:00Z",
+      "updated_at": "2026-06-02T00:30:15.316279+00:00Z",
       "frequencies": {
         "aozora": 4
       }

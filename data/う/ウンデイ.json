@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨年と今年の売上には雲泥の差がありました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "兄と弟の学力には雲泥があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "修行前後での彼の技術レベルは雲泥です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妻君の話の役に立つた細つそりした女優とは、それは妻君の顔と、即ち雲泥の差を有つてゐたのである。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天地"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "相違",
+        "格差",
+        "差"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.480752+00:00Z",
+      "updated_at": "2026-06-02T00:29:53.932381+00:00Z",
       "frequencies": {
         "aozora": 129
       }

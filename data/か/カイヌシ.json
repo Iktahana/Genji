@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "売買契約が成立し、買い主への物件引き渡しは来月を予定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "買い主が見つかるまで、その古民家は空き家のまま放置されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オークションでは複数の買い主が競り合い、予想を大きく超える値段で落札された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを買って下すってご飯が頂戴できる買い主には、せめて買われている間だけでも相手の身体を命をもって護らねばならない。",
@@ -127,14 +152,28 @@
       "homophones": [
         "飼い主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "購入者",
+        "買い手",
+        "顧客",
+        "購買者"
+      ],
+      "antonyms": [
+        "売り主",
+        "売却者"
+      ],
+      "related": [
+        "売買",
+        "取引",
+        "契約",
+        "購入",
+        "価格"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.682912+00:00Z",
+      "updated_at": "2026-06-02T03:22:45.609350+00:00Z",
       "freq_rank": 38442,
       "frequencies": {
         "aozora": 10
@@ -171,7 +210,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "迷子になった犬が保護され、飼い主が名乗り出るのを待っている状態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "飼い主の帰宅に気づいた猫が玄関まで走ってきて、足元に絡みついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "公園でのトラブルを防ぐため、飼い主はペットのリードを必ず付けることが義務づけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飼い主でさえ、噛みつかれぬとは保証できがたい猛獣を、（飼い主だから、絶対に喰いつかれぬということは愚かな気のいい迷信にすぎない。",
@@ -421,9 +485,18 @@
       "homophones": [
         "買い主"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "所有者",
+        "オーナー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ペット",
+        "犬",
+        "猫",
+        "動物",
+        "飼育"
+      ]
     },
     "meta": {
       "version": "1.0.0",

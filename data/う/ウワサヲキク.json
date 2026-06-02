@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の会社の合併について、「噂を聞いた」のですが、本当ですか？",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友達から、引っ越してきた隣人の「噂を聞いた」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「噂を聞く」と、あの店はとても美味しいらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は角力に関しては少しも知るところが無いのだけれど、それでも横綱、男女川に就いては、時折ひとから噂を聞くのである。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "情報を得る",
+        "耳にする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "情報",
+        "伝聞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.302293+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.210141+00:00Z"
     }
   }
 ]

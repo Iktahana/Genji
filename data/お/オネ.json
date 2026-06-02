@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山の尾根を歩くと、360度のパノラマ景色が楽しめる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この尾根は登山道として人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "天気が良い日、尾根からの眺めは最高だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "絶壁の下なる大深谷からは、霧がすさまじいいきおいで、皺嗄れ声を振り立てて上って来る、近づくほど早くなるかと思うと、端から砕けてサアッと水球を浴びせる、そうして呻りながら、尾根につかまり、槍先へ這いずり上って、犠牲になる生霊もがなと、捜し廻っている。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "山稜",
+        "稜線",
+        "峰"
+      ],
+      "antonyms": [
+        "谷",
+        "沢",
+        "窪地"
+      ],
+      "related": [
+        "山",
+        "稜線",
+        "尾根道",
+        "分水嶺",
+        "山脈",
+        "登山"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.152069+00:00Z",
+      "updated_at": "2026-06-02T02:01:46.314267+00:00Z",
       "freq_rank": 19795,
       "frequencies": {
         "aozora": 1206

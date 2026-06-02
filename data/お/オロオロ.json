@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験開始直前、田中はおろおろしながら問題用紙を見直している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しい街に一人で迷ってしまい、彼女はおろおろとスマートフォンを取り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おろおろしている暇はない、すぐに対応しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "相手は何處迄も御人好の御坊ちやまの、泣き出し相に、なさけない顏でおろおろして居るまだるつこさ、芳公の啖呵も折角、響が來ないので、聊か之も張合なさの悄氣た體。",
@@ -276,21 +301,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "悲しい知らせを聞いた彼女はおろおろと泣き始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子供はおろおろと涙ぐんでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はおろおろとすすり泣いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "あたふた",
+        "うろうろ",
+        "おたおた",
+        "狼狽して"
+      ],
+      "antonyms": [
+        "落ち着いて",
+        "冷静に"
+      ],
+      "related": [
+        "狼狽",
+        "混乱",
+        "動揺",
+        "慌てる",
+        "泣き声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.619403+00:00Z",
+      "updated_at": "2026-06-02T02:29:46.941816+00:00Z",
       "freq_rank": 43821,
       "frequencies": {
         "aozora": 424

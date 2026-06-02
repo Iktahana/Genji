@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の試合は、我がチームにとって歴史的な大負けとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "株取引で、投資家は予想外の大負けをしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昨夜の麻雀では、大負けして財布が空になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もちろん、君が麻雀で大負けをして金に窮した結果、我が善良なる僕胡を欺いて君の宿に呼び寄せて惨殺し、そして彼の持っていた鍵を奪って倶楽部の象牙の牌を盗み出した、と云う事実に対してさ。",
@@ -290,21 +315,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "店主は、「今日は特別だよ」と言って商品を大負けしてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "閉店間際だったので、八百屋で果物を大負けしてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "交渉の末、なんとか大負けしてもらうことに成功した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大敗",
+        "大割引"
+      ],
+      "antonyms": [
+        "大勝"
+      ],
+      "related": [
+        "勝負",
+        "値引き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.070539+00:00Z",
+      "updated_at": "2026-06-02T01:18:00.101967+00:00Z",
       "frequencies": {
         "aozora": 35
       }

@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "年老いた両親にお世話をすることが私の責務である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎日ペットのお世話をするのが習慣になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とにかく小母さんを一と目見るとから、何かしら懐しくなったんです」「そんなにおっしゃったものですから、小母さんもしおらしい方だと思って、お世話をする気になったんですって」「私は今では小母さんが生みの親のように思われるんですよ。",
@@ -222,14 +239,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "世話を焼く",
+        "面倒を見る",
+        "援助する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "親切",
+        "奉仕",
+        "介護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.226564+00:00Z"
+      "updated_at": "2026-06-02T01:35:47.284087+00:00Z"
     }
   }
 ]

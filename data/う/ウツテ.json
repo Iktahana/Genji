@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この問題解決の打つ手は何だろうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "営業部は新しい打つ手を検討している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "指揮官が打つ手を誤ると、全軍が危機に陥る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "座敷の父とむすこに対して台所の母と嫁を出した並行であり、碁石打つ手と柏の葉を並べる手がオーバーラップするのである。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "対策",
+        "解決策",
+        "手段",
+        "方法",
+        "策略",
+        "方策"
+      ],
+      "antonyms": [
+        "万策尽きる"
+      ],
+      "related": [
+        "囲碁",
+        "将棋",
+        "対応",
+        "計画",
+        "戦術"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.495865+00:00Z",
+      "updated_at": "2026-06-01T22:57:02.943090+00:00Z",
       "freq_rank": 33689
     }
   }

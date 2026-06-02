@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その理論を裏付ける証拠を見つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複数の研究が彼の仮説を裏付けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "目撃証言がアリバイを裏付けることはできなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それからというもの、起こることすべてが、最初の仮説を裏付けるばかりだった。",
@@ -198,14 +223,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "証明する",
+        "実証する",
+        "補強する",
+        "証拠立てる"
+      ],
+      "antonyms": [
+        "否定する",
+        "覆す"
+      ],
+      "related": [
+        "根拠",
+        "証拠",
+        "説"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.979114+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.186283+00:00Z",
       "freq_rank": 19987,
       "frequencies": {
         "aozora": 75

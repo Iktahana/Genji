@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨夜の大火事で商店街の一角が焼け落ち、数十世帯が避難を余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "江戸時代には大火事が頻発し、都市の復興を繰り返しながら町が発展した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大火事の後、住民たちは互いに助け合いながら焼け跡に仮設の住まいを建てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やあ、燃える、燃える、大火事だ。",
@@ -245,14 +270,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大火",
+        "火災"
+      ],
+      "antonyms": [
+        "小火"
+      ],
+      "related": [
+        "消防",
+        "災害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.635725+00:00Z",
+      "updated_at": "2026-06-02T01:14:26.502912+00:00Z",
       "frequencies": {
         "aozora": 97
       }

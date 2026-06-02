@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ハードディスクの回転待ち時間がシステム速度を左右する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "SSD導入により回転待ち時間が大幅に短縮された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "コンピュータの性能評価では回転待ち時間が重要な指標である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レイテンシ",
+        "待ち時間"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ハードディスク",
+        "アクセス時間",
+        "シーク時間",
+        "磁気ディスク",
+        "記憶装置",
+        "回転数"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:19:03.225212+00:00Z"
     }
   }
 ]

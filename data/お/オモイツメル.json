@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仕事のミスを思い詰めるあまり、食事も喉を通らなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そんなに思い詰めないで、もっと気楽に考えようよ」と友人に声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は一人で思い詰めて、誰にも相談できないまま日が過ぎた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼らは何事かを思い詰めると、狂人の如くその一念に凝り固まり、理想に淫して現実を忘却してしまうために、遂には身の破綻を招き、狂気か自殺かの絶対死地に追い詰められる。",
@@ -230,14 +255,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "思い込む",
+        "考えつめる",
+        "真剣に考える"
+      ],
+      "antonyms": [
+        "気楽に考える"
+      ],
+      "related": [
+        "思考",
+        "深思",
+        "悩み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.917377+00:00Z",
+      "updated_at": "2026-06-02T02:23:08.957176+00:00Z",
       "frequencies": {
         "aozora": 287
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の上の名前は佐藤で、下の名前は次郎です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上の名前を変えることは法的な手続きが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "日本では上の名前と下の名前を分けて呼ぶ習慣がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "温室にはいろいろな美しい花が咲揃つてゐたが、別段花が好きといふのではなく、温室は自分の見えにもつてゐるに過ぎないので、未亡人は花の植物学上の名前などは少しも知らなかつた。",
@@ -70,14 +95,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "姓",
+        "苗字"
+      ],
+      "antonyms": [
+        "下の名前",
+        "名"
+      ],
+      "related": [
+        "名前",
+        "姓名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.593013+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.287644+00:00Z"
     }
   }
 ]

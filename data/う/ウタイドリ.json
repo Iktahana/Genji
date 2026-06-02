@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山あいに分け入ると、歌い鳥の透き通った声が木々の間に響いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "野鳥観察会の講師は「今聞こえているのが歌い鳥ですよ」と参加者に向けて双眼鏡を構えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "歌い鳥はその名の通り、夏になると山間部でよく通る声を響かせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは時にはわたしに音楽と歌い鳥とを思いださせる。",
@@ -53,14 +78,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ホトトギス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥",
+        "歌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.121665+00:00Z"
+      "updated_at": "2026-06-01T22:12:49.606758+00:00Z"
     }
   }
 ]

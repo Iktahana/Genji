@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冒険家たちは、伝説の黄金国を求めてジャングルを進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は一攫千金を夢見て、黄金国の話に耳を傾けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い地図には、まだ見ぬ黄金国の場所が示されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "支那国の存在の、はじめて欧羅巴に知らるるや、支那楽土説起り、マルコポーロによりて、日本のこと伝えらるるや、東洋の貧乏国は、黄金国の如くに、信ぜられたることあり。",
@@ -205,14 +230,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "エルドラド"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "伝説",
+        "秘境",
+        "宝"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.227325+00:00Z"
+      "updated_at": "2026-06-02T01:10:38.509081+00:00Z"
     }
   }
 ]

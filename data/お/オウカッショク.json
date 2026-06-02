@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋になると山肌が黄褐色に染まり、遠くからでも紅葉がわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "錆びた鉄板は黄褐色に変色し、触るとぼろぼろと崩れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その犬は黄褐色の毛並みをしていて、陽の光の下でつやつやと輝いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "公園は尚更、黄褐色の大渦巻きだった。",
@@ -262,14 +287,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "茶褐色"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "色",
+        "茶色",
+        "黄色",
+        "土色"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.178955+00:00Z"
+      "updated_at": "2026-06-02T01:09:44.057699+00:00Z"
     }
   }
 ]

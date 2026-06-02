@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二十世紀前半の外交文書には、サウジアラビアやエジプトが回教国として列挙されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父が若いころに書いた旅行記には、回教国での礼拝の様子が生き生きと描かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "戦前の地政学的分析では、中東の回教国をめぐる英仏の権益争いが詳述されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熊楠いわく、この譚は回教国の物らしいが、類話は古く仏典に出て居る。",
@@ -141,14 +166,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "イスラム国家"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イスラム教",
+        "ムスリム",
+        "中東"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:51:49.969001+00:00Z"
     }
   }
 ]

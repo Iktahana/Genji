@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は帰りが遅くなった理由について嘘をついたが、すぐに顔に出てしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもが割ったのに、猫がやったと嘘をついてその場を乗り切ろうとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "好きでもない食べ物を「おいしい」と嘘をついて食べ続けるのが苦痛になってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし統計ほど確かなものはないが、また「統計ほど嘘をつくものはない」という事は争われないパラドックスである。",
@@ -280,14 +305,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "偽る",
+        "欺く"
+      ],
+      "antonyms": [
+        "正直に言う",
+        "告白する"
+      ],
+      "related": [
+        "嘘",
+        "発言"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.109503+00:00Z"
+      "updated_at": "2026-06-01T22:12:49.600977+00:00Z"
     }
   }
 ]

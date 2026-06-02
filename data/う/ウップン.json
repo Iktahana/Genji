@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年抱えていた上司への鬱憤を、友人に打ち明けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "試合に負けた悔しさと、今までの鬱憤が混ざり合って涙が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不当な扱いに耐えかねて、ついに心の中に溜まっていた鬱憤が爆発した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは私の故郷の景物を歌つたもので、鬱憤と怨恨とにみちた感激調の數篇を寄せたものであつたが、彼がその詩を讀んで行く中に、やみがたい悲痛の感動が湧きあがつてきて、心緒の興奮を押へることができなくなつた。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "憤懣",
+        "怒り",
+        "不満",
+        "恨み",
+        "憤り"
+      ],
+      "antonyms": [
+        "満足",
+        "喜び"
+      ],
+      "related": [
+        "ストレス",
+        "鬱積",
+        "感情",
+        "怒り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.467430+00:00Z",
+      "updated_at": "2026-06-01T23:14:00.876895+00:00Z",
       "freq_rank": 37482,
       "frequencies": {
         "aozora": 273

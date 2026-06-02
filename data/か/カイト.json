@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもたちがカイトを飛ばして遊んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "砂浜でカイトスポーツを楽しむ人が増えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "強い風の日はカイトを上手く操作できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いま世界中で、あわれなアイテルカイトで生きているのは、あの Dame だけです。",
@@ -237,14 +262,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "凧",
+        "たこ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "凧揚げ",
+        "風",
+        "糸",
+        "スポーツカイト",
+        "凧糸",
+        "空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:19:03.227445+00:00Z",
       "freq_rank": 38719,
       "frequencies": {
         "aozora": 23

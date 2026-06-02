@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学園祭を企画する運営委員会が初めての会議を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "図書館の運営委員会は新しい蔵書の方針について議論している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運営委員会のメンバーが来月の予算について決定する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さらにこの多数制の委員のなかから直接な運営委員会を選出し（五名ないし七名の男女）運営委員会はその業務内容を放送委員会に報告すべきものとされる。",
@@ -165,14 +190,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "委員会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "組織",
+        "会議",
+        "決定機関"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.376270+00:00Z"
+      "updated_at": "2026-06-02T00:28:39.661082+00:00Z"
     }
   }
 ]

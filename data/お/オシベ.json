@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "理科の実験で、顕微鏡を使って花の雄しべの先端を観察した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この花は雄しべが非常に長く、花粉が外に出やすい構造になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "受粉のためには、雄しべから放出される花粉の量が重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は植物学者だったので植物の雄しべのような自然の小規模な創造物も認めた。",
@@ -128,13 +153,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "雌しべ"
+      ],
+      "related": [
+        "花",
+        "受粉",
+        "花粉",
+        "めしべ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.018553+00:00Z",
+      "updated_at": "2026-06-02T01:31:21.204536+00:00Z",
       "frequencies": {
         "aozora": 1
       }

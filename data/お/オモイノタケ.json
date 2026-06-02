@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "手紙に思いの丈を書き綴ったが、結局送る勇気が出なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼はその夜、初めて親友に思いの丈をぶつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "卒業式のスピーチで、彼女は三年間の思いの丈を言葉にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明さんが、思いの丈を吐く息は、冷たき煙と立のぼって、中空の月も隠れましょう。",
@@ -78,14 +103,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "胸の内",
+        "心中",
+        "本心",
+        "心の全て"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "告白",
+        "思い",
+        "胸中",
+        "心情",
+        "本音"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.935101+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.985690+00:00Z",
       "frequencies": {
         "aozora": 5
       }

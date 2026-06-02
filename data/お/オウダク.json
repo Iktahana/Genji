@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の突然の提案に、彼女はしばらく考えた後、静かに応諾した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会議での決定事項に対し、全員が異議なく応諾の意を示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "企業からの要求に対し、組合側は検討の結果、全面的に応諾する姿勢を見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "茶会御出席に依り御心魂の新粧をも期し得べく、決してむだの事には無之、まずは欣然御応諾当然と心得申者に御座候。",
@@ -224,14 +249,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "同意",
+        "承諾",
+        "了承"
+      ],
+      "antonyms": [
+        "拒絶",
+        "拒否"
+      ],
+      "related": [
+        "返答"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.364538+00:00Z",
+      "updated_at": "2026-06-02T01:11:30.166960+00:00Z",
       "frequencies": {
         "aozora": 26
       }

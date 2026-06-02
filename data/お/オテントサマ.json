@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お天道様が高いうちに、庭仕事をしてしまおう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お天道様が沈むと、急に気温が下がってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "朝からお天道様が顔を出して、とても気持ちがいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「やっぱりお茶に縁が有らあね、……世間じゃお天道様と米の飯は附いて廻ると云うけれど、お前さんにゃ、貰水とお茶がついて廻るんだ。",
@@ -290,21 +315,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お天道様は見ているから、悪いことはできないよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "嘘をついても、お天道様はごまかせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お天道様のおかげで、なんとか危機を脱することができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "太陽",
+        "天",
+        "神",
+        "天理",
+        "天罰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運命",
+        "報い",
+        "因果",
+        "正義",
+        "良心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.669106+00:00Z"
+      "updated_at": "2026-06-02T01:46:52.063752+00:00Z"
     }
   }
 ]

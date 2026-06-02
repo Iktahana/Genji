@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "賓客を乗せた黒塗りの車が、ホテルの広々とした表玄関に静かに止まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表玄関には季節の花が飾られており、訪れる人々の目を楽しませている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大きな荷物を抱えていたので、表玄関のスロープを利用して館内に入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｓ署――差し障りがあってはいけないから、わざと頭文字だけにして置くが――Ｓ署は大阪の表玄関にある警察署である。",
@@ -253,14 +278,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "玄関",
+        "正門"
+      ],
+      "antonyms": [
+        "裏口",
+        "勝手口"
+      ],
+      "related": [
+        "建物",
+        "住宅",
+        "入口"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.048529+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.073694+00:00Z",
       "frequencies": {
         "aozora": 115
       }

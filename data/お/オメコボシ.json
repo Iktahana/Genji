@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回は初犯ということもあり、特別にお目こぼしをいただいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "多少の規則違反にはお目こぼしをして、現場の裁量に任せることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "厳格な上司だが、部下の小さなミスには意外とお目こぼしをしてくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「ですからなお恐入りますんで、」「そこにまたお目こぼしがあろうッてもんですよ、まあ、口明をなさいまし。",
@@ -255,14 +280,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見逃し",
+        "黙認"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寛容",
+        "赦免"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.806340+00:00Z"
+      "updated_at": "2026-06-02T02:20:20.214672+00:00Z"
     }
   }
 ]

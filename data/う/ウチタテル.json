@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は百メートル走で世界新記録を打ち立て、歴史にその名を刻んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複雑な物理現象を解明するために、彼は独自の仮説を打ち立てて検証した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しい会社の経営方針を打ち立て、社員たちの士気を高める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近火の摺りばんを滅多打ちにじゃんじゃんと打ち立てることもある。",
@@ -230,14 +255,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "樹立する",
+        "設立する",
+        "築く"
+      ],
+      "antonyms": [
+        "廃止する",
+        "破壊する"
+      ],
+      "related": [
+        "計画",
+        "基礎"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.283827+00:00Z",
+      "updated_at": "2026-06-01T22:15:06.098964+00:00Z",
       "frequencies": {
         "aozora": 78
       }

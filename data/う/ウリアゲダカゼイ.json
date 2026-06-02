@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この国では売上高税の税率が引き上げられ、小売業者の負担が一気に増した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "輸出入の際に課される売上高税の計算方法が改正され、税務担当者が対応に追われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会計士は「売上高税は売上総額に対して課されるため、利益が出ていなくても納税義務が生じる」と説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "売上税"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "税制",
+        "消費税",
+        "流通税",
+        "付加価値税"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.081287+00:00Z"
+      "updated_at": "2026-06-02T00:26:48.900240+00:00Z"
     }
   }
 ]

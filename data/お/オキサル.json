@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "嵐の中で仲間を置き去るわけにはいかないと、彼は引き返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は口論の末、妻子を田舎に置き去って都会に出てしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "チームを置き去って一人で先を急ぐのはルール違反だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "キミも男なら、恥を知るものよ」「ウン……俺は大丈夫なんだ――」　駅の屋根を出切るとき、鮎子は僕を置き去るやうに、激しく息を呑みながら、スタスタと雨脚の中へ駈け込んで行つた。",
@@ -56,14 +81,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見捨てる",
+        "放置する",
+        "取り残す"
+      ],
+      "antonyms": [
+        "連れて行く",
+        "助ける"
+      ],
+      "related": [
+        "置き去り",
+        "遺棄",
+        "放置"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.372630+00:00Z",
+      "updated_at": "2026-06-02T01:21:42.639620+00:00Z",
       "frequencies": {
         "aozora": 23
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ローマ神話でウルカヌスは火と鍛冶の神として知られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "美術館で、金床に向かうウルカヌスの彫像を見た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "絵画の中のウルカヌスが、熱い鉄を打つ場面だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはもう境界の神テルミヌスの役に立たなくなったからわたしはそれを火の神ウルカヌスにささげた。",
@@ -95,14 +120,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "バルカン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ローマ神話",
+        "鍛冶",
+        "火",
+        "神話",
+        "ヘーパイストス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.174757+00:00Z",
+      "updated_at": "2026-06-02T00:27:18.845992+00:00Z",
       "frequencies": {
         "aozora": 8
       }

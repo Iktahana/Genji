@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新入社員が入ってきた日、先輩たちが笑顔でウェルカムと声をかけながら席まで案内した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "パーティー会場の入り口に「ウェルカム」と書かれた看板が立ち、参加者を出迎えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ここにはどんな提案でもウェルカムな雰囲気があって、新人でも意見を言いやすい」と彼女は話した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "32よく帰ってきたねきみが嗤った昔なじみのこの土地に名前はみな変わってしまったけれど夢だけはのこっているよ〈ウェルカム・バック〉ジョン・セバスチャン（ラヴィン・スプーンフル）　ＪＲの駅舎から出た慶一は、困惑と屈辱のなかで立ちつくした。",
@@ -79,14 +104,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "歓迎"
+      ],
+      "antonyms": [
+        "拒否"
+      ],
+      "related": [
+        "挨拶",
+        "おもてなし"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.529055+00:00Z",
+      "updated_at": "2026-06-01T21:56:01.762888+00:00Z",
       "freq_rank": 41327,
       "frequencies": {
         "aozora": 5

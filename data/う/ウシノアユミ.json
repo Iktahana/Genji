@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "交渉は牛の歩みで、三回目の会議を終えても合意の見通しは立っていなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工事は牛の歩みで進み、完成予定日はすでに半年以上過ぎていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "景気回復は牛の歩みだと経済アナリストたちは口を揃えて言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（一八）焼酎の御馳走　一行は多少ヤケ気味に、それよりはブラリブラリと牛の歩み宜しく、またもや一里あまり進んで、南方村という寒村に来掛かれば、路傍の開放されたる一軒家では、褌一本の村の爺さん達四、五人｜集って、頻りに白馬か何か飲んでいる。",
@@ -222,14 +247,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "亀の歩み",
+        "のろま"
+      ],
+      "antonyms": [
+        "駿足"
+      ],
+      "related": [
+        "遅い",
+        "歩行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.908449+00:00Z"
+      "updated_at": "2026-06-01T22:08:58.671154+00:00Z"
     }
   }
 ]

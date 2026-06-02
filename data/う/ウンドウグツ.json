@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ジョギングには足に合った専用の運動靴が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼のボロボロになった運動靴を見て、母は新しいものを買ってやった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動靴の選び方次第で、足の健康に大きく影響する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "靴屋の安売――運動靴に、平常靴に、雪靴に、金と赤のイヴニングシューズまで寄せて一円五十銭也と括りの紐の結び目に正札で下って居ます。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スニーカー",
+        "スポーツシューズ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "靴",
+        "トレーニングシューズ",
+        "フットウェア"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.500183+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.534801+00:00Z"
     }
   }
 ]

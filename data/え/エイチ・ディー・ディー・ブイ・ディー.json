@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ＨＤＤＶＤプレイヤーで高画質映像を楽しむ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ＨＤＤＶＤは従来のＤＶＤより高い解像度を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ＨＤＤＶＤ規格の採用は映画産業に大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -40,13 +65,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "ブルーレイディスク"
+      ],
+      "related": [
+        "光ディスク",
+        "規格争い",
+        "映像メディア",
+        "次世代ＤＶＤ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.976992+00:00Z"
+      "updated_at": "2026-06-02T00:34:02.952255+00:00Z"
     }
   }
 ]

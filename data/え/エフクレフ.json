@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "楽譜にはヘ音記号、いわゆるＦクレフが使用されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ヘ音記号",
+        "バス記号"
+      ],
+      "antonyms": [
+        "ト音記号"
+      ],
+      "related": [
+        "音部記号",
+        "楽譜",
+        "五線譜",
+        "低音部",
+        "ハ音記号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-25T19:57:13.725669+00:00Z"
+      "updated_at": "2026-06-02T00:55:14.511036+00:00Z"
     }
   }
 ]

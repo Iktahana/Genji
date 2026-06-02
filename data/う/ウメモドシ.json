@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工事業者は配管の設置を終えると、掘り起こした土の埋め戻しを丁寧に行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "埋め戻しが不十分だったために地面が沈下し、舗装にひびが入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "現場監督は埋め戻しの仕上がりを確認してから次の工程に進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しばらく考えて埋め戻し、両手をポケットに突っ込み、口笛を吹きながら海岸へ戻った。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "工事",
+        "土木",
+        "埋める"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.875235+00:00Z"
+      "updated_at": "2026-06-02T00:22:27.244630+00:00Z"
     }
   }
 ]

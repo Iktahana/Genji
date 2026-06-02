@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "階段下のスペースを利用して、小さな収納棚を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その古い洋館では、階段下に小部屋があって物置として使われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "猫がいつの間にか階段下に潜り込んで、丸くなって眠っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "が、プレットニョフとゴーリキイとが暮しているのは、その有名な貧民窟の中にあっても部屋と名づけられない階段下の廊下の一隅であった。",
@@ -238,14 +263,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "階段下スペース",
+        "階段下収納"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "収納",
+        "スペース",
+        "階段",
+        "建築",
+        "リフォーム",
+        "デッドスペース"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:17:56.195185+00:00Z"
     }
   }
 ]

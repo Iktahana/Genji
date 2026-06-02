@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ピアニストとバイオリニストが視線で頷き合って演奏を進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "二人の親友は何も言わずに頷き合うだけで理解し合っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "指揮者と楽団員たちが頷き合いながらテンポを調整していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なべて人の世に相逢うということ、頷き合うということ、それ等は、結局、この形に於てのみ真の可能なのではあるまいか。",
@@ -150,14 +175,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "相槌を打つ",
+        "頷く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "頷く",
+        "合意",
+        "相槌",
+        "頷ける"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.605382+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.442813+00:00Z",
       "frequencies": {
         "aozora": 40
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古都の路地に漂うえも言はず趣のある薫りが、旅人の足を止めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "舞台に現れた彼女はえも言はず美しく、客席が静まり返った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夕暮れ時の海岸線はえも言はず幻想的で、カメラのシャッターを押し続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "晝間はいぶせき茅屋も、梅花にうづもれて、夜色の中に縹渺たるさま、えも言はず。",
@@ -46,14 +71,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "言葉にならない",
+        "筆舌に尽くしがたい"
+      ],
+      "antonyms": [
+        "平凡",
+        "つまらない"
+      ],
+      "related": [
+        "美しい",
+        "素晴らしい",
+        "感動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.013012+00:00Z"
+      "updated_at": "2026-06-02T00:59:00.875487+00:00Z"
     }
   }
 ]

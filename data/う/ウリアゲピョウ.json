@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レジ担当者は商品をスキャンし終えると、売上票をプリンターから取り出して客に渡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "経理部では毎日閉店後に各レジの売上票を集計して日報を作成している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "監査の際、昨年度分の売上票がすべて保管されていることを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "伝票",
+        "レシート"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "会計",
+        "売り上げ",
+        "証憑",
+        "帳票"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.081714+00:00Z"
+      "updated_at": "2026-06-02T00:26:48.901142+00:00Z"
     }
   }
 ]

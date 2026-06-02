@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "訃報を聞いた彼女は声を押し殺しながら嗚咽した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "葬儀の間、母は肩を震わせて嗚咽を漏らし続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長年の苦労が報われた瞬間、嗚咽がこみ上げてきて言葉が出なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "翌る朝、目がさめて、その映画を思い出したら、嗚咽が出た。",
@@ -279,14 +304,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "しゃくり泣き",
+        "慟哭",
+        "号泣"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "泣く",
+        "涙",
+        "悲しみ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.543927+00:00Z",
+      "updated_at": "2026-06-02T01:13:39.057533+00:00Z",
       "freq_rank": 35996,
       "frequencies": {
         "aozora": 504

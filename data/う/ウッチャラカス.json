@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宿題を半分くらい打っ遣らかして、彼は勝手に遊びに出かけてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "部屋の掃除を打っ遣らかしたまま、慌てて駅まで走り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大事なプレゼンの準備を打っ遣らかすなんて、君の責任感を疑うよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まあ、こういうわけで、結局、諦めてうっちゃらかすより仕方がない。",
@@ -46,14 +71,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "放っておく",
+        "投げ出す"
+      ],
+      "antonyms": [
+        "完成させる"
+      ],
+      "related": [
+        "中途半端",
+        "放置",
+        "未完"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.441514+00:00Z"
+      "updated_at": "2026-06-01T22:56:28.283366+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は複雑な数学の問題を疎んずる傾向がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しい環境への変化を疎んずる人は多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その企業は改革を疎んずる古い組織文化を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼らは僕の母の肉薄に応ずる準備としてまえもって僕を疎んずるような素振を口にも挙動にもけっして示さなかった。",
@@ -134,14 +159,33 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遠ざける",
+        "嫌う",
+        "疎外する",
+        "蔑ろにする",
+        "ないがしろにする",
+        "排斥する"
+      ],
+      "antonyms": [
+        "親しむ",
+        "重んじる",
+        "尊ぶ",
+        "慈しむ"
+      ],
+      "related": [
+        "疎外",
+        "嫌悪",
+        "蔑視",
+        "無視",
+        "冷遇",
+        "疎略"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.587452+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.050430+00:00Z",
       "frequencies": {
         "aozora": 97
       }

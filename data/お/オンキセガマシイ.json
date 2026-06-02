@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の恩着せがましい態度には皆が不快感を覚えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親切なことをしていても、恩着せがましい言い方をするのは避けるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その経営者の恩着せがましい発言は部下から反感を買った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども、それから後の、あなたの勇作さんに対する、恩着せがましい横暴な仕うちは、イクラ恨んでも恨み切れません。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "押し付けがましい",
+        "お節介な"
+      ],
+      "antonyms": [
+        "謙虚な"
+      ],
+      "related": [
+        "余計な世話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:27:46.134745+00:00Z"
     }
   }
 ]

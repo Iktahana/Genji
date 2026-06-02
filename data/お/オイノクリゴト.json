@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は昔話ばかりして、また老いの繰り言を繰り返している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「耳が遠くて…」という老いの繰り言を、何度も聞かされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "聞いているほうは大変だが、本人にとっては老いの繰り言も大切な思い出の整理なのだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "老いの繰り言という奴だ。",
@@ -70,14 +95,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "繰り言",
+        "くどい"
+      ],
+      "antonyms": [
+        "新鮮"
+      ],
+      "related": [
+        "老年",
+        "言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.078038+00:00Z"
+      "updated_at": "2026-06-02T01:11:01.674541+00:00Z"
     }
   }
 ]

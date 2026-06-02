@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大昔は、村の端に作られた産屋で女性だけで出産を支えていたそうです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "産屋から赤ちゃんの泣き声が聞こえてくると、村中が温かい雰囲気に包まれました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "現代では産屋という言葉はほとんど使われませんが、その役割は今の産科病棟に受け継がれています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この方から逆寄せして、別宅のその産屋へ、守刀を真先に露払いで乗込めさ、と古袴の股立ちを取って、突立上りますのに勢づいて、お産婦を褥のまま、四隅と両方、六人の手で密と舁いて、釣台へ。",
@@ -261,14 +286,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産室",
+        "お産部屋"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "出産",
+        "産湯",
+        "産着",
+        "産神",
+        "産婦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.675492+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.443546+00:00Z",
       "frequencies": {
         "aozora": 66
       }

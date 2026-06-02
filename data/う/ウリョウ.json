@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月の雨量は例年の3倍に達している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雨量が多いと河川が増水して洪水の危険が高まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気象台で毎日雨量を計測している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "〔郡属伊原忠右エ門〕宮沢賢治郡属伊原忠右エ門科頭にゴムの靴はきて冬の芝生をうちよぎり南ちゞれし綿雲に雨量計をぞさゝげたる天狗巣病にはあらねどもあまりにしげきこずゑかな",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "降水量"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "気象",
+        "雨"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.155530+00:00Z",
+      "updated_at": "2026-06-02T00:26:54.100825+00:00Z",
       "freq_rank": 35883,
       "frequencies": {
         "aozora": 44

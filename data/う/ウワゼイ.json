@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は上背があるから、バレーボール部では重宝されるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "父親に似て上背が伸び、今では兄を追い越すほどになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "あの選手は上背の割に身のこなしが軽く、スピード感がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "銀子は撫で肩の肩が少し厚ぼったく、上背もなかったが顔は彼女の型なりに完成美に近く、目も美しく、鼻も覗き気味で尋常であった。",
@@ -237,14 +262,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "背丈",
+        "身の丈"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "体格",
+        "背"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.314214+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.214582+00:00Z",
       "frequencies": {
         "aozora": 80
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "有文の陶磁器は日本の工芸品として国際的に高い評価を受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "友人が帯広の百貨店で、有文の上品な着物を購入していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "有文の焼き物は、職人の技術と長年の経験が結晶している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本の固有文化は外国人には一体に分かりにくい。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "柄物",
+        "模様入り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文様",
+        "柄",
+        "生地",
+        "陶磁器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.884788+00:00Z",
+      "updated_at": "2026-06-02T00:22:43.997280+00:00Z",
       "frequencies": {
         "aozora": 5
       }

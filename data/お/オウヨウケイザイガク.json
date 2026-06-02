@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は大学で応用経済学を専攻し、公共政策への影響を研究している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このレポートは、応用経済学の視点から地域経済の活性化策を分析している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "実社会の問題解決には、理論だけでなく応用経済学の知識が不可欠だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一八九六年には論文集「応用経済学研究」（〔Etudes d'e'conomie applique'e〕）を、一八九八年には論文集「社会経済学研究」（〔Etudes d'e'conomie sociale〕）を出版したほか、大小の論文を公にしている。",
@@ -134,13 +159,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "理論経済学"
+      ],
+      "related": [
+        "経済学",
+        "社会科学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.491890+00:00Z"
+      "updated_at": "2026-06-02T01:13:07.250115+00:00Z"
     }
   }
 ]

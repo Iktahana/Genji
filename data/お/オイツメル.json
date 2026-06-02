@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "警察は容疑者を路地に追い詰めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "議論で相手を追い詰めるのは避けるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "猛追する選手に追い詰められたチャンピオン。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雲隠れする最後の一角まで、追い詰めるように視線を投げた。",
@@ -166,14 +191,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "窮地に追い込む",
+        "袋小路に追い込む",
+        "逃げ場をなくす",
+        "追い込む"
+      ],
+      "antonyms": [
+        "逃がす",
+        "解放する"
+      ],
+      "related": [
+        "追い込む",
+        "窮地",
+        "袋小路",
+        "包囲",
+        "逃げ場",
+        "圧迫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.054955+00:00Z",
+      "updated_at": "2026-06-02T01:10:53.496113+00:00Z",
       "freq_rank": 37951,
       "frequencies": {
         "aozora": 279

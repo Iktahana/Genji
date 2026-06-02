@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "交渉がうまうまと進み、契約が結ばれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この計画はうまうまと実行される見込みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "災害対応がうまうまとすすんだおかげで、被害は最小限に抑えられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それまで受けた恩があれば、お客分にして一生置き申そうということなれど、宗旨々々のお祖師様でも、行きたい処へ行かっしゃる。",
@@ -290,21 +315,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「このケーキ、うまうまだね」と子どもたちが言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖母の作った料理を食べながら「うまうまだ」とつぶやいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「このラーメン、うまうまじゃん」と友人が箸を進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うまく",
+        "首尾よく",
+        "まんまと",
+        "巧みに"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "成功",
+        "策略",
+        "計略",
+        "だます"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.703554+00:00Z",
+      "updated_at": "2026-06-01T23:57:28.224323+00:00Z",
       "frequencies": {
         "aozora": 9
       }

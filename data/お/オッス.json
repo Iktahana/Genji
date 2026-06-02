@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「押忍！ 今日も練習よろしくお願いします。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「道場に入るときは、必ず『押忍！』と挨拶をすること。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「遠くから先輩が歩いてきたので、『押忍！』と声を掛けた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "羽筑後守昌幸　花押忍越前守能之　花押安弥左衛門様　参人々中粟沢村の百姓が清水へ逃げて行ったのを、意見して帰して呉れるようにとの頼みの状で、羽筑後守昌幸は沼田の城主真田安房守である。",
@@ -58,21 +83,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「これからの合宿、厳しいぞ。覚悟はいいか！」「押忍！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「明日までにこの報告書を仕上げろ！」「押忍！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「これからは先輩の命令に絶対に従え。わかったか！」「押忍！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "了解",
+        "こんにちは"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挨拶",
+        "敬礼"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.545448+00:00Z"
+      "updated_at": "2026-06-02T01:43:39.567135+00:00Z"
     }
   }
 ]

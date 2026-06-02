@@ -31,21 +31,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "上司が『オフザレコードだけど』と前置きして、会社の秘密を教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そのコメントはオフザレコードとして扱ってほしいと、彼女は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オフザレコードの情報は絶対に社外に漏らしてはいけない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "非公式",
+        "内輪話",
+        "秘密"
+      ],
+      "antonyms": [
+        "オンザレコード",
+        "公式",
+        "公開"
+      ],
+      "related": [
+        "取材",
+        "ジャーナリズム",
+        "報道",
+        "秘密",
+        "情報",
+        "記者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.433517+00:00Z"
+      "updated_at": "2026-06-02T02:12:24.209086+00:00Z"
     }
   }
 ]

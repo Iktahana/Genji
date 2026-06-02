@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は大きな荷物を両手に抱えて、重たげな足取りで階段を登った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "老人は重たげに腰を上げると、ゆっくりと杖を突いて歩き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "雲が低く垂れ込め、今にも雨が降り出しそうな重たげな空模様だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤い光までなんとなく重たげだつた。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重そう"
+      ],
+      "antonyms": [
+        "軽そう"
+      ],
+      "related": [
+        "重苦しさ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.012507+00:00Z"
+      "updated_at": "2026-06-02T02:21:24.817195+00:00Z"
     }
   }
 ]

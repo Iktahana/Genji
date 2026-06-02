@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "窓の外で雨が降り始めたかと思うと、彼女は自然と鼻歌を歌いだした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもたちはバスに乗り込んでシートに座ると、すぐに合唱曲を歌いだして車内を明るくした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "宴もたけなわになったころ、酔った上司が突然マイクを持ってバラードを歌いだした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蓄音機がぱたりとやむと、踊り子たちの手持ちぶさたを紛らすためにだれかが歌いだす。",
@@ -222,14 +247,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "歌い始める"
+      ],
+      "antonyms": [
+        "歌い終わる"
+      ],
+      "related": [
+        "歌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.121577+00:00Z",
+      "updated_at": "2026-06-01T22:12:49.605849+00:00Z",
       "frequencies": {
         "aozora": 69
       }

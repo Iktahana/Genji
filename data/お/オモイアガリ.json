@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一度試合に勝っただけで練習をさぼるなんて、思い上がりもはなはだしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の思い上がりがチームの雰囲気を壊した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「自分だけが正しい」という思い上がりを捨てなければ、成長はない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "左大臣家にいる夫人も、六条の貴女も強い思い上がりと源氏の他の愛人を寛大に許すことのできない気むずかしさがあって、扱いにくいことによっても、源氏はあの気楽な自由な気持ちを与えてくれた恋人ばかりが追慕されるのである。",
@@ -229,14 +254,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自惚れ",
+        "高慢",
+        "うぬぼれ",
+        "高飛車"
+      ],
+      "antonyms": [
+        "謙虚",
+        "卑下"
+      ],
+      "related": [
+        "傲慢",
+        "慢心",
+        "思い上がる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.853645+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.454852+00:00Z",
       "freq_rank": 39818,
       "frequencies": {
         "aozora": 14

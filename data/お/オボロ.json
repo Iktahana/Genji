@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の朧な月がきれいだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "記憶は朧としていて詳しくは思い出せない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朧な光の中で人影が動いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして從來の交際で、未だかつて知らなかつた或る新しい發見が、この天才的な文學者の本質にひそんでゐることを、朧げながらも自覺して愕然とした。",
@@ -288,21 +313,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朧は和食の一品として重宝される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "白身魚の朧を塩辛く味付けした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その食堂の朧は評判が良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぼんやり",
+        "曖昧",
+        "不鮮明"
+      ],
+      "antonyms": [
+        "明確",
+        "はっきり",
+        "鮮明"
+      ],
+      "related": [
+        "春",
+        "霞",
+        "靄",
+        "薄暗い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.665563+00:00Z",
+      "updated_at": "2026-06-02T02:18:08.849681+00:00Z",
       "freq_rank": 25994,
       "frequencies": {
         "aozora": 527

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人気歌手のライブ会場は、開場前から大入り満員だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "連休中の遊園地は、アトラクションもレストランも大入り満員だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「本日は大入り満員、誠にありがとうございます！」と支配人が挨拶した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二昔前の書生劇でも大入り満員だというので、劇も映画も明治の壮士芝居である。",
@@ -125,14 +150,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "満員御礼"
+      ],
+      "antonyms": [
+        "閑古鳥",
+        "ガラガラ"
+      ],
+      "related": [
+        "興行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.609871+00:00Z"
+      "updated_at": "2026-06-02T01:14:11.507483+00:00Z"
     }
   }
 ]

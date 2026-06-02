@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "移送の日、受刑者は護送車で次の刑務所へ押送された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "当時は囚人を押送する際、複数の警官が同行することが義務付けられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "裁判所の命令を受け、翌朝早くに被告が別の施設へ押送されることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もと押送りに乘つて東京通ひをして、仕切も取り勘定も濟ました後の早朝出帆に、檣を立てる唄で靈岸島の岸の人を泣かしたといふ船頭も尚生きて居るけれども、もう唄も覺えて居ない。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "移送",
+        "護送"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "囚人",
+        "警察",
+        "刑務所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.349062+00:00Z",
+      "updated_at": "2026-06-02T01:11:15.381295+00:00Z",
       "frequencies": {
         "aozora": 31
       }

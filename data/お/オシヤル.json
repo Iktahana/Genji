@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "邪魔な荷物を隅に押しやって、作業スペースを確保した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は読みかけの本をサイドテーブルに押しやり、電話を取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "不安な気持ちを心の隅に押しやり、平然と舞台に立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "５１＝二階の密室　「ではそろそろ」と一同御膳を横へ押しやると其処に穴がある。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追いやる",
+        "遠ざける",
+        "排斥する",
+        "突きやる"
+      ],
+      "antonyms": [
+        "引き寄せる",
+        "招く"
+      ],
+      "related": [
+        "移動",
+        "排除",
+        "片隅",
+        "邪魔者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.068459+00:00Z",
+      "updated_at": "2026-06-02T01:29:30.967020+00:00Z",
       "frequencies": {
         "aozora": 568
       }

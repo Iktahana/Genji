@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急いでいたので、鍵をいつもの場所とは違うところに置き違えてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大切な書類をどこかに置き違えてしまい、家中を探し回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「そんな大事なものを置き違えるなんて、しっかりしてよ！」と友人に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先生はそそっかしいから、自分の本などをよく置き違える。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "置き間違える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "置く",
+        "間違い",
+        "ミス",
+        "失敗"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.398934+00:00Z"
+      "updated_at": "2026-06-02T01:21:42.647785+00:00Z"
     }
   }
 ]

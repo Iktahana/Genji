@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "奥羽地方は歴史的に重要な地域である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "奥羽の山々は四季折々の美しさを見せる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "奥羽文化は独特の特性を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奥羽、北国の町にも彼の放浪の範囲は拡張された。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "東北地方",
+        "陸奥",
+        "出羽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "地理",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.154643+00:00Z",
+      "updated_at": "2026-06-02T01:09:27.327099+00:00Z",
       "frequencies": {
         "aozora": 373
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新製品の発売日を前にして、スタッフ一同は大わらわで準備に追われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "突然の来客で、お茶を出したり部屋を片付けたりと大わらわだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "繁忙期のレストランは、休む暇もないほどの大わらわ状態だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "片側の大名邸の高い土堤の上に茂り重なる萩青芒の上から、芭蕉の広葉が大わらわに道へ差し出て、街燈の下まで垂れ下がり、風の夜は大きな黒い影が道一杯にゆれる。",
@@ -258,21 +283,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寝癖がついたまま飛び起きたので、頭がまさに大わらわの状態だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "強風の中を歩いてきたので、髪が大わらわになってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "必死に逃げ回ったため、彼女の髪はボサボサの大わらわだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大忙し",
+        "てんてこ舞い"
+      ],
+      "antonyms": [
+        "暇"
+      ],
+      "related": [
+        "忙しい",
+        "焦る"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.183264+00:00Z",
+      "updated_at": "2026-06-02T01:18:59.903256+00:00Z",
       "frequencies": {
         "aozora": 26
       }

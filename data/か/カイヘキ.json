@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高い海壁がなければ、この地域は洪水の危険性が極めて高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "台風の影響から町を守るため、海壁を増強することが決定された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その海壁は何十年も前に建設されたが、いまだ堅牢である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "バー・ハーバア、ニューポート及びその階級に属する場所等を稀な例外として、我国に於る防海壁に沿う無数の地域には、村落改良協会や都市連合が撲滅を期しつつあるような状態に置かれた納屋や廃棄物やその他の鼻持ちならぬ物が目に入る。",
@@ -109,14 +134,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "防波堤",
+        "堤防",
+        "護岸"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海",
+        "港湾",
+        "土木",
+        "沿岸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:26:57.461276+00:00Z"
     }
   }
 ]

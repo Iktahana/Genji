@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプロジェクトが成功するか失敗するか、もう鬼が出るか仏が出るかだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上司の反応は、鬼が出るか仏が出るか全く予想がつかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "手術の結果は鬼が出るか仏が出るかという状況だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今もし試みにその腹を割いたら、鬼が出るか仏が出るか、何の何の、鬼でもない仏でもない、「あら儂のではお厭なの」、それあの花笄の小歌が今日見た水車の裾模様のまゝで出るのだ。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不確定"
+      ],
+      "antonyms": [
+        "確実",
+        "確定"
+      ],
+      "related": [
+        "ことわざ",
+        "表現",
+        "鬼",
+        "仏",
+        "不確実"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.086113+00:00Z"
+      "updated_at": "2026-06-02T01:59:16.925892+00:00Z"
     }
   }
 ]

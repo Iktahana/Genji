@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "船が揺れ始めると嘔気を催し、甲板に出て海を眺めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "抗がん剤の副作用で嘔気が続き、食事がまともに取れない日が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "強い臭いで嘔気を感じた彼は、急いでその場を離れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やっと熱海の宿に着いて暈の治りかけた頃にあの塩湯に入るとまたもう一遍軽い嘔気を催したように記憶している。",
@@ -279,14 +304,22 @@
       "homophones": [
         "応器"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "吐き気",
+        "悪心"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "嘔吐",
+        "気分不快",
+        "船酔い",
+        "つわり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.181575+00:00Z",
+      "updated_at": "2026-06-02T01:10:01.703304+00:00Z",
       "frequencies": {
         "aozora": 89
       }
@@ -322,7 +355,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "僧が応器を手に門前に立つと、村人が米や野菜を入れて布施をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "応器の中に積まれた食べ物を受け取った後、僧は静かに念仏を唱えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "修行の旅に出た若い僧は、応器一つだけを持って寺を後にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "天下国家のことは偏えに諸君に委せて、神妙にお台所番を勤めたいと存じます」　と相応器用に結んだ。",
@@ -356,9 +414,16 @@
       "homophones": [
         "嘔気"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "鉢"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "修行",
+        "托鉢",
+        "僧侶",
+        "仏具"
+      ]
     },
     "meta": {
       "version": "1.0.0",

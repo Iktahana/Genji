@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験について思い煩っている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仕事のストレスで思い煩う",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "健康のことを思い煩う毎日だ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "トイレットの中か、または横丁の電柱のかげで酔っていながら、残金を一枚二枚と数えて、溜息ついて、思い煩うな空飛ぶ鳥を見よ、なんて力無く呟いてさ、いじらしいものだよ。",
@@ -254,14 +279,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "悩む",
+        "煩悶する",
+        "気にする"
+      ],
+      "antonyms": [
+        "安心する"
+      ],
+      "related": [
+        "憂鬱",
+        "悩み",
+        "不安"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.946549+00:00Z",
+      "updated_at": "2026-06-02T02:21:08.888977+00:00Z",
       "frequencies": {
         "aozora": 89
       }

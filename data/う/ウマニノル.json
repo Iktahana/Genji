@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "晴れた休日には、海岸沿いの乗馬クラブで馬に乗るのが楽しみだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「初めて馬に乗るんだから、手綱をしっかり握っていてね」とインストラクターが教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の貴族たちは、移動するときには必ず馬に乗るのが当たり前だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だからちったア馬に乗ることも心懸けておくこッた、女にかかり合っているばかりが芸じゃあねえぜ。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "乗馬",
+        "騎乗"
+      ],
+      "antonyms": [
+        "降りる"
+      ],
+      "related": [
+        "馬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.729107+00:00Z"
+      "updated_at": "2026-06-02T00:14:27.689615+00:00Z"
     }
   }
 ]

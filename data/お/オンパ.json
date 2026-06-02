@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コウモリは音波を発して反射を感知することで、暗闇の中でも障害物を避けて飛べる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "超音波検査では人間の耳に聞こえない高周波の音波を体内に当てて画像を生成する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地震計は地中を伝わる音波と振動波を記録して、震源の位置を特定する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はげしい音波の衝動のために、害虫がはたしてふるい落とされるか、落とされた虫がそれきりになるかどうか、たしかな事はだれもおそらく知らなかった。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "波動"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "物理",
+        "音響",
+        "波"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:30:36.482471+00:00Z",
       "freq_rank": 13201,
       "frequencies": {
         "aozora": 139

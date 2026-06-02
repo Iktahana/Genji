@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は大名家で奥勤めをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代、多くの女性が武家の奥勤めを経験した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "奥勤めは厳しい身分制度の中での仕事だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして襖の隙き間からそっと窺っていると、やがてはいってきたのは三十歳前後のやはり奥勤めらしい女であった。",
@@ -181,14 +206,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "奥仕え",
+        "女中奉公",
+        "仕女",
+        "奥上臈"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "奥女中",
+        "大奥",
+        "江戸時代",
+        "武家屋敷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.575853+00:00Z"
+      "updated_at": "2026-06-02T01:24:51.174446+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "老いた母の面輪には、長年の苦労が深く刻み込まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "舞台の照明の下で女優の面輪が白く浮かび上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遺影の中の祖父は、若き日の面輪をそのまま留めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はじめは当り前のファンで、週末の休み日毎に、たとい二度三度見直す同じ狂言であろうとも、きまって彼女の出る映画ばかりを漁っている中に、だんだん彼女の何時も深い愁しみに隈どられた面輪が、頭の中のスクリインに大写しのようにいっぱいに映ったまま消えなくなったのである。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "面影",
+        "容貌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔立ち",
+        "記憶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.136697+00:00Z",
+      "updated_at": "2026-06-02T02:22:57.677360+00:00Z",
       "freq_rank": 23104,
       "frequencies": {
         "aozora": 21

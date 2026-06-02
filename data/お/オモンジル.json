@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はどんな相手でも相手の意見を重んじる姿勢を崩さない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "伝統を重んじる職人は、師匠から受け継いだ技を守り続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会社は個人の能力を重んじる文化を持ち、年功序列を廃止した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自らを重んじる道では無い。",
@@ -270,14 +295,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "尊重する",
+        "重視する",
+        "大切にする"
+      ],
+      "antonyms": [
+        "軽んじる",
+        "蔑ろにする"
+      ],
+      "related": [
+        "敬意",
+        "評価"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.156121+00:00Z",
+      "updated_at": "2026-06-02T02:22:57.682959+00:00Z",
       "freq_rank": 22315,
       "frequencies": {
         "aozora": 78

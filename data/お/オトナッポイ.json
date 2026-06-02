@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その男子学生は大人っぽい雰囲気で、話し方も上品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女の大人っぽいメイクは周囲の注目を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの映画は大人っぽい映像美が特徴的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "凄く大人っぽいかと思うと、まるきりテニヲハの抜けた舌足らずの喋り方をしたりする所が、女たちに気を許させるのであろう。",
@@ -133,14 +158,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大人びた",
+        "成熟した",
+        "大人らしい"
+      ],
+      "antonyms": [
+        "子供っぽい",
+        "幼い",
+        "幼稚な"
+      ],
+      "related": [
+        "雰囲気",
+        "振る舞い",
+        "スタイル"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.881572+00:00Z"
+      "updated_at": "2026-06-02T02:00:40.787967+00:00Z"
     }
   }
 ]

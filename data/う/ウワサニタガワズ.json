@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は「噂に違わず」素晴らしいピアニストだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このレストランは「噂に違わず」、最高のサービスを提供している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "富士山は「噂に違わず」美しい姿で、感動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "噂に違わず素晴らしいその鉄砲乳が無性に気に入ったんだ。",
@@ -102,14 +127,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "評判通り",
+        "期待通り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "実力",
+        "評判"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.299382+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.208573+00:00Z"
     }
   }
 ]

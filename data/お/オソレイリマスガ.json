@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恐れ入りますが、もう一度お名前を教えていただけますか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "恐れ入りますが、ここでのお電話はお控えください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "恐れ入りますが、順番にお並びいただけますでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「あの、恐れ入りますが、しばらくお控えくださいまし。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "申し訳ありませんが",
+        "失礼しますが",
+        "恐縮ですが"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "すみません",
+        "恐れ入る",
+        "失礼",
+        "頼みごと",
+        "お願い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.304399+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.494469+00:00Z"
     }
   }
 ]

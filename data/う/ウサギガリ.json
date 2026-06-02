@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋には兎狩りの季節がやってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "兎狩りに出かけた猟師たちは朝早く出発した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の兎狩りは重要な食料調達の手段だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "四「おい、兎狩りに行こうか。",
@@ -85,14 +110,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "狩猟"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "兎",
+        "スポーツ",
+        "罠"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.867278+00:00Z",
+      "updated_at": "2026-06-01T22:07:02.103092+00:00Z",
       "frequencies": {
         "aozora": 6
       }

@@ -30,21 +30,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "まさかこれほど手ごわい相手だとは思い設けていなかったので、面食らった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女が来るとは思い設けていなかったので、思わず声が上ずった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試合でそんな展開になるとは思い設けていなかったが、落ち着いて対処できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "予期する",
+        "想定する",
+        "予想する",
+        "見越す"
+      ],
+      "antonyms": [
+        "予期しない",
+        "不意を突かれる"
+      ],
+      "related": [
+        "予測",
+        "予期",
+        "想定",
+        "見通し",
+        "見込み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.940193+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.988976+00:00Z",
       "frequencies": {
         "aozora": 109
       }

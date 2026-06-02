@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "願いを込めて千羽の折り鶴を折る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "机の上に小さな折り鶴が置かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "母が病気の回復を祈って折り鶴を作ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "風のない日は縁側の日向へ出て来て、紙の折り鶴をいくつとなくこしらえてみたり、秘蔵の人形の着物を縫うてやったり、曇った寒い日は床の中で「黒髪」をひくくらいになった。",
@@ -61,14 +86,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鶴"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "折り紙",
+        "平和"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:25:27.813600+00:00Z",
       "frequencies": {
         "aozora": 3
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歌舞伎の舞台では、男方の俳優が見得を切るたびに客席から大きな掛け声が飛んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男方として長年修行を積んだ役者が、今回初めて座頭を務めると聞いて期待が高まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "伝統芸能の世界では、男方の所作を習得するだけで何年もの月日を要するという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "既に私の作つたアレを、貴男方が校歌だと云つてるぢやありませぬか。",
@@ -96,7 +121,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の友人関係から男方へと関係が変わり、二人の距離は一気に縮まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼が男方として支えてくれるようになってから、彼女の生活はずいぶん安定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男方として真剣に向き合ってくれている姿勢が伝わり、彼女も少しずつ心を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -104,13 +154,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女方"
+      ],
+      "related": [
+        "パートナー",
+        "恋人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.740091+00:00Z",
+      "updated_at": "2026-06-02T01:49:23.415156+00:00Z",
       "frequencies": {
         "aozora": 5
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "セラミック製のおろし器は、大根が繊維感なく滑らかにおろせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引き出しの奥からおろし器を取り出して、生姜をすりおろした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このおろし器は刃が細かいので、チーズにも使える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これが見られる間は、日本人は西洋人にはなりきれないし、西洋の思想やイズムはそのままの形では日本の土に根をおろしきれないであろうとは常々私の思うことである。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おろし金",
+        "グレーター"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "大根",
+        "薬味",
+        "調理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.639804+00:00Z"
+      "updated_at": "2026-06-02T02:28:45.531873+00:00Z"
     }
   }
 ]

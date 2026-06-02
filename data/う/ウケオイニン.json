@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工事現場で事故が発生した際、責任の所在は請負人にあると判断された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "注文主と請負人の間で、仕様の変更を巡ってトラブルが起きている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "請負人として登録された以上、納期までに必ず成果物を納める義務がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "請負人は「なに、前科者でも、主義者でもかまふもんか。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "請負師",
+        "業者",
+        "コントラクター",
+        "施工業者",
+        "委託業者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "請負契約",
+        "元請け",
+        "下請け",
+        "施工",
+        "発注者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.794918+00:00Z",
+      "updated_at": "2026-06-01T22:04:49.800844+00:00Z",
       "freq_rank": 42414,
       "frequencies": {
         "aozora": 33

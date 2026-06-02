@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "年度末までに固定資産税を皆納した世帯には、証明書が発行される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "滞納していた住民税を全額一括で皆納し、ようやく肩の荷が下りた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市の担当者は皆納率の向上を目指し、コンビニ納付の案内を強化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "納期には各村に代官を派遣し、滯納する者があれば家宅を搜索して農産物の種子まで取上げ、なほ不足ならば人質を取つて皆納するまで水牢に入るゝ等の事を行つた。",
@@ -280,12 +305,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "納税",
+        "税金",
+        "租税",
+        "支払い",
+        "徴税"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:22:45.610941+00:00Z",
       "frequencies": {
         "aozora": 5
       }

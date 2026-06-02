@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "封筒の内側にメッセージを書き込んで、開けた人を驚かせよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "寒いのでコートの内側にカイロを貼り付けて、防寒対策を徹底した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "建物の内側から鍵をかけて、不審者が入ってこられないようにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして河向いの高い塀の曲り角のところの内側に塔のような絞首台の建物の屋根が少し見えて、その上には巨杉に蔽われた城山の真暗なシルエットが銀砂を散らした星空に高く聳えていたのである。",
@@ -280,14 +305,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内部",
+        "中身"
+      ],
+      "antonyms": [
+        "外側",
+        "外部"
+      ],
+      "related": [
+        "側面",
+        "裏側",
+        "表側"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.239472+00:00Z",
+      "updated_at": "2026-06-01T22:16:27.829716+00:00Z",
       "freq_rank": 5820,
       "frequencies": {
         "aozora": 1683

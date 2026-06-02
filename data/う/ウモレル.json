@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "膨大な書類の中に重要な契約書が埋もれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "駅の雑踏の中で、彼の呼びかけの声は埋もれてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の大きな功績は、後の歴史の中に埋もれてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山岸外史氏の、すぐれた著書も、やや、それに似てゐるが、これは、後日、きつと讀者に、ひろく頑強に支持されるにちがひない要素を持つてゐて、決して埋もれる本ではない。",
@@ -177,14 +202,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "埋まる",
+        "埋没する",
+        "埋もれ伏す"
+      ],
+      "antonyms": [
+        "発掘される"
+      ],
+      "related": [
+        "埋没",
+        "隠れる",
+        "発掘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.884379+00:00Z",
+      "updated_at": "2026-06-02T00:22:43.996664+00:00Z",
       "frequencies": {
         "aozora": 720
       }

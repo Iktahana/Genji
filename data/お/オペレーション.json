@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師は患者のオペレーションを午後に予定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオペレーションは高度な技術を要する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "軍事オペレーションは夜間に実行された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんな錯乱のさなかの一九九一年四月九日、コンパックとマイクロソフト、そしてＵＮＩＸで勝負をかけるサンタクルズオペレーションを始めとする二十一社が、新しい先進的プラットフォームと銘打った、ＡＣＥ（アドバンスト・コンピューティング・エンバイロメント）構想に取り組むと発表してオレの錯乱に拍車をかけた。",
@@ -85,14 +110,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "作戦",
+        "手術",
+        "操作",
+        "運用"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "業務",
+        "指揮",
+        "軍事作戦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.608173+00:00Z",
+      "updated_at": "2026-06-02T02:17:51.049592+00:00Z",
       "freq_rank": 12737,
       "frequencies": {
         "aozora": 6

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「田中さんはいらっしゃいますか？」「お生憎様ですが、本日は外出しております。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「お生憎様ですが、ご希望のお席はすでに満席となっております」と担当者は頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「チケットはまだ残っていますか？」「お生憎様、昨日完売してしまいました。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「強い、お生憎様で。",
@@ -289,21 +314,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「絶対に勝つのはこっちだ」「お生憎様でした、こちらも本気でかかってきたんだよ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「その計画は必ずうまくいく」「お生憎様、もうとっくに手を打ってある。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「今度こそ秘密にできると思っただろう？」「お生憎様、全部お見通しだよ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "あいにく",
+        "残念ながら"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "失望",
+        "拒絶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.961880+00:00Z"
+      "updated_at": "2026-06-02T01:08:05.715152+00:00Z"
     }
   }
 ]

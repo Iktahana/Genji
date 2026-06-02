@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は難しい顔をして、胸の前で腕組みをしたまま黙り込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先生は腕組みをして、生徒たちの発表を真剣な面持ちで聞いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "腕組みをしてじっと考えるのが、彼の昔からの癖だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのこと、ありのままに山岸へ告げたところ、山岸しさいらしく腕組み、「君、それが惡い。",
@@ -281,12 +306,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "姿勢",
+        "身振り",
+        "表現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.549530+00:00Z",
+      "updated_at": "2026-06-01T23:14:43.514615+00:00Z",
       "freq_rank": 40664,
       "frequencies": {
         "aozora": 421

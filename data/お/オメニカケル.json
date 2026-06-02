@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい製品をお客様にお目にかけたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この絵画をぜひお目にかけたくて、お招きしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "我が社の最新技術をお目にかけます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんな前置きを書くと、さも長いものを書きさうでもあらうが、骨子だけを誌すにとゞめて、色んな場合に適用してお目にかけるといふことは一切抜きにするから、そんなに長くはなるまい。",
@@ -278,14 +303,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見せる",
+        "披露する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "謙譲語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.844442+00:00Z"
+      "updated_at": "2026-06-02T02:20:33.277962+00:00Z"
     }
   }
 ]

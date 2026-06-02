@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "体育の時間に適切な運動着を着用することが大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は新しい運動着を買ってこれでジムに通い始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この運動着は吸汗性に優れていてランニングに最適だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "牧師はやをら身を起して講壇に登つたが、例の黒い運動着が又眼に付く。",
@@ -69,14 +94,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スポーツウェア",
+        "ジャージ",
+        "体育着"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "トレーニングウェア",
+        "衣類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.498434+00:00Z",
+      "updated_at": "2026-06-02T00:29:46.533155+00:00Z",
       "frequencies": {
         "aozora": 2
       }

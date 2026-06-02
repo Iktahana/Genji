@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "詐欺師は高齢者を脅かして金銭を奪った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上司が部下を脅かすようなやり方はハラスメントである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "テロ組織の脅かす行為に国中が緊張に包まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また一九一一年に出た版権法修正案が大学の権利を脅かすものであったので、総長レーリーは上院で反対演説をした。",
@@ -289,21 +314,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この政策は国の安全保障を脅かす可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "深刻な環境汚染は野生動物の生存を脅かしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "経済危機が民主的体制を脅かす恐れがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "脅す",
+        "威嚇する",
+        "恫喝する",
+        "凄む",
+        "脅迫する"
+      ],
+      "antonyms": [
+        "安心させる",
+        "慰める",
+        "励ます"
+      ],
+      "related": [
+        "脅迫",
+        "恐喝",
+        "威圧",
+        "恐怖",
+        "危険にさらす"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.373336+00:00Z",
+      "updated_at": "2026-06-02T02:09:53.317516+00:00Z",
       "freq_rank": 16429,
       "frequencies": {
         "aozora": 1366

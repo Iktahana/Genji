@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "奥方が茶の間で来客を待っていると聞いて、私は緊張で背筋が伸びた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "屋敷の主人が留守の間、奥方が一家の切り盛りをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "奥方が見せてくれた笑顔のおかげで、場の雰囲気が和んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御覧ぜよ、奥方の御目には我れを憎しみ、殿をば嘲りの色の浮かび給ひしを」　女子は太息に胸の雲を消して、月もる窓を引たつれば、音に目さめて泣出る稚児を、「あはれ可愛し、いかなる夢をか見つる。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "夫人",
+        "令夫人",
+        "北の方",
+        "正室"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "貴婦人",
+        "武家",
+        "大奥",
+        "側室"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.527898+00:00Z",
+      "updated_at": "2026-06-02T01:22:54.068331+00:00Z",
       "freq_rank": 41434,
       "frequencies": {
         "aozora": 978

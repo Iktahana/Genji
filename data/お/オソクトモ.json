@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "申請書類は、遅くとも今週の金曜日までに提出してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遅くとも来週の月曜日までには返事がもらえるはずだと担当者が言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は遅くとも８時までには会場に到着するだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十七日にゆくとしろ……えいか、そのつもりで小支度して置け」　学校へゆくは固より僕の願い、十日や二十日早くとも遅くともそれに仔細はないが、この場合しかも今夜｜言渡があって見ると、二人は既に罪を犯したものと定められての仕置であるから、民子は勿論僕に取ってもすこぶる心苦しい処がある。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "最遅でも",
+        "どんなに遅くても"
+      ],
+      "antonyms": [
+        "早くとも",
+        "遅くも"
+      ],
+      "related": [
+        "期限",
+        "締め切り",
+        "遅く",
+        "期日"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.258345+00:00Z",
+      "updated_at": "2026-06-02T01:37:48.942199+00:00Z",
       "freq_rank": 26532
     }
   }

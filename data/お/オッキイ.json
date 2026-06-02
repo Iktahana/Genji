@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「わあ、大っきいケーキ！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大っきい声で挨拶をしなさい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は大っきいバッグを肩に担いで歩いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「――元よくこの辺翔んでいた――都鳥でしたっけか、白い大っきい鳥――ちっともいなくなっちゃいましたね、震災からでしょうか」　区画整理が始まって、駒形通りは工場裏のように雑然としている。",
@@ -77,14 +102,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大きい",
+        "でかい",
+        "大きな",
+        "巨大な",
+        "広い"
+      ],
+      "antonyms": [
+        "小さい",
+        "小さな",
+        "ちっちゃい",
+        "小ちゃい"
+      ],
+      "related": [
+        "サイズ",
+        "規模",
+        "大きさ",
+        "体積"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.525469+00:00Z",
+      "updated_at": "2026-06-02T01:43:51.790801+00:00Z",
       "frequencies": {
         "aozora": 13
       }

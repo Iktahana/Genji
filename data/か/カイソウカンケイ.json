@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書館の分類体系は明確な階層関係に基づいており、大分類から小分類へと順に絞り込める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "データモデリングの段階で親テーブルと子テーブルの階層関係を丁寧に定義しておくと、後のクエリが格段に書きやすくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "組織図を見ると部署と課の間に明確な階層関係があり、指示命令系統が一目でわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このことは併し、シェーラーに特有な現象学の方法に従えば、決して、単に静止的・超時間的な本質関係を意味するだけではない、衝動と精神との上下のこの階層関係は、社会の歴史的発展に際しても亦行われるのでなければならない、この関係は亦発展・前進・法則でもなければならない、と彼は主張する＊。",
@@ -45,14 +70,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上下関係",
+        "親子関係",
+        "従属関係"
+      ],
+      "antonyms": [
+        "対等関係",
+        "並列関係"
+      ],
+      "related": [
+        "階層",
+        "組織図",
+        "ツリー構造",
+        "包含関係",
+        "序列"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:15:55.607554+00:00Z"
     }
   }
 ]

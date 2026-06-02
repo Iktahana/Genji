@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎朝、主人は一番に表戸を開けて、通りに打ち水をするのが日課だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "夜遅くに帰宅すると、既に表戸が閉まっており、家に入れず困り果てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ガタガタと風で表戸が鳴る音を聞きながら、嵐が過ぎ去るのを待った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｓ＝茶店内部　夜更けて――　表戸を開けて七五郎のお袋のお勘婆さんが顔を出す。",
@@ -229,14 +254,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "玄関"
+      ],
+      "antonyms": [
+        "裏戸"
+      ],
+      "related": [
+        "出入り口",
+        "戸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.065667+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.081446+00:00Z",
       "frequencies": {
         "aozora": 228
       }

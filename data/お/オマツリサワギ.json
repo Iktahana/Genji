@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅前はお祭り騒ぎで、通れないほど混雑している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オリンピックの時期はお祭り騒ぎが続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このショップオープンセールはお祭り騒ぎになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "物質の分配がどうだの、理想がどうだの、何イズムだのと陰に陽にお祭り騒ぎして居るけれど、人間なんて、本当の処は桶の底のウジのようにうごめき暮らして居る惨な生物に過ぎないんですな。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大騒ぎ",
+        "どんちゃん騒ぎ"
+      ],
+      "antonyms": [
+        "静粛",
+        "厳粛"
+      ],
+      "related": [
+        "お祭り",
+        "宴会",
+        "盛り上がり",
+        "騒ぎ",
+        "賑わい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.710926+00:00Z",
+      "updated_at": "2026-06-02T02:20:38.480597+00:00Z",
       "freq_rank": 31694,
       "frequencies": {
         "aozora": 61

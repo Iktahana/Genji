@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのケーキ、本当に美味しそうですね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "テレビで見た和菓子が美味しそうで食べたくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "店の窓の焼きたてパンが美味しそうに光っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "葛岡は、胸に溜まっていた誰にも話せない鬱積を漸く吐き出す緒口がついて来たので、とても元気が出たらしく、出た最初の皿をいかにも美味しそうに食べながら話し続けます。",
@@ -288,21 +313,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大事な取引が美味しそうな状況に発展した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の海外勤務のオファーは美味しそうな条件だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その新規事業は美味しそうな利益予想が出ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "旨そう",
+        "食欲をそそる"
+      ],
+      "antonyms": [
+        "不味そう"
+      ],
+      "related": [
+        "食欲",
+        "外見",
+        "料理",
+        "視覚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.013155+00:00Z"
+      "updated_at": "2026-06-02T01:08:41.171277+00:00Z"
     }
   }
 ]

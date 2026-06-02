@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大家に家賃の交渉をしてみたけれど、断られてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "部屋の雨漏りについて、すぐに大家に相談したほうがいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このアパートの大家は、とても親切で安心できる方だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女中が二人、書生が一人、老僕が一人、他に抱車夫が一人という大家族であったので、家も相当に広く、間数がいくつもあって廊下続きになっていた。",
@@ -279,14 +304,25 @@
       "homophones": [
         "大矢"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "家主",
+        "地主",
+        "貸主"
+      ],
+      "antonyms": [
+        "借家人",
+        "借主"
+      ],
+      "related": [
+        "賃貸",
+        "家賃",
+        "賃借人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.132085+00:00Z",
+      "updated_at": "2026-06-02T01:18:45.374989+00:00Z",
       "freq_rank": 9807,
       "frequencies": {
         "aozora": 1933
@@ -323,7 +359,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は武道場に飾られた大矢を、じっと見つめていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史資料館で、平安時代に使われていたという大矢を見た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "空高く放たれた大矢が、風を切って飛んでいく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それをひねくり廻している矢先へ通りかかったのが保険会社社長で葬儀社長で動物愛護会長で頭が禿げて口髯が黒くて某文士に似ている池田庸平事大矢市次郎君である。",
@@ -573,9 +634,14 @@
       "homophones": [
         "大家"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "長矢"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "弓道",
+        "矢"
+      ]
     },
     "meta": {
       "version": "1.0.0",

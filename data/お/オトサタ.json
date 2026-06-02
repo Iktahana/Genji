@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "引っ越してから一年、友人からの音沙汰がない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父からようやく音沙汰があり、無事を確認できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "二ヶ月以上音沙汰のない息子が心配だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが、それからだんだん国元の様子が父に不利になって来て、近頃ではまるっきり音沙汰もありません。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "便り",
+        "知らせ",
+        "消息",
+        "連絡"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "無沙汰",
+        "音信不通",
+        "手紙",
+        "消息",
+        "連絡",
+        "沙汰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.822205+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.234434+00:00Z",
       "freq_rank": 33608
     }
   }

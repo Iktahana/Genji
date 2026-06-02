@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その出来事を目撃しながらも、彼は事実を疑っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "研究者たちは従来の理論を疑うことから新しい発見をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもは親の言葉さえ疑うようになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひどくがっかりして、しかし結局あきらめて辛抱して待って、さてもういいかと思って催促すると、今度は何とかがどうとかして何とかで工合が悪いからもう二、三日待てという、その何とかが実に尤千万な何とかで疑う余地などは鷹の睫毛ほどもないのだから全く納得させられる外はなかった。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "懐疑する",
+        "怪しむ"
+      ],
+      "antonyms": [
+        "信じる",
+        "信頼する"
+      ],
+      "related": [
+        "疑心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.137843+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.863824+00:00Z",
       "freq_rank": 9801,
       "frequencies": {
         "aozora": 6601

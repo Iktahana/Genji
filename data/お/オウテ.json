@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "チェスで相手に王手をかけられました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あと一手で王手になる局面です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はいつも王手で攻めてくる戦法を使う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "北支の原野に乗り出したものの、相対する敵、歩を突いて来んもんじゃから、マが持てんそこで連日演習である、専ら童心にかえッて戦争ごッこをやッている王手飛車があろうと桂馬のフンドシがあろうと端歩は動かんモノである。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "チェック"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "将棋",
+        "勝負",
+        "チェス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.382840+00:00Z",
+      "updated_at": "2026-06-02T01:11:48.129519+00:00Z",
       "freq_rank": 29863,
       "frequencies": {
         "aozora": 41

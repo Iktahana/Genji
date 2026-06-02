@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冷たいタオルを額に押し当てて、熱を冷ます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は自分の主張を相手に押し当てるような言い方をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "窓ガラスに顔を押し当てて、外の景色を眺めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "伝平はすると、馬の首に手をかけて、その眼を馬の顔に押し当てるのだった。",
@@ -150,14 +175,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "押し付ける",
+        "密着させる"
+      ],
+      "antonyms": [
+        "引き離す",
+        "離す"
+      ],
+      "related": [
+        "接触",
+        "圧力",
+        "感触"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.898173+00:00Z",
+      "updated_at": "2026-06-02T01:27:25.911505+00:00Z",
       "frequencies": {
         "aozora": 171
       }

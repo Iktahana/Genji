@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "職人は鑿の柄に槌を打ち当て、石材を少しずつ丁寧に削っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "金槌を釘の頭に正確に打ち当てるには、慣れが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもが棒を塀に打ち当てながら、リズムをとって歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此は、だいがくの舁き棒を其家の戸なり壁なりに撞き当てる方法で、何しろ恐しい重量を棒鼻に集中して打ち当てるのだから、堪つたものではなかつたさうである。",
@@ -72,14 +97,25 @@
       "homophones": [
         "撃ち当てる"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぶつける",
+        "当てる",
+        "命中させる"
+      ],
+      "antonyms": [
+        "外す",
+        "かわす"
+      ],
+      "related": [
+        "衝突",
+        "ぶつかる",
+        "打撃"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.192457+00:00Z",
+      "updated_at": "2026-06-01T22:16:23.660063+00:00Z",
       "frequencies": {
         "aozora": 15
       }
@@ -115,7 +151,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "狙撃手は百メートル先の標的を一発で撃ち当てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "射撃の練習を重ね、ようやく動く的に撃ち当てることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「よし、撃ち当てた！」と彼は射的の景品を手にして笑顔を見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鋭い斜光線の直射があなたのお机のわきの磨りガラスの窓障子へ光の閃端をうちあてると万遍なくお部屋の内部がオレンヂ色にあかるくなりますのね、そしてにわかに蒸暑くなるのでせう、あなたは急に汗を余計お出しになる。",
@@ -141,9 +202,21 @@
       "homophones": [
         "打ち当てる"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "命中させる",
+        "射当てる",
+        "当てる"
+      ],
+      "antonyms": [
+        "外す",
+        "はずす"
+      ],
+      "related": [
+        "射撃",
+        "命中",
+        "的",
+        "狙撃"
+      ]
     },
     "meta": {
       "version": "1.0.0",

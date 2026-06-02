@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "南極へのエクスペディションに参加するため、半年間トレーニングを積んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "山岳部がヒマラヤへのエクスペディションを計画している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "深海調査のエクスペディションから、貴重な生物のサンプルを持ち帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "登山といえばまずスポーツ登山のことであり、国内の登山はもとより、未踏のヒマラヤへのエクスペディションすらこの範疇で行なわれようとする勢いである。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "遠征",
+        "探検",
+        "調査隊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "冒険",
+        "旅",
+        "踏査"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.259834+00:00Z",
+      "updated_at": "2026-06-02T00:40:41.084574+00:00Z",
       "frequencies": {
         "aozora": 1
       }

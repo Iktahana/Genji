@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "屋内競技のバスケットボールは年中楽しめます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このイベントは屋内で開催されるので、雨でも問題ありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "屋内にいると日光が不足しがちです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論、勉強といふことは、要素々々の注入といふこととも云へようが、その注入が目的ではなく何もひつくるめて出来る次なる統一が芸術活動をなすわけであるから、要素々々のことは所詮個人々々の楽屋内での問題に過ぎない。",
@@ -278,14 +303,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "室内",
+        "家屋内",
+        "建物内"
+      ],
+      "antonyms": [
+        "屋外",
+        "野外",
+        "戸外",
+        "室外"
+      ],
+      "related": [
+        "施設",
+        "建物",
+        "インドア",
+        "屋根",
+        "内装",
+        "空調"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.579611+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.176487+00:00Z",
       "freq_rank": 14966,
       "frequencies": {
         "aozora": 507

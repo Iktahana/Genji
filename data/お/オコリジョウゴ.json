@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は怒り上戸で、酔うとすぐに喧嘩腰になってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "怒り上戸の人と飲みに行くと、後味が悪くなることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の友人に怒り上戸が一人いて、飲み会のたびに苦労した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "怒り上戸やアノ泣き上戸。",
@@ -54,13 +79,24 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "笑い上戸",
+        "泣き上戸",
+        "陽気上戸",
+        "居眠り上戸"
+      ],
+      "related": [
+        "酒癖",
+        "酔っ払い",
+        "絡み酒",
+        "醜態",
+        "アルコール"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.784976+00:00Z"
+      "updated_at": "2026-06-02T01:26:20.769315+00:00Z"
     }
   }
 ]

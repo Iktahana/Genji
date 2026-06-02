@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このスイッチはオンオフの切り替えが素早くできるため、現場での作業効率が格段に上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "集中力のオンオフがうまく切り替えられる人は、仕事でも高いパフォーマンスを発揮できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "照明のオンオフをスマートフォンで操作できるようにしたら、夜中に布団から出なくてよくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "テレビカナタイプには、最終的にはテレビのスイッチを入れる機能に加えて、部屋の照明をオンオフする機能まで付けて完成させた。",
@@ -47,14 +72,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スイッチ",
+        "切り替え"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "電源",
+        "オン",
+        "オフ",
+        "メリハリ",
+        "操作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:27:14.950652+00:00Z",
       "frequencies": {
         "aozora": 1
       }

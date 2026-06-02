@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "年金だけでは足りず、長年集めた骨董品を売り食いして暮らしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "退職後は蓄えを売り食いしながら、新しい仕事を探し続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "事業に失敗してから、田畑を少しずつ売り食いして生活をつないだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "売り食いに売り払って、その日の糧を求めてでもいたものか、家具と名のつくほどの品はなに一つなく、まにあわせのお勝手道具が少々と、売るに売れぬぼろでもはいっているらしい破れつづらがたった一つ、へやのすみにころがっているばかりです。",
@@ -127,14 +152,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "財産処分",
+        "切り崩し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "資産",
+        "生活"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.097624+00:00Z",
+      "updated_at": "2026-06-02T00:26:27.656006+00:00Z",
       "frequencies": {
         "aozora": 12
       }

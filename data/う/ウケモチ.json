@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私の受け持ちのクラスは、みんな元気で活気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "各捜査官にはそれぞれ受け持ちの区域が割り当てられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この病棟は私の受け持ちです」と看護師が挨拶した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "文中の『大日本地誌』は、山崎直方佐藤伝蔵両氏の編で、地質地形等は両氏が受け持ち、部分的の地誌は、花袋らが分担記述していたのであった。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "担当",
+        "担任",
+        "持ち場"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "任務",
+        "責任"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.829469+00:00Z",
+      "updated_at": "2026-06-01T22:05:01.536224+00:00Z",
       "freq_rank": 35491,
       "frequencies": {
         "aozora": 83

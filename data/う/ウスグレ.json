@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薄暮れの川沿いを二人で歩きながら、互いの近況を語り合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "薄暮れ時、田んぼのあぜ道にトンボが群れをなして飛んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "薄暮れに染まった山並みを旅館の窓から眺め、旅の疲れをゆっくりとほぐした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「濡れるぞ、もつとこつちへ寄り給へ、情味は薄暮れの銀盤をゆくごとしだね」　私はかう言つて彼の方に余計に洋傘をさしかけながら、雨の路面を見た。",
@@ -157,14 +182,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄暮",
+        "黄昏",
+        "夕暮れ",
+        "夕方"
+      ],
+      "antonyms": [
+        "明け方",
+        "早朝"
+      ],
+      "related": [
+        "夕日",
+        "日没",
+        "時間",
+        "夜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.998865+00:00Z"
+      "updated_at": "2026-06-01T22:09:13.029250+00:00Z"
     }
   }
 ]

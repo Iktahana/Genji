@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "嘘をついて宿題をサボったので、先生の顔を見るのが後ろめたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "友人の成功を素直に喜べない自分に、少し後ろめたい気持ちがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ダイエット中なのにケーキを二つも食べてしまい、後ろめたさを感じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芳子は取りつく島のない想いの底に、何か後ろめたい気持を、ひやりと覗きながら、「銀ちゃんのことよ。",
@@ -277,14 +302,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "やましい",
+        "罪悪感がある",
+        "気がとがめる",
+        "忸怩たる",
+        "恥ずかしい"
+      ],
+      "antonyms": [
+        "やましくない",
+        "堂々とした",
+        "清廉な",
+        "潔白な"
+      ],
+      "related": [
+        "罪悪感",
+        "良心",
+        "後ろめたさ",
+        "恥",
+        "양심の呵責"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.937579+00:00Z",
+      "updated_at": "2026-06-01T22:08:54.371455+00:00Z",
       "freq_rank": 40250,
       "frequencies": {
         "aozora": 66

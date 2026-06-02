@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "事故で大怪我をしたが、幸い命に別状はなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "スキー中に転倒し、彼は足に大怪我を負った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大怪我から復帰するには、かなりのリハビリが必要だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "充実したつもりで空虚な隙間だらけの器物はあぶなく、有為なつもりの無能は常に大怪我の基である。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重傷"
+      ],
+      "antonyms": [
+        "軽傷"
+      ],
+      "related": [
+        "負傷",
+        "事故",
+        "治療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.731401+00:00Z"
+      "updated_at": "2026-06-02T01:15:03.276578+00:00Z"
     }
   }
 ]

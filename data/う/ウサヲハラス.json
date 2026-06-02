@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "買い物をして憂さを晴らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動をして心の憂さを晴らす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "好きな本を読んで仕事の憂さを晴らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "漫画は学生や大学院連中の中での器用な人が描くことになっていて、その種にはその一年間の先生方の秘話や失敗談が選ばれるので、まあ悪太郎連が一年の憂さを晴らすというわけである。",
@@ -54,14 +79,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "気晴らしをする",
+        "遊ぶ",
+        "ストレス解消する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "憂さ",
+        "晴らす",
+        "気分転換"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.873508+00:00Z"
+      "updated_at": "2026-06-01T22:07:27.054977+00:00Z"
     }
   }
 ]

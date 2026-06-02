@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おっとりとした性格の彼女は万人に愛される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖母はおっとりとした歩き方で庭を散歩している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はおっとりとした喋り方が特徴だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大隅君は独り息子であるから、ずいぶん可愛がられて、十年ほど前にお母さんが死んで、それからは厳父は、何事も大隅君の気のままにさせていた様子で、謂わば、おっとりと育てられて来た人であって、大学時代にも、天鵞絨の襟の外套などを着て、その物腰も決して粗野ではなかったが、どうも、学生間の評判は悪かった。",
@@ -255,14 +280,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "穏やか",
+        "しとやか",
+        "優雅"
+      ],
+      "antonyms": [
+        "ぶっきらぼう",
+        "粗野"
+      ],
+      "related": [
+        "落ち着き",
+        "品格",
+        "温和"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.577505+00:00Z",
+      "updated_at": "2026-06-02T01:46:05.475819+00:00Z",
       "freq_rank": 29840,
       "frequencies": {
         "aozora": 237

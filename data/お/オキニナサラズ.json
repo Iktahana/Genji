@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「すみません、飲み物をこぼしてしまって…」「いえいえ、お気になさらず！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「準備が遅れて申し訳ありません」「いえ、お気になさらず。これから始めましょう」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「道を間違えて時間をとらせてごめん」「気にしないで、本当にお気になさらず」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お気になさらず、もらって下さい、とお願いして、先生も、よし、それでは、不自然でなかったら言ってみます、ほかの多数の人からずいぶん強く推されて居るのだから、不自然のこともなかろう、との御言葉いただき、帰途、感慨、胸にあふれるものございました。",
@@ -53,14 +78,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お気遣いなく",
+        "構わないで",
+        "大丈夫です",
+        "心配しないで"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "遠慮",
+        "気配り",
+        "謝罪",
+        "丁寧語",
+        "配慮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.462322+00:00Z"
+      "updated_at": "2026-06-02T01:22:15.887729+00:00Z"
     }
   }
 ]

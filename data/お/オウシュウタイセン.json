@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "欧州大戦の勃発により日本は日英同盟を根拠として参戦し、中国のドイツ権益地を接収した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "欧州大戦の惨禍を目の当たりにした各国指導者たちは、戦後処理のためにパリ講和会議を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は日記に「欧州大戦が終わったとの報せが届き、村中が安堵の声に包まれた」と書き残していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それらの多くは欧州大戦の疲弊が一時的に案出したものに過ぎず、芸術本来の要求に発したよりも芸術的スランプの救済要求に発したものと考ふべき理由がある。",
@@ -261,14 +286,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "第一次世界大戦"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "世界大戦",
+        "歴史",
+        "ヨーロッパ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.277756+00:00Z"
+      "updated_at": "2026-06-02T01:11:03.831806+00:00Z"
     }
   }
 ]

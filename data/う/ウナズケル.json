@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その判断には誰もが心から頷けるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の論理には思わず頷けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親の決断に子どもたちも頷けるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるべきもののある理由は、そのものになり切ったものにしてはじめて頷けるほど、深刻なものであるのであった。",
@@ -280,14 +305,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "納得",
+        "同意",
+        "承認"
+      ],
+      "antonyms": [
+        "否定",
+        "異議"
+      ],
+      "related": [
+        "頷く",
+        "理解"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.605589+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.444028+00:00Z",
       "freq_rank": 34103,
       "frequencies": {
         "aozora": 110

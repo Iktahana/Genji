@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "神社の参道は急な男坂と緩やかな女坂に分かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "毎日この男坂を駆け上がってトレーニングするのが日課だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "男坂の頂上から見下ろす街並みは絶景だが、登り切るにはかなりの体力が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "見霽へ上る、この男坂の百四段も、見たばかりで、もうもう慄然とする慄然とする、」　と重そうな頭を掉って、顔を横向きに杖を上げると、尖がぶるぶる震う。",
@@ -190,13 +215,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女坂"
+      ],
+      "related": [
+        "神社",
+        "寺",
+        "参道",
+        "石段",
+        "坂道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.756154+00:00Z",
+      "updated_at": "2026-06-02T01:50:39.356121+00:00Z",
       "frequencies": {
         "aozora": 21
       }

@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その質問に対して、彼はうんともすんとも言わない態度を貫いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "何を話しかけてもうんともすんとも言わないので、怒っているのだと思いました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが十郎兵衛、うんともすんとも言わない。",
@@ -54,14 +71,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "黙ったままだ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "沈黙",
+        "無反応",
+        "返事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.487206+00:00Z"
+      "updated_at": "2026-06-02T00:29:53.935563+00:00Z"
     }
   }
 ]

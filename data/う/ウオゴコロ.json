@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「先に魚心を見せれば、向こうも水心で返してくれるものだよ」と父はよく言っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は取引先に魚心を示すように手土産を持参し、交渉を円滑に進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "魚心を持って接すれば、頑固な相手もいつかは心を開いてくれると信じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "主膳がお小夜に一杯呑めと盃をさし、Ｔ「其方を番所へ引ッ立てるとは申さん」　と言って、Ｔ「其処は魚心あれば何とやら」　と言って、Ｔ「身共の一味に加わらぬか？",
@@ -261,14 +286,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "親切",
+        "思いやり"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感情",
+        "行為"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.670017+00:00Z",
+      "updated_at": "2026-06-01T22:01:35.608775+00:00Z",
       "frequencies": {
         "aozora": 69
       }

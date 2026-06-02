@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これがキャリアの大勝負だと覚悟している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大勝負に勝つためには最後まで諦めない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この大勝負の結果がすべてを決める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ピンが出るか、ゾロが出るか、生島屋の身上を目あてに賭けて張った大勝負でさあ」「なに、生島屋の身代……？",
@@ -165,14 +190,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大一番",
+        "決戦",
+        "乾坤一擲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "勝負",
+        "試合",
+        "賭け",
+        "緊迫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.838765+00:00Z"
+      "updated_at": "2026-06-02T01:16:10.956144+00:00Z"
     }
   }
 ]

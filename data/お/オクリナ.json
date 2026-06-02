@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "故人に贈り名が付けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "贈り名として『法心院殿』と記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仏教では贈り名の慣習が古くからある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "余は其風情ある後姿を見おくりながらかういふ閑寂の境地に豆や稗を作つて居る百姓は幸であると思つた。",
@@ -205,14 +230,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "謚号"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "死後",
+        "追号",
+        "名前"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.672551+00:00Z"
+      "updated_at": "2026-06-02T01:25:12.906871+00:00Z"
     }
   }
 ]

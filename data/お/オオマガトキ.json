@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大禍時には、見慣れた道もどこか異様な雰囲気に包まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古くから、大禍時は何が起こるか分からない危険な時間帯とされていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大禍時を過ぎたあたりで、森の中から奇妙な音が聞こえてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まだ電燈がついたばかり、太陽の残光と、電燈とが、お互に光を消し合っている、大禍時。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "黄昏時",
+        "夕暮れ",
+        "たそがれ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魔物",
+        "災い",
+        "時間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.069437+00:00Z"
+      "updated_at": "2026-06-02T01:18:00.101594+00:00Z"
     }
   }
 ]

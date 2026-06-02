@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部下の手柄を横取りし続けた上司は、やがて周囲の恨みを買うことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "正直に欠点を指摘したつもりが、かえって相手の恨みを買ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「人の恨みを買うような真似だけはするな」と父は口を酸っぱくして言い続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信長は、人を褒賞したり抜擢したりする点で、決して物吝しみする男ではないが、しかしそのあまりに率直な自信のある行動が自分の知らぬ裡に、人の恨みを買うように出来ている。",
@@ -142,14 +167,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "反感を買う",
+        "憎まれる"
+      ],
+      "antonyms": [
+        "恩を売る"
+      ],
+      "related": [
+        "恨み",
+        "対立"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.036222+00:00Z"
+      "updated_at": "2026-06-02T00:26:09.500804+00:00Z"
     }
   }
 ]

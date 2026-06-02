@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏は薄物の衣類に買い替えた方が、涼しく過ごせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "麻の薄物で仕立てた帯が、この帯締めに合う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このコットンの薄物は、透け感があって上品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "更衣野路の人はつかに白し　春着を脱いで夏の薄物にかえる更衣の頃は、新緑初夏の候であって、ロマンチックな旅情をそそる季節である。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄衣"
+      ],
+      "antonyms": [
+        "厚物"
+      ],
+      "related": [
+        "衣服",
+        "生地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.037254+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.940051+00:00Z",
       "freq_rank": 11439,
       "frequencies": {
         "aozora": 59

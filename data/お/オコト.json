@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「それはおこと、全く関係ないじゃないか」と彼は怒った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「おこと、本当に何を考えているんだ」と友人が問い詰めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「これからはおこと次第だよ」と上司が重要な書類を渡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御事情は私が見貫いております。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "あなた",
+        "貴方",
+        "お方"
+      ],
+      "antonyms": [
+        "私",
+        "僕",
+        "わたし"
+      ],
+      "related": [
+        "相手",
+        "敬語",
+        "二人称"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.763523+00:00Z"
+      "updated_at": "2026-06-02T01:26:35.568321+00:00Z"
     }
   }
 ]

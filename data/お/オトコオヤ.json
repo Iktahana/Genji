@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "男親として子どもに何ができるか、彼は毎晩仕事から帰りながら考え続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男親がいない家庭で育った彼女は、父親像を身近に感じる機会が少なかったと振り返る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男親としての威厳を保ちながらも、息子とはできるだけ対等に話し合うよう心がけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが親は男親か女親か認識しなかった。",
@@ -269,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "父親",
+        "父"
+      ],
+      "antonyms": [
+        "母親",
+        "女親"
+      ],
+      "related": [
+        "親",
+        "親父"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.737476+00:00Z",
+      "updated_at": "2026-06-02T01:49:23.413917+00:00Z",
       "frequencies": {
         "aozora": 72
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "締め切りを過ぎた応募書類は一切受け付けないと要項に明記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市役所の窓口は書類に不備があると受け付けてくれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オンラインフォームは添付ファイルが10MBを超えると受け付けないよう設定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どこの店も口を揃えて、注文は受け付けるが、この鉛筆はよくある品番ではなく、めったに在庫していないとのこと。",
@@ -145,7 +170,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "術後しばらくは胃が弱っていて、固形食をまったく受け付けなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二日酔いの翌朝は水以外に何も体が受け付けない状態だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "妊娠初期のつわりで、好物の魚料理さえ受け付けなくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -163,21 +213,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい防水コーティングを施した布地は雨水をまったく受け付けなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "湿度の高い環境では木材が水分を受け付けて膨張しやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "頑固な父はどんな説得も受け付けず、縁談を断り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "受け入れる",
+        "受け取る",
+        "引き受ける",
+        "認める"
+      ],
+      "antonyms": [
+        "断る",
+        "拒否する",
+        "拒む",
+        "突き返す"
+      ],
+      "related": [
+        "受付",
+        "応じる",
+        "対応",
+        "許可",
+        "承認"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.812946+00:00Z",
+      "updated_at": "2026-06-01T22:04:49.809210+00:00Z",
       "freq_rank": 25712,
       "frequencies": {
         "aozora": 57

@@ -38,6 +38,22 @@
             {
               "text": "動画をうｐするのに時間がかかりました。",
               "source": "幻辞"
+            },
+            {
+              "text": "さっき撮ったばかりの動画を、すぐに動画サイトにうｐしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ネットに写真をうｐする前に、個人情報が写っていないか確認してくださいね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
             }
           ],
           "literary": [
@@ -255,14 +271,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "アップロード",
+        "投稿",
+        "送信"
+      ],
+      "antonyms": [
+        "ダウンロード",
+        "受信"
+      ],
+      "related": [
+        "うぷ主",
+        "動画",
+        "ファイル",
+        "インターネット",
+        "共有"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T23:50:45.445405+00:00Z"
     }
   }
 ]

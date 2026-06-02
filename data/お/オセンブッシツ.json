@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大気中の汚染物質が国民の健康を脅かしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この食品に有害な汚染物質が含まれていないか検査された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "環境基準の汚染物質濃度を毎週測定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前にも言ったように、コレラ発生のときの水は有機的性質の汚染物質を含んでいて、裸眼でもよく見ると小さな白っぽい羊毛状のかたまりが存在した。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "汚染物",
+        "有害物質"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "汚染",
+        "環境",
+        "化学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.237998+00:00Z"
+      "updated_at": "2026-06-02T01:35:47.287701+00:00Z"
     }
   }
 ]

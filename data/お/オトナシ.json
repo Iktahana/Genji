@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "嵐が過ぎ去った後の音なしの中、彼はゆっくりと瓦礫をかき分けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会議室に音なしが訪れた瞬間、誰もが互いの顔を見合わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夜半過ぎ、街は音なしに包まれ、遠くで犬の鳴き声だけが聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "四辺の林もしばしはこの青年に安き眠りを借さばやと、枝頭そよがず、寂として音なし。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "沈黙",
+        "無音",
+        "静寂"
+      ],
+      "antonyms": [
+        "騒音"
+      ],
+      "related": [
+        "静けさ",
+        "無言",
+        "音",
+        "静止"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.868257+00:00Z",
+      "updated_at": "2026-06-02T02:00:40.783494+00:00Z",
       "freq_rank": 39842
     }
   }

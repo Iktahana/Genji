@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空高く、尾白鷲が雄大に翼を広げて旋回している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "冬の湖畔で、獲物を狙う尾白鷲をカメラに収めることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "絶滅危惧種である尾白鷲の保護活動が現地で進められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "樺太の山中にて尾白鷲眼を放つ梢には横雲の縹雲ほのあかりぬ。",
@@ -47,14 +72,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鷲",
+        "猛禽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥類",
+        "肉食鳥",
+        "希少種"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.157825+00:00Z",
+      "updated_at": "2026-06-02T01:33:49.188835+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は自分が周りに嫌われていると思いなして、誰とも口をきかなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "何でも悪い方向に思いなすのは、心が疲れているサインかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "相手が怒っていると思いなして謝ったが、実はただ疲れていただけだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）そうしてかいて見ようと思いなすったの。",
@@ -262,14 +287,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "思い込む",
+        "確信する",
+        "信じ込む"
+      ],
+      "antonyms": [
+        "疑う",
+        "疑念を持つ"
+      ],
+      "related": [
+        "思い込み",
+        "確信",
+        "信念",
+        "固執",
+        "先入観"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.924934+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.984068+00:00Z",
       "frequencies": {
         "aozora": 114
       }

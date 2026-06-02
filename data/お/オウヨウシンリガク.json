@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "臨床現場では、応用心理学の知識が患者とのコミュニケーションに役立つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は応用心理学を学び、組織内の人間関係改善に取り組んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この研究は、スポーツ選手のメンタル強化に応用心理学的手法を取り入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただいずれの場合においても応用心理学の方でよく研究されている「証言の心理」「追憶の誤謬」に関する十分の知識を基礎としてそれらの資料の整理をしなければならないことはもちろんであるが、しかし整理は百年の後でも出来る。",
@@ -62,13 +87,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "基礎心理学"
+      ],
+      "related": [
+        "心理学",
+        "社会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.499181+00:00Z"
+      "updated_at": "2026-06-02T01:13:07.251735+00:00Z"
     }
   }
 ]

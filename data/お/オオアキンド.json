@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の大商人は幕府とのつながりを持ち、莫大な富を築いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の先祖は大坂を代表する大商人で、その屋敷は今も保存されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大商人として成功した彼は、地域の学校建設に私財を投じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仕上り二年間の見積の処が、一年と持たず、四月五月といううちから、職人の作料工賃にも差支えが出来たんですって、――それがだわね、……県庁の息が掛って、つなぎの資本をおろしていた大商人が、相場か何かで、がらがらと来て、美術工業の奨励、県庁のためどころではなくなったんです。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "商人",
+        "豪商"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "商業",
+        "商売",
+        "富"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.554956+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.331225+00:00Z",
       "frequencies": {
         "aozora": 77
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "法事の席には、遠方に住んでいる親族たちも久しぶりに全員集まって賑やかだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い家系図を調べてみると、意外な歴史上の人物が私たちの親族であることが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は親族の強い勧めもあって、故郷に戻って家業を継ぐ決心を固めたようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "卒業の時恩賜を貰つて自分と母との前でそれを出してみせた親族の男の顔が浮んでゐた。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "血縁",
+        "親戚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "家族",
+        "身内"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.711766+00:00Z",
+      "updated_at": "2026-06-01T22:03:01.877385+00:00Z",
       "freq_rank": 8422,
       "frequencies": {
         "aozora": 617

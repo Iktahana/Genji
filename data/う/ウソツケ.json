@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「昨日は一日中勉強してたんだ」「嘘つけ、ずっとゲームのログイン通知が来てたぞ」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「俺は一度も浮気したことないよ」「嘘つけ！この前のレシートは何なのよ」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「世界一周旅行に行くんだ」「嘘つけ、パスポートすら持ってないだろ」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……嘘つけッ」　「だって……昨夜俺がお前の事話したら、おっ母ァが云ったよ。",
@@ -279,14 +304,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "嘘をつくな",
+        "そんなはずない",
+        "まさか"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "嘘",
+        "疑い",
+        "感動詞",
+        "否定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.101978+00:00Z"
+      "updated_at": "2026-06-01T22:13:28.972245+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不手際が続いたため、お客さまからお見限りを受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "商品の品質低下がお見限りの原因となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お見限りを取り戻すために改善努力を続ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてその客の親疎によって、「あなた大層お見限りで」とか、「どうなすったの、鼬の道はひどいわ」とか云いながら、左の手で右の袂を撮んで前に投げ出す。",
@@ -189,14 +214,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見放す",
+        "打ち切り"
+      ],
+      "antonyms": [
+        "継続",
+        "支持"
+      ],
+      "related": [
+        "顧客",
+        "商売"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.736679+00:00Z"
+      "updated_at": "2026-06-02T02:20:35.371585+00:00Z"
     }
   }
 ]

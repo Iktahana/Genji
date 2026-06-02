@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武士の落とし子として世に出ることは難しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "落とし子の身分では跡継ぎになることはできない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その人物が大名の落とし子であることは周知の事実だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ふぐ、きす、かまきり、たつの落とし子などに似た人さえある。",
@@ -168,21 +193,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦争の落とし子として生まれた子どもたち。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "混乱の落とし子である犯罪が増加している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この状況は過去の失敗の落とし子だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "隠し子",
+        "私生児",
+        "庶子",
+        "非嫡出子"
+      ],
+      "antonyms": [
+        "嫡子",
+        "嫡出子",
+        "正嫡"
+      ],
+      "related": [
+        "落胤",
+        "落とし胤",
+        "庶子",
+        "隠し子",
+        "私生児",
+        "貴族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.824969+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.237822+00:00Z",
       "frequencies": {
         "aozora": 7
       }

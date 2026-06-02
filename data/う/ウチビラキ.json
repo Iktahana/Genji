@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このドアは内開きなので、廊下に人が立っているときは注意して開けてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "消防法では避難口の扉を外開きにする規定があり、内開きは認められない場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "窓が内開きの設計になっていて、掃除がしやすいと感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは内開きで、奥には虫食いだらけの側板で仕切られた回廊が薄暗い光を浴びて見えた。",
@@ -45,14 +70,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内開き扉",
+        "押し開き"
+      ],
+      "antonyms": [
+        "外開き",
+        "引き戸"
+      ],
+      "related": [
+        "扉",
+        "ドア",
+        "開閉",
+        "建具",
+        "蝶番",
+        "引き戸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.322863+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.034208+00:00Z",
       "frequencies": {
         "aozora": 1
       }

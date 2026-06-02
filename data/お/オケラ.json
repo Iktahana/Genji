@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢方医学では朮が重要な生薬として使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "庭に朮を育てて、根を乾燥させて保存している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朮の根は独特の香りがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "有名な「千葉笑ひ」、京都五条天神の「朮参り」の悪口、河内野崎参りの水陸の口論、各地にあつたあくたい祭りは、皆かうした所に本筋の源があるのではなからうか。",
@@ -279,14 +304,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "白朮",
+        "蒼朮"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "八坂神社",
+        "おけら参り",
+        "生薬",
+        "キク科",
+        "山菜",
+        "薬草"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.727504+00:00Z",
+      "updated_at": "2026-06-02T01:25:40.780596+00:00Z",
       "frequencies": {
         "aozora": 7
       }

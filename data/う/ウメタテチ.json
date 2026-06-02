@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その埋め立て地には高層マンションが次々と建ち並んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地震の際、埋め立て地では液状化が起きやすいと専門家が警告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "幼い頃に遊んだ海は今では埋め立て地になって、面影もない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人々が集まって来て楽しむことの出来る、海辺の広々とした公園がオアフには必要だ、という発想にもとづいて周辺の海底が浚渫され、湿地帯は埋め立て地へと変わった。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "埋立地"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "土地",
+        "干拓",
+        "造成地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.867789+00:00Z"
+      "updated_at": "2026-06-02T00:22:27.238164+00:00Z"
     }
   }
 ]

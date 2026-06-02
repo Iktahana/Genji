@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "丑三つに鳴き声が聞こえたと隣の老婆が言い張るが、誰も信じなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "火事の通報が入ったのは丑三つで、消防士たちは眠い目をこすりながら出動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "丑三つに廊下を歩く音がして目が覚め、恐る恐るドアを開けると飼い猫が座っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "平気で読経し居ると、丑三つ頃、表の戸を敲きデンデンコロリ様はお内にかという者あり。",
@@ -128,21 +153,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "時代小説の中で盗人は丑三つを狙って忍び込み、眠り薬で番犬をおとなしくさせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "江戸の夜、丑三つを告げる辻番の声が静まり返った町に響いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "丑三つは深夜二時から二時半ごろに当たり、夜警の交代が最も眠い時間帯でもあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "丑三つ時",
+        "真夜中"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "時間",
+        "夜",
+        "深夜",
+        "十二支"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.914218+00:00Z",
+      "updated_at": "2026-06-01T22:08:37.799603+00:00Z",
       "frequencies": {
         "aozora": 13
       }

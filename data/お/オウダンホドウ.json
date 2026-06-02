@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供たちが安全に道を渡れるよう、学校の前に新しい横断歩道が設置された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "信号機のない横断歩道では、車が一時停止する義務がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は急いでいたが、きちんと横断歩道を渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "見りゃ、わかるだろうが」　高志は、ばかばかしそうに、横断歩道のむこうに見える「ＩＳＥＺＡＫＩ　ＣＨＯ」と書かれた、骨組だけの塔のようなものを、アゴでしゃくって示した。",
@@ -245,14 +270,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ゼブラゾーン",
+        "横断帯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "信号機",
+        "道路",
+        "歩行者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.369832+00:00Z"
+      "updated_at": "2026-06-02T01:11:48.121734+00:00Z"
     }
   }
 ]

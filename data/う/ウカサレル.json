@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "川の急流に浮かされて、必死に岸を目指した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "爆発の衝撃で浮かされた瓦礫が落ちてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "溺れた人は救助隊に浮かされて、岸に運ばれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熱に浮かされるような恐ろしい生活の中で小さいゴーリキイの心は自分や他人の受ける侮蔑、苦痛に対して鋭く痛み、人間の生活についての観察を学び、一生を通じて彼の特質をなした真理を求める熱情が既に目覚め始めたのである。",
@@ -118,14 +143,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "魅了される",
+        "夢中になる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "浮かれる",
+        "興奮する"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.697453+00:00Z"
+      "updated_at": "2026-06-01T22:03:01.866410+00:00Z"
     }
   }
 ]

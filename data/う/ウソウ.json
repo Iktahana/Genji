@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "迂叟の若かりし頃は、今の若者など足元にも及ばぬほど働いたものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "これといった取柄もない迂叟ですが、どうか末永くお見知りおきを。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "迂叟のような隠居の身には、この静かな夕暮れ時が何よりの馳走です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして自分の実際の身長よりも二寸くらい低く言うそうである。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "私",
+        "自分",
+        "拙者",
+        "愚生"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "一人称",
+        "謙称",
+        "老人語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.089009+00:00Z"
+      "updated_at": "2026-06-01T22:13:28.967033+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い土蔵の壁に大釘が一本打たれていて、そこに農具が掛けられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "解体作業中に床板から大釘が飛び出していて、危うく踏んでしまうところだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "棟梁は大釘を木槌で一気に打ち込み、梁をしっかりと固定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その上から帆布を当てがって、片っ方から順々に大釘で止めて行く……最後に残った一尺四方ばかりの穴から猛烈に走り込む水を、針金に押し当てがった帆布で巧みにアシライながら遮り止めてしまった。",
@@ -125,14 +150,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "釘"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "工具",
+        "建築"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.713750+00:00Z"
+      "updated_at": "2026-06-02T01:14:42.913417+00:00Z"
     }
   }
 ]

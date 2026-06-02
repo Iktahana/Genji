@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大阪夏の陣で豊臣秀頼が自害し、豊臣家は滅亡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "歴史の授業で大阪夏の陣の合戦図を見て、その激しさに息を呑んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「大阪夏の陣の後、徳川の天下が完全に固まったんだよ」と祖父が孫に語り聞かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大阪夏の陣、豊臣氏滅亡の元和元年より現在まで約三百三十年の間に、約六十回の凶作があつたのである。",
@@ -86,14 +111,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "夏の陣"
+      ],
+      "antonyms": [
+        "大阪冬の陣"
+      ],
+      "related": [
+        "豊臣秀頼",
+        "徳川家康",
+        "大坂城",
+        "江戸幕府"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.799274+00:00Z"
+      "updated_at": "2026-06-02T01:15:50.017111+00:00Z"
     }
   }
 ]

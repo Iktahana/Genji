@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ガソリンのオクタン数が高いほど、エンジンのノッキングが少ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はオクタンの構造について説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この燃料はオクタン98の高品質なガソリンです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高オクタン価八〇くらいの、おそらく航空用燃料としたら空前のやつが、あの地下には無尽蔵にあるのです」　見えない魔焔の正体が各国ともあせっている、高オクタン価の良質油とは。",
@@ -199,12 +224,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オクタン価",
+        "炭化水素",
+        "石油",
+        "ガソリン",
+        "アルカン",
+        "化学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.568024+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.171135+00:00Z",
       "frequencies": {
         "aozora": 27
       }

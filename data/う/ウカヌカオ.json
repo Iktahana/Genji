@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "廊下で会った課長は終始浮かぬ顔で、プロジェクトの先行きが不安になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "デート中だというのに彼女が浮かぬ顔をしていたので、何か怒らせたかと冷や冷やした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "辞令を受け取った後の彼の浮かぬ顔を見て、転勤が本意ではないのだと悟った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」先生は、浮かぬ顔をしてそう言った。",
@@ -270,14 +295,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "浮かない顔",
+        "沈んだ顔"
+      ],
+      "antonyms": [
+        "晴れやかな顔",
+        "笑顔"
+      ],
+      "related": [
+        "憂鬱",
+        "不機嫌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.705584+00:00Z"
+      "updated_at": "2026-06-01T22:03:01.871874+00:00Z"
     }
   }
 ]

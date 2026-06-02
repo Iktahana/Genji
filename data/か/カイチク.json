@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "老朽化した校舎を改築して、耐震基準を満たす新しい建物に生まれ変わらせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "実家を改築するにあたり、建築士に間取りの相談をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "店舗を改築している間は仮店舗での営業となりますので、ご了承ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男　新聞に拠ると、いよいよ改築を修了せんとする、日本の、ドレスデン街さ。",
@@ -199,14 +224,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "改修",
+        "改装",
+        "修繕",
+        "リノベーション"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "建築",
+        "建物",
+        "工事",
+        "修理",
+        "建設"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:17:56.199009+00:00Z",
       "freq_rank": 14502,
       "frequencies": {
         "aozora": 275

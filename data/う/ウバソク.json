@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寺院の説法会では、優婆塞が献金して仏の道を支えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "優婆塞としての彼の信仰心は、毎日の瞑想に表れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このお堂を守っているのは、数人の優婆塞たちである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現世利益だけが目的じゃなかった」　とほめて、優婆塞が行なふ道をしるべにて来ん世も深き契りたがふな　とも言った。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "信者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "信仰",
+        "修行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.657631+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.502437+00:00Z",
       "frequencies": {
         "aozora": 99
       }

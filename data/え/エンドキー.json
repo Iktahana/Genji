@@ -31,7 +31,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長い文書を編集するとき、エンドキーとHomeキーを交互に使うと効率がよい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "テンキーレスのキーボードを買ったらエンドキーの位置が変わっていて、最初は戸惑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -40,12 +57,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キーボード",
+        "ホームキー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.678678+00:00Z"
+      "updated_at": "2026-06-02T01:05:18.351822+00:00Z"
     }
   }
 ]

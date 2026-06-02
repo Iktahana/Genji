@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "圧倒的な実力差を見せつけ、ライバル校を完膚なきまでに打ち負かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自分の弱さを打ち負かすことが、真の強さへの第一歩だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼はチェスの対局で、世界チャンピオンを鮮やかに打ち負かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は家中の若｜武士と槍を合わし、剣を交じえ、彼らを散々に打ち負かすことによって、自分の誇りを養う日々の糧としていたのであった。",
@@ -141,14 +166,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "負かす",
+        "倒す",
+        "打ち破る"
+      ],
+      "antonyms": [
+        "勝つ"
+      ],
+      "related": [
+        "戦闘",
+        "競争",
+        "敗北"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.333096+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.068534+00:00Z",
       "frequencies": {
         "aozora": 108
       }

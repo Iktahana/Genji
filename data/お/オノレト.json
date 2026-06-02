@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "何もしなければ、己とこの状況は変わることはない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "時間が経つだけでは、己とそれが解決することはあり得ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "努力なしに結果が生まれることはなく、己と困難は常に重くのしかかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「自己以外のものと争ふことは修辞を作り、自己と争ふことは詩を作る」（三六・一〇・五）",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "自分で",
+        "独りで"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "自助",
+        "単独"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.200269+00:00Z"
+      "updated_at": "2026-06-02T02:04:31.054389+00:00Z"
     }
   }
 ]

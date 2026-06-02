@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "贈り物を風呂敷で丁寧に上包みし、相手の家を訪ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大切な書類が濡れないよう、厚手の紙で上包みを施す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "弁当箱の上包みを解くと、中から美味しそうな香りが漂った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小菊にて上包みせる緋塩瀬の紙入れを開きて、渠はむぞうさに半円銀貨を投げ出だせり。",
@@ -141,14 +166,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "外装",
+        "カバー",
+        "包み紙"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "包装",
+        "梱包",
+        "贈答",
+        "封筒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.319552+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.856736+00:00Z",
       "frequencies": {
         "aozora": 12
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鈴木梅太郎博士が発見したオリザニンは、後のビタミンB1と同一の物質だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史の教科書で、米ぬかから抽出されたオリザニンの話を知って驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつて脚気予防の画期的な発見として、オリザニンは世界中で注目された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今は、カフェー・ライオン、八十四銀行、三共のオリザニン、山崎洋服店がこの四角に陣取っている。",
@@ -255,12 +280,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ビタミンB1",
+        "鈴木梅太郎",
+        "米"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:24:55.515397+00:00Z",
       "frequencies": {
         "aozora": 43
       }

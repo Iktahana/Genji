@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "往年の名選手がグラウンドに登場し、スタンドから大きな拍手が沸き起こった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は往年の活気を取り戻そうと、商店街の再活性化に尽力している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "往年の輝きは失われたものの、その建物には歴史の重みが感じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マルシャル橋や王宮橋から毎日のように眺め見下ろしたスプレーの濁り水に浮ぶ波紋を後年映画「ベルリン」の一場面で見せられたときには、往年の記憶が実になまなましく甦って来るのを感じたのであった。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "過去",
+        "かつて",
+        "往時"
+      ],
+      "antonyms": [
+        "現在",
+        "未来",
+        "将来"
+      ],
+      "related": [
+        "回想",
+        "昔"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.417968+00:00Z",
+      "updated_at": "2026-06-02T01:12:23.504080+00:00Z",
       "freq_rank": 21830,
       "frequencies": {
         "aozora": 299

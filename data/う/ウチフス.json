@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "忍者は身分を打ち伏し、農民として村に紛れ込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "武士は素性を打ち伏したまま、敵の城下町を歩き回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は旅の僧侶として打ち伏し、国境をひそかに越えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "濛々とする秣草のほこりに噎せ反つて、私は眼や鼻腔をおさへたまゝ枯草の中へ打ち伏すのであつた。",
@@ -80,21 +105,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "疲れ果てた旅人は宿に着くやいなや、床に打ち伏した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "激しい腹痛に見舞われ、彼は畳の上に打ち伏したまま動けなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "悲しみに耐えかねた彼女はベッドに打ち伏して泣き崩れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "身を伏せる",
+        "潜伏する",
+        "うつ伏せになる"
+      ],
+      "antonyms": [
+        "起き上がる"
+      ],
+      "related": [
+        "伏せる",
+        "隠れる",
+        "横たわる",
+        "姿勢",
+        "潜む"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.323118+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.034530+00:00Z",
       "frequencies": {
         "aozora": 31
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の絵本で、陸蒸気が走る様子を見て不思議に思った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "明治時代の小説には、よく陸蒸気の話題が登場する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつての人々にとって、陸蒸気は近代化の象徴だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "むしろ彼等は、西洋の陸蒸気に乗って旅することを、無限の詩的に考えていた。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "蒸気機関車",
+        "汽車",
+        "steam locomotive"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "明治",
+        "鉄道",
+        "蒸気船",
+        "汽船",
+        "文明開化",
+        "鉄道馬車"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.244890+00:00Z",
+      "updated_at": "2026-06-02T01:20:15.443585+00:00Z",
       "frequencies": {
         "aozora": 5
       }

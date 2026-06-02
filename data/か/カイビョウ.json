@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は父親の介病のために会社を一時休職し、病院と自宅を行き来する日々を過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母親が床に伏してから、長女が仕事を続けながら介病を一手に引き受けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遠方に住む親族が介病のために上京し、交代で病室に付き添いながら看護にあたった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鈴木桂介病休と思ひしに泥酔の上けんかして拘留中とあり、保証金持たしてやる。",
@@ -48,14 +73,20 @@
       "homophones": [
         "怪猫"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "看病",
+        "介護"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "患者",
+        "看護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.738066+00:00Z"
+      "updated_at": "2026-06-02T03:26:19.689722+00:00Z"
     }
   },
   {
@@ -88,7 +119,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の読本には、人を化かす怪猫が夜ごと老婆に化けて旅人を惑わすという話が収められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "歌舞伎の「怪猫もの」と呼ばれる演目では、巨大な怪猫が舞台を縦横に動き回る迫力ある場面が見どころだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は幼い頃に山中で出会った怪猫の話をよく語り、その目が人間のように光っていたと言い張った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そ、それが五分と間がない、目も鼻も口も一所に、僕の顏とぴつたりと附着きました、――あなたのお住居の時分から怪猫が居たんでせうか……一體猫が大嫌ひで、いえ可恐いので。",
@@ -322,9 +378,14 @@
       "homophones": [
         "介病"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "化け猫"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "怪物",
+        "妖怪"
+      ]
     },
     "meta": {
       "version": "1.0.0",

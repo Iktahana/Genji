@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "起き抜けのコーヒーが、一日を始める活力になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "寝ぼけた頭で、起き抜けに冷たい水を一杯飲んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は起き抜けにすぐスマホを確認する癖がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "翌朝、起き抜けに、Ｂの細君はＡに案内を頼んで、浜辺へ散歩に出た。",
@@ -261,14 +286,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "寝起き",
+        "起きてすぐ",
+        "目覚め"
+      ],
+      "antonyms": [
+        "寝がけ",
+        "就寝前"
+      ],
+      "related": [
+        "朝",
+        "睡眠",
+        "覚醒",
+        "早朝",
+        "身支度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.461965+00:00Z",
+      "updated_at": "2026-06-02T01:22:15.888992+00:00Z",
       "frequencies": {
         "aozora": 25
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験に運任せで臨むべきではなく、十分な準備が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はいつも運任せで人生を歩んでいるように見えるが、実は準備を重ねている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運任せという態度は無責任であり、避けるべき考え方だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それゆえわたくしはたゞ運任せに眺めて行こうといたします。",
@@ -79,14 +104,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運否天賦"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運",
+        "偶然"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.558329+00:00Z",
+      "updated_at": "2026-06-02T00:30:01.990901+00:00Z",
       "frequencies": {
         "aozora": 5
       }

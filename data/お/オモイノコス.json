@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「何も思い残すことはない」と、彼は穏やかな表情で言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "病床の祖母は、息子の結婚式を見られなかったことを思い残しているようだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "海外赴任の前に思い残すことがないよう、旧友たちと食事の席を設けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最早や思い残すことのない父親は、やがて、エンゼルの姿をした二人の息子に手をとられて色とりどりの麗わしい花園を歩いている夢を見ながら、天国へ去りました。",
@@ -262,14 +287,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "心残りにする",
+        "未練を残す",
+        "後悔する"
+      ],
+      "antonyms": [
+        "思い切る",
+        "思い残さない"
+      ],
+      "related": [
+        "未練",
+        "後悔",
+        "心残り",
+        "悔い",
+        "思い切り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.926340+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.985143+00:00Z",
       "frequencies": {
         "aozora": 95
       }

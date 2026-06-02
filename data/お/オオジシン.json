@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その大地震の後、街の風景は一変してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "過去の大地震の教訓を活かして、耐震工事を徹底した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "テレビで流れた大地震の映像を見て、胸が締め付けられる思いがした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "英独仏などの科学国の普通教育の教材にはそんなものはないと云う人があるかもしれないが、それは彼地には大地震大津浪が稀なためである。",
@@ -271,14 +296,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大震災",
+        "大激震"
+      ],
+      "antonyms": [
+        "小地震",
+        "微震"
+      ],
+      "related": [
+        "地震",
+        "災害",
+        "揺れ",
+        "防災"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.849698+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.959005+00:00Z",
       "frequencies": {
         "aozora": 832
       }

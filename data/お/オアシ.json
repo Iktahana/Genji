@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅に出るにもお足がなければどうにもならないと、財布の中身を見て嘆いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「少しお足を貸してもらえないか」と友人に頼んだが、やんわり断られてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "お足がたまったら、いつか本物の一眼レフカメラを買おうと決めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「お足袋が泥だらけになりました、直き其処でござんすから、ちょいとおいすがせ申しましょう。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お金",
+        "金銭"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "貨幣",
+        "通貨",
+        "稼ぎ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.971265+00:00Z",
+      "updated_at": "2026-06-02T01:08:05.717303+00:00Z",
       "frequencies": {
         "aozora": 1
       }

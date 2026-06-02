@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お寺様が到着されたので、ご挨拶をお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お寺様から貴重なお話を伺うことができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "法要の前に、お寺様に心づけをお渡しする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御門跡様を初めお寺様のお言葉の真実が、身にヒシヒシと感ぜられた。",
@@ -141,14 +166,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "僧侶",
+        "坊主",
+        "僧",
+        "法師",
+        "住職"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寺",
+        "寺院",
+        "仏教",
+        "修行",
+        "説法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.656163+00:00Z"
+      "updated_at": "2026-06-02T01:46:52.061339+00:00Z"
     }
   }
 ]

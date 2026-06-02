@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女には男っ気がなく、いつも控えめだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの店員は男っ気があって、客からも信頼されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新入社員の田中さんには男っ気がでてきたね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男っ気のない生活で仕事が出来るのは、それ丈強い肉感性を意味する。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男気"
+      ],
+      "antonyms": [
+        "女気"
+      ],
+      "related": [
+        "男らしさ",
+        "存在感",
+        "気配",
+        "雰囲気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.763773+00:00Z",
+      "updated_at": "2026-06-02T01:50:39.360473+00:00Z",
       "frequencies": {
         "aozora": 3
       }

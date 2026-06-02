@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園の爬虫類館で大トカゲが日光浴をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "アフリカ原産の大トカゲは体長が2メートルに達することもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "探検隊は密林で大トカゲの足跡を発見した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは普通南洋諸島で香料をとる種類の大トカゲとは違ふのであるが、研究の材料として重要なものと考へた。",
@@ -280,14 +305,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "モニター"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "トカゲ",
+        "爬虫類",
+        "生物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.950572+00:00Z"
+      "updated_at": "2026-06-02T01:17:06.290635+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "階建表示で5階建の新しいビルが、駅前に完成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域には、7階建以上の建物は建築できないという規制がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "階建によって、かかる建築費用が大きく変わってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "北の二階建の方では見知りの町の人たちや富沢先生だ富沢先生だとか云って囁き合ってゐる村の人たち、南の診察室や手術室のある棟には十三才の聖女テレジアといった風の見習ひの看護婦たちが行ったり来たりしてゐたし、それにおれはおれの創造力に充分な自信があった。",
@@ -281,12 +306,19 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "階数",
+        "建物",
+        "マンション",
+        "ビル",
+        "構造",
+        "フロア"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.547279+00:00Z"
+      "updated_at": "2026-06-02T03:14:41.586558+00:00Z"
     }
   },
   {
@@ -319,7 +351,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "外国為替取引で買い建てのポジションを持つことは、リスクを伴う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "投資家は買い建てから売却へと、戦略を切り替えることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "買い建ての時期を間違えると、大きな損失につながる可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでも刃向かいだていたされるか」　しかるに、向こう見ずなやつがあればあるものでした。",
@@ -361,9 +418,24 @@
       "homophones": [
         "階建"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "買いポジション",
+        "ロングポジション",
+        "買いポジ"
+      ],
+      "antonyms": [
+        "売り建て",
+        "売りポジション",
+        "ショートポジション"
+      ],
+      "related": [
+        "先物取引",
+        "信用取引",
+        "株式",
+        "ポジション",
+        "買い越し",
+        "投資"
+      ]
     },
     "meta": {
       "version": "1.0.0",

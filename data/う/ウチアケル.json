@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は親友に、長い間誰にも言えなかった秘密をとうとう打ち明けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ずっと悩んでいたことがあるんだ」と彼女は静かに打ち明けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医師に症状を打ち明けると、思ったより深刻な状態だと告げられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それをお前にかうして打ち明ける、お前の心を亂だす、お前の胸を苦しめる。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "打ち明かす",
+        "告白する",
+        "白状する",
+        "暴露する"
+      ],
+      "antonyms": [
+        "隠す",
+        "秘密にする"
+      ],
+      "related": [
+        "秘密",
+        "信頼",
+        "親友"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.188562+00:00Z",
+      "updated_at": "2026-06-01T22:14:02.250151+00:00Z",
       "freq_rank": 31197,
       "frequencies": {
         "aozora": 1755

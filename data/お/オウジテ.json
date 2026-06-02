@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "成果に応じて報酬が増える仕組みになっているので、みんなやる気を出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "天候に応じて、遠足のコースを山から水族館に変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "状況に応じて柔軟に対応することが、今のプロジェクトには不可欠だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東京｜帝国大学の招聘に応じて、松江や熊本の地を去ったことも、同じくヘルンの身にとっては、愛する妻への献身的な犠牲だった。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "従って"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "応える",
+        "対応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.311821+00:00Z"
+      "updated_at": "2026-06-02T01:13:36.866793+00:00Z"
     }
   }
 ]

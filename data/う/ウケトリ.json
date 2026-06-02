@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物の受け取りには印鑑かサインが必要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "願書の受け取り期間は今月末までとなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓口でチケットの受け取りを済ませる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんなもの要らないと私たちは思いましたが役人がまたまじめになって恐くなりましたからだまって受け取りました。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "受領",
+        "受信",
+        "受諾"
+      ],
+      "antonyms": [
+        "送付",
+        "発送",
+        "払い出し"
+      ],
+      "related": [
+        "領収",
+        "手数料"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.815803+00:00Z",
+      "updated_at": "2026-06-01T22:05:01.528306+00:00Z",
       "freq_rank": 7179,
       "frequencies": {
         "aozora": 146

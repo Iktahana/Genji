@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その出版社は売れ線の本を多く出版している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売れ線の衣服は在庫が限られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は売れ線を狙って曲を作曲した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "人気",
+        "売れ筋",
+        "大衆向け",
+        "商業的"
+      ],
+      "antonyms": [
+        "マニア向け",
+        "玄人好み"
+      ],
+      "related": [
+        "ヒット",
+        "商業主義",
+        "ポピュラー",
+        "一般受け"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.239220+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.747055+00:00Z"
     }
   }
 ]

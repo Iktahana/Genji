@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朧夜の道を帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朧夜の情趣を感じながら散歩した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この朧夜は神秘的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……その柳の下を、駈けて通る腕車も見えず、人通りはちらほらと、都で言えば朧夜を浮れ出したような状だけれども、この土地ではこれでも賑な町の分。",
@@ -245,14 +270,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "朧月夜",
+        "朧"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "夜",
+        "月",
+        "春",
+        "雲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.669544+00:00Z",
+      "updated_at": "2026-06-02T02:18:08.852917+00:00Z",
       "frequencies": {
         "aozora": 93
       }

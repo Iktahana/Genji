@@ -35,7 +35,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "怪我を防止するためにも、スポーツを始める前のウォーミングアップは欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンサートの開始1時間前、歌手が控室で発声練習という名のウォーミングアップをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "軽いジョギングでウォーミングアップしてから、本格的なトレーニングメニューに入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども……）いや、ざっと、ウォーミングアップ。",
@@ -67,14 +92,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "準備運動",
+        "準備体操"
+      ],
+      "antonyms": [
+        "クールダウン"
+      ],
+      "related": [
+        "運動",
+        "スポーツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.654760+00:00Z",
+      "updated_at": "2026-06-01T21:59:08.669626+00:00Z",
       "freq_rank": 33112,
       "frequencies": {
         "aozora": 3

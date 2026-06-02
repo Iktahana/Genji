@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深夜まで残業が続き、会議室で大欠伸をかみ殺しながら資料を読んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "退屈な授業の終わりに、彼はのびをしながら大欠伸をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ごめんなさい」と彼女は口を手で覆ったが、大欠伸は止められなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "座が白けて、しばらく言葉が途絶えたうちに所在がないので、唄うたいの太夫、退屈をしたとみえて、顔の前の行燈を吸い込むような大欠伸をしたから。",
@@ -253,14 +278,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "欠伸"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "眠気",
+        "疲労"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.554904+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.332126+00:00Z",
       "frequencies": {
         "aozora": 63
       }

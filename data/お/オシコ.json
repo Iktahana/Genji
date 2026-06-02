@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "注射器の押し子をゆっくりと押し下げて、薬液を注入する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "押し子に空気が入らないように、慎重にシリンジを操作してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この古い注射器は、押し子の滑りが悪くなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」すると　物しりは　おちついて、「いや　こんな　帽子では　いかん、驢馬の　耳を　おしこむので　耳が　いたいのぢや。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "プランジャー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "注射器",
+        "シリンジ",
+        "ピストン",
+        "筒",
+        "針"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.941429+00:00Z"
+      "updated_at": "2026-06-02T01:31:19.991043+00:00Z"
     }
   }
 ]

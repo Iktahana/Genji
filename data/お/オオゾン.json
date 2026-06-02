@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "株取引で欲を出しすぎてしまい、結果として大損をしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この不況で、多くの店舗が経営難による大損を被った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今回のギャンブルで大損をしたから、しばらくは節約生活だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これに反して新道沿いに新しく出来た当世風の二階家などで大損害を受けているらしいのがいくつも見られた。",
@@ -250,14 +275,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大赤字",
+        "損害"
+      ],
+      "antonyms": [
+        "大儲け",
+        "利益"
+      ],
+      "related": [
+        "損",
+        "金銭",
+        "破産"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.883896+00:00Z",
+      "updated_at": "2026-06-02T01:16:33.761528+00:00Z",
       "freq_rank": 29828,
       "frequencies": {
         "aozora": 100

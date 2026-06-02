@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ＡＩＤＳの予防には、正しい知識を持つことが何よりも大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最新の医療研究によって、ＡＩＤＳの治療法は飛躍的に進歩した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は長年、ＡＩＤＳ患者の支援活動に人生を捧げてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしてエイズス・キリストスの降誕、受難、復活のてんまつ。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "後天性免疫不全症候群"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "HIV",
+        "感染症",
+        "ウイルス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.896650+00:00Z",
+      "updated_at": "2026-06-02T00:33:09.636504+00:00Z",
       "freq_rank": 6340
     }
   }

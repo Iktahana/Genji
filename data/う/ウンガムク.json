@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この頃、彼に運が向いているように見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試験に合格して運が向いてきたと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "順調なので今は運が向いているんだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然し、若し邪魔になつても、さしあたり行き場のない時にはさうも云はないが、Ｒさんと、そんなはなしが出来たといふんなら、君にしたつて其方へ行つた方が運が向くだらうよ。",
@@ -94,14 +119,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "好機が到来する",
+        "運が回る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "幸運",
+        "転機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.394430+00:00Z"
+      "updated_at": "2026-06-02T00:28:56.257952+00:00Z"
     }
   }
 ]

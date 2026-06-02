@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宴席で男芸者が軽妙なトークで客を笑わせている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつての名物男芸者が引退するというニュースが新聞に載っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "男芸者の粋な所作に、会場の女性客からは黄色い歓声が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これこそ男芸者の勤めと共に誇りでもあるのだ。",
@@ -125,14 +150,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "幇間",
+        "太鼓持ち"
+      ],
+      "antonyms": [
+        "芸者",
+        "女芸者"
+      ],
+      "related": [
+        "宴席",
+        "宴会",
+        "芸能",
+        "奉公",
+        "幇間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.751979+00:00Z"
+      "updated_at": "2026-06-02T01:50:39.354531+00:00Z"
     }
   }
 ]

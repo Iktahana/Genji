@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの呉服屋には昔からのお得意さんが多く、開店前から行列ができることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "宅配業者は朝一番にお得意さんの荷物を優先して届けるよう心がけていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「いつもありがとうございます、お得意さん」と女将が温かく迎えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あまりの低額予算にお得意さんの頭の中身を疑い、やなことはみんな押しつける出版社の社員の品性を奥歯でなじり、こんな額で仕事を請けてくる親父の卑屈を呪った。",
@@ -149,14 +174,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "常連客",
+        "得意先"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お得意様",
+        "顧客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.722839+00:00Z"
+      "updated_at": "2026-06-02T01:49:23.410874+00:00Z"
     }
   }
 ]

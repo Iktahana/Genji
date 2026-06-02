@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "悪いけど、お呼びでない客は帰ってもらえるかな。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今の議論にお呼びでないなら、黙っていてほしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お呼びでないのなら、部屋から出ていこう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "相手は酔っぱらってリズムがおぼつかないし、ときおり、お呼びでないコードを弾いたりする。",
@@ -46,14 +71,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "要らない"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "不要",
+        "拒絶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.328473+00:00Z"
+      "updated_at": "2026-06-02T02:24:02.315155+00:00Z"
     }
   }
 ]

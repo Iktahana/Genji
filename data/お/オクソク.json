@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その噂は単なる憶測に過ぎない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の憶測は的中した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "根拠のない憶測で判断するべきではありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それのみか――これはだん／″＼あとになつて耳に入つて來たことではあるが――私達の公演を援けたフロインデインに就て下等な憶測が、學校當局ではどうであつたか知らないが、生徒達のなかに働らいてゐたらしいのである。",
@@ -271,14 +296,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "推測",
+        "憶説",
+        "臆断",
+        "推量",
+        "当て推量",
+        "見当"
+      ],
+      "antonyms": [
+        "確信",
+        "実証",
+        "確認"
+      ],
+      "related": [
+        "憶断",
+        "推理",
+        "臆度",
+        "邪推",
+        "勝手な判断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.557873+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.169700+00:00Z",
       "freq_rank": 14214,
       "frequencies": {
         "aozora": 128

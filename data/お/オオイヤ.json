@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史的建造物の大部分は、風雨から守るための覆屋で覆われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "貴重な壁画を保存するため、特別に設計された覆屋が設置された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "覆屋の改修工事が終わり、遺跡が再び公開された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上の覆屋根は除き、船形の座だけを深目にして、すっぽり坐りこむ。",
@@ -127,12 +152,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "建物",
+        "保護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.609627+00:00Z",
+      "updated_at": "2026-06-02T01:14:11.506066+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -31,21 +31,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大学の経営学部ではオペレーションリサーチを専門に研究している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オペレーションリサーチの手法で物流最適化を実現した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオペレーションリサーチプログラムは業界でも高い評価を得ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オペレーションズリサーチ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "数理計画法",
+        "線形計画法",
+        "意思決定",
+        "最適化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.613645+00:00Z"
+      "updated_at": "2026-06-02T02:17:51.051512+00:00Z"
     }
   }
 ]

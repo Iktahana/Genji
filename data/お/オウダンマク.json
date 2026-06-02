@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "応援団は、大きなスローガンが書かれた横断幕を掲げ、選手たちを激励した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "体育祭の会場には、各クラスの目標が書かれた色鮮やかな横断幕が飾られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キャンペーンの開始を知らせる横断幕が、駅前に設置された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「第一回学園祭」と書かれた、校舎玄関の変形マーキー上の横断幕。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "垂れ幕",
+        "旗"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イベント",
+        "応援",
+        "広報"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.377169+00:00Z",
+      "updated_at": "2026-06-02T01:11:48.122704+00:00Z",
       "freq_rank": 28611,
       "frequencies": {
         "aozora": 1

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この うつし世での苦労も、やがて終わるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うつし世で最後の日々を大切にしたいと願う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浄土へ往生し、うつし世を離れることを願っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うつし世の人の母なるわれにして手に触る子の無きが悲しき。",
@@ -165,14 +190,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "現世",
+        "娑婆",
+        "下界",
+        "この世",
+        "浮世"
+      ],
+      "antonyms": [
+        "あの世",
+        "来世",
+        "常世",
+        "幽界"
+      ],
+      "related": [
+        "生者",
+        "現実",
+        "生き身",
+        "無常"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.485938+00:00Z",
+      "updated_at": "2026-06-01T22:57:02.938593+00:00Z",
       "freq_rank": 17751,
       "frequencies": {
         "aozora": 30

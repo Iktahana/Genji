@@ -35,7 +35,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "初産ということもあり、分娩室に入る彼女の顔には不安が滲んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "予定日を過ぎても陣痛が来ず、初産の彼女はやきもきしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "初産で双子を授かった彼女は、期待と不安が入り混じった表情でエコーを眺めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妻はそのころもう身重になっていたので、この五月には初産という女の大難をひかえている。",
@@ -285,14 +310,21 @@
       "homophones": [
         "初参"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "初産婦"
+      ],
+      "antonyms": [
+        "経産"
+      ],
+      "related": [
+        "出産",
+        "分娩"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.407345+00:00Z",
+      "updated_at": "2026-06-01T21:52:59.059832+00:00Z",
       "frequencies": {
         "aozora": 62
       }
@@ -328,7 +360,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商家に奉公に出た少年は、初参の挨拶で声を震わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "初参の日、彼女は奥様の前に手をついて深々と頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は初参の作法を父親から厳しく教え込まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "国々には、此意味の初参詣が、霊山・聖地に行はれて居もし、居た事は、近頃も多い。",
@@ -362,9 +419,14 @@
       "homophones": [
         "初産"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "初仕事"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "奉公",
+        "主人"
+      ]
     },
     "meta": {
       "version": "1.0.0",

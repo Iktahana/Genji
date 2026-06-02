@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親の仇を討てず生き恥をさらした侍は、恨み骨髄に徹する思いで刀を握り直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "恨み骨髄に徹するほどいじめられた教師にたたきこまれた知識が、いまだに生きていて役に立っていることもある。",
@@ -46,14 +55,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "骨髄に徹する",
+        "怨念が深い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恨み",
+        "復讐",
+        "激怒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.031287+00:00Z"
+      "updated_at": "2026-06-02T00:26:09.496857+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「そんな無謀なことをしたら、全てがおじゃんになるぞ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「結局、会議での決定事項がおじゃんになる可能性が高い。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「これ以上遅れると、この計画もおじゃんになる。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――それに、日曜でも何でも出帆入港でとられれば、それで休日はおじゃんになるが、それは休日を翌日回しということにしてもらおう。",
@@ -62,14 +87,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "失敗に終わる",
+        "無駄になる",
+        "台無しになる"
+      ],
+      "antonyms": [
+        "成功する",
+        "実現する"
+      ],
+      "related": [
+        "おじゃん",
+        "計画"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.138148+00:00Z"
+      "updated_at": "2026-06-02T01:33:49.180556+00:00Z"
     }
   }
 ]

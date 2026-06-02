@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "重い扉を両手で力いっぱい押し開くと、そこには美しい庭園が広がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "台風の強風で玄関が押し開かれないように、内側から重い家具で補強した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "非常口のバーを勢いよく押し開いて、外の通路へ脱出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてその顔をもっとはっきり見つめたいために重い重いまぶたをしいて押し開く努力をした。",
@@ -141,14 +166,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "押し広げる"
+      ],
+      "antonyms": [
+        "引き閉じる"
+      ],
+      "related": [
+        "開く",
+        "押す",
+        "展開"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.014330+00:00Z",
+      "updated_at": "2026-06-02T01:31:21.202234+00:00Z",
       "frequencies": {
         "aozora": 152
       }

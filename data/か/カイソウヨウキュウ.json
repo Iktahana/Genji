@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ルーターが宛先不明のパケットを受け取り、隣接ノードへ回送要求を送出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "メールサーバーはユーザーの不在設定に基づき、自動的に回送要求を生成して転送先アドレスへパケットを振り向けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ネットワーク管理者は回送要求のログを解析して、トラフィックの迂回経路を最適化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "転送要求"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "要求",
+        "転送",
+        "メール"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:13:52.632619+00:00Z"
     }
   }
 ]

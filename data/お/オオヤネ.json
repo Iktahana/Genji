@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寺院の大屋根が雪で白くなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大屋根の瓦が経年で傷んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "職人が大屋根の修理に取りかかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大雪田の石の峰を超えて、三角点の下に来た、木曾山脈を西に控えて、その間の高原を、天竜川が白く流れ、仙丈岳は渓谷を隔てて、その頂上の、噴火口と擬いそうな欠けたところが、大屋根の破風のように聳えて、霧を吐く窓になっている。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "軒先"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "建築",
+        "屋根",
+        "構造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.147234+00:00Z",
+      "updated_at": "2026-06-02T01:18:45.384126+00:00Z",
       "frequencies": {
         "aozora": 184
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨で運動会が中止になった子供たちが、恨めしそうに曇り空を見上げていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "先に定年を迎えて自由に旅行している夫の姿が、恨めしくてならなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "入院中に食事制限を命じられた彼は、売店のお菓子が恨めしくて仕方がなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこで彼女は、悲しいにつけ、苦しいにつけ、恨めしいにつけ、嫉ましいにつけ、お題目を唱え、太鼓を叩きました。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "恨みがましい",
+        "不本意だ",
+        "残念だ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恨み",
+        "不満"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.039569+00:00Z",
+      "updated_at": "2026-06-02T00:26:09.504514+00:00Z",
       "frequencies": {
         "aozora": 877
       }

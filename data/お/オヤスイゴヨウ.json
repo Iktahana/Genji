@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "重い荷物を駅まで運ぶくらいなら、私にとってはお安い御用だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「買い出しのついでに、この手紙を出してきてくれる？」「ああ、お安い御用だよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複雑なパソコンの初期設定も、専門家の彼にかかればお安い御用だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「しかし、乳母｜車なんてお安い御用さ。",
@@ -270,14 +295,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "朝飯前",
+        "お茶の子さいさい",
+        "造作もないこと"
+      ],
+      "antonyms": [
+        "難題",
+        "難事"
+      ],
+      "related": [
+        "簡単",
+        "依頼",
+        "お安い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.212909+00:00Z"
+      "updated_at": "2026-06-02T02:26:18.745087+00:00Z"
     }
   }
 ]

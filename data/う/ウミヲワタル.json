@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "兄は十年前に海を渡ってオーストラリアへ移住した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎年多くの渡り鳥が海を渡って北に向かう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この物資は戦地へと海を渡って運ばれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "古代埃及人は、地球の裏には魔者の住んでゐる暗黒の大海があつて、太陽は東から西へと一日の行程が終ると、この地球の裏の魔海を夜間舟で渡つて、翌朝までにまた元の東に帰るのだと信じてゐたといふから察するに星も亦太陽と同様に、舟で暗黒の海を渡ると考へられたのかも知れない。",
@@ -254,14 +279,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "渡航する",
+        "海外へ行く",
+        "渡る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "船",
+        "飛行機",
+        "移住",
+        "留学",
+        "渡り鳥"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.840370+00:00Z"
+      "updated_at": "2026-06-02T00:26:08.116552+00:00Z"
     }
   }
 ]

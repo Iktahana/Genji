@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お言葉ですが、私はその提案には反対です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お言葉ですが、事実とは少し異なります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お言葉ですが、もう少し検討の時間をいただけませんか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしはそれを訊きに来たのだ」「お前さんのお言葉ですが、まったく同商売の顧客争いというようなことから、双方の親たちのあいだが面白く参りませんので……」と、番頭は押し返して云った。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "申し上げにくいですが",
+        "言わばなんですが"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "異論",
+        "反対",
+        "意見"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.765171+00:00Z"
+      "updated_at": "2026-06-02T01:26:35.569340+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "右脳を鍛えるために、毎日寝る前に利き手と反対の手で絵を描いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "芸術的なインスピレーションは、左脳よりも右脳から生まれることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最新の脳科学に基づいたトレーニングで、右脳を活性化させようとしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は此春先――殊に花見頃の時候になると、左右脳を悪くするのが毎年のお定例だ。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "右脳派"
+      ],
+      "antonyms": [
+        "左脳"
+      ],
+      "related": [
+        "脳",
+        "脳科学",
+        "感覚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.632188+00:00Z",
+      "updated_at": "2026-06-02T00:21:40.280185+00:00Z",
       "freq_rank": 11485,
       "frequencies": {
         "aozora": 1

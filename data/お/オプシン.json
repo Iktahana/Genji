@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "網膜の視細胞には複数の種類のオプシンが存在し、それぞれ異なる波長の光に反応する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究チームは新たなオプシンの変異体を発見し、色覚異常の原因解明に一歩近づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オプシンはレチナールと結合してロドプシンを形成し、光を神経信号に変換する役割を担う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またその作の性質から自然探偵小説的な匂のするクロポトキンの『革命家の思出』ステプニヤツクの『虚無主義者の經歴』、ロオプシンの『青白い馬』など、何れも愛讀した。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "視色素"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "目",
+        "光",
+        "化学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.548487+00:00Z"
+      "updated_at": "2026-06-02T02:15:15.803596+00:00Z"
     }
   }
 ]

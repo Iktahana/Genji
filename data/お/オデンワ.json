@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "すみません、お電話を一本かけさせていただけますか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お客様からお電話をいただいてから、すぐに対応しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大切なお電話を頂戴したのに、出られなくて申し訳ありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『水野先生、お宅からお電話です‥‥‥』と、その時、不意に私の耳元に響いた小使の聲はどんなに私の心を驚かせただらう。",
@@ -280,21 +305,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このお電話、最近調子が悪くてノイズが入るの。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "デスクの上の小さなお電話が鳴り響いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古いお電話をアンティークとしてリビングに飾っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "電話",
+        "通話",
+        "連絡",
+        "音声通話",
+        "電信"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "通信",
+        "連絡手段",
+        "情報",
+        "会話",
+        "連絡先"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.682085+00:00Z"
+      "updated_at": "2026-06-02T01:46:52.068670+00:00Z"
     }
   }
 ]

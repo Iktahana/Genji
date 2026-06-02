@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "機械の油汚れをウエスできれいに拭き取る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "使い古したTシャツを切ってウエスとして再利用する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "整備士は作業服のポケットに常に予備のウエスを突っ込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何週間か前、ブレッシントンさんが私のところへやってきて、どうも見たところ、相当に動揺した状態で、彼の話では、ウエスト・エンド界隈で押し込みの窃盗があったというのです。",
@@ -271,14 +296,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "雑巾",
+        "ぼろ切れ",
+        "拭き布"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "清掃",
+        "機械",
+        "工場",
+        "布",
+        "拭く",
+        "整備"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.565553+00:00Z",
+      "updated_at": "2026-06-01T21:58:37.185786+00:00Z",
       "frequencies": {
         "aozora": 2
       }

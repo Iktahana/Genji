@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山道の追分でどちらに進むべきか迷った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この追分を右に曲がると、古い神社がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人生にはいくつかの追分があり、その都度決断が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "隣りに言葉｜訛り奇妙なる二人連れの饒舌もいびきの音に変って、向うのせなあが追分を歌い始むれば甲板に誰れの持て来たものか轡虫の鳴き出したるなど面白し。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "分岐点",
+        "叉路"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "街道",
+        "道",
+        "宿場町"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.137436+00:00Z",
+      "updated_at": "2026-06-02T01:09:10.171357+00:00Z",
       "frequencies": {
         "aozora": 506
       }

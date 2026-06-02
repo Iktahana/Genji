@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "何度もギャンブルで勝ち続けてきた彼だったが、ついに運の尽きが来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「これが運の尽きか」と覚悟しながらも、彼女は最後の交渉に臨んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "三連敗で追い込まれたチームは四戦目も落とし、ついに運の尽きとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「一羽でよせばよかったのを、もう一羽と長追いをしたのが運の尽きだ。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "万事休す",
+        "命運が尽きる",
+        "絶体絶命"
+      ],
+      "antonyms": [
+        "幸運の始まり",
+        "起死回生"
+      ],
+      "related": [
+        "破滅",
+        "失敗",
+        "終焉",
+        "限界",
+        "災難"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.534052+00:00Z",
+      "updated_at": "2026-06-02T00:30:15.312081+00:00Z",
       "frequencies": {
         "aozora": 2
       }

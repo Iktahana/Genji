@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅の時計を見た彼は、大慌てで階段を駆け下りた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会議開始まで10分だったので、皆が大慌てで資料を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大慌てで家を飛び出したせいで、鍵を忘れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのアトから腎臓病で腫んだ左右の顳※に梅干を貼った一知の父親の乙束区長が、長い頬髯を生した村医の神林先生や二三人の農夫と一緒に大慌てに慌てて走り上って来たが、物々しい一行の姿にスッカリ魘えてしまったらしく、一人も家の中に這入ろうとする者は無かった。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大急ぎ",
+        "大わらわ",
+        "慌てふためき"
+      ],
+      "antonyms": [
+        "余裕",
+        "ゆっくり"
+      ],
+      "related": [
+        "慌てる",
+        "パニック",
+        "騒動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.577286+00:00Z",
+      "updated_at": "2026-06-02T01:13:58.423697+00:00Z",
       "frequencies": {
         "aozora": 36
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オフショア開発を活用することで、開発コストを30%削減できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオフショアの子会社は、インドのバンガロールにある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オフショア市場への投資は、為替変動の影響を大きく受ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,24 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "オンショア",
+        "陸上",
+        "国内"
+      ],
+      "related": [
+        "海外",
+        "外国",
+        "タックスヘイブン",
+        "金融",
+        "開発",
+        "outsourcing"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.433556+00:00Z",
+      "updated_at": "2026-06-02T02:12:24.209573+00:00Z",
       "freq_rank": 25296
     }
   }

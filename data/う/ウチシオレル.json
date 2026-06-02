@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "厳しい残暑のせいで、水やりを忘れたベランダの向日葵が打ち萎れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "試験の不合格を知った彼は、肩を落として打ち萎れた様子で帰路についた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大雨に叩かれた庭の花々は、地面に向かって無残に打ち萎れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まことに困つたことで」　と打ち萎れるだけのことです。",
@@ -54,14 +79,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "萎れる",
+        "しょげる",
+        "落ち込む"
+      ],
+      "antonyms": [
+        "生き生きする",
+        "活気づく"
+      ],
+      "related": [
+        "落胆",
+        "消沈"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.272052+00:00Z",
+      "updated_at": "2026-06-01T22:15:06.092794+00:00Z",
       "frequencies": {
         "aozora": 70
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先月の豪雨で大水が発生し、多くの被害が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "川が決壊して大水が押し寄せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "堤防が決壊すれば大水は避けられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一めん波が菱立って来た放水路の水面を川上へ目を遡らせて行くと、中川筋と荒川筋の堺の堤の両端を扼している塔橋型の大水門の辺に競走のような張りを見せて舟々は帆を上げている。",
@@ -280,14 +305,23 @@
       "homophones": [
         "おおみず"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "洪水",
+        "大雨",
+        "氾濫"
+      ],
+      "antonyms": [
+        "干魃"
+      ],
+      "related": [
+        "水害",
+        "自然災害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.088134+00:00Z",
+      "updated_at": "2026-06-02T01:18:14.751160+00:00Z",
       "frequencies": {
         "aozora": 188
       }
@@ -325,7 +359,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女はおおみずのように清らかな笑顔をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おおみずという花が庭に静かに咲いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "おおみずの優雅な姿を眺めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すめらみことは戦に、おおみずからは出でまさね。",
@@ -343,9 +402,14 @@
       "homophones": [
         "大水"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "蛾"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "昆虫",
+        "生物"
+      ]
     },
     "meta": {
       "version": "1.0.0",

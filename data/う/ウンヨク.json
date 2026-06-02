@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "運良く駅に着いた時ちょうど電車が来たので、長く待たずに済んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運良く会場の中央に良い席が空いていて、ステージがよく見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運良く合鍵を持つ友人が近くにいたので、家に入ることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "運良く未だ手をつけていなかった無尽や保険の金が千円ばかりあった。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "幸運にも"
+      ],
+      "antonyms": [
+        "運悪く"
+      ],
+      "related": [
+        "幸い",
+        "運"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.582444+00:00Z"
+      "updated_at": "2026-06-02T00:32:52.410757+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は自分に利益がある時だけ、お世辞たらたらで近づいてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「今回の企画は最高ですね！」とお世辞たらたらに褒めてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お世辞たらたらの態度に騙されて、結局失敗してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はじめお世辞たらたら書き認めて、さて、金を送って下されと言いだすのは下手なのであった。",
@@ -94,14 +119,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おべっかたらたら"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お世辞",
+        "へつらい",
+        "媚び",
+        "追従"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.212501+00:00Z"
+      "updated_at": "2026-06-02T01:35:26.390549+00:00Z"
     }
   }
 ]

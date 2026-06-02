@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ソフトウェアの納品にあたり、発注側のPC環境で受入れ試験を実施した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "受入れ試験でバグが検出されたため、開発元へ修正を依頼することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "全ての項目がパスするまで、受入れ試験は何度も繰り返された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "受け入れ検査"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "試験",
+        "テスト",
+        "品質",
+        "検証"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.789062+00:00Z"
+      "updated_at": "2026-06-01T22:05:06.821774+00:00Z"
     }
   }
 ]

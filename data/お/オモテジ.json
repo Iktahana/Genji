@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コートの表地にはカシミアを使用しており、肌触りが非常に滑らかだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表地と裏地の色のコントラストが、このジャケットのデザインのポイントだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "丈夫な表地を選んだおかげで、この鞄は長年使っても全く傷んでいない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おミヤさんが明日か明後日はかえるので、そのお礼にハオリを一枚買ってやらねばならず、目白の先の呉服屋へ出かけ、その表地、裏地買って、あなたの着物の裏買って、ザブトンの布をかって（これは三割スフでも木綿だから）かかえてかえって来たら玄関に岡田禎子が珍しく立っている。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "外側"
+      ],
+      "antonyms": [
+        "裏地"
+      ],
+      "related": [
+        "衣服",
+        "生地",
+        "布"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.051889+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.077173+00:00Z",
       "frequencies": {
         "aozora": 1
       }

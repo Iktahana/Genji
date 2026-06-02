@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その運送船は大型の貨物を運ぶ能力がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運送船が予定通り港に到着した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運送船の乗組員は長年の経験がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近頃またアメリカでは飛行機で大西洋を飛び越し、運送船の力を借らず航空隊を戦場に輸送しようという計画がだいぶ真面目に研究されており、それについては大西洋の気象という事が重要な問題になるのである。",
@@ -269,14 +294,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "貨物船",
+        "輸送船"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "船",
+        "海運",
+        "物流"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.437069+00:00Z"
+      "updated_at": "2026-06-02T00:29:27.737724+00:00Z"
     }
   }
 ]

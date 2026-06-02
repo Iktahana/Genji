@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "表向きは仲良しだが、実は二人は競争相手だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "表向きはそう説明しているが、本当の理由は別にあるのだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "表向きは定年退職したことになっているが、実はコンサルタントとして活動している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「つまり手先の下をはたらく人間で、表向きは魚やとか桶職とか、何かしら商売をもっていて、その商売のあいまに何か種をあげて来るんです。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公然",
+        "名目上"
+      ],
+      "antonyms": [
+        "実質上",
+        "内密"
+      ],
+      "related": [
+        "世間",
+        "体裁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.077617+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.087962+00:00Z",
       "freq_rank": 17032,
       "frequencies": {
         "aozora": 619

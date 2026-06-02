@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "来週の月曜日にお伺いしてもよろしいでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "先生のお宅にお伺いしたところ、温かく迎えていただいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "打ち合わせのため、午後二時に御社へお伺いする予定です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と私は大いに驚き、「僕のほうからお伺いしなければならなかったのに。",
@@ -288,21 +313,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ひとつお伺いしたいのですが、この商品は在庫がございますか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "採用条件についてお伺いしたいことがあり、お電話いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "先生に研究の方向性についてお伺いを立てたところ、快くアドバイスをいただけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "質問",
+        "問い合わせ",
+        "尋ね"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "敬語",
+        "謙譲語",
+        "相談",
+        "返答"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.171608+00:00Z"
+      "updated_at": "2026-06-02T01:09:44.054677+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「失礼ですが、お所を伺えますか？」と丁寧な口調で尋ねられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "招待状にお所を記入して、返信ハガキを出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "警察官に、お所を教えてくれませんかと声をかけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あのまま見遁して置くお所存ですか、「なあにこれから彼奴を突止めるのです。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ご住所",
+        "お住まい",
+        "住所",
+        "居所"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "住所",
+        "名前",
+        "連絡先",
+        "名刺",
+        "所在地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.819255+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.233079+00:00Z",
       "freq_rank": 25767
     }
   }

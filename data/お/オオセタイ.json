@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父母と両親、そして私たち家族を含めると、かなりの大世帯だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大世帯の家庭では、食事の準備だけでも一苦労だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "田舎には、昔ながらの大世帯で暮らしている家がまだ残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "反つてニコニコして、わしや万福に心配させんやうにしとりますが、何しろあんた、弟とわしの家内とを合せると、十人の大世帯です。",
@@ -157,14 +182,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大家族",
+        "大所帯",
+        "大人数"
+      ],
+      "antonyms": [
+        "小家族",
+        "核家族"
+      ],
+      "related": [
+        "世帯",
+        "家族",
+        "一家"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.868288+00:00Z"
+      "updated_at": "2026-06-02T01:17:09.251261+00:00Z"
     }
   }
 ]

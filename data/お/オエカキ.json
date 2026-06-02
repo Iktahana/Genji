@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "娘は縁側に座って、庭の花をお絵かきしながら午後を過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "保育園でお絵かきの時間に、息子が家族の似顔絵を描いてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "雨の日は子どもたちとお絵かきをして楽しんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ゲームで遊ぶやつや音楽、お絵かきに使うやつも出た。",
@@ -170,21 +195,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "退屈な会議中についお絵かきをしてしまい、隣の同僚に笑われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電話しながらメモ帳にお絵かきする癖がなかなか直らない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "授業中にノートの端にお絵かきをして先生に叱られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "イラスト",
+        "描画",
+        "落書き"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アート",
+        "趣味",
+        "ペン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.542138+00:00Z"
+      "updated_at": "2026-06-02T01:13:39.056333+00:00Z"
     }
   }
 ]

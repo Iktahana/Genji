@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "着物の着付けを習い始めた彼女は、帯揚げの結び方がなかなか決まらずに何度も鏡の前でやり直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "成人式当日、母親は娘の帯揚げを丁寧に整え、「綺麗よ」と小声で囁いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アンティーク着物店の棚には、大正時代の絞り染めの帯揚げが丁寧に折り畳まれて並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "笑い苦しめられた芸妓の一人が、その復讐のつもりもあって「姐さんは、そのとき、銀行の通帳を帯揚げから出して、お金ならこれだけありますと、その方に見せたというが、ほんとうですか」と訊く。",
@@ -125,14 +150,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "帯締め"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "帯",
+        "着物",
+        "帯板"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.330455+00:00Z",
+      "updated_at": "2026-06-02T02:07:43.117739+00:00Z",
       "frequencies": {
         "aozora": 19
       }

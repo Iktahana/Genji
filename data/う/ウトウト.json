@@ -36,7 +36,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バスに乗ってうとうとと眠くなってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "講義中に机の上でうとうとしていた学生がいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昼食後の仕事中もうとうとしてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "秋の日は、干物の匂ひがするよ干物の、匂ひを嗅いで、うとうとと秋蝉の鳴く声聞いて、われ睡る人の世の、もの事すべて患らはし匂を嗅いで睡ります、ひとびとよ、秋の日は、干物の匂ひがするよ",
@@ -268,14 +293,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "まどろむ",
+        "うつらうつら",
+        "居眠り",
+        "微睡む"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "睡眠",
+        "眠気",
+        "昼寝",
+        "まどろみ",
+        "居眠り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.578414+00:00Z",
+      "updated_at": "2026-06-01T23:33:32.303706+00:00Z",
       "freq_rank": 26812,
       "frequencies": {
         "aozora": 1005

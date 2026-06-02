@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ウラー！ついに優勝だ！」と、観客たちは歓喜の声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "試合終了のホイッスルが鳴ると、ベンチから選手たちが「ウラー！」と叫んで飛び出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "成功の喜びを分かち合い、みんなで「ウラー！」と声を張り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つい近頃本屋の棚で薄っぺらな「インゼル・ビュフェライ叢書」をひやかしていたら、アレクサンダー・ウラールという人の『老子』というのが出て来た。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "万歳",
+        "フレー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ロシア語",
+        "歓喜",
+        "勝利",
+        "掛け声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.070717+00:00Z",
+      "updated_at": "2026-06-02T00:26:48.895497+00:00Z",
       "frequencies": {
         "aozora": 25
       }

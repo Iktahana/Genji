@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "目の前で起きた大惨事に、人々はただ恐れおののくばかりだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "敵の恐ろしい咆哮を聞いて、兵士たちは恐れおののいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "幽霊屋敷の闇から何かが現れそうで、私は恐れおののいて動けなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分は飽くまで眼を瞠はり、飽くまで恐れおののく自分を見守って生の岸端に足を踏み堪えなければならない。",
@@ -86,14 +111,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "震える",
+        "戦く",
+        "怯える",
+        "怖がる"
+      ],
+      "antonyms": [
+        "勇敢に立ち向かう",
+        "堂々とする"
+      ],
+      "related": [
+        "恐れる",
+        "恐怖",
+        "震え",
+        "不安",
+        "恐怖心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.306402+00:00Z",
+      "updated_at": "2026-06-02T01:37:49.496746+00:00Z",
       "frequencies": {
         "aozora": 46
       }

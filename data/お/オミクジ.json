@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "神社で御神籤を引いたら大吉が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎年正月に御神籤を引く習慣がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この御神籤は何も運勢を占うものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今もお堂で御神籤を頂いたんですが、やっぱり凶と出たので……」と、女は苦労ありそうに細い眉を寄せた。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "くじ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神社",
+        "占い",
+        "運試し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.739326+00:00Z",
+      "updated_at": "2026-06-02T02:20:35.372779+00:00Z",
       "frequencies": {
         "aozora": 53
       }

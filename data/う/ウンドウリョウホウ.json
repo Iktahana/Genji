@@ -29,21 +29,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "慢性腰痛の治療として、手術ではなく運動療法が第一選択として勧められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "糖尿病の管理には食事療法と組み合わせた運動療法が有効だとされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "理学療法士が患者の状態に合わせた運動療法のプログラムを丁寧に組んでくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "体操療法"
+      ],
+      "antonyms": [
+        "薬物療法",
+        "手術療法",
+        "安静"
+      ],
+      "related": [
+        "リハビリテーション",
+        "理学療法",
+        "健康維持",
+        "治療",
+        "筋力トレーニング"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.520218+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.307094+00:00Z"
     }
   }
 ]

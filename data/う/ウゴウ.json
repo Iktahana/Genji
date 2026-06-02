@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "事前の打ち合わせもないまま集まった彼らは、まさに烏合の勢力に過ぎなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "いくら人数が多くても、統制が取れていなければ烏合の集団と変わらない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵の軍勢は急造の烏合であったため、一撃を加えるとすぐに崩れ去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "向こうところに敵なくして剣の力で信仰と権勢を植え付けて行った半生の歴史はそれほど私の頭に今残っていないが、全盛の頂上から一時に墜落してロシアに逃げ延び、再びわずかな烏合の衆を引き連れてノルウェーへ攻め込むあたりからがなんとなく心にしみている。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "烏合の衆"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "群衆",
+        "無秩序",
+        "寄せ集め",
+        "雑集"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.848313+00:00Z",
+      "updated_at": "2026-06-01T22:07:31.300586+00:00Z",
       "frequencies": {
         "aozora": 94
       }

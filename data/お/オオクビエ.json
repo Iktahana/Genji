@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、大首絵は美人画の一形式として喜多川歌麿らが数多く手がけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "博物館の特別展では写楽の大首絵が一堂に並び、その迫力ある表情に観客は圧倒された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大首絵では顔の表情を細かく描写することが肝要で、絵師の力量が如実に問われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その中役者舞台絵姿と題する全身一人立の図と東洲斎写楽が雲母摺に同じき大首絵最もよし。",
@@ -63,12 +88,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "浮世絵",
+        "錦絵",
+        "喜多川歌麿",
+        "東洲斎写楽",
+        "版画"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.718171+00:00Z",
+      "updated_at": "2026-06-02T01:15:03.269157+00:00Z",
       "frequencies": {
         "aozora": 3
       }

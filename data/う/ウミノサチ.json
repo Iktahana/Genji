@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長野県のこの地域では、海の幸を使った料理が評判だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新鮮な海の幸を使った定食が、この店の看板メニューだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祝いの席では、海の幸をふんだんに使った料理が準備される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本は四方海に囲まれているから海の幸は利用し尽している筈だが、たった一つフランスに負けていることがある。",
@@ -246,14 +271,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "魚介類",
+        "海産物",
+        "水産物",
+        "磯の幸"
+      ],
+      "antonyms": [
+        "山の幸"
+      ],
+      "related": [
+        "漁業",
+        "刺身",
+        "海鮮",
+        "豊漁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.824477+00:00Z"
+      "updated_at": "2026-06-02T00:26:08.106867+00:00Z"
     }
   }
 ]

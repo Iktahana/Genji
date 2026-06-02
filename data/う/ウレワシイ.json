@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "難民キャンプの憂わしい生活環境が世界的な問題となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この会社の経営状況は実に憂わしい状態が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "戦地での憂わしい日々を記録したドキュメンタリーが公開された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "微かながら絶間のないピチ、ピチ、と云う音をきき乍ら、私は、寂しい、憂わしい心持に襲われた。",
@@ -101,14 +126,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "悲しい",
+        "憂鬱な",
+        "情けない"
+      ],
+      "antonyms": [
+        "愉快な",
+        "晴れやかな"
+      ],
+      "related": [
+        "心配",
+        "憂鬱",
+        "心痛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.252732+00:00Z",
+      "updated_at": "2026-06-02T00:27:39.434689+00:00Z",
       "frequencies": {
         "aozora": 72
       }

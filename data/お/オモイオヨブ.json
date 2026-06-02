@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "まさかあんなところに鍵があるとは、まったく思い及ばなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長年の経験から、他の人が思い及ばない解決策を提案できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "そこまで思い及んだのは、会議室の中で彼女だけだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次に思い及ぶものは、だれもが昔からよく問題にする、水の波や流れやまたは風による砂泥の波形である。",
@@ -158,14 +183,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "達する",
+        "気づく",
+        "気がつく"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "洞察",
+        "思考",
+        "閃き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.875894+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.463915+00:00Z",
       "frequencies": {
         "aozora": 149
       }

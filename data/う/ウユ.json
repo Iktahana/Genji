@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「手伝ってくれますか」「うゆ、喜んで協力させていただきます」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「分かりましたね」「うゆ、その通りです」と返答した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「来週の会議に参加できる？」「うゆ、予定をつけておく」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "丸く見渡せる晴れ空をしら雲が一日じゅうゆるく亙って過ぎた。",
@@ -269,14 +294,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "はい",
+        "ええ",
+        "うん",
+        "そうだ"
+      ],
+      "antonyms": [
+        "いいえ",
+        "いや"
+      ],
+      "related": [
+        "肯定",
+        "返事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.887943+00:00Z"
+      "updated_at": "2026-06-02T00:22:43.999637+00:00Z"
     }
   }
 ]

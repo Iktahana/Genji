@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年の功績が認められ、学会で重きをなす存在となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その老舗企業は、地域の経済界において重要な重きをなしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "若くして政界に入った彼は、党内で着実に重きをなすようになっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかもこの七八人の根岸派同志が今日の歌壇にいかに重きをなすか、成功の確然たるものがなくて、どうしてしかることを得べきか。",
@@ -270,14 +295,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "重きを占める",
+        "重要な地位を占める"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "重鎮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.986088+00:00Z"
+      "updated_at": "2026-06-02T02:21:24.805432+00:00Z"
     }
   }
 ]

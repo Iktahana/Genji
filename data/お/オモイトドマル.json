@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "衝動買いしそうになったが、財布の中身を確認して思いとどまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "上司に怒鳴り返しそうになったが、周りのことを考えて思いとどまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「もう会社を辞める」と言い出した彼を、同僚たちが必死に説得して思いとどまらせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、幾度も不幸を眼前に見て来た村の人たちは、他事とは思えないので、その老人に思いとどまるように忠告する者もあったが、老人は一笑に附して頭から取りあげなかった。",
@@ -166,14 +191,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "断念する",
+        "思い切る",
+        "踏みとどまる",
+        "やめる",
+        "撤回する"
+      ],
+      "antonyms": [
+        "決行する",
+        "実行する",
+        "踏み切る"
+      ],
+      "related": [
+        "自制",
+        "中止",
+        "断念",
+        "思い切り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.922293+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.981642+00:00Z",
       "frequencies": {
         "aozora": 121
       }

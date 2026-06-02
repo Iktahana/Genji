@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恋人との関係について思い余って、真夜中に親友へ電話した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "思い余った末、彼女は直接上司の家を訪ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "どうすればいいか思い余り、すべてを日記に書き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「……私は……」と彼は軈て思い余るものの如く口走った。",
@@ -86,14 +111,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "途方に暮れる",
+        "苦悩する",
+        "迷う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "葛藤",
+        "困惑",
+        "決断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.856622+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.457746+00:00Z",
       "frequencies": {
         "aozora": 81
       }

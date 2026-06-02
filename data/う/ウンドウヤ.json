@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "脳卒中で左の運動野が損傷し、右手がまったく動かなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "神経科医はMRI画像を示しながら「運動野の活動が著しく低下しています」と説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "サルの運動野に電極で刺激を与えると、対応する手足が動くことが実験で確認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "文部省は初め二シーズン制が学生の勉学にさし障りがあるという純教育上の理由から、一シーズン制にしたのであったが、今度之を入場料と分配金の制限という純企業統制上の条件に代えたのだから、之は確かに文部省自身、学生運動野球から企業野球への必然的な動きの前に、譲歩したことを意味するに他ならぬ。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運動皮質"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "大脳",
+        "脳機能",
+        "神経科学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.516853+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.545943+00:00Z"
     }
   }
 ]

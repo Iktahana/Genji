@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "川沿いに大葉柳が枝を垂らしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大葉柳は日本の北部地域に分布している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この公園の大葉柳は樹齢が100年を超えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "早くも展開した広やかな谷、それから無色に近い水の色、深淵に泳ぐ岩魚の姿、みずみずしい大葉柳や楢、椈の森林、片桐松川の鬼面に脅かされた目には、飯田松川の流れは高雅にすぎたのかもしれないのだ。",
@@ -47,14 +72,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "柳",
+        "やなぎ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "樹木",
+        "春の季語",
+        "観賞木",
+        "河畔"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.016498+00:00Z"
+      "updated_at": "2026-06-02T01:19:39.959112+00:00Z"
     }
   }
 ]

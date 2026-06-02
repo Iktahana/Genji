@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "時代劇の中で、名刀の鋭い大身がキラリと光った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その剣士は、大身を巧みに操って相手を制圧した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大身が鞘から抜かれると、周囲に緊張が走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この傾斜を上り切って、ひょいと顔を出すと、槍ヶ岳の大身の槍尖が、すいと穂を立てている、そうして白い雪が、涎懸けのように半月形をして、その根元の頸を巻いている。",
@@ -279,14 +304,20 @@
       "homophones": [
         "大御"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "長刀"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "刀",
+        "武器",
+        "刃"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.078553+00:00Z",
+      "updated_at": "2026-06-02T01:18:00.105114+00:00Z",
       "frequencies": {
         "aozora": 310
       }
@@ -325,7 +356,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大御の命により、一行は都へ向かうこととなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大御の御心に触れ、一同は感涙した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古文書には、大御の言葉がそのまま記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後進の能力を認めこれに信頼することの出来ない大御所的大家ではなかったのである。",
@@ -575,9 +631,15 @@
       "homophones": [
         "大身"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "御"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "天皇",
+        "神",
+        "接頭辞"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は外では愛想が良いが、内面が悪いので家族にはいつも威張っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「外では仏様のような人なのに、内面は本当にひどいんだから」と妻がこぼした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "外面を飾るよりも、まずは内面を改めて家族を大切にするべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし空気を抜いておいてもだんだん炭線が損じガラスの内面が汚れて暗くなる。",
@@ -253,14 +278,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "家庭での顔",
+        "素顔"
+      ],
+      "antonyms": [
+        "外面"
+      ],
+      "related": [
+        "本性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.294027+00:00Z",
+      "updated_at": "2026-06-01T22:17:01.597242+00:00Z",
       "freq_rank": 7112,
       "frequencies": {
         "aozora": 559

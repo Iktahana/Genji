@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こんな愚かしい 質問をするなんて、恥ずかしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "愚かしい 行動が二度と起きないよう祈っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その愚かしい 決定が、今の悲劇につながった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "青木さんも、目もと涼しく、肌が白くやわらかで、愚かしいところの無いかなりの美人ではあったが、キヌ子と並べると、まるで銀の靴と兵隊靴くらいの差があるように思われた。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "愚か",
+        "馬鹿げた",
+        "ばかばかしい",
+        "浅はかな"
+      ],
+      "antonyms": [
+        "賢い",
+        "聡明な",
+        "賢明な"
+      ],
+      "related": [
+        "愚か者",
+        "愚鈍",
+        "軽率",
+        "無分別"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:29:46.943717+00:00Z",
       "frequencies": {
         "aozora": 287
       }

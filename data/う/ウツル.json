@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月末には新しいマンションに移る予定なので、引越しの準備に追われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "駅から徒歩五分の便利な場所に移ることで、通勤時間が大幅に短縮された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ずっと住んでいた家から別荘に移ることで、生活が一変した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "松江から東京に移るまで、ヘルン夫妻は、自分の家を持たなかった。",
@@ -289,7 +314,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会話のテーマが、最近流行の映画の話から昨夜のニュースへと自然に移る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の視線が、私の顔から手に持っている資料へと移るのが分かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "話が重要案件に移るタイミングを見計らって、私は資料を差し出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -307,7 +357,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "楽しい時間はあっという間に過ぎ、やがて夜の帳が移る時間となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "季節が冬から春へ移るこの時期は、体調を崩しやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "時代が江戸から明治へと移る激動期に、彼らは生きた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -325,7 +400,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "香水が隣に座っていた人の服に移るほど、至近距離で話していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "カバンの奥に入れていたペンがインク漏れして、お気に入りのスカートに色が移る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭に咲く花の香りが、窓を開けると部屋の中まで移る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -343,7 +443,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風邪をひいている時はマスクをして、家族に菌が移るのを防がなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "飼っている猫からノミが移る可能性があるから、獣医に診てもらおう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "予防接種を受けていたおかげで、インフルエンザが私には移ることはなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -354,14 +479,27 @@
         "写る",
         "伝染る"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "移動する",
+        "引っ越す",
+        "遷移する",
+        "感染する",
+        "伝染する"
+      ],
+      "antonyms": [
+        "留まる",
+        "止まる"
+      ],
+      "related": [
+        "転居",
+        "変遷",
+        "流行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.522899+00:00Z",
+      "updated_at": "2026-06-01T23:14:29.647887+00:00Z",
       "freq_rank": 9904,
       "frequencies": {
         "aozora": 6376
@@ -399,7 +537,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鏡に映る自分の姿を見て、ネクタイが少し曲がっていることに気づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "水面に映る紅葉が、揺れる波間で美しくキラキラと輝いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "窓ガラスに映る街の明かりが、まるで宝石箱のように綺麗だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）　要するに芸術の泉とは徒然草に、心の鏡が澄んでゐれば全ての物が正しく映る云々の裡にあるのであつて、東洋人は自然に対しては非常に心澄ませたが、人に対しては未だ澄むことなく、卑下しすぎたり頑なだつたりしてゐる。",
@@ -651,9 +814,18 @@
         "写る",
         "伝染る"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "投影される",
+        "反映される",
+        "映し出される"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鏡",
+        "水面",
+        "映像",
+        "スクリーン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -696,7 +868,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "集合写真では、いつも目をつぶった状態で写るのが悩みの種だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "フィルムカメラで撮った写真に、心霊現象のようなものが写るはずがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "笑顔で写るあなたの写真を見て、元気をもらいました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現世の故郷はうつり変っても画の中に写る二十年の昔はさながらに美しい。",
@@ -948,9 +1145,18 @@
         "映る",
         "伝染る"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "撮影される",
+        "撮れる",
+        "描写される"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "写真",
+        "カメラ",
+        "映像",
+        "フィルム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -993,7 +1199,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "咳をしている子供と遊んでいたら、あっという間に風邪が伝染る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "手洗いとうがいを徹底しないと、ウイルスがすぐに伝染るよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家族みんなにインフルエンザが伝染るのを避けるため、隔離生活を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "せめて病煩いの時、優しい言も掛けられて、苦い薬でも飲ましてもらおうと思えば、何だ、トラホームは伝染るから実家へ帰れ！",
@@ -1245,9 +1476,17 @@
         "映る",
         "写る"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "感染する",
+        "罹患する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "病気",
+        "ウイルス",
+        "流行",
+        "蔓延"
+      ]
     },
     "meta": {
       "version": "1.0.0",

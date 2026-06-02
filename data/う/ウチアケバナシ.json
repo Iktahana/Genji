@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "酒の席で始まった打ち明け話は、夜が更けても止まらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女の打ち明け話を聞いて、私はどう反応すればいいかわからなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅先で出会った見知らぬ人と打ち明け話をして、なぜか気持ちが楽になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんな打ち明け話があってから、芹川さんと私との間は、以前ほど、しっくり行かなくなって、女の子って変なものですね、誰か間に男の人がひとりはいると、それまでどんなに親しくつき合っていたっても、颯っと態度が鹿爪らしくなって、まるで、よそよそしくなってしまうものです。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "告白",
+        "秘密",
+        "暴露"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "信頼",
+        "内密",
+        "親友"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.188383+00:00Z"
+      "updated_at": "2026-06-01T22:14:02.249672+00:00Z"
     }
   }
 ]

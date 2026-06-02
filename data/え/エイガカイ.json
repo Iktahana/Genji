@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は映画界で、革新的な映像表現を追求する監督として知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今年の映画界は、新人監督たちの躍進が目覚ましい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は映画界を引退し、静かな地方で執筆活動を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わが国の映画界のえらいスター諸君もちとあの猿や熊の顔を見学し研究するといい。",
@@ -271,14 +296,21 @@
       "homophones": [
         "映画会"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "映画業界",
+        "映画産業"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映画",
+        "産業",
+        "監督"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.717816+00:00Z",
+      "updated_at": "2026-06-02T00:31:16.426859+00:00Z",
       "frequencies": {
         "aozora": 78
       }
@@ -317,6 +349,22 @@
           "standard": [
             {
               "text": "「今週金曜、映画会のフェリーニ作品を見に行こう！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "市民ホールで開かれた映画会で、古い名作を鑑賞した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大学のサークルが主催する映画会には、毎回多くの学生が集まる。",
               "citation": {
                 "source": "Illusions AI",
                 "author": "Gemini",
@@ -565,9 +613,16 @@
       "homophones": [
         "映画界"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "上映会",
+        "鑑賞会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映画",
+        "集まり",
+        "イベント"
+      ]
     },
     "meta": {
       "version": "1.0.0",

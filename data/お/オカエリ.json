@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが学校からお帰りになるまで、母は家事をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "旅行から無事にお帰りになって何よりです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜中の11時にようやくお帰りになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "５向ふに、水車が、見えてゐます、　　苔むした、小屋の傍、ではもう、此処からお帰りなさい、お帰りなさい　　僕は一人で、行けます、行けます、僕は、何を云つてるのでせう　　いいえ、僕とて文明人らしくもつと、他の話も、すれば出来た　　いいえ、やつぱり、出来ません出来ません。",
@@ -288,21 +313,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お帰りの時間が早いので、一緒に夕食を食べられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎日お帰りの時刻が異なるので、予定を立てるのが難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お帰りの挨拶をするのが家族の習慣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "帰宅"
+      ],
+      "antonyms": [
+        "お出かけ"
+      ],
+      "related": [
+        "出迎え",
+        "挨拶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.206000+00:00Z",
+      "updated_at": "2026-06-02T01:18:59.910336+00:00Z",
       "freq_rank": 31379
     }
   }

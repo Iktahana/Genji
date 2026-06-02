@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人の剣士は木刀で激しく打ち合い、道場に乾いた音が響いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "選手たちは長いラリーを続け、打ち合った末にようやくポイントが決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもたちは棒を持って打ち合いながら、チャンバラごっこに夢中になっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次には剣を持って来て斬り合いましたが、打ち合うたんびに剣が折れて斬り合うことが出来ません。",
@@ -280,14 +305,24 @@
       "homophones": [
         "撃ち合う"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "殴り合う",
+        "衝突する",
+        "対立する"
+      ],
+      "antonyms": [
+        "協力する",
+        "協調する"
+      ],
+      "related": [
+        "喧嘩",
+        "戦闘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.177100+00:00Z",
+      "updated_at": "2026-06-01T22:14:02.248628+00:00Z",
       "frequencies": {
         "aozora": 99
       }
@@ -324,7 +359,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "犯人グループと警察が橋の上で撃ち合い、現場は騒然となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "兵士たちは廃墟の陰に隠れながら撃ち合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夜通し撃ち合ったあと、双方は一時停戦に合意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "撃ち合う……なぞと無限に千差万別しているのであるが、そんな動作の一つ一つが繰り返し繰り返し洗練されて来ると、次第に能に近づいて来る。",
@@ -390,9 +450,17 @@
       "homophones": [
         "打ち合う"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "銃撃し合う",
+        "火力を交える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "銃",
+        "戦闘",
+        "敵対",
+        "軍事"
+      ]
     },
     "meta": {
       "version": "1.0.0",

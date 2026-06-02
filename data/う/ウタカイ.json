@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎月第二日曜日に町内で歌会が開催されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代の貴族たちはよく歌会を催してその才を競った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今年の歌会には県内から五十人以上の参加者が集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "四五年前の与謝野家の歌会の時、その座のクインであった晶子夫人が、着座しばらくにして、上躯を左方に退き膝を曲げてその下から一脚を曲げて右方へ出されました。",
@@ -281,12 +306,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "和歌",
+        "歌合",
+        "短歌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.126880+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.857746+00:00Z",
       "frequencies": {
         "aozora": 107
       }

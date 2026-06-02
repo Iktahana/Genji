@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物に送り状を添付して発送する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り状の内容を確認して品物を受け取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り状に品名と金額を記載する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "陳は、独逸から送った武器の送り状とか、それを荷役している現場の写真、弾薬を受取った受取り、など、そんな重要な証拠物件を、どこからか手に入れていた。",
@@ -264,21 +289,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "送り状なしでは商品を発送できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "送り状のコピーを5年間保管している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クレームは送り状の内容と照らし合わせて処理する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "インボイス",
+        "納品書",
+        "伝票",
+        "送付状"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "物流",
+        "貿易",
+        "荷物",
+        "請求書",
+        "発送"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.657709+00:00Z",
+      "updated_at": "2026-06-02T01:24:26.033339+00:00Z",
       "frequencies": {
         "aozora": 31
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は会社が倒産寸前だということをおくびにも出さず、いつも通り仕事をこなしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大病を患いながら、彼女はおくびにも出さず舞台に立ち続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試験に落ちた悔しさをおくびにも出さず、翌朝から再び参考書を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」彼は、自分の考えは、おくびにも出さず、兵卒に指揮をつゞけた。",
@@ -142,14 +167,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "悟られずに",
+        "素振りも見せず",
+        "隠し通して",
+        "知らぬ顔で"
+      ],
+      "antonyms": [
+        "顔に出す",
+        "露呈する"
+      ],
+      "related": [
+        "隠し事",
+        "秘密",
+        "表情",
+        "沈黙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.599526+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.511942+00:00Z"
     }
   }
 ]

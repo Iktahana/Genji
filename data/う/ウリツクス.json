@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのセール品は一日で売り尽くされてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "特別販売品を売り尽くしたので本日営業を終了した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新作アルバムは発売初日に売り尽くした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「八犬伝」の最初の編が一度市場へ現われるや、萬本｜即座に売り尽くすという空前の売れ行きを現わした。",
@@ -54,14 +79,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "完売する",
+        "売切る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "在庫",
+        "商売"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.125190+00:00Z",
+      "updated_at": "2026-06-02T00:26:41.759576+00:00Z",
       "frequencies": {
         "aozora": 9
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが庭でニワトリを追い回して、鶏たちが大騒ぎになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "飼い犬が猫を追い回し、庭中を縦横無尽に駆け回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "兄は弟を家中で追い回し、取り上げたゲームを返そうとしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはほんとうにバッカスの酒宴で、酒は泉とあふれ、肉は林とうずたかく、その間をパンの群れがニンフの群れを追い回すのである。",
@@ -102,14 +127,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追いかける",
+        "追撃"
+      ],
+      "antonyms": [
+        "逃がす",
+        "放つ"
+      ],
+      "related": [
+        "追跡",
+        "動作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.092407+00:00Z",
+      "updated_at": "2026-06-02T01:11:01.680027+00:00Z",
       "frequencies": {
         "aozora": 46
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は誰もが平等に暮らせる黄金世界を夢見ていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その教団は、来たるべき黄金世界を信じ、信者を増やしていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小説の中では、科学の力で実現された黄金世界が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最終戦争と言えば、いかにも突飛な荒唐無稽の放談のように考え、また最終戦争論に賛意を表するものには、ややもすればこの戦争によって人類は直ちに黄金世界を造るように考える人々が多いらしい。",
@@ -93,14 +118,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ユートピア",
+        "理想郷"
+      ],
+      "antonyms": [
+        "ディストピア"
+      ],
+      "related": [
+        "楽園",
+        "理想",
+        "社会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.229406+00:00Z"
+      "updated_at": "2026-06-02T01:10:38.510355+00:00Z"
     }
   }
 ]

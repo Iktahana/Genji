@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園の花壇には、薄紫色のパンジーが綺麗に並べて植えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女が描く風景画には、いつも独特の薄紫色が効果的に使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薄紫色のインクで書かれた手紙には、どことなく上品な雰囲気が漂っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "青みかかった雲は、東方からさしてくる赤い日の出に、薄紫色に染めぬかれて、ゆるやかに動いていた。",
@@ -245,14 +270,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄紫",
+        "淡紫色"
+      ],
+      "antonyms": [
+        "濃紫色"
+      ],
+      "related": [
+        "色",
+        "紫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.033086+00:00Z"
+      "updated_at": "2026-06-01T22:10:51.937772+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「運は天にあり、人事を尽くしてあとは待つだけだ」と父は受験前夜に話してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "何度挑戦しても結果が出ない彼女に、先輩は「運は天にありと言うだろう、今できることをやろう」と励ました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "運は天にありと言うけれど、それでも準備を怠らないのがプロというものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戦国時代百年の間は、上は大将から下は荷担ぎの軍夫にいたるまで、運は天にあり、何物も進んで取るべしとばかりに、あらゆる冒険に身を挺するのである。",
@@ -53,14 +78,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運命は天が決める",
+        "宿命"
+      ],
+      "antonyms": [
+        "意志で変える"
+      ],
+      "related": [
+        "天命",
+        "信仰",
+        "謙虚",
+        "運命論",
+        "必然"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.535440+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.313216+00:00Z"
     }
   }
 ]

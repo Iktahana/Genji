@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "突然の訪問でのお断り、大変申し訳ございません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先方からのお断りにより、契約は白紙になりました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誠に残念ですが、今回のお誘いにはお断りを入れさせていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて暫く案じた揚句、大抵はお断りすることとなるのでありますが、今もよつぽどお断りしようかと思つた所でありました。",
@@ -288,21 +313,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本日は店休というお断りが、入り口に貼られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "入り口には関係者以外立ち入り禁止というお断りが出ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "無断駐車禁止というお断りを、駐車場に立てかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "断り",
+        "拒否",
+        "謝絶"
+      ],
+      "antonyms": [
+        "承諾",
+        "同意"
+      ],
+      "related": [
+        "断る",
+        "申し上げる",
+        "通知"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.765748+00:00Z",
+      "updated_at": "2026-06-02T01:26:35.569768+00:00Z",
       "freq_rank": 8805
     }
   }

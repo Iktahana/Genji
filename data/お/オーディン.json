@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "北欧神話ではオーディンが最高の神とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ワーグナーのオペラ「ワルキューレ」にオーディンが登場する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オーディンは知識と詩の神として知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしの下の方を雲が走っていましたが、長い影をオーディンの墓、トールの墓、フレイヤの墓と人々が呼んでいる小高い丘の上に投げていきました。",
@@ -79,14 +104,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ヴォータン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "北欧神話",
+        "主神",
+        "神"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:59.321193+00:00Z",
       "frequencies": {
         "aozora": 5
       }

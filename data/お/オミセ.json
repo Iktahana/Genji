@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近所のお店で新鮮な野菜が並んでいる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このお店の店主は親切で地元でも評判が良い",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その小さなお店は朝8時から営業している",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの、失礼でございますが、お店へあがりましてもよろしゅうございましょうか」と、女は忍びやかに云った。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "店",
+        "店舗",
+        "ショップ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "商品",
+        "商売",
+        "客"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.753025+00:00Z",
+      "updated_at": "2026-06-02T02:20:05.866501+00:00Z",
       "frequencies": {
         "aozora": 897
       }

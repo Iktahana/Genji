@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二つの意見の落としどころを見つけることが大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "交渉の落としどころは両者とも納得できるところだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "価格交渉の落としどころは五万円だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "屈辱が最大になる落としどころを慎重に計算している。",
@@ -45,14 +70,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "妥協点",
+        "着地点",
+        "折り合い",
+        "歩み寄り",
+        "接点"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "妥協",
+        "交渉",
+        "和解",
+        "合意",
+        "折衝",
+        "決着"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.836712+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.239431+00:00Z",
       "frequencies": {
         "aozora": 1
       }

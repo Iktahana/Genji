@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "苦い粉薬をオブラートに包んで飲みやすくした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオブラートは薄い紙でできており、水に溶けやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもに薬を飲ませる際、オブラートが重宝している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "而して母が散薬を飲みづらがつて居るから、赤坊の病気の時のオブラートが残つてゐるならくれろと云つた。",
@@ -159,12 +184,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "薬",
+        "包装",
+        "でんぷん",
+        "カプセル",
+        "オブラートに包む"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.530461+00:00Z",
+      "updated_at": "2026-06-02T02:15:23.747558+00:00Z",
       "frequencies": {
         "aozora": 17
       }

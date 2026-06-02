@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "注文情報のオンライン処理により、顧客が購入ボタンを押した瞬間に在庫が更新される仕組みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バッチ処理からオンライン処理に切り替えたことで、データの反映が即時になり業務効率が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "金融取引のオンライン処理は高速性と正確性が求められるため、システムの冗長化が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "リアルタイム処理"
+      ],
+      "antonyms": [
+        "バッチ処理"
+      ],
+      "related": [
+        "サーバー通信",
+        "トランザクション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:31:26.313339+00:00Z"
     }
   }
 ]

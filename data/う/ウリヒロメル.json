@@ -30,21 +30,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "企業は新しい事業を売り広めようと必死だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "インターネットで商品を売り広めるキャンペーンを開始した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "地元産の農産物を売り広めるイベントを開催している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宣伝する",
+        "普及させる",
+        "広める"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "販売",
+        "マーケティング"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.149162+00:00Z",
+      "updated_at": "2026-06-02T00:26:54.096931+00:00Z",
       "frequencies": {
         "aozora": 3
       }

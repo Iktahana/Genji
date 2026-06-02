@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "健康診断の超音波検査で、右腎に小さな結石があることが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は事故で右腎を損傷し、長期間の入院治療を余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "解剖学の図譜を確認しながら、右腎が肝臓に押されて左腎より低い位置にあることを学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "半七はその結び文をあけて見ると、女文字で「十五や御ようじん」と書いてあった。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "腎臓"
+      ],
+      "antonyms": [
+        "左腎"
+      ],
+      "related": [
+        "解剖学",
+        "臓器",
+        "内臓"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.963892+00:00Z"
+      "updated_at": "2026-06-01T22:10:56.922538+00:00Z"
     }
   }
 ]

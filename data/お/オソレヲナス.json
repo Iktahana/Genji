@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "敵の勢いに圧倒され、先鋒隊は恐れをなして退却した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "激しい雷鳴に恐れをなして、犬はベッドの下に隠れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "まさかこれほど強力な相手だとは予想外で、誰もが恐れをなした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本当に確かりした信念があるならば何の恐れをなす必要もないと思ふ。",
@@ -166,14 +191,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "恐れる",
+        "怖がる",
+        "怯える",
+        "畏怖する"
+      ],
+      "antonyms": [
+        "勇敢に立ち向かう",
+        "度胸がある"
+      ],
+      "related": [
+        "恐怖",
+        "怖さ",
+        "恐れ",
+        "不安",
+        "恐怖心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.320161+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.500430+00:00Z"
     }
   }
 ]

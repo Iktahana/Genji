@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は運がいいので、いつも良いことが起きる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "抽選で当たるなんて、君は本当に運がいいね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運がいい人生を歩んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なるほど運がいいのう、旦那、どうも有難うごぜえます。",
@@ -280,14 +305,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "幸運",
+        "ツイている",
+        "ラッキー"
+      ],
+      "antonyms": [
+        "運が悪い",
+        "不運"
+      ],
+      "related": [
+        "好機",
+        "恩恵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.385740+00:00Z"
+      "updated_at": "2026-06-02T00:28:56.255780+00:00Z"
     }
   }
 ]

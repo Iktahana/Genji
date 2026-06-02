@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "緊急事態宣言が出され、多くの応召者が軍に集結した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "応召者は、定められた訓練を受けるために基地へと向かう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の祖父は、戦時中に応召者として従軍したと聞いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "常会の席で誰かが云ひだしたのを、これは面白からうといふので、隣組の応召者へ、それぞれの留守家族を中心として、組の子供全部を集めた写真を送ることになつた。",
@@ -61,14 +86,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "召集兵",
+        "応召兵"
+      ],
+      "antonyms": [
+        "志願兵",
+        "職業軍人"
+      ],
+      "related": [
+        "応召",
+        "徴兵",
+        "兵役",
+        "軍隊",
+        "召集"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.295503+00:00Z"
+      "updated_at": "2026-06-02T01:14:19.032764+00:00Z"
     }
   }
 ]

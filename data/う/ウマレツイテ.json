@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は生まれついての指揮者で、幼い頃から周りの子どもたちを束ねる才能があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれついての楽観主義者の彼は、どんな困難にも笑顔で立ち向かう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれついての職人気質が、彼の作品の細部へのこだわりに表れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "子供は名を六蔵と呼びまして、田口の主人には甥に当たり、生まれついての白痴であったのです。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "生まれつき",
+        "天性",
+        "天然",
+        "先天的",
+        "自然な"
+      ],
+      "antonyms": [
+        "後天的",
+        "習得した"
+      ],
+      "related": [
+        "才能",
+        "素質",
+        "気質",
+        "本能",
+        "性格",
+        "遺伝"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.762364+00:00Z"
+      "updated_at": "2026-06-02T00:19:53.738438+00:00Z"
     }
   }
 ]

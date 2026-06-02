@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつての君主は、王権は絶対的で神聖なものだと信じていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その国の王権は議会によって制限されるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "王権に対抗する勢力が、次第に力を増していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かねて信心する養安寺村の蛇王権現にお詣りをして、帰りに北の幸谷なるお千代の里へ廻り、晩くなれば里に一宿してくるというに、お千代の計らいがあるのである。",
@@ -269,14 +294,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "皇権"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "権力",
+        "王位"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.209137+00:00Z",
+      "updated_at": "2026-06-02T01:10:20.708809+00:00Z",
       "freq_rank": 33196,
       "frequencies": {
         "aozora": 53

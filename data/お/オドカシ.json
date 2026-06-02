@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「そんな脅かしに屈するつもりはない」と社長は株主総会の場で毅然と答えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼からのメッセージは単なる脅かしだと思っていたが、実際に被害が出て初めて本気だったと気づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもへの脅かしは一時的に言うことを聞かせるかもしれないが、長期的には信頼関係を損なう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "幕末勇士などに扮した男優の顔はいかなる蛮族の顔よりもグロテスクで陰惨なものであるが、それが特別に民衆に受けると見えてそれらの網目版が至るところの店先で自分をにらみつけ、脅かし圧迫した。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "脅迫",
+        "威嚇",
+        "恫喝"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "脅かす",
+        "犯罪",
+        "脅迫罪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.944971+00:00Z",
+      "updated_at": "2026-06-02T01:55:27.404600+00:00Z",
       "freq_rank": 21421,
       "frequencies": {
         "aozora": 121

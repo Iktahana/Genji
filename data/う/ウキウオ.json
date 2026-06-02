@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カツオやサバは代表的な浮き魚で、表層を群れをなして泳ぐ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "漁師は双眼鏡で海面を観察し、浮き魚の群れを探して船を走らせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "浮き魚を狙うカツオ漁は、群れの移動に合わせて漁場が日々変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "表層魚",
+        "浮き魚族"
+      ],
+      "antonyms": [
+        "底魚",
+        "深海魚"
+      ],
+      "related": [
+        "表層",
+        "回遊魚",
+        "マグロ",
+        "イワシ",
+        "水面",
+        "魚群"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.733543+00:00Z"
+      "updated_at": "2026-06-01T22:04:02.416836+00:00Z"
     }
   }
 ]

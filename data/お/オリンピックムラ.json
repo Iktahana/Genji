@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "選手たちは試合までの時間をオリンピック村でリラックスして過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "セキュリティが厳重なオリンピック村へは、関係者以外立ち入ることができない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "各国の代表選手が集うオリンピック村では、連日交流イベントが行われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "七月廿六日　デペリッツのオリンピック村を訪問してから町を歩く。",
@@ -69,14 +94,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "選手村"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オリンピック",
+        "施設"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:25:55.335879+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日曜日はお笑い番組をいつも見ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しいお笑い番組が始まるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お笑い番組で爆笑してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "独り善がりを恐れない、自信と臭みに溢れた諧謔には、たっぷりと文化的なひねりを効かせたお笑い番組、『モンティー・パイソン』に通ずるところを感じます。",
@@ -53,14 +78,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "バラエティ番組"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "テレビ",
+        "お笑い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.682876+00:00Z"
+      "updated_at": "2026-06-02T02:26:39.923727+00:00Z"
     }
   }
 ]

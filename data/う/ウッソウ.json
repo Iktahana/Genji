@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山道を進むと、鬱蒼とした森の中に古い石造りの祠が現れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "庭の木々が鬱蒼と茂り、真昼でも家の中には木漏れ日しか届かない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "鬱蒼たる原生林を抜け、ようやく視界が開けて湖が見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ向う側の割竹を並べた垣の上に鬱蒼と茂って路地の上に蔽いかぶさっている椎の木らしいものだけが昔のままのように見える。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "茂い",
+        "濃い",
+        "密集"
+      ],
+      "antonyms": [
+        "薄い",
+        "疎ら"
+      ],
+      "related": [
+        "茂る",
+        "繁茂",
+        "深い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.436698+00:00Z",
+      "updated_at": "2026-06-01T22:56:28.280296+00:00Z",
       "freq_rank": 42261,
       "frequencies": {
         "aozora": 325

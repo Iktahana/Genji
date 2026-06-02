@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年度の採用者は30名で、そのうち女性は内数で12名となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "全体の売上高のうち、ネットショップ経由の金額を内数として括弧内に記載した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "参加予定者100名のうち、ボランティアスタッフが内数で10名含まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "表門は側者頭竹内数馬長政が指揮役をして、それに小頭添島九兵衛、同じく野村｜庄兵衛がしたがっている。",
@@ -149,14 +174,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "包含"
+      ],
+      "antonyms": [
+        "外数"
+      ],
+      "related": [
+        "合計",
+        "計算",
+        "数量"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.280028+00:00Z",
+      "updated_at": "2026-06-01T22:15:06.095735+00:00Z",
       "frequencies": {
         "aozora": 2
       }

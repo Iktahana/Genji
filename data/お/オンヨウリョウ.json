@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平安時代、陰陽寮の官人たちは毎朝天体を観測し、不吉な兆候がないかを朝廷に報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "陰陽寮では災厄を払うための祭祀や日時の吉凶占いが国家の重要行事として執り行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "源氏物語にも、陰陽寮の陰陽師が宮中の怪異を鎮めるために召喚される場面が描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "陰陽寮で占わすと東西に兵乱の兆があると奏した。",
@@ -97,14 +122,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "官庁",
+        "役所"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "陰陽道",
+        "歴史",
+        "朝廷"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:31:09.577457+00:00Z"
     }
   }
 ]

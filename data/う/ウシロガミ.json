@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は風に揺れる後ろ髪が美しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ髪をポニーテールに束ねている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ髪に白髪が増えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どうにも後ろ髪引かれる思いで、私は自分の衣類が積まれた手荷物車の走り去る後ろ姿を見ていたが、そのときホームズがこちらの袖を引っ張って、反対側の鉄路の先を指出した。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "後髪"
+      ],
+      "antonyms": [
+        "前髪"
+      ],
+      "related": [
+        "髪",
+        "身体",
+        "ヘアスタイル",
+        "髪型"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.924425+00:00Z",
+      "updated_at": "2026-06-01T22:08:37.804588+00:00Z",
       "freq_rank": 32736,
       "frequencies": {
         "aozora": 41

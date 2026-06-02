@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これは、せめてものお近づきのしるしとして受け取ってください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "初めてお会いした方とのお近づきになるきっかけを作りたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お近づきになりたいと思っていた憧れの先輩に、思い切って声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お近づきのしるしに、乾杯！",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "知り合い",
+        "顔見知り",
+        "知人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "交友",
+        "交際",
+        "面識",
+        "縁",
+        "付き合い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.454170+00:00Z"
+      "updated_at": "2026-06-02T01:41:05.404987+00:00Z"
     }
   }
 ]

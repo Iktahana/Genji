@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はいつもうだうだと同じ話を繰り返している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会議でうだうだと意味不明な発言をするのはやめてほしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うだうだしていないで、さっさと結論を出してよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "電車を降りて車にのった時、私はその男に勝った様にあの男の時々したうだうだな様子を思ってうす笑いをしました。",
@@ -99,21 +124,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日一日うだうだして、何も成し遂げなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "休日はソファでうだうだしながら過ごすのが好きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "うだうだしている時間があったら、読書でもしたらどうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぐずぐず",
+        "だらだら",
+        "ぐずぐずと"
+      ],
+      "antonyms": [
+        "てきぱきと",
+        "きびきびと"
+      ],
+      "related": [
+        "時間浪費",
+        "迷走",
+        "退屈"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.167246+00:00Z",
+      "updated_at": "2026-06-01T22:14:02.244091+00:00Z",
       "freq_rank": 30547,
       "frequencies": {
         "aozora": 8

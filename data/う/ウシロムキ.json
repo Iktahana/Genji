@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は後ろ向きで景色を見ながら歩いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スケボーで後ろ向きのまま滑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ向きで鏡を見ると違う景色が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、虻が蜜汁をあさってしまって、後ろ向きにはい出そうとするときに、虻の尻がちょうどおしべの束の内向きに曲がった先端の彎曲部に引っかかり、従って存分に花粉をべたべたと押しつけられる。",
@@ -290,21 +315,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "後ろ向きな意見ばかり言う人だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ向きな態度では成功しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ向きな考え方を変える必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "消極的",
+        "後退的",
+        "否定的",
+        "退嬰的"
+      ],
+      "antonyms": [
+        "前向き",
+        "積極的",
+        "進取的",
+        "肯定的"
+      ],
+      "related": [
+        "ネガティブ",
+        "悲観的",
+        "内向き",
+        "保守的",
+        "消極的姿勢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.936566+00:00Z",
+      "updated_at": "2026-06-01T22:08:54.370770+00:00Z",
       "freq_rank": 18224,
       "frequencies": {
         "aozora": 138

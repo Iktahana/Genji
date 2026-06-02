@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この雑誌は紙媒体だけでなく、ウェブ版でも記事を読むことができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人気漫画の最新話が、ウェブ版で先行公開された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ウェブ版のニュースは、速報性に優れているため重宝している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "Web版"
+      ],
+      "antonyms": [
+        "紙版",
+        "書籍版"
+      ],
+      "related": [
+        "ウェブサイト",
+        "デジタル版"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.516656+00:00Z"
+      "updated_at": "2026-06-01T21:56:01.756904+00:00Z"
     }
   }
 ]

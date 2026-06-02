@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市民団体が結束し、条例改正への強い運動力を生み出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しいリーダーの就任で、環境保護活動の運動力が一気に高まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "労働組合の団結こそが、賃上げ交渉における最大の運動力となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば物体の運動は運動力より起るという、然るにこの力というのはつまり或現象間の不変的関係をさすので、即ちこの現象を連結綜合する統一者をいうのである。",
@@ -237,14 +262,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "推進力",
+        "原動力",
+        "活力"
+      ],
+      "antonyms": [
+        "抑止力",
+        "静止"
+      ],
+      "related": [
+        "エネルギー",
+        "動機",
+        "インセンティブ",
+        "慣性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.527185+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.307901+00:00Z"
     }
   }
 ]

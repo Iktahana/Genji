@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大足で、靴を選ぶのにいつも苦労していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大足の彼はバスケットボールの選手としてコート上でひときわ目立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「お父さん、大足だね」と子どもが笑うので、靴を並べてみたら本当に大きかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "之を要するに個人的精神は長大足の進歩を以て、狭き意味に於ける国家的の精神の領地を掠め去れり。",
@@ -232,12 +257,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "足",
+        "体型",
+        "靴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.557464+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.333903+00:00Z",
       "frequencies": {
         "aozora": 18
       }

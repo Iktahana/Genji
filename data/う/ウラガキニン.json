@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私はこの約束手形の裏書人として、慎重に署名した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "手形の裏書人の一人が連絡不能になり、銀行との交渉が止まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "手形が不渡りになり、裏書人全員に銀行から通知が届いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戸畑に対する責任は手形の振出人たる信托会社と裏書人たる松村個人とがある。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "背書人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金融",
+        "手形",
+        "法律",
+        "責任"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.922450+00:00Z"
+      "updated_at": "2026-06-02T00:22:59.905972+00:00Z"
     }
   }
 ]

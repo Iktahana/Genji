@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "季節が移ろい、うたた秋の気配が深まってきたように感じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長年連れ添った夫婦の顔が、うたた似通ってくるのは不思議なものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "降り続く雨の音を聞いていると、うたた物寂しい気持ちになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高きより、風のただ中に、思ひ出の破片の翻転するをみたり。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ますます",
+        "一層",
+        "ひとしお"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "次第に",
+        "漸次"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.153196+00:00Z",
+      "updated_at": "2026-06-01T22:14:53.148534+00:00Z",
       "freq_rank": 9636,
       "frequencies": {
         "aozora": 1119

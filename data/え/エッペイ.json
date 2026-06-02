@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "独立記念日の閲兵には、全国から軍隊が参加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大統領は高い台の上から閲兵を視察している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "閲兵式で兵士たちは行進曲に合わせて行進した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "われわれが見るとムッソリニが閲兵式に臨んでいるニュース映画もこれと全く同格な現象のニュースとして実におもしろく見られるのである。",
@@ -280,14 +305,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "観閲",
+        "巡閲",
+        "査閲",
+        "検閲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "軍隊",
+        "兵士",
+        "儀式",
+        "式典",
+        "威厳"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.654198+00:00Z",
+      "updated_at": "2026-06-02T00:46:18.755963+00:00Z",
       "frequencies": {
         "aozora": 44
       }

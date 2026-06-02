@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この財布、男持ちとしては少し小さすぎる気がする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近は男持ちのバッグでも、デザインがおしゃれなものが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "父へのプレゼントに、男持ちの腕時計を選ぼうと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「男持ちの蝙蝠傘を出して下さい。",
@@ -93,14 +118,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男物"
+      ],
+      "antonyms": [
+        "女持ち"
+      ],
+      "related": [
+        "男物",
+        "男用",
+        "紳士用",
+        "男性向け"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.805772+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.229512+00:00Z",
       "frequencies": {
         "aozora": 7
       }

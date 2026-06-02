@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冠婚葬祭が続いたので、今月はアルバイト代の内借りをさせてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "帳簿には、従業員が生活費として申請した内借りの記録が残されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「申し訳ないが、家賃の支払いのために少しばかり内借りできないだろうか」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は高利の金を使っては営業は立ち行かないと考えていたので、一割以上の利子は払わない方針であったのだが、保険金の内借りまでしてまだ足らず、ついに銀行から一割二分の利子で、ほかに借入れ手数料二分、期限の借換えの時に踊りと称して一ヶ月分の利子を取られたので、合計一割五分の高利を払って借金した。",
@@ -47,14 +72,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "前払い",
+        "先払い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "給与",
+        "賃金",
+        "融資"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.239425+00:00Z",
+      "updated_at": "2026-06-01T22:16:27.829302+00:00Z",
       "frequencies": {
         "aozora": 1
       }

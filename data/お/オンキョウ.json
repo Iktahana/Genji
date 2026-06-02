@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンサートホールの音響は非常に豊かで、バイオリンの音が客席の隅々まで届いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "録音スタジオの音響を整えるため、壁に吸音材を貼り付けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "洞窟の中で声を出すと、独特の音響が生まれて思わず聞き入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「大鴉」からその音響を除いてしまへば、後に何も残るものはなく、無意味な文字の配列にしか過ぎないだらう。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "音",
+        "サウンド",
+        "音声"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音波",
+        "振動",
+        "物理学",
+        "音響学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:27:46.135782+00:00Z",
       "freq_rank": 7626,
       "frequencies": {
         "aozora": 1071

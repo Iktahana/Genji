@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代に長崎の出島で交易を許されたヨーロッパ人はオランダ人だけだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "チューリップを世界中に普及させたのはオランダ人の球根栽培技術の賜物だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "背の高いオランダ人の観光客が古い町並みを丁寧にカメラで撮影していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それにしても主婦の容貌があまり日本人によく似ているから、母親もオランダ人かと念のためにＢ君に聞いてみたが、やはりまぎれもない生粋のオランダ人だという事であった。",
@@ -263,12 +288,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "国籍",
+        "ヨーロッパ人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:24:13.337236+00:00Z",
       "frequencies": {
         "aozora": 200
       }

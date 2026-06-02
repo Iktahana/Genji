@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は些細なことで、すぐに「噂を立てられて」しまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "有名人はいつもプライベートなことで「噂を立てられる」から大変だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の行動が誤解され、あらぬ「噂を立てられて」しまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "根も葉も無い事で侮辱をうけるのと、はっきりした根拠があって噂を立てられるのと、どっちが、くやしいものか、考えてごらん。",
@@ -150,14 +175,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "噂される",
+        "取り沙汰される"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "被害",
+        "噂"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.304850+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.211496+00:00Z"
     }
   }
 ]

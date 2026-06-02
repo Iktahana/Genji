@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "臆病な性格だと思っていたが、緊急事態には案外落ち着いて行動できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そんな臆病でどうする」と父に叱られながら、少年は恐る恐る飛び込み台に立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "臆病な犬ほどよく吠えるというが、彼はその典型だと周りに言われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "臆病な私には、人の結婚の世話など、おそろしくてたまらなかった。",
@@ -278,14 +303,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "小心",
+        "弱腰",
+        "気が弱い",
+        "臆する"
+      ],
+      "antonyms": [
+        "勇敢",
+        "大胆",
+        "強気",
+        "豪胆"
+      ],
+      "related": [
+        "恐怖",
+        "性格",
+        "勇気",
+        "ビビる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.608714+00:00Z",
+      "updated_at": "2026-06-02T01:23:29.512821+00:00Z",
       "freq_rank": 17330,
       "frequencies": {
         "aozora": 1986

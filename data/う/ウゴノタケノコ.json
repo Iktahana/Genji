@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、新しいカフェが雨後の筍のようにオープンしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "あの町では雨後の筍のごとく高層ビルが建ち始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "パンデミック後、オンライン企業は雨後の筍で増えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鏡花、一葉、風葉、宙外、蘆花、秋声、不倒などといふ創作家と、樗牛、桂月、嶺雲などといふ評論家が雨後の筍のやうに簇生して、小説と評論とを書いた。",
@@ -111,14 +136,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "続出",
+        "乱立"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "筍",
+        "成長",
+        "流行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.859609+00:00Z"
+      "updated_at": "2026-06-01T22:07:02.098048+00:00Z"
     }
   }
 ]

@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大女将は厨房から帳場まで目を光らせ、老舗旅館を切り盛りしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "創業者の妻である大女将は引退後も、若女将に助言を与え続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "宴会の席に大女将が顔を出すと、常連客たちは一斉に頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "女将",
+        "主人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "旅館",
+        "料亭",
+        "経営者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.628390+00:00Z"
+      "updated_at": "2026-06-02T01:14:26.496398+00:00Z"
     }
   }
 ]

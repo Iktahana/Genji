@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜中に赤ちゃんが泣きだし、おむつを替えると濡れていたので、新しいものに換えると静かになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅行の荷物を確認したとき、おむつを入れ忘れていることに気づき、慌ててドラッグストアへ走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このおむつ、漏れやすいね。もう少し大きいサイズに替え時かな」と父親が育児日誌に書き込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "六畳の部屋一杯お襁褓が万国旗の様に乾された。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "紙おむつ",
+        "布おむつ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "排泄",
+        "育児",
+        "介護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.781604+00:00Z",
+      "updated_at": "2026-06-02T02:20:20.204322+00:00Z",
       "freq_rank": 23243,
       "frequencies": {
         "aozora": 23

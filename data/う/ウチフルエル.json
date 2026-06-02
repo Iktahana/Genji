@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "舞台袖で出番を待つ間、彼女は緊張で全身が打ち震えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "吹雪の中を歩いてきた子どもたちは寒さで打ち震えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "深夜に一人で怪談を聞き、恐怖で打ち震えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "貧しい弱いものの味方になってくれる基督教の教会へ行って霊魂を預けるより外には、もうどうにもこうにもならないような、極度の疲労と倦怠とで打ち震える人の傍にでも居るような気がした。",
@@ -118,14 +143,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "震える",
+        "身震いする",
+        "戦々恐々"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恐怖",
+        "冷感",
+        "身体"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.324409+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.064905+00:00Z",
       "frequencies": {
         "aozora": 23
       }

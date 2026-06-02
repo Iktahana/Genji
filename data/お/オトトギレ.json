@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オンライン会議の最中に音途切れが起きて、部長の発言が半分しか聞こえなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "Bluetoothイヤホンをポケットに入れた途端に音途切れが頻発するので、接続設定を見直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "配信中に音途切れが発生したため、視聴者からのコメントが「聞こえない」で埋まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "音声欠落",
+        "ドロップアウト"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音声トラブル",
+        "通信不良"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.857188+00:00Z"
+      "updated_at": "2026-06-02T01:53:28.566412+00:00Z"
     }
   }
 ]

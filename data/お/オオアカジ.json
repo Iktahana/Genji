@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "創業以来初めて大赤字を計上し、経営陣は緊急会議を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "コロナ禍の影響で観光業は軒並み大赤字に転落した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大赤字を抱えたまま年度末を迎え、社員たちは不安を隠せなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アップル※をその手で作り上げたスティーブン・ウォズニアックは、会社が軌道に乗って大きくなりはじめるとビジネスにすっかり興味を失ってしまい、ウッドストック以来の大野外ロックコンサートを企画して大赤字をだした。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "赤字"
+      ],
+      "antonyms": [
+        "黒字"
+      ],
+      "related": [
+        "経営",
+        "損失",
+        "財務"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.553733+00:00Z"
+      "updated_at": "2026-06-02T01:16:10.330110+00:00Z"
     }
   }
 ]

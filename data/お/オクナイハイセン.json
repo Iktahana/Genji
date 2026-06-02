@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "リフォームの際に屋内配線をすべて引き直すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い家の屋内配線は劣化が激しく、火災の危険があると指摘された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電気工事士が屋内配線の図面を広げ、作業の段取りを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "宅内配線",
+        "室内配線"
+      ],
+      "antonyms": [
+        "屋外配線"
+      ],
+      "related": [
+        "電気工事",
+        "コンセント",
+        "ケーブル",
+        "照明",
+        "ブレーカー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.589033+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.502829+00:00Z"
     }
   }
 ]

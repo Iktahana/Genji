@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠足の昼休み、生徒たちは思い思いの場所に散らばって弁当を広げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅行最終日の午後は自由行動で、みんな思い思いに街を歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "待合室では患者がそれぞれ思い思いに時間を潰していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鼠色の印象（暴風雨前の富士山及び白峰山脈）　汽車の中は、蒸されるように混んだ、肘と肘と触れ、背と背と合された人々が、駅ごとに二、三人ずつ減る、はてはバラバラになって、最後の停車場から、大きな、粗い圏を地平線に描いて散った、そうして思い思いの方向へと往った。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "各自",
+        "バラバラに",
+        "自由な"
+      ],
+      "antonyms": [
+        "一律",
+        "整然"
+      ],
+      "related": [
+        "自由",
+        "個性",
+        "多様"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.873776+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.463321+00:00Z",
       "freq_rank": 25512,
       "frequencies": {
         "aozora": 695

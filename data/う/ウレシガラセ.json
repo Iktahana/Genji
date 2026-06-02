@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の言葉は嬉しがらせではなく、本心からの言葉だと分かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その褒め言葉が嬉しがらせに聞こえて、素直に喜べなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嬉しがらせを言って、相手を気分よくさせようとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に両人ともまだ琉球のことばを忘れて居ないで、たやすく思ふまゝに言ふことが出来て居たといふことは謝源をムシヤウに嬉しがらせた。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "お世辞",
+        "追従",
+        "媚び",
+        "迎合",
+        "世辞"
+      ],
+      "antonyms": [
+        "嫌がらせ"
+      ],
+      "related": [
+        "社交辞令",
+        "甘言",
+        "おべっか",
+        "機嫌取り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.234282+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.742475+00:00Z"
     }
   }
 ]

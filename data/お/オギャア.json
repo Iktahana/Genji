@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "分娩室の外で待っていた父親は、中からおぎゃあという声が聞こえた瞬間に涙をこぼした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "産まれたばかりの赤ちゃんがおぎゃあと泣き、助産師が「元気ですよ」と微笑んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夜中に赤ちゃんのおぎゃあという声で目が覚め、慌てて隣の部屋へ向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と、気の無さそうに若い女が笑った、と思うと嬰児がおぎゃあと泣く。",
@@ -125,14 +150,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "泣き声"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "赤ちゃん",
+        "産声",
+        "新生児"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.507855+00:00Z",
+      "updated_at": "2026-06-02T01:24:22.565230+00:00Z",
       "frequencies": {
         "aozora": 15
       }

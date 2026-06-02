@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼からのプレゼントを受け取って、私は嬉しいという気持ちに満たされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちの成長を見て、親は嬉しい思いを抱く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嬉しいニュースを聞いて、思わず笑顔になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少しく飛躍ではありますが、印象の瞬間捕捉なぞといふ考へも、一見甚だ嬉しいことではありますが、而もそれが嬉しいのは、人間を器械の如く推定した上でのことでありまして、その実人間は器械ではありませんからさういふ考へは思ひ付きに終るでありませう。",
@@ -288,21 +313,63 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友人の結婚式に参列して、嬉しい雰囲気に包まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嬉しい出来事が立て続けに起こり、心が躍った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "久しぶりに故郷に帰って、嬉しい時間を過ごした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "喜ばしい",
+        "楽しい",
+        "幸福な",
+        "喜悦",
+        "悦ばしい",
+        "愉快"
+      ],
+      "antonyms": [
+        "悲しい",
+        "切ない",
+        "苦しい",
+        "虚しい"
+      ],
+      "related": [
+        "歓喜",
+        "笑顔",
+        "満足",
+        "幸福"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.230855+00:00Z",
+      "updated_at": "2026-06-02T00:28:00.740888+00:00Z",
       "freq_rank": 1864,
       "frequencies": {
         "aozora": 9012

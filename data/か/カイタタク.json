@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市場での値下げ交渉で、仕入れ業者たちは商品を買い叩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "卸売業者が農家から野菜を買い叩くのは、毎年の恒例だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "不況の時期は、買い手が買い叩こうとするため交渉が厳しくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一週間以内に地中海石油株を、二株につき半ペニ硬貨三枚で買い叩くことになろう。",
@@ -46,14 +71,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "値切る",
+        "値引き"
+      ],
+      "antonyms": [
+        "値上げ"
+      ],
+      "related": [
+        "価格",
+        "商人",
+        "交渉",
+        "商取引"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:14:41.581702+00:00Z",
       "frequencies": {
         "aozora": 2
       }

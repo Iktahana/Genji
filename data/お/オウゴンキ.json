@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのチームは、かつての黄金期を取り戻すべく練習に励んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "1980年代は、日本のゲーム業界の黄金期と呼ばれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の作家生活の黄金期は、多くの傑作を生み出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "されども見世物の類は春夏の二季を黄金期とせり。",
@@ -149,14 +174,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "全盛期",
+        "最盛期"
+      ],
+      "antonyms": [
+        "衰退期",
+        "停滞期"
+      ],
+      "related": [
+        "時代",
+        "繁栄",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.227161+00:00Z"
+      "updated_at": "2026-06-02T01:10:38.508782+00:00Z"
     }
   }
 ]

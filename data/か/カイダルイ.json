@@ -29,21 +29,63 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長時間の作業で腕弛い状態になったので、休憩することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疲れて腕弛い彼は、とりあえずソファに腰を下ろした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝から働き通したため、夕方には腕弛くなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "だるい",
+        "疲れた",
+        "けだるい",
+        "気だるい",
+        "倦怠感"
+      ],
+      "antonyms": [
+        "元気",
+        "活発",
+        "颯爽"
+      ],
+      "related": [
+        "疲労",
+        "倦怠",
+        "眠気",
+        "体怠い",
+        "脱力",
+        "無気力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:14:41.587438+00:00Z"
     }
   }
 ]

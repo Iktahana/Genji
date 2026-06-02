@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "背中に大きなおできができて、とても痛い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "薬を塗ったけれど、おできはなかなか治らない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "顔におできができると、どうしても気になってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「今朝もＭのおつ父さんに会つたがね、あれはお前が入学当時の成績のことを思つて、あなたのお子さんはよくお出来でつて挨拶をしたが私は冷汗が出た。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "腫れ物",
+        "吹き出物",
+        "化膿",
+        "ニキビ",
+        "痛い腫れ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皮膚",
+        "病気",
+        "健康",
+        "医学",
+        "治療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.671982+00:00Z",
+      "updated_at": "2026-06-02T01:46:52.065659+00:00Z",
       "frequencies": {
         "aozora": 16
       }

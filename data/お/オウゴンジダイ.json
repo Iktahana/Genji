@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ギリシャ哲学は、その黄金時代に多くの偉大な思想家を生み出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のキャリアは、今まさに黄金時代を迎えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "誰もが、あの古き良き黄金時代を懐かしんでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "事によると明治維新後の俳句の真の黄金時代はかえって明治三十年代にあったのではないかという気もするのである。",
@@ -261,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "全盛期",
+        "最盛期"
+      ],
+      "antonyms": [
+        "衰退期",
+        "暗黒時代"
+      ],
+      "related": [
+        "繁栄",
+        "歴史",
+        "文明"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.229573+00:00Z"
+      "updated_at": "2026-06-02T01:10:38.509689+00:00Z"
     }
   }
 ]

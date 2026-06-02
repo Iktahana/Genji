@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "思いがけず旧友と駅のホームで出会い、そのまま二時間話し込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "応募した覚えもない賞に思いがけず選ばれ、しばらく困惑した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "思いがけず大雪になり、野外イベントは中止になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その言葉が思いがけず自分の今｜為たことのなかにあると思った。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不意に",
+        "意外に",
+        "思いがけなく"
+      ],
+      "antonyms": [
+        "予定通り",
+        "当然"
+      ],
+      "related": [
+        "驚き",
+        "偶然",
+        "突発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.875737+00:00Z"
+      "updated_at": "2026-06-02T02:20:49.464791+00:00Z"
     }
   }
 ]

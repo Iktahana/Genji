@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「御父つぁん、今夜の晩飯は何だい？」と太郎が台所へ顔を出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "御父つぁんは下駄を鳴らしながら長屋の路地をゆっくりと歩いてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「御父つぁんに頼めば、きっと何とかしてくれるよ」と妹がつぶやいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おとっつぁんに自転車でひと走りいってきてもらや、すむことだで。",
@@ -271,14 +296,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "父親",
+        "父さん",
+        "おとうさん"
+      ],
+      "antonyms": [
+        "母親",
+        "母さん"
+      ],
+      "related": [
+        "親",
+        "家族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.846424+00:00Z"
+      "updated_at": "2026-06-02T01:53:28.564023+00:00Z"
     }
   }
 ]

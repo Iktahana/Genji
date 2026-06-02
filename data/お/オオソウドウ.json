@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の不用意な発言がきっかけで、社内に大騒動が巻き起こった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "街の広場で突然火の手が上がり、大騒動になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新商品の発表会で予期せぬトラブルがあり、大騒動になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　まもなく、寄宿舎と工場内に大騒動が起った。",
@@ -271,14 +296,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大騒ぎ",
+        "騒乱",
+        "騒動"
+      ],
+      "antonyms": [
+        "静穏",
+        "平穏"
+      ],
+      "related": [
+        "事件",
+        "混乱",
+        "騒音"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.873055+00:00Z"
+      "updated_at": "2026-06-02T01:16:33.757062+00:00Z"
     }
   }
 ]

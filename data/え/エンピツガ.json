@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その画家の鉛筆画は細部まで精密に描かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "デッサン用の鉛筆画は色鉛筆よりも繊細な表現ができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鉛筆画だけで完成させた作品とは思えないほど立体的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その時自分の感じた事は、その鉛筆画が普通のアカデミックなデッサンとはどこか行き方が違っているという事であった。",
@@ -165,14 +190,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "素描",
+        "デッサン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉛筆",
+        "絵画",
+        "芸術"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.740238+00:00Z",
+      "updated_at": "2026-06-02T01:05:31.981773+00:00Z",
       "frequencies": {
         "aozora": 19
       }

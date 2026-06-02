@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新年に御欠を食べる家庭も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "母は毎年自分で御欠を焼く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "御欠は揚げてから塩をかけて食べるのが美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "些少にはござりますれど、御用を御欠かせ申しましたる御勘弁料差上げ申しまする。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "煎餅",
+        "霰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "餅",
+        "和菓子",
+        "米菓"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.210842+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.172808+00:00Z"
     }
   }
 ]

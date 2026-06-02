@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教室でハチが見つかると、生徒たちが一斉に席を立って大騒ぎになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「財布を落とした」と姉が大騒ぎしていたが、結局バッグの底から出てきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "近所で火事が起きたという知らせが回り、町内会全体が大騒ぎとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大騒ぎをして買集めたであらうあれ等のお土産を棚の上に置いて、かうしていぎたなく眠つてゐる人間といふものは、思へば滑稽なものではないか。",
@@ -279,14 +304,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大騒動",
+        "大混乱",
+        "騒乱"
+      ],
+      "antonyms": [
+        "静寂",
+        "沈静"
+      ],
+      "related": [
+        "騒音",
+        "事件",
+        "喧騒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.817355+00:00Z",
+      "updated_at": "2026-06-02T01:15:50.025815+00:00Z",
       "freq_rank": 7801,
       "frequencies": {
         "aozora": 1351

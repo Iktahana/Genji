@@ -31,21 +31,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プログラムのエントリポイントは、通常main関数だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "APIのエントリポイントは、/api/v1/dataであることがドキュメントに明記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "セキュリティの脆弱性を探す際、全てのエントリポイントを洗い出す必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "入口"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "プログラミング",
+        "コンピュータ",
+        "処理開始"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.658733+00:00Z"
+      "updated_at": "2026-06-02T01:04:51.495962+00:00Z"
     }
   }
 ]

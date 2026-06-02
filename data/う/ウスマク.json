@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "石鹸の泡の表面にできる虹色の薄膜は、光の干渉によって生じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "スマートフォンのディスプレイには、指紋を防ぐための薄膜が施されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "太陽電池の効率を高めるため、最新の薄膜技術が導入されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしその物体から来るものは今日の光線でも光波でもなくて「像」（image）と名づける薄膜状の物質である。",
@@ -256,14 +281,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄層",
+        "フィルム"
+      ],
+      "antonyms": [
+        "厚膜"
+      ],
+      "related": [
+        "物理学",
+        "半導体",
+        "工学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.030704+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.936406+00:00Z",
       "freq_rank": 35384,
       "frequencies": {
         "aozora": 40

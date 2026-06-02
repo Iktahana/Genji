@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいオフィスコンピューターを導入したら、処理速度が3倍になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "全社のオフィスコンピューターをセキュリティアップデートする予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオフィスコンピューターは、20年前のものなので交換が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「失敗してもいいから何か自分達でやろう」　東芝の子会社で、船舶の電気関係を取り扱う西芝電気に職を得ていた浮川は、一九七九年、オフコン（オフィスコンピューターという和製英語の略。",
@@ -283,12 +308,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "パソコン",
+        "コンピューター",
+        "機器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.410781+00:00Z",
+      "updated_at": "2026-06-02T02:10:12.499040+00:00Z",
       "frequencies": {
         "aozora": 112
       }

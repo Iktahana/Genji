@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は興奮のあまり、テーブルを殴打してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "証言によると、犯人は被害者の頭部を鈍器で殴打したという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "何度も強く殴打されたことで、ドアはひどくへこんでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはとにかく、この老人はこの煙管と灰吹のおかげで、ついぞ家族を殴打したこともなく、また他の器物を打毀すこともなく温厚篤実な有徳の紳士として生涯を終ったようである。",
@@ -279,14 +304,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "暴行",
+        "打撃"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "傷害",
+        "暴力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.362393+00:00Z",
+      "updated_at": "2026-06-02T01:11:30.165889+00:00Z",
       "freq_rank": 27650,
       "frequencies": {
         "aozora": 70

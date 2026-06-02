@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えた雄松は、日本の伝統的な美しさを表現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この盆栽は樹齢100年の雄松で、非常に貴重だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雄松の枝ぶりは、職人の手によって丹念に整形されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雄松だけは外国にはないからな。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "黒松",
+        "クロマツ"
+      ],
+      "antonyms": [
+        "雌松",
+        "赤松",
+        "アカマツ"
+      ],
+      "related": [
+        "松",
+        "植物",
+        "盆栽",
+        "庭木",
+        "海岸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.710219+00:00Z",
+      "updated_at": "2026-06-02T02:20:38.479031+00:00Z",
       "frequencies": {
         "aozora": 12
       }

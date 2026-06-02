@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「雨のせいで、せっかくのキャンプがおじゃんになった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「予算不足で、新プロジェクトはおじゃんだ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「今のままでは、努力のすべてがおじゃんになってしまうよ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　その声は街へ遊びに行くのがおじゃんになったのを悲しむように絶望的だった。",
@@ -271,14 +296,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "御破算",
+        "失敗",
+        "台無し"
+      ],
+      "antonyms": [
+        "成功"
+      ],
+      "related": [
+        "おじゃんになる",
+        "無に帰す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.136584+00:00Z",
+      "updated_at": "2026-06-02T01:33:49.179080+00:00Z",
       "frequencies": {
         "aozora": 45
       }

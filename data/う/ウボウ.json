@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "心エコー検査の結果、右房が肥大していることが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "心臓の血液は右房から右室へと流れ、肺で酸素を取り込む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医師は患者に、右房に血栓が見つかったことを丁寧に説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このごろはまた、自意識過剰とかいう言葉のひとつ覚えで、恥かしげもなくほうぼうへそれを言いふらして歩いているようです。",
@@ -222,13 +247,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "左房",
+        "左心房"
+      ],
+      "related": [
+        "右心室",
+        "左房",
+        "心臓",
+        "心房",
+        "不整脈",
+        "循環器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.688871+00:00Z"
+      "updated_at": "2026-06-01T23:57:28.210773+00:00Z"
     }
   }
 ]

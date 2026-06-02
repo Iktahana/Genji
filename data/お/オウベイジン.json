@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の祇園を歩いていると、舞妓さんを写真に収めようとする欧米人の観光客が多く見られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その日本語教室には欧米人だけでなくアジア各国からの学生も集まっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "欧米人の同僚は、日本人が残業を当然視する文化に驚いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "政府が盆踊を禁ずるのも、国民が欧米人の真似をするのも、固有の日本文化が亡びるのも、すべて皆基督教の宣教師が宣伝するためであり、一切の悪は耶蘇教の罪に帰せられた。",
@@ -213,14 +238,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "西洋人"
+      ],
+      "antonyms": [
+        "東洋人",
+        "アジア人"
+      ],
+      "related": [
+        "欧米",
+        "人種"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.455520+00:00Z"
+      "updated_at": "2026-06-02T01:12:51.646058+00:00Z"
     }
   }
 ]

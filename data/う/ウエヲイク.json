@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女のデザインセンスはベテラン社員の上を行くと、部長も認めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このカレーの辛さと旨みのバランスは、有名店の上を行くと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "兄は勉強でも運動でも常に私の上を行く存在だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ある日、街上を行く。",
@@ -254,14 +279,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "先を行く",
+        "凌駕する",
+        "勝る"
+      ],
+      "antonyms": [
+        "後塵を拝する",
+        "遅れをとる"
+      ],
+      "related": [
+        "追い抜く",
+        "優越"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.601963+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.291976+00:00Z"
     }
   }
 ]

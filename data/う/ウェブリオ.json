@@ -29,21 +29,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "わからない単語が出てきたとき、まずＷｅｂｌｉｏで検索すると用例まで一緒に確認できて便利だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "Ｗｅｂｌｉｏには専門用語の辞典も収録されているので、医療系の翻訳をするときによく使っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この古語の意味、Ｗｅｂｌｉｏで調べたら複数の辞書の訳が並んで表示されたから比較しやすかった」と彼は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オンライン辞書"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "辞書",
+        "検索"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.525350+00:00Z"
+      "updated_at": "2026-06-01T21:56:01.760127+00:00Z"
     }
   }
 ]

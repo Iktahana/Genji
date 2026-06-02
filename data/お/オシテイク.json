@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パンクして動かなくなった自転車を、修理店まで押して行くことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "坂道を登るのがつらくなったので、自転車から降りて押して行く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "通行人が多い歩道では、自転車は乗らずに押して行くのがマナーだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "看護婦が手押車に手術器械薬品をのせたのを押して行く。",
@@ -270,14 +295,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "引いて行く",
+        "転がして行く",
+        "手押しする"
+      ],
+      "antonyms": [
+        "乗って行く",
+        "運転する"
+      ],
+      "related": [
+        "自転車",
+        "バイク",
+        "故障",
+        "徒歩"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.979885+00:00Z"
+      "updated_at": "2026-06-02T01:28:56.686248+00:00Z"
     }
   }
 ]

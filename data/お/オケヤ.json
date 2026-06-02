@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代には桶屋は地域で重要な職業だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この古い建物は昔の桶屋の跡だと言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "破れた桶を修理するために桶屋を探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "縁があつても、まづ、風と桶屋くらゐの關係ぢやないか。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "結桶師"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "職人",
+        "桶",
+        "風が吹けば桶屋が儲かる",
+        "伝統工芸",
+        "木工"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.718639+00:00Z",
+      "updated_at": "2026-06-02T01:25:40.780160+00:00Z",
       "frequencies": {
         "aozora": 218
       }

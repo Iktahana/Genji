@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試合で勝ったとき、観客たちが大声を出して喜んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "緊急時には大声を出して周囲に知らせるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもは興奮すると大声を出すようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのうちに、始めに出た極度の大声を出す人が壇上に立ってまた何事か述べはじめた。",
@@ -214,14 +239,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怒鳴る",
+        "叫ぶ",
+        "喚く"
+      ],
+      "antonyms": [
+        "小声で話す",
+        "黙る"
+      ],
+      "related": [
+        "騒音",
+        "声量"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.744794+00:00Z"
+      "updated_at": "2026-06-02T01:15:19.699729+00:00Z"
     }
   }
 ]

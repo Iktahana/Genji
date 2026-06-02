@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の料亭では歌い女が三味線を爪弾きながら座敷を回り、客の気分を盛り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い紀行文に、宿場町の酒席で歌い女が座につき夜通し歌ったという記述が残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その歌い女は客あしらいも巧みで、どんな無口な旅人もいつの間にか笑顔にしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そういう中でも心を惹かれずにおれなかったのは、町から招き寄せられた何人かの歌い女に付いて出た、歳は私より一つか二つも上かと思う舞妓が、はじめは左右に二人並んで、つぎには一人ずつで、それぞれの曲に合わせて美しく、またいたいけに舞い、かつ踊ったことであった。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "芸妓",
+        "娼婦",
+        "歌姫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.124204+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.852784+00:00Z",
       "frequencies": {
         "aozora": 2
       }

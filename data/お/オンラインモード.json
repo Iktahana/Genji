@@ -31,21 +31,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インターネット接続中はオンラインモードで動作し、切断時はオフラインモードに自動切り替わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このアプリケーションはオンラインモードでのみ全機能が使用可能である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オンラインモードで作業した内容は、同期機能により他のデバイスにも反映される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "接続モード",
+        "オンライン状態"
+      ],
+      "antonyms": [
+        "オフラインモード",
+        "ローカルモード"
+      ],
+      "related": [
+        "接続",
+        "ネットワーク",
+        "インターネット"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:31:41.937472+00:00Z"
     }
   }
 ]

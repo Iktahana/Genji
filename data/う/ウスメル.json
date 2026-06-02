@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ジュースが濃いから、水で薄めてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ペンキを薄めて、薄く何度も塗り重ねる方が仕上がりが良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "塩辛い味噌汁を薄めるために、お湯を足した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "晩年、父の技倆としては見事過ぎるほどの橋を奔走して自町のために造り、その橋によってせめて家名を郷党に刻もうとしたのも、この悔を薄める手段に外ならなかった。",
@@ -185,21 +210,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その厳しい言い方を薄めたら、相手がもっと聞き入れやすくなるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "悪い印象を薄めるために、いくつか良い話も添えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はその批判の口調を薄めて、丁寧に説明し直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "希釈する",
+        "薄くする"
+      ],
+      "antonyms": [
+        "濃くする",
+        "凝縮する"
+      ],
+      "related": [
+        "液体",
+        "調理",
+        "化学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.036535+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.939328+00:00Z",
       "frequencies": {
         "aozora": 87
       }

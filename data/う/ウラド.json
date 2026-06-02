@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "泥棒は裏戸をこじ開けて侵入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "災害時には裏戸から脱出するよう指示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この古い家には裏戸という呼び方をする人も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家の裏戸が明いて早起きのおかみさんが掃除を始める、その箒の音がこれに和する。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "裏口",
+        "勝手口",
+        "後門"
+      ],
+      "antonyms": [
+        "表戸",
+        "正門"
+      ],
+      "related": [
+        "玄関",
+        "家屋",
+        "出入口"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.982529+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.189065+00:00Z",
       "frequencies": {
         "aozora": 86
       }

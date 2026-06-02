@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "売上の急激な落ち込みに、経営陣は頭を抱えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昨今の気温低下により、野菜の成長に一時的な落ち込みが見られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "経済活動の落ち込みを食い止めるための対策が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "豚は一見無神経で、すぐにも池か溝かに落ち込みそうだった。",
@@ -288,21 +313,64 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、原因不明の落ち込みが続いていて、何もやる気が起きない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の激しい落ち込みをどう慰めたらいいのか、悩んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誰にでも気分の落ち込みはあるものだ、今はゆっくり休もう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "落下",
+        "低迷",
+        "不況",
+        "気落ち",
+        "意気消沈",
+        "スランプ"
+      ],
+      "antonyms": [
+        "上昇",
+        "回復",
+        "好況",
+        "高揚"
+      ],
+      "related": [
+        "不景気",
+        "鬱",
+        "気分",
+        "低下",
+        "スランプ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.459494+00:00Z",
+      "updated_at": "2026-06-02T01:41:05.407876+00:00Z",
       "freq_rank": 13811,
       "frequencies": {
         "aozora": 34

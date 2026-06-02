@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雲の間から薄日が差し込み、雨上がりの街を静かに照らし始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "午後の薄日の中で、猫が窓辺で丸くなって気持ちよさそうに眠っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "どんよりとした空模様だったが、わずかな薄日に春の訪れを感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その日は昼下りから冬の陽の衰えた薄日も射さなかった。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄日差し",
+        "弱光"
+      ],
+      "antonyms": [
+        "強光",
+        "直射日光"
+      ],
+      "related": [
+        "天気",
+        "日差し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.023756+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.934586+00:00Z",
       "frequencies": {
         "aozora": 136
       }

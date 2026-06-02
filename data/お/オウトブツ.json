@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "酔った友人が路上に嘔吐物を残してしまい、周囲の人に謝りながら後処理をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "救急隊員は意識を失った患者の嘔吐物が気道をふさいでいないか、真っ先に確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "嘔吐物の色や量を看護師に伝えることが、診断の手がかりになると医師に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花田君子から私は動物的な感触とピカデリあたりの聯隊旗みたいな嘔吐物をうけたのだ。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "吐瀉物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "嘔吐",
+        "汚物",
+        "衛生"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.404326+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.298778+00:00Z"
     }
   }
 ]

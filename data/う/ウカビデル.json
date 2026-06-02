@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "特殊な薬品を吹きかけると、紙の表面に隠されていた秘密のメッセージが浮かび出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "感情が高ぶると、彼の額には太い青筋がはっきりと浮かび出る癖がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "湖の底から泡がふつふつと湧き上がり、何かが水面に浮かび出ようとしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "観客はその夢幻郷の蝴蝶になって観客席の空間を飛翔してどことも知らぬ街路の上に浮かび出るのである。",
@@ -206,14 +231,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "浮かび上がる",
+        "浮上する"
+      ],
+      "antonyms": [
+        "沈む"
+      ],
+      "related": [
+        "出現",
+        "顕現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.710454+00:00Z",
+      "updated_at": "2026-06-01T22:03:01.875298+00:00Z",
       "frequencies": {
         "aozora": 127
       }

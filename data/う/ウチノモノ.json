@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この件は内の者だけで対処します」と部長は外部業者に告げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社長は内の者を集め、来期の経営方針を非公式に伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "秘密の話なので内の者以外には口外しないよう念を押された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あくる朝、半七は師匠の送葬の様子を窺いながら妙信寺へ出かけてゆくと、師匠の遺骸は駕籠で送られて、町内の者や弟子たちが三四十人ほども付いて来た。",
@@ -278,14 +303,32 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仲間",
+        "内輪の者",
+        "身内",
+        "一族",
+        "同僚"
+      ],
+      "antonyms": [
+        "よそ者",
+        "部外者",
+        "他人",
+        "外部の人"
+      ],
+      "related": [
+        "内輪",
+        "グループ",
+        "ファミリー",
+        "仲間内",
+        "身内",
+        "コミュニティ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.312392+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.029573+00:00Z"
     }
   }
 ]

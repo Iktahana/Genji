@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "留学の費用を援助してくれたあの教授は、私にとって生涯の恩人だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "火事の夜に命を救ってくれた消防士を、家族全員が恩人として毎年訪ねている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "就職の世話をしてくれた恩人の訃報に接し、彼は黙って仏前で手を合わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あなたは私の恩人ぢやないか。",
@@ -270,13 +295,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "仇",
+        "敵"
+      ],
+      "related": [
+        "恩義",
+        "恩返し",
+        "恵み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:28:54.223200+00:00Z",
       "freq_rank": 27044,
       "frequencies": {
         "aozora": 882

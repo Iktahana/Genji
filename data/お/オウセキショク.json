@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夕焼けは黄赤色に染まっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "壁を黄赤色で塗った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この花は黄赤色をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「桐の花咲くころ」はこれまでの風景に比べて黄赤色が減じて白と黒とに分化している事に気がつく。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "朱色",
+        "橙赤色"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "色",
+        "赤",
+        "黄色"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.334244+00:00Z"
+      "updated_at": "2026-06-02T01:11:15.375961+00:00Z"
     }
   }
 ]

@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「何日も何も食べていないんだ、このままじゃ飢え死にしちゃうよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無人島に漂着した彼は、飢え死にの恐怖と戦いながら火を熾した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "籠城戦が長引き、城内の兵士たちは飢え死に寸前の状態に追い込まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鳥もけものも、みな飢え死にじゃ人もばたばた倒れたじゃ。",
@@ -281,14 +306,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "餓死",
+        "食い死に",
+        "飢死"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "飢え",
+        "貧困",
+        "食糧不足",
+        "飢饉",
+        "死",
+        "栄養失調"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.564736+00:00Z",
+      "updated_at": "2026-06-01T21:58:37.185250+00:00Z",
       "frequencies": {
         "aozora": 60
       }

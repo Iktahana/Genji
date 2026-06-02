@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この村には、かつて戦から逃げてきた落ち武者の伝説が残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "山道で落ち武者を見かけたという噂が、町中に広まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "落ち武者の姿を見つけようと、追っ手がすぐ近くまで迫っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「武者ならば――まさに落ち武者、心の難民」と、大沼が云った。",
@@ -109,14 +134,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "落人",
+        "逃亡兵",
+        "敗残兵",
+        "逃げ武者"
+      ],
+      "antonyms": [
+        "勝利者"
+      ],
+      "related": [
+        "戦乱",
+        "逃亡",
+        "敗北",
+        "戦国時代",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.478099+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.843509+00:00Z",
       "frequencies": {
         "aozora": 7
       }

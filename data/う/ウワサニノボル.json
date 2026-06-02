@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの二人の関係は、最近よく「噂に上る」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女のファッションセンスはいつも皆の「噂に上る」。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい先生の指導法が、職員室で「噂に上って」いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男との立ち入った関係も、噂に上るようなものはなさそうだ。",
@@ -246,14 +271,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "話題になる",
+        "取り沙汰される"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "噂",
+        "注目"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.301103+00:00Z"
+      "updated_at": "2026-06-02T00:28:12.209338+00:00Z"
     }
   }
 ]

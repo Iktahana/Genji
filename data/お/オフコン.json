@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いオフコンの故障を修理に出すのに、10万円以上かかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオフコンは1980年代の製品で、部品の交換が困難だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オフコンは現在ではほぼ使われなくなり、処分に困っている企業も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「失敗してもいいから何か自分達でやろう」　東芝の子会社で、船舶の電気関係を取り扱う西芝電気に職を得ていた浮川は、一九七九年、オフコン（オフィスコンピューターという和製英語の略。",
@@ -93,14 +118,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オフィスコンピュータ",
+        "業務用コンピュータ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "パソコン",
+        "コンピュータ",
+        "汎用機",
+        "業務システム",
+        "ミニコンピュータ",
+        "ワークステーション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.429113+00:00Z",
+      "updated_at": "2026-06-02T02:12:24.207077+00:00Z",
       "frequencies": {
         "aozora": 7
       }

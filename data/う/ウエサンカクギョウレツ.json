@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この連立一次方程式を解くために、まず係数行列を上三角行列に変形しよう」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンピュータでの計算効率を上げるため、上三角行列の性質を利用する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "数学の試験で、与えられた行列が上三角行列であることを証明する問題が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "下三角行列"
+      ],
+      "related": [
+        "行列",
+        "線形代数",
+        "対角行列",
+        "正方行列",
+        "三角行列",
+        "数学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.563047+00:00Z"
+      "updated_at": "2026-06-01T21:58:37.183933+00:00Z"
     }
   }
 ]

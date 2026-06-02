@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システムがフリーズしてしまったので、Ctrl+Alt+Delキーを押してウォームブートを実行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ハードウェアの初期化を最小限に抑えるウォームブートなら、コールドブートよりも早く再開できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ソフトウェアのアップデートを完了させるため、システムが自動的にウォームブートを開始した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -40,13 +65,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "コールドブート"
+      ],
+      "related": [
+        "再起動",
+        "リブート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.660124+00:00Z"
+      "updated_at": "2026-06-01T22:01:35.600255+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回は運試しのつもりで参加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は宝くじで運試しをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試しに一度運試しをしてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ずっと決めていたのです、やつに命がけの運試しをさせてやると。",
@@ -111,14 +136,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "勝負",
+        "賭け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運",
+        "抽選",
+        "挑戦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.449503+00:00Z",
+      "updated_at": "2026-06-02T00:29:27.742403+00:00Z",
       "frequencies": {
         "aozora": 13
       }

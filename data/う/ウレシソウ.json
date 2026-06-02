@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は嬉しそうに笑顔を見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その知らせを聞いて、彼は嬉しそうな顔をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもが嬉しそうに歌っているのが聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近所のお内儀さんなどが通りがかりに児をあやすと、嬉しそうな色が父親の柔和な顔に漲る。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嬉しげ",
+        "楽しそう",
+        "満面の笑み"
+      ],
+      "antonyms": [
+        "悲しそう",
+        "辛そう",
+        "不満そう"
+      ],
+      "related": [
+        "心理状態",
+        "表情",
+        "様子",
+        "雰囲気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.234583+00:00Z"
+      "updated_at": "2026-06-02T00:28:00.744274+00:00Z"
     }
   }
 ]

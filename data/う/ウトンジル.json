@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "いじめの対象となった子を疎んじることは許されない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "面倒な家事を疎んじる癖がついている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "同僚の意見を疎んじてはいけない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "支那が欧米に依存し日本を疎んじる結果がこの事変を捲き起したのだといふ議論は、一見筋が通つてゐるやうで、なにかお互にさつぱりしないものが後に残る。",
@@ -102,14 +127,33 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "遠ざける",
+        "嫌う",
+        "疎外する",
+        "蔑ろにする",
+        "ないがしろにする",
+        "排斥する"
+      ],
+      "antonyms": [
+        "親しむ",
+        "重んじる",
+        "尊ぶ",
+        "慈しむ"
+      ],
+      "related": [
+        "疎外",
+        "嫌悪",
+        "蔑視",
+        "無視",
+        "冷遇",
+        "疎略"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.581564+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.049808+00:00Z",
       "frequencies": {
         "aozora": 3
       }

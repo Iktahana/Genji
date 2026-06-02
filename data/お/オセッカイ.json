@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のお節介が、時にはありがたく、時には迷惑に感じることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「大丈夫だよ」と言っているのに、お節介を焼かれると困ってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "良かれと思ってしたことだが、結局お節介だと思われてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ホームズ、貴様の職はお節介屋だとな！",
@@ -289,21 +314,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あのお節介は、もう少し控えめにしてほしいものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女はお節介なところがあるけれど、根はとても優しい人だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "余計なお節介を避けるために、プライベートな話はあまりしないようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "干渉",
+        "出しゃばり",
+        "余計なお世話",
+        "世話焼き"
+      ],
+      "antonyms": [
+        "無関心",
+        "放任",
+        "不干渉"
+      ],
+      "related": [
+        "おせっかい屋",
+        "おせっかい焼き",
+        "口出し",
+        "内政干渉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.216389+00:00Z",
+      "updated_at": "2026-06-02T01:35:26.391941+00:00Z",
       "freq_rank": 31954,
       "frequencies": {
         "aozora": 94

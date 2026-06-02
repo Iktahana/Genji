@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「昨日、財布を盗まれてしまって」「それはお気の毒に。心中お察しします」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「大事な書類を紛失してしまったんだ」「それはお気の毒に。何か手伝えることはある？」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「体調を崩して仕事に行けないんだ」「それはお気の毒に。ゆっくり休んでね」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "生真面目な顔をしたカリタが彼にむかって、「お気の毒に存じます。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お察しします",
+        "ご愁傷様"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "同情",
+        "慰め",
+        "不幸",
+        "共感",
+        "弔辞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.464697+00:00Z"
+      "updated_at": "2026-06-02T01:22:15.890496+00:00Z"
     }
   }
 ]

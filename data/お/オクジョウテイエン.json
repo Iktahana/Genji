@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビルの屋上に設けられた屋上庭園で、都会の喧騒を忘れて一息ついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このショッピングモールは、屋上庭園があって子供たちが遊ぶのに最適だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "屋上庭園の花々が、春の訪れを知らせている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近年東京会館の屋上庭園などで涼みながら銀座へんのネオンサインの照明を見おろしているときに、ふいとこの幼時の南磧の納涼場の記憶がよみがえって来て、そうしてあの熱い田舎ぜんざいの水っぽい甘さを思い出すと同時になき母のまだ若かった昔の日を思い浮かべることもある。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スカイガーデン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "緑化",
+        "癒やし",
+        "景観",
+        "屋上",
+        "庭園"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.545889+00:00Z",
+      "updated_at": "2026-06-02T01:22:54.074412+00:00Z",
       "frequencies": {
         "aozora": 84
       }

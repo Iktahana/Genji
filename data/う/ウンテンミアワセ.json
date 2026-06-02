@@ -30,21 +30,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強風の影響により、現在この路線は運転見合わせとなっております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転見合わせの通知を受け取り、急いで代替ルートを調べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "復旧の作業が難航しており、運転見合わせが長引いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運転中止",
+        "運行中止"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運転",
+        "中止",
+        "輸送"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.477977+00:00Z"
+      "updated_at": "2026-06-02T00:29:53.929976+00:00Z"
     }
   }
 ]

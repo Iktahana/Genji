@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "Javaで定義した運搬クラスをシリアル化して、ネットワークを通じて送信する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このプログラムの運搬クラスは、複雑なオブジェクト構造を扱える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運搬クラスの実装を間違えると、データが正しく転送されない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ベアラクラス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "通信",
+        "ネットワーク",
+        "QoS",
+        "データ転送"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.545204+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.315495+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風車の羽板がきしむ音が、風の強さを示していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "船の羽板は、風を受けて向きを変える重要な部品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い羽板を新しいものに交換する作業が進んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "試合刀は竹の羽板を数本しばり合わせたもので、長い日本刀に於ると同じく、両手で握るに充分な長さの柄がついている。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "羽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "翼",
+        "部品",
+        "機械"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.660443+00:00Z",
+      "updated_at": "2026-06-01T23:50:45.504242+00:00Z",
       "frequencies": {
         "aozora": 3
       }

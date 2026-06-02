@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弟君は、兄とは対照的な性格をしているそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟君の卒業祝いに、何かプレゼントを贈ろうと思っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟君は、まだ幼いのにとてもしっかりしているね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "某をば妙解院殿御弟君｜中務少輔殿立孝公の御旗本に加えられ御幟を御預けなされ候。",
@@ -261,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "弟御",
+        "弟さん",
+        "弟"
+      ],
+      "antonyms": [
+        "兄君"
+      ],
+      "related": [
+        "兄弟",
+        "家族",
+        "敬称"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.697938+00:00Z"
+      "updated_at": "2026-06-02T01:49:06.390150+00:00Z"
     }
   }
 ]

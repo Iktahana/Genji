@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "授業中、彼は上の空で何も頭に入っていなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上の空で返事をして、相手を怒らせてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "心配ごとがあって、上の空になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と兎は上の空で合槌を打ち、「私はどうも、鮒など食べたくもないけれど、でも、あなたがそんなにお好きなのならば、これから一緒に捕りに行つてあげてもいいわよ。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "心ここにあらず",
+        "漫然",
+        "放心"
+      ],
+      "antonyms": [
+        "一心不乱",
+        "集中"
+      ],
+      "related": [
+        "不注意",
+        "散漫",
+        "空想",
+        "ぼんやり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.332389+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.861981+00:00Z",
       "freq_rank": 42142,
       "frequencies": {
         "aozora": 333

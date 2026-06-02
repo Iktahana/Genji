@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "激しい台風に巻き込まれた漁船は、あっけなく海の藻屑と消えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "伝説の海賊が隠した財宝を探しに行ったまま、彼は二度と戻らず海の藻屑と消えてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "逃げ場のない外海で遭難し、彼らの最後は悲劇的に海の藻屑と消えることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつ海の藻屑と消えるか、いつ片手をもぎ取られるか、いつ、遠洋航路につくかわからない、無細工な「海坊主」どもを、どこの「娘」が相手になるか。",
@@ -54,14 +79,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "溺れ死ぬ",
+        "溺死する",
+        "水死する",
+        "沈没する"
+      ],
+      "antonyms": [
+        "生還する"
+      ],
+      "related": [
+        "遭難",
+        "難破",
+        "海難"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.826356+00:00Z"
+      "updated_at": "2026-06-02T00:26:08.108675+00:00Z"
     }
   }
 ]

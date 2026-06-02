@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "叔父さんが海外旅行の御土産話をしてくれた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "皆が楽しみにしている御土産話を聞かせてください",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その旅の御土産話は家族で何度も語られた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "定綱もあきらめて、「――しかし、殿へのおみやげばなしはあるな。",
@@ -45,14 +70,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "旅行談"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "旅行",
+        "会話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.773182+00:00Z"
+      "updated_at": "2026-06-02T02:20:05.872202+00:00Z"
     }
   }
 ]

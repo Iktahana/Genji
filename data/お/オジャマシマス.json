@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お邪魔します、お宅に少しだけ寄らせてもらっていい？」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「急な訪問になってしまって、お邪魔します。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「玄関で靴を揃えて、『お邪魔します』と声をかけた。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「ほな、お邪魔します」　ちいさなモスの風呂敷包みをひらいて、消毒器のなかにはいった脱脂綿をとって、器用な手つきで電話機を消毒し、消毒液入れに消毒液を入れていると、いくつかの眼がじろじろと背中に、顔に、動作に来たようだった。",
@@ -133,14 +158,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "失礼します",
+        "お伺いします",
+        "ごめんください"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挨拶",
+        "訪問",
+        "礼儀",
+        "お邪魔",
+        "ごめんください"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.134229+00:00Z"
+      "updated_at": "2026-06-02T01:33:55.593184+00:00Z"
     }
   }
 ]

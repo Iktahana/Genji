@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ダンサーは優れた運動感覚を持っていることが必要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動感覚が発達することで、スポーツのパフォーマンスが向上します。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "幼少期の遊びを通じて、子どもの運動感覚が育まれます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此奴足もない、眼もないものではあるが、蝦や蟹が如何に運動感覚の器官が発達していても、この場所ではこれと競争は出来ぬ。",
@@ -93,14 +118,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運動覚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感覚",
+        "運動",
+        "知覚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.495679+00:00Z"
+      "updated_at": "2026-06-02T00:29:53.937980+00:00Z"
     }
   }
 ]

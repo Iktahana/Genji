@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は機嫌をとるために、わざとらしくお世辞を言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「君のプレゼンは素晴らしいね」と、取引先の担当者にお世辞を言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "本音を言わずにただお世辞を言うだけでは、信頼関係は築けない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「私がお世辞を言うものですかな、真実ですえ。",
@@ -198,14 +223,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "おべっかを言う",
+        "へつらう",
+        "媚びる",
+        "阿る"
+      ],
+      "antonyms": [
+        "批判する",
+        "けなす"
+      ],
+      "related": [
+        "お世辞",
+        "褒める",
+        "社交辞令",
+        "追従"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.212106+00:00Z"
+      "updated_at": "2026-06-02T01:35:26.391051+00:00Z"
     }
   }
 ]

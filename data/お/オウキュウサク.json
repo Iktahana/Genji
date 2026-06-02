@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システム障害が発生したが、すぐに応急策を講じて事なきを得た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この雨漏りは、とりあえずの応急策でしのぐしかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予算がないため、まずは応急策として現状維持に努めることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが在野党側の学生は、食糧不足に対する一つの応急策として、禁酒法案を提出する事に決めたので、その説明の任に当らなければならない筈の市村氏は、困り切つて学生に妥協を申し出た。",
@@ -117,14 +142,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "緊急措置",
+        "一時しのぎ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "対策",
+        "計画",
+        "回避"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.183061+00:00Z"
+      "updated_at": "2026-06-02T01:10:01.705880+00:00Z"
     }
   }
 ]

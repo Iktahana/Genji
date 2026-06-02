@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の代から続く土木請負業を継ぐために、彼は資格の勉強を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大手メーカーから仕事を回してもらう、下請けの請負業を中心に営んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "請負業を営むには、自治体からの許可証が必要不可欠だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでスイスなどで兵隊商売、即ち戦争の請負業ができて、国家が戦争をしようとしますと、その請負業者から兵隊を傭って来るようになりました。",
@@ -213,14 +238,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "建設業"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "請負",
+        "請負業者",
+        "施工",
+        "ビジネス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.791135+00:00Z",
+      "updated_at": "2026-06-01T22:05:06.823362+00:00Z",
       "frequencies": {
         "aozora": 23
       }

@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "メニューを眺め、迷ったあげく彼女は本日のおすすめ定食を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -295,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "選択する",
+        "選抜する",
+        "決める"
+      ],
+      "antonyms": [
+        "捨てる",
+        "諦める"
+      ],
+      "related": [
+        "判断",
+        "決定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.050480+00:00Z",
+      "updated_at": "2026-06-02T00:57:08.123058+00:00Z",
       "freq_rank": 2658,
       "frequencies": {
         "aozora": 6276

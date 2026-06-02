@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恐れながら申し上げますと、その計画には重大な欠陥がございます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "恐れながら、先程の決定を再考していただけないでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "恐れながら、部長、今月の売上目標は達成が困難かと存じます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「恐れながら申し上げます。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "失礼ですが",
+        "恐れ多くも",
+        "申し上げますが"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "謙虚",
+        "失礼",
+        "申し訳ない",
+        "恐れ多い",
+        "前置き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.320279+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.499001+00:00Z"
     }
   }
 ]

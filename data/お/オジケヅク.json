@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "難解な課題を前にして、思わず怖気づいてしまいそうになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大観衆を前に、新人歌手は少し怖気づいているようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "厳しい先輩の剣幕に、彼は怖気づいて何も言えなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それどころか、彼女の境遇としては又ない良縁として、老夫人は、ことの意外さに怖気づくおもんを励まし、帰京早々両親にそのことを伝えたのである。",
@@ -104,14 +129,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怖じける",
+        "臆する",
+        "ひるむ",
+        "たじろぐ",
+        "尻込みする"
+      ],
+      "antonyms": [
+        "勇み立つ",
+        "奮い立つ"
+      ],
+      "related": [
+        "恐怖",
+        "臆病",
+        "怖気",
+        "尻込み",
+        "恐れる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.118085+00:00Z"
+      "updated_at": "2026-06-02T01:33:55.588886+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仏教の教えでは、悟りを開いた聖者を応供と呼ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その寺院に安置されている仏像は、応供の姿を忠実に再現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は応供の境地を目指し、日々瞑想に励んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "袈裟のかげに隠れる、嘘の経文を読む、貰いの技巧を弄する、――応供の資格なくして供養を受ける苦脳には堪えきれなくなったのである。",
@@ -61,14 +86,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "阿羅漢"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "悟り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.206341+00:00Z",
+      "updated_at": "2026-06-02T01:10:20.706274+00:00Z",
       "frequencies": {
         "aozora": 4
       }

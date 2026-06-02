@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "潜水艇が海面に浮き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "深い水の底から浮き出す空気の泡。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長く沈んでいた木が季節の変化で浮き出す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……彼の行く手のギラギラとゆらめく光りの中に、ともすれば眼の大きい、唇の小さい、ふっくらした彼女の顔が、白い歯を輝かして浮き出すのであった。",
@@ -273,21 +298,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "石膏の浮き彫りが陰影で浮き出す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "暗い部屋の中で懐中電灯の光に浮き出す地図。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しいコーティングによって隠れた模様が浮き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "浮かぶ",
+        "出現する",
+        "現れる"
+      ],
+      "antonyms": [
+        "沈む",
+        "隠れる"
+      ],
+      "related": [
+        "表面",
+        "顕著",
+        "見える"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.740177+00:00Z",
+      "updated_at": "2026-06-01T22:04:00.459212+00:00Z",
       "frequencies": {
         "aozora": 523
       }

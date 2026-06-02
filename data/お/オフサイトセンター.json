@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社の重要な戦略会議は、郊外のオフサイトセンターで開催された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そのオフサイトセンターは、緑に囲まれた静かな環境にある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "マネジャー研修のためのオフサイトセンターでの2日間の合宿に参加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "オンサイトセンター"
+      ],
+      "related": [
+        "緊急時対応",
+        "原子力",
+        "災害対策",
+        "バックアップ",
+        "拠点",
+        "危機管理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.429410+00:00Z"
+      "updated_at": "2026-06-02T02:12:24.207449+00:00Z"
     }
   }
 ]

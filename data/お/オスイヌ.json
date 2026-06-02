@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近所の公園で、元気なオス犬と散歩している人を見かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "うちで飼っているオス犬は、とても人懐っこい性格だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ドッグランで、他のオス犬と仲良く遊ぶ姿が微笑ましい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たくましかった虎毛“百”　奈良田部落の調査を終えて、それから高山、トノコヤ峠を越えて芦安村に出るため、深沢さんという猟師に道案内を頼みましたが、この人の連れていた虎毛八カ月のオス犬が実に名犬でした。",
@@ -47,14 +72,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "雄犬",
+        "牡犬"
+      ],
+      "antonyms": [
+        "メス犬",
+        "雌犬"
+      ],
+      "related": [
+        "犬",
+        "性別",
+        "ペット"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.163435+00:00Z",
+      "updated_at": "2026-06-02T01:33:49.193580+00:00Z",
       "frequencies": {
         "aozora": 1
       }

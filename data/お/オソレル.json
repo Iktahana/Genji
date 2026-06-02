@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "失敗を恐れるあまり、何もしないのが一番の失敗だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は死を恐れる様子など微塵も見せず、微笑んで旅立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "国民が独裁者を恐れる時代は、もう終わるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "噂に拠れば、男女川はその身長に就いての質問を何よりも恐れるそうである。",
@@ -278,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怖がる",
+        "畏怖する",
+        "懸念する",
+        "危ぶむ"
+      ],
+      "antonyms": [
+        "信頼する",
+        "克服する"
+      ],
+      "related": [
+        "恐怖",
+        "怖さ",
+        "恐れ",
+        "不安",
+        "危険"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.320711+00:00Z",
+      "updated_at": "2026-06-02T01:37:49.499358+00:00Z",
       "freq_rank": 12519,
       "frequencies": {
         "aozora": 6708

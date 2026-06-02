@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その主張には具体的な裏付けがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "統計データが主張の裏付けとなっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "弁護士は新しい証拠で主張の裏付けを強化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たゞ或る時は僅かな経済学的知識を持出してその裏付けとなし、或る時は自分の感傷にまかせてダダを捏ねるのである。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "根拠",
+        "立証",
+        "証拠",
+        "裏書"
+      ],
+      "antonyms": [
+        "憶測",
+        "根拠レス"
+      ],
+      "related": [
+        "調査",
+        "証明",
+        "証言"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.975109+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.184572+00:00Z",
       "freq_rank": 11841,
       "frequencies": {
         "aozora": 54

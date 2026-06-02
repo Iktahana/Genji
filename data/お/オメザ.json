@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供の頃、朝起きると枕元に置いてあるお目覚を食べるのが楽しみだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖母は毎朝、私が目を覚ますとお目覚として小さな干し柿をくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "まだ眠そうにしている娘に、お目覚の金平糖を一粒差し出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「まあお気の毒さまねエ、明朝のお目覚にやりましょう。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "朝菓子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "習慣",
+        "朝",
+        "菓子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.807595+00:00Z"
+      "updated_at": "2026-06-02T02:20:20.215147+00:00Z"
     }
   }
 ]

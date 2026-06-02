@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母がお隠れになって一年が経った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ご両親がお隠れになられた後、兄妹で協力した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "100歳を超えてお隠れになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東の姫君にも同じように父親らしくふるまっている大納言ではあったが、どんな容貌なのかを見たく思って、「いつもお隠れになるのは困ったことだ」　と恨みながら、人知れず見る機会をうかがっていたが、絶対と言ってもよいほど、姫君は影すらも継父に見せないのであった。",
@@ -142,14 +167,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "亡くなる",
+        "他界する",
+        "逝去する"
+      ],
+      "antonyms": [
+        "生まれる"
+      ],
+      "related": [
+        "死去",
+        "崩御",
+        "葬儀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.211761+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.174137+00:00Z"
     }
   }
 ]

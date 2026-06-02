@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高級寿司店で大トロが目玉商品になっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新鮮な大トロは口の中でとろけるようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "築地市場で大トロの競り値が今日も高騰している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ゴーゴリおお露西亜よ汝は飛ぶ、汝は道をつくってゆく、汝の動く時、汝は自由だ、あらゆる国土の上を、あらゆる紛乱と殺戮の上を、おおトロイカよ汝は飛ぶ。",
@@ -47,14 +72,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "トロ"
+      ],
+      "antonyms": [
+        "赤身"
+      ],
+      "related": [
+        "マグロ",
+        "刺身",
+        "寿司",
+        "高級食材"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.958107+00:00Z"
+      "updated_at": "2026-06-02T01:17:06.294443+00:00Z"
     }
   }
 ]

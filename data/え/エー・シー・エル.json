@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ネットワークのACLルールにより特定のIPアドレスからのアクセスが遮断される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "セキュリティ管理者がACLを厳しく設定して不正アクセスを防いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このACLではTelnetの通信が許可されていない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ＴＲＯＮ用語で恐縮だが、ＴＡＣＬ（トロン・アプリケーション・コントロールフロー・ランゲッジ）が組み込まれていないので、お回しと呼ばれるアプリケーションの自動運転はきかない。",
@@ -49,12 +74,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ネットワーク",
+        "セキュリティ",
+        "権限管理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.934133+00:00Z"
+      "updated_at": "2026-06-02T01:07:51.572366+00:00Z"
     }
   }
 ]

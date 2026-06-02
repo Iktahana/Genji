@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "泥棒が入らないよう、玄関のドアに内鍵をしっかりかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "トイレの内鍵が壊れてしまい、中から出られなくなって焦った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓に補助用の内鍵を取り付けてセキュリティを強化する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "風呂場の構へは大町人にしても立派で、外からのたつた一つの入口は、用心よく内鍵で嚴重に締めてあります。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内錠",
+        "室内錠"
+      ],
+      "antonyms": [
+        "外鍵",
+        "外錠"
+      ],
+      "related": [
+        "錠前",
+        "施錠",
+        "ドアロック",
+        "鍵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.221394+00:00Z",
+      "updated_at": "2026-06-01T22:16:23.666381+00:00Z",
       "frequencies": {
         "aozora": 3
       }

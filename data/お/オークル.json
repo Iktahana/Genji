@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "画家はオークルの顔料を使って夕焼けの温かみを表現した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その陶器はオークルと深緑を基調とした落ち着いた色合いだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ファッション誌でオークルのコーデが秋の定番として紹介されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勇兄さんのお描きなつた海の風景と、チヨコレートにボンボン、コテイのオークルジヨン、雑誌が二冊、とても私の嬉しさ楽しさ、空想してみて下さい。",
@@ -159,14 +184,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "黄土色",
+        "黄土"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔料",
+        "色",
+        "絵画"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:12.280519+00:00Z",
       "frequencies": {
         "aozora": 14
       }

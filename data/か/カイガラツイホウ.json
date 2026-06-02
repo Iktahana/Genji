@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代アテネの貝殻追放制度では、市民の投票によって政治的脅威とみなされた人物が十年間追放された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "テミストクレスもかつて貝殻追放によってアテネから追われた一人だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "歴史の授業で貝殻追放の仕組みを学び、民主主義の逆説的な側面に興味を持った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「貝殻追放」の作者はあたまで諾かなかつた。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "追放",
+        "逐出"
+      ],
+      "antonyms": [
+        "受け入れ"
+      ],
+      "related": [
+        "民主主義",
+        "投票",
+        "古代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:48:47.641082+00:00Z"
     }
   }
 ]

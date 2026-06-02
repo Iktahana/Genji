@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "早朝五時に魚市場へ行くと、仲買人たちが威勢のいい声でせりを行っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅行先の港町で魚市場を訪れ、とれたてのカニを買って宿でゆでて食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地元の魚市場では毎週土曜日、一般客向けに新鮮な魚介類が特売される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奥に松山を控えているだけこの港の繁盛は格別で、分けても朝は魚市が立つので魚市場の近傍の雑踏は非常なものであった。",
@@ -253,14 +278,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "市場"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魚河岸",
+        "商業施設"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.665051+00:00Z",
+      "updated_at": "2026-06-01T22:01:35.605817+00:00Z",
       "frequencies": {
         "aozora": 69
       }

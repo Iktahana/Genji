@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は疑い深い性格なので、新しい友人との関係に時間がかかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疑い深い祖母は宅配業者を家に入れなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女の疑い深い態度は長年の経験から来ていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これだけの事実はいかなる疑い深い人でも認めないわけにはいかないだろうと思う。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "懐疑的",
+        "不信感が強い"
+      ],
+      "antonyms": [
+        "盲信的",
+        "信頼が厚い"
+      ],
+      "related": [
+        "用心深い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.135877+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.861928+00:00Z",
       "frequencies": {
         "aozora": 153
       }

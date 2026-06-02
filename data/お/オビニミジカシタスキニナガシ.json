@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この新しい計画は帯に短し襷に長しで、どちらの目的にも不充分だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯に短し襷に長しという状態が続いているので決断が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯に短し襷に長しではなく、はっきり方向を決めるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後ぞいをもらわぬ気でもなし、またいろいろ世話をしてくれた人もあるが、古いたとえの、帯に短し襷に長し、でもう四十にまもないのにこのところ、一人者である。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "中途半端",
+        "どっちつかず",
+        "帯に短し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "役不足",
+        "使いにくい",
+        "諺",
+        "慣用句"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.357013+00:00Z"
+      "updated_at": "2026-06-02T02:09:53.314025+00:00Z"
     }
   }
 ]

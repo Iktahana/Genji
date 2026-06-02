@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このマウスはオプティカル方式を採用しており、木目のテーブルの上でも安定して動作する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しいオプティカルセンサーを搭載したカメラは、薄暗い室内での撮影性能が格段に向上した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オプティカルな錯視を利用したアート作品が美術館の一角に展示されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ナレーションと音楽の磁気テープをフィルムに光学録音しなおし、オプティカルもすませた。",
@@ -47,14 +72,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "光学的"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "光",
+        "光学",
+        "視覚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.552920+00:00Z",
+      "updated_at": "2026-06-02T02:15:15.805605+00:00Z",
       "frequencies": {
         "aozora": 1
       }

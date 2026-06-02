@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ヨーロッパから輸入した金雀枝を庭の東側に植えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "春になると黄色い花を咲かせる金雀枝は、ガーデニング愛好家の間で人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "植物図鑑で金雀枝について調べたところ、北ヨーロッパが原産地だと書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "停車場の棚に金雀枝がいっぱい咲いていた――三浪津の駅。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "エニシダ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "マメ科",
+        "低木",
+        "花"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.748310+00:00Z",
+      "updated_at": "2026-06-02T00:47:50.289744+00:00Z",
       "frequencies": {
         "aozora": 21
       }

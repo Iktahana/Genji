@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "木こりは太い幹に向かって斧を勢いよく打ち下ろした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "剣道で相手の面を上から力強く打ち下ろす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "金槌を釘の頭にまっすぐ打ち下ろした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから文吉が「したこらよいしょ」と掛声して、土手の土に棒を打ち下ろす振りをすると、「ほい、ほい」と合の手を入れます。",
@@ -126,14 +151,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "振り下ろす",
+        "叩きつける",
+        "打ち落とす"
+      ],
+      "antonyms": [
+        "打ち上げる",
+        "振り上げる"
+      ],
+      "related": [
+        "打撃",
+        "振り下ろし",
+        "斬り下ろす"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.206440+00:00Z",
+      "updated_at": "2026-06-01T22:16:23.664774+00:00Z",
       "frequencies": {
         "aozora": 36
       }

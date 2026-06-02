@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "多くの人の人生の夢が、戦争によって烏有に帰してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "一瞬の事故で、三十年間の研究成果が烏有に帰した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "せっかくの経営計画が市場変動で烏有に終わってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アレヨアレヨといううちに西北の烈風に煽られて、見る間に数十町歩を烏有に帰したので、都の消防が残らず駈けつけるなぞ、一時は大変な騒ぎであったが、幸いに人畜に被害も無く、夜明け方に鎮火した。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無",
+        "存在しない",
+        "無一物"
+      ],
+      "antonyms": [
+        "存在"
+      ],
+      "related": [
+        "消滅",
+        "虚無",
+        "烏有に帰す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.888394+00:00Z",
+      "updated_at": "2026-06-02T00:22:44.000181+00:00Z",
       "frequencies": {
         "aozora": 99
       }

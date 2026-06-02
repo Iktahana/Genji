@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "締め切り当日の夜、彼女は緊張しながら小説コンクールに応募した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "求人広告を見てすぐに応募したが、書類選考で落とされてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新商品のモニター募集に応募したところ、抽選で当選の知らせが届いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分も時に応募していたが、自分の書いた文章が活字になったのは多分それが最初であったと思う。",
@@ -274,14 +299,25 @@
       "homophones": [
         "王母"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "申し込み",
+        "志願",
+        "申込"
+      ],
+      "antonyms": [
+        "辞退",
+        "棄権"
+      ],
+      "related": [
+        "募集",
+        "選考",
+        "採用"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.457944+00:00Z",
+      "updated_at": "2026-06-02T01:12:51.649559+00:00Z",
       "freq_rank": 3009,
       "frequencies": {
         "aozora": 129
@@ -318,7 +354,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「王母の形見のかんざしは、今でも桐箱に大切にしまってあります」と彼女は静かに言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "法要の席で、王母が生前に好んでいた季節の花々が仏前に供えられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "王母の遺した日記を読み返すと、戦時中の苦労がありありと伝わってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まさか赤坊の時から、紫式部や、おっぱい御上り、清少納言や、おしっこをなさい、ワンワン来い来い、などと云われたので無かろうことは分っているが、仙人の女王、西王母の、姓は侯、名は婉泥滞水の挨拶を以て其場を済ませて置くというようなことも仕無かったろうから、次第次第に夫婦の間は険悪になっていったであろう。",
@@ -560,9 +621,15 @@
       "homophones": [
         "応募"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "祖母",
+        "亡き祖母"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "親族",
+        "敬称"
+      ]
     },
     "meta": {
       "version": "1.0.0",

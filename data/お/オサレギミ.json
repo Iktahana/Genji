@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "序盤は優勢だったチームも、中盤以降は相手の猛攻に押され気味だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "議論が白熱する中、彼は相手の論理に押され気味で、なかなか反論の隙が見つからない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "雨に押され気味の週末のキャンプ計画を、急遽室内イベントに変更することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "春風駘蕩たるところが無いんで、僕なんか、いつでも南国の芸術家には押され気味だ。",
@@ -190,14 +215,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "劣勢",
+        "不利",
+        "後退"
+      ],
+      "antonyms": [
+        "優勢",
+        "有利"
+      ],
+      "related": [
+        "競争",
+        "対立",
+        "立場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.879412+00:00Z"
+      "updated_at": "2026-06-02T01:28:47.221326+00:00Z"
     }
   }
 ]

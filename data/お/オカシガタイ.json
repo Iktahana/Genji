@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の犯しがたい威厳に、周囲の誰もがひれ伏した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その芸術作品には、人を寄せ付けない犯しがたい気品がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "厳粛な雰囲気の中で、その犯しがたい空気が場を支配した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "貯金のたくさんある人には、やつぱりどこか犯しがたい雅操がある。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "侵しがたい",
+        "尊い",
+        "厳粛な"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "尊厳",
+        "権威",
+        "神聖"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.232173+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.182134+00:00Z"
     }
   }
 ]

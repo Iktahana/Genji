@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「最近、誰かに尾行されていませんか」と聞かれ、思い当たるふしがあって背筋が冷えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女が突然距離を置くようになった件について、思い当たるふしがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "部長に呼ばれたとき、思い当たるふしがあって少し緊張した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "知識とは少しちがう「智恵」については第三十八段に「智恵出でては偽あり」とか「学びてしるは、まことの智にあらず」などと云っているのは現代人にも思い当たるふしがあるであろう。",
@@ -46,14 +71,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "心当たりがある",
+        "思い当たる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "疑念",
+        "記憶",
+        "根拠"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.855665+00:00Z"
+      "updated_at": "2026-06-02T02:20:49.457368+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "落選の知らせを受けて、選手は項垂れて帰路に着いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試験に失敗して、学生は項垂れながら教室を出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "悔しさで項垂れたままの彼に、友人が励ましの言葉をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フラフラと立ち上って、足許定まらず壁に凭れて項垂れる。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "うつむく",
+        "項を垂れる"
+      ],
+      "antonyms": [
+        "顔を上げる",
+        "誇らしげにする"
+      ],
+      "related": [
+        "落ち込む",
+        "悲しむ",
+        "恥じる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.606650+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.444511+00:00Z",
       "frequencies": {
         "aozora": 109
       }

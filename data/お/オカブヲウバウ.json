@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新入社員が先輩のお株を奪うほどの企画書を提出し、会議室がどよめいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「あいつに料理でお株を奪われるとは思わなかった」と料理人は苦笑した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ライバルにすっかりお株を奪われてしまい、自分の得意分野を見直すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "敵のお株を奪うに限ると考えて、やにわに犬のノド笛にかみついたのである。",
@@ -54,14 +79,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "凌駕する",
+        "圧倒する",
+        "追い抜く",
+        "顔負けさせる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "得意",
+        "逆転",
+        "技術",
+        "本職"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.270273+00:00Z"
+      "updated_at": "2026-06-02T01:20:04.166204+00:00Z"
     }
   }
 ]

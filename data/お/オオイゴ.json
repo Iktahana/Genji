@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の大御が、昔の話をしてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大御の世話になって、この土地について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大御は毎日のように庭で野菜を育てていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後進の能力を認めこれに信頼することの出来ない大御所的大家ではなかったのである。",
@@ -221,14 +246,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大方",
+        "老婦人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "高貴",
+        "女性",
+        "古語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.587871+00:00Z",
+      "updated_at": "2026-06-02T01:13:58.430248+00:00Z",
       "frequencies": {
         "aozora": 238
       }

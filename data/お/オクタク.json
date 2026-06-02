@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の臆度は見事に外れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その判断は臆度に基づいているように見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者は患者の症状から慎重に臆度を立てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、どうかして、もう二どと怪獣の御殿にかえられないように、かえれば、すぐとおこられて、くいころされてしまうようにといのって、一週間という約束を、むりやりやぶって、いつまでもひきとめておくたくらみをしました。",
@@ -46,14 +71,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "憶測",
+        "推測",
+        "臆断",
+        "推量",
+        "見当"
+      ],
+      "antonyms": [
+        "確信",
+        "実証"
+      ],
+      "related": [
+        "憶説",
+        "憶断",
+        "推理",
+        "当て推量"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.559661+00:00Z"
+      "updated_at": "2026-06-02T01:24:51.170594+00:00Z"
     }
   }
 ]

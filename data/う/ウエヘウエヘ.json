@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仕事の成果は上へ上へと積み重なっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気球は上へ上へと上昇していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の評価は上へ上へと上がっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三階の廊下から見上げた山腹の各旅館の、明るく灯のともつた室々の障子の列が上へ上へと暗い夜空の上に累積してゐる光景は、龍宮城のやうに、蜃氣樓のやうに、又ニユーヨークの摩天樓街のやうにも思はれた。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "高く高く"
+      ],
+      "antonyms": [
+        "下へ下へ"
+      ],
+      "related": [
+        "上昇",
+        "高度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.598933+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.289600+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弟さんは、今どちらにお住まいなのですか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟さんはスポーツが得意だと伺いましたよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弟さんの結婚式には、ぜひお招きください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それならあなた、弟さんを直ぐに連れてお帰りなさいましよ。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "弟",
+        "弟君",
+        "弟御"
+      ],
+      "antonyms": [
+        "お兄さん"
+      ],
+      "related": [
+        "兄弟",
+        "家族",
+        "年下"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.700621+00:00Z"
+      "updated_at": "2026-06-02T01:49:06.391333+00:00Z"
     }
   }
 ]

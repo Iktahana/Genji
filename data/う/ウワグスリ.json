@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この陶器は、美しい緑色の「釉薬」で仕上げられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "職人は一つ一つの器に、手作業で「釉薬」を塗っていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「釉薬」の種類によって、焼き上がりの色合いが大きく変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "西の方には木曾御嶽が、緩斜の裾を引いて、腰以下を雲の波で洗わせている、乗鞍岳は、純藍色に冴えかえり、その白銀の筋は、たった今落ちたばかりの、新雪ででもあるかのように、釉薬をかけた色をして、鮮やかに光っている。",
@@ -280,14 +305,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "施釉"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "陶磁器",
+        "薬",
+        "塗り",
+        "光沢",
+        "焼き物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.295088+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.203487+00:00Z",
       "frequencies": {
         "aozora": 126
       }

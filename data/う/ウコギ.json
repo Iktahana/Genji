@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えた五加の新芽を摘んで、今夜は天ぷらにしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父は昔から、五加の葉を混ぜた炊き込みご飯が好物だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "垣根として植えられている五加には鋭い棘がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "停車場で買った五加棒などを土産に持って、お庄はその夕方に家へ帰った。",
@@ -152,14 +177,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ウコギ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ウコギ科",
+        "山菜",
+        "薬草"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.842806+00:00Z",
+      "updated_at": "2026-06-01T22:07:31.296940+00:00Z",
       "frequencies": {
         "aozora": 4
       }

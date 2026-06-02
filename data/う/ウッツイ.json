@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「まあ、なんて美いお月様かしら」と彼女はうっとりと呟いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "職人の手によって、美い装飾が施された伝統工芸の箪笥が完成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅先で偶然目にしたのは、息を呑むほど美い夕焼け空だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「まあ、美い女の方だらう。",
@@ -253,14 +278,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "美しい"
+      ],
+      "antonyms": [
+        "醜い"
+      ],
+      "related": [
+        "容姿",
+        "艶やか",
+        "優雅"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.443450+00:00Z",
+      "updated_at": "2026-06-01T22:56:28.284599+00:00Z",
       "frequencies": {
         "aozora": 375
       }

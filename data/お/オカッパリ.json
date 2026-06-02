@@ -31,21 +31,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "船を持っていないので、いつもおかっぱりでブラックバスを狙っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "おかっぱりで大物を釣り上げたと聞いて、みんながその場所を聞きに来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「今日はおかっぱりで十分釣れたよ」と釣り仲間に報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "陸釣り",
+        "岸釣り",
+        "土手釣り"
+      ],
+      "antonyms": [
+        "船釣り",
+        "沖釣り"
+      ],
+      "related": [
+        "釣り",
+        "河川",
+        "湖",
+        "池",
+        "釣り場",
+        "岸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.252318+00:00Z"
+      "updated_at": "2026-06-02T01:20:15.449147+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その憶説は確かな証拠に基づいていない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "科学者たちはこの憶説を検証するために実験を行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の憶説は興味深いが、まだ立証されていない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二月前の去年十一月八日、疑問の憤死を遂げたために、流布憶説まちまちだった。",
@@ -77,14 +102,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仮説",
+        "推測",
+        "臆測",
+        "仮定",
+        "推論"
+      ],
+      "antonyms": [
+        "定説",
+        "実証",
+        "確説"
+      ],
+      "related": [
+        "推理",
+        "憶断",
+        "見解",
+        "仮説",
+        "臆断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.557535+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.169224+00:00Z",
       "frequencies": {
         "aozora": 7
       }

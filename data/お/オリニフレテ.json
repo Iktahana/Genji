@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "折に触れて、亡き祖父の言葉を思い出す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私たちは折に触れて、近況を報告し合っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この場所を訪れると、折に触れて昔の記憶が蘇る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "車夫はその不景気を馬車会社に怨みて、人と馬との軋轢ようやくはなはだしきも、わずかに顔役の調和によりて、営業上｜相干さざるを装えども、折に触れては紛乱を生ずることしばしばなりき。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "時折",
+        "折々"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "機会",
+        "習慣"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:25:27.816027+00:00Z"
     }
   }
 ]

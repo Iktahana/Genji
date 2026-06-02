@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裏路地には昔ながらの小さな店が並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "迷った時は、この裏路地を通ると目的地に着く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "観光客が知らない裏路地の方が魅力的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「交番がありますから、裏路地を。",
@@ -173,14 +198,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "路地裏",
+        "裏通り"
+      ],
+      "antonyms": [
+        "大通り"
+      ],
+      "related": [
+        "路地",
+        "通り",
+        "細道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.062234+00:00Z"
+      "updated_at": "2026-06-02T00:29:20.952878+00:00Z"
     }
   }
 ]

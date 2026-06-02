@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は電車の運転士として、20年以上のキャリアがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "バス会社の運転士は、定時運行のために日々努力している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転士の的確な判断が、事故を未然に防いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "地廻りの不良も召集され、運転士も幾人か出て行った。",
@@ -288,21 +313,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一等運転士は、船長の補佐として航海日誌を管理する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "若い運転士が、甲板の安全管理についてベテランから指導を受けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転士として船に乗り込み、世界の海を旅するのが夢だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運転手",
+        "機関士",
+        "ドライバー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉄道",
+        "資格",
+        "乗務員",
+        "点呼",
+        "安全運行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.465766+00:00Z",
+      "updated_at": "2026-06-02T00:29:36.625179+00:00Z",
       "frequencies": {
         "aozora": 273
       }

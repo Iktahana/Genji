@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大会のオフィシャルスポンサーとして名を連ねた企業のロゴが、会場のいたるところに掲示されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "選手のオフィシャルなコメントは所属事務所を通じてのみ発表されることになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市役所のオフィシャルな立場からは、その計画について現時点では何も言えないと担当者が述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "尤も×××××は×××イデオロギーであって、特別にオフィシャルな形を偶々取ったものに他ならないが、問題は、そういう特別にオフィシャルな形を取った、或いは取り得た、当の基底が何か、ということにあるので、夫は社会の一方に於ける通念というようなものなのである。",
@@ -102,14 +127,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公式",
+        "正式",
+        "公的"
+      ],
+      "antonyms": [
+        "非公式",
+        "私的"
+      ],
+      "related": [
+        "正規",
+        "公認"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.396254+00:00Z",
+      "updated_at": "2026-06-02T02:10:12.495909+00:00Z",
       "freq_rank": 7395,
       "frequencies": {
         "aozora": 10

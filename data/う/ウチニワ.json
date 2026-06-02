@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その豪邸の内庭には珍しい植物が育てられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "内庭から見える景色が最も美しいと主人は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は毎朝、内庭で瞑想するのが習慣だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "年齢の相違気力の差、たゞもうこのまゝ……窓の向ふは内庭らしい。",
@@ -279,14 +304,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "中庭",
+        "内院",
+        "中庭園"
+      ],
+      "antonyms": [
+        "外庭",
+        "表庭"
+      ],
+      "related": [
+        "庭園",
+        "坪庭",
+        "回廊",
+        "中庭",
+        "宮廷",
+        "居室"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.307492+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.026163+00:00Z",
       "frequencies": {
         "aozora": 240
       }

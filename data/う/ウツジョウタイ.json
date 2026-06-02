@@ -30,21 +30,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のうつ状態は数ヶ月続いており、仕事に支障が出ていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "妻がうつ状態に陥ってから、夫の心労が増した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医師はうつ状態の改善にあたって薬物療法を勧めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "抑うつ状態",
+        "メランコリー",
+        "憂鬱状態",
+        "意気消沈"
+      ],
+      "antonyms": [
+        "躁状態",
+        "高揚感"
+      ],
+      "related": [
+        "精神疾患",
+        "うつ病",
+        "メンタルヘルス",
+        "気分障害",
+        "心身症"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.486543+00:00Z"
+      "updated_at": "2026-06-01T22:57:02.939070+00:00Z"
     }
   }
 ]

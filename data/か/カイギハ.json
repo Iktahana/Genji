@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代ギリシャの懐疑派は、感覚器官の信頼性に疑問を持っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "懐疑派の哲学者たちは、絶対的な真理の存在を否定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "懐疑派の伝統は、中世哲学にも大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、まア、懐疑派だ。",
@@ -109,14 +134,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "懐疑論者",
+        "懐疑主義者",
+        "不可知論者"
+      ],
+      "antonyms": [
+        "独断派",
+        "信仰派",
+        "教条主義者"
+      ],
+      "related": [
+        "懐疑主義",
+        "哲学",
+        "ピュロン派",
+        "批判的思考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:50:04.451835+00:00Z",
       "frequencies": {
         "aozora": 11
       }

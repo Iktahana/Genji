@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は掃除を億劫がって、部屋を散らかし放題にしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "年を取ると何事も億劫がるようになると祖父が言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "勉強を億劫がる息子を説得するのは大変だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "要心を通越した臆病な処へ、渇くのは空腹にまさる切なさで、一つは其がためにもつい出億劫がるのが癖で。",
@@ -174,14 +199,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嫌がる",
+        "渋る"
+      ],
+      "antonyms": [
+        "喜ぶ"
+      ],
+      "related": [
+        "不安がる",
+        "躊躇する"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.526104+00:00Z"
+      "updated_at": "2026-06-02T01:43:39.558468+00:00Z"
     }
   }
 ]

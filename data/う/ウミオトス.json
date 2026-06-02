@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウミガメは砂浜に穴を掘り、そこに卵を産み落とす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "嵐の夜、母猫は納屋の隅に子猫を産み落とした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "枝から熟した果実が、地面にポトリと産み落とされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "銀子の時は産み落とすまで母は働き、いざ陣痛が来たとなると、産婆を呼びに行く間もなく、泡を喰った父が湯を沸かすのも待たなかった。",
@@ -62,14 +87,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産む",
+        "出産する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "出産",
+        "誕生",
+        "妊娠",
+        "母親"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.787228+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.512684+00:00Z",
       "frequencies": {
         "aozora": 27
       }

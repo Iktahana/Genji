@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもの頃に思い描いた「大人の自分」とは、ずいぶん違う人生を歩んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人で夢の家を思い描きながら、間取りを話し合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女が思い描いていた理想の結婚式は、こんなに質素なものではなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "標準形式ファイルへの転換　電子図書館的なシステムを思い描くとき、当時、まず頭に浮かんだのは、画面で長文を読むことの苦痛だった。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "想像する",
+        "構想する",
+        "心に描く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "未来",
+        "計画",
+        "空想"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.872213+00:00Z",
+      "updated_at": "2026-06-02T02:20:49.462084+00:00Z",
       "freq_rank": 31947,
       "frequencies": {
         "aozora": 133

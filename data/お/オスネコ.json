@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飼い猫のオス猫が、昨夜からどこかへ出かけて戻ってこない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このオス猫は近所でも有名な暴れん坊だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "獣医さんにオス猫の去勢手術について相談した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジンジャーは　ちゃトラの　オスねこで、　ピクルスは　テリアいぬ。",
@@ -48,14 +73,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "雄猫"
+      ],
+      "antonyms": [
+        "メス猫"
+      ],
+      "related": [
+        "猫",
+        "動物",
+        "ねこ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.181769+00:00Z"
+      "updated_at": "2026-06-02T01:34:59.495425+00:00Z"
     }
   }
 ]

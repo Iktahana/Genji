@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弟は水たまりに飛び込んで、泥だらけになるのを面白がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "猫が動くおもちゃに飛びついて、夢中になって面白がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は周囲の反応を面白がって、わざと突飛な発言をする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔の地図と今の電車線路入りの地図と較べているうちに色々のことを発見して独りで面白がることも出来た。",
@@ -278,14 +303,16 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "楽しむ"
+      ],
       "antonyms": [],
       "related": []
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.004819+00:00Z"
+      "updated_at": "2026-06-02T02:21:24.812595+00:00Z"
     }
   }
 ]

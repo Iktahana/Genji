@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "船の上荷を運ぶ作業員たちが声を合わせて掛け声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この倉庫には季節ごとの上荷が積み上げられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上荷の重さを計測してから荷台に積み込む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　と上荷の笊を、一人が敲いて、「ぼんとして、ぷんと、それ、香しかろ。",
@@ -134,13 +159,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "底荷"
+      ],
+      "related": [
+        "積荷",
+        "船舶",
+        "荷重",
+        "バラスト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.328165+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.859942+00:00Z",
       "frequencies": {
         "aozora": 10
       }

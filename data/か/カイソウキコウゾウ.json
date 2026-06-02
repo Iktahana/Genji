@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "XMLの文書構造は階層木構造で表現されるため、パーサーは再帰的にノードをたどって内容を解析する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アルゴリズムの授業で階層木構造の探索を学んだ際、深さ優先と幅優先の違いを実際にコードを書いて確かめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ファイルシステムの設計において階層木構造を採用すると、任意のパスへのアクセスコストをO(d)で見積もれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ツリー構造",
+        "木構造"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "構造",
+        "データ",
+        "グラフ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:15:55.609689+00:00Z"
     }
   }
 ]

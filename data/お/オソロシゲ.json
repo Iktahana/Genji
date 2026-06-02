@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は恐ろしげな仮面をつけて、子供たちを驚かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "暗闇から恐ろしげな唸り声が聞こえてきて、身がすくんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その絵画は、恐ろしげな怪物の姿をリアルに描いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は靈感を喚ぶためのあらゆる人工的な方法を恐ろしげに避けて居りました、私は葡萄酒（ずつと前から嗜んでゐた）も廢するやうになりました、私は自分の生を自然そのものに近づけようと努力いたしました。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怖げ",
+        "怖そう",
+        "不気味",
+        "恐ろしい"
+      ],
+      "antonyms": [
+        "穏やかな",
+        "優しそう"
+      ],
+      "related": [
+        "恐怖",
+        "不気味",
+        "気味悪い",
+        "戦慄",
+        "ぞっとする"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.325350+00:00Z"
+      "updated_at": "2026-06-02T01:37:49.502718+00:00Z"
     }
   }
 ]

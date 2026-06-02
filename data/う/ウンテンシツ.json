@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "運転室の窓から見える景色は、いつも特別なものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転室に入り、複雑な計器類を操作する手順を学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電車の運転室には、安全を守るための様々な装置が備わっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "が、運転室におさまってみると、急に緊張し、さすがに責任を痛感した。",
@@ -61,14 +86,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運転席",
+        "コックピット",
+        "操縦室"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "車両",
+        "鉄道",
+        "トラック",
+        "展望",
+        "前面展望"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.466237+00:00Z"
+      "updated_at": "2026-06-02T00:29:36.626168+00:00Z"
     }
   }
 ]

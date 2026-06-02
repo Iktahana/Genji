@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「城の御錠口を通り抜けると、そこは別世界のような空間だった。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「御錠口で守備兵が目を光らせている。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「かつてこの御錠口は、厳重に管理されていた場所だ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御錠口にかかる手前の廻廊の梅、南殿の梅、三の丸の梅庭、ぽちぽちと胡粉を打ったような花をつけ初めて、霞む夜は、大奥の明りも笑いさざめいて来ましたが、妖鬼のうわさは止みません。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "門",
+        "出入口"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "江戸城",
+        "城郭",
+        "関門"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.143468+00:00Z"
+      "updated_at": "2026-06-02T01:33:49.184059+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建て売り住宅の壁は薄っぺらく、隣の部屋の会話が丸聞こえだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「論旨が薄っぺらい」と教授に指摘され、論文を最初から書き直すことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "薄っぺらいメモ帳を持ち歩いていたら、一週間でページが足りなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どうして俺が毎晩家へ帰って来る道で、俺の部屋の数ある道具のうちの、選りに選ってちっぽけな薄っぺらいもの、安全剃刀の刃なんぞが、千里眼のように思い浮かんで来るのか――おまえはそれがわからないと言ったが――そして俺にもやはりそれがわからないのだが――それもこれもやっぱり同じようなことにちがいない。",
@@ -85,14 +110,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄い",
+        "軽薄な",
+        "中身がない"
+      ],
+      "antonyms": [
+        "内容がある",
+        "深みがある"
+      ],
+      "related": [
+        "知識",
+        "人間性",
+        "厚み",
+        "批判"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.015421+00:00Z",
+      "updated_at": "2026-06-01T22:09:13.037050+00:00Z",
       "frequencies": {
         "aozora": 10
       }

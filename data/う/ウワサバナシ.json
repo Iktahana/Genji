@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "休憩時間は、いつも同僚と「噂話」で盛り上がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "根も葉もない「噂話」に耳を傾けるのは時間の無駄だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「噂話」は面白いけれど、真実かどうかは分からない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば美術や音楽の方面においていわゆる官学派の民間派に対する圧迫といったようなことについて、具体的の実例をあげていわゆる官僚的元老の横暴を語るのであったが、それがただ冷静な客観的の噂話でなくて、かなり興奮した主観的な憤懣を流出させるのであった。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "世間話",
+        "ゴシップ",
+        "陰口"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "噂",
+        "会話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.301991+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.209734+00:00Z",
       "frequencies": {
         "aozora": 172
       }

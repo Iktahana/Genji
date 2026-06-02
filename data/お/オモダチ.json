@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母のアルバムに残る若い頃の写真を見ると、母と瓜二つの面立ちをしていて驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は整った面立ちの持ち主だったが、笑うと目元に愛嬌が宿り、人を引きつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その少年は面立ちこそ幼いが、目に宿る光だけは大人びていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フランス髭を両顎近くまで太く捻っているが、規矩男の面立ちにそっくりだった。",
@@ -269,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "面差し",
+        "顔立ち",
+        "容貌",
+        "表情"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "顔",
+        "人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.023275+00:00Z",
+      "updated_at": "2026-06-02T02:21:45.140622+00:00Z",
       "frequencies": {
         "aozora": 31
       }

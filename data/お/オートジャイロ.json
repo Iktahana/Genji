@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オートジャイロはヘリコプターと違い、エンジンでペラを回転させない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その飛行クラブのオートジャイロはスタント飛行の訓練に使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オートジャイロなら着陸が短くて済むので小さな場所でも使える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると、その第三次「天母生上の雲湖」探検の犠牲者のなかに、 \"Kellett\" 全覆式オートジャイロの操縦者でタマス木戸という、彼の腹心ともいう二世の青年がいたのである。",
@@ -53,14 +78,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "回転翼機"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ヘリコプター",
+        "航空機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:59.325758+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地図を広げると、目的地は現在地の右方にあることがわかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "舞台の右方に設置されたスピーカーから、低音が響いてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "交差点を渡ると、右方に大きな公園が見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この界隈の右方に鳥居をかいて「三島神社」とある。",
@@ -289,21 +314,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雅楽の演奏会で右方の曲が奏でられると、会場に異国情緒あふれる旋律が流れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "右方は朝鮮半島や中国大陸の音楽をもとにした雅楽の区分だと、解説書に書いてあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "平安の宮廷では左方と右方が競い合うように演奏を披露したという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "右側",
+        "右手",
+        "右翼"
+      ],
+      "antonyms": [
+        "左方",
+        "左側",
+        "左手"
+      ],
+      "related": [
+        "左方",
+        "雅楽",
+        "舞楽",
+        "方角",
+        "右大臣",
+        "右近"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.686998+00:00Z",
+      "updated_at": "2026-06-01T23:57:28.206202+00:00Z",
       "frequencies": {
         "aozora": 120
       }

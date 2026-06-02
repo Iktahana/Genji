@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "木工場の床には、作業の跡である大量の大鋸屑が散らばっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大鋸屑を庭の敷石の間に撒くと、雑草が生えにくくなるそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大鋸屑を燃料として再利用するシステムを導入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それどころか卓上に黒い塊、小さな泥玉があって、そこに大鋸屑のようなものがぽつぽつと。",
@@ -189,14 +214,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "木屑",
+        "木粉"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "木材",
+        "鋸",
+        "製材",
+        "ハムスター",
+        "掃除"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.331582+00:00Z",
+      "updated_at": "2026-06-02T01:20:32.669863+00:00Z",
       "frequencies": {
         "aozora": 12
       }

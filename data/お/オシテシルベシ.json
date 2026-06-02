@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼がどれほど苦労してこのプロジェクトを完成させたかは、そのやつれた表情から推して知るべしだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この店の料理がどれほど美味しいかは、行列の長さから推して知るべしである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "長年の努力が実を結んだことは、彼女の自信に満ちた笑顔から推して知るべしだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其の次の室も、他は推して知るべしで、珍什奇器殆ど人界のものにあらず、一同呆然として、口を利くものある事なし。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "想像に難くない",
+        "言わずもがな",
+        "察しがつく",
+        "自明である"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "明白",
+        "当然",
+        "帰結",
+        "類推"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.980569+00:00Z"
+      "updated_at": "2026-06-02T01:28:56.686939+00:00Z"
     }
   }
 ]

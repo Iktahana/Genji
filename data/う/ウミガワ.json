@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このホテルの部屋は海側だから、朝日の眺めが最高だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家を建てるなら、絶対に風通しの良い海側がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "道路の海側に立つと、潮の香りが強く感じられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いちど、津軽半島の日本海側の、或る港町に遊びに行ったが、それとて、私の疎開していた町から汽車で、せいぜい三、四時間の、「外出」とでも言ったほうがいいくらいの小旅行であった。",
@@ -278,13 +303,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "山側",
+        "陸側"
+      ],
+      "related": [
+        "方向",
+        "位置",
+        "浜",
+        "海"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.788328+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.513682+00:00Z",
       "frequencies": {
         "aozora": 9
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、上働きは家事全般を担当していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上働きとして雇われた女性が食事の準備をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上働きの給与は低かったが、住み込みで働けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "で、これ以上働きかけるのは止めにして、次の日曜を待つことにしたが、その間に一遍丹生夫人から電話があった。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "腰元",
+        "女中",
+        "奥女中"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "奉公",
+        "家事",
+        "奥向き",
+        "御殿"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.336104+00:00Z"
+      "updated_at": "2026-06-02T00:29:10.863952+00:00Z"
     }
   }
 ]

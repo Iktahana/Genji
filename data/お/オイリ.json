@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "香川のお土産に、色とりどりの**おいり**を買って帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友達が結婚式のお祝いに**おいり**をくれたので、デザートに散らしてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このソフトクリームには、トッピングとして可愛い**おいり**が乗っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あすこのおくらには、金や銀やダイヤモンドや、ルービーや、珊瑚や真珠が一ぱいはいつてをりますから、おいりになるだけお取り下さいまし。",
@@ -125,14 +150,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "餅菓子",
+        "霰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "香川県",
+        "嫁入り菓子",
+        "婚礼",
+        "伝統菓子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.106566+00:00Z"
+      "updated_at": "2026-06-02T01:08:54.995168+00:00Z"
     }
   }
 ]

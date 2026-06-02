@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この約束手形は、規約により第三者へ裏書譲渡することができない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "代金の支払いに代えて、手元にある手形を取引先に裏書譲渡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は資金繰りのために、受け取った手形を急いで裏書譲渡した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "手形譲渡"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金融",
+        "取引",
+        "手形",
+        "背書"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.921857+00:00Z"
+      "updated_at": "2026-06-02T00:22:59.905735+00:00Z"
     }
   }
 ]

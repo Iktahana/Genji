@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この売地は駅から歩いて5分の好立地だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売地の価格は坪単価で決定される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その売地のチラシがポストに入っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが、直ぐ気が変って眼の前の売地の札の前に立ちどまって自分の僅かな貯金と較べて価格を考えても見たりする。",
@@ -109,14 +134,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "土地販売"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "不動産",
+        "分譲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.123509+00:00Z"
+      "updated_at": "2026-06-02T00:26:41.759141+00:00Z"
     }
   }
 ]

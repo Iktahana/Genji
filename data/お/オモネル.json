@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "権力者に阿る行為は、自分の信念を失うことにつながる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は有名人に阿るような発言をして、人気を得ようとしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "部下たちが上司に阿る様子が、職場の雰囲気を悪くしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人に使われつけている身が主筋に対して、何ぞの愛嬌に、身うちのことを手柄のように暴露して、諂い阿る例は世間によくあり勝ちです。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "媚びる",
+        "へつらう"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "態度",
+        "人間関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.096445+00:00Z",
+      "updated_at": "2026-06-02T02:22:39.426329+00:00Z",
       "frequencies": {
         "aozora": 40
       }

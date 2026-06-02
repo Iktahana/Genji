@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しく導入されたシステムについて、社員は押しなべて好意的な反応を示している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "現代の若者は押しなべてスマートフォンを使いこなし、情報収集が早い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地域の人々は押しなべて温厚で、新参者にも親切に接してくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それらを押しなべてこうえふと云つてるのだが、その光りあるけしきは、本年はまだ霜や風がひどくないので、これからまだ暫らく盛りだと云ふ。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "総じて",
+        "概して",
+        "一様に",
+        "全般的に",
+        "概ね"
+      ],
+      "antonyms": [
+        "個別に",
+        "例外的に",
+        "特殊に"
+      ],
+      "related": [
+        "平均",
+        "全体",
+        "傾向",
+        "統計"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.994266+00:00Z",
+      "updated_at": "2026-06-02T01:28:56.692352+00:00Z",
       "freq_rank": 40244
     }
   }

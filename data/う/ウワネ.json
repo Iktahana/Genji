@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "株価が上値を試している局面だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上値が重い銘柄は売却を検討している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この商品の上値は1000円と決まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おれの村から持って行ったものが、何もかも飛びきりの上値で売れっちまってさ。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "高値",
+        "戻り高値"
+      ],
+      "antonyms": [
+        "下値"
+      ],
+      "related": [
+        "株価",
+        "相場",
+        "騰貴",
+        "売り気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.331350+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.861104+00:00Z",
       "freq_rank": 23408,
       "frequencies": {
         "aozora": 5

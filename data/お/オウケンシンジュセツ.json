@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "王権神授説は中世ヨーロッパで広く支持されていた思想である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "王権神授説によれば、王の権力は神から直接与えられたものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "啓蒙思想家たちが王権神授説を厳しく批判した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "国王が信じておられるのは王権神授説や既に論破された俗説です。",
@@ -45,14 +70,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "王権授与説"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "政治思想",
+        "君主制"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.210249+00:00Z"
+      "updated_at": "2026-06-02T01:10:20.709678+00:00Z"
     }
   }
 ]

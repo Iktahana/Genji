@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "問屋街に店を構える卸商から、一箱単位で仕入れることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その卸商は海外からのバイヤーとも独自のルートを持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地元の青果卸商が廃業し、周辺の八百屋が仕入れ先を失った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内川は大量を取扱う卸商とすれば、彼等は小商人だった。",
@@ -133,14 +158,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "卸売業者",
+        "卸業者",
+        "卸会社"
+      ],
+      "antonyms": [
+        "小売商"
+      ],
+      "related": [
+        "卸売業",
+        "商業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:28:45.533307+00:00Z",
       "frequencies": {
         "aozora": 10
       }

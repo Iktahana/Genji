@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父はかつて、この町で一番の大店を切り盛りしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "老舗の大店だけあって、店内の調度品には風格がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今では少なくなったが、かつての城下町には立派な大店がいくつも並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宅へ帰ってどうすると云うあてもないので、銀座通りをぶらぶら歩き、大店のガラス窓の中を覗いてみたり雑誌屋の店先をあさってみたり、しばらくはほとんど何事も忘れていた。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大商家"
+      ],
+      "antonyms": [
+        "小店"
+      ],
+      "related": [
+        "商人",
+        "老舗",
+        "経済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.893574+00:00Z",
+      "updated_at": "2026-06-02T01:16:33.768747+00:00Z",
       "frequencies": {
         "aozora": 243
       }

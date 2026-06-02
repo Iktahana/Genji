@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はサビに差し掛かると裏声に切り替え、客席をどよめかせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "声変わり前の少年のような透き通った裏声で高音域をこなす歌手だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「裏声を使えばこのキーにも届くよ」と友人がカラオケで教えてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また、心神顛倒は表情で見当がつくし、類死や病的半睡や電気睡眠でもけっしてないのだ」と云って、法水はしばらく天井を仰向いていたが、やがて変化のない裏声で云った。",
@@ -157,14 +182,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ファルセット",
+        "頭声"
+      ],
+      "antonyms": [
+        "地声",
+        "本声"
+      ],
+      "related": [
+        "声",
+        "発声",
+        "歌唱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.947063+00:00Z",
+      "updated_at": "2026-06-02T00:25:54.671999+00:00Z",
       "frequencies": {
         "aozora": 16
       }

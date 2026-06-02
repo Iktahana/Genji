@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼とは学生時代からの長いお付き合いで、何でも話せる仲だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地域の方々とは、古くから良いお付き合いをさせていただいている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ビジネスの現場では、取引先とのお付き合いも非常に重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それじゃ五十｜噸ぐらいですか……とか何とか、お付き合いにでも云おうもんなら……ハイ。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "交際",
+        "付き合い",
+        "交流",
+        "社交"
+      ],
+      "antonyms": [
+        "絶交",
+        "断交"
+      ],
+      "related": [
+        "人間関係",
+        "交友",
+        "社交",
+        "縁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.606491+00:00Z"
+      "updated_at": "2026-06-02T01:46:14.693958+00:00Z"
     }
   }
 ]

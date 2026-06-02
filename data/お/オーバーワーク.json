@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のオーバーワークが原因で、健康を害してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オーバーワークを減らすため、会社は労働時間短縮を導入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者から「オーバーワークは避けるべき」と指摘された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて、国分君は、こうした良心的な自責に追い立てられながら、幾多の生活的な困苦とたたかい、とうとうオーバーワークに倒れなければならなくなった。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "過労",
+        "過剰労働"
+      ],
+      "antonyms": [
+        "休息",
+        "休暇"
+      ],
+      "related": [
+        "労働",
+        "疲労",
+        "健康",
+        "残業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:35:01.207584+00:00Z",
       "frequencies": {
         "aozora": 1
       }

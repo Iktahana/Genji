@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この書家の運筆は力強く、大きな作品でも躍動感がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毛筆の運筆を極めるには、何十年もの修行が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "書道展で彼の運筆の見事さに、多くの人が感嘆の声をあげた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "輪廓といひ、陰影と云ひ、運筆といひ、自分は確にこれまで自分の書いたものは勿論、志村が書いたものゝ中でこれに比ぶべき出來はないと自信して、これならば必ず志村に勝つ、いかに不公平な教員や生徒でも、今度こそ自分の實力に壓倒さるゝだらうと、大勝利を豫期して出品した。",
@@ -205,14 +230,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "筆致",
+        "筆使い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "書道",
+        "筆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.550320+00:00Z",
+      "updated_at": "2026-06-02T00:30:01.987097+00:00Z",
       "frequencies": {
         "aozora": 25
       }

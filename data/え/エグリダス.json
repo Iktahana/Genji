@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スプーンを使って、半分に切ったメロンの中身をきれいにえぐり出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彫刻刀で木の塊から形をえぐり出すようにして作品を作る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "腐った部分をナイフでえぐり出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "チエンでも切れて、野郎の頭さたたき落ちればえんだ」　監督は仕事をしている彼らの一人々々を、そこから何かえぐり出すような眼付きで、見下しながら、側を通って行った。",
@@ -73,21 +98,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "探偵は、事件の背後に隠された真実をえぐり出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼らは巧妙に隠蔽された不正をえぐり出すために調査を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "徹底的なインタビューを通じて、本音をえぐり出すことに成功した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "暴き出す",
+        "摘出する",
+        "掘り出す",
+        "露出させる"
+      ],
+      "antonyms": [
+        "隠す",
+        "埋める"
+      ],
+      "related": [
+        "真相",
+        "追求",
+        "手術",
+        "解明"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.302545+00:00Z",
+      "updated_at": "2026-06-02T00:40:24.968717+00:00Z",
       "frequencies": {
         "aozora": 18
       }

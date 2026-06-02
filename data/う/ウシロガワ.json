@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビルの後ろ側に駐車場がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "テーブルの後ろ側に扉がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後ろ側から見るとまた違う風景が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その石垣といふのは、小さな谷川に臨んで居るので、家の後ろ側の処に橋の一部分が見えて居る。",
@@ -181,14 +206,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "背後",
+        "後方"
+      ],
+      "antonyms": [
+        "前側",
+        "前方"
+      ],
+      "related": [
+        "位置",
+        "方向",
+        "面"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.926505+00:00Z",
+      "updated_at": "2026-06-01T22:08:37.805284+00:00Z",
       "frequencies": {
         "aozora": 13
       }

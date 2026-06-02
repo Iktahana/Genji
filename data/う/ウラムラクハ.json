@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恨むらくは、もう一年早くこの技術と出会えなかったことだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "恨むらくは、彼が最後の公演を見届けることなく旅立ってしまったことである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "作品は高く評価されたが、恨むらくは売り上げが期待を大きく下回った点だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "曰く、恨むらくは節遲きこと一月なり、時既に冬にして我が思ふがまゝならずと。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "残念なことに",
+        "遺憾ながら"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "後悔",
+        "遺憾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.038803+00:00Z"
+      "updated_at": "2026-06-02T00:26:09.503434+00:00Z"
     }
   }
 ]

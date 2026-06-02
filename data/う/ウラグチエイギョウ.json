@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深夜に裏口営業をしている飲食店があると近隣住民から通報が入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "保健所の検査をくぐり抜けて裏口営業を続けていた店がついに摘発された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "閉店後も常連客だけを相手に裏口営業をしていたことが発覚し、営業停止処分を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "裏口営業の料亭か何かであろう。",
@@ -141,14 +166,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "闇営業",
+        "不正営業"
+      ],
+      "antonyms": [
+        "正規営業",
+        "公式営業"
+      ],
+      "related": [
+        "脱税",
+        "不正行為",
+        "脱法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.944034+00:00Z"
+      "updated_at": "2026-06-02T00:25:54.670040+00:00Z"
     }
   }
 ]

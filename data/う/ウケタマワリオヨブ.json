@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「その一件は遠方にてすでに承り及んでおります」と老侍は静かに答えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "かの武将の名声は、辺境の小藩の藩主もとうに承り及んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "都の噂話は旅人の口を通じて、山里の人々も承り及ぶこととなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「これは承り及ぶ塩冶殿浪人。",
@@ -46,14 +71,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "聞き及ぶ",
+        "伝え聞く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "承る",
+        "聞く",
+        "伝聞",
+        "風聞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.805271+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.805978+00:00Z"
     }
   }
 ]

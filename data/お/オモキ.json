@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私たちの会社では、何よりも顧客の信頼に重きを置いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その論文は、理論の新規性において非常に重きがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "歴史的な価値という点において、この仏像の持つ重きは計り知れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし最も躾けに重きを置かれたのは生活の調度の道だったことは、ふた親の性格からして見易き道理であった。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重要性",
+        "重み"
+      ],
+      "antonyms": [
+        "軽少"
+      ],
+      "related": [
+        "重点"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.986039+00:00Z",
+      "updated_at": "2026-06-02T02:21:24.803425+00:00Z",
       "freq_rank": 18470,
       "frequencies": {
         "aozora": 949

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議では賛成票を投じながら、裏向きには反対勢力と通じていた議員がいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "表向きは友好的な態度をとっているが、裏向きの思惑は誰にもわからない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その契約には裏向きの条件が別途存在することを、後になってようやく知らされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "表向きは立派な為替問屋と質屋になっておりまするが、裏向きは筑前切っての大きな博奕宿で御座います。",
@@ -120,21 +145,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急いで着替えたせいで、シャツが裏向きになっていることを電車の中で気づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "色物の洗濯物は裏向きにして干すと色落ちしにくい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「靴下が裏向きだよ」と息子に指摘されて、思わず赤面した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "裏返し",
+        "内側"
+      ],
+      "antonyms": [
+        "表向き",
+        "外側"
+      ],
+      "related": [
+        "裏",
+        "表"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.036677+00:00Z",
+      "updated_at": "2026-06-02T00:26:09.502718+00:00Z",
       "frequencies": {
         "aozora": 11
       }

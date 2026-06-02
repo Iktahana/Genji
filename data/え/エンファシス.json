@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "演技の中でエンファシスを置く部分によって意味が変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プレゼンテーションではエンファシスの付け方が重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "文末にエンファシスを置くことで強調されて聞こえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の思想はある時代、ことに彼が生きている時代へのエンファシスを帯びていた。",
@@ -45,14 +70,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "強調"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "エンファサイズ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.746763+00:00Z",
+      "updated_at": "2026-06-02T01:06:21.761316+00:00Z",
       "frequencies": {
         "aozora": 1
       }

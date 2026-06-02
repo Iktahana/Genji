@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "騎手は馬の面繋を整え、スタートの合図をじっと待った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "飾りのついた華やかな面繋が、パレードの馬をより一層引き立てている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は手際よく馬に面繋を装着し、草原へと連れ出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鷺太郎は、日中の強烈な色彩を、敬遠するという訳でもないが、でも、まだ水泳をゆるされていないので、あの裸体の国である日盛りの浜に、浴衣がけで出かけることが面繋くも感じられ、いつか夕暮の散歩の方を、好もしく思っていた。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "頭絡"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "馬具",
+        "厩舎",
+        "鞍",
+        "手綱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.982609+00:00Z",
+      "updated_at": "2026-06-02T02:21:24.801272+00:00Z",
       "frequencies": {
         "aozora": 1
       }

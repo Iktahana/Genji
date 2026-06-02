@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鏡を見るたびに、目元のシワに老いの波を感じて少し落ち込む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "どんなに抗おうとしても、老いの波は静かに押し寄せてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼もまた、老いの波には勝てず、髪はすっかり白くなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「老いの波かひある浦に立ちいでてしほたるるあまをたれか咎めん　昔の聖代にも老齢者は罪されないことになっていたのでございますよ」　と尼君は言った。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "しわ",
+        "皺"
+      ],
+      "antonyms": [
+        "滑らか"
+      ],
+      "related": [
+        "皮膚",
+        "老化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.078101+00:00Z"
+      "updated_at": "2026-06-02T01:11:01.674884+00:00Z"
     }
   }
 ]

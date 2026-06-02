@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ローマ字は日本語の音標文字として学校教育で教えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "音標文字を用いることで、異言語話者にも正確な発音が伝わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カタカナは日本語における重要な音標文字の役割を果たしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もちろん彼等の意志は、上述のことの外にも、象形文字の常習的困難を避け、日本語を音標文字化することによつて、智識と文化の普及的能率を擧げようとする實利主義にも存するだらうが、同時にこの實利主義は、國語の純粹性を守らうとする別途の意志とも、必然の關係で不離に結びついて居るのである。",
@@ -69,14 +94,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "発音記号"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "音声",
+        "文字"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:30:52.505366+00:00Z",
       "frequencies": {
         "aozora": 4
       }

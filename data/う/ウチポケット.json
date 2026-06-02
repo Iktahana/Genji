@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はコートの内ポケットに手を入れ、パスポートを慎重に取り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大事な手紙なので、紛失しないようにジャケットの内ポケットにしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「内ポケットに財布を入れたまま、クリーニングに出しちゃった」と彼が嘆いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」山田君は、内ポケットをさぐって、その大隅君からの返事を取出し、「いや、これはお見せ出来ません。",
@@ -278,13 +303,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "外ポケット"
+      ],
+      "related": [
+        "ポケット",
+        "衣服",
+        "懐"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.333283+00:00Z"
+      "updated_at": "2026-06-01T22:33:43.068128+00:00Z"
     }
   }
 ]

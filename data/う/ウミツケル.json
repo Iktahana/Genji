@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "産卵期の鮭は海から川を遡上して卵を生み付ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "亀は砂浜に卵を生み付けるために上陸する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ニワトリが産卵期に卵を生み付ける場所として、巣箱を用意している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "めすの鮭は卵をうみつけるときに、自分の頭で川底の砂利を二尺四方くらゐ穴を掘るさうである。",
@@ -46,14 +71,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産む",
+        "産み落とす"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "産卵",
+        "孵化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.803845+00:00Z",
+      "updated_at": "2026-06-02T00:22:56.165868+00:00Z",
       "frequencies": {
         "aozora": 14
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父が創業した染物屋を三代目として受け継ぐことを、彼は二十歳の誕生日に決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母から受け継いだレシピ帳を開くと、色あせた文字でちらし寿司の作り方が書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長男が家業を受け継ぐことになり、弟は都会で自分の道を歩むことを選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マダムは死際に、浜龍にはどうせ好い相手があって、家を出るだろうから、銀子は年も行かないから無理かも知らないけど、気心がよく解っているから、マダムの後釜になって、商売を受け継ぐようにと、そんな意味のことも洩らしていた。",
@@ -278,14 +303,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "引き継ぐ",
+        "継承する",
+        "受け取る",
+        "相続する",
+        "引き受ける"
+      ],
+      "antonyms": [
+        "譲る",
+        "手放す",
+        "引き渡す"
+      ],
+      "related": [
+        "継承",
+        "相続",
+        "遺産",
+        "伝統",
+        "引き継ぎ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.807345+00:00Z",
+      "updated_at": "2026-06-01T22:04:49.807463+00:00Z",
       "freq_rank": 26135,
       "frequencies": {
         "aozora": 234

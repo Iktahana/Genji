@@ -48,6 +48,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "ＨＷＲは原子力発電所で使用される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -56,14 +64,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重水炉"
+      ],
+      "antonyms": [
+        "軽水炉"
+      ],
+      "related": [
+        "原子炉",
+        "重水",
+        "原子力発電",
+        "核分裂",
+        "エネルギー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.969433+00:00Z"
+      "updated_at": "2026-06-02T00:34:02.947580+00:00Z"
     }
   }
 ]

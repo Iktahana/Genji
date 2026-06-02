@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "妹は私の勉強に関する説教をひどく煩がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は自分の私生活に干渉されることを煩がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は質問攻めにすることを煩がる傾向がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うるさがる様子にて。",
@@ -230,14 +255,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "疎む",
+        "嫌う",
+        "厭う"
+      ],
+      "antonyms": [
+        "好む",
+        "歓迎する"
+      ],
+      "related": [
+        "迷惑",
+        "苦痛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.184039+00:00Z"
+      "updated_at": "2026-06-02T00:27:06.142534+00:00Z"
     }
   }
 ]

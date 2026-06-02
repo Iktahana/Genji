@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これから生まれてくる子どもたちのために、この環境を守らなければと強く思った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この子が生まれてくるまで、毎日楽しみにしていたんだよ」と祖母は目を細めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれてくる命に責任を持てないなら、安易に飼うべきではないとブリーダーは言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お母さまはこのお部屋へおこたをこしらへて、小さなすゞちやんが生まれてくるのをまつてゐました。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "生まれる",
+        "誕生する",
+        "産まれてくる"
+      ],
+      "antonyms": [
+        "死ぬ",
+        "逝く"
+      ],
+      "related": [
+        "誕生",
+        "出産",
+        "命",
+        "新生",
+        "産声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.771904+00:00Z"
+      "updated_at": "2026-06-02T00:19:53.740545+00:00Z"
     }
   }
 ]

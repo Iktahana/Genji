@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はエンタメ業界で有名なプロデューサーとして働いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その番組はエンタメ要素が満載で、視聴者を楽しませている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エンタメ業界のトレンドはSNSで急速に広がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "娯楽",
+        "エンターテインメント"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映画",
+        "音楽",
+        "ゲーム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.597007+00:00Z"
+      "updated_at": "2026-06-02T01:04:06.892618+00:00Z"
     }
   }
 ]

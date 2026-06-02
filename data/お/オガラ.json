@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お盆の迎え火を焚くために、庭で乾燥させていた麻幹を並べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の日本の家庭では、麻幹を折って松明の代わりにすることがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "玄関先に麻幹を積んで、祖先を迎える準備を整えるのが家族の習慣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "リュウリュウと麻幹のごとく見事にしごいて、白髯たなびく古木の面に殺気を漂よわながら、エイッとばかり気合もろ共鳥刺しの面前にくり出すと、「小僧ッ、これでも消えぬかッ」　すべてが全くすさまじい変化でした。",
@@ -173,14 +198,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "苧殻"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "麻",
+        "お盆",
+        "迎え火",
+        "送り火",
+        "行事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.347800+00:00Z",
+      "updated_at": "2026-06-02T01:20:32.675616+00:00Z",
       "frequencies": {
         "aozora": 12
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "見積もりのご伺い書をお送りいただけますでしょうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この伺い書に対する回答をお待ちしています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "先週提出した伺い書について進捗をお聞きしたいです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これらはすべて十一宿打ち合わせの上、総代連名の伺い書として総管所あてに提出することになった。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "稟議書",
+        "申請書"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "決裁",
+        "書類",
+        "ビジネス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.694320+00:00Z",
+      "updated_at": "2026-06-01T22:01:03.702760+00:00Z",
       "frequencies": {
         "aozora": 1
       }

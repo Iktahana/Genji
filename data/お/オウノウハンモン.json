@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "将来への不安から、彼は懊悩煩悶の毎日を送っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "失恋の後、友人は深い懊悩煩悶に苛まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "困難な問題に直面し、指導者は夜遅くまで懊悩煩悶を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "時々これぞという原因もなしに、しきりに懊悩煩悶しまして、頭がぐらぐらします。",
@@ -70,14 +95,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "懊悩",
+        "煩悶",
+        "苦悶"
+      ],
+      "antonyms": [
+        "安穏"
+      ],
+      "related": [
+        "悩み",
+        "苦しむ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.420654+00:00Z"
+      "updated_at": "2026-06-02T01:12:23.505793+00:00Z"
     }
   }
 ]

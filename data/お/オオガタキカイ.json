@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建設現場では大型機械が動いており、安全管理が厳しく行われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その工場では大型機械の定期メンテナンスが欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型機械の操作には特別な資格が必要とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "霧の深い日で、十メートル先も見えないくらいだったが、その中を一｜艘の大型機械船がやって来た。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "重機"
+      ],
+      "antonyms": [
+        "小型機械"
+      ],
+      "related": [
+        "建設機械",
+        "クレーン",
+        "ブルドーザー",
+        "工事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.674864+00:00Z"
+      "updated_at": "2026-06-02T01:19:08.549713+00:00Z"
     }
   }
 ]

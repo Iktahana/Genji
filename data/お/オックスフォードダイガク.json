@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はオックスフォード大学で歴史を専攻した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "オックスフォード大学のキャンパスは非常に伝統的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "来年、オックスフォード大学に入学するために猛勉強している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "祖父は王族出の公爵で、こやつ自身もイートン校からオックスフォード大学の出です。",
@@ -157,14 +182,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ケンブリッジ大学"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イギリス",
+        "高等教育",
+        "大学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.537899+00:00Z",
+      "updated_at": "2026-06-02T01:43:39.560931+00:00Z",
       "freq_rank": 36834,
       "frequencies": {
         "aozora": 19

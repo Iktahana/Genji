@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "故郷を離れるときは後ろ髪を引かれる思いだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仕事を辞めるとき、後ろ髪を引かれながらも決断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの頃の思い出に後ろ髪を引かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで後ろ髪を引かれるおもひで、其処を立ち去らうとした時、不図傍らの立札を見ると、白札に鮮やかな墨痕をもつて「学生警鐘」といふ文字が誌されてゐた。",
@@ -110,14 +135,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "未練がある"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感情",
+        "心理",
+        "表現",
+        "後悔"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.926037+00:00Z"
+      "updated_at": "2026-06-01T22:08:37.804919+00:00Z"
     }
   }
 ]

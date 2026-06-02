@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "社長、弊社に於かれましては、本年度も順調に業績を伸ばしております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ご家族の皆様に於かれましては、健やかにお過ごしのこととお慶び申し上げます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "我が校に於かれましては、来月より新しいカリキュラムを導入する予定です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明日、午後六時一五分頃お伺い致したいと存じますが、トリヴェリアン先生におかれましては、ご在宅のほどお願い申し上げます。",
@@ -157,14 +182,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "においては"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "敬語",
+        "文語",
+        "表現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.324899+00:00Z"
+      "updated_at": "2026-06-02T01:20:16.722153+00:00Z"
     }
   }
 ]

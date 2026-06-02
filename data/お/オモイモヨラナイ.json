@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "思いもよらない提案が出た",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日の試験は思いもよらない難易度だった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "思いもよらない人から手紙が届いた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紙屋の亭主こそ実に迷惑で、それがために思いもよらない災難をうけて、一旦は召し捕られたり、その後もたびたび番所へ呼び出されたり、どうもひどい目に逢いましたが、右の事情が判って無事に済みました。",
@@ -278,14 +303,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "思いもかけない",
+        "意外な",
+        "予想外の",
+        "不意の"
+      ],
+      "antonyms": [
+        "予想通り",
+        "案の定"
+      ],
+      "related": [
+        "意外",
+        "驚き",
+        "不意打ち",
+        "予想外",
+        "想定外"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.942375+00:00Z"
+      "updated_at": "2026-06-02T02:23:12.989974+00:00Z"
     }
   }
 ]

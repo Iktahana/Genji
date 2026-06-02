@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "壁の補強のために、木材で裏当てをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "生地の強度を上げるために、裏当ての布を縫い付ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "金属板の裏当てをして、溶接作業を安定させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "エイビスさん、せめて上着のポケットを探り、裏当てに手紙がないか調べるべきでした。",
@@ -53,14 +78,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "裏張り",
+        "当て布"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "補強",
+        "補修",
+        "布地",
+        "皮革"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.902300+00:00Z",
+      "updated_at": "2026-06-02T00:22:59.893900+00:00Z",
       "frequencies": {
         "aozora": 2
       }

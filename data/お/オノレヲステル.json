@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "救助隊員は己を捨てて瓦礫の中に飛び込み、泣き叫ぶ子どもを引き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は己を捨てて患者の回復だけを考え、連日病棟に泊まり込んで看護に当たった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "指導者として己を捨てることができなければ、組織をまとめることはできないと師匠は説いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "絶望において自己を捨てることができず、希望において自己を持つことができぬといふこと、それは近代の主觀的人間にとつて特徴的な状態である。",
@@ -86,14 +111,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "執着を捨てる"
+      ],
+      "antonyms": [
+        "執着する"
+      ],
+      "related": [
+        "利他",
+        "献身",
+        "自己犠牲",
+        "無我"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.211614+00:00Z"
+      "updated_at": "2026-06-02T02:04:31.057953+00:00Z"
     }
   }
 ]

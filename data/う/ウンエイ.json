@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このイベントの円滑な運営には、多くのボランティアの協力が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しいウェブサイトの運営を任され、毎日コンテンツの更新に追われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自治会が運営するコミュニティバスは、高齢者の貴重な足となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まもなくヤングは、指導的役割を果たしただけでなく、都市の運営にも手腕を発揮した。",
@@ -281,14 +306,24 @@
       "homophones": [
         "雲影"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "管理",
+        "経営",
+        "遂行"
+      ],
+      "antonyms": [
+        "停止",
+        "休止"
+      ],
+      "related": [
+        "計画",
+        "運営者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.370183+00:00Z",
+      "updated_at": "2026-06-02T00:28:39.660521+00:00Z",
       "freq_rank": 1102,
       "frequencies": {
         "aozora": 199
@@ -325,7 +360,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広大な草原を、巨大な雲影がゆっくりと横切っていくのが見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "湖の青い水面に、刻々と形を変える雲影が映り込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "空が晴れ渡り、地表から不気味な雲影が消え去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるいはくらみまた燃えて、　　降りくる雪の縞なすは、さは遠からぬ雲影の、　　　　　日を越し行くに外ならず。",
@@ -559,9 +619,14 @@
       "homophones": [
         "運営"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "雲の陰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "景色",
+        "影"
+      ]
     },
     "meta": {
       "version": "1.0.0",

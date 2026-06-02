@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学術シンポジウムの開会の辞で、学長は集まった研究者たちの努力をねぎらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "来賓として招かれた市長が開会の辞を述べ、イベントが正式に幕を開けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "開会の辞を任された彼は、前夜から何度も原稿を読み返して本番に臨んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "が、ちょうど発起人を代表して、当夜の人気だった一俳優が開会の辞を陳べ終った処であった。",
@@ -192,14 +217,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "開式辞",
+        "開会演説"
+      ],
+      "antonyms": [
+        "閉会の辞"
+      ],
+      "related": [
+        "演説",
+        "会議",
+        "挨拶",
+        "式典",
+        "言辞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:45:46.123107+00:00Z"
     }
   }
 ]

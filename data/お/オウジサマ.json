@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「いつか素敵な王子様が現れるわよ」と母は私を励ましてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は自分の王子様を探すために、世界中を旅しているのだと言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "物語のヒロインが王子様と再会するシーンで、会場から歓声が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これを見た燕はどんなけっこうなものをもらったよりもうれしく思って、心も軽く羽根も軽く王子のもとに立ちもどってお肩の上にちょんとすわり、「ごらんなさい王子様。",
@@ -253,14 +278,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "王子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皇太子",
+        "王族",
+        "殿下"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.308710+00:00Z"
+      "updated_at": "2026-06-02T01:13:36.865340+00:00Z"
     }
   }
 ]

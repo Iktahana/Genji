@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "免疫学の授業で、T細胞の応答能が抗原提示細胞との相互作用によって獲得されることを学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "高齢になると免疫細胞の応答能が低下し、ワクチンの効果が得られにくくなることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究チームは、この遺伝子変異が自然免疫系の応答能に直接影響を与えることを突き止めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "対応力",
+        "反応能力"
+      ],
+      "antonyms": [
+        "無能"
+      ],
+      "related": [
+        "能力",
+        "適応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.400596+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.296366+00:00Z"
     }
   }
 ]

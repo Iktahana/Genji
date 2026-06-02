@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼が嘘をついていることに、薄々気付いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プロジェクトが失敗することを、薄々予感していたのだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その真相を薄々知っていたが、言わずにいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それやこれやのことが薄々二人に知れたので、僕から言いだして当分二人は遠ざかる相談をした。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "なんとなく",
+        "ぼんやり",
+        "かすかに"
+      ],
+      "antonyms": [
+        "はっきり",
+        "明確に"
+      ],
+      "related": [
+        "気づく",
+        "予感",
+        "感じる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.976655+00:00Z",
+      "updated_at": "2026-06-01T22:11:05.588282+00:00Z",
       "freq_rank": 37964,
       "frequencies": {
         "aozora": 386

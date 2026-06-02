@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "倉庫の賃料が払えなくなり、在庫を売り急いだせいで相場を大幅に下回る値段で手放した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "投資家たちはパニックになって株を売り急ぎ、市場全体が混乱した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "事業清算のタイムリミットが迫っていたため、社長は設備を売り急ぐほかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なにも彦吉ちっとも売り急ぐには及ばねえから、六十五円の正札を付けて、通りからいっとう眼につくところへ飾っておきねえ。",
@@ -47,13 +72,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "買い急ぐ",
+        "売り惜しむ"
+      ],
+      "related": [
+        "焦燥",
+        "損切り",
+        "相場",
+        "売却"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.084043+00:00Z",
+      "updated_at": "2026-06-02T00:26:48.903093+00:00Z",
       "frequencies": {
         "aozora": 2
       }

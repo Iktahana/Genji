@@ -37,6 +37,22 @@
             {
               "text": "うねうねとした山道を車で進んでいきました。",
               "source": "幻辞"
+            },
+            {
+              "text": "道端の蛇が、草むらの中をうねうねと動いて去っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "山道を車で進んでいると、川がうねうねと曲がりくねりながら続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
             }
           ],
           "literary": [
@@ -270,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "蛇行する",
+        "くねくね"
+      ],
+      "antonyms": [
+        "真っすぐ",
+        "一直線"
+      ],
+      "related": [
+        "波打つ",
+        "動き",
+        "曲線"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T23:33:31.457159+00:00Z",
       "frequencies": {
         "aozora": 256
       }

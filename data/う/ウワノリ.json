@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "船の上乗りが貨物の積み下ろしを指揮していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上乗りとしての経験が長い彼は信頼が厚い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大型船には複数の上乗りが配置されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三樽ばかり船に積んで、船頭殿が一人、嘉吉めが上乗りで、この葉山の小売｜店へ卸しに来たでござります。",
@@ -87,14 +112,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "添乗員"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "荷物",
+        "警護",
+        "護送",
+        "船主"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.334027+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.862405+00:00Z",
       "frequencies": {
         "aozora": 5
       }

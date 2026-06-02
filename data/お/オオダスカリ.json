@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "忙しい時期に手伝いに来てくれて、本当に大助かりだよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "急な雨で傘を貸していただき、大助かりでした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "故障したPCを君が直してくれたおかげで、仕事が大助かりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だいいち、あなた、ちゃんばら活動のロケエションが大助かりです。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大助け",
+        "救い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感謝",
+        "恩人",
+        "協力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.891836+00:00Z",
+      "updated_at": "2026-06-02T01:16:33.767194+00:00Z",
       "frequencies": {
         "aozora": 73
       }

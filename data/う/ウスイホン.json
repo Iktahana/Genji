@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "同人誌即売会で、薄い本を何冊か買った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は薄い本の出版を趣味としている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄い本でも、すごく丁寧に作られているものがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あなたは……」　やがて、「そろばん屋」を出ようとした途端鶴雄は、ふと「アメリカとは何ぞや」という青い表紙の薄い本を見つけた。",
@@ -125,14 +150,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "同人誌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "コミックマーケット",
+        "二次創作",
+        "漫画",
+        "同人誌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.970266+00:00Z"
+      "updated_at": "2026-06-01T22:11:05.586084+00:00Z"
     }
   }
 ]

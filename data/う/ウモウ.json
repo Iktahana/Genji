@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "白い羽毛が風に舞って、ゆっくりと地面に落ちる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "枕に詰められた羽毛は、非常に柔らかく心地よい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "白鳥から採取した羽毛は、高級な寝具に使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鳥や鼠や猫の死骸が、道ばたや縁の下にころがっていると、またたく間に蛆が繁殖して腐肉の最後の一｜片まできれいにしゃぶりつくして白骨と羽毛のみを残す。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "羽",
+        "毛"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥",
+        "体毛",
+        "寝具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.882066+00:00Z",
+      "updated_at": "2026-06-02T00:22:27.246793+00:00Z",
       "freq_rank": 25206,
       "frequencies": {
         "aozora": 341

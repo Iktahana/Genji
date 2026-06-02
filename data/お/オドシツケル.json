@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その詐欺師は高齢者を脅しつけて金を奪った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は同僚を脅しつけて無理矢理プロジェクトから外させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "警察に脅しつけられたが、録音があったので逆に告訴できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "獅子の笛、あんまの笛、猫の眼、老婆のおはぐろ、街をつっ走る狂女、仏壇、押入れ、到るところに正三を脅しつけるものがゐた。",
@@ -166,14 +191,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "脅す",
+        "恫喝する",
+        "威嚇する",
+        "凄む",
+        "迫る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "脅迫",
+        "恐喝",
+        "圧力をかける",
+        "脅し文句"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.959371+00:00Z",
+      "updated_at": "2026-06-02T01:55:57.652103+00:00Z",
       "frequencies": {
         "aozora": 38
       }

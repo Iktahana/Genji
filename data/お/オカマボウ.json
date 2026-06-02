@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "チャップリンが映画で被っているお釜帽を見た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は黒いお釜帽をかぶって歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ビクトリア朝の紳士たちはお釜帽をかぶるのが当然だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帽子もゴルフ用の鳥打ちや、ビバや、お釜帽を次から次に冠らせられた。",
@@ -157,14 +182,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "山高帽",
+        "ボーラーハット"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "帽子",
+        "紳士",
+        "ファッション",
+        "礼装"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.285694+00:00Z"
+      "updated_at": "2026-06-02T01:20:04.173043+00:00Z"
     }
   }
 ]

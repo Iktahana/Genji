@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このレストランのパスタは本当にお勧めです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "店員さんにお勧めを聞いてからメニューを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "友人に自信を持ってお勧めできる映画だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "有志の方は早速取り寄せて試みる事をお勧めしたい。",
@@ -282,14 +307,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "推薦",
+        "推奨"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "薦める",
+        "勧奨",
+        "支持"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.174942+00:00Z",
+      "updated_at": "2026-06-02T01:34:59.492023+00:00Z",
       "freq_rank": 6215,
       "frequencies": {
         "aozora": 99

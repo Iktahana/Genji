@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ＯＲ回路は、入力のどちらか一方が1であれば出力が1になる論理回路だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "センサーを二つ設置し、どちらかが反応したらアラームが鳴るようＯＲ回路を組んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "授業でＯＲ回路とＡＮＤ回路の違いを学び、実際にブレッドボードで動作を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "論理和回路"
+      ],
+      "antonyms": [
+        "ＡＮＤ回路"
+      ],
+      "related": [
+        "論理回路",
+        "電子工学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.963153+00:00Z"
+      "updated_at": "2026-06-02T01:08:05.715824+00:00Z"
     }
   }
 ]

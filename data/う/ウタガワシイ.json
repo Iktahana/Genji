@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その男の行動は疑わしい点が多くあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この製品の効能は疑わしいと医者は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "深夜の疑わしい電話がひんぱんに掛かってくるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それと事がらは別だが、いわゆる輿論とか衆議の結果というようなものが実際に多数の意見を代表するかどうか疑わしい場合がはなはだ多いように思う。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怪しい",
+        "不審な"
+      ],
+      "antonyms": [
+        "明確な",
+        "確実な"
+      ],
+      "related": [
+        "疑惑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.139623+00:00Z",
+      "updated_at": "2026-06-01T22:13:03.865225+00:00Z",
       "freq_rank": 16030,
       "frequencies": {
         "aozora": 857

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の隅には、祖父が大切に育てていた梅の木が植わっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "道路沿いに植わっている街路樹が、夏の強い日差しを遮ってくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "花壇に植わった色とりどりのチューリップが、春の訪れを告げている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども私はさっき、もうわるいことをしないと誓ったしこの猟師をころしたところで本当にかあいそうだ。",
@@ -278,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "植えられる"
+      ],
+      "antonyms": [
+        "抜ける"
+      ],
+      "related": [
+        "植物",
+        "園芸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.362418+00:00Z",
+      "updated_at": "2026-06-02T00:28:25.537382+00:00Z",
       "frequencies": {
         "aozora": 122
       }

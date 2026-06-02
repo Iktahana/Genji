@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "詐欺まがいの契約を売りつけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巧みな話術で不要な商品を売りつけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "後になって売りつけたことに後悔している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "パン粉を買い占めたり、チーズを買い占めたり、そして、それを労働者に高くで売りつける。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "押し付ける",
+        "売り込む"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "詐欺",
+        "強引"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.125695+00:00Z",
+      "updated_at": "2026-06-02T00:26:41.760377+00:00Z",
       "freq_rank": 41218,
       "frequencies": {
         "aozora": 248

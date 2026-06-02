@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仏教では怨憎会苦を四苦八苦のひとつに数え、人間の根源的な苦しみとして説く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "職場で毎日顔を合わせる相手が嫌いな人なら、それはまさに怨憎会苦だと友人が苦笑した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "お坊さんは怨憎会苦について、心の持ち方次第で和らげることができると法話で語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "浦伝い、島伝いの頼りない海上生活が始まったのです、私は始めて、この目で、哀別離苦、怨憎会苦を味わったのでございました。",
@@ -46,13 +71,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "愛別離苦"
+      ],
+      "related": [
+        "仏教用語",
+        "四苦八苦",
+        "苦しみ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:29:07.869834+00:00Z"
     }
   }
 ]

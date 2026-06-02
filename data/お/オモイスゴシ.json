@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "病気かもしれないという思い過ごしで、病院に駆け込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "それは単なる思い過ごしに過ぎないから心配しなくていい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の不安は思い過ごしだったことがわかって安心した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「それは敬さんの思い過ごしよ。",
@@ -245,14 +270,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "杞憂",
+        "取り越し苦労",
+        "杞人の憂い"
+      ],
+      "antonyms": [
+        "事実",
+        "現実"
+      ],
+      "related": [
+        "不安",
+        "懸念",
+        "危惧"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.899123+00:00Z",
+      "updated_at": "2026-06-02T02:23:08.949692+00:00Z",
       "frequencies": {
         "aozora": 28
       }

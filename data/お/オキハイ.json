@@ -29,21 +29,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不在時に届いた荷物は、置き配で玄関先に置いてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近は置き配を指定できるので、再配達を頼まなくて済む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "マンションの規定で、置き配を利用することが禁止されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "非対面受け取り"
+      ],
+      "antonyms": [
+        "対面受け取り",
+        "手渡し"
+      ],
+      "related": [
+        "宅配",
+        "配達",
+        "玄関",
+        "物流",
+        "再配達",
+        "盗難対策"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.464917+00:00Z"
+      "updated_at": "2026-06-02T01:22:15.890973+00:00Z"
     }
   }
 ]

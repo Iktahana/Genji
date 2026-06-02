@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもたちは喜んで躍り上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "驚いて躍り上がってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "嬉しさで躍り上がるのを抑えられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何よりも荒馬のいきり立って躍り上がる姿にはたとえるもののない「意気」の美しさが見られるのである。",
@@ -230,14 +255,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "飛び上がる",
+        "跳び上がる",
+        "飛び跳ねる",
+        "はね上がる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "喜ぶ",
+        "躍動",
+        "躍り込む",
+        "興奮",
+        "歓喜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.967014+00:00Z",
+      "updated_at": "2026-06-02T01:55:57.656972+00:00Z",
       "frequencies": {
         "aozora": 122
       }

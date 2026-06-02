@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "被災地の人々に思いを致す",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "戦地にいる兵士たちに思いを致したい",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "苦労している友人に思いを致す",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二束三文に売り払った始末で、神尾が生きて帰ったら、さだめし悲しい思いを致すでしょうと一時は案じたほどでした」「欲しい人には貴重な書物ばかりでしたのに、まとめて古本屋へお売りでしたか」「近所の小さな古本屋へまとめて売ってしまったのです。",
@@ -70,14 +95,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "考える",
+        "配慮する",
+        "慮る"
+      ],
+      "antonyms": [
+        "無関心でいる"
+      ],
+      "related": [
+        "考察",
+        "思索",
+        "配慮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.955278+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.889899+00:00Z"
     }
   }
 ]

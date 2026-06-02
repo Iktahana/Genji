@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旧友からの突然の電話は、思ってもいない再会のきっかけになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "入選など思ってもいなかったので、結果を聞いた瞬間、声が出なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "思ってもいない方向から批判が飛んできて、プロジェクトチームは対応に追われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に、ヘロインを売って、無茶な金を取ろうなどとは思ってもいないことを示す必要があると考えた。",
@@ -230,14 +255,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "予期せぬ",
+        "思いもよらない",
+        "不意の"
+      ],
+      "antonyms": [
+        "想定内"
+      ],
+      "related": [
+        "驚き",
+        "意外"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.029634+00:00Z"
+      "updated_at": "2026-06-02T02:21:45.147334+00:00Z"
     }
   }
 ]

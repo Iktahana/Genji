@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お陰をもちまして、今年も良い成果を上げられました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お陰をもちまして、無事プロジェクトが完成いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お陰をもちまして、新製品を発表することができます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "毎年一回昇給するその翌日は、必ず洋服を着変えて出社し、「おかげをもちまして質受け出来ました」と真夏にわざと冬服である。",
@@ -77,14 +102,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おかげさまで"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感謝",
+        "丁寧語",
+        "報告"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.225061+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.178201+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広場で熱い議論を交わしている男たちの中に、彼の姿があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "工事現場で汗を流す男たちの姿を見て、街の復興を実感した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "深夜の静寂の中、男たちが肩を並べて歩いていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして気味わるく物凄い顔をした、雲助のような男たちに脅やかされたり、黒塚の一軒家のような家に泊って、白髪の恐ろしい老婆に睨まれたりした。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男性陣",
+        "男衆"
+      ],
+      "antonyms": [
+        "女たち"
+      ],
+      "related": [
+        "男性",
+        "男",
+        "人々",
+        "集団"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.763017+00:00Z"
+      "updated_at": "2026-06-02T01:50:39.359008+00:00Z"
     }
   }
 ]

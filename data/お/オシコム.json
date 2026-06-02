@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かばんの中へ、無理やり教科書を押し込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "急いでいたので、服をスーツケースに押し込んで家を出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "引き出しの奥に、書類を押し込んだままだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "電車の運轉手は、しきりにベルを踏み鳴らしながら、併しわり合にのんきさうな顏をしてバスに押し込む遊山客の群を眺めて居たのである。",
@@ -290,21 +315,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "泥棒が裏口から店に押し込んだらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "警察が駆けつけた時には、すでに犯人は家の中に押し込んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "深夜、窓を割って押し込んでくる音が聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "詰め込む",
+        "押し入る",
+        "突っ込む",
+        "捩じ込む"
+      ],
+      "antonyms": [
+        "引き出す",
+        "取り出す"
+      ],
+      "related": [
+        "押し込み",
+        "侵入する",
+        "詰める"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.945094+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.993168+00:00Z",
       "freq_rank": 35245,
       "frequencies": {
         "aozora": 774

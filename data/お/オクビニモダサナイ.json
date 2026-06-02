@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "失恋したことをおくびにも出さない彼の態度に、友人たちは内情をまったく知らなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引退を考えているとおくびにも出さないまま、彼女はその日の演奏を終えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "多額の借金を抱えているのに、彼はそのことをおくびにも出さない顔をして宴席で笑い続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さればいずれの歳の市にも、ダラダラの大晦日まで続いたところが、門松だけは二十九日までに遅くとも立ててしまい、一夜飾りはせぬものと老人の注意を、誰しも正直に守って疑わず、どういうわけと念を押すなぞは決しておくびにも出さない。",
@@ -182,14 +207,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "悟らせない",
+        "表面に出さない",
+        "隠し通す"
+      ],
+      "antonyms": [
+        "露骨に出す"
+      ],
+      "related": [
+        "忍耐",
+        "隠蔽",
+        "秘密",
+        "自制"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.607304+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.512371+00:00Z"
     }
   }
 ]

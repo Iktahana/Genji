@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "落とし紙がなくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "トイレに落とし紙を足してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔は落とし紙の代わりに竹の皮を使った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "トイレットペーパー",
+        "ちり紙",
+        "便所紙",
+        "厠紙"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "トイレ",
+        "便所",
+        "紙",
+        "衛生用品",
+        "ティッシュ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.823955+00:00Z"
+      "updated_at": "2026-06-02T01:53:12.236782+00:00Z"
     }
   }
 ]

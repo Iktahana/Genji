@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建設会社と住宅の建築に関する請負契約を締結し、工事が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この仕事は一括請負なので、追加費用が発生しても会社側が負担する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "請負の形式をとっているが、実際には発注者から直接指揮命令を受けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "相場師か請負師とでもいったような男が二人、云い合わせたように同じ服装をして、同じ折かばんを膝の上に立てたり倒したりしながら大きな声で話していた。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "契約",
+        "受託"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "請負業",
+        "請負業者",
+        "契約書",
+        "発注"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.790624+00:00Z",
+      "updated_at": "2026-06-01T22:05:06.823001+00:00Z",
       "freq_rank": 12676,
       "frequencies": {
         "aozora": 146

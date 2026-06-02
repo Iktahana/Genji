@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいプロジェクトが上手く行っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試験準備も上手く行きそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この方法なら上手く行くと思う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "チューリップや大きな黄色いユリの花は、お年よりの奥さまがたで、みんなじょうずに踊って、舞踏会がうまくいくようにと、気をつけているんだよ」「でもね、お花たちは、王さまのお城でダンスなんかして、だれにもしかられないの？",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "成功する",
+        "順調に進む"
+      ],
+      "antonyms": [
+        "失敗する",
+        "うまくいかない"
+      ],
+      "related": [
+        "進行",
+        "成果",
+        "結果"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.714430+00:00Z"
+      "updated_at": "2026-06-01T23:57:27.719482+00:00Z"
     }
   }
 ]

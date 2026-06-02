@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "氷が溶けると飲み物の味が薄まるので、早めに飲み干した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "時間が経つにつれて、事件当時の恐怖心も徐々に薄まっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "香水の匂いが強すぎたので、少し風に当たって香りが薄まるのを待った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このように恐怖を生み出すもととなった秘密結社のことについて、知れば知るほど恐怖は薄まるどころか、むしろ深まっていく。",
@@ -54,14 +79,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "希薄化する",
+        "和らぐ"
+      ],
+      "antonyms": [
+        "濃くなる",
+        "強まる"
+      ],
+      "related": [
+        "濃度",
+        "変化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.031220+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.936910+00:00Z",
       "frequencies": {
         "aozora": 10
       }

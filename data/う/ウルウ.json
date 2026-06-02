@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "太陰太陽暦では閏が加えられて季節と調整される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "閏を挿入することで暦と季節がずれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古代の暦師は閏の計算を重要な仕事としていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "全く三千六百五十三回、則ち閏年も入れて十年という間、日曜も夏休みもなしに落第ばかりしていては、これが泣かないでいられましょうか。",
@@ -278,14 +303,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "余り",
+        "置閏"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "暦",
+        "カレンダー",
+        "調整",
+        "天文",
+        "時間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.166558+00:00Z",
+      "updated_at": "2026-06-02T00:27:18.842173+00:00Z",
       "freq_rank": 41397,
       "frequencies": {
         "aozora": 191

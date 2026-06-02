@@ -31,21 +31,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "CPUはオペレーションコードを解読して命令を実行する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このプログラムのオペレーションコードは効率的に設計されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "アセンブリ言語ではオペレーションコードを直接記述する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "命令コード",
+        "オペコード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "オペランド",
+        "アセンブリ言語",
+        "機械語",
+        "CPU"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.608707+00:00Z"
+      "updated_at": "2026-06-02T02:17:51.049836+00:00Z"
     }
   }
 ]

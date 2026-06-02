@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代からの歴史が残る大隅の地を、ゆっくりと時間をかけて巡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大隅半島には、独特の自然環境が今もそのままに残されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大隅の特産品を求めて、地元の市場を歩き回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大隅忠太郎君は、私と大学が同期で、けれども私のように不名誉な落第などはせずに、さっさと卒業して、東京の或る雑誌社に勤めた。",
@@ -239,12 +264,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鹿児島県",
+        "古国",
+        "律令国"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.857305+00:00Z",
+      "updated_at": "2026-06-02T01:17:09.247840+00:00Z",
       "frequencies": {
         "aozora": 658
       }

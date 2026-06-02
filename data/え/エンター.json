@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キーボードのエンターを押してコマンドを実行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "データ入力を完了したらエンターを押してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エンターボタンが反応しないので、修理に出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これがリリエンタールの滑翔の研究を刺戟したことは本人からレーリーに寄せた手紙で分る。",
@@ -141,14 +166,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "入力",
+        "投入"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キーボード",
+        "操作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.599012+00:00Z",
+      "updated_at": "2026-06-02T01:04:06.894459+00:00Z",
       "frequencies": {
         "aozora": 5
       }

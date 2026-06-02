@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この図書館の奥の棚は小暗いので、ライトが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カーテンを閉じると部屋が小暗くなってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雨の日の廊下は小暗い雰囲気だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "道は小暗い谿襞を廻って、どこまで行っても展望がひらけなかった。",
@@ -279,14 +304,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄暗い",
+        "ほの暗い",
+        "仄暗い",
+        "昏い"
+      ],
+      "antonyms": [
+        "明るい",
+        "眩しい",
+        "まばゆい"
+      ],
+      "related": [
+        "黄昏",
+        "夕暮れ",
+        "暗闇",
+        "陰影",
+        "夕刻"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.698233+00:00Z",
+      "updated_at": "2026-06-02T01:25:40.771947+00:00Z",
       "frequencies": {
         "aozora": 171
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "決算書を確認し、受取勘定の残高を精算する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "受取勘定が増加しており、資金繰りに注意が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "監査法人が受取勘定の正当性を調査している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人間が利己的であるか否かは、その受取勘定をどれほど遠い未來に延ばし得るかといふ問題である。",
@@ -69,14 +94,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "売掛金"
+      ],
+      "antonyms": [
+        "支払勘定"
+      ],
+      "related": [
+        "会計",
+        "債権",
+        "勘定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.817186+00:00Z"
+      "updated_at": "2026-06-01T22:05:01.528933+00:00Z"
     }
   }
 ]

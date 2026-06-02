@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "占い師に運勢を見てもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今年の運勢は上昇傾向にあるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運勢が良い時期に大きな決断をした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "運勢でも調べるのですかと問われた。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運命",
+        "運"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "占い",
+        "吉凶",
+        "未来",
+        "運気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.432135+00:00Z",
+      "updated_at": "2026-06-02T00:29:27.733498+00:00Z",
       "freq_rank": 14636,
       "frequencies": {
         "aozora": 146

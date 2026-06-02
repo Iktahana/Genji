@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システム障害の原因を調べるため、エンジニアは全サーバーへの応答確認を順番に実施した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オペレーターは通話を終える前に、相手が手順を理解しているか応答確認を求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ネットワーク診断の最初のステップとして、各ノードの応答確認から着手した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レスポンス確認"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "通信",
+        "応答",
+        "確認",
+        "エラー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.397318+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.294279+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもたちは公園で追いかけっこをして遊んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "犬と猫が追いかけっこをしている様子は微笑ましい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "妹は兄と追いかけっこをしたくて、何度も誘った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "追いかけっこをする一年坊主どもの甲高い叫びや、飛び板を踏みならす騒々しい音をぬって、遠い打球音がきこえてくる。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鬼ごっこ",
+        "追っかけ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "遊び",
+        "追跡"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.992538+00:00Z"
+      "updated_at": "2026-06-02T01:08:22.203113+00:00Z"
     }
   }
 ]

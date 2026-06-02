@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "机の上に転がっている鉛筆を拾ってくれませんか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもが初めて握った鉛筆は短くなるまで使い続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "木製の鉛筆は削りたてのときが最も書きやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うすやみ萩原朔太郎うすやみに光れる皿あり皿の底に蟲かくれ居て啜り鳴く晝はさびしく居間にひそみて鉛筆の心をけづるに疲れ夜は酒場の椅子にもたれて想ひにひたせる我が身の上こそ悲しけれ",
@@ -279,14 +304,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "筆記具"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "芯",
+        "文房具",
+        "筆記"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.738848+00:00Z",
+      "updated_at": "2026-06-02T01:05:31.981184+00:00Z",
       "freq_rank": 10811,
       "frequencies": {
         "aozora": 1749

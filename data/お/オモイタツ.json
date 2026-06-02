@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大学に行こうと思い立ってから、毎日勉強するようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "起業しようと思い立ったのは、30歳の時だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "世界を旅しようと思い立つと、もう止められなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "旅行も相当なすったようだけれども、大概御用があったり御連れがあったりで、特に自分ひとりで思い立つというようなことはあまりなかったようです。",
@@ -264,14 +289,24 @@
       "homophones": [
         "思い断つ"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "決心する",
+        "心に決める",
+        "決める"
+      ],
+      "antonyms": [
+        "諦める"
+      ],
+      "related": [
+        "決断",
+        "意志",
+        "決意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.903084+00:00Z",
+      "updated_at": "2026-06-02T02:23:08.951707+00:00Z",
       "frequencies": {
         "aozora": 976
       }
@@ -308,7 +343,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の夢を思い断つのは、本当に辛い決断だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "愛する人との関係を思い断つことになり、泣いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "執着を思い断つことで、新しい人生が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "恋を失い、家と財とを失い、自分自身をさえ失った男が、まず何を措いても、こんな目に逢わせた、敵に思い知らせてやろうという、思い断つことの出来ない深怨の恐ろしさを見て、平次も思わず身を顫わせました。",
@@ -334,9 +394,19 @@
       "homophones": [
         "思い立つ"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "諦める",
+        "放棄する",
+        "断念する"
+      ],
+      "antonyms": [
+        "続ける"
+      ],
+      "related": [
+        "放棄",
+        "諦め",
+        "断念"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの近所でも有名な、お侠な娘は毎日元気に走り回って遊んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔は活発でとてもお侠だった彼女も、今ではすっかり落ち着いて立派な大人になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "隣の家の、いつも木登りをしているお侠な女の子が大きな声で笑っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "美人のこの姿は、浅草｜海苔と、洗髪と、お侠と、婀娜と、（飛んだり刎ねたり。",
@@ -278,14 +303,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "粋",
+        "いなせ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "洒落"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.485733+00:00Z"
+      "updated_at": "2026-06-02T01:24:22.557432+00:00Z"
     }
   }
 ]

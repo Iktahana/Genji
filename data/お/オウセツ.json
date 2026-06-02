@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "応接室でクライアントを迎えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "秘書が応接の準備をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "来客の応接に当たる係員がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本人の知人を訪問しても、洋風の応接間などに通されると、帰ってからも甚だ不機嫌であった。",
@@ -272,14 +297,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "接待",
+        "応対",
+        "饗応"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "客",
+        "接客",
+        "対応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.335347+00:00Z",
+      "updated_at": "2026-06-02T01:11:15.376335+00:00Z",
       "freq_rank": 24337,
       "frequencies": {
         "aozora": 717

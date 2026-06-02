@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この寺の境内には、歴代住職を祀った御霊屋が静かに佇んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史的な価値がある御霊屋として、専門家が丁寧に修復作業を行っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "杉木立の奥に、かつての領主が眠る御霊屋が見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひと口にいったら、芝のあの三縁山へお成りになって、そこに祭られてある台徳院殿さまの御霊屋に、ぺこりとひとつ将軍家がおつむりをお下げになるだけのことですが、下げる頭が少しばかり値段の高い八百万石のおつむりですから、事が穏やかでないのです。",
@@ -239,14 +264,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "廟",
+        "霊廟",
+        "墓所",
+        "御陵"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "陵墓",
+        "霊屋",
+        "神社",
+        "祀り",
+        "位牌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.391588+00:00Z"
+      "updated_at": "2026-06-02T01:38:31.467105+00:00Z"
     }
   }
 ]

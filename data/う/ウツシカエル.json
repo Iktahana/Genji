@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "重い荷物を大きなカバンから小さなリュックに移し変えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "作業中のファイルを新しいフォルダに移し変えて整理した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "水槽の魚を掃除のために別の容器に一時的に移し変えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私たちは、コンピューターに本を移し変える道の途上にある。",
@@ -65,21 +90,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "曲のキーを半音上に移し変えて、歌いやすいように調整した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古文のテキストを現代語に移し変える作業は想像以上に根気がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "小説の舞台を江戸時代から現代に移し変えた翻案作品が話題になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "移し替える",
+        "詰め替える",
+        "転換する",
+        "移動させる",
+        "置き換える"
+      ],
+      "antonyms": [
+        "固定する",
+        "据え置く"
+      ],
+      "related": [
+        "変更",
+        "転用",
+        "配置換え",
+        "整理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.483071+00:00Z",
+      "updated_at": "2026-06-01T22:57:02.936437+00:00Z",
       "frequencies": {
         "aozora": 4
       }

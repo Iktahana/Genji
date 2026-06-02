@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母は長年、表千家の教室に通っており、お茶の作法には非常に厳しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表千家と裏千家では、お茶の点て方や道具の扱いが微妙に異なっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今日は表千家のお茶会に招かれたので、着物を着て出かけることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "京都表千家に伝えられている利休の真蹟には「人世」、力希禅子訝ル中眉垂ルとある。",
@@ -70,13 +95,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "裏千家",
+        "武者小路千家"
+      ],
+      "related": [
+        "茶道",
+        "千利休"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.053006+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.078109+00:00Z",
       "frequencies": {
         "aozora": 6
       }

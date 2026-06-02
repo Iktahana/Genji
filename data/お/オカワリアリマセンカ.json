@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "久しぶりに会った友人に「お変わりありませんか？」と声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "手紙の冒頭に「皆さまにお変わりありませんか」と書き添えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遠方の親戚に電話をして、まず最初に「お変わりありませんか？」と尋ねる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おかわりありませんか。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "お元気ですか",
+        "いかがお過ごしですか",
+        "変わりないですか"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "挨拶",
+        "近況",
+        "手紙",
+        "安否"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.328135+00:00Z"
+      "updated_at": "2026-06-02T01:20:32.666493+00:00Z"
     }
   }
 ]

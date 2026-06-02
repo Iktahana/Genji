@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "首相は穏健な外交政策を推し進めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この党派は穏健な改革を主張している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "穏健な意見が多数派を占めるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "在来のいわゆる穏健な異端でない画に対して吾人が不合理を感じないのは、そこに不合理がないという証拠では毛頭ない。",
@@ -269,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "穏やか",
+        "中道"
+      ],
+      "antonyms": [
+        "急進",
+        "過激"
+      ],
+      "related": [
+        "慎重",
+        "寛容"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:28:01.894188+00:00Z",
       "freq_rank": 25425,
       "frequencies": {
         "aozora": 115

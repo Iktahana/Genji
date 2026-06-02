@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沖縄への出張が決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖縄の海は透明度が高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖縄料理を食べに、那覇のレストランに行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして現に日本の方言にも東北地方や沖縄の方でも出雲地方でもハ行音を「ファフィフェ」など言うのは、昔の音が田舍に遺っているのです。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "琉球"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "那覇",
+        "九州",
+        "離島",
+        "観光",
+        "南国"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.424293+00:00Z",
+      "updated_at": "2026-06-02T01:21:00.282799+00:00Z",
       "freq_rank": 1754,
       "frequencies": {
         "aozora": 1061

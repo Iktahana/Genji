@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "和服の運針は綺麗に仕上げることが難しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "着物の裾の運針を点検する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上級の裁縫では運針の技術が試される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたくしが安心もし、張合抜けもしたような様子を見て取り、雛妓は、ここが言出すによき機会か、ただしは未だしきかと、大きい袂の袖口を荒掴みにして尋常科の女生徒の運針の稽古のようなことをしながら考え廻らしていたらしいが、次にこれだけ言った。",
@@ -95,12 +120,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "裁縫",
+        "針",
+        "糸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.421141+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.071573+00:00Z",
       "frequencies": {
         "aozora": 8
       }

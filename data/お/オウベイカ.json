@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治時代、都市部での生活様式の欧米化は急速に進み、洋装の人々が街に増えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "食生活の欧米化が進むにつれて、若者の米の消費量は年々減少している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「伝統的な祭りが廃れていくのは、欧米化のせいだけではないと思う」と祖父は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本が西洋臭くなり日本の文化や風俗やが、日々にますます欧米化して来ることは、ヘルンにとって忍びがたい悲哀であった。",
@@ -63,14 +88,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "西洋化",
+        "近代化"
+      ],
+      "antonyms": [
+        "日本化",
+        "東洋化"
+      ],
+      "related": [
+        "文化",
+        "生活様式",
+        "グローバル化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.455093+00:00Z",
+      "updated_at": "2026-06-02T01:12:51.644587+00:00Z",
       "frequencies": {
         "aozora": 4
       }

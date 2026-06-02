@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武道の奥伝は年数をかけて習得するものです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "茶道の奥伝を学ぶには多くの時間が必要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "師匠から奥伝を教えられることは大変名誉なことです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二十年、三十年と研究練磨してきた天然理心流の奥伝よりも鋭く人を倒す弾丸――小さい円い丸――それが、百姓兵の、芋侍にもたれて、三日、五日稽古すると、こうして、近藤が、この木の蔭にいても、何うする事も――手も足も出無いように――（馬鹿らしい）　と、思ったが、同時に、恐怖に似たものと、絶望とを感じた。",
@@ -109,14 +134,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "秘伝",
+        "奥義",
+        "極意",
+        "秘奥",
+        "皆伝"
+      ],
+      "antonyms": [
+        "入門",
+        "初伝",
+        "表伝"
+      ],
+      "related": [
+        "免許皆伝",
+        "武道",
+        "芸道",
+        "師匠",
+        "修行",
+        "秘術"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.578627+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.175811+00:00Z",
       "frequencies": {
         "aozora": 9
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市の職員が汚職に関与していたことが内部告発によって発覚した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "汚職が横行する組織を立て直すため、外部から監査が入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は汚職で逮捕され、長年の公務員キャリアに幕を下ろした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "村の公器を私用に供するとは奇怪なる汚職事件である」　根作はこう断じて見栄をきった。",
@@ -271,14 +296,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "収賄",
+        "汚職行為",
+        "贈収賄",
+        "腐敗"
+      ],
+      "antonyms": [
+        "清廉",
+        "公明正大"
+      ],
+      "related": [
+        "政治",
+        "賄賂",
+        "事件",
+        "スキャンダル",
+        "官僚",
+        "利権"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.072331+00:00Z",
+      "updated_at": "2026-06-02T01:29:30.969515+00:00Z",
       "freq_rank": 14724,
       "frequencies": {
         "aozora": 42

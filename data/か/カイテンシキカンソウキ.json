@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "洗濯が終わったシーツを回転式乾燥機に入れ、高温コースで60分乾かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「雨ばかりで洗濯物が乾かないから、回転式乾燥機を買おうかな」と妻がつぶやいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "回転式乾燥機を使ったらタオルがふわふわになり、外干しとはまったく違うと感動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -47,21 +72,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食品工場では大型の回転式乾燥機を使って、穀物の水分を均一に調整している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新設プラントに導入された回転式乾燥機は毎時1トンの木材チップを処理できる能力を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "回転式乾燥機の内部温度が設定値を超えたため、自動安全装置が作動してラインが止まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ドラム式乾燥機",
+        "タンブル乾燥機"
+      ],
+      "antonyms": [
+        "ヒートポンプ乾燥機"
+      ],
+      "related": [
+        "洗濯機",
+        "乾燥機",
+        "乾燥",
+        "衣類",
+        "回転"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:20:25.786634+00:00Z"
     }
   }
 ]

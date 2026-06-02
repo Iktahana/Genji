@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代ギリシャの建築では、円柱にエンタシスが施されて視覚的な安定感を出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "パルテノン神殿の列柱にはわずかなエンタシスが見られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "建築学の講義でエンタシスの効果について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの真中の辺が、少しふくらんでいる柱、あれをエンタシスというのであるが、ジッと見ていると、あの重い屋根をささえかねて、石の柱が、じっと撓んでふくれているかのような感じさえしてくるのである。",
@@ -165,14 +190,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "膨らみ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ギリシャ建築",
+        "柱"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.589918+00:00Z",
+      "updated_at": "2026-06-02T01:04:06.891585+00:00Z",
       "frequencies": {
         "aozora": 24
       }

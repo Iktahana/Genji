@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「たかが転んだだけなのに大仰な」と母は苦笑しながら救急箱を持ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の大仰な身振り手振りは海外の友人にはわかりやすいらしく、むしろ好評だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "少し褒められただけで大仰に感謝するので、周りが少し引いてしまっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "皮膚は、大仰な言いかたをすれば、鶯の羽のような汚い青さで、まったく光沢がなかった。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大袈裟",
+        "大げさ",
+        "誇張的"
+      ],
+      "antonyms": [
+        "控えめ",
+        "質素"
+      ],
+      "related": [
+        "態度",
+        "動作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.711951+00:00Z",
+      "updated_at": "2026-06-02T01:14:42.911581+00:00Z",
       "freq_rank": 32026,
       "frequencies": {
         "aozora": 211

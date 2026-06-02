@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔からこの地では、妊娠中から産の神様に安産祈願をするのが当然とされていました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭の祠に祀られているのが、村を見守る産の神様だと祖母から教わりました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "健康な赤ちゃんを授かったのは、きっと産の神様のおかげだと感謝しています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此神の信仰が延長せられて、生産の神の様に思はれて来たが、むすびと言ふ語の用語例以外に、此神の職掌はなかつたはずである。",
@@ -69,14 +94,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "産神",
+        "産土神",
+        "氏神",
+        "守り神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "氏子",
+        "産屋",
+        "出産",
+        "神社",
+        "鎮守"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.674027+00:00Z"
+      "updated_at": "2026-06-01T23:50:45.442099+00:00Z"
     }
   }
 ]

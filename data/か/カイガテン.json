@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地元のギャラリーで開かれた絵画展には、若手作家の意欲作が並んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "退職後に絵を始めた彼女は、三年後には市内の絵画展で入選を果たした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "美術館の絵画展の招待券をもらったので、友人と二人で週末に出かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "王立美術協会の絵画展覧会に彼の肖像が出品された時に、観客の一人が「三四二号、ロード・レーリー、アー、あの牛乳屋か」と云っているのを聞いた友人があった。",
@@ -189,14 +214,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "美術展",
+        "展覧会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "展示会",
+        "美術",
+        "作品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:48:47.638919+00:00Z",
       "frequencies": {
         "aozora": 6
       }

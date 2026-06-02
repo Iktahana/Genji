@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あのような場所で働かされるのは、人生最大の汚辱だと感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は汚辱にまみれた過去を背負って、これまで生きてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "これ以上、家族にこれほどの汚辱をもたらすわけにはいかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それのめぐりを七人の天女は趾頭舞踊しつづけてゐるが、汚辱に浸る月の心になんの慰愛もあたへはしない。",
@@ -261,14 +286,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "恥辱",
+        "屈辱",
+        "侮辱",
+        "名折れ"
+      ],
+      "antonyms": [
+        "栄光",
+        "名誉",
+        "誉れ"
+      ],
+      "related": [
+        "面目",
+        "威厳",
+        "尊敬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.156246+00:00Z",
+      "updated_at": "2026-06-02T01:33:49.187123+00:00Z",
       "frequencies": {
         "aozora": 178
       }

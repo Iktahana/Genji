@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「あの子、去年まで同クラだったんだ。久しぶりに廊下で会ったよ」と彼女は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "同クラの友達と放課後に図書館へ行き、試験勉強を一緒にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "卒業式の後、同クラのグループチャットに集合写真を投稿したら、すぐに返信が殺到した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "慶四郎君は、私と小学校が同クラスであった。",
@@ -55,14 +80,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "同級",
+        "同学年",
+        "同期"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "クラスメート",
+        "学校",
+        "学年",
+        "同窓",
+        "クラス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.020848+00:00Z"
+      "updated_at": "2026-06-02T01:57:21.680596+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの方と御目文字するのが楽しみです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長い手紙のやり取りの後、ついに御目文字することができました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "社長との御目文字は緊張しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その他に樋口勘次郎は、身は厭世教を持したる教育者で、しかも不娶主義の主張者でありながら、おめもじの時より骨のなき身になったといって、勿体なくも君を恋まつれる事幾十日、別紙御一覧の上は八つざきの刑にも処したまへとて熱書を寄せもした。",
@@ -87,14 +112,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "対面",
+        "面会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "女性語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.848497+00:00Z"
+      "updated_at": "2026-06-02T02:20:33.279283+00:00Z"
     }
   }
 ]

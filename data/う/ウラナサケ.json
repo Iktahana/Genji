@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誰にも言えない裏情を抱えて、彼女は街を去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼が冷たい態度を取る裏には、実は温かい裏情が隠されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "長年連れ添った夫婦の間には、言葉にできない裏情があるものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マザロフ紳士については、裏情報を提供して、パリで逮捕して、拘留しました。",
@@ -61,14 +86,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "秘めた思い",
+        "内心"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感情",
+        "愛情",
+        "秘事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.995046+00:00Z"
+      "updated_at": "2026-06-02T00:25:42.195045+00:00Z"
     }
   }
 ]

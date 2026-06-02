@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "店の遅じまいで片付けに追われ、帰宅が夜中になってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今日は遅じまいだったので、明日はゆっくりと出社することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "商店街の遅じまいの準備をする店主の姿が、夜の通りに見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "遅じまいの一軒の小店、お内儀らしいのが大戸を閉てている。",
@@ -46,13 +71,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "早じまい"
+      ],
+      "related": [
+        "閉店",
+        "閉店時間",
+        "遅番",
+        "夜間営業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.262606+00:00Z"
+      "updated_at": "2026-06-02T01:37:48.944995+00:00Z"
     }
   }
 ]

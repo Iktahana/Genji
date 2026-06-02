@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日の試験の結果は、鬼が出るか蛇が出るかという状態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新製品の売上は、もう鬼が出るか蛇が出るかだね。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この契約交渉は、鬼が出るか蛇が出るかという不確実な状況だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鬼が出るか蛇が出るか分らないそのノートを、受け取りながら、一糸｜紊れたところも、怯んだところも見せなかった。",
@@ -69,14 +94,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不確定"
+      ],
+      "antonyms": [
+        "確実",
+        "確定"
+      ],
+      "related": [
+        "ことわざ",
+        "表現",
+        "不確実",
+        "予測不能",
+        "鬼"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.086138+00:00Z"
+      "updated_at": "2026-06-02T01:59:16.925693+00:00Z"
     }
   }
 ]

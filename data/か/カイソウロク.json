@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "元首相は引退後に回想録を執筆し、在任中の外交交渉の舞台裏を明かした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父が書き残した回想録を読んで、戦時中の暮らしがどれほど厳しかったかを初めて実感した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その作家の回想録はベストセラーになり、文壇の知られざるエピソードが読者の話題を呼んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "所謂「思想家」たちの書く「私はなぜ何々主義者になったか」などという思想発展の回想録或いは宣言書を読んでも、私には空々しくてかなわない。",
@@ -253,14 +278,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "回想記",
+        "自伝"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "記憶",
+        "文学",
+        "著作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T03:13:52.633862+00:00Z",
       "frequencies": {
         "aozora": 55
       }

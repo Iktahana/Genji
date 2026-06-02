@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お届けは明日の午後になります」とショップのサポートから連絡が来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "荷物のお届けは不在で受け取れなかったため、再配達を依頼した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "花束のお届けを頼んだのに当日になっても届かないので、業者に問い合わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "番太郎に云い付けて早速お届けはして置きましたが、まだ御検視が下りないので、うっかり手を着けることもできません。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "配達",
+        "配送"
+      ],
+      "antonyms": [
+        "受け取り"
+      ],
+      "related": [
+        "配達業者",
+        "送料",
+        "追跡"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.859469+00:00Z"
+      "updated_at": "2026-06-02T01:53:28.567923+00:00Z"
     }
   }
 ]

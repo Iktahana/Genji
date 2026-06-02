@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い京町家の表二階は、かつて商店の家族が暮らしていた空間だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "蔵の表二階から、通りを行き交う人々の様子が見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この旅館の表二階は、格子窓越しに白川をのぞむ一等地である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は表二階の、おそらくはこの宿屋で一ばんよい部屋なのであろう、二十畳間くらいの大きい部屋のまんなかに、ひとりで寝かされた。",
@@ -278,13 +303,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "裏二階"
+      ],
+      "related": [
+        "建築",
+        "部屋"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.069135+00:00Z"
+      "updated_at": "2026-06-02T02:22:20.083620+00:00Z"
     }
   }
 ]

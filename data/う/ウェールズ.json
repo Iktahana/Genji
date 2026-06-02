@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏休みを利用して、緑豊かな渓谷と羊たちが群れるのどかな自然が広がるウェールズを旅した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ウェールズの海岸沿いの崖の上には、中世の歴史を感じさせる古城がいくつも点在している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ラグビーの聖地とも呼ばれるウェールズの国立スタジアムで、手に汗握る熱い試合を観戦した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば一八九一年イングランド（ウェールズを含む）の貧民にして公の救助を受けし者は、全人口千人につき平均五十四人、すなわち約十八人につき一人ずつの割合であり、六十五歳以上の老人にあっては、千人につき平均二百九十二人、すなわち約三人に一人ずつの割合であった。",
@@ -265,12 +290,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イギリス",
+        "イングランド",
+        "スコットランド"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.549351+00:00Z",
+      "updated_at": "2026-06-01T21:58:29.137254+00:00Z",
       "freq_rank": 13175,
       "frequencies": {
         "aozora": 39

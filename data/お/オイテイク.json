@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物を駅に置いて行くのは危険だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "娘は親を置いて行き、海外へ移住した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの走るスピードに置いて行かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "目を細くしてよく見きわめをつけてから一筆ごとに新しく絵の具を交ぜては置いて行くのだそうである。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "置き去りにする",
+        "残していく",
+        "後に残す"
+      ],
+      "antonyms": [
+        "連れていく",
+        "持っていく"
+      ],
+      "related": [
+        "置いてきぼり",
+        "忘れる",
+        "別れ",
+        "後退",
+        "残す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.057524+00:00Z"
+      "updated_at": "2026-06-02T01:10:53.497488+00:00Z"
     }
   }
 ]

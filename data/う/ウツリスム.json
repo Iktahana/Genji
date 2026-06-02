@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "都会の喧騒を離れて、山あいの静かな村に移り住むことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は夢を叶えるために、単身でパリへ移り住んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家族全員で暖かい地方に移り住み、第二の人生をスタートさせる予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "父は同じ東京となった放水路の川向うの江戸川区には移り住むのを極度に恐れた。",
@@ -270,14 +295,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "引っ越す",
+        "転居する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "移動",
+        "新生活",
+        "転地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.519815+00:00Z",
+      "updated_at": "2026-06-01T22:57:12.254439+00:00Z",
       "frequencies": {
         "aozora": 260
       }

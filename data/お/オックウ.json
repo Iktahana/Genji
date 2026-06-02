@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日料理を作るのは少し億劫だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "寒くなると、外に出るのが億劫になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "返信を書くのが億劫で、メールを放置してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少からず気になっていたが、私は人の身の上に就いて自動的に世話を焼くのは、どうも億劫で出来ないたちなので、そのままにして置いた。",
@@ -281,14 +306,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "面倒",
+        "煩わしい",
+        "厄介"
+      ],
+      "antonyms": [
+        "楽しい"
+      ],
+      "related": [
+        "気が進まない",
+        "気乗りしない"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.524417+00:00Z",
+      "updated_at": "2026-06-02T01:43:39.557316+00:00Z",
       "freq_rank": 24891,
       "frequencies": {
         "aozora": 393

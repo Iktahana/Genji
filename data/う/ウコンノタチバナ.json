@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都御所の紫宸殿の前には、左近の桜と右近の橘が植えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "右近の橘の実が、冬の冷たい空気の中で黄色く色づいている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "雛祭りの飾り付けとして、小さな右近の橘の模型を添えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内裏雛、五人｜囃し、左近の桜、右近の橘、雪洞、屏風、蒔絵の道具、――もう一度この土蔵の中にさう云ふ物を飾つて見たい、――と申すのが心願でございました。",
@@ -78,13 +103,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "左近の桜"
+      ],
+      "related": [
+        "橘",
+        "紫宸殿",
+        "平安宮",
+        "左近の桜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.846466+00:00Z"
+      "updated_at": "2026-06-01T22:07:31.299550+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あいつは困っている人を見ると放っておけない、根っからの男気がある奴だよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不利益を被ってでも約束を守るなんて、見事な男気だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "トラブルの現場に颯爽と現れて解決する姿に、皆が男気を感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "クソ真面目な色男気取りの議論が国をほろぼしたんです。",
@@ -255,14 +280,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "義侠心",
+        "侠気",
+        "任侠",
+        "義気",
+        "気概",
+        "気骨"
+      ],
+      "antonyms": [
+        "臆病",
+        "卑怯"
+      ],
+      "related": [
+        "侠客",
+        "心意気",
+        "仁義",
+        "侠道",
+        "武士道"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.742372+00:00Z",
+      "updated_at": "2026-06-02T01:50:39.351693+00:00Z",
       "freq_rank": 33974,
       "frequencies": {
         "aozora": 44

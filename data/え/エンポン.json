@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母の書棚には、昭和時代の円本がずっと並んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "図書館では廃棄されるはずだった円本を引き取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この円本は現在、貴重な古書として扱われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それにしても神保町の夜の露店の照明の下に背を並べている円本などを見る感じはまずバナナや靴下のはたき売りと実質的にもそうたいした変わりはない。",
@@ -247,12 +272,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "出版",
+        "昭和時代",
+        "文学",
+        "書籍"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.786736+00:00Z",
+      "updated_at": "2026-06-02T01:05:47.465694+00:00Z",
       "frequencies": {
         "aozora": 160
       }

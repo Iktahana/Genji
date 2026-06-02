@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治維新の際に起きた上野戦争は重要な歴史事件である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歴史の授業で上野戦争について詳しく学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "1868年に起きた上野戦争は江戸時代の終焉を象徴している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上野戦争後諸藩引払ひの時余の一家は皆尾州へおもむきたれど、ただ父なる人のみはなほ留まりて江戸の邸を守り給へり。",
@@ -71,12 +96,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "戊辰戦争",
+        "上野",
+        "彰義隊"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.591083+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.286445+00:00Z"
     }
   }
 ]

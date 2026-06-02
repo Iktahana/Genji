@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "グループから置いてきぼりを食った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クラスメイトに置いてきぼりを食わされて悔しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "社会の発展から置いてきぼりを食うわけにはいかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "早くしないとまた置いてきぼりを食う恐れがある。",
@@ -46,14 +71,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "取り残される",
+        "置き去りにされる",
+        "後れをとる"
+      ],
+      "antonyms": [
+        "追いつく",
+        "ついていく"
+      ],
+      "related": [
+        "置いてきぼり",
+        "孤立",
+        "遅れ",
+        "仲間外れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.056872+00:00Z"
+      "updated_at": "2026-06-02T01:10:53.498409+00:00Z"
     }
   }
 ]

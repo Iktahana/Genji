@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "帯止めが帯のずれを防ぎ、シルエットを整えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この帯止めは銀製で江戸時代からの家宝だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯止めをつけることで着物の美しさが引き立つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紋羽二重や、鼠縮緬の衣物――繻珍の丸帯に、博多と繻子との昼夜帯、――黒縮緬の羽織に、宝石入りの帯止め――長浜へ行った時買ったまま、しごきになっている白縮緬や、裏つき水色縮緬の裾よけ、などがある。",
@@ -197,14 +222,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "帯留め",
+        "帯締め"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "帯",
+        "着物",
+        "帯締め",
+        "装飾品",
+        "留め具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.355062+00:00Z",
+      "updated_at": "2026-06-02T02:09:53.313064+00:00Z",
       "frequencies": {
         "aozora": 22
       }

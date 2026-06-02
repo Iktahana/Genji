@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "折悪しく大事な書類をコーヒーで濡らしてしまい、返却期限に間に合わなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "折悪しく雨が降り始めたため、野外でのイベントは中止になってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "折悪しく彼女の家族が訪ねて来た時に、友人からの悪い知らせが入ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雨が歇んだので未醒画伯戦場ヶ原の真中へ三脚を立て、悠々写生を初めたところが、折悪しく吹き捲くって来た一陣の烈風に、画板を吹っ飛ばされ、絵の具は躍り出す、いやはや大｜狼狽。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運悪く",
+        "あいにく"
+      ],
+      "antonyms": [
+        "運良く"
+      ],
+      "related": [
+        "不幸",
+        "折"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:24:31.190990+00:00Z"
     }
   }
 ]

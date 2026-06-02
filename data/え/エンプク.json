@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若い頃から艶福に恵まれ、多くの女性に慕われたという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の物語には、艶福家として名を馳せた殿様の話がよく登場する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "まさか彼がそんな艶福の持ち主だったとは、驚きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やい、それと声を懸けるばかりで、車夫も、馬丁も、引張凧になった艶福家島野氏も、女だから手も着けられない。",
@@ -223,12 +248,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恋愛",
+        "幸運"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.764633+00:00Z",
+      "updated_at": "2026-06-02T01:06:21.768355+00:00Z",
       "frequencies": {
         "aozora": 28
       }

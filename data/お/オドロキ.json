@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の上達の速さに驚きを隠せない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "驚きで口が開いてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その光景に驚きが走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "麥萩原朔太郎麥はさ青に延び行けり遠き畑の田作りの白き襦袢にえんえんと眞晝の光ふりそそぐ九月はじめの旅立ちに汽車の窓より眺むれば麥の青きに驚きて疲れし心が泣き出せり",
@@ -279,14 +304,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "吃驚",
+        "びっくり"
+      ],
+      "antonyms": [
+        "予期"
+      ],
+      "related": [
+        "驚く",
+        "意外"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.989197+00:00Z",
+      "updated_at": "2026-06-02T01:56:18.052874+00:00Z",
       "freq_rank": 2649,
       "frequencies": {
         "aozora": 3334

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不祥事が表立つ前に、会社側は速やかに事実関係を公表すべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "隠し事が表立つようになり、彼は次第に追い詰められていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "噂が表立つにつれて、近所の人々の視線が厳しくなったように感じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "表立つた事でないから私にやるのだが、仕返して往つて敗辱を取つてはならないから、やるには幾分手筈を極めねばなるまい。",
@@ -129,21 +154,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あまり表立った席は苦手なので、親しい友人だけのカジュアルなパーティーにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表立った挨拶は抜きにして、さっそく本題に入らせていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "親戚の集まりとはいえ、法事なので、それなりに表立った格好で行くべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公になる",
+        "露見する"
+      ],
+      "antonyms": [
+        "隠れる",
+        "潜む"
+      ],
+      "related": [
+        "事態",
+        "事件"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.056067+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.079855+00:00Z",
       "frequencies": {
         "aozora": 98
       }

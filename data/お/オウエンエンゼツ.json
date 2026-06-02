@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "政治家による応援演説が行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応援演説で候補者の政策が詳しく説明された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応援演説の内容が選挙に大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "選挙の時など、彼の『万朝報』のスタッフを率いて応援演説に行くと、反対党は、彼の熱弁をおそれて戦慄したということである。",
@@ -165,14 +190,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "支持演説"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "選挙",
+        "候補者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.159123+00:00Z"
+      "updated_at": "2026-06-02T01:09:27.329644+00:00Z"
     }
   }
 ]

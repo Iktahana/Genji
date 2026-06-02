@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅の途中で立ち寄った宿で、地元の人が追分節を歌ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の日本の街道には、馬子唄として追分節が響いていたという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の歌う追分節は、聞く人の心に故郷の情景を呼び起こした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "普通のわれわれの音楽で使われる音程の数は有限な少数であるのに、実際これからあらゆる旋律、たとえば追分節も生まれればチゴイネルワイゼンも生まれる。",
@@ -261,14 +286,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "馬子唄",
+        "民謡"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "信濃",
+        "民俗芸能"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.140577+00:00Z",
+      "updated_at": "2026-06-02T01:09:27.319604+00:00Z",
       "frequencies": {
         "aozora": 33
       }

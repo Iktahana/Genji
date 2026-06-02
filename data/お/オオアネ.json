@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家族旅行の計画は、いつも頼りになる大姉が中心になって立ててくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は三人姉妹の大姉で、妹たちの面倒をよく見ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "叔母は私の父の大姉にあたるので、昔の話をよく聞かせてくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何々｜大姉と刻してある。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "姉"
+      ],
+      "antonyms": [
+        "妹"
+      ],
+      "related": [
+        "家族",
+        "親族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.561720+00:00Z",
+      "updated_at": "2026-06-02T01:16:10.338550+00:00Z",
       "frequencies": {
         "aozora": 103
       }

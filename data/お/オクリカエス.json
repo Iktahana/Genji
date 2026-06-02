@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "間違って届いた荷物を送り返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "品質が悪い商品をお店に送り返してもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "納期に間に合わない製品を送り返すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さてわれにも要なき品なれば貴嬢に送り返すべきなれど思う節あればしばしわが手もとに秘め置く事といたしぬ。",
@@ -262,14 +287,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "返送する",
+        "差し戻す",
+        "戻す",
+        "返す"
+      ],
+      "antonyms": [
+        "受け取る",
+        "留める"
+      ],
+      "related": [
+        "返品",
+        "郵送",
+        "返却",
+        "郵便"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.651566+00:00Z",
+      "updated_at": "2026-06-02T01:24:26.028359+00:00Z",
       "frequencies": {
         "aozora": 197
       }

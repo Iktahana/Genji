@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "練習を怠ると、すぐに筋力が落ちてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は仕事に誇りを持っており、決して手を怠ることはない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "メンテナンスを怠ったせいで、機械が壊れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そう云った風に夢中になっているときには、暑さや寒さに対して室温並びに衣服の調節を怠るような場合がどうしても多い上に、身心ともに過労に陥るのを気持の緊張のために忘却して無理をしがちになるから自然風邪のみならずいろんな病気に罹りやすいような条件が具備する訳かと思われるのである。",
@@ -289,21 +314,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長引いていた風邪も、ようやく怠りだした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "薬を飲み始めてから、体の痛みが怠ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昨日までは高熱だったが、今朝から症状が少し怠った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "さぼる",
+        "怠ける",
+        "端折る"
+      ],
+      "antonyms": [
+        "努力する",
+        "精励する"
+      ],
+      "related": [
+        "怠い",
+        "不精",
+        "怠慢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.760107+00:00Z",
+      "updated_at": "2026-06-02T01:26:35.566451+00:00Z",
       "freq_rank": 26752,
       "frequencies": {
         "aozora": 1400

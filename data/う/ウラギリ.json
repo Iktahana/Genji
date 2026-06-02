@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親友からの突然の裏切りは、何よりも深く心を傷つけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼による裏切りにより、長年進めてきた計画は白紙に戻った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史上の有名な裏切りが、今も戒めとして語り継がれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その論の、當、不當にかかはらず、なんだか水臭い、裏切りに似たものをさへ感ずるのは、私だけであらうか。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "背信",
+        "背反",
+        "寝返り",
+        "造反"
+      ],
+      "antonyms": [
+        "忠誠",
+        "誠実"
+      ],
+      "related": [
+        "背く",
+        "裏切る",
+        "反逆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.934837+00:00Z",
+      "updated_at": "2026-06-02T00:25:54.667333+00:00Z",
       "freq_rank": 12801,
       "frequencies": {
         "aozora": 441

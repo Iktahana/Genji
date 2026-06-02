@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大学で宇宙学を専攻し、宇宙の誕生と進化について深く学んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最新の観測機器がもたらすデータは、従来の宇宙学の常識を次々と塗り替えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宇宙学の講義で、ダークマターが銀河の形成に果たす役割について議論した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは一大事じゃ」「船長、せっかくここまで追いつめたのに、退却するなんて――」「とにかく長良川博士といえば有名な宇宙学者ではないか。",
@@ -85,14 +110,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宇宙論",
+        "宇宙物理学"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "天文学",
+        "宇宙科学",
+        "宇宙原理",
+        "ビッグバン理論",
+        "物理学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.360130+00:00Z"
+      "updated_at": "2026-06-01T22:50:12.745126+00:00Z"
     }
   }
 ]

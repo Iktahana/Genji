@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国際規格に同じゅうする必要があります",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然らば則ち帝｜丘福を尤めて、而して福と其死を同じゅうする也。",
@@ -278,14 +287,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "等しくする",
+        "同等にする"
+      ],
+      "antonyms": [
+        "区別する",
+        "差をつける"
+      ],
+      "related": [
+        "同等",
+        "平等"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.038285+00:00Z"
+      "updated_at": "2026-06-02T01:57:13.623175+00:00Z"
     }
   }
 ]

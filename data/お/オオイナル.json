@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大いなる目標を抱き、毎日努力を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この改革は社会に大いなる変化をもたらすだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "我々の前には大いなる課題が横たわっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "室の真中に今一つの大いなる画架あり。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "偉大な",
+        "大きな",
+        "雄大な"
+      ],
+      "antonyms": [
+        "小さな",
+        "些細な"
+      ],
+      "related": [
+        "大",
+        "大層",
+        "壮大"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.598121+00:00Z",
+      "updated_at": "2026-06-02T01:13:58.436955+00:00Z",
       "freq_rank": 12489,
       "frequencies": {
         "aozora": 1350

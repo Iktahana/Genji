@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "功績を讃えて、会社は豪華なホテルで宴を張った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "凱旋した武将を祝い、城内で盛大な宴を張ったと伝えられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古希を祝う宴を張り、家族や友人が一堂に集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "老友マクマイケル言いしはドイツでは村人この日兎を捕え殺して公宴を張る所多しと。",
@@ -158,14 +183,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宴を開く",
+        "宴会を開く",
+        "酒盛りをする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "宴会",
+        "饗宴",
+        "酒席"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.851283+00:00Z"
+      "updated_at": "2026-06-02T01:07:04.039337+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マラソンのゴール付近では、沿道に数千人の観客が詰めかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "凱旋パレードの沿道には、小旗を持った市民が並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "沿道の桜が満開で、花見客が道沿いにシートを広げていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "窓から外を眺め勝ちな自分は、ある日その沿道に二本のうつぎを見つけた。",
@@ -282,14 +307,19 @@
         "遠道",
         "煙道"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "沿線"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "道路",
+        "路傍"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.671516+00:00Z",
+      "updated_at": "2026-06-02T01:05:18.348958+00:00Z",
       "freq_rank": 23102,
       "frequencies": {
         "aozora": 244
@@ -328,7 +358,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春になると母は畑の豌豆を摘んで、豆ご飯を炊いてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スープに豌豆を加えると、鮮やかな緑色が映えて見た目も美しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "豌豆の皮むきを手伝いながら、祖母と縁側で話した記憶がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "淺間山麓一面を埋めて居るとよく似た豌豆大の粒の集積したものである。",
@@ -582,7 +637,11 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "豆",
+        "野菜",
+        "豆類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -625,7 +684,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近道を知らなかったので、遠道になってしまったが、川沿いの景色が美しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バスが動いていないため遠道を歩いて帰ったら、足が棒のようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あえて遠道を選んで、気分転換しながら職場まで歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「私も、――昨年ですが、塔婆を持って、遠道を乗った事があるんです。",
@@ -878,8 +962,13 @@
         "煙道"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "近道"
+      ],
+      "related": [
+        "旅",
+        "距離"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -920,7 +1009,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "煙道が詰まっていたため、暖炉をつけると部屋に煙が逆流してきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場の煙道から出る排気ガスの成分を、定期的に測定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い民家の煙道は土壁に埋め込まれており、独特の構造をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "燃料は鞣皮用の樹皮でそれが竈の天邊にある丸い二個の口から爐格子の中に明けられ、※沸器の下の火室へ瓦斯の這入る道として煉瓦製の煙道が設けてある。",
@@ -1172,9 +1286,14 @@
         "豌豆",
         "遠道"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "煙突"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "火",
+        "換気"
+      ]
     },
     "meta": {
       "version": "1.0.0",

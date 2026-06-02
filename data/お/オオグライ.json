@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うちの猫は大食らいで、いつもご飯をねだっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は小さい頃から大食らいで、よく家族を驚かせていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あのレストランのバイキングは、大食らいの私でも満足できる量だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼女が長崎の女である限りは、お蝶さんが肺病と脚気と弁膜症を併発して瀕死の病床にあっても、それは実に、驚くべき大食らいにきまっておりますよ。",
@@ -78,14 +103,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大食漢",
+        "健啖家"
+      ],
+      "antonyms": [
+        "少食家"
+      ],
+      "related": [
+        "食事",
+        "暴食"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.730256+00:00Z",
+      "updated_at": "2026-06-02T01:15:03.275887+00:00Z",
       "frequencies": {
         "aozora": 6
       }

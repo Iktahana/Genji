@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社の機密をライバル社に売ることは、明らかな裏切り行為だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "信頼を裏切り行為で返され、彼はその場で立ち尽くした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "チームメンバーに対する裏切り行為は、組織として決して許されない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "買ひ溜めとか闇取引とかいふ行為は、従つて、国民相互の信頼と協力を困難にするものでありますから、これは明らかに、敵を利する裏切り行為であります。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "背信行為",
+        "反逆行為"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "不正行為",
+        "裏切り",
+        "背き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.935709+00:00Z"
+      "updated_at": "2026-06-02T00:25:54.667737+00:00Z"
     }
   }
 ]

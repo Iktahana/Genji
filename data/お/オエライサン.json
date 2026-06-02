@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地元のお偉いさんたちが列席する披露宴は、終始緊張の連続だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「また会社のお偉いさんが視察に来るらしいよ」と同僚が耳打ちした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "お偉いさんの前では借りてきた猫のように大人しくなる彼が不思議だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お偉いさんもつられて笑ったが、任務を完全に承認した笑いであった。",
@@ -71,14 +96,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "要人",
+        "重鎮",
+        "権力者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "地位",
+        "社会",
+        "組織"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.543812+00:00Z"
+      "updated_at": "2026-06-02T01:13:39.058063+00:00Z"
     }
   }
 ]

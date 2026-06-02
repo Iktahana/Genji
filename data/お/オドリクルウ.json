@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ロックコンサートで観客が踊り狂う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "欧州の音楽祭で人々が踊り狂っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お祭りで酔っぱらった人たちが踊り狂っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジャズも客観的に鑑賞するものではなくて、自分で踊り狂うと同価値の活動そのものだからである。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "熱狂して踊る",
+        "乱舞する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "乱舞",
+        "熱狂",
+        "恍惚",
+        "祭り",
+        "踊り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.968098+00:00Z",
+      "updated_at": "2026-06-02T01:55:57.658133+00:00Z",
       "frequencies": {
         "aozora": 103
       }

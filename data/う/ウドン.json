@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い夜に熱いうどんをすすると、体の芯からじんわりと温まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母が打ちたてのうどんを茹でてくれたので、ざるに盛ってつけ汁で食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "讃岐でセルフうどんを初めて食べたとき、そのコシの強さに驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　下駄屋の前を通って、四ツ角を空の方へ折れたところで、饂飩屋にいたスパイがひょっこり立って出て来た。",
@@ -279,14 +304,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "麦縄",
+        "うろん"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "蕎麦",
+        "小麦粉",
+        "麺類",
+        "讃岐うどん",
+        "出汁",
+        "製麺"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.589576+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.052912+00:00Z",
       "freq_rank": 41763,
       "frequencies": {
         "aozora": 340

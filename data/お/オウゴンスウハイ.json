@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の人生は黄金崇拝に染まり、家族を顧みなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その社会では、富を持つことだけが価値とされ、黄金崇拝が蔓延していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は黄金崇拝の危険性について、繰り返し人々に警告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "米国は黄金崇拝主義の本家本元なること云ふ迄もなけれど、彼等は単に黄金崇拝のみを以て満足し居る国民にあらず。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "拝金主義",
+        "金銭崇拝"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "物質主義",
+        "宗教",
+        "金"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.228839+00:00Z"
+      "updated_at": "2026-06-02T01:10:38.510133+00:00Z"
     }
   }
 ]

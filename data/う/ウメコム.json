@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の隅に古い瓶を埋め込んで、子どもたちとのタイムカプセルを作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "職人が石畳の隙間にモルタルを埋め込み、ぐらつきをなくした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "設計者は基板の中にセキュリティチップを埋め込む方針を決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "額の真中を、井戸のはね釣瓶で牡丹餅大にばっくりと食って取られたそのあとが、相当に癒着しているとはいえ、塗り隠すことも、埋め込むこともできない――親の産み成した両眼のほかに、縦に一つの眼が出来ている。",
@@ -78,14 +103,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "埋める",
+        "はめ込む"
+      ],
+      "antonyms": [
+        "取り出す",
+        "掘り出す"
+      ],
+      "related": [
+        "埋め込み",
+        "配置"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.860143+00:00Z",
+      "updated_at": "2026-06-02T00:21:50.882559+00:00Z",
       "freq_rank": 30841,
       "frequencies": {
         "aozora": 42

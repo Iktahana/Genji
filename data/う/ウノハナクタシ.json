@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "卯の花腐しが続き、洗濯物がなかなか乾かず困り果てている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "卯の花腐しで外に出られない日は、家で静かに読書をして過ごす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "長引く卯の花腐しの影響か、庭の紫陽花がいつもより早く色づき始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "晴間見せ卯の花腐しなほつづく山荘の庭に長けけり夏蕨五月十六日　大崎会。",
@@ -48,14 +73,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "長雨"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "梅雨",
+        "季節"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.635613+00:00Z"
+      "updated_at": "2026-06-02T00:21:40.282987+00:00Z"
     }
   }
 ]

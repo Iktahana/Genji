@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オリンパスのカメラを長年愛用している祖父は、レンズの描写力を今も高く評価している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医療用内視鏡の分野で、オリンパスは世界トップクラスのシェアを誇るメーカーだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "カメラ量販店のショーケースには、オリンパスの最新ミラーレス機が並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蝉は、オリンパスのアポロとミユーズが地上の人間の行状を見聞さすべくつかはした吾々の監視者であるといふのです。",
@@ -79,12 +104,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "企業",
+        "光学機器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:25:41.606558+00:00Z",
       "freq_rank": 30630,
       "frequencies": {
         "aozora": 6

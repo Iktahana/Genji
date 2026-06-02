@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "同僚の昇進を岡焼きして、つい嫌味を言ってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あまりに幸せそうな彼らを見て、なぜか岡焼きする気持ちが湧いてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "他人の成功を岡焼きする暇があるなら、自分の目標に取り組むべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……実は私も品夫さんのお父さんに関する村の人の噂を二三聞いているにはいたのですが、大部分誇張だろうと思いましたし、もしかすると岡焼き連の中傷かも知れないと思いましたから、今の今までチットも信じていなかったのですが……」「イヤ……村の者の噂は大部分事実なのです。",
@@ -159,14 +184,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "やきもち",
+        "妬み"
+      ],
+      "antonyms": [
+        "喜び",
+        "信頼"
+      ],
+      "related": [
+        "恋愛",
+        "愛情",
+        "嫉妬心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.295275+00:00Z",
+      "updated_at": "2026-06-02T01:20:16.713816+00:00Z",
       "frequencies": {
         "aozora": 17
       }

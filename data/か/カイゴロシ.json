@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その家の飼い犬は年老いて役に立たなくなったが、飼い殺しのままである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "役に立たなくなった家畜を飼い殺しにするのは、経済的負担になることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "農業の効率化により、飼い殺しの実践は減少している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "五十人の研究の中でただの一つでも有利な結果が飛び出せば、それから得られる利益で、学者の五十人くらい一生飼い殺しにしても、なお多大の収益があるからとのことであった。",
@@ -192,21 +217,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社では彼のスキルを活かさず、ただ飼い殺しにしている状態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "能力のある職員を飼い殺しにしていては、人材管理として問題がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昇進の機会がなく、飼い殺しのような職場環境に不満を感じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無駄飼い",
+        "遊兵化"
+      ],
+      "antonyms": [
+        "活用",
+        "起用"
+      ],
+      "related": [
+        "無駄",
+        "浪費",
+        "人員",
+        "給与",
+        "役割"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:57:04.362102+00:00Z",
       "frequencies": {
         "aozora": 19
       }

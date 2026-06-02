@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "チームメイトに置いてきぼりにされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "技術革新で置いてきぼりになる企業も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親友グループから置いてきぼりにされるのは辛い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この深山で置いてきぼりを食っては、麓へ降りる道も分からないではないか。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "置き去り",
+        "置いてけぼり",
+        "取り残し",
+        "放置"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "置いていく",
+        "取り残される",
+        "孤立",
+        "一人残される",
+        "仲間外れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.057352+00:00Z",
+      "updated_at": "2026-06-02T01:10:53.498036+00:00Z",
       "frequencies": {
         "aozora": 56
       }

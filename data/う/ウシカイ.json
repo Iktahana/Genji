@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は若い頃から牛飼いとして、広大な牧場で働いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山あいの村で、年老いた牛飼いが一歩ずつ牛を引いていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "牛飼いの仕事は朝が早く、夜明け前には牛舎へ向かう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鰯網が出ない時には、牛飼いをやった。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "牧童",
+        "牛追い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "牧畜",
+        "牧場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.889510+00:00Z",
+      "updated_at": "2026-06-01T22:08:58.661078+00:00Z",
       "frequencies": {
         "aozora": 53
       }

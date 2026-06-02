@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "葉に触れるとすぐに閉じる含羞草の仕組みは、とても不思議だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "庭に植えた含羞草が、今年もかわいらしい花を咲かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供が興味深そうに、含羞草を指先でつついている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "阿迦佗樹が感覺があるの、フライトラツプが自ら食物を取るの、含羞草が感情的に動くの、或植物は漸々に自己の所在地を變更して、歩行するが如き觀をなすのと云つたところで、それは物理生理の然らしむるので、心理の然らしむるのでは無いやうである。",
@@ -96,14 +121,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ミモザ",
+        "ネムリグサ",
+        "眠り草"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "マメ科",
+        "触れると葉が閉じる",
+        "熱帯植物",
+        "草本"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.117331+00:00Z",
+      "updated_at": "2026-06-02T01:33:55.588443+00:00Z",
       "frequencies": {
         "aozora": 11
       }

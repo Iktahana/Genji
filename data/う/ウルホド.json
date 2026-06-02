@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このケーキは売るほど人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "売るほど用意していた在庫が完売した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このシリーズは売るほど品薄だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "未だ、手まはりの物までを売るほどのこともなからうのに、彼の母親はどんな小さなものまでも金に換へて、遊び歩いてゐるやうだと従弟は赤くなつて説明した。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "山ほど",
+        "多量"
+      ],
+      "antonyms": [
+        "僅か",
+        "微量"
+      ],
+      "related": [
+        "沢山",
+        "溢れる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.211683+00:00Z"
+      "updated_at": "2026-06-02T00:27:22.660176+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼にとって大学受験はお茶の子さいさいだったようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この難関試験もお茶の子さいさいと言わんばかりの態度だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プログラミング経験者にはお茶の子さいさいの問題である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "千人、二千人おりましょうとも、この可賀が引きうけましたからには、お茶の子さいさいでござりやす。",
@@ -133,14 +158,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "朝飯前",
+        "容易",
+        "簡単",
+        "造作もない",
+        "楽々"
+      ],
+      "antonyms": [
+        "困難",
+        "難しい",
+        "大変"
+      ],
+      "related": [
+        "仕事",
+        "努力",
+        "能力",
+        "難度",
+        "楽"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.493674+00:00Z"
+      "updated_at": "2026-06-02T01:41:08.847966+00:00Z"
     }
   }
 ]

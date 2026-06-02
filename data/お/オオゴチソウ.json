@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "正月には家族みんなで大ご馳走を食べる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仲間のために大ご馳走を用意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "母が大ご馳走を作ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは、紅や白に絢爛と着飾った美しい乙女の群ではなく、秋の盛りの食卓にならんだ純オランダ田園風の大ご馳走であった。",
@@ -47,14 +72,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "饗宴",
+        "ご馳走"
+      ],
+      "antonyms": [
+        "粗食"
+      ],
+      "related": [
+        "料理",
+        "晩餐"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.747094+00:00Z"
+      "updated_at": "2026-06-02T01:15:19.701806+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "上司の無理な指示が本当に疎ましい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "建設工事の騒音が毎日疎ましく聞こえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝の満員電車での通勤が疎ましく感じるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今更、わが子を勿体ないと言ったところで、愛想笑いをしたところで、いかにそれが寂しく憐れなものに感じられるものにせよ、やはり疎ましいものに思わずにはいられませんでした。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "うとうとしい",
+        "忌まわしい",
+        "嫌な",
+        "煩わしい",
+        "厭わしい"
+      ],
+      "antonyms": [
+        "好ましい",
+        "愛おしい",
+        "可愛い"
+      ],
+      "related": [
+        "疎む",
+        "疎い",
+        "嫌悪",
+        "忌避",
+        "嫌い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.580666+00:00Z",
+      "updated_at": "2026-06-01T23:33:32.306857+00:00Z",
       "frequencies": {
         "aozora": 35
       }

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋の空には浮雲がゆっくりと流れ、山の稜線を次々と隠していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夕暮れどきの浮雲が茜色に染まり、川面にその影を映した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子供は横になって浮雲を眺め、「あれはクジラに見える」と言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空には今日も浮雲が四抹、五抹。",
@@ -259,21 +284,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "将来の見通しが立たず、彼の人生計画は浮雲のように定まらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「出世も名声も浮雲だ、今この瞬間を大切に生きよう」と老師は語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "合併交渉が暗礁に乗り上げ、双方の提携関係は浮雲のような状態になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "浮き雲",
+        "流れ雲",
+        "白雲",
+        "漂う雲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "雲",
+        "空",
+        "流浪",
+        "無常",
+        "はかなさ",
+        "漂流"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.735758+00:00Z",
+      "updated_at": "2026-06-01T22:04:02.419134+00:00Z",
       "frequencies": {
         "aozora": 267
       }

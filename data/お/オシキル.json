@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "反対意見が多かったが、彼は自分の意志を押し切ってプロジェクトを強行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "周囲の不安を押し切るような形になったけれど、結果的には成功してよかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最後は無理やり押し切る形になったが、なんとか交渉をまとめることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし所詮真の芸術が一つの業苦であるならば悩みのまゝに押し切るより外に術はない――』と神泉氏に向つて言つてのける。",
@@ -217,21 +242,64 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このレバーを下げて、この鋼板を力いっぱい押し切る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "厚手のプラスチック板を押し切るためには、かなり強い力が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "切れ味の悪い刃で無理やり押し切ろうとすると、断面が汚くなってしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "貫く",
+        "強行する",
+        "断行する",
+        "押し通す",
+        "突破する"
+      ],
+      "antonyms": [
+        "屈する",
+        "断念する",
+        "妥協する",
+        "諦める"
+      ],
+      "related": [
+        "反対",
+        "決断",
+        "抵抗",
+        "意志",
+        "独断",
+        "強行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.937277+00:00Z",
+      "updated_at": "2026-06-02T01:28:07.315191+00:00Z",
       "frequencies": {
         "aozora": 147
       }

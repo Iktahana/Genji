@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "盆踊りは踊り念仏の伝統を引き継いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夏祭りで踊り念仏が演じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "寺の踊り念仏を見に大勢が集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "扨、其鹿島踊りと言ふのは、今でも、田舎々々にはよく行はれる踊り念仏系統の様々の分派の一つらしいもの、と思はれる手ぶり・足ぶりのあるものでありました。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "念仏踊り",
+        "盆踊り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "踊る",
+        "念仏"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.981315+00:00Z",
+      "updated_at": "2026-06-02T01:56:18.047331+00:00Z",
       "frequencies": {
         "aozora": 8
       }

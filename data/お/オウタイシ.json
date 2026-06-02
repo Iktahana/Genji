@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国王の病状が悪化したため、王太子が摂政として国務を代行することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "外交訪問のため来日した王太子は、首相と会談し両国の経済関係を強化することで合意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "王太子の婚約発表に際し、国民は街頭に繰り出してその慶事を祝った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "子路は至って勇ありしと聞くが周王太子などいずれ柔弱な人なるべきに叱られて服した虎はよほど弱腰の生れだったと見える。",
@@ -61,14 +86,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "皇太子",
+        "次期国王"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "王位",
+        "王室"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.353603+00:00Z",
+      "updated_at": "2026-06-02T01:11:30.163989+00:00Z",
       "frequencies": {
         "aozora": 4
       }

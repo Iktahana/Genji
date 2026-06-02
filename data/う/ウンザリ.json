@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日同じ仕事の繰り返しで、もううんざりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このメニューはうんざりするほど選択肢がない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "つまらない冗談をうんざりするほど聞かされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "幼少の頃から、その繪姿には、うんざりするくらゐたくさんお目にかかつて來たが、その實物に面接するの光榮には未だ浴してゐないのである。",
@@ -273,14 +298,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "飽き飽き",
+        "厭気"
+      ],
+      "antonyms": [
+        "興味津々"
+      ],
+      "related": [
+        "退屈",
+        "嫌悪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.414467+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.067422+00:00Z",
       "freq_rank": 10487,
       "frequencies": {
         "aozora": 606

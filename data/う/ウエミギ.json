@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "携帯電話の上右のボタンを長押しで電源を切る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウィンドウの上右のXボタンで閉じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "画面の上右に天気予報が表示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "謙恭温容の君子であったので、妻子家臣の悲嘆は殆ど言語に絶したもので、征矢野孫兵衛、村上右門、知遇を受けた此両人などは、当時の国禁を窃に破って追腹を切った程である。",
@@ -133,14 +158,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "右上"
+      ],
+      "antonyms": [
+        "上左",
+        "下右"
+      ],
+      "related": [
+        "位置",
+        "配置"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.599546+00:00Z",
+      "updated_at": "2026-06-01T21:58:55.290094+00:00Z",
       "frequencies": {
         "aozora": 3
       }

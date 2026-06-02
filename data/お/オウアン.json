@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "応安の時代は日本史上混乱の時期だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応安年間に建立されたこの寺院は、今も美しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応安時代の文化的影響は現在にも残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「翁」は家の先祖観阿弥清次が応安の昔初めて将軍義満の前で能を舞つた時、大夫の役として第一番に演じた輝かしい記録がある。",
@@ -119,12 +144,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "年号",
+        "南北朝時代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.143840+00:00Z",
+      "updated_at": "2026-06-02T01:09:27.324244+00:00Z",
       "frequencies": {
         "aozora": 6
       }

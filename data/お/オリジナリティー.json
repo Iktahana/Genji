@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このアーティストの作品はオリジナリティーに溢れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ファッション業界ではオリジナリティーが求められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "企画書にオリジナリティーが足りないという指摘を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはとにかく西鶴のオリジナリティーの尊重の中にも、西鶴の中の科学的な要素の一つを認めることが出来るかと思われる。",
@@ -191,14 +216,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "独創性",
+        "個性"
+      ],
+      "antonyms": [
+        "模倣",
+        "凡庸"
+      ],
+      "related": [
+        "創作",
+        "創造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:24:55.517770+00:00Z",
       "freq_rank": 40200,
       "frequencies": {
         "aozora": 20

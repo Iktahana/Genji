@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の厳しいお眼鏡にかなう作品は、めったに現れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "部長のお眼鏡にかなって、新しいプロジェクトのリーダーに抜擢された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "厳しい審美眼を持つバイヤーのお眼鏡にかなった品だけが店頭に並ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もっとも、奴さんはその工場でたった一人の大学出だということも社長のお眼鏡に適ったらしいんだが、なに、奴さん大学は中途退学で、履歴書をごまかして書いたんですよ。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "白羽の矢",
+        "審美眼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "評価",
+        "選択"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.803425+00:00Z"
+      "updated_at": "2026-06-02T02:20:20.212603+00:00Z"
     }
   }
 ]

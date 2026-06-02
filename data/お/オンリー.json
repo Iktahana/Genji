@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このカフェはエスプレッソオンリーで、ドリップコーヒーは提供していない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このメンバーシップはゴールド会員オンリーの特典である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この時間帯の入場はスタッフオンリーに限定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまり、ラブ・イズ・オンリー・ロウ、恋愛こそ唯一の掟、そう決心してもらいたいのです。",
@@ -130,21 +155,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦後の進駐軍兵士の周囲に、オンリーと呼ばれた女性たちがいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その時代、オンリーの存在は社会問題として議論されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歴史的な背景から、オンリーの実態を学ぶことは重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "唯一",
+        "ただ一つ"
+      ],
+      "antonyms": [
+        "全て",
+        "多く"
+      ],
+      "related": [
+        "一点",
+        "独占",
+        "限定",
+        "占有",
+        "専属"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:31:58.152665+00:00Z",
       "freq_rank": 12183,
       "frequencies": {
         "aozora": 11

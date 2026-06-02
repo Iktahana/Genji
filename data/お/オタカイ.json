@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の態度はどこか御高いと感じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "もう少し謙虚になればいいのに、あの人はいつも御高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "御高い態度をとることで、自分の弱さを隠しているようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　あとは　いそいで　かってきた　さらの　おたかい　おにんぎょうを、　ヴィルジニーちゃんに　みせると　よろこんで　じぶんのものと　とりかえてくれまして。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "高慢",
+        "気高い",
+        "驕慢"
+      ],
+      "antonyms": [
+        "謙虚",
+        "低姿勢"
+      ],
+      "related": [
+        "傲慢",
+        "偉そう",
+        "尊大"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.345788+00:00Z"
+      "updated_at": "2026-06-02T01:38:40.268984+00:00Z"
     }
   }
 ]

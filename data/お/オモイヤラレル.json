@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親の健康が思いやられる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このプロジェクトの成功が思いやられる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "学生たちの進学先が思いやられる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それさえ、夜中から暁へ引出されたような、とり留めのないなり形、他の人々は思いやられる。",
@@ -270,14 +295,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "心配される",
+        "懸念される",
+        "案じられる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "心配",
+        "懸念",
+        "不安",
+        "先行き",
+        "危惧"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.943073+00:00Z"
+      "updated_at": "2026-06-02T02:23:12.990543+00:00Z"
     }
   }
 ]

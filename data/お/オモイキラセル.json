@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年通った道場を去ることを思い切らせたのは、師匠の一言だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼への未練を思い切らせるために、友人は旅行に連れ出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "両親は転校を思い切らせようと、新しい学校の楽しさを話してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いずれにしても、父が小夜衣の謎を解いてしまった以上、今更なまじいにそれを包み隠すよりも、あからさまに何もかも打ち明けて、いっそ思い切らせる方がましであろうとも考えた。",
@@ -53,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "断念させる",
+        "諦めさせる"
+      ],
+      "antonyms": [
+        "勧める",
+        "促す"
+      ],
+      "related": [
+        "説得",
+        "決断",
+        "放棄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.881140+00:00Z"
+      "updated_at": "2026-06-02T02:20:49.468525+00:00Z"
     }
   }
 ]

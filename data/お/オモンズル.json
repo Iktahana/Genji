@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武士は義を重んずるものとして幼い頃から教えられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "命を重んずる医師としての誓いを、生涯忘れたことはない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "礼を重んずる社風は、外部の取引先からも高く評価されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "予審及捜査に関する調書上の記述よりも、被告が法廷でした供述を重んずるといふ主義の裁判官であるならば、彼等は当然無罪となるべきものであつた。",
@@ -254,14 +279,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "尊重する",
+        "重視する",
+        "大切にする"
+      ],
+      "antonyms": [
+        "軽んじる",
+        "蔑ろにする"
+      ],
+      "related": [
+        "敬意",
+        "評価"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.157065+00:00Z",
+      "updated_at": "2026-06-02T02:22:57.683380+00:00Z",
       "frequencies": {
         "aozora": 1195
       }

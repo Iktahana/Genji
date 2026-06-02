@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女のおちょぼ口がかわいいと、クラスの男子の間でもっぱらの評判だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "写真を撮るたびにおちょぼ口をする癖があって、自然な笑顔が一枚もない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母はおちょぼ口で「あらまあ」と言いながら縫い物をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ことに可笑しいのは、全く無学文盲の徒に限って、この世の学問にあこがれ、「あの、鴎外先生のおっしゃいますることには、」などと、おちょぼ口して、いつ鴎外から弟子のゆるしを得たのか、先生、先生を連発し、「勉強いたして居ります。",
@@ -269,14 +294,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "小さい口",
+        "すぼめた口"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "口元",
+        "唇",
+        "表情",
+        "顔立ち",
+        "愛らしさ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.511731+00:00Z",
+      "updated_at": "2026-06-02T01:43:51.783486+00:00Z",
       "frequencies": {
         "aozora": 33
       }

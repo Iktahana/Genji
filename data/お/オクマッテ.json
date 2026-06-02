@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "住宅街の奥まって静かな場所に、その隠れ家レストランはある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鏡の位置が奥まって横向きになっていたため、鏡の前へ立たないと自分の顔は見えなかった。",
@@ -109,14 +118,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "離れて",
+        "僻遠に",
+        "引っ込んで"
+      ],
+      "antonyms": [
+        "表だって",
+        "目立つ所に"
+      ],
+      "related": [
+        "閑静",
+        "静か",
+        "隠れ家",
+        "立地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.614113+00:00Z"
+      "updated_at": "2026-06-02T01:23:58.733386+00:00Z"
     }
   }
 ]

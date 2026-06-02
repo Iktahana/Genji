@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仏教では、人間だけでなく動物や虫も苦楽を感じる有情であると説いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "生きとし生ける全ての有情に救いがありますようにと、僧侶は深く祈りを捧げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は有情의命を慈しむために、一切の殺生を禁じる厳格な生活を送っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こは君｜逸品古色ありと抱いて歸れば有情なりや味よきしづくの淺紫なるにけ高き千古の春を知りぬ。",
@@ -288,21 +313,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の厳格な態度の奥には、困っている人を放っておけない有情が感じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無味乾燥な法律の世界にあっても、判決には被告への有情が込められていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "殺伐とした世の中だからこそ、他人に対するちょっとした有情が胸に染みる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "衆生",
+        "生命"
+      ],
+      "antonyms": [
+        "無情"
+      ],
+      "related": [
+        "仏教",
+        "慈悲",
+        "生物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.961550+00:00Z",
+      "updated_at": "2026-06-01T22:10:56.920827+00:00Z",
       "frequencies": {
         "aozora": 105
       }

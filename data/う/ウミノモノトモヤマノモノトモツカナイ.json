@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はいつも冗談ばかり言っているので、その計画が成功するのか失敗するのか、海のものとも山のものともつかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新しく始めた事業がどう転ぶのか、今の段階では海のものとも山のものともつかない状態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の革新的な提案は、周囲からは海のものとも山のものともつかないと疑いの目で見られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ボーイ長は、その時、鉄のサイドが、同時に彼のベッドの一方である、その寝箱の中で、海のものとも山のものともつかない傷と、病とのためにうなっていた。",
@@ -62,14 +87,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "どっちつかず",
+        "得体の知れない",
+        "正体不明",
+        "雲を掴むような",
+        "五里霧中"
+      ],
+      "antonyms": [
+        "一目瞭然",
+        "明々白々",
+        "明白",
+        "確実"
+      ],
+      "related": [
+        "評価",
+        "予測",
+        "未知",
+        "先行き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.826114+00:00Z"
+      "updated_at": "2026-06-02T00:26:08.109428+00:00Z"
     }
   }
 ]

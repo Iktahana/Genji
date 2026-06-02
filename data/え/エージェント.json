@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不動産エージェントがオフィスビルの候補物件を3軒紹介してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "AIエージェントがカスタマーサービスの問い合わせに対応している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "秘密エージェントが重要な情報を回収するために潜入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なぜかというと、作者が、そういう意識をもたないで、純真な芸術的衝動によって制作した作品の方が、かえって商品として優良な価値をもつ場合があることを、出版資本家およびそのエージェントとしてのジャーナリストはよく知っているからである。",
@@ -143,14 +168,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "代理人",
+        "仲介者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "代理",
+        "商社",
+        "スパイ",
+        "ソフトウェアエージェント"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.881221+00:00Z",
+      "updated_at": "2026-06-02T01:07:18.916119+00:00Z",
       "freq_rank": 7693,
       "frequencies": {
         "aozora": 15

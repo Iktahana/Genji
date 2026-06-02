@@ -31,21 +31,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このコンピュータはLinuxのオペレーションシステムを搭載している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しいオペレーションシステムのアップデートがリリースされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複数のオペレーションシステムで動作するソフトウェアを開発する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オペレーティングシステム",
+        "OS",
+        "基本ソフト"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "カーネル",
+        "ソフトウェア",
+        "ハードウェア"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.609961+00:00Z"
+      "updated_at": "2026-06-02T02:17:51.050011+00:00Z"
     }
   }
 ]

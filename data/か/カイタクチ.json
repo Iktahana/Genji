@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "開拓地から採れた野菜は、独特の風味が特徴だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この開拓地は、百年前は荒野だったという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開拓地の一部が、今では観光地として整備されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この開拓地の歴史を通じて、これほどにも長老の権威に真っ向からたてついたのは、今までなかったことだ。",
@@ -181,14 +206,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "新開地",
+        "開発地"
+      ],
+      "antonyms": [
+        "原野",
+        "未開地"
+      ],
+      "related": [
+        "土地",
+        "農地",
+        "開拓",
+        "入植"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:14:41.580495+00:00Z"
     }
   }
 ]

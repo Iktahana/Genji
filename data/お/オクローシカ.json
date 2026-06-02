@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ロシア料理店でオクローシカを初めて食べたが、冷たくてさっぱりしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夏の昼食にオクローシカを作ろうと、クワスを用意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オクローシカにはハムやきゅうり、ゆで卵などを細かく刻んで入れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いま彼はオクローシカという氷のように冷たい夏向きのスープを詰めこんで、川岸の熱いほど焼けた砂の上に仰向けに寝ころがる。",
@@ -47,12 +72,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ロシア",
+        "スープ",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.694893+00:00Z",
+      "updated_at": "2026-06-02T01:25:12.917778+00:00Z",
       "frequencies": {
         "aozora": 1
       }

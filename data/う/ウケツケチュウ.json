@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イベントサイトのトップには「参加申込み受付中」のバナーが大きく掲げられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "SNSに「新作の予約受付中です」と投稿したところ、一時間で定員に達した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "窓口のランプが点灯し、「ただいま受付中」の表示が出たので列に並んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "国は荷物もってゆくつもりで例によってどたん場まで愚図愚図して居たら、一昨日以来一般小荷物受付中止で、家じゅうひっちらかしたまま、自分のふとんさえしまわず行ってしまいました。",
@@ -53,14 +78,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "受付開始",
+        "申込受付中"
+      ],
+      "antonyms": [
+        "受付終了",
+        "締め切り"
+      ],
+      "related": [
+        "受付",
+        "申込",
+        "募集中",
+        "エントリー",
+        "締め切り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.813210+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.808916+00:00Z"
     }
   }
 ]

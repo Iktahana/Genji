@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "土用の丑の日が近づくと、スーパーの鰻コーナーに人が集まってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "うな丼を注文すると、タレの香りが食欲をそそる一品が目の前に運ばれてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "冷めたうな重に土瓶のお茶をかけてうな茶漬けにして食べると、また格別な味がした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "13　その夜さらに、室生犀星君と連れだち、三人で田端の料理屋で鰻を食べた。",
@@ -280,14 +305,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うなぎ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鰻丼",
+        "鰻重",
+        "土用の丑の日",
+        "魚類",
+        "接頭辞"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.593145+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.055379+00:00Z",
       "freq_rank": 19236,
       "frequencies": {
         "aozora": 997

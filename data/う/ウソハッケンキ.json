@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "警察は容疑者の供述の真偽を確かめるために、嘘発見器の使用を検討した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嘘発見器にかけられた彼は、プレッシャーからか額に大量の汗をかいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最近の嘘発見器は非常に精度が高く、脳波の変化まで読み取ることができるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こういう真実というものは、嘘発見器よりも確かだぜ」「そうですかなア。",
@@ -53,14 +78,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ポリグラフ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "嘘",
+        "尋問",
+        "検査"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.105432+00:00Z"
+      "updated_at": "2026-06-01T22:12:49.597225+00:00Z"
     }
   }
 ]

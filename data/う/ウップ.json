@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "炭酸ジュースを一気に飲んだら、思わず「うっぷ」とげっぷが出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "赤ちゃんがミルクを飲んだ後、「うっぷ」と可愛らしい音を立てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "食後に「うっぷ」となったのは、食べ過ぎだったかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "川田君も一寸つむじ曲りだから先輩に対する自分のうっぷん散しでもあったかな、いくらか。",
@@ -237,14 +262,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "げっぷ",
+        "おくび"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "消化",
+        "胃",
+        "食後"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.466774+00:00Z"
+      "updated_at": "2026-06-01T23:14:00.876135+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "同期会の席で、かつての上司が若いころの懐旧談を一時間近く語り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は縁側に座って孫たちに戦前の暮らしの懐旧談を聞かせてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人の旧友は居酒屋で杯を傾けながら、学生時代の懐旧談に花を咲かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "繰り返しても繰り返しても飽くを知らぬのは、またこの懐旧談で、浮き世の波にもまれて、眉目のどこかにか苦闘のあとを残すかたがたも、「あの時分」の話になると、われ知らず、青春の血潮が今ひとたびそのほおにのぼり、目もかがやき、声までがつやをもち、やさしや、涙さえ催されます。",
@@ -181,14 +206,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "昔話",
+        "回想",
+        "追憶"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "昔",
+        "郷愁",
+        "思い出",
+        "懐かしさ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:51:49.966044+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大株主からの圧力を受け、取締役会は経営方針を見直す議論を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は長年にわたって株を買い増し、今では会社の大株主として名を連ねている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大株主が株を一斉に売り出したことで、株価が急落した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて、あなたの旦那さんは、会社へ勤めておられるそうですが、その会社で良人の方は大株主ででもあるのでしょうか。",
@@ -165,14 +190,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "筆頭株主"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "株式",
+        "企業",
+        "経営"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.645213+00:00Z",
+      "updated_at": "2026-06-02T01:14:26.505554+00:00Z",
       "freq_rank": 25574,
       "frequencies": {
         "aozora": 19

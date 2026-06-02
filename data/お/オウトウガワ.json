@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプロトコルでは、応答側がACKパケットを返すことで接続が正式に確立される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "障害ログを分析したところ、応答側のサーバーが過負荷状態に陥っていたことが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電話交渉で応答側の担当者に決裁権がなく、結論は翌日に持ち越された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "レスポンダー"
+      ],
+      "antonyms": [
+        "要求側",
+        "送信側"
+      ],
+      "related": [
+        "応答",
+        "通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.396960+00:00Z"
+      "updated_at": "2026-06-02T01:12:06.294616+00:00Z"
     }
   }
 ]

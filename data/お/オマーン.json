@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の夏休みはオマーンへ旅行する予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オマーンはアラビア湾に面した国である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オマーンの首都マスカットは歴史ある街だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一五〇七年八月下旬に七隻四百人の兵員を以てソコトラを出発し、オマーン湾沿いのアラビアの岸にある商港を片端から攻撃し破壊した。",
@@ -57,12 +82,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "中東",
+        "アラビア湾",
+        "国"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.730465+00:00Z",
+      "updated_at": "2026-06-02T02:20:35.367961+00:00Z",
       "freq_rank": 34847,
       "frequencies": {
         "aozora": 3

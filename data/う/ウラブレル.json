@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長く空き家だったその建物はすっかりうらぶれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "商店街の一角がうらぶれてきたのが心配だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "かつての栄光はなく、街全体がうらぶれた雰囲気になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "スリも人並みにうらぶれるのか。",
@@ -54,14 +79,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "落ちぶれる",
+        "零落れる"
+      ],
+      "antonyms": [
+        "栄える"
+      ],
+      "related": [
+        "困窮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.016012+00:00Z",
+      "updated_at": "2026-06-02T00:25:54.545192+00:00Z",
       "frequencies": {
         "aozora": 186
       }

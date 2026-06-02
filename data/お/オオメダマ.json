@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は上司から大目玉を食らった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仕事のミスで大目玉をもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもが悪いことをしたので、親から大目玉を食らった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "譬へば或る時、大目玉を引ン剥いて、毛剃が白眼※した百萬の唐船も斯くやと許り。",
@@ -269,14 +294,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "叱責",
+        "お灸"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "叱る",
+        "怒る",
+        "注意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.114015+00:00Z",
+      "updated_at": "2026-06-02T01:18:29.901395+00:00Z",
       "frequencies": {
         "aozora": 41
       }

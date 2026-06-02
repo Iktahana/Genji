@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "すべての運転者は、交通ルールを遵守しなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この道路は狭いので、運転者は対向車に十分注意してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "運転者の責任は重く、常に集中力が求められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "公園の垣根のところまで来ると、千二は、そこに一台のりっぱな自動車が、運転者もいないで放りっぱなしになっているのに気がついた。",
@@ -53,14 +78,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運転手",
+        "ドライバー",
+        "操縦者"
+      ],
+      "antonyms": [
+        "同乗者",
+        "歩行者"
+      ],
+      "related": [
+        "交通安全",
+        "免許証",
+        "車両",
+        "道路交通法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.468344+00:00Z",
+      "updated_at": "2026-06-02T00:29:36.626683+00:00Z",
       "frequencies": {
         "aozora": 3
       }

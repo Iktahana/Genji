@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この蘭、根が詰まっているみたいだから、そろそろ植え替えが必要かな」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "春先の暖かい日は、庭の花壇の植え替えに絶好のタイミングだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "植え替え用の新しい土と、ひと回り大きな鉢を買ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしそうして、女中に手伝わせて、ホースで水を撒いたり、鍬やシャベルを持ち出して、萩や芙蓉の植え替えをしたり、薔薇やダリヤの手入れをしていると、老いた孤独の姿がますます侘しく心に反映して来て、縁側へ来て休んでいても、お茶一つくれるものもないのが物足りなかった。",
@@ -109,14 +134,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "移植",
+        "植え直し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "園芸",
+        "鉢植え",
+        "植木",
+        "苗",
+        "土壌",
+        "根"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.553170+00:00Z",
+      "updated_at": "2026-06-01T21:58:37.179132+00:00Z",
       "frequencies": {
         "aozora": 1
       }

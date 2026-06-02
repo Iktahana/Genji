@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海外の有名クラブからオファーを受けたと聞き、チームメイト全員が驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ぜひうちの会社に来てほしい」という熱心なオファーに、彼はついに転職を決意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "出版社からエッセイ集の執筆をオファーされ、作家は喜んで引き受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "せんだって或る文学者のいる席でハリソンの歴史小説セオファーノの話しが出たから僕はあれは歴史小説の中で白眉である。",
@@ -73,14 +98,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "申し出",
+        "提案",
+        "打診"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "依頼",
+        "引き受け"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.389455+00:00Z",
+      "updated_at": "2026-06-02T02:10:12.494632+00:00Z",
       "freq_rank": 12190
     }
   }

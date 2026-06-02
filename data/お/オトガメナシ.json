@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "事の顛末を説明すると、幸いにもお咎めなしで済んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "小さなミスだったので、今回はお咎めなしとしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "上司の判断により、今回の件はお咎めなしという結果になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その短刀は石川家の重宝であるため、珂右衛門は役目の落度として閉門を申付けられ、三年以内に取戻せばお咎めなし、もしそれができなかった場合には切腹という厳命が下った。",
@@ -101,14 +126,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無罪",
+        "不問",
+        "免責",
+        "免罪"
+      ],
+      "antonyms": [
+        "処罰",
+        "罰則",
+        "咎め"
+      ],
+      "related": [
+        "裁判",
+        "裁定",
+        "処分",
+        "免訴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.714302+00:00Z"
+      "updated_at": "2026-06-02T01:49:06.395763+00:00Z"
     }
   }
 ]

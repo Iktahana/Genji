@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "観光客が沖縄タイムのゆったりしたペースに最初は戸惑うこともある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「約束の時間よりも少し遅れても気にしない」という沖縄タイムの感覚を学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "忙しい都会の生活を忘れて、沖縄タイムに身を任せて過ごすのが最高の贅沢だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最近は「沖縄タイムス」に琉球史を連載しているとかいう話であるが、早く一冊にまとめてもらいたいものである。",
@@ -66,14 +91,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "沖縄時間",
+        "ウチナータイム"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文化",
+        "時間",
+        "ルーズ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.443063+00:00Z"
+      "updated_at": "2026-06-02T01:21:39.586324+00:00Z"
     }
   }
 ]

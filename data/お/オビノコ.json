@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大工は帯鋸を使って複雑な曲線を正確に切り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "帯鋸は細かい加工作業に最も適した工具だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この工房に新しい帯鋸が導入されたばかりだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "円鋸や帯鋸が木材を自由にたち切るのを、一時間ばかり眺めた。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "帯鋸盤",
+        "バンドソー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鋸",
+        "丸鋸",
+        "糸鋸",
+        "木工",
+        "切断工具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.357436+00:00Z",
+      "updated_at": "2026-06-02T02:09:53.314337+00:00Z",
       "frequencies": {
         "aozora": 2
       }

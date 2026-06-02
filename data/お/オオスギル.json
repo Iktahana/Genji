@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の会議に出された意見は多すぎて、どれを優先すべきか判断に迷う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この書類の誤字は多すぎて、どこから直せばいいのか分からない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "やるべきことが多すぎて、一日があっという間に終わってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お互ひ批評が多すぎるよ。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "多い",
+        "豊富"
+      ],
+      "antonyms": [
+        "少ない",
+        "不足"
+      ],
+      "related": [
+        "過多",
+        "余剰",
+        "超過"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.854803+00:00Z"
+      "updated_at": "2026-06-02T01:17:09.245801+00:00Z"
     }
   }
 ]

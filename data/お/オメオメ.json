@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "散々迷惑をかけておきながら、彼はおめおめと何事もなかった顔で席に戻ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「負けたのにおめおめと帰れるか」と主将は荷物をまとめながら唇をかんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社内でミスを犯した彼女は、おめおめと昇進を受け入れる気にはなれず、自ら降格を申し出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "結局私は白い花瓶と、こわれない別の青い壷との二点をさげておめおめと帰って来た。",
@@ -291,21 +316,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仲間に裏切られながらも、彼はおめおめとその組織に残り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「こんな屈辱を受けておめおめと引き下がるとは、あなたも変わりましたね」と旧友は冷たく言い放った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試合に完敗したチームはおめおめと表彰式を見届け、重い足取りでバスに乗り込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "うかうかと",
+        "平然と"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "恥",
+        "不名誉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.799411+00:00Z",
+      "updated_at": "2026-06-02T02:20:20.210486+00:00Z",
       "frequencies": {
         "aozora": 229
       }

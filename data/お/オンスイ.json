@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "温水プールで泳ぐと体が冷えにくく、冬場でも長時間練習できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "蛇口をひねっても温水が出るまで時間がかかるため、給湯器の交換を検討している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "温水洗浄便座の温度を最大にしたら熱すぎて、すぐに設定を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "則ち之を裂きて擅ににして、唯温水を憶ふ。",
@@ -198,14 +223,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぬるま湯"
+      ],
+      "antonyms": [
+        "冷水",
+        "熱湯"
+      ],
+      "related": [
+        "水",
+        "湯",
+        "温度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:28:54.224952+00:00Z",
       "freq_rank": 22673,
       "frequencies": {
         "aozora": 22

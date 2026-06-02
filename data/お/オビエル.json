@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子猫は掃除機の音に怯えて押し入れの奥に隠れ、電源が切れてもなかなか出てこなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初めての登山で足場の悪い岩場に差し掛かった彼女は、高さに怯えて一歩も動けなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大きな犬に怯えて泣き出した弟を、兄は「大丈夫、噛まないよ」と言いながらなだめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例へば、余り善良なものは却つて悪人であるかの如く怯えるものだといふシヱクスピヤの言事は高橋に当｜箝るだらう。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "恐れる",
+        "怖がる",
+        "驚く"
+      ],
+      "antonyms": [
+        "勇敢である"
+      ],
+      "related": [
+        "怖い",
+        "不安",
+        "恐い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.334763+00:00Z",
+      "updated_at": "2026-06-02T02:07:43.119260+00:00Z",
       "freq_rank": 35877,
       "frequencies": {
         "aozora": 653

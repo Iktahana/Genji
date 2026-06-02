@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は投資の勧誘のために、嘘八百を並べて高齢者を騙した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "妻に問い詰められた夫は、その場しのぎの嘘八百で誤魔化そうとしたが逆効果だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "週刊誌の記事なんて、大半は記者の想像による嘘八百だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『桜陰比事』で偽山伏を暴露し埋仏詐偽の品玉を明かし、『一代男』中の「命捨ての光物」では火の玉の正体を現わし、『武道伝来記』の一と三では鹿嶋の神託の嘘八百を笑っている。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "出鱈目",
+        "作り話"
+      ],
+      "antonyms": [
+        "真実",
+        "事実"
+      ],
+      "related": [
+        "嘘",
+        "大袈裟"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.105675+00:00Z",
+      "updated_at": "2026-06-01T22:12:49.597603+00:00Z",
       "frequencies": {
         "aozora": 60
       }

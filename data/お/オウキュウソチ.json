@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大雪で閉鎖された道路は、除雪車が来るまでの応急措置として迂回ルートが設けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "一時的な資金繰りの悪化に対して、いくつかの応急措置を講じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この問題は根本的な解決が必要だが、まずは応急措置で対応するしかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "◯去る四日「疎開応急措置要綱」が発表された。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "一時的措置",
+        "緊急避難"
+      ],
+      "antonyms": [
+        "恒久措置"
+      ],
+      "related": [
+        "措置",
+        "対応",
+        "緊急"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.191619+00:00Z"
+      "updated_at": "2026-06-02T01:10:01.707529+00:00Z"
     }
   }
 ]

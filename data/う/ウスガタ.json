@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薄型のノートパソコンは、持ち運びに便利だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "最新の薄型スマートフォンを購入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄型の金庫は、壁に埋め込めばスペースを節約できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "柾生も、薄いクリーム色のボタンダウンに、淡いブルーのコットンパンツというすがたで、慶一ひとり、赤や黄色のめだつ、マドラスチェックのボタンダウンでは、まるで、ふたりの刑事につかまった、チンピラのようだ。",
@@ -118,14 +143,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "薄手"
+      ],
+      "antonyms": [
+        "厚型"
+      ],
+      "related": [
+        "薄型テレビ",
+        "コンパクト",
+        "軽量",
+        "デザイン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.978069+00:00Z",
+      "updated_at": "2026-06-01T22:11:05.589560+00:00Z",
       "freq_rank": 16274
     }
   }

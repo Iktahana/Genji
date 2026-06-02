@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公所で審議された結果、新しい法が定められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "当時の公所では、有力者が政治を動かしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "公所の決定に従い、この土地を立ち退くことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私達は満鉄公所の人人に出迎へて頂き、公所の美しい馬車に乗つたが、駅の附近には雑多な支那の荷車と共に、露西亜式の汚くなつた乗客用の幌馬車が集つて居た。",
@@ -272,21 +297,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地域は公所とされ、一般の立ち入りが制限されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつてこの辺りは公所で、豊かな収穫があったと聞く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "地図に記された公所は、天皇の管理下にある土地だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "役所",
+        "官庁"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "朝廷",
+        "公的",
+        "拠点"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.135968+00:00Z",
+      "updated_at": "2026-06-02T01:18:45.378759+00:00Z",
       "frequencies": {
         "aozora": 28
       }

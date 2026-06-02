@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地球は完全な球ではなく、極がやや扁平な回転楕円体であることが精密な測量で確かめられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "衛星軌道の計算には、地球を回転楕円体として近似したモデルを用いるのが標準だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "理論物理の課題で回転楕円体の慣性モーメントを積分で求める計算に長時間手こずった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "電子ストロボ鏡で、天空をのぞいていると、ちょうど天空から、そろそろと降下してくる回転楕円体の「魔の空間」を発見した。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スフェロイド"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "楕円体",
+        "球体",
+        "回転",
+        "立体",
+        "幾何学",
+        "数学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:20:25.789656+00:00Z"
     }
   }
 ]

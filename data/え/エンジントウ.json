@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "外科医は慎重な手つきで円刃刀を握り、皮膚にメスを入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "解剖の実習で、初めて円刃刀を使って組織を切り分けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その手術器具セットには、形状の異なる数種類の円刃刀が含まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは小さい薙刀の形をした薄ッペラなもので、普通の外科には必要の無い、屍体解剖用の円刃刀と称する、一番大きいメスであった。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "手術",
+        "メス",
+        "医療器具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.515327+00:00Z"
+      "updated_at": "2026-06-02T01:02:45.186448+00:00Z"
     }
   }
 ]

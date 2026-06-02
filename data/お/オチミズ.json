@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "伝説によれば、この森の奥には病も治すという変若水があるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "もし変若水があるのなら、私はどんな犠牲を払ってもそれを手に入れたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "若返りを求めた王は、変若水の秘密を探す旅に出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おなじ変若水信仰は、沖縄諸島にも伝承せられている。",
@@ -117,14 +142,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "若返り水",
+        "不老水"
+      ],
+      "antonyms": [
+        "老化"
+      ],
+      "related": [
+        "神話",
+        "伝説",
+        "若さ",
+        "不老長寿",
+        "魔法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.477401+00:00Z"
+      "updated_at": "2026-06-02T01:41:08.843229+00:00Z"
     }
   }
 ]

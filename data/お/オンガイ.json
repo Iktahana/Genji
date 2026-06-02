@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その村では、昔から怨害が起きると言い伝えられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怨害だと信じられていた奇妙な現象も、実は科学で説明できることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い屋敷が怨害をもたらすと地元の人々に恐れられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのへやには、一ぴきのらいおんがいて、ぽけっとこぞうのほうへ、のっしのっしとちかづいてきました。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "祟り",
+        "怨念"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "霊",
+        "呪い",
+        "悪霊",
+        "祟り神",
+        "妖怪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:27:14.957287+00:00Z"
     }
   }
 ]

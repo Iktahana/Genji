@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「受付時間は午前九時から午後五時までです」と張り紙に書いてあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "窓口の受付時間が短縮されたため、手続きのために半休を取らざるを得なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "予約の電話をかけたが受付時間外だったため、翌朝かけ直すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "営業時間",
+        "受け付け時間",
+        "対応時間"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "受付",
+        "窓口",
+        "開館時間",
+        "業務時間",
+        "締め切り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.812598+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.808573+00:00Z"
     }
   }
 ]

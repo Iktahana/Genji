@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大通りの両脇に新しいビルが建ち並んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祭りの日は大通りが人で埋め尽くされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その駅の大通りは昼も夜も人でにぎわっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此方のレンズを覘いてみると西洋の美しい街の大通りが浮き上がって見える。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "幹線道路",
+        "メインストリート"
+      ],
+      "antonyms": [
+        "裏通り",
+        "小道"
+      ],
+      "related": [
+        "街",
+        "道路",
+        "通行"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.960442+00:00Z",
+      "updated_at": "2026-06-02T01:17:06.295843+00:00Z",
       "freq_rank": 14924,
       "frequencies": {
         "aozora": 1265

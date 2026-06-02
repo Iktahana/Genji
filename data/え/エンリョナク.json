@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「どうぞ遠慮なく召し上がってください」と主人が皿を勧めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は遠慮なく自分の意見を述べ、会議室の空気を一変させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「遠慮なく手を伸ばして」と言われ、最後のケーキをやっと取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "同時に食事していた客の誰よりも真先に自分のところへこの菓物鉢が廻って来たので、自分は遠慮なくこのただ一つの柿を取上げた。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ざっくばらんに"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "積極的",
+        "素直"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.830019+00:00Z",
+      "updated_at": "2026-06-02T01:08:38.918443+00:00Z",
       "freq_rank": 17775
     }
   }

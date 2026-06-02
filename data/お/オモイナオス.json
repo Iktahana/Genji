@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "怒って部屋を出ようとしたが、廊下で立ち止まって思い直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "転職しようと決めていたが、上司の話を聞いて思い直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「もうやめた」と言いかけた瞬間、仲間の顔が浮かんで思い直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "田舎侍に何がわかるものかと時々こう思い直すこともありながら、彼はやはり自分の気が済まなかった。",
@@ -214,14 +239,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "考え直す",
+        "思い返す",
+        "再考する",
+        "翻意する"
+      ],
+      "antonyms": [
+        "思い込む",
+        "決め込む"
+      ],
+      "related": [
+        "反省",
+        "翻意",
+        "再考",
+        "改心",
+        "思い返す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.924301+00:00Z",
+      "updated_at": "2026-06-02T02:23:12.982994+00:00Z",
       "frequencies": {
         "aozora": 426
       }

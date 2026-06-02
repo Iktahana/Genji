@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「傘を玄関に置きっぱにしないで、ちゃんと片付けて」と何度も注意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昨日読んだ本を机の上に置きっぱにして、そのまま寝てしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "カバンを床に置きっぱにする癖を直さないと、部屋がいつまでたっても片付かない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は部屋の机のうえに原稿用紙をひろげて、「初恋の記」と題目をおおきく書き、それから、或る新進作家の名前を――いまは私の名前を、書き、それから、二三行書いたり消したりして苦心の跡を見せ、それを女中たちに見えるように、わざと机のうえに置きっぱなしにして、顔をしかめながら、そとへ散歩に出るのだった。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "放置"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "置く",
+        "放置",
+        "片付け",
+        "不注意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.400707+00:00Z"
+      "updated_at": "2026-06-02T01:21:42.648090+00:00Z"
     }
   }
 ]

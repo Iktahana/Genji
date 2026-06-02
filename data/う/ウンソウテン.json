@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近くの運送店で手続きを済ませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その運送店は深夜まで営業している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運送店に荷物を預けて帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どちらも茣蓙で包んで上箱に入れて、貴重品扱いにして門司の山九運送店宛に出して下さいな。",
@@ -269,14 +294,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "運送業者",
+        "配送店"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運送",
+        "配送",
+        "貨物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.437978+00:00Z"
+      "updated_at": "2026-06-02T00:29:27.738257+00:00Z"
     }
   }
 ]

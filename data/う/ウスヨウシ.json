@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "エアメールに使う薄葉紙は、軽くて折りやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "薄葉紙に万年筆で丁寧に文字を書いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この薄葉紙は、透けるほど薄いので、重ねて使う必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　ホームズは懐から大きな薄葉紙を取り出して、丁寧に膝上で広げた。",
@@ -69,14 +94,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "薄様"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "紙",
+        "包装紙",
+        "文具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.047041+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.874378+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "沖縄学は沖縄の文化と歴史を研究する分野だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖縄学の講座が大学で開設された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沖縄学の権威が論文を発表した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どんな沖縄学者も、この図書館を訪れることなくして、正しい研究を遂げることは出来ませんでした。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "琉球学"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "伊波普猷",
+        "民俗学",
+        "歴史学",
+        "琉球"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.426328+00:00Z",
+      "updated_at": "2026-06-02T01:21:39.579127+00:00Z",
       "frequencies": {
         "aozora": 2
       }

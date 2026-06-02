@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "表通りから一本路地に入ると、そこには昔ながらの静かな住宅街が広がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "お祭りの行列が表通りを練り歩き、街全体が活気に満ちあふれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表通りの店はどこも混んでいたので、少し離れた静かな店を探すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "表通りのデパアトよりも、こんな裏まちに、甲府の文化を感ずるのである。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大通り",
+        "幹線道路"
+      ],
+      "antonyms": [
+        "裏通り",
+        "路地"
+      ],
+      "related": [
+        "街",
+        "商店街"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.067037+00:00Z",
+      "updated_at": "2026-06-02T02:22:20.081982+00:00Z",
       "freq_rank": 42673,
       "frequencies": {
         "aozora": 451

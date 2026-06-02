@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ぜひ先生に教えを請いたい」と、勇気を出して研究室を訪ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "専門家の知見が必要だったので、専門家に教えを請うことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は常に謙虚な姿勢で、先輩たちに教えを請うていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この事について幸田露伴博士の教えを請うたが、同博士がいろいろシナの書物を渉猟された結果によると釁るという文字は犠牲の血をもって祭典を挙行するという意味に使われた場合が多いようであるが、しかしとにかく、一書には鐘を鋳た後に羊の血をもってその裂罅に塗るという意味に使われているそうである。",
@@ -78,14 +103,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "師事する",
+        "指導を仰ぐ",
+        "諮る"
+      ],
+      "antonyms": [
+        "独断する"
+      ],
+      "related": [
+        "謙虚",
+        "弟子入り",
+        "質問"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.916884+00:00Z"
+      "updated_at": "2026-06-02T01:27:25.922181+00:00Z"
     }
   }
 ]

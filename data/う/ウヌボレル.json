@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "少し成功したからといってすぐにうぬぼれると、後で痛い目を見るぞ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "周囲の褒め言葉を真に受けてうぬぼれるのは、あまり良いことではない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "君が自殺をしたなら、僕は、ああ僕へのいやがらせだな、とひそかに自惚れる。",
@@ -278,14 +295,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "思い上がる",
+        "調子に乗る"
+      ],
+      "antonyms": [
+        "謙虚になる",
+        "謙遜する"
+      ],
+      "related": [
+        "自惚れ",
+        "自惚れ鏡",
+        "性格"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.620403+00:00Z",
+      "updated_at": "2026-06-01T23:33:31.455420+00:00Z",
       "frequencies": {
         "aozora": 454
       }

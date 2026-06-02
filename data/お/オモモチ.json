@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "合格発表の掲示板の前で、彼は緊張した面持ちで自分の番号を探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父は穏やかな面持ちで、孫たちが遊ぶ姿を眺めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "重大な決断を迫られ、社長は険しい面持ちで腕組みをしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鉄斎は主人の士を振り返っていぶかしき面持ち、然し直ぐに態度を取り戻し柴折戸の前に立ちどまる。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "表情",
+        "顔つき"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "印象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.127799+00:00Z",
+      "updated_at": "2026-06-02T02:22:39.433122+00:00Z",
       "freq_rank": 26592,
       "frequencies": {
         "aozora": 182

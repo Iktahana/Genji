@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "客を奥の間に通し、主人は丁寧に茶を点てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅館の奥の間からは、夜になると静かに三味線の音が聞こえてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大切な相談があるからと、彼は仲間を店の奥の間に呼び集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "取散らした包紙の黴臭いのは奥の間の縁へほうり出して一ぺん掃除をする。",
@@ -245,14 +270,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "奥室",
+        "裏座敷",
+        "奥座敷"
+      ],
+      "antonyms": [
+        "表の間"
+      ],
+      "related": [
+        "日本家屋",
+        "隠居",
+        "寝室",
+        "客間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.597250+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.510292+00:00Z"
     }
   }
 ]

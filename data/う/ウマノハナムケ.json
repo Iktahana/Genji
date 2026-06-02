@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "転勤する同僚に餞を渡しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この箱は、故郷に帰る友人への餞です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親友の海外赴任に、心ばかりの餞を用意しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "＊　　　　＊　　　　＊　札幌に来る時、母が餞別にくれた小形の銀時計を出してみると四時半近くになっていた。",
@@ -269,14 +294,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "餞別",
+        "送別金"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "贈り物",
+        "別れ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.739532+00:00Z",
+      "updated_at": "2026-06-02T00:14:27.694222+00:00Z",
       "freq_rank": 42615,
       "frequencies": {
         "aozora": 46

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の姿は人ごみの中に失せ去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その気配は朝日とともに失せ去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日見た看板はもう失せ去っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此の女像にして、もし、弓矢を取り、刀剣を撫すとせむか、いや、腰を踏張り、片膝押はだけて身搆へて居るやうにて姿甚だとゝのはず、此の方が真ならば、床しさは半ば失せ去る。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "消える",
+        "失せる"
+      ],
+      "antonyms": [
+        "現れる",
+        "出現する"
+      ],
+      "related": [
+        "消失",
+        "失踪"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.079703+00:00Z"
+      "updated_at": "2026-06-01T22:13:26.895250+00:00Z"
     }
   }
 ]

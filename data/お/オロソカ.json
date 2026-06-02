@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "忙しさにかまけて、健康管理がおろそかになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "仕事に集中するあまり、家族との時間をおろそかにしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "基礎練習をおろそかにした結果、試合で痛い目を見た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "学資に不自由なく身体健全なる学生諸君、諸君の資格は実に尊い資格である、諸君は決して其の尊い資格を疎かにしてはならぬ。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "杜撰",
+        "ずさん",
+        "不注意"
+      ],
+      "antonyms": [
+        "丁寧",
+        "念入り"
+      ],
+      "related": [
+        "態度",
+        "注意",
+        "仕事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:28:45.537966+00:00Z",
       "freq_rank": 34479,
       "frequencies": {
         "aozora": 110

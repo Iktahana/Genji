@@ -298,14 +298,25 @@
       "homophones": [
         "役する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "役立つ",
+        "利する",
+        "有益である"
+      ],
+      "antonyms": [
+        "害する",
+        "損なう"
+      ],
+      "related": [
+        "利益",
+        "効果",
+        "貢献"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.164610+00:00Z",
+      "updated_at": "2026-06-02T00:38:27.970517+00:00Z",
       "frequencies": {
         "aozora": 224
       }
@@ -349,6 +360,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "政府は国民を公共事業に役する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],
@@ -618,6 +637,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "この道具を役することはできない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -628,9 +655,18 @@
       "homophones": [
         "益する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "従事させる",
+        "活用する"
+      ],
+      "antonyms": [
+        "遊ばせる"
+      ],
+      "related": [
+        "役割",
+        "使命",
+        "活用"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証拠もなく憶断で判断するのは危険です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の憶断は事実と異なることが後でわかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "相手の話を最後まで聞かずに憶断するべきではありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ことに男子が、その男子的偏見（よし自らはその偏見たることを意識せざるにもせよ）をもって、憶断に婦人の天職を云々するがごときは、実に許すべからざるの大罪なりと信ず。",
@@ -63,14 +88,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "憶測",
+        "臆断",
+        "早合点",
+        "推測",
+        "憶説"
+      ],
+      "antonyms": [
+        "熟考",
+        "確認",
+        "実証"
+      ],
+      "related": [
+        "臆度",
+        "推量",
+        "臆測",
+        "早とちり",
+        "独断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.570240+00:00Z",
+      "updated_at": "2026-06-02T01:24:51.172254+00:00Z",
       "frequencies": {
         "aozora": 5
       }

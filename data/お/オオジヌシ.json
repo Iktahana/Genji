@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "町外れの広大な土地は、代々この地域の大地主が管理しているものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔はこの村のほとんどの土地を、あの大地主が所有していたそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大地主の邸宅は、今では文化財として公開されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "富豪であり、大地主であり、県政界の大立物である本田氏の、頭蓋骨にひびが入ったと云う、大きな事実に対して、証拠は夢であった。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "富豪",
+        "大土地所有者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "地主",
+        "土地",
+        "資産家",
+        "富裕層"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.849828+00:00Z"
+      "updated_at": "2026-06-02T01:16:10.959852+00:00Z"
     }
   }
 ]

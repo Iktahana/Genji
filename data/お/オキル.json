@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎朝は6時に起きることにしているので、夜は早く寝るようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今朝は目覚まし時計が鳴ったが、眠くてなかなか起きられなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今日はいつもより少し早めに起きて、朝食をゆっくり楽しんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昼間は落付かないし、出掛けてもさして面白くないので、私には朝早く起きることは大変時間の損失なのだ。",
@@ -289,7 +314,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜中に大きな雷の音で起きてしまって、それからなかなか眠れなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "赤ちゃんの泣き声で毎晩何度も起きる生活だが、とても幸せを感じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "恐ろしい夢を見て、冷や汗をかいて驚いて起きた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -307,7 +357,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、この地域では小さな地震が頻繁に起きているので心配だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "忙しい時に限って、予想外のトラブルが起きるのが世の常だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昨日の事故は、ほんの少しの不注意から起きたことだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -316,14 +391,23 @@
       "homophones": [
         "熾きる"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "目覚める",
+        "起こる"
+      ],
+      "antonyms": [
+        "寝る",
+        "眠る"
+      ],
+      "related": [
+        "覚醒",
+        "発生"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.498891+00:00Z",
+      "updated_at": "2026-06-02T01:24:22.561155+00:00Z",
       "freq_rank": 3869,
       "frequencies": {
         "aozora": 11607
@@ -361,7 +445,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薪にしっかりと火が熾きて、周囲が暖かくなってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「それこそ未決騒ぎがおきるよ。",
@@ -579,9 +672,17 @@
       "homophones": [
         "起きる"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "燃える"
+      ],
+      "antonyms": [
+        "消える"
+      ],
+      "related": [
+        "火",
+        "炎",
+        "燃焼"
+      ]
     },
     "meta": {
       "version": "1.0.0",

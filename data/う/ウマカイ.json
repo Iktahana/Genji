@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "馬飼は毎日早朝から馬の世話をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この馬飼は三十年以上馬を育ててきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬飼の腕前により、この牧場の馬は質が高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "馬飼ふべき料にとて賤の子が苅りて帰る草の中に此花の二ツ三ツ見えたるなど、誰か歌ごゝろを起さゞるべき。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "馬方",
+        "馬取"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "馬",
+        "牧場",
+        "飼育"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.705676+00:00Z",
+      "updated_at": "2026-06-01T23:57:27.714613+00:00Z",
       "frequencies": {
         "aozora": 63
       }

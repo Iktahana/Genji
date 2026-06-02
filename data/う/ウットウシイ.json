@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の顔が曇っているのを見て、今日はどうしてそんなに鬱陶しい気分なのかと尋ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "悪いニュースを聞いて、一日中鬱陶しい気分が晴れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "試験に落ちてから、ずっと鬱陶しい気持ちで過ごしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鬱陶しいほど両側から梢の蔽い重なった暗闇阪を降り尽して、左に曲れば曙湯である。",
@@ -290,7 +315,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の湿気は、髪の毛がまとわりついて鬱陶しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ずっと話しかけてくる同僚が鬱陶しいと感じることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "部屋の中に虫が飛んでいて、とても鬱陶しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -308,21 +358,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "窓の外はどんよりとした曇り空で、鬱陶しい天気が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "梅雨の時期の鬱陶しい天候のせいで、洗濯物が全然乾かない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "霧が立ち込める鬱陶しい天気の中、山道を慎重に車で進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "煩い",
+        "不快",
+        "憂鬱"
+      ],
+      "antonyms": [
+        "爽快",
+        "晴朗"
+      ],
+      "related": [
+        "気分",
+        "沈鬱",
+        "鬱々"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.454371+00:00Z",
+      "updated_at": "2026-06-01T22:56:28.288343+00:00Z",
       "freq_rank": 33329,
       "frequencies": {
         "aozora": 324

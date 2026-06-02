@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は暴走する車両の下敷きになり、押し殺されてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このままでは、人混みの中で押し殺されるかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "悲惨な事件で、犠牲者は壁に押し殺されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　おふくろが、喘ぐように云ったのと、吉田が、「しっ」と押し殺すような声で云ったのと同時であった。",
@@ -161,21 +186,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "笑い声を必死に押し殺して、会議を乗り切った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "怒りを押し殺して、笑顔で相手に応対した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "悲しみを押し殺して、彼女は毅然と振る舞っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "抑える",
+        "こらえる",
+        "堪える",
+        "抑制する"
+      ],
+      "antonyms": [
+        "爆発させる",
+        "解放する"
+      ],
+      "related": [
+        "抑圧",
+        "押さえる",
+        "感情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.952564+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.994219+00:00Z",
       "frequencies": {
         "aozora": 121
       }

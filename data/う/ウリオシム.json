@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父は先祖代々の土地を売り惜しんだ末、結局は相続税のために手放すことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "人気作家は新作の原稿を売り惜しんで出版社をじらし、競争入札に持ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "球団は主力選手をトレードに出さず売り惜しんだが、成績低迷でとうとう放出を余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "売り急ぐ"
+      ],
+      "related": [
+        "抱え込む",
+        "需給",
+        "商売",
+        "品不足"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.084542+00:00Z"
+      "updated_at": "2026-06-02T00:26:48.903579+00:00Z"
     }
   }
 ]

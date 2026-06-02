@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "AさんとBさんは同じような顔立ちをしています",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "去年と同じような季節の訪れです",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "同じような結果になってしまいました",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際ヘルンは――多くの天才的な詩人と同じように――本質的に子供らしい純情さと無邪気さを持った性格者だった。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "似た",
+        "同様",
+        "類似"
+      ],
+      "antonyms": [
+        "異なる",
+        "違う"
+      ],
+      "related": [
+        "類似",
+        "似",
+        "類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.039319+00:00Z"
+      "updated_at": "2026-06-02T01:57:13.623518+00:00Z"
     }
   }
 ]

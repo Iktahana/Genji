@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女とは同い年で、同じ年に就職したこともあって、すぐに打ち解けることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「え、1995年生まれ？じゃあ同い年だね！」と彼は驚いた顔で言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "担任の先生が父と同い年だと知って、父は懐かしそうに学生時代の話を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「中津は、俺と同い年だから、もう五十三になるんだぞ。",
@@ -278,14 +303,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "同年代",
+        "同年"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "年齢",
+        "世代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.999692+00:00Z",
+      "updated_at": "2026-06-02T01:56:18.055068+00:00Z",
       "freq_rank": 20397,
       "frequencies": {
         "aozora": 144

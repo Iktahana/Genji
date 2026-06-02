@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "記者会見にはオブザーバーとして複数の外国人ジャーナリストが出席していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "競技大会のオブザーバーが各競技地点に配置されて、ルール違反がないか監視している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国連派遣のオブザーバーが現地での人権状況を調査報告するため、同行することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "栗林氏のところへ宮本電報をよこしたよし、公判傍聴はオブザーバーとしろ、と。",
@@ -79,14 +104,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "観察者",
+        "見学者",
+        "傍観者"
+      ],
+      "antonyms": [
+        "参加者",
+        "当事者"
+      ],
+      "related": [
+        "観察",
+        "取材",
+        "傍聴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.495770+00:00Z",
+      "updated_at": "2026-06-02T02:12:43.758583+00:00Z",
       "freq_rank": 24499,
       "frequencies": {
         "aozora": 5

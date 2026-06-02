@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その美しい鳥は、驚くと頭の上の羽冠を扇のように広げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "図鑑で調べると、この立派な羽冠を持つのは求愛期のオスだけだと分かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "冠羽（羽冠）が特徴的なその鳥は、静かに木の枝に止まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "羽子はソープベリイ〔米国産無患子の一種〕の種子（ムクロジ）で出来ていて、その一端では五本の羽毛が羽冠を形成する。",
@@ -237,14 +262,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "冠羽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥",
+        "頭部"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.719747+00:00Z"
+      "updated_at": "2026-06-01T22:03:01.881168+00:00Z"
     }
   }
 ]

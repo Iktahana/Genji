@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬用コートの内張りをフリース素材に替えてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このバッグは内張りにシルクが使われており、手触りが滑らかだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古くなったコートの内張りが破れてきたので、仕立て屋に修繕を頼んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "軍用ビスケットの需要が大きく、製造工場が争うて原料を吸収する結果、原料はついに一割五分高となり、ビスケットを入れて満州に送る箱材料の松板は三、四割高、箱の内張りのブリキ板と燃料の石炭は一躍して二倍という暴騰であった。",
@@ -69,14 +94,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "裏地",
+        "ライニング",
+        "内側の張り材"
+      ],
+      "antonyms": [
+        "外張り",
+        "外貼り"
+      ],
+      "related": [
+        "裏地",
+        "断熱材",
+        "内装",
+        "ライニング",
+        "布地",
+        "仕上げ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.321390+00:00Z",
+      "updated_at": "2026-06-01T22:33:43.032856+00:00Z",
       "frequencies": {
         "aozora": 4
       }

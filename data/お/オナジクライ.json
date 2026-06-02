@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "AさんとBさんの身長は同じくらいです",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今年の売上は去年と同じくらいです",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "同じくらいの価格の商品をお探しですか",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "緑色の楕円形をした食えない部分があってその頭にこれと同じくらいの大きさで美しい紅色をした甘い団塊が附着している。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ほぼ同じ",
+        "同程度",
+        "似たような"
+      ],
+      "antonyms": [
+        "全然違う",
+        "大差がある"
+      ],
+      "related": [
+        "比較",
+        "程度",
+        "相応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.035598+00:00Z"
+      "updated_at": "2026-06-02T01:57:13.621296+00:00Z"
     }
   }
 ]

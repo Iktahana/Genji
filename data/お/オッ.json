@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「おっ、こんな所に隠し金庫があるぞ。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「おっ、やっと電車が来た。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「おっ、美味しそうなケーキだね。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水禽の大鉄傘を過ぎて、おっとせいの水槽のまえを通り、小山のように巨大なひぐまの、檻のまえにさしかかったころ、佐竹は語りはじめた。",
@@ -279,14 +304,25 @@
       "homophones": [
         "押っ"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "あっ",
+        "おや",
+        "えっ",
+        "ほう",
+        "へえ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感嘆",
+        "驚き",
+        "感動詞",
+        "掛け声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.516451+00:00Z",
+      "updated_at": "2026-06-02T01:43:51.786695+00:00Z",
       "freq_rank": 2478,
       "frequencies": {
         "aozora": 2511
@@ -652,7 +688,12 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "接頭辞",
+        "強調",
+        "押し",
+        "勢い"
+      ]
     },
     "meta": {
       "version": "1.0.0",

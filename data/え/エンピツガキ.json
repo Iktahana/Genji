@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "応募用紙は鉛筆書きではなくボールペンで記入してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仮の注記は鉛筆書きにして後で消せるようにしてある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この契約書は鉛筆書きではなく、必ずペンで署名してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　紙片に、鉛筆書きで、「待っていようと思いましたが、サイコロの命令で先に帰ります。",
@@ -261,14 +286,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "鉛筆書き込み"
+      ],
+      "antonyms": [
+        "ボールペン書き",
+        "万年筆書き"
+      ],
+      "related": [
+        "鉛筆",
+        "書く",
+        "筆跡"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.741373+00:00Z"
+      "updated_at": "2026-06-02T01:05:31.982264+00:00Z"
     }
   }
 ]

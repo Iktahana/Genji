@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部長が朝からご機嫌斜めで、すっかりお冠の様子だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遅刻をしてしまったので、先生はお冠で、教室に入るのが怖かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "理由も分からずお冠になられても、こちらは困ってしまうよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "旅人お冠り真ッ直ぐです。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "激怒",
+        "不機嫌",
+        "立腹",
+        "憤慨"
+      ],
+      "antonyms": [
+        "上機嫌",
+        "好機嫌"
+      ],
+      "related": [
+        "怒り",
+        "感情",
+        "勘気",
+        "機嫌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.330039+00:00Z",
+      "updated_at": "2026-06-02T01:20:32.668670+00:00Z",
       "frequencies": {
         "aozora": 7
       }

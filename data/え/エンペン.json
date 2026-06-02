@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この森林の縁辺には、人間が踏み入れた形跡がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カラー写真の縁辺に金色の枠をつけてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "湖の縁辺にはヨシが茂り、小鳥たちの隠れ場所となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もっとも「イソ」はまた冠の縁や楽器の縁辺でもある。",
@@ -245,14 +270,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "周辺",
+        "端"
+      ],
+      "antonyms": [
+        "中心"
+      ],
+      "related": [
+        "境界",
+        "縁",
+        "輪郭"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.782609+00:00Z",
+      "updated_at": "2026-06-02T01:05:47.462797+00:00Z",
       "frequencies": {
         "aozora": 90
       }

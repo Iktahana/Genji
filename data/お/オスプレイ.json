@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空軍基地の上空をオスプレイが轟音を立てて飛行していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "オスプレイはその特殊な構造から、ヘリコプターのように離着陸できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "オスプレイの導入に関して、住民からさまざまな意見が出ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "午後五時に取りに来る予定だ」　金塊、いやグライドが言う機械類を、オスプレイ号の脇に放り投げ、乱暴に船倉へ放り込んだ。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "航空機",
+        "飛行機",
+        "ヘリコプター"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.184608+00:00Z",
+      "updated_at": "2026-06-02T01:34:59.495991+00:00Z",
       "frequencies": {
         "aozora": 2
       }

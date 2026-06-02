@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広告チラシが次々と送りつけられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "請求書を無理やり送りつけられたのだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "迷惑なメールを送りつけるのはやめてほしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もう一つは御馳走政策で、これは地球上の珍味珍菓を潜水艇に満載し、怪人城塞へ送りつけることだった。",
@@ -190,14 +215,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "押し付ける",
+        "送付する",
+        "投げつける"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "迷惑メール",
+        "ネガティブ・オプション",
+        "宅配便",
+        "強引"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.667999+00:00Z",
+      "updated_at": "2026-06-02T01:24:26.035368+00:00Z",
       "frequencies": {
         "aozora": 89
       }

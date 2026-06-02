@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日の嵐が嘘のように、今日は抜けるような青空が広がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "さっきまで激しく泣いていた子供が、お菓子をもらった瞬間に嘘のような笑顔を見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬が効いたのか、耐え難かった頭痛が嘘のように消え去った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "嘘のような話だがこういう話が残っている。",
@@ -280,14 +305,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "信じがたい",
+        "夢のよう"
+      ],
+      "antonyms": [
+        "ありきたり",
+        "平凡"
+      ],
+      "related": [
+        "嘘",
+        "驚き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.105777+00:00Z"
+      "updated_at": "2026-06-01T22:12:49.596536+00:00Z"
     }
   }
 ]

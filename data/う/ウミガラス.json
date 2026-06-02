@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "北国の荒々しい断崖には、多くの海烏が巣を構えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "冷たい海風の中で、海烏が仲間を呼ぶ声が響き渡る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遠くから見ると、海烏の群れがまるで黒い雲のように見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "街の上を遠く、かくれがを求めて鳴いて行く海烏の声が物悲しく聞えた。",
@@ -65,12 +90,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鳥",
+        "水鳥",
+        "海鳥"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.787605+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.513417+00:00Z",
       "frequencies": {
         "aozora": 1
       }

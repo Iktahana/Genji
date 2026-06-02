@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テレワークが増えて、私は運動不足が悩みの種だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動不足は肥満や生活習慣病の原因となりやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者から運動不足を解消するよう勧められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日の目を見ないような奥の間にばかり閉じこもっているために、運動不足、それに伴う食欲不振がいよいよかれを疲らせて、さながら生きている幽霊のようになり果てた。",
@@ -278,14 +303,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "運動不足症"
+      ],
+      "antonyms": [
+        "運動過多"
+      ],
+      "related": [
+        "健康",
+        "生活習慣病",
+        "肥満"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.515983+00:00Z"
+      "updated_at": "2026-06-02T00:29:46.544433+00:00Z"
     }
   }
 ]

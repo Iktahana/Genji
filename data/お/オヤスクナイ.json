@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの二人の最近の親密な雰囲気を見ると、どうやらお安くない仲のようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "毎日一緒にランチに行っているなんて、あの二人は実はお安くないんじゃないか？",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "周囲の目も気にせず楽しそうに見つめ合う姿に、誰もがお安くない関係だと確信した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんなその、紅立羽だの、小紫だの、高原の佳人、お安くないのにはおよばない、西洋化粧の化紫、ござんなれ、白粉の花ありがたい……早く下界へ遁げたいから、真先に自動車へ。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仲がいい",
+        "親密",
+        "懇意",
+        "親しい"
+      ],
+      "antonyms": [
+        "仲が悪い",
+        "疎遠"
+      ],
+      "related": [
+        "男女関係",
+        "仲良し",
+        "関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.214295+00:00Z"
+      "updated_at": "2026-06-02T02:26:18.745661+00:00Z"
     }
   }
 ]

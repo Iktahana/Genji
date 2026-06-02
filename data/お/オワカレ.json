@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年勤めた会社とのお別れは心寂しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お別れの時が来てしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女とのお別れを覚悟していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんなに良いお天気の日に　　お別れしてゆくのかと思ふとほんとに辛い　　こんなに良いお天気の日にさよなら、さよなら！",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "別れ",
+        "離別",
+        "訣別"
+      ],
+      "antonyms": [
+        "出会い",
+        "再会"
+      ],
+      "related": [
+        "さよなら",
+        "挨拶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.661302+00:00Z"
+      "updated_at": "2026-06-02T02:26:39.918463+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "倉庫のスペースが限られているため、今月は内渡しで五十箱だけ先に送ってください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工期が迫っていたので、完成した部品から順に内渡しで現場へ届けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "内渡しの際は必ず受領書にサインをもらうよう、部長から指示があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勘定は半月毎にすることになっていて、仕事のあった日は、帰りに、夫婦者は三十銭、独身者は二十銭、内渡しするのである。",
@@ -231,14 +256,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "内払い",
+        "内入",
+        "一部納品"
+      ],
+      "antonyms": [
+        "全納",
+        "完済",
+        "一括払い"
+      ],
+      "related": [
+        "前金",
+        "手付金",
+        "分割払い",
+        "支払い",
+        "納品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.420064+00:00Z",
+      "updated_at": "2026-06-01T22:50:43.986858+00:00Z",
       "frequencies": {
         "aozora": 1
       }

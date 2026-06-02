@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "五人兄弟はみんな男兄弟で、幼い頃は毎日取っ組み合いの喧嘩が絶えなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男兄弟しかいなかったので、女の子の気持ちを理解するのに長い時間がかかったと彼は笑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "男兄弟の中で一人だけ育った彼女は、兄の友人たちと自然と仲良くなれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一名はオメケイオコデと為し、一名はオメナイオコデと為し（方言、男兄弟をオメケイと言い姉妹をオメナイと言う）、其の神を祭る一切の事を掌る。",
@@ -133,14 +158,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "兄弟"
+      ],
+      "antonyms": [
+        "女兄弟"
+      ],
+      "related": [
+        "兄",
+        "弟",
+        "姉妹",
+        "兄弟姉妹",
+        "男性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.741402+00:00Z"
+      "updated_at": "2026-06-02T01:50:39.351073+00:00Z"
     }
   }
 ]

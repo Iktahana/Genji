@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は大学の男友達とよく遊んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "私の男友達は実は野球部のキャプテンだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今夜は男友達数人と飲みに行く予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この男がわたくしから逃げ出さない以上、性根の脱けているのは却って強情がなく連立ち易い男友達とも感じられています。",
@@ -229,14 +254,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "男友人",
+        "友人",
+        "友達"
+      ],
+      "antonyms": [
+        "女友達"
+      ],
+      "related": [
+        "友情",
+        "男性",
+        "親交"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.777810+00:00Z",
+      "updated_at": "2026-06-02T01:50:56.326991+00:00Z",
       "frequencies": {
         "aozora": 30
       }

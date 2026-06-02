@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このお山の頂上には古い観音堂がある",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの頃によく遊んだお山が今も変わっていない",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "春になるとお山の麓に桜が一面に咲く",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上等兵は、ここで自分までも上官の命令に従わなくって不具者にされるか、或は弾丸で負傷するか、殺されるか、――したならば、年がよってなお山伐りをして暮しを立てている親爺がどんなにがっかりするだろうか、そのことを思った。",
@@ -277,14 +302,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "山"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "登山",
+        "自然"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.277258+00:00Z",
+      "updated_at": "2026-06-02T02:23:44.555470+00:00Z",
       "freq_rank": 36504
     }
   }

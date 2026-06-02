@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月の売り高は1000万円を超えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "営業部が掲げた売り高の目標達成は難しそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "前年度と比べて売り高が30%増加している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「それでまた不思議なもんでして、こいつを店へ出しておくと、おかねえとでは、売り高の点で大変な差がありますよ。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "売上",
+        "売上高",
+        "売上額"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "経営",
+        "業績"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.117843+00:00Z"
+      "updated_at": "2026-06-02T00:26:41.756866+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生のご助言が大きに役立ち、卒業論文を無事に仕上げることができました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この度はお力添えをいただき、大きに助かりました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "みなさんのご支援のおかげで大きに前進できたと、代表者が挨拶で述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「お母さん、自分がむしやくしやするからつて子供にまで辛く当らなかつたつて……」「またあんたが出て来て事を大きにしてもらつてはお母さんが何時も真中で一番困るから。",
@@ -288,21 +313,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ありがとうございます」「おおきに、またお越しやす」と女将が笑顔で見送った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "道に迷っていたら地元のおばちゃんが丁寧に案内してくれたので、「おおきに！」と礼を言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「おおきに、おおきに、ほんまに助かりましたわ」と客は何度も頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ありがとう",
+        "どうも"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感謝",
+        "関西弁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.702303+00:00Z",
+      "updated_at": "2026-06-02T01:14:42.909124+00:00Z",
       "frequencies": {
         "aozora": 781
       }

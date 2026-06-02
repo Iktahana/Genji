@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "発酵食品を作るには、こまめな温度調整が品質を左右する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場内の温度調整を自動化するシステムを導入し、製品の不良率が下がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試験管内の反応速度を一定に保つため、水浴を使って温度調整を行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "温度調節",
+        "温度制御",
+        "温調"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "サーモスタット",
+        "空調",
+        "冷暖房",
+        "恒温",
+        "温度管理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:32:11.382198+00:00Z"
     }
   }
 ]

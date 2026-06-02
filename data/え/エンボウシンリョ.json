@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その政治家は遠謀深慮に基づいた政策を打ち出すことで知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "遠謀深慮なき経営判断は、会社を危機に陥れることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "先代の遠謀深慮があったからこそ、今の企業の繁栄がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、いずれを見ても、煩悩に心を乱されている人々の中で、ただ一人、頭の働きを失っていない遠謀深慮ある人物のごとく、事件いっさいの始末を引き受けようというのだ。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "深謀遠慮"
+      ],
+      "antonyms": [
+        "近視眼"
+      ],
+      "related": [
+        "計画",
+        "知恵",
+        "思慮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.783822+00:00Z"
+      "updated_at": "2026-06-02T01:05:47.464265+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は高校の運動部で陸上競技に3年間取り組んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この学校の運動部は全国大会に毎年多数出場している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運動部の活動は学校生活に活力とまとまりをもたらしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "太田でないにしても、とにかく、大学の運動部のキャプテンともなるほどの男は、どこか人間として立派なところがある。",
@@ -189,14 +214,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スポーツ部"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "部活動",
+        "学校"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.516830+00:00Z",
+      "updated_at": "2026-06-02T00:29:46.543854+00:00Z",
       "frequencies": {
         "aozora": 18
       }

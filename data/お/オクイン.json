@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証書の末尾には奥印が押されており、藩主の承認を受けた正式な文書であることが示されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その古文書に捺された奥印から、江戸中期に作成されたものであることが判明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "奥印のない書類では公式の効力を持たないと、担当の役人は突き返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其処には色々な字書があると云うことを聞出したから、如何かしてその字書を借りたいものだ、借りるには入門しなければならぬ、けれども藩士が出抜けに公儀（幕府）の調所に入門したいと云ても許すものでない、藩士の入門｜願にはその藩の留守居と云うものが願書に奥印をして然る後に入門を許すと云う。",
@@ -101,14 +126,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "裏印",
+        "証印",
+        "加判",
+        "落款"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "判子",
+        "署名",
+        "奥書",
+        "公印"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.520625+00:00Z"
+      "updated_at": "2026-06-02T01:22:54.064123+00:00Z"
     }
   }
 ]

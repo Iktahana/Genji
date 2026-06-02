@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その方のお顔を拝見したのは初めてだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "写真で何度もお顔を見ていたのに、実物はもっと素敵だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "病気をされていたとは思えないほど、お顔の色がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どう考えて見ましてもこのお申出についてはあなたのお顔を立てかねますな。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "顔",
+        "表情",
+        "面貌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "容貌",
+        "相貌",
+        "目鼻立ち"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.207224+00:00Z"
+      "updated_at": "2026-06-02T01:19:14.170733+00:00Z"
     }
   }
 ]

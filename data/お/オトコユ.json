@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "男湯からは、賑やかな談笑が聞こえてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "暖簾をくぐって男湯に入ると、湯気が立ち込めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "女湯に比べて、男湯の回転は意外と早い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日が暮れてから近所の湯へ行くと、その帰りにわたくしが男湯から出ると、師匠もちょうど女湯から出る、そこでばったり又｜出遇ったんです。",
@@ -246,13 +271,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "女湯",
+        "女風呂"
+      ],
+      "related": [
+        "銭湯",
+        "混浴",
+        "脱衣所",
+        "風呂",
+        "温泉",
+        "浴場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.817828+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.232160+00:00Z",
       "frequencies": {
         "aozora": 85
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新入社員を現場に送り込む指導が大切だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "応援団が大きな声援を送り込んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "援軍を戦地に送り込む命令が下った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "純潔な処女をこの一角の怪獣の棲家へ送り込むと、ウニコールがすっかり大人しくなって処女の胸に頭をすりつけて来る。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "派遣する",
+        "投入する",
+        "差し向ける",
+        "搬送する"
+      ],
+      "antonyms": [
+        "引き揚げる",
+        "呼び戻す"
+      ],
+      "related": [
+        "移送",
+        "配属",
+        "出荷",
+        "人員"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.654437+00:00Z",
+      "updated_at": "2026-06-02T01:24:26.031597+00:00Z",
       "freq_rank": 27272,
       "frequencies": {
         "aozora": 255

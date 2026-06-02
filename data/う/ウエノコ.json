@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うちは上の子が女の子で下の子が男の子です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上の子と下の子では年が5歳離れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上の子が下の子の世話をしてくれることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　と、私が訊くと、「ほら、そこにあるよ」　と、上の子が出て来た。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "長子",
+        "第一子"
+      ],
+      "antonyms": [
+        "下の子",
+        "末っ子"
+      ],
+      "related": [
+        "兄弟",
+        "姉妹",
+        "子供"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.590844+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.285997+00:00Z"
     }
   }
 ]

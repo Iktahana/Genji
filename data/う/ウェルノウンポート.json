@@ -33,21 +33,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "HTTPは80番、HTTPSは443番とウェルノウンポートが標準で割り当てられており、設定を変えない限りそのまま使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ネットワーク担当者が「ウェルノウンポートへのアクセスはファイアウォールで制御しているので問題ない」と報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティ研究者は「ウェルノウンポートを不用意に外部に開放しておくと攻撃の標的になりやすい」と警告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "標準ポート"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ポート番号",
+        "TCP",
+        "UDP",
+        "ネットワーク"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.537589+00:00Z"
+      "updated_at": "2026-06-01T21:58:29.130153+00:00Z"
     }
   }
 ]

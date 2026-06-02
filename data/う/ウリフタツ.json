@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "兄弟は瓜二つで見分けがつかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "二人の意見は瓜二つのように一致している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親子が瓜二つの顔をしていると言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの娘は年齢から眼鼻立ち、背丈恰好、物腰、声音まで、死んだお熊さんに瓜二つ……と申す仔細は、ほかでも御座んせん。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "そっくり",
+        "酷似",
+        "瓜実顔"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "似る",
+        "顔立ち"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.150487+00:00Z",
+      "updated_at": "2026-06-02T00:26:54.097825+00:00Z",
       "frequencies": {
         "aozora": 134
       }

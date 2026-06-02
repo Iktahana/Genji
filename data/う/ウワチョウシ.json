@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は歌い出しから上調子で、聞いていて少し耳に障る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ピアノの調律が狂っているのか、高音域が少し上調子に聞こえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "上調子な笛の音が、静かな山里に高く響き渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　と尻ッ刎の上調子で言って、ほほと笑った。",
@@ -246,14 +271,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "高調子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "調子",
+        "音",
+        "高い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.315162+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.215546+00:00Z",
       "frequencies": {
         "aozora": 19
       }

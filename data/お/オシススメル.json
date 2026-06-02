@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいプロジェクトを計画通りに押し進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "人混みをかき分けて、会場の先頭まで押し進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "議論が停滞していたが、強引に結論を押し進めることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "待ち受けるＵＮＩＸに対し、下からのネットワークを押し進めるパーソナルコンピューター陣営！",
@@ -206,14 +231,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "推進する",
+        "促進する",
+        "進める",
+        "推し進める"
+      ],
+      "antonyms": [
+        "押しとどめる",
+        "阻む",
+        "妨げる"
+      ],
+      "related": [
+        "推進",
+        "前進",
+        "促進"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.956570+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.996408+00:00Z",
       "freq_rank": 27122,
       "frequencies": {
         "aozora": 147

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仏道を求めて雲水行脚に出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔の修行僧は雲水行脚で悟りを開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この物語の主人公は雲水行脚の旅を続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "庵室に住んでゐるのが、隠者についての先入主だが、此時代の隠者には、まるきり僧侶の制約に従うて、唯定住する所を持たぬを主義とする、雲水行脚の法師も籠めねばならぬ。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "行脚",
+        "巡礼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "僧",
+        "修行",
+        "旅"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.430692+00:00Z"
+      "updated_at": "2026-06-02T00:29:10.074713+00:00Z"
     }
   }
 ]

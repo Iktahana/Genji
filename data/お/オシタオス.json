@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "怒りにまかせて、彼は相手を床に押し倒した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "風が強すぎて、木が植木鉢を押し倒してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "重い棚が倒れ、家具を押し倒してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その一方ではまた、きょうは元旦だから腹を立てたりしてはいけないという抑制的心理が働いて来る、そうするとかえってそれを押し倒すような勢いで腹立たしさが腹の底から持ち上がって来るのであった。",
@@ -182,14 +207,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "倒す",
+        "組み伏せる",
+        "ねじ伏せる",
+        "打ち倒す"
+      ],
+      "antonyms": [
+        "起こす",
+        "立て直す"
+      ],
+      "related": [
+        "組み倒す",
+        "押しつぶす",
+        "制圧する"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.958705+00:00Z",
+      "updated_at": "2026-06-02T01:31:19.998417+00:00Z",
       "frequencies": {
         "aozora": 160
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の文化祭は大掛かりな企画で、準備期間も長かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その建設プロジェクトは大掛かりな工事を伴い、近隣住民に影響を及ぼした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大掛かりなシステム導入には、スタッフの研修が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ピアノトリオ位で非常に優れた室内音楽でも附属しているのは決して悪いものではないとしても、併し「演出効果」なぞと云う大掛かりな仕掛けは実際邪魔になり過ぎる場合がある。",
@@ -182,14 +207,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大規模",
+        "大仕掛け"
+      ],
+      "antonyms": [
+        "小規模",
+        "こぢんまり"
+      ],
+      "related": [
+        "規模",
+        "工事",
+        "演出",
+        "プロジェクト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.654624+00:00Z",
+      "updated_at": "2026-06-02T01:19:08.544867+00:00Z",
       "freq_rank": 24347,
       "frequencies": {
         "aozora": 18

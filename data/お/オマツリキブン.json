@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誕生日パーティーはお祭り気分で盛り上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "みんなお祭り気分で、楽しく過ごせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このイベントはお祭り気分いっぱいで、子どもたちも大喜びだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが又そのうちに、収穫が一通り済んで、村中がお祭り気分になると、後家さんの家がいつまでも閉め込んだ切り、煙一つ立てない事にみんな気が付き初めた。",
@@ -205,14 +230,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "祭り気分",
+        "浮かれ気分",
+        "お祭りムード"
+      ],
+      "antonyms": [
+        "日常",
+        "平常",
+        "厳粛"
+      ],
+      "related": [
+        "お祭り",
+        "雰囲気",
+        "浮かれる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.710419+00:00Z"
+      "updated_at": "2026-06-02T02:20:38.480097+00:00Z"
     }
   }
 ]

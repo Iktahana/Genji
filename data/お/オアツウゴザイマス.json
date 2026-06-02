@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "縁側で扇子を使っていると、隣のおばあさんが「お暑うございます」と声をかけてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「お暑うございます。どうぞ冷たいものでもお召し上がりください」と女将が客を招き入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「お暑うございますねえ、今年は格別ですな」と商店街の顔なじみが話しかけてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひとから、きょうはずいぶんお暑うございますね、と言われて団扇をさし出され、ああそうか、きょうは暑いのか、とはじめて気が附き、大いにあわてて団扇を取りあげ、涼しげの顔してばさばさやってみるのであるが、すぐに厭きて来て手を休め、ぼんやり膝の上で、その団扇をいじくりまわしているような仕末である。",
@@ -101,14 +126,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "暑いですね"
+      ],
+      "antonyms": [
+        "お寒うございます"
+      ],
+      "related": [
+        "挨拶",
+        "夏",
+        "酷暑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.976672+00:00Z"
+      "updated_at": "2026-06-02T01:08:05.720420+00:00Z"
     }
   }
 ]

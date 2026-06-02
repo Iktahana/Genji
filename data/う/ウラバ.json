@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋になると、楓の末葉が鮮やかに色づく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "老木の末葉は枯れ始めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新緑の季節、樹々の末葉がそよ風に揺れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを心臓の方へ導かうとする、つまりより流動的にしようとして、十九世紀末葉は「暗示」といふ言葉を新しく発見したのだつたが、それはやがて皮膚感覚ばかりの、現に見る文明と堕してしまつた。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "末端"
+      ],
+      "antonyms": [
+        "根本"
+      ],
+      "related": [
+        "葉",
+        "植物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.003890+00:00Z",
+      "updated_at": "2026-06-02T00:25:54.541602+00:00Z",
       "frequencies": {
         "aozora": 80
       }

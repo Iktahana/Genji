@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "契約書にサインした後、重要な書類なので印鑑の押捺も求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は選挙の投票用紙に自分の指紋を押捺し、一票を投じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "裁判では、証拠品の指紋が犯人のものと一致し、彼の押捺が決定的な証拠となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "交通巡査に自動人形を立たせ、市長の椅子に盲判押捺器を据え付けていはしまいかと、取りあえず度肝を半分ばかり抜かれたのであった。",
@@ -88,14 +113,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "捺印",
+        "押印"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "印鑑",
+        "書類",
+        "署名"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.415337+00:00Z",
+      "updated_at": "2026-06-02T01:12:23.501787+00:00Z",
       "frequencies": {
         "aozora": 7
       }

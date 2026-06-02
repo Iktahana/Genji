@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の本当の気持ちは笑顔で覆い隠されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "企業の不祥事を報告書で覆い隠すことはできない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "暗い色の服で肌の傷を覆い隠した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "長年その覆い隠す面紗を剥がそうとつとめ、ようやく糸口をつかんでたぐり寄せるところまでたどり着いて、さらに千はあろうかという巧妙な罠や仕掛けをくぐり抜け、とうとう有名数学者たるモリアーティ元教授に行き当たったわけだ。",
@@ -238,14 +263,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "隠す",
+        "秘める",
+        "遮る",
+        "被う"
+      ],
+      "antonyms": [
+        "暴く",
+        "明かす",
+        "露呈する"
+      ],
+      "related": [
+        "隠蔽",
+        "覆い",
+        "秘密"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.579318+00:00Z",
+      "updated_at": "2026-06-02T01:13:58.426989+00:00Z",
       "frequencies": {
         "aozora": 51
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「コーヒーは薄めが好きなので、お湯を多めに入れてください」と注文した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今日のスープは少し塩辛いので、お湯を足して味を薄めに調整した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は薄めのサングラスをかけて、眩しそうに空を見上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今の錦紗のやや軽薄めいた技巧的感触や西陣お召の厳粛性のやうな感じとは全然ちがふもつと、ち、り、め、ん、といふなまめかしさ、いとしさ、やるせなさ、優しさの含んだ純粋絹をねりにねつてしなとこくとをつけた布地でした。",
@@ -281,14 +306,22 @@
       "homophones": [
         "薄目"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "淡い",
+        "薄い"
+      ],
+      "antonyms": [
+        "濃い"
+      ],
+      "related": [
+        "濃度",
+        "状態"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.033545+00:00Z",
+      "updated_at": "2026-06-01T22:10:51.938318+00:00Z",
       "freq_rank": 19649,
       "frequencies": {
         "aozora": 4
@@ -325,7 +358,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "狸寝入りをしていた彼は、薄目を開けて周囲の様子を伺った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "眩しい日差しを遮るように、彼は薄目で看板の文字を読み取ろうとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "眠りに落ちる直前、薄目に映ったテレビの光が幻想的に見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "時に薄目を開て天井際の光線窓を見る。",
@@ -575,9 +633,14 @@
       "homophones": [
         "薄め"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "半眼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "目",
+        "視線"
+      ]
     },
     "meta": {
       "version": "1.0.0",

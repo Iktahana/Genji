@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あまりに斬新すぎるデザインの広告は、年配の層には受けが悪かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "冗談のつもりが、彼の毒舌はパーティーの参加者全員に受けが悪かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "会議で一方的に自説を唱える彼の態度は、部下たちの間でも非常に受けが悪い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "見ろ、だから借金しないと、給料も上がらないし、受けが悪いじゃないか。",
@@ -80,14 +105,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "人気がない",
+        "不評である",
+        "評判が悪い",
+        "嫌われる"
+      ],
+      "antonyms": [
+        "受けがいい",
+        "人気がある",
+        "好評である"
+      ],
+      "related": [
+        "人気",
+        "評判",
+        "不評",
+        "ウケ",
+        "印象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.801005+00:00Z"
+      "updated_at": "2026-06-01T22:04:49.802280+00:00Z"
     }
   }
 ]

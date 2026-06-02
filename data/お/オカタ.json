@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "奥のお部屋にいらっしゃるおかたが、あなたをお呼びです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あのおかたは、この地域でも指折りの教養をお持ちの方として知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そのおかたはどちらのご出身でしょうか」と使用人が主人に尋ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女が、Ｔ「つい其処の道場の先生で相良伝右衛門とか仰しゃる御方」　と言う。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "御方様",
+        "女性",
+        "奥方",
+        "ご婦人",
+        "令夫人"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "敬語",
+        "女性",
+        "奥様",
+        "上品",
+        "丁寧語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.247189+00:00Z",
+      "updated_at": "2026-06-02T01:20:15.446080+00:00Z",
       "freq_rank": 31709,
       "frequencies": {
         "aozora": 1083

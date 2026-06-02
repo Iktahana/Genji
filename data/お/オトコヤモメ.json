@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "妻を亡くしてから、彼は男やもめとして静かに暮らしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "友人の男やもめ生活が長くなり、掃除の腕が上がったらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "近くに住む男やもめの老人が、いつも親切にしてくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この男は悲しみに打ち沈んだ男やもめなんですから。",
@@ -272,21 +297,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「男やもめも気楽でいいよ」と言いつつ、彼は寂しげだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "30を過ぎた男やもめたちが集まって、将来について語り合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "自由奔放な男やもめ生活も、そろそろ卒業したいと思っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "鰥夫",
+        "独り者",
+        "寡夫"
+      ],
+      "antonyms": [
+        "女やもめ",
+        "後家"
+      ],
+      "related": [
+        "未亡人",
+        "独身",
+        "鰥",
+        "寡婦",
+        "ひとり暮らし",
+        "配偶者死別"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.807538+00:00Z",
+      "updated_at": "2026-06-02T01:53:12.231487+00:00Z",
       "frequencies": {
         "aozora": 44
       }

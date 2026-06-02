@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生は生徒たちに早く席に着くよう促し、授業を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は遅れがちな彼に出発を促すメッセージを送った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "司会者が次の演者を壇上へと促すと、緊張した顔で男性がゆっくり立ち上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女　（続けて読む）「『労働の中でもあんな嫌なのはないね』と、散歩してゐる時友は私を促す様に言つた。",
@@ -289,21 +314,65 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい補助金制度が国内投資を促すことを政府は期待していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "光と水分が植物の成長を促すことを、実験を通して子供たちは学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "適度な競争意識が選手の潜在能力を促すという研究結果が発表された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "催促する",
+        "勧める",
+        "刺激する",
+        "誘引する",
+        "急がせる",
+        "働きかける"
+      ],
+      "antonyms": [
+        "阻む",
+        "妨げる",
+        "抑える",
+        "押しとどめる"
+      ],
+      "related": [
+        "促進",
+        "誘導",
+        "提案",
+        "激励",
+        "喚起",
+        "示唆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.593639+00:00Z",
+      "updated_at": "2026-06-01T23:15:40.055716+00:00Z",
       "freq_rank": 7431,
       "frequencies": {
         "aozora": 2573

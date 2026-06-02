@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "老師の奥意は弟子たちにはなかなか伝わらず、何年もの修行が必要だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その詩の奥意を読み解くには、作者が生きた時代背景への理解が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の発言の奥意を察した外交官は、慎重な言葉を選んで返答した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "利休のような人たちは全くの静寂を目的とし、露地を作るの奥意は次の古歌の中にこもっていると主張した（二八）。",
@@ -85,14 +110,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "真意",
+        "本意",
+        "内心",
+        "内情",
+        "真相"
+      ],
+      "antonyms": [
+        "表向き",
+        "建前"
+      ],
+      "related": [
+        "奥義",
+        "真髄",
+        "深意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.509768+00:00Z"
+      "updated_at": "2026-06-02T01:22:54.061929+00:00Z"
     }
   }
 ]

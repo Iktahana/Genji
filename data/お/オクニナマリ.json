@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東京に出てきて十年、いつのまにかお国訛りがすっかり薄れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は興奮するとお国訛りが強くなって、聞いているこちらも楽しくなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電話口から聞こえるお国訛りに、懐かしい気持ちが込み上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ぽかんとしていた市治郎の妻は、あわてゝお国訛りで、「はあ、ほんまにそうのし。",
@@ -93,14 +118,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "方言",
+        "訛り",
+        "地方訛り"
+      ],
+      "antonyms": [
+        "標準アクセント"
+      ],
+      "related": [
+        "イントネーション",
+        "出身",
+        "喋り方",
+        "お国言葉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.593894+00:00Z"
+      "updated_at": "2026-06-02T01:23:29.506084+00:00Z"
     }
   }
 ]

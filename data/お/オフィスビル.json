@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのオフィスビルの最上階からは、東京湾が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝のオフィスビルのエレベーターは、人で満杯になることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "駅前のオフィスビルに、新しいカフェがオープンした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが、醜として撮影された部分が人生の情景として、感情をもって見れば常に必しも醜ではなく、首都の美観の標本として示されたものの中には、却って東洋における後進資本主義の凡庸なオフィスビルディングの羅列のみしかないのもあった。",
@@ -49,12 +74,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ビル",
+        "建物",
+        "高層建築"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.414671+00:00Z"
+      "updated_at": "2026-06-02T02:10:12.501158+00:00Z"
     }
   }
 ]

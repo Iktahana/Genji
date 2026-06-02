@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "収穫が終わった後の畑に、わずかに残る落穂を探す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この季節になると、子供たちは畑で落穂を拾うのが楽しみだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "刈り取られた後の稲穂の影に、小さな落穂が落ちている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "稲の下にも薄の中にも、細流の囁くように、ちちろ、ちちろと声がして、その鳴く音の高低に、静まった草もみじが、そこらの刈あとにこぼれた粟の落穂とともに、風のないのに軽く動いた。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "落ち穂",
+        "麦の穂"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "落ち穂拾い",
+        "収穫",
+        "麦",
+        "穀物",
+        "農業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.475496+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.842434+00:00Z",
       "frequencies": {
         "aozora": 45
       }

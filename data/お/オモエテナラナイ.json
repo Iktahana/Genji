@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの事件の裏には、何か大きな陰謀が隠されているように思えてならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女のあの時の言葉が、どうしても別れの予兆だったように思えてならないのだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼はまだどこかで生きているのではないかと、思えてならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕にはその忍び寄った人間が僕の秘密を知っているように思えてならない。",
@@ -277,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "禁じ得ない",
+        "感じざるを得ない"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感慨",
+        "確信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.978377+00:00Z"
+      "updated_at": "2026-06-02T02:21:08.900850+00:00Z"
     }
   }
 ]

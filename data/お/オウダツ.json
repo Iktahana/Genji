@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ライバル会社は、彼らの企業秘密を横奪しようと画策していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "政権は、国民の財産を横奪することでその地位を維持した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "敵国は、武力によって隣国の領土を横奪した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "星光にすかしてこれを見た時、その時自分は全たく夢ではないかと思っただけで、それを自分が届け出るとか、横奪することが破廉恥の極だとか、そういうことを考えることは出来なかった。",
@@ -262,14 +287,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "強奪",
+        "略奪",
+        "横領"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "盗み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.365103+00:00Z",
+      "updated_at": "2026-06-02T01:11:30.167289+00:00Z",
       "frequencies": {
         "aozora": 28
       }

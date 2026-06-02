@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大阪大学の医学部に入学するために、猛勉強を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大阪大学のキャンパスは広大で、研究施設も非常に充実している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "学会で大阪大学の教授の素晴らしい発表を聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先日京大の松下｜禎二博士と大阪大学の木下東作博士とが或所で落合つた時、木下氏がこの話を持ち出して、「まさかとは思ふが、真実か知ら。",
@@ -125,14 +150,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "阪大"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "国立大学",
+        "大学",
+        "大阪",
+        "旧帝国大学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.794178+00:00Z",
+      "updated_at": "2026-06-02T01:15:34.337802+00:00Z",
       "freq_rank": 21495,
       "frequencies": {
         "aozora": 12

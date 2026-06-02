@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この物質の右旋性は顕著だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "右旋性を示す糖の種類は様々だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "光の右旋性を測定する装置がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "右旋性左旋性というものは万事にあるもので、モグラの運動にも二ツの相異った本能をもつモグラがあるのだ。",
@@ -70,14 +95,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "右回り"
+      ],
+      "antonyms": [
+        "左旋性",
+        "レボ",
+        "左旋光性"
+      ],
+      "related": [
+        "光学活性",
+        "偏光",
+        "鏡像",
+        "右旋糖",
+        "旋光度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.087690+00:00Z",
+      "updated_at": "2026-06-01T22:13:28.963241+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行初日に財布を盗まれ、「こんなに運の悪いことが重なるとは」と彼はため息をついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "運の悪い日はとことん続くもので、傘を忘れた日に限って大雨が降る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試合当日に怪我をするとは本当に運の悪い選手だと観客席でつぶやきが漏れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もうこうなったら仕方がねえ、これもまあ為さんの運の悪いのだと諦めて、おれもそのまま帰って来たが、どうも心持がよくねえ。",
@@ -269,14 +294,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不運な",
+        "ツイていない",
+        "悲運な"
+      ],
+      "antonyms": [
+        "運のいい",
+        "幸運な",
+        "ツイている"
+      ],
+      "related": [
+        "厄日",
+        "災難",
+        "凶",
+        "アンラッキー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.535187+00:00Z"
+      "updated_at": "2026-06-02T00:30:15.312691+00:00Z"
     }
   }
 ]

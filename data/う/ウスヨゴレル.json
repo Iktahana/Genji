@@ -30,21 +30,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "白い壁が薄汚れて、塗り替えが必要になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの遊び着は薄汚れているが、まだ着られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "洗濯をしばらく忘れていたら、シーツが薄汚れてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "汚れる",
+        "汚損する"
+      ],
+      "antonyms": [
+        "きれい",
+        "清潔"
+      ],
+      "related": [
+        "汚れ",
+        "不潔",
+        "経年"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.046934+00:00Z",
+      "updated_at": "2026-06-01T22:11:07.875045+00:00Z",
       "frequencies": {
         "aozora": 111
       }

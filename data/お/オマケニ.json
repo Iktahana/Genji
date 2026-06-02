@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨が降ってきたおまけに、電車も遅延してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仕事が多いおまけに、上司からもクレームが来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "風邪をひいたおまけに、給料が下がってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……千円やそこらのお負けにポーッとなるような私ではなかったが……。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "さらに",
+        "その上",
+        "しかも",
+        "加えて"
+      ],
+      "antonyms": [
+        "その代わり"
+      ],
+      "related": [
+        "接続詞",
+        "累加",
+        "追加"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.700500+00:00Z",
+      "updated_at": "2026-06-02T02:20:38.474396+00:00Z",
       "freq_rank": 6592
     }
   }

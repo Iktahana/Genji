@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キャンプ中にクマが突然、テントに向かって襲いかかってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "猛獣が獲物に襲いかかる瞬間を目撃して、私は足がすくんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "敵軍が城壁を乗り越えて一斉に襲いかかる光景は、恐ろしかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ふたたび、現実の重苦しさが襲いかかる。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "襲う",
+        "攻撃する"
+      ],
+      "antonyms": [
+        "逃げる",
+        "防ぐ"
+      ],
+      "related": [
+        "攻撃",
+        "戦闘",
+        "危険"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.243645+00:00Z",
+      "updated_at": "2026-06-02T01:35:47.290090+00:00Z",
       "freq_rank": 38498,
       "frequencies": {
         "aozora": 437

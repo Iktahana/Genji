@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の老松は大根が地中深くまで張っているため、強風にも揺るぎない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "台風で倒れた楠は大根が岩盤にまで食い込んでいたため、完全には抜けずに残った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "農家の老人は「この木は大根がしっかりしているから百年は持つ」と言って幹を力強く叩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――夕明下に投げいだされた、萎れ大根の陰惨さ、あれはまだしも結構だつた――今や黒い冬の夜をこめどしやぶりの雨が降つてゐる。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "根",
+        "根幹"
+      ],
+      "antonyms": [
+        "枝葉"
+      ],
+      "related": [
+        "植物",
+        "地中",
+        "基礎",
+        "根源"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.977826+00:00Z",
+      "updated_at": "2026-06-02T01:17:24.027587+00:00Z",
       "freq_rank": 8146,
       "frequencies": {
         "aozora": 1721

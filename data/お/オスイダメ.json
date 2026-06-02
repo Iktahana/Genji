@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "汚水だめが一杯になり、異臭が漂い始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "定期的に汚水だめを清掃しないと、衛生状態が悪化する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "地下にある汚水だめから、排水ポンプを使って水をくみ上げる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この例では上水が家の排水管および汚水だめによって汚染されていた。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "汚水槽",
+        "便槽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "汚水",
+        "処理",
+        "衛生"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.162437+00:00Z"
+      "updated_at": "2026-06-02T01:33:49.193067+00:00Z"
     }
   }
 ]

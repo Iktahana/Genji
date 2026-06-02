@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "驚いたことに、彼は料理が上手だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "驚いたことに、雪が降った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "驚いたことに、彼は合格していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "退屈だし寒いので、火でも起こさうと隣りの部屋を開けると、驚いたことにはそこはもうチヤンと机や本箱が配置されてをり、火鉢には火が起こつてゐて、薬鑵も掛かつてゐる。",
@@ -278,14 +303,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "意外にも"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "驚く"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.986881+00:00Z"
+      "updated_at": "2026-06-02T01:56:18.051489+00:00Z"
     }
   }
 ]

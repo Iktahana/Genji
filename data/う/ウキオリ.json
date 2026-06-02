@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "浮き織りの帯は光沢のある模様が立体的に浮かび上がり、晴れ着によく合う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母が嫁入り道具として持ってきた浮き織りの着物は、今も鮮やかな色を保っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その洋服店では浮き織り生地を使ったジャケットが一番人気だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "支那の浮き織りの綾でできた袋で、上という字が書かれてあった。",
@@ -77,14 +102,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "錦織",
+        "ブロケード",
+        "綾織り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "織物",
+        "錦",
+        "刺繍",
+        "紋織り",
+        "絹織物",
+        "浮き文様"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.733994+00:00Z",
+      "updated_at": "2026-06-01T22:04:02.417897+00:00Z",
       "frequencies": {
         "aozora": 6
       }

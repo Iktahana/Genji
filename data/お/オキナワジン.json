@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は生粋の沖縄人として、地元の文化を大切にしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "沖縄人のあたたかい人柄に触れて、すぐにこの場所が好きになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私は沖縄人ではありませんが、沖縄の食べ物が大好きです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "朝鮮にある沖縄人から前日報ぜられたは、以前ハブ蛇多き山を焼くとかように自身を咬んだまま死んだハブばかり間見当った由。",
@@ -269,14 +294,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ウチナーンチュ"
+      ],
+      "antonyms": [
+        "大和人",
+        "ヤマトンチュ",
+        "本土の人"
+      ],
+      "related": [
+        "沖縄県",
+        "民族",
+        "アイデンティティ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.440808+00:00Z"
+      "updated_at": "2026-06-02T01:21:39.585085+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国立日の閲兵式は、テレビ中継される盛大なイベントだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "閲兵式に参加するために、兵士たちは何週間も訓練した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その国の指導者は閲兵式で軍隊の力を誇示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "われわれが見るとムッソリニが閲兵式に臨んでいるニュース映画もこれと全く同格な現象のニュースとして実におもしろく見られるのである。",
@@ -141,14 +166,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "観閲式",
+        "パレード",
+        "査閲式"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "軍事パレード",
+        "国威発揚",
+        "行進",
+        "式典",
+        "建国記念日"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:14.654456+00:00Z"
+      "updated_at": "2026-06-02T00:46:18.756449+00:00Z"
     }
   }
 ]

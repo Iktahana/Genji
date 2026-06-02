@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプログラムではオブジェクトとして管理される各データは、独立した属性と動作を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "データベース設計で重要なオブジェクトを抽出して、テーブル構造を最適化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "メモリ上に作成されたオブジェクトは、使用後に適切に削除する必要があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "プログラミングの専門家たちは、言語で書かれた段階のものをソースコードと呼び、機械語に変換したものをオブジェクトコード、実行可能な形に仕上げられたものをロードモジュールと呼ぶ。",
@@ -85,14 +110,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "対象物",
+        "対象",
+        "目的物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "プログラミング",
+        "クラス",
+        "インスタンス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.498182+00:00Z",
+      "updated_at": "2026-06-02T02:12:43.759593+00:00Z",
       "freq_rank": 4672,
       "frequencies": {
         "aozora": 6

@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "モーターを分解すると、中央に細かい巻き線が施された回転子が現れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "回転子のバランスが崩れていることが激しい振動の原因だと整備士が診断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "発電機の回転子が強力な磁場の中で高速回転することで電力が生まれる仕組みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ロータ"
+      ],
+      "antonyms": [
+        "固定子",
+        "ステータ"
+      ],
+      "related": [
+        "回転",
+        "電動機",
+        "回転軸",
+        "発電機",
+        "電磁石"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T03:20:25.786356+00:00Z"
     }
   }
 ]

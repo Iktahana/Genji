@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カフェのテーブルで作業をした後、スマホを置き忘れてきてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電車の中に大事な書類を置き忘れたことに気づいて、すぐに駅員に相談した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "傘立てに、うっかり傘を置き忘れないように注意しなきゃ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大切なはずのパイプを置き忘れるほどだ。",
@@ -94,14 +119,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "忘れる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "落とす",
+        "置き去り",
+        "紛失"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.500459+00:00Z"
+      "updated_at": "2026-06-02T01:24:22.561892+00:00Z"
     }
   }
 ]

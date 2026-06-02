@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二枚の布を裏合わせにして、端を縫い合わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "設計図と現物を裏合わせにして、間違いがないか確認する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "二つの意見を裏合わせにしてみると、共通点が見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今連句歌仙の三十六句をたとえば（表六句）（裏と二の表裏合わせて二十四句）（名残の裏六句）と分けて、これを三部形式あるいはソナタ形式にたとえてみることもできないことはないが、この対比はそれほど適切とは思われない。",
@@ -62,14 +87,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "裏表"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "合わせる",
+        "背中合わせ",
+        "構造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.904683+00:00Z"
+      "updated_at": "2026-06-02T00:22:59.894541+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パンの表面の上っ側だけをカリッとトーストする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "箱の上っ側に貼られたラベルを確認して、中身を判断する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "棚の上っ側に埃が溜まっているから、掃除機をかけておいて。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,14 +63,22 @@
       "homophones": [
         "上っ皮"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上面",
+        "表面"
+      ],
+      "antonyms": [
+        "下面"
+      ],
+      "related": [
+        "位置",
+        "外側"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.314939+00:00Z",
+      "updated_at": "2026-06-02T00:28:12.215940+00:00Z",
       "frequencies": {
         "aozora": 1
       }
@@ -81,7 +114,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "茹でたジャガイモの上っ皮を、指先でつるりと剥く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "牛乳を温めると、表面に薄い上っ皮が張ってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日焼けした背中の上っ皮が、ボロボロと剥がれ落ちてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上っ皮のかすれた様な細い声は低く平らかに赤い小さな唇からすべり出て白い小粒にそろった歯を少し見せて笑う様子は二十を越した人とは思われないほど内気らしかった。",
@@ -115,9 +173,15 @@
       "homophones": [
         "上っ側"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "表面",
+        "表皮"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皮膚",
+        "層"
+      ]
     },
     "meta": {
       "version": "1.0.0",

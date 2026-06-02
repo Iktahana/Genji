@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもが水に溺れるのを見て親は助けに走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は深い川で溺れるかもしれないので近づくな。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プールで溺れるのは本当に怖い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "秋の一日こんな朝、遅く目覚める人達は戸にあたる風と轍との音によつて、サイレンの棲む海に溺れる。",
@@ -289,21 +314,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は仕事に溺れて私生活を顧みない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "恋愛に溺れるあまり周りが見えなくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "アルコールに溺れる人生は悲劇につながる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "没頭する",
+        "依存する",
+        "沈む"
+      ],
+      "antonyms": [
+        "浮かぶ",
+        "脱する"
+      ],
+      "related": [
+        "水",
+        "愛情",
+        "執着",
+        "危機"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.663952+00:00Z",
+      "updated_at": "2026-06-02T02:18:08.848669+00:00Z",
       "freq_rank": 36607,
       "frequencies": {
         "aozora": 1210

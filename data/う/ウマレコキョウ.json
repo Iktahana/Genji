@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "三十年ぶりに生まれ故郷へ戻ると、知らない建物ばかりが立ち並んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は生まれ故郷の祭りには毎年欠かさず帰ってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "生まれ故郷の匂いというのは、何十年たっても体が覚えているものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "生まれ故郷を遠く離れて、なぜ江戸三界へ出て来たのか、それはよく判らないんですが、なにか良くない事をして、江戸へ逃げて来たんだろうと思われます。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "故郷",
+        "ふるさと",
+        "出身地",
+        "郷里",
+        "生地"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "出身",
+        "帰省",
+        "望郷",
+        "土地",
+        "懐かしさ",
+        "思い出"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.759845+00:00Z",
+      "updated_at": "2026-06-02T00:19:53.736297+00:00Z",
       "freq_rank": 32657
     }
   }

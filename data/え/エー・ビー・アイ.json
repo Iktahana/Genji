@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "異なるプラットフォーム間でソフトウェアを動作させるには、ＡＢＩの互換性が重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プロセッサの変更に伴い、新しいＡＢＩが定義された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このライブラリは、特定のＡＢＩに準拠して開発されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -40,12 +65,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "バイナリ",
+        "インターフェース",
+        "ＡＰＩ",
+        "システムコール",
+        "コンパイラ",
+        "ＯＳ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.949160+00:00Z"
+      "updated_at": "2026-06-02T01:08:22.771642+00:00Z"
     }
   }
 ]

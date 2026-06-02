@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の古老は、山の奥で丑の刻参りの跡とおぼしき藁人形を見つけたと蒼い顔で話した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "丑の刻参りは呪術として江戸時代の文学にも繰り返し登場し、恨みを抱いた女性の執念を象徴した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "神社の御神木に釘の跡が残っているのを宮司が発見し、丑の刻参りが行われたのではないかと騒ぎになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「あなたは丑の刻参りの藁人形よ」　こんな事をどうかした拍子に面と向かって木村にいって、木村が怪訝な顔でその意味をくみかねているのを見ると、葉子は自分にもわけのわからない涙を目にいっぱいためながらヒステリカルに笑い出すような事もあった。",
@@ -94,14 +119,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "丑の時参り",
+        "呪い術"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "呪い",
+        "神社",
+        "藁人形",
+        "釘",
+        "怨念"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.909494+00:00Z"
+      "updated_at": "2026-06-01T22:08:37.795386+00:00Z"
     }
   }
 ]

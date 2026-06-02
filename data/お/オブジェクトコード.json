@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンパイラが出力したオブジェクトコードはリンカで結合される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このオブジェクトコードが正しく生成されているか逆アセンブラで確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プロセッサがオブジェクトコードを直接実行する仕組みになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "プログラミングの専門家たちは、言語で書かれた段階のものをソースコードと呼び、機械語に変換したものをオブジェクトコード、実行可能な形に仕上げられたものをロードモジュールと呼ぶ。",
@@ -71,14 +96,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "機械語",
+        "バイナリ",
+        "実行可能コード"
+      ],
+      "antonyms": [
+        "ソースコード"
+      ],
+      "related": [
+        "コンパイラ",
+        "プログラミング",
+        "アセンブリ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.509378+00:00Z"
+      "updated_at": "2026-06-02T02:12:43.760740+00:00Z"
     }
   }
 ]

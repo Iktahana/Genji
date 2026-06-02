@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "選挙前に票をまとめるための裏工作が行われていたことが内部告発で明らかになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は競合相手を陥れようと裏工作を重ねたが、結局自滅する形になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "契約を有利に進めるため、担当者が先方の部長に裏工作をしていた疑惑が浮上した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし放送協会は猛烈な舞台裏工作を行って、現状維持に努めている。",
@@ -63,14 +88,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "陰謀",
+        "密略",
+        "不正操作"
+      ],
+      "antonyms": [
+        "正当な手段"
+      ],
+      "related": [
+        "策謀",
+        "たくらみ",
+        "黒幕"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.946624+00:00Z"
+      "updated_at": "2026-06-02T00:25:54.671652+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建物の裏手に駐車場がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "庭へは裏手の門から入ることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "敵軍は町の裏手から進軍した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "西郷像の方へ行きたれども書生の群多くてうるさければ引きかえしパノラマ館裏手の坂を下る。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "裏側",
+        "背後",
+        "後方"
+      ],
+      "antonyms": [
+        "表手",
+        "正面",
+        "表側"
+      ],
+      "related": [
+        "建屋",
+        "通り",
+        "敷地"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.979694+00:00Z",
+      "updated_at": "2026-06-02T00:25:42.186884+00:00Z",
       "freq_rank": 25920,
       "frequencies": {
         "aozora": 1077

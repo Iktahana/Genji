@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広い公園の中を、子供たちが元気いっぱいに動き回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "獲物を探して、狼の群れが夜の森を激しく動き回る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は情報を集めるために、一日中街の中を動き回った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もし、これがちっとも痛くなかったら平気で動き回る。",
@@ -206,14 +231,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "歩き回る",
+        "奔走する",
+        "徘徊する"
+      ],
+      "antonyms": [
+        "留まる",
+        "静止する"
+      ],
+      "related": [
+        "活動",
+        "移動",
+        "忙しい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.857435+00:00Z",
+      "updated_at": "2026-06-01T22:07:02.096228+00:00Z",
       "freq_rank": 26072,
       "frequencies": {
         "aozora": 64

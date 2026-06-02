@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "警察官が駆けつけると、騒いでいた群衆は一斉に雲散していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "強風が吹き荒れたおかげで、立ち込めていた暗雲もどこかへ雲散した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "期待していたプロジェクトが中止になり、私たちの夢は儚く雲散してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よろしい、それでは一つ、しんじつ未曾有、雲散霧消の結末つくって、おまえのくさった腹綿を煮えくりかえさせてあげるから。",
@@ -279,14 +304,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "霧散",
+        "分散"
+      ],
+      "antonyms": [
+        "集合"
+      ],
+      "related": [
+        "煙",
+        "霧"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.413245+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.065708+00:00Z",
       "frequencies": {
         "aozora": 47
       }

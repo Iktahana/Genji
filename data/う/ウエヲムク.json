@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "涙をこらえるために、彼女はぐっと上を向いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "首を痛めてしまい、しばらく上を向くことができなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "夜空の星を数えながら、二人は並んで上を向いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "顎を突き出して上を向く者などは一人もないのだ。",
@@ -102,14 +127,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仰向く"
+      ],
+      "antonyms": [
+        "下を向く",
+        "うつむく"
+      ],
+      "related": [
+        "動作",
+        "方向"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.604171+00:00Z"
+      "updated_at": "2026-06-01T21:58:55.293784+00:00Z"
     }
   }
 ]

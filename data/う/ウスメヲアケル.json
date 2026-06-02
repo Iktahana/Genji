@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明け方、光に気づいて薄目を開けると、すでに朝になっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "眠い顔をしながら薄目を開けて、携帯の時間を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "相手の話を聞きながら、薄目を開けるように顔を伏せて考えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雑魚寝の女護の島で、宿酔の海豹が恍惚と薄目を開けると、友染を着た鴎のような舞子が二三羽ひらひらと舞込んで、眉を撫でる、鼻を掴む、花簪で頭髪を掻く、と、ふわりと胸へ乗って、掻巻の天鵞絨の襟へ、笹色の唇を持って行くのがある。",
@@ -46,14 +71,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "半眼にする"
+      ],
+      "antonyms": [
+        "見開く"
+      ],
+      "related": [
+        "動作",
+        "目"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.036759+00:00Z"
+      "updated_at": "2026-06-01T22:10:51.939709+00:00Z"
     }
   }
 ]

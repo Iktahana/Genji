@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつての名門一家も、今ではすっかり落ちぶれてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "贅沢三昧の生活を続けた結果、彼は短期間で落ちぶれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "落ちぶれてもなお、彼は昔の栄光を語り続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「いいえ、デストゥパーゴが落ちぶれるもんですか。",
@@ -198,14 +223,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "衰える",
+        "落ち目になる",
+        "低下する",
+        "退廃する",
+        "没落する"
+      ],
+      "antonyms": [
+        "成功する",
+        "栄える"
+      ],
+      "related": [
+        "落ち目",
+        "没落",
+        "衰退",
+        "貧困",
+        "悲劇"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.475172+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.842038+00:00Z",
       "frequencies": {
         "aozora": 274
       }

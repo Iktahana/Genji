@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回の事故において、私に落ち度があったことは否定できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "契約書をよく読まなかった自分の落ち度を悔やむ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "どんなに注意していても、誰にでも落ち度はあるものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「とかく、その年効いもなく、旅籠屋の式台口から、何んと、事も慇懃に出迎えた、家の隠居らしい切髪の婆様をじろりと見て、（ヤヤ、難有い、仏壇の中に美婦が見えるわ、簀の子の天井から落ち度い。",
@@ -277,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "過失",
+        "ミス",
+        "誤り",
+        "失敗",
+        "欠点"
+      ],
+      "antonyms": [
+        "完璧",
+        "正確"
+      ],
+      "related": [
+        "責任",
+        "落ち目",
+        "失敗",
+        "過ち",
+        "不備"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.472634+00:00Z",
+      "updated_at": "2026-06-02T01:41:08.839913+00:00Z",
       "freq_rank": 27738,
       "frequencies": {
         "aozora": 44

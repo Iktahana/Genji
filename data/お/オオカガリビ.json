@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏祭りのフィナーレを飾る大かがり火が点火されると、広場全体が明るく照らされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "山頂で大かがり火を焚き、遭難者に居場所を知らせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "村人たちは収穫を祝い、野原の中央で大かがり火を囲んで踊った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この後まもなく聖ヨハネの祭りにさいして学生たちは大学の前で大かがり火を燃やした。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "篝火",
+        "焚き火"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "火",
+        "祭り",
+        "照明"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.635195+00:00Z"
+      "updated_at": "2026-06-02T01:14:26.502333+00:00Z"
     }
   }
 ]

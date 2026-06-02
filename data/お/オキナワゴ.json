@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おじいちゃんが話す沖縄語は、私には少し聞き取りにくい時がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近、大学で沖縄語を研究する授業を取ることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "沖縄語の歌を聞いていると、不思議と心が落ち着く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼等の職掌は神託（琉球古語ではミスズリまたはミセセルといいます）を宣伝するのでありますが、後には生霊死霊の口寄（死者の魂を招いて己が口に藉りてその意を述べることで、今日の沖縄語ではカカイモンと申します）をも兼ねるようになりました。",
@@ -197,14 +222,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ウチナーグチ",
+        "沖縄方言"
+      ],
+      "antonyms": [
+        "標準語",
+        "共通語"
+      ],
+      "related": [
+        "琉球語",
+        "方言",
+        "言語",
+        "しまくとぅば"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.438059+00:00Z"
+      "updated_at": "2026-06-02T01:21:39.583458+00:00Z"
     }
   }
 ]

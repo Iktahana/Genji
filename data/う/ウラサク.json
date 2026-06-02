@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "稲を刈り取った後の田んぼで、裏作として麦を育てる農家が多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "今年は裏作の大根が豊作で、冬の収入が例年より大幅に増えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この地域では水稲の裏作に菜の花を作るのが古くからの慣習になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「裏作がありますんで。",
@@ -141,14 +166,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "二期作"
+      ],
+      "antonyms": [
+        "一期作"
+      ],
+      "related": [
+        "農業",
+        "栽培",
+        "収穫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:12.948454+00:00Z",
+      "updated_at": "2026-06-02T00:25:54.673296+00:00Z",
       "frequencies": {
         "aozora": 13
       }

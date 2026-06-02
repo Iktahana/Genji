@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "刺身のつまに添えられていた海髪を、醤油に軽く浸して食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この海岸では、春先になると良質な海髪がよく採れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海髪はコリコリとした食感が楽しく、サラダの彩りにも重宝する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紅の海髪の房するすると指を滑りぬ春の夜の月　すこし霞んだ春の夜の月の昇つてくるのを見るとあのぬらぬらする紅い海髪の房がするすると指の間をすり抜ける感触だ。",
@@ -280,14 +305,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "オゴノリ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海藻",
+        "刺身",
+        "つま",
+        "寒天",
+        "紅藻"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.796801+00:00Z",
+      "updated_at": "2026-06-02T01:26:20.775040+00:00Z",
       "frequencies": {
         "aozora": 4
       }

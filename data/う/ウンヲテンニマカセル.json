@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "結果は運を天に任せるしかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運を天に任せて進むことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運を天に任せてチャレンジしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "運を天に任せる気で待っていると、否待つまでのことはなく、私のすぐ後からやって来たのは、要求とはまるで反対の、身長も身柄も貧弱な小女であった。",
@@ -54,14 +79,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "人事を尽くして天命を待つ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "運",
+        "運命",
+        "宿命"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.592057+00:00Z"
+      "updated_at": "2026-06-02T00:30:19.237146+00:00Z"
     }
   }
 ]

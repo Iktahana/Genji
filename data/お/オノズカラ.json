@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝日が昇ると、自ずから静寂が街を包んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "練習を重ねると、その技術は自ずから身に付く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "時間が経つにつれ、自ずから事の真相が明らかになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ドイツの学者のアルバイテンという言葉の意味がここに一年半通って同学者のやり方を見聞している間に自ずから会得出来たような気がした。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自然に",
+        "自然と",
+        "自ずと",
+        "必然的に"
+      ],
+      "antonyms": [
+        "人為的に",
+        "意図的に",
+        "強制的に"
+      ],
+      "related": [
+        "自然",
+        "必然",
+        "自発",
+        "本来"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.192796+00:00Z",
+      "updated_at": "2026-06-02T02:04:35.895640+00:00Z",
       "freq_rank": 35726,
       "frequencies": {
         "aozora": 194

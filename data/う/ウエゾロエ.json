@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "複数の画像をスライドに配置する際、デザインの統一感を出すためにすべて上揃えに設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "表の中の文字位置がバラバラだったので、読みやすくするためにセル内を上揃えに整える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "資料のタイトルと見出しの間隔を調整するため、まずは基準となる線を上揃えで確認してみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -39,13 +64,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "下揃え"
+      ],
+      "related": [
+        "配置",
+        "レイアウト"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.578714+00:00Z"
+      "updated_at": "2026-06-01T21:57:03.060130+00:00Z"
     }
   }
 ]

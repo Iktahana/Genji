@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "険しい山道を何度も迂曲しながら、ようやく頂上にある展望台にたどり着くことができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "小川は広い野原をゆったりと迂曲し、穏やかな音を立てながら下流の村へと向かっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の話は本題に入るまでにあちこち迂曲し、結局何が最も伝えたかったのかがよく分からなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すなわちその国語の語根のある一つだけを取って考えると、それはアルコホルの一分子のように、不規則にあちらこちらと人から人を伝わって、迂曲した径路を取りながらも、ともかくも、統計的には、その出発点から次第に遠く離れて行くであろう。",
@@ -263,14 +288,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "屈曲",
+        "曲折",
+        "遠回り"
+      ],
+      "antonyms": [
+        "直線",
+        "直進"
+      ],
+      "related": [
+        "迂回",
+        "道程"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:11.761493+00:00Z",
+      "updated_at": "2026-06-01T22:04:47.360241+00:00Z",
       "frequencies": {
         "aozora": 50
       }

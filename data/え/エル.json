@@ -440,14 +440,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "獲得する",
+        "手に入れる",
+        "理解する"
+      ],
+      "antonyms": [
+        "失う",
+        "逃す"
+      ],
+      "related": [
+        "取得",
+        "習得",
+        "可能"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:15.129155+00:00Z",
+      "updated_at": "2026-06-02T00:58:17.642623+00:00Z",
       "freq_rank": 1115,
       "frequencies": {
         "aozora": 70200
@@ -499,6 +510,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "中世ヨーロッパの衣装博物館で、エルという単位で布地の長さを測っていた展示パネルを興味深く読んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -719,9 +738,14 @@
       "homophones": [
         "Ｌ"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ヤード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "単位",
+        "長さ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1031,9 +1055,15 @@
       "homophones": [
         "エル"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "リットル"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "単位",
+        "容量",
+        "Ｌサイズ"
+      ]
     },
     "meta": {
       "version": "1.0.0",

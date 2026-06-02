@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "疲れて歩けなくなった息子を、父親が背中に負ぶって坂道を上った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母は幼い孫を負ぶりながら、畑仕事をこなしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「重いから自分で歩けるよ」と言う娘を、母はそのまま負ぶって家まで帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "俊頼の歌に「唐くにゝ有ける事はいざしらず、あづまの奥におぶる石竹」。",
@@ -70,14 +95,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "おんぶする",
+        "背負う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "子ども",
+        "背中",
+        "母親",
+        "運ぶ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.533419+00:00Z"
+      "updated_at": "2026-06-02T02:15:15.796711+00:00Z"
     }
   }
 ]

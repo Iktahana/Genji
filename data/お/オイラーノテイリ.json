@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数論の授業で、フェルマーの小定理の一般化として**オイラーの定理**を習った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "暗号技術のRSAでは、**オイラーの定理**がその安全性の一部を支えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "グラフ理論における**オイラーの定理**は、一筆書きができる条件を示している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -39,12 +64,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "数学",
+        "数論",
+        "グラフ理論",
+        "多面体",
+        "レオンハルト・オイラー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:16.106254+00:00Z"
+      "updated_at": "2026-06-02T01:08:54.994530+00:00Z"
     }
   }
 ]

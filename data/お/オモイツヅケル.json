@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は十年以上、初恋の人のことを思い続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "故郷の山々の景色を、都会に出てからもずっと思い続けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの日交わした約束のことを、彼は今でも思い続けているようだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あまりに日夜思い続ける私とおまえとの間には最早や直通の心の橋が出来ていて、歳月も距離も殆ど影響しないように感ぜられる。",
@@ -93,14 +118,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "考え続ける",
+        "ずっと思う"
+      ],
+      "antonyms": [
+        "忘れる"
+      ],
+      "related": [
+        "継続",
+        "執着",
+        "思考"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.914800+00:00Z"
+      "updated_at": "2026-06-02T02:23:08.956186+00:00Z"
     }
   }
 ]

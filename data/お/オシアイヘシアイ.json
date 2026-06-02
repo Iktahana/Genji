@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "狭い通路を押し合い圧し合いしながら、なんとか脱出口へと向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの人気アトラクションの前では、大勢の人が押し合い圧し合いしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "コンサート会場の最前列付近は、開演前から押し合い圧し合いの大混雑だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この薄暮というのは暮れに薄まる事、また肉薄というのは人々互に押し合い圧し合い丁度今日電車に乗り込む時の様に相｜薄まる事で、ススキの場合もそれと全く同意味である。",
@@ -63,14 +88,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "押し合い",
+        "揉み合い",
+        "混雑",
+        "雑踏"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "人波",
+        "満員電車",
+        "喧騒",
+        "密集"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.885553+00:00Z"
+      "updated_at": "2026-06-02T01:27:25.907532+00:00Z"
     }
   }
 ]

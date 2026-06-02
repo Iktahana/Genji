@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武将は敵城を落とした功績に対し、主君から広大な領地を恩賞として授かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "恩賞を期待して戦場に赴いた兵士たちは、戦後の論功行賞を固唾をのんで待った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "殿は家臣の働きを称え、名刀と恩賞の土地を下し置かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一、爾今当城下に於て　仇討の助太刀を　致したる者は金百両也　の恩賞を与う者也　その立札の前に立ち止った、武蔵と団九郎。",
@@ -255,14 +280,24 @@
       "homophones": [
         "温床"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "報酬",
+        "ご褒美",
+        "賞与"
+      ],
+      "antonyms": [
+        "罰則"
+      ],
+      "related": [
+        "功績",
+        "褒章",
+        "支給"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:16.408285+00:00Z",
+      "updated_at": "2026-06-02T02:28:34.628074+00:00Z",
       "frequencies": {
         "aozora": 349
       }
@@ -298,7 +333,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不衛生な環境は病原菌の温床となりやすいため、定期的な清掃が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "規制の抜け穴が脱税の温床になっていると、調査機関は報告書で指摘した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "閉鎖的な組織文化がハラスメントの温床を生み出していたことが、内部調査で明らかになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それとも私が温床へ水でも灌ぐとこかも知れないと考へてゐるのか。",
@@ -540,9 +600,16 @@
       "homophones": [
         "恩賞"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "土壌",
+        "原因"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "犯罪",
+        "悪事",
+        "環境"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "連休前はどうしても気分が浮ついて、仕事が手につかない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "流行に流されて、浮ついた考え方をするのは良くない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は浮ついた噂話に惑わされることなく、自分の道を進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "娘の気分がもう少し浮つくのを待つて甘い囁きをおくらうと尚もメフイストが物蔭で息を殺してゐると、隣家の未亡人が一人の僧侶を伴ふて娘の部屋に這入つて来ます。",
@@ -54,14 +79,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "浮き足立つ",
+        "落ち着かない",
+        "軽はずみ"
+      ],
+      "antonyms": [
+        "落ち着く",
+        "地に足がつく"
+      ],
+      "related": [
+        "浮気",
+        "軽薄",
+        "そわそわ",
+        "上気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:13.318552+00:00Z",
+      "updated_at": "2026-06-02T00:29:10.856040+00:00Z",
       "frequencies": {
         "aozora": 53
       }
