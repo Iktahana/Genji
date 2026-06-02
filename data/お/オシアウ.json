@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バスを待つ列で、早く乗りたい人々が互いに押し合っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "幼い子供たちがボールを奪い合って、激しく押し合っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "階段で急ぐ人たちが押し合わないよう、整理係が指示を出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "六畳ばかりの玄関には十四五人の男や女が押し合うように詰めかけていて、坐り切れない人達は式台の上までこぼれ出していた。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.885788+00:00Z",
+      "updated_at": "2026-06-02T00:14:47.892106+00:00Z",
       "frequencies": {
         "aozora": 221
       }
