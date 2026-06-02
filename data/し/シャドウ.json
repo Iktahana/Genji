@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この交差点の車道は朝の渋滞がひどい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歩道と車道の段差に注意してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "工事のため車道が一時的に狭くなっています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この工事を県当局で認可する交換条件として上高地迄の自動車道路の完成を会社に課したといふ噂話を同乗の客一人から聞かされた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:34.956791+00:00Z",
+      "updated_at": "2026-06-02T08:53:12.611131+00:00Z",
       "freq_rank": 17357,
       "frequencies": {
         "aozora": 178
