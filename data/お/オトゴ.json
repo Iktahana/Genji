@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は五人兄弟の乙子として育てられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "末っ子の乙子はいつも兄姉に甘えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "乙子だったので、両親は特に大切にしてくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "長男の一郎と、長女の甲子と、次女の乙子と、夫人の里の遠縁の者の娘で甲子や乙子の世話をする養子と、一郎の同級生の澤と、女中の延と鉄と、別荘番のじいやとばあやがいた。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.821343+00:00Z",
+      "updated_at": "2026-06-02T00:40:10.577568+00:00Z",
       "frequencies": {
         "aozora": 35
       }

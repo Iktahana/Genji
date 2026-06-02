@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "踊り字を使わずに正式に書くべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この古い文書には踊り字が使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "踊り字を読めない若者も多いのが実状だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "／＼：二倍の踊り字（「く」を縦に長くしたような形の繰り返し記号）（例）おそる／＼-------------------------------------------------------　　　　上　あくまでも蒼く晴れ上つた空であり、渓谷には微風さへもない。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.978258+00:00Z",
+      "updated_at": "2026-06-02T00:40:56.499214+00:00Z",
       "frequencies": {
         "aozora": 3
       }
