@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭師は磯馴を丁寧に刈り込み、盆栽仕立てに整えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "日本庭園の石組みの脇に磯馴が低く這うように植えられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "磯馴はその独特の樹形から、和風庭園に好んで使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "療養院の前庭の千本ばかりのひくい磯馴松がいちやうに雪をかぶり、そこからおりる三十いくつの石の段々にも、それへつづく砂濱にも、雪がうすく積つてゐた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:40:42.509809+00:00Z",
       "frequencies": {
         "aozora": 30
       }

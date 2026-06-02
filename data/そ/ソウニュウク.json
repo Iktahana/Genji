@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「彼女は、少なくとも私の知る限りでは、一度も遅刻したことがない」という文の「少なくとも私の知る限りでは」は挿入句だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "挿入句はコンマやダッシュで前後から区切られ、文の主構造から独立して補足情報を伝える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "英語の長い挿入句を日本語に訳す際、どこに配置するかによって文のリズムが大きく変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次の十四節の前半は挿入句である。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:33.704229+00:00Z",
+      "updated_at": "2026-06-02T10:37:43.968294+00:00Z",
       "frequencies": {
         "aozora": 4
       }

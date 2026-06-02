@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インターネット上に無断で創作物を転載することは著作権侵害にあたる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の創作物はどれも深い人間観察に基づいており、読む者の心を揺さぶる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもたちが文化祭で発表した創作物は、会場を訪れた保護者を驚かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芸術的な創作物は、あくまでその評価を具体的な状態で解明していかなければならないものであつて、男であるからとか、女であるからとかいふ『性別』の問題を表面にとりあげるといふ法はないのである。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:32.377743+00:00Z",
+      "updated_at": "2026-06-02T10:34:53.030669+00:00Z",
       "frequencies": {
         "aozora": 14
       }
