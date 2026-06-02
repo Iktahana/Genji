@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大分県を訪れたら名物の鳥天を食べるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この店の鳥天は衣がサクサクで本当に美味い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "旅行のお土産に鳥天を買って帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飛鳥天平のころには、このような生地の類例がなく、これが現存する断裂の大部をしめているとみるとき、飛鳥時代本来の分は余程縮少される。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:50.192624+00:00Z",
+      "updated_at": "2026-06-02T12:19:31.613917+00:00Z",
       "frequencies": {
         "aozora": 1
       }

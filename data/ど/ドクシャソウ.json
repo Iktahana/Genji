@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このファッション誌は、主に30代の働く女性という明確な読者層を想定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ターゲットとなる読者層が広がったことで、新規の広告依頼が大幅に増加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "かなり専門的な内容が含まれるため、この学術書の読者層は極めて限定的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その理由は、まず第一に、日本の読者層が、まだ探偵小説を歓迎する程までには発達していないためであり、第二には、がんらい日本人は古くから、探偵小説の発達に好適な推理的国民ではないためであり、第三に、日本にはまだ探偵小説のすぐれた作家が出ないためである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:55.980816+00:00Z",
+      "updated_at": "2026-06-02T12:21:17.800073+00:00Z",
       "frequencies": {
         "aozora": 54
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関の前に届け物が置いてあったので、中を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大切な届け物だから、手渡しで確実にお願いします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お隣さんから、旅行のお土産の届け物があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "途中さまざまの隙ざえで、爺どのもむかっぱらじゃ、秋谷鎮座の明神様、俺等が産神へ届け物だ、とずッきり饒舌ると、（受取りましょう、ここで可いから。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:14:39.571922+00:00Z",
       "frequencies": {
         "aozora": 13
       }

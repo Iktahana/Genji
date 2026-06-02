@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は界隈でも有名な読書家で、自宅の壁は床から天井まで本で埋め尽くされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "読書家である祖父の影響を強く受け、私も幼い頃から多くの活字に親しんできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は生粋の読書家で、どんなに忙しい日でも毎日一冊は本を読み終えるという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "頭は良くないが読書家で、読書以外の時間は常に気を揉んでゐなければ済まない男であつた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:56.044562+00:00Z",
+      "updated_at": "2026-06-02T12:21:17.805495+00:00Z",
       "frequencies": {
         "aozora": 82
       }
