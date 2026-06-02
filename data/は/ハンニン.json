@@ -247,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:51.684113+00:00Z",
+      "updated_at": "2026-06-02T12:47:40.888462+00:00Z",
       "freq_rank": 3725,
       "frequencies": {
         "aozora": 6424
@@ -613,7 +613,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日は予定より早く作業が終わったので、半人で切り上げて帰ることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は半人しか働いていないのに、なぜか一人前の給料をもらえると勘違いしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工事の遅れを取り戻すため、人手が足りない現場に急遽半人の応援を要請した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }

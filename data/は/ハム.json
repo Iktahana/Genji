@@ -336,7 +336,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:46.560924+00:00Z",
+      "updated_at": "2026-06-02T12:44:07.707409+00:00Z",
       "freq_rank": 6774,
       "frequencies": {
         "aozora": 357
@@ -374,7 +374,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "馬は草を食む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛が牧草を食みながら歩いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "羊たちは朝から昼まで草を食んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "せめては骨肉｜相食むような不幸な家庭、儕輩相※ぐようなあさましい人間の寄り合いを尋ね歩いて、ちぐはぐな心の調律をして回るような人はないものであろうか。",
@@ -640,6 +665,22 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "毎月給与を食む生活をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は月50万円を食んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],

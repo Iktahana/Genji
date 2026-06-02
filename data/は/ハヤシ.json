@@ -355,7 +355,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:46.911328+00:00Z",
+      "updated_at": "2026-06-02T12:44:46.309471+00:00Z",
       "freq_rank": 2832,
       "frequencies": {
         "aozora": 9688
@@ -996,7 +996,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "セキュリティを強化するため、このパスワードは強力なハヤシ関数でハヤシ化されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大容量のデータを転送する際、ハヤシ値を確認することで情報の欠落を防ぐことができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ハヤシ関数を使って一方向の計算を行い、元のデータが推測されないように設計されています」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }

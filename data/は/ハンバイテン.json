@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプレミアムモデルは、全国に数箇所ある正規販売店のみで限定販売されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「詳しい機能やアフターサービスについては、最寄りの販売店にてご確認ください」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新規オープンした家電販売店の前には、目玉商品を求めて早朝から長い行列ができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　とたしなめる目づかいが、つい横の酒類販売店の壜に、瞳が蝶のようにちらりと映って、レッテルの桜に白い頬がほんのりする。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:52.000663+00:00Z",
+      "updated_at": "2026-06-02T12:47:40.890573+00:00Z",
       "frequencies": {
         "aozora": 48
       }
