@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "十字路で二道に分かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "二道のどちらを選ぶか迷った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "山道が二道に分岐していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "忽地にして其の金光の一道は二道となり、三道となり、四道五道となり、奕々灼々として、火龍舞ひ、朱蛇驚き、萬斛の黄金の熾盛、烈々※々たる炎を揚ぐるが如くになると、紅玉熔け爛れんとする大日輪が滄波の間から輾り出す。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:40.139145+00:00Z",
+      "updated_at": "2026-06-02T13:11:31.894423+00:00Z",
       "frequencies": {
         "aozora": 9
       }

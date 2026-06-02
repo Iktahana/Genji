@@ -63,14 +63,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "分散トランザクション"
+      ],
+      "antonyms": [
+        "ローカルトランザクション"
+      ],
+      "related": [
+        "トランザクション",
+        "分散システム",
+        "コミット",
+        "ロールバック",
+        "ACID"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T13:45:11.140638+00:00Z"
+      "updated_at": "2026-06-02T13:10:45.096395+00:00Z"
     }
   }
 ]
