@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "位相数学の授業でオープンセットの定義を学び、すべての内点を含む集合であることをε-近傍を使って確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「実数直線上でオープンセットと閉集合の違いを直感的に理解するには、開区間と閉区間を比べるのが一番だよ」と教授が黒板に図を描いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "証明の中でこの集合がオープンセットであることを示すため、任意の点の周りに含まれる近傍の存在を丁寧に構成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "オープンセット三島の宿。",
@@ -70,7 +95,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:31:34.187302+00:00Z",
       "frequencies": {
         "aozora": 3
       }
