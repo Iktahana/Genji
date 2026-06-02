@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "賭場では男たちが丁半の結果に一喜一憂していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "丁半で全財産を賭けた彼は、サイコロが止まるまで息を飲んで待った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは疑いもない向う鉢巻を致しました証跡で……つまり丁半や花札を引きまする場合には、男でも鬢の乱れを止めるために幅広う鉢巻を致しまする者が多いので、博奕打の朝髪と申しまするのはこげな髪の乱れを隠すために、綺麗に手を入れるからで御座りまする。",
@@ -330,7 +347,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:10.687405+00:00Z",
+      "updated_at": "2026-06-02T11:38:18.985627+00:00Z",
       "frequencies": {
         "aozora": 65
       }
