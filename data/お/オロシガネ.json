@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生姜をおろし金でおろして、豆腐の上にのせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "おろし金の目が詰まってしまったので、ブラシで丁寧に洗った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母はいつも料理の仕上げにおろし金で山葵を擦る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最高の錦木とは、上等のかつおぶしの中心である赤身ばかりを薄く削ること、太いよいわさびを細かいおろし金で密におろすこと。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:20.639345+00:00Z",
+      "updated_at": "2026-06-02T01:43:46.558256+00:00Z",
       "frequencies": {
         "aozora": 4
       }
