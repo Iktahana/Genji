@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "光学顕微鏡は回折限界により、可視光の波長の半分以下の構造を分解することができない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "超解像顕微鏡は回折限界を超えるために蛍光分子を個別に観察する手法を取る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "望遠鏡の口径を大きくすることで回折限界を引き下げ、より細かい星像を得られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -51,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:02:12.535636+00:00Z"
+      "updated_at": "2026-06-02T03:10:58.749929+00:00Z"
     }
   }
 ]

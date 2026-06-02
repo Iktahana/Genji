@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "車椅子を使う女性の隣で介助犬が落とした荷物を拾い上げ、乗客たちが感嘆の声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "介助犬を連れた男性がレストランに入ろうとしたところ、入店を断られてトラブルになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "介助犬の育成には多くの時間と費用がかかるため、寄付による支援が訓練団体を支えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -50,7 +75,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:59:53.050916+00:00Z"
+      "updated_at": "2026-06-02T03:07:22.306542+00:00Z"
     }
   }
 ]
