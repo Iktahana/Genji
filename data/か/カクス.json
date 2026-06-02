@@ -323,7 +323,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.983504+00:00Z",
+      "updated_at": "2026-06-02T03:42:48.878826+00:00Z",
       "freq_rank": 8263,
       "frequencies": {
         "aozora": 10157
@@ -794,7 +794,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史小説には謀反人を馘すという残酷な場面が生々しく描かれており、読者を戦慄させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "と思わず口を滑らせたら、菊ちゃんは一瞬はっと表情をかえて妙にまじめな眼つきで私の顔を見つめたかと思うと、くるっと私に背をむけお盆で顔をかくすようにして店の奥へ駈けこんでいったものだ。",
@@ -1052,6 +1061,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不正経理が発覚した部長を馘すかどうか、緊急役員会で深夜まで議論が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],

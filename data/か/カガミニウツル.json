@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "朝、鏡に映る自分の顔を見て、昨晩寝不足だったことに気づいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浴室の鏡に映る景色は、雲がかかった山々だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -255,14 +271,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "映る",
+        "写る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "光",
+        "視覚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.465272+00:00Z"
+      "updated_at": "2026-06-02T03:39:24.402239+00:00Z"
     }
   }
 ]

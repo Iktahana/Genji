@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自治会の回覧板が回ってきたので、お知らせを読んでから隣家に持っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "回覧板にゴミ収集日の変更が書いてあったことを、夫に伝え忘れていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "最近はスマホで連絡が取れるのに、この町ではまだ回覧板が現役で活躍している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "きょうのお昼すぎ、お隣りの「白鳥の間」から、次のような回覧板が発行せられた。",
@@ -192,7 +217,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:19:38.967246+00:00Z",
+      "updated_at": "2026-06-02T03:34:12.755968+00:00Z",
       "frequencies": {
         "aozora": 19
       }

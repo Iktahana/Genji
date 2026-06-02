@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "このDVDドライブは書き換え可能なメディアに対応している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "上書き可能",
+        "書き換えられる",
+        "可変"
+      ],
+      "antonyms": [
+        "読み取り専用",
+        "書き換え不可",
+        "読み出し専用"
+      ],
+      "related": [
+        "CD-RW",
+        "光磁気ディスク",
+        "フラッシュメモリ",
+        "記録媒体",
+        "メモリ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.526018+00:00Z"
+      "updated_at": "2026-06-02T03:39:24.407793+00:00Z"
     }
   }
 ]
