@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この回路には減算器が組み込まれており、二つの入力信号の差を出力として取り出せる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ALU内部の減算器は補数を利用して引き算を実現しており、ハードウェア設計の基本として学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "シミュレーション上で減算器の動作を確認したが、桁借りの処理に誤りがあることがわかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これまでコンピューターがどんな原理で動くのか彼はまったく知らなかったが、この一ビット加減算器が理解できたあとは、もはや計算機は彼にとってブラックボックスではなくなった。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.854672+00:00Z"
+      "updated_at": "2026-06-02T07:24:04.787866+00:00Z"
     }
   }
 ]
