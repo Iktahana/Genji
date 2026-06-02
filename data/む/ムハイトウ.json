@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その会社は業績の悪化により、今期は無配当となることを発表した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼は高配当を期待してその株を買ったが、無配当の知らせにがっかりした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "無配当が続いているため、株主から経営陣の刷新を求める声が上がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帝展の如く素晴らしい入場者があっても、画家はまったく無配当であるらしい。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:40:07.888171+00:00Z",
+      "updated_at": "2026-06-02T13:35:06.658359+00:00Z",
       "frequencies": {
         "aozora": 1
       }

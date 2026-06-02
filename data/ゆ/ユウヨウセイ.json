@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新薬の有用性が臨床試験で証明され、承認に向けた手続きが加速した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "このツールの有用性を上司に説得するため、具体的なデータをまとめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "既存のシステムと比べたときの有用性が不明確で、導入は見送られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かくて今日彼の独自な有用性は可なり低下したようだ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:40:40.999001+00:00Z",
+      "updated_at": "2026-06-02T13:46:12.181980+00:00Z",
       "frequencies": {
         "aozora": 37
       }

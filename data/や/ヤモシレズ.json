@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はもう二度と戻ってこないやも知れず、彼女は夜更けまで駅のベンチで待ち続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "不況の波に押され、創業百年を誇る老舗旅館も倒産するやも知れず、町には動揺が走った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "尤も日短き故｜夜更けに御立あるやも知れず二、静粛に行進して途中敵兵之を遮らば切りやぶって善光寺へ向うと心得べし　と伝えられた。",
@@ -252,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:40:35.591827+00:00Z"
+      "updated_at": "2026-06-02T13:43:11.761408+00:00Z"
     }
   }
 ]

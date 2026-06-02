@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新製品の情報は、まずこのメーリスで共有されます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "サークルの連絡は、メーリスを使って一斉に配信している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "重要な知らせを見逃さないように、メーリスからのメールは必ずチェックしてください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その時分メーリスの『歴史哲学教科書』が評判になって、読みたいと思い、学校の研究室へ借りに行ったが、いつも誰かがすでに借り出していて見ることができず、だいぶんたってから、外国に注文しておいたのがやっと手に入って、読んでみるとそのつまらないのにがっかりしたことがある。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:37:11.697438+00:00Z",
       "frequencies": {
         "aozora": 1
       }

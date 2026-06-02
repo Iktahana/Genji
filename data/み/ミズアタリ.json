@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行先の現地で生水を飲んでしまい、ひどい水あたりで寝込んでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "水あたりを起こさないように、海外では必ずボトル入りの飲料水を買うことにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "整備されていない井戸の水を飲んで水あたりになり、数日間苦しい思いをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "祇園から清水あたりまで行くこともあつたし、電車で北野の天神さんへお詣りに行つたり、時には東寺の朝市などへも連れて行つた。",
@@ -150,7 +175,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:39:52.150001+00:00Z",
+      "updated_at": "2026-06-02T13:31:21.900140+00:00Z",
       "frequencies": {
         "aozora": 9
       }
