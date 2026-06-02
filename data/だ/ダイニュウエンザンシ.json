@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "Cの代入演算子「=」は数学の等号とは意味が異なり、右辺の値を左辺の変数に格納する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "複合代入演算子「+=」を使えば、x = x + 1という記述をx += 1と簡潔に書ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -52,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-02T23:53:44.967528+00:00Z"
+      "updated_at": "2026-06-02T11:09:52.776553+00:00Z"
     }
   }
 ]
