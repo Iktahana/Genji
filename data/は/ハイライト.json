@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の会議のハイライトは、最後に発表された新しいプロジェクトの提案だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の演奏のハイライトは、曲の中盤で急にテンポが上がるところだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "映画を見終わった後、一番印象に残ったハイライトについて友人と語り合った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "光りが単に物象からの反射としてみる場合は、安易にハイライトを描ききつて、物質に対する光りの効果を外光派的に生かすことができよう。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:39:34.478518+00:00Z",
       "freq_rank": 16189,
       "frequencies": {
         "aozora": 9

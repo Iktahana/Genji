@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "受験生は合格を念ずるあまり、毎日図書館にこもっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "平和を念ずる多くの人々が広場に集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのいはれより疾翔と申さるゝ、大力といふは、お徳によって、たとへ火の中水の中、たゞこの菩薩を念ずるものは、捨身大菩薩、必らず飛び込んで、お救ひになり、その浄明の天上にお連れなさる、その時火に入って身の毛一つも傷かず、水に潜って、羽、塵ほどもぬれぬといふ、そのお徳をば、大力とかう申しあげるのぢゃ。",
@@ -295,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:28.945435+00:00Z",
+      "updated_at": "2026-06-02T12:38:00.319781+00:00Z",
       "frequencies": {
         "aozora": 966
       }

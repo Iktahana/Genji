@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師は、この症状は肺炎球菌による感染が疑われると言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "肺炎球菌ワクチンのおかげで、重症化するリスクを低減できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "肺炎球菌は、中耳炎や副鼻腔炎の原因にもなる細菌の一種だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ウサギに肺炎球菌（）型特異的な多糖類によって抗体を沈殿させて(38)、同位体濃度を測定した。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:34.585875+00:00Z",
+      "updated_at": "2026-06-02T12:38:40.266185+00:00Z",
       "frequencies": {
         "aozora": 1
       }
