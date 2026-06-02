@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その新作映画に対する評者の意見は、見事に賛否両論に分かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は辛口の評者として知られているが、今回の小説には珍しく高い評価を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "展覧会のカタログには、複数の美術評者による詳細な解説が掲載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その中の一評者が「一時は紀行文は前人の未だ踏まない深山幽谷の奇景を、紹介するのを職とするような傾向であった、いや今でも、そういう好奇心で、紀行を書いている人もあるようだが、これはつまらぬことだろう」と言って、明らかに私に当たっている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:17.900525+00:00Z",
+      "updated_at": "2026-06-02T12:58:26.990455+00:00Z",
       "freq_rank": 26711,
       "frequencies": {
         "aozora": 98

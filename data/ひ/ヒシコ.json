@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本沿岸で捕れた鯷は、独特の風味が好まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新鮮な鯷を使ったレストランの料理は、毎日客でいっぱいである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鯷の香りは癖があるが、それが好きな人も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「生きながら直に打ちこむひしこ漬」「椋の実落ちる屋根くさるなり」なども全く同様な例である。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:09.048045+00:00Z"
+      "updated_at": "2026-06-02T12:56:15.972951+00:00Z"
     }
   }
 ]
