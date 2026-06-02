@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回の試験は合格できただけで御の字だと、彼は安堵の表情を見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「予算をここまで削られたけど、事業が続けられるなら御の字だよ」と課長は苦笑した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "雨続きの旅だったが、最終日に晴れただけで御の字と思い、笑顔で帰路についた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まだそこいらに御別荘らしいものは一軒も御座いませんが、その界隈の地所でげすと、坪、五円でもいい顔を致しませんのに、その五六百坪ばかりは一円でも御の字と申しますんで……ヘエ。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:04:28.911490+00:00Z",
       "frequencies": {
         "aozora": 13
       }

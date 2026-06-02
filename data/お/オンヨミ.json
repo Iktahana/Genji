@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「山」を「サン」と音読みするか「やま」と訓読みするかは、文脈や熟語の構成によって異なる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初級の日本語学習者がまず覚えるべきは、よく使われる漢字の音読みだと担当教師は説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「東京」は「とうきょう」と音読みする地名だが、訓読みは存在しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……『｜南方有塚、｜塚中有穴、｜穴中有蛇、｜蛇中有屎』……早口に棒読みにすると、なにかもっともらしく聞えるが、要するに、南の塚穴の中に蛇がいて、その蛇の中には糞がある、という愚にもつかないことを音読みでやっているだけのことなんです。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:07:28.286494+00:00Z",
       "freq_rank": 30006,
       "frequencies": {
         "aozora": 2
