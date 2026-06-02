@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "台風は勢力を保ったまま内陸へ進み、山間部で激しい雨を降らせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この街は内陸に位置しているため、夏は非常に暑く冬は冷え込みが厳しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海岸沿いの港から、鉄道を使って貨物を内陸の工業地帯へと運ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たしかに、海側を走る十六号線と、山側を走る一号線という二本の国道にはさまれた、あるいは、内陸を走る国鉄と、海沿いを走る私鉄にはさまれたこの一帯は、あまり人の住まないところで、低い山が折り重なり、そのあいだに複雑な谷間がひろがっている。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:01.857165+00:00Z",
       "freq_rank": 14801,
       "frequencies": {
         "aozora": 72
