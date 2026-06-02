@@ -369,7 +369,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:35.664294+00:00Z",
+      "updated_at": "2026-06-02T04:05:04.319148+00:00Z",
       "freq_rank": 23504,
       "frequencies": {
         "aozora": 1868
@@ -421,6 +421,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長い議論はついに意見の相違に帰するという結論で幕を閉じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -1020,7 +1028,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は亡き祖母の顔を脳裏に記するように、古いアルバムの写真を長い間見つめていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
