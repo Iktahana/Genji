@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい工場ではオートメーションが徹底されており、人の手はほとんど介在しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "物流センターのオートメーションにより、ピッキング作業の時間が三分の一に短縮された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "農業のオートメーションを推進するスタートアップが、多額の投資を集めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一九五〇年代の終わり、さまざまな産業分野に散っていった仲間たちの大半は、製造工程のオートメーション化に携わることになった。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:23:08.246913+00:00Z",
       "freq_rank": 27844,
       "frequencies": {
         "aozora": 20
