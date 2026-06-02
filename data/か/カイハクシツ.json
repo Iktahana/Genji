@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "MRI検査では脳の灰白質と白質の体積を比較することで病変を評価する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アルツハイマー病の患者では特定の部位の灰白質が著しく萎縮していることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "脊髄の横断面では、中央に蝶形の灰白質が確認できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際脳の灰白質を養う血管の中の圧力がどれだけ減るのかあるいは増すのかわからないが、ともかくもそんな気がする。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:11:40.578429+00:00Z",
+      "updated_at": "2026-06-02T03:22:45.613051+00:00Z",
       "frequencies": {
         "aozora": 1
       }

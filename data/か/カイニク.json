@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新鮮なホタテの貝肉をバターでソテーして、レモンを絞って食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "貝肉を細かく刻んでパスタソースに混ぜると、旨みが増す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市場で買ってきた貝肉は歯ごたえがよく、刺身でも十分楽しめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ぼくらはおそろしい孤獨の海邊で　大きな貝肉のやうにふるへてゐる。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:11:40.571522+00:00Z",
+      "updated_at": "2026-06-02T03:22:45.606614+00:00Z",
       "frequencies": {
         "aozora": 4
       }
