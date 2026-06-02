@@ -216,7 +216,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:38.137443+00:00Z",
+      "updated_at": "2026-06-02T10:43:51.771289+00:00Z",
       "frequencies": {
         "aozora": 13
       }
@@ -267,6 +267,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "孫子の『孫子の兵法』は現在でも経営学で学ばれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],
@@ -571,7 +579,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "孫子の著作は多くの戦国武将に読まれ、戦略の参考にされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "孫子の兵法では敵の弱点を見つけることが重要だという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "孫子による軍事戦略は現代の経営にも応用できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }

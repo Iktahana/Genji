@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治時代には天皇に危害を加えることは大逆とみなされ、極刑に処された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "幸徳秋水らは大逆の罪に問われ、1910年の事件で処刑された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "封建社会では主君を裏切ることが大逆と位置づけられ、一族もろとも処罰された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまり此事件は実に日本建国以来初めて起つた大逆罪である。",
@@ -238,7 +263,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:40.415757+00:00Z",
+      "updated_at": "2026-06-02T10:47:18.123224+00:00Z",
       "frequencies": {
         "aozora": 133
       }
