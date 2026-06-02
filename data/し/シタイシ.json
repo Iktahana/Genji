@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "製粉所では、下石と上石の間に麦粉が落ちて挽かれていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い下石には、長年の使用による溝が刻まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その下石は非常に重く、動かすのに大人数が必要だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "馬上を住家とした古人の旅を思いながらも、樹下石上に眠らずに、木口新しく、畳障子の備わった室とはいえない屋根の下に、楽々と足を延ばし、椎の葉に盛った飯でなく、御膳つきで食事の出来る贅沢を、山中の気分にそぐわぬと思いながらも、その便利を享楽した。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:30.088393+00:00Z",
+      "updated_at": "2026-06-02T08:25:35.303984+00:00Z",
       "frequencies": {
         "aozora": 4
       }

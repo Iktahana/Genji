@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その思想家の著作は、20世紀の知識人に大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は社会批評で知られた思想家として、多くの講演会に招かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この思想家の理論は今でも大学の哲学科で教えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、多くの思想家たちが、信仰や宗教を説いても、その一歩手前の現世のヴァニティに莫迦正直に触れていないことを不思議がっているだけである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:29.957854+00:00Z",
+      "updated_at": "2026-06-02T08:25:35.294408+00:00Z",
       "freq_rank": 18009,
       "frequencies": {
         "aozora": 695
