@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この居住地区は閑静な環境で、子育て世帯に人気が高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場の建設計画が発表されると、近隣の居住地区の住民が反対運動を起こした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "洪水リスクのある居住地区には、ハザードマップの配布が義務付けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然しこの汚水浄化系統の地区は全市から見れば僅少なもので、大部分の地区、殊に支那人居住地区では、汚水は馬桶から舟に移され、舟で田舎へ運ばれ、肥料として売却されている。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T04:30:40.060942+00:00Z"
     }
   }
 ]

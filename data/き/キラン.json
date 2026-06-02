@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この資料は貴覧のためにご用意させていただきました",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お忙しいところ、貴覧のほどよろしくお願いいたします",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "書類の重要な部分をご一読いただき、貴覧を賜りたく存じます",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空中楼閣的模擬発明よりも奇なるホンモノの発明も亦、無からずして可ならん哉、乃ち、商工省特許局発行の広報より抜粋して次に数例を貴覧に供せんとす。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T04:32:13.490293+00:00Z",
       "frequencies": {
         "aozora": 2
       }

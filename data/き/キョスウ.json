@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数学の授業で虚数の概念を初めて習ったとき、頭が混乱して先生に何度も質問した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "複素数平面では虚数軸と実数軸が直交し、点の位置で複素数を表現できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電気工学では交流回路の解析に虚数が欠かせない道具として使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数学で、実数と虚数とをＸとＹとの軸にとって二次元の量の世界を組み立てる。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T04:30:40.064949+00:00Z",
       "frequencies": {
         "aozora": 8
       }
