@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "リンゴを食いちぎる音がして、隣の部屋から聞こえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "犬はおもちゃを食いちぎって、ボロボロにしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもはパンを食いちぎりながら、走り回っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鋭い歯はありませんけれども何せ力が強うございますから、人間の指の一本や二本は、わけなく食いちぎるそうで、どうも、いやになります。",
@@ -77,7 +102,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:21:53.407247+00:00Z",
       "frequencies": {
         "aozora": 26
       }
