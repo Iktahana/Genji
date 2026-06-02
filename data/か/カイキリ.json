@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "出版社は初版五千部を書店に買い切りで卸し、返品を受け付けない条件で取引した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "農家が丹精込めて育てたキャベツを、近隣のレストランが買い切りで仕入れることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "問屋が倒産した際、在庫品はすべて買い切りで競売にかけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "菖蒲の湯を買い切りにした料簡になって、全身を湯にひたしながら、天然の岩を枕にして大の字に寝ころんでいると、いい心持を通り越して、すこし茫となった気味である。",
@@ -88,7 +113,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "季節限定商品は買い切りのため、注文前に数量をよく確認してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "取次を通さず出版社と直接交渉し、返品なしの買い切りで仕入れることで利幅を確保した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "輸入食品は買い切りなので、売れ残りのリスクを考えて少量から試験的に発注した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -106,21 +156,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "チャーターバスの料金は距離に関係なく一日の買い切りで、グループ旅行には割安だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "動画配信サービスには月額制と買い切りの二種類があり、よく見るなら買い切りの方がお得だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このソフトウェアはサブスクではなく買い切りなので、一度購入すれば追加料金なしで使い続けられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "買取",
+        "買い占め"
+      ],
+      "antonyms": [
+        "レンタル",
+        "リース"
+      ],
+      "related": [
+        "購入",
+        "買う",
+        "販売"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:51:49.971016+00:00Z",
       "frequencies": {
         "aozora": 4
       }

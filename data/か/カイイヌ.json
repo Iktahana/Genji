@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "散歩中に飼い犬がリードを引っ張って、もう少しで転びそうになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長年一緒に暮らした飼い犬が老衰で息を引き取り、家族全員が涙した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "飼い犬が脱走して近所を走り回り、飼い主が謝って回る羽目になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、こうして人間に慣れ過ぎて水を離れた陸上をうろついていると、いつかはまたどこかの飼い犬か以前の黒犬かが来て一口にかみ殺すようなことになるかもしれない。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:40:37.200390+00:00Z",
+      "updated_at": "2026-06-02T02:43:22.154912+00:00Z",
       "freq_rank": 30850,
       "frequencies": {
         "aozora": 46

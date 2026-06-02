@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい規約への改悪により、ユーザーの個人データが広告目的で使われるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "インターフェイスの改悪が相次いだせいで、旧バージョンへの回帰を求める署名運動が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "税制の改悪によって、低所得者層の負担がさらに増した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今年の三月八日は、例年にもまして、日本の婦人が人民の立場で、すべての不幸の源であるさまざまの形のファシズム、労働法改悪、大量のくび切りなどに対して闘ってゆく決心を新らしくする日だと思います。",
@@ -247,7 +272,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:40:37.193945+00:00Z",
+      "updated_at": "2026-06-02T02:43:22.149923+00:00Z",
       "freq_rank": 12957,
       "frequencies": {
         "aozora": 25

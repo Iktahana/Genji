@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の会期は三月から五月までの予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会期の延長が決定された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会期中に重要な法案が可決された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三月は斎藤九郎兵衛が京都から浅野長政等の書を持って来て、いよいよ関東奥羽平定の大軍が東下する、北条征伐に従わるべきである、会期に違ってはなりませぬぞ、というのであった。",
@@ -288,14 +313,26 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "開会期間",
+        "会議期間"
+      ],
+      "antonyms": [
+        "閉会"
+      ],
+      "related": [
+        "国会",
+        "議会",
+        "開会",
+        "閉会",
+        "議事",
+        "委員会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:17.149946+00:00Z",
+      "updated_at": "2026-06-02T02:48:26.057104+00:00Z",
       "freq_rank": 12958,
       "frequencies": {
         "aozora": 55
@@ -332,7 +369,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その団体の会規によると、月一回の例会が開催される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会規の第三条を改正する提案がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新会規に従って運営方針を決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが、巻頭の辞から広告社告の末まで一字も余さず読んで行く中に、硯友社の社則がその頃の青年の集会の会規と何処かに共通点があるのを発見して、朧ろ気ながらも割合に若い人たちの集団であると気が付いて、どうしてこんな巧い事をいえるだろうと益々感服した。",
@@ -590,9 +652,21 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "会則",
+        "規約",
+        "規則",
+        "定款",
+        "細則"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "会員",
+        "組織",
+        "規程",
+        "運営",
+        "総会"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -634,7 +708,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の十七回忌の法要が催される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父の三十回忌を迎えることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "回忌に合わせてお参りに来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのうちの一度は夏目先生のたしか七回忌に雑司が谷の墓地でである。",
@@ -892,9 +991,20 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "命日",
+        "年忌",
+        "祥月命日"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "法要",
+        "追悼",
+        "供養",
+        "仏事",
+        "三回忌",
+        "七回忌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -938,7 +1048,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経済が不況から回帰する兆しが見えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気温の変動は太陽活動に回帰するという仮説がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "野球選手が現役に回帰することを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "繰返し、旋回、謂はば回帰的傾向を、詩はもともと大いに要求してゐる。",
@@ -1197,7 +1332,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "統計分析で年収と学歴の回帰直線を計算した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "回帰モデルを用いて売上予測を行う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "多変量回帰分析の結果が論文に掲載された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -1214,9 +1374,24 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "復帰",
+        "帰還",
+        "循環",
+        "回転"
+      ],
+      "antonyms": [
+        "離脱",
+        "逸脱"
+      ],
+      "related": [
+        "回帰分析",
+        "回帰直線",
+        "統計",
+        "回帰係数",
+        "周期",
+        "循環"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1259,7 +1434,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その映画の怪奇な場面は観客を震え上がらせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怪奇な出来事が村で相次いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怪奇小説は江戸時代から人気があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は興味本位の立場から色々な怪奇をも説いてはいるが、腹の中では当時行われていた各種の迷信を笑っていたのではないかと思われる節もところどころに見える。",
@@ -1518,7 +1718,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の怪奇な振る舞いに周囲は困惑している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その館の地下で怪奇な音がする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怪奇な光が空を照らしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -1535,9 +1760,26 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "奇怪",
+        "怪異",
+        "奇異",
+        "不思議",
+        "神秘",
+        "グロテスク"
+      ],
+      "antonyms": [
+        "平凡",
+        "普通",
+        "正常"
+      ],
+      "related": [
+        "恐怖",
+        "ホラー",
+        "謎",
+        "超自然",
+        "怪談"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1579,7 +1821,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "皆既日食を見るために多くの人が集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "皆既月食は赤くなることで知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "次の皆既日食は数年後に起こる予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "月蝕皆既萩原朔太郎みなそこに魚の哀傷、われに涙のいちじるく、きみはきみとて、ましろき乳房をぬらさむとする。",
@@ -1838,8 +2105,18 @@
         "快気"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "部分食",
+        "金環食"
+      ],
+      "related": [
+        "皆既日食",
+        "皆既月食",
+        "日食",
+        "月食",
+        "天文",
+        "食分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1884,7 +2161,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この寺院の開基は九世紀に遡る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "弘法大師による開基の伝説が残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開基当時の建物はもう残っていない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雲巌寺は開基五百余年の古寺で、境内に後嵯峨天皇の皇子仏国国師の墳墓がある。",
@@ -2143,7 +2445,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市の開基を祝う式典が行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "町の開基から百年を記念する祭りがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開基者の名前は地名として今も伝わっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -2161,7 +2488,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "位相空間の開基を用いて連続性を証明する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その開基から生成される位相は細かい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "開基の性質を確認してから定理を適用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -2178,9 +2530,23 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "創建",
+        "建立",
+        "開山",
+        "開創"
+      ],
+      "antonyms": [
+        "廃寺",
+        "廃絶"
+      ],
+      "related": [
+        "寺院",
+        "宗派",
+        "開祖",
+        "創設",
+        "伽藍"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2221,7 +2587,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "現在、市場の買い気が強まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "消費者の買い気をそぐような経済情報が流れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "買い気が冷え込んで、販売が停滞している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小初は一しきり料理を喰べ終ると、いかにも東京の料理屋らしい洗煉された夏座敷をじろじろ見廻しながら、「あなた、道楽なさったの」と何の聯想からかいきなり貝原に訊いた。",
@@ -2447,9 +2838,21 @@
         "海気",
         "快気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "購買意欲",
+        "買い意欲"
+      ],
+      "antonyms": [
+        "売り気",
+        "売り意欲"
+      ],
+      "related": [
+        "相場",
+        "株式市場",
+        "需要",
+        "市場",
+        "投資"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2487,7 +2890,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝の海気を吸い込むと、塩辛い香りがした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海気を吸って肺をリフレッシュする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "漁師たちは毎日、海気の中で働いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これなる丘と相対して、対うなる、海の面にむらむらと蔓った、鼠色の濃き雲は、彼処一座の山を包んで、まだ霽れやらぬ朝靄にて、もの凄じく空に冲って、焔の連って燃るがごときは、やがて九十度を越えんずる、夏の日を海気につつんで、崖に草なき赤地へ、仄に反映するのである。",
@@ -2746,7 +3174,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海気が地域の気候形成に大きな役割を果たす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海気と陸気の相互作用が季風をもたらす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海気の流れを観測して天気予報を行う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -2764,7 +3217,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この高級な海気の絹は京都で織られたものだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海気の上品な光沢が美しい帯を作っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代、海気は富豪に珍重されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -2781,9 +3259,19 @@
         "買い気",
         "快気"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "潮風",
+        "海風",
+        "潮気"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "海洋",
+        "大気",
+        "塩分",
+        "海辺",
+        "気候"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2826,7 +3314,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "患者の快気を祝うために花を持って訪問した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ようやく快気することができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "快気後は仕事に復帰する予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今朝はちと快気なるに、警察を尋ねて見ばやと、宿を出づれば後より一人｜跟け来る男あり。",
@@ -3084,9 +3597,25 @@
         "買い気",
         "海気"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "回復",
+        "全快",
+        "平癒",
+        "快癒",
+        "完治"
+      ],
+      "antonyms": [
+        "発病",
+        "再発",
+        "悪化"
+      ],
+      "related": [
+        "病気",
+        "治癒",
+        "退院",
+        "快気祝い",
+        "健康"
+      ]
     },
     "meta": {
       "version": "1.0.0",

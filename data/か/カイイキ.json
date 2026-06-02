@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "尖閣諸島周辺の海域では、漁業権をめぐって緊張が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この海域はマグロの好漁場として知られ、各国の漁船が集まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "台風が接近している海域では、すべての船舶に避難勧告が出された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この説によると、その事件の当時、某国が秘密裡に某海域においての実験を行ったのであるが、ゼムリヤ号は不幸にしてその実験現場附近を航行していた。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:40:37.199779+00:00Z",
+      "updated_at": "2026-06-02T02:43:22.154400+00:00Z",
       "freq_rank": 13245,
       "frequencies": {
         "aozora": 30

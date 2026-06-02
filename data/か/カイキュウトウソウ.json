@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マルクスは歴史を階級闘争の連続として捉え、資本家と労働者の対立を分析した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二十世紀初頭のロシアでは激しい階級闘争が革命へと結びついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この映画は都市の貧困層と富裕層の対立を通じ、現代における階級闘争を描いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｓは、私たちのグループの中で、文学的にもであるが、生活的に、全身的に、階級闘争に、もつともピッタリくつついてゐる男である。",
@@ -261,14 +286,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "階級対立"
+      ],
+      "antonyms": [
+        "階級協調"
+      ],
+      "related": [
+        "共産主義",
+        "労働運動",
+        "社会主義"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:51:49.966463+00:00Z"
     }
   }
 ]

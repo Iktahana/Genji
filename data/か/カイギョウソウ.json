@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "書道の講座では楷行草の三体を学ぶのが基本だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は楷行草をすべて習得するまでに三年かかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この碑文は楷行草の違いを明確に示している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "書院風と云つても、まあ、楷行草の行にあたる奴ださうですな」　神谷は、聞いた通りを、相手が建築美術の大家とは識らず弁じ立て、あとでさうと知つて頭を掻いた。",
@@ -53,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "楷書行書草書",
+        "三体"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "楷書",
+        "行書",
+        "草書",
+        "書道",
+        "書体",
+        "漢字"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:51:50.492912+00:00Z"
     }
   }
 ]

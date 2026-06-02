@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゲームの海外版には日本版にはない追加コンテンツが収録されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は日本語学習のために、マンガの海外版と日本語版を見比べながら読んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "映画の海外版では、文化的な違いを考慮していくつかのシーンが差し替えられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それとはまた別に、外務省と連絡をつけて、海外版の写真雑誌を出すことにもなっているので、その方を先きにしてから結婚しようかと、昨夜から迷ってるんだよ。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "国際版",
+        "外国版"
+      ],
+      "antonyms": [
+        "国内版"
+      ],
+      "related": [
+        "版",
+        "出版",
+        "地域版"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:48:47.635901+00:00Z",
       "frequencies": {
         "aozora": 4
       }

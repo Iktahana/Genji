@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地方の小さなラジオ局が開局して三十年、リスナーとともに歩んできた歩みを振り返る特番が放送された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "郵便局が開局する午前九時に合わせ、証明書を取りに来た人の列ができていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しい薬局が商店街に開局し、地元の高齢者から「近くて助かる」と喜ばれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あんだけ部屋があまってんだから、ダメだなんて、いうわけないだろ」５ラジオをつけて、グルッとダイアルを回すたちまちダンスのはじまりだ〈ダンス、ダンス、ダンス〉ビーチボーイズ　ＫＷＴＳの「開局」は、六月二十日に決まった。",
@@ -80,14 +105,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "開設",
+        "放送開始"
+      ],
+      "antonyms": [
+        "閉局",
+        "廃局"
+      ],
+      "related": [
+        "放送",
+        "局",
+        "開始"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:51:49.970732+00:00Z",
       "freq_rank": 30195,
       "frequencies": {
         "aozora": 5

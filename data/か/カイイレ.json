@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "農協が組合員の米を市価より高い価格で買い入れする制度が始まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "図書館が市民から古書の買い入れを行い、地域の文化資産を保存している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "原材料の買い入れコストが上昇したため、製品価格への転嫁が避けられない状況だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "祖父は、若いときに一人でふらりと東京に出て来て半分政治家、半分商人のような何だか危かしいことをやって、まあ、紳商とでもいうのでしょうか、それでも、どうやら成功して、中年で牛込のこの屋敷を買い入れ、落ちつくことが出来たようです。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:40:37.200875+00:00Z",
+      "updated_at": "2026-06-02T02:43:22.155562+00:00Z",
       "freq_rank": 25584,
       "frequencies": {
         "aozora": 30

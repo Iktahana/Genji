@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "改革派は急速な変化を支持している",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "改革派と保守派の論争が続いている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "改革派の議員たちが新しい法案を提出した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然れども本黨の改革派なるものは、寧ろ大隈總理と其の見解を異にするものゝ如し。",
@@ -101,14 +126,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "革新派",
+        "進歩派"
+      ],
+      "antonyms": [
+        "保守派",
+        "守旧派"
+      ],
+      "related": [
+        "改革",
+        "派閥",
+        "政党",
+        "政治",
+        "進歩主義"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:45:54.000145+00:00Z",
       "frequencies": {
         "aozora": 11
       }

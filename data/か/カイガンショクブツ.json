@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その海岸植物は塩分に強い性質を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "砂浜の海岸植物は風に吹かれても倒れない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域で見られる海岸植物の多くは絶滅危惧種だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "３　玉菜が、そのむかし海岸植物として、潮の香のむせるような断崖に育ち、終日白馬のように躍り狂う海を眺めて暮していたのは、真っ直に土におろした根の深さと、肉の厚い葉の強健さとでも知られることだ。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "海浜植物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "塩生植物",
+        "砂丘植物",
+        "植生",
+        "ハマヒルガオ",
+        "海岸",
+        "砂浜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:48:26.054273+00:00Z"
     }
   }
 ]
