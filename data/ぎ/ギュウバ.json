@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の農家は牛馬を大切に飼育していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛馬による運搬は現代では珍しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛馬の力で田畑を耕していた時代がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "草や水が牛馬に変わる。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T05:53:24.619211+00:00Z",
       "frequencies": {
         "aozora": 431
       }

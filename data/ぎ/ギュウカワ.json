@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この財布は本物の牛革を使っているので、使うほどに味が出てくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父から譲り受けた牛革のベルトは、何十年経っても丈夫なままだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "牛革のソファは猫に引っかかれると傷がつきやすいので、ペットがいる家には向かない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "象の頭を持った唐獅子の面白い絵の付いた薄い牛革の枕と快適な畳の上で横になりました。",
@@ -64,7 +89,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T05:53:47.784102+00:00Z",
       "frequencies": {
         "aozora": 3
       }
