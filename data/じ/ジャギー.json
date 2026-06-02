@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "低解像度の画像を大きく拡大するとジャギーが目立ち、輪郭がギザギザになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "デザイナーはアンチエイリアス処理を施してジャギーを軽減し、文字を滑らかに表示させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古いゲームのスクリーンショットをそのまま引き伸ばすとジャギーが出るため、補間処理が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:55.193962+00:00Z"
+      "updated_at": "2026-06-02T09:43:31.034636+00:00Z"
     }
   }
 ]
