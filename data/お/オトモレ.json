@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "電車の中で隣の人のイヤホンから音漏れがひどく、周囲の乗客が迷惑そうに顔をしかめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "安価なイヤホンは音漏れが激しいので、図書館では使用を控えるようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しいノイズキャンセリングイヤホンは音漏れがほとんどなく、隣に人が座っても気にならないと好評だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.921887+00:00Z"
+      "updated_at": "2026-06-02T00:49:09.098704+00:00Z"
     }
   }
 ]

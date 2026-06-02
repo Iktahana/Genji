@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "受賞者はオナーとして壇上に上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "レオナードの『下ナイジァー｜およびその諸民族』に、アジュアニなる蛇、玉を体内に持ち、吐き出して森中に置き、その光で鼠蛙等を引き寄せ食い、さてその玉を呑み納む。",
@@ -252,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.062684+00:00Z",
+      "updated_at": "2026-06-02T00:45:40.119645+00:00Z",
       "frequencies": {
         "aozora": 1
       }

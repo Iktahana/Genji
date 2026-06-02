@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "童話の鬼ヶ島は、昔話の中で桃太郎が向かう場所だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "観光客たちはおにがしまと呼ばれる島を訪ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鬼ヶ島伝説は日本の民話の中でも有名だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すなはち私は、あの鬼ヶ島の鬼といふものに、或る種の憎むべき性格を附與してやらうと思つてゐた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.083937+00:00Z",
+      "updated_at": "2026-06-02T00:46:35.523388+00:00Z",
       "frequencies": {
         "aozora": 46
       }
