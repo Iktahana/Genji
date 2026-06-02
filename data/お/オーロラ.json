@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "真冬のアイスランドで、空いっぱいに広がるオーロラを初めて目にして言葉を失った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「あのカーテンみたいな緑の光、オーロラって本当にあんなにきれいなの？」と彼女は写真を見て目を輝かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "太陽フレアの影響で、北海道でもオーロラが観測されたというニュースが流れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その氷山の嶋嶋から、幻像のやうなオーロラを見て、著者はあこがれ、惱み、悦び、悲しみ、且つ自ら怒りつつ、空しく潮流のままに漂泊して來た。",
@@ -253,14 +278,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "極光",
+        "北極光",
+        "南極光"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "太陽風",
+        "磁場",
+        "北極",
+        "南極",
+        "大気現象",
+        "夜空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:40:18.800788+00:00Z",
       "freq_rank": 14404,
       "frequencies": {
         "aozora": 70

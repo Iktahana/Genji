@@ -31,21 +31,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ネットワーク研究の授業でＯＳＩ参照モデルの七層構造を学び、通信プロトコルの仕組みがようやく理解できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "トラブルシューティングの際にはＯＳＩモデルに沿って物理層から順番に確認していくのが基本だと先輩エンジニアに教わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ＯＳＩの第四層、トランスポート層で何かエラーが出ているみたいです」とチームのエンジニアが報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "開放型システム間相互接続"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ネットワーク",
+        "プロトコル",
+        "TCP/IP",
+        "通信規格",
+        "レイヤー",
+        "インターネット"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:40:18.803050+00:00Z"
     }
   }
 ]

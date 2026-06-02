@@ -31,21 +31,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ネットバンキングにログインすると、登録したスマートフォンにＯＴＰが届き、それを入力して認証を完了させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ＯＴＰは一度使ったら無効になるから、毎回新しいコードを確認してください」とサポート担当者が説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "フィッシング詐欺の手口が巧妙化しており、ＯＴＰを他人に教えてしまう被害が後を絶たない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ワンタイムパスワード",
+        "使い捨てパスワード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "認証",
+        "セキュリティ",
+        "二段階認証",
+        "パスワード",
+        "ログイン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:40:18.806836+00:00Z"
     }
   }
 ]

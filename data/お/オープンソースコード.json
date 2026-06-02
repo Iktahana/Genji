@@ -31,21 +31,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "GitHubにはたくさんのオープンソースコードが公開されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このアプリはオープンソースコードの上に構築されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オープンソースコードを修正して自社製品に組み込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公開ソースコード"
+      ],
+      "antonyms": [
+        "プロプライエタリコード"
+      ],
+      "related": [
+        "ソースコード",
+        "プログラム",
+        "GitHub",
+        "ライセンス",
+        "オープンソース",
+        "開発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T02:37:36.966590+00:00Z"
     }
   }
 ]
