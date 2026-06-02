@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "太平洋の深海には頂上が平坦に削られたギヨーが数多く分布している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "海底地形の調査で、研究者はかつて海面上にあったと考えられるギヨーを発見した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ギヨーは波浪によって山頂が削られた後、地殻変動によって海中に沈んだ火山と考えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "拿翁の侵略に遭ひて国亡び、家破れんとするに当りて、従容として、拿翁の玉座に近づき、彼をして言ふ可からざる敬畏の念を抱かしめたるギヨーテが、戦陣に臨みて雑兵の一人となり、尸を原頭に暴らさゞるの故を以て、国民的ならずと罵るものあらば、吾人は其の愚を笑はずんばあらざるなり。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:12:55.194483+00:00Z",
       "frequencies": {
         "aozora": 4
       }

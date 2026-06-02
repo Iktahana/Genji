@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語の組版では、行頭に句読点や閉じ括弧を置いてはならないという禁則処理がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "段落の行頭を一文字分字下げするかどうか、デザイナーと相談して統一ルールを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "行頭に番号を振って箇条書き形式にすると、内容が整理されて格段に見やすくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "慎で命を全ふすべしと仰せ出されければ、正行頭を地につけて、兎角の勅答に及ばず」　場所は古来伝称の吉野山である。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:06:14.125989+00:00Z",
       "frequencies": {
         "aozora": 4
       }

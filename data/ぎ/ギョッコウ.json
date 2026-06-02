@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生の玉稿を拝読し、その深い洞察に改めて感銘を受けました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「玉稿をお送りいただき、誠にありがとうございます。早速拝読いたします」と編集者はメールに書いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "著名な作家の玉稿が届くのを、編集長は首を長くして待っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御多忙中を大変恐縮に存じますが、本紙新年号文芸面のために左の玉稿たまわりたく、よろしくお願いいたします。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:09:16.991072+00:00Z",
       "frequencies": {
         "aozora": 16
       }

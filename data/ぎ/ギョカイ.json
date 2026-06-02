@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新鮮な魚介が並ぶ市場の朝は活気に満ちている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このレストランは上質な魚介にこだわっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "沿岸地域では魚介が今日の食卓の中心だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "盆景春夏すぎて手は琥珀、瞳は水盤にぬれ、石はらんすゐ、いちいちに愁ひをくんず、みよ山水のふかまに、ほそき滝ながれ、滝ながれ、ひややかに魚介はしづむ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:05:28.926692+00:00Z",
       "freq_rank": 39003,
       "frequencies": {
         "aozora": 55

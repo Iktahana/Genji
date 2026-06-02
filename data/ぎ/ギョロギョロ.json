@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "猫は暗闇の中で目をぎょろぎょろさせながら、物音のする方向を追い続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新入生は教室に入るなりぎょろぎょろと辺りを見回して、空いている席を探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "見知らぬ男が店内をぎょろぎょろしているのを見て、店員は警戒して様子を窺った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お清はお源を見て「お源さん大変顔色が悪いね、どうか仕たの」「昨日から少し風邪を引たもんですから……」「用心なさいよ、それは不可い」　お徳は「お早う」と口早に挨拶したきり何も言わない、そしてお源が炭俵の並べてないのに気が着き顔色を変えて眼をぎょろぎょろさしているのを見て、にやり笑った。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:12:55.190629+00:00Z",
       "frequencies": {
         "aozora": 42
       }

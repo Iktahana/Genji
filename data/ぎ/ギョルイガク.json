@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大学院で魚類学の研究に従事する学生は海洋生物に情熱を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "魚類学の進展により人類と海との関係もより深まってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この作品だけを見ながら考へるときは福田氏は鯉を描く場合の魚類学の大家であると共に、この『漣』を描くことに於いて物理学的立場からみた波紋の研究者としても、大家のやうに思へるのである。",
@@ -84,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T06:09:22.085043+00:00Z",
       "frequencies": {
         "aozora": 5
       }
