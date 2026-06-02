@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この家では男手がないため、隣人たちが手伝ってくれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "男手で修復された古い蔵は、丁寧な字で銘が刻まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その書は男手による堂々とした筆跡が特徴的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女だけの家では男手の欲しい出来事がしばしばあった。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.191035+00:00Z",
+      "updated_at": "2026-06-02T00:52:34.476237+00:00Z",
       "frequencies": {
         "aozora": 71
       }
