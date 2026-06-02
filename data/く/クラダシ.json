@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の蔵出し新酒は、評判が高い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い蔵から蔵出しされた貴重な文献が発見された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "蔵出しされたばかりの味噌は、良い香りがしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "条件はよかった、半年ばかりのうちにかなり纒まった金を握ったが、とたんに番頭から呼ばれて、抜商いの事実をつきつけられた、蔵出し、売掛、仕切の三帳簿を巧みにごまかしたもので、彼にはちょっと理解のつかないほど複雑なからくりになっていた。",
@@ -79,7 +104,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:47.922723+00:00Z",
+      "updated_at": "2026-06-02T07:02:08.633062+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -39,6 +39,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "このフォームのバリデーションはクライアントスクリプトで処理しているため、サーバーへの通信なしに即座に入力チェックが行われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティ上の理由から、クライアントスクリプトに機密情報を埋め込まないよう設計した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -54,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.988924+00:00Z"
+      "updated_at": "2026-06-02T07:02:23.818066+00:00Z"
     }
   }
 ]
