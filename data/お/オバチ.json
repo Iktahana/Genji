@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春になると雄蜂が蜂の巣から飛び出します。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雄蜂はメスの蜂と違い、蜜を集めません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この季節、庭にたくさんの雄蜂が飛んでいます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Smithsonian Institution の McIndoo 博士は、嗅覚の鋭敏なので名高い人だが、いつだったか、五、六ヶ月の実験の後、同じ巣に棲っている女王蜂と、雄蜂と、働蜂とをそれぞれ嗅ぎ分けることが出来た。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.277543+00:00Z",
+      "updated_at": "2026-06-02T00:58:13.344307+00:00Z",
       "frequencies": {
         "aozora": 22
       }

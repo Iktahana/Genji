@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "狐は甘い香りのする木の実を置いて小鳥を誘き、巣から出てきたところをさっと捕らえた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "敵将は偽の撤退を演じて城兵を誘き、野戦に引き込んでから三方から包囲した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い物語では魔女が美しい歌声で旅人を誘き、深い森の奥へと引き込む場面が繰り返し登場する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此は岩戸神楽と同様、髯籠だけでは不安心だといふので、神を誘く為に柱を廻つて踊つて見せるので、諾冉二尊の天の御柱を廻られた話も、或は茲に意味があるのであらう。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.338922+00:00Z",
+      "updated_at": "2026-06-02T00:59:13.677769+00:00Z",
       "frequencies": {
         "aozora": 55
       }

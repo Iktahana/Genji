@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "桶職人は漏れを防ぐために竹製の帯金を桶の外周にはめ込み、木材をしっかりと締め固めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "博物館に展示された江戸時代の酒樽には、鉄製の帯金が五本巻かれており、当時の技術の高さを示していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "錆びた帯金を取り除いて新品に替えると、古い木箱が見違えるように丈夫になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "或紳士の拝まれたるは天鵞絨の洋服｜裳長く着玉いて駄鳥の羽宝冠に鮮なりしに、某貴族の見られしは白｜襟を召て錦の御帯金色赫奕たりしとかや。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.336111+00:00Z",
+      "updated_at": "2026-06-02T00:59:13.677107+00:00Z",
       "frequencies": {
         "aozora": 6
       }
