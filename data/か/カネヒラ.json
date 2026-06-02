@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金平はコイ科に属する小型の淡水魚だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "水族館の淡水魚コーナーで金平の群れが優雅に泳いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金平は日本全国の河川の砂利底に生息している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小さい太郎は、いちばんはじめに、いちばん近くの、くわ畑の中の金平ちゃんの家へいきました。",
@@ -246,7 +271,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:27.174322+00:00Z",
+      "updated_at": "2026-06-02T03:49:06.355822+00:00Z",
       "frequencies": {
         "aozora": 97
       }

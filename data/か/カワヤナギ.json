@@ -323,7 +323,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "川柳の細い枝が風にたなびき、水面に緑の影を落としている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "堤防沿いに川柳が植えられ、春になると若葉が青空に鮮やかに映える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "川柳は根が強く張るため、護岸の土留めとして昔から重宝されてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -388,7 +413,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:29.619394+00:00Z",
+      "updated_at": "2026-06-02T03:51:41.383874+00:00Z",
       "freq_rank": 15823,
       "frequencies": {
         "aozora": 488

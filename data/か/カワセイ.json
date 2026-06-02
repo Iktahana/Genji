@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この財布は革製で、使い込むほどに深い味わいが出てくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "革製のソファは高級感があり、長く使えるのが最大の魅力だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "革製のベルトが切れてしまったので、近くの修理店に持ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは正面の壁にかかっている一本の短かい革製の鞭で、初め私は壁の汚染かと思っていたものだった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:29.502275+00:00Z",
+      "updated_at": "2026-06-02T03:51:41.379308+00:00Z",
       "frequencies": {
         "aozora": 25
       }
