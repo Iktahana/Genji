@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "職人は何日間も織機を操りながら、美しい帯を織り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "独特の質感を持つ生地を織り上げるには、高い技術が必要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "伝統的な柄を一から織り上げるこの織物は、一枚に数ヶ月を要する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分が材料を作り、自分が意匠をこらして、自分の手で織り上げる、それはどんなに美しい価値のある仕事でありましやうか。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:33:59.124436+00:00Z",
       "frequencies": {
         "aozora": 21
       }
