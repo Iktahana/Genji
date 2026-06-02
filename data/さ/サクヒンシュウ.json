@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その画家の作品集を手に入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しい短編小説の作品集が出版された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "作品集から彼の創作の軌跡が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんど改造社から、井伏さんの作品集が出版せられるさうだが、それに就いて何か書け、と改造社のＭ君に言はれて、私は、たいへん困つたのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:19.390828+00:00Z",
+      "updated_at": "2026-06-02T07:59:24.579777+00:00Z",
       "frequencies": {
         "aozora": 91
       }

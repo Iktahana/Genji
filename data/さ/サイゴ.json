@@ -313,7 +313,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:16.820273+00:00Z",
+      "updated_at": "2026-06-02T07:53:53.355421+00:00Z",
       "freq_rank": 10997,
       "frequencies": {
         "aozora": 1201
@@ -720,7 +720,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の最後を看取るため、家族全員が病院に駆けつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は穏やかな最後を迎えたと、担当医は遺族に静かに伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「せめて苦しまない最後であってほしい」と母は手を握りながら祈り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }

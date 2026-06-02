@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨年来、景気が悪化し続けている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨年来の課題に今ようやく対処できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨年来、このような事態は初めてだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一昨年来急に世界的に有名になってから新聞雑誌記者は勿論、画家彫刻家までが彼の門に押しよせて、肖像を描かせろ胸像を作らしてくれとせがむ。",
@@ -237,7 +262,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:19.381693+00:00Z",
+      "updated_at": "2026-06-02T07:59:24.576373+00:00Z",
       "freq_rank": 27822,
       "frequencies": {
         "aozora": 36

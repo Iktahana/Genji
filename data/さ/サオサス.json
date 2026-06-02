@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "和船を操る老人は巧みに棹さしながら進んでいった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "浅い川で子どもたちが竹で棹さす練習をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ゴンドラの船頭は優雅に棹さして観光客を案内した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山の井に棹さす百合の雫かな　やがて下山いたし候へば、麓の流に棲むものの、露も水も珍しからぬを、花の雫をなつかしむや、沢蟹さら／＼と芦を分けて、三つ四つならず道ばたに出迎へ候。",
@@ -267,7 +292,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:18.498189+00:00Z",
+      "updated_at": "2026-06-02T07:56:50.867550+00:00Z",
       "frequencies": {
         "aozora": 86
       }

@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "困難に際する彼の冷静な判断力は、チーム全員から高く評価されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしこのような訓練が実際上現在のこの東京市民にいかに困難であろうかという事は、試みにラッシュアワーの電車の乗降に際する現象を注意して見ていても直ちに理解されるであろう。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:17.179724+00:00Z",
+      "updated_at": "2026-06-02T07:53:53.359455+00:00Z",
       "frequencies": {
         "aozora": 1318
       }
