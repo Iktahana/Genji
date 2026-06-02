@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パイロットは離陸前にエンジンの回転計を確認し、規定の回転数に達していることを確かめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バイクの回転計の針が8000回転を超えたとき、警告ランプが赤く光り始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場の機械に回転計を取り付けて、異常な速度変化を早期に検知できるようにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三個の発動機は狂気のような大きなうなりを立て、回転計の指針は最大の速度を示していた。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:08:18.860210+00:00Z",
+      "updated_at": "2026-06-02T03:20:25.785662+00:00Z",
       "frequencies": {
         "aozora": 4
       }

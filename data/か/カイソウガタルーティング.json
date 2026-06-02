@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広域ネットワークに階層型ルーティングを適用することで、各地域のルーターが担うルーティングテーブルのサイズを大幅に削減できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "階層型ルーティングでは上位ルーターが全体の経路を把握し、下位ルーターは自分のエリア内だけを管理する役割分担になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "インターネットの根幹を支えるBGPは、自律システム単位で経路を集約する階層型ルーティングの考え方に基づいている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -47,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:04:34.577108+00:00Z"
+      "updated_at": "2026-06-02T03:15:55.608443+00:00Z"
     }
   }
 ]

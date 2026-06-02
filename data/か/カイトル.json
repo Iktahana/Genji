@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社が競合他社のプロジェクトを買い取ることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "親友が私の不要な物を全部買い取ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新オーナーはこの店舗を買い取ってリノベーションする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただその、早附木一つ買い取るのに、半時ばかり経った仔細が知れて、疑はさらりとなくなったばかりであるから、気の毒らしい、と自分で思うほど一向な暢気。",
@@ -295,7 +320,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:10:53.423717+00:00Z",
+      "updated_at": "2026-06-02T03:19:50.365817+00:00Z",
       "freq_rank": 26793,
       "frequencies": {
         "aozora": 312

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "火災の際は階段室を通って速やかに避難してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このマンションの階段室は北側に位置し、日中でも薄暗い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "設計士は階段室に採光窓を設けることで、明るく安全な動線を確保した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すぐ突きあたりの大きな室は、たしか階段室らしく、射し込む稲光りが見せたのでした。",
@@ -127,7 +152,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:06:16.405895+00:00Z",
+      "updated_at": "2026-06-02T03:17:56.195503+00:00Z",
       "frequencies": {
         "aozora": 9
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数学の授業で、直角三角形を斜辺を軸に回して得られる回転体の体積を積分で求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "3DCADで半円を回転させ、球形の回転体を数秒でモデリングすることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "陶芸家はろくろの上の土を丁寧に成形して、きれいな回転体の壺を作り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "天体の回転体系を測定し定めることが出来るのは、人間だけであり、しかも人間の主観の中の理性がそれを知ることが出来るのである。",
@@ -69,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:08:18.863255+00:00Z",
+      "updated_at": "2026-06-02T03:20:25.789114+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このストレージシステムは階層記憶制御によってアクセス頻度の高いデータをキャッシュに保持し、低頻度データは自動でテープへ移動させる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "階層記憶制御を導入してから、高速ストレージの消費量が三割以上削減され、運用コストが目に見えて下がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "技術仕様書には「階層記憶制御により最大応答時間を五ミリ秒以内に維持する」と明記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -47,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:04:34.578242+00:00Z"
+      "updated_at": "2026-06-02T03:15:55.609485+00:00Z"
     }
   }
 ]

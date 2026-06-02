@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "3Dグラフィックスのプログラムで物体を回転させるために回転行列を適用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この座標変換、回転行列を使えばもっとシンプルに書けるよ」と先輩エンジニアが指摘した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ロボットアームの制御プログラムに誤った回転行列を渡してしまい、関節が逆方向に動いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -50,7 +75,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:08:18.859977+00:00Z"
+      "updated_at": "2026-06-02T03:20:25.785325+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アンケート調査の回答者は500名を超えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今回の回答者の平均年齢は35歳です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "回答者の中には有識者も含まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "要するに、山村の中学教師が東京の私立学校、明星学園の教師に転じ、「子ども電話相談室」というラジオ番組の名物回答者となる経緯の一切を知りませんでした。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:10:53.416355+00:00Z",
+      "updated_at": "2026-06-02T03:19:50.360841+00:00Z",
       "frequencies": {
         "aozora": 8
       }

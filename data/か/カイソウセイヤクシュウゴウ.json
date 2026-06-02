@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ソルバーは階層制約集合に従って上位の必須制約から順に充足し、余裕があれば下位の優先度制約も満たすよう探索を進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スケジューリング問題の定式化において、締め切りを絶対制約、休暇希望をソフト制約とする階層制約集合を設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "階層制約集合を導入することで、完全な解が存在しない場合でも上位制約を守りつつ最善の近似解を返せるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -47,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:04:34.579939+00:00Z"
+      "updated_at": "2026-06-02T03:15:55.610759+00:00Z"
     }
   }
 ]

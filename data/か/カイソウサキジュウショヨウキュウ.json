@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "転居通知を出し忘れた顧客のために、郵便局へ回送先住所要求を提出して新住所への転送手続きを取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "システムログに回送先住所要求のエラーが記録されており、宛先不明のメッセージが大量に滞留していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プロトコル仕様書によれば、回送先住所要求は送信元が配信不能を検知した時点で自動的に発行される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -47,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:04:34.579068+00:00Z"
+      "updated_at": "2026-06-02T03:15:55.610244+00:00Z"
     }
   }
 ]
