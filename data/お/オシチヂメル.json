@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "荷物が多くて、無理やり旅行カバンに衣類を押し縮めて入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ぎゅうぎゅうに押し縮められた新聞紙が、古紙回収の袋から溢れ出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "柔らかいクッションを手のひらで押し縮めて、厚みを半分にしてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:17.963944+00:00Z",
+      "updated_at": "2026-06-02T00:21:06.247046+00:00Z",
       "frequencies": {
         "aozora": 6
       }

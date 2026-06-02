@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このたびは、伯父御にお祝いをいただき感謝しております。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "伯父御の適切な助言のおかげで、この事業は成功しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "久しぶりに伯父御にお会いして、お元気そうな顔を見て安心した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "縁日あるきの若人たち、愼まずばあるべからず、と唐の伯父御が申さるゝ。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.119430+00:00Z"
+      "updated_at": "2026-06-02T00:22:27.970528+00:00Z"
     }
   }
 ]
