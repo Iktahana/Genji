@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "緊急の用件が入ったため、商談を途中で切り上げて会社に戻った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「これは緊急だ、すぐに病院へ連れて行ってくれ！」と彼は叫んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "上司から緊急の電話があり、深夜にもかかわらず書類を急いで準備した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本文学にしろ外国文学にしろ、その作品の「流れ」の諦視、「持続ぶり」「終始ぶり」の諦視、さてはフォルムに就いての理念、その涵養が今日我々の緊急事である。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T04:53:38.603282+00:00Z",
       "freq_rank": 2526,
       "frequencies": {
         "aozora": 339
