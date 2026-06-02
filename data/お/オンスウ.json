@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語の音数は50音が基本となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この詩の各行は同じ音数で統一されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "言語学の授業で音数の概念について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "五七五七七という音数律そのままのものは勿論現在では日本特有のものであろうが、この詩形の遠い先祖となるべきものが必ず何処かにあったであろうと想像し、その同じ先祖から出た他の家族が何処かにありはしなかったかと想像するのはそれほど唐突な空想とは思われない。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:52:36.628381+00:00Z",
       "frequencies": {
         "aozora": 15
       }

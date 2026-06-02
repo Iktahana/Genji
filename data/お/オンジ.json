@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かな文字は音字の一種であり、一文字が一つの音節を表す表音文字体系に属する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古代の碑文を解読する際、音字と意字を区別することが重要な手がかりになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもはまず音字としてひらがなを覚え、その後漢字の意味と形を学んでいく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ独りこの間にあって、昔から一貫した生命を有するのは、三十一音字の短歌である。",
@@ -188,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:52:41.013492+00:00Z",
       "frequencies": {
         "aozora": 8
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山奥の村に移り住んでから、旧友への音信が途絶えがちになってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "戦時中、父からの音信が届くたびに家族全員が食卓に集まって手紙を読み上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "海外赴任中の妹から音信が届き、現地での生活が順調だと知って安心した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども、その五年のあいだに、彼と私とは、しばしば音信を交していた。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T01:52:41.011889+00:00Z",
       "freq_rank": 30809,
       "frequencies": {
         "aozora": 561
