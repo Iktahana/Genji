@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その男は溺れ死にだったと医者は判定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の溺れ死には事故だったのか自殺だったのか不明だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "溺れ死にの報告が増えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "美くしい身振の、身も世もないといふやうな、迫つた三味に連れられて、チヨボの佐和利に乗つて、泣いて泣いて溺れ死にでもするやうにおかるは泣いてゐる。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.655588+00:00Z",
+      "updated_at": "2026-06-02T01:10:40.113941+00:00Z",
       "frequencies": {
         "aozora": 2
       }

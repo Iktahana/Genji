@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "グラフィックのレンダリング処理を高速化するため、オフスクリーンメモリを効率的に活用するよう設計を変更した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このゲームエンジンはオフスクリーンメモリにデータをキャッシュして描画の遅延を減らしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "オフスクリーンメモリの管理が不適切だと、画面のちらつきが発生することがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +70,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.449146+00:00Z"
+      "updated_at": "2026-06-02T01:04:59.398627+00:00Z"
     }
   }
 ]

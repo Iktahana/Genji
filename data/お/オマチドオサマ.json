@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お待ちどおさま。これが注文の品です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長らくお待ちどおさま。完成いたしました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "お待ちどおさまいたしました。お疲れ様です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この愚僧は、たいへんおしゃれで、喫茶店へ行く途中、ふっと、指輪をはめて出るのを忘れて来たことに気がつき、躊躇なくくるりと廻れ右して家へ引きかえし、そうしてきちんと指輪をはめて、出直し、やあ、お待ちどおさま、と澄ましていました。",
@@ -238,7 +263,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:19.708412+00:00Z"
+      "updated_at": "2026-06-02T01:11:45.830500+00:00Z"
     }
   }
 ]
