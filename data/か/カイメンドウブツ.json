@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海綿動物は水中で微粒子を食べて生活する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "サンゴとは異なり海綿動物は非常に単純な構造である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "海綿動物の祖先は極めて古い時代に出現したと考えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "五　光る腔腸動物　光る腔腸動物の前に、光る海綿動物のことを話さなければならない。",
@@ -67,7 +92,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:18:15.432921+00:00Z",
+      "updated_at": "2026-06-02T03:30:07.391331+00:00Z",
       "frequencies": {
         "aozora": 2
       }
