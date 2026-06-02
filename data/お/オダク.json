@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場の排水によって川の水が汚濁し、魚が住めなくなってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "街の空気が汚濁しており、喉が痛くなるほどだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "人々の心の汚濁を感じて、彼は都会を離れることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "交際よ、汝陰鬱なる汚濁の許容よ、更めてわれを目覚ますことなかれ！",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.420677+00:00Z",
+      "updated_at": "2026-06-02T00:28:50.762938+00:00Z",
       "freq_rank": 27222,
       "frequencies": {
         "aozora": 67

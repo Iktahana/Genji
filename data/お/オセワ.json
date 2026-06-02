@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "田中先生にはこれまで大変なお世話をしていただいている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "引っ越しの際に、ご近所さんにお世話をしてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖父の介護でお世話をするために、仕事を減らした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いろいろお世話になりました　　いろいろお世話になりましたねえ　　いろいろお世話になりましたさよなら、さよなら！",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:18.223453+00:00Z",
+      "updated_at": "2026-06-02T00:29:20.961478+00:00Z",
       "freq_rank": 3065,
       "frequencies": {
         "aozora": 1858
