@@ -61,14 +61,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "システムクラッシュ",
+        "障害",
+        "システム停止",
+        "システムトラブル",
+        "システム故障"
+      ],
+      "antonyms": [
+        "正常稼働",
+        "システム稼働"
+      ],
+      "related": [
+        "障害復旧",
+        "可用性",
+        "フォールトトレランス",
+        "冗長化",
+        "バックアップ",
+        "BCP"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T12:22:48.591538+00:00Z"
+      "updated_at": "2026-06-03T11:55:43.039044+00:00Z"
     }
   }
 ]
