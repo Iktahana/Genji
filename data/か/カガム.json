@@ -341,6 +341,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "天井の低い部屋を歩く時、彼は屈んで移動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -350,13 +358,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "伸びる",
+        "立つ"
+      ],
+      "related": [
+        "姿勢",
+        "動作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.470594+00:00Z",
+      "updated_at": "2026-06-02T03:39:24.402932+00:00Z",
       "frequencies": {
         "aozora": 463
       }

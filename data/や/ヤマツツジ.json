@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春が来ると山躑躅の鮮やかな花が咲き始める",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "庭に植えた山躑躅が今年も見事に開花した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "山躑躅にはアルカロイドが含まれているので食用にはできない",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山躑躅こはやまつつじ丘丘の、　　栗また楢にまじはりて、　　熱き日ざしに咲きほこる。",
@@ -142,7 +167,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:40:34.231226+00:00Z",
+      "updated_at": "2026-06-02T13:42:55.962733+00:00Z",
       "frequencies": {
         "aozora": 12
       }

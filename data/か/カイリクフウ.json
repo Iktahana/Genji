@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海陸風の影響で、沿岸部では昼と夜で風向きがはっきりと変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "気象学の授業で海陸風の発生メカニズムについて図を使いながら説明を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "港町の漁師たちは海陸風のリズムを体で覚えており、出漁のタイミングを判断していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高知は毎時観測の材料がなくて調べなかったが、広島や大阪では、前記の地方的季節風が比較的弱くて、その代りに海陸風がかなり著しく発達している、そうして夕方から夜へかけては前者が後者と相殺する、そのために夕凪がかなりはっきり現れる、そうして海陸の位置分布の関係でこの凪の時間が異常に引延ばされるらしい。",
@@ -147,7 +172,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:20:10.194195+00:00Z",
+      "updated_at": "2026-06-02T03:34:12.758808+00:00Z",
       "frequencies": {
         "aozora": 13
       }

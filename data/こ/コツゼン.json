@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "目撃者によると、男は忽然と路地の暗闇に消えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -297,14 +305,25 @@
       "homophones": [
         "兀然"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "突然",
+        "俄か",
+        "不意",
+        "出し抜け"
+      ],
+      "antonyms": [
+        "徐々",
+        "ゆっくり"
+      ],
+      "related": [
+        "出現",
+        "消失"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.743513+00:00Z",
+      "updated_at": "2026-06-02T14:39:30.265996+00:00Z",
       "frequencies": {
         "aozora": 882
       }
@@ -541,9 +560,16 @@
       "homophones": [
         "忽然"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ぼんやり",
+        "ぽつんと"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "静寂",
+        "孤独",
+        "立ち尽くす"
+      ]
     },
     "meta": {
       "version": "1.0.0",

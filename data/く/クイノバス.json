@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その一缶のスープで三日間食い延ばした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "限られた食糧を工夫して食い延ばしながら生き延びた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "少ない穀物の備蓄で冬を食い延ばす必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ニギリゴメ　昔は穀物を食い延ばす方法として、毎日炊事に際して一握みずつの飯米を別にのけておく風習があったという（山口県｜阿武郡）。",
@@ -45,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "食いつなぐ",
+        "凌ぐ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "食糧",
+        "節約",
+        "飢え",
+        "維持",
+        "生活",
+        "備蓄"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:23:07.050313+00:00Z",
       "frequencies": {
         "aozora": 2
       }

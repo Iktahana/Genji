@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の浮世草子を正確に読み解くには、近世日本語の知識が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は大学院で近世日本語の音韻変化を専攻し、五年がかりで博士論文を書き上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "近世日本語では「じ」と「ぢ」の発音がまだ区別されていたとされ、現代語との違いが興味深い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "近世語"
+      ],
+      "antonyms": [
+        "古代日本語",
+        "現代日本語"
+      ],
+      "related": [
+        "江戸時代",
+        "国語史",
+        "言語変化",
+        "方言",
+        "文語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.140296+00:00Z"
+      "updated_at": "2026-06-02T11:39:05.202409+00:00Z"
     }
   }
 ]

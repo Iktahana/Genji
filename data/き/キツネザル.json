@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園で狐猿の仕草を観察していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "マダガスカルに生息する狐猿は絶滅危惧種だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "狐猿の大きな目と細い尾が特徴的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（明治四十一年一月二十六日『東京朝日新聞』）　　　　　　　　　六十一　　　　　　猿と蛇　いろいろの動物について試験してみると、蛇を怖れるは猿猴の類に限る、但しその中で狐猿という一種のみは蛇をしかけても平気だという。",
@@ -103,14 +128,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "レムール"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "霊長類",
+        "マダガスカル",
+        "キツネザル科",
+        "哺乳類",
+        "レムール目"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:36.308065+00:00Z",
+      "updated_at": "2026-06-02T09:23:23.753687+00:00Z",
       "frequencies": {
         "aozora": 41
       }

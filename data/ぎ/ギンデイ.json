@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "絵師は銀泥を丁寧に溶き、屏風の松の葉一枚一枚に細い筆で塗り重ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "修復師は剥落した金泥の箇所を銀泥で補修し、元の輝きに近い仕上がりにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "銀泥で描かれた月が暗い紙面の中に浮かび上がり、見る者を引きつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其の時は濡れたやうな眞黒な暗夜だつたから、其の灯で松の葉もすら／＼と透通るやうに青く見えたが、今は、恰も曇つた一面の銀泥に描いた墨繪のやうだと、熟と見ながら、敷石を蹈んだが、カラリ／＼と日和下駄の音の冴えるのが耳に入つて、フと立留つた。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "銀の絵具",
+        "銀水引"
+      ],
+      "antonyms": [
+        "金泥"
+      ],
+      "related": [
+        "写経",
+        "日本画",
+        "仏教美術",
+        "蒔絵",
+        "装飾",
+        "工芸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:21:07.991888+00:00Z",
       "frequencies": {
         "aozora": 41
       }

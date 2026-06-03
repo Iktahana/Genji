@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "腰痛で苦しむ彼は、くの字に曲げて歩を進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -54,14 +62,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "かがむ",
+        "しゃがむ",
+        "折り曲げる"
+      ],
+      "antonyms": [
+        "伸ばす",
+        "立つ"
+      ],
+      "related": [
+        "姿勢",
+        "動作",
+        "形状"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:47.103779+00:00Z"
+      "updated_at": "2026-06-02T12:42:47.438660+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "牛糞を使って有機野菜を栽培している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "農家は牛糞を肥料として活用している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛糞堆肥は土の質を改善する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "草原の草を縛り合わせて通りかかった人を躓かせたり、田圃道に小さな陥穽を作って人を蹈込ませたり、夏の闇の夜に路上の牛糞の上に蛍を載せておいたり、道端に芋の葉をかぶせた燈火を置いて臆病者を怖がらせたりと云ったような芸術にも長じていた。",
@@ -205,14 +230,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "牛の糞",
+        "堆肥"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "肥料",
+        "堆肥",
+        "有機肥料",
+        "農業",
+        "土壌改良"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:10:55.510771+00:00Z",
       "frequencies": {
         "aozora": 30
       }

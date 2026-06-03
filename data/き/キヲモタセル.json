@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "次の発表への期待を視聴者に気を持たせている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "メディアは新製品への期待を気を持たせるような報道をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ティザー動画で観客の興味を気を持たせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "情熱の深い人だが、それが歌舞妓風な動作やあくせんとでは自由に流動して来ないやうな所が残つてゐて、そこに異質の芸風が保留せられてゐるのではないかと言ふ気を持たせる。",
@@ -102,14 +127,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "期待させる",
+        "焦らす",
+        "希望を持たせる",
+        "思わせぶりにする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "気を持たす",
+        "期待",
+        "焦らし",
+        "思わせぶり",
+        "誘惑"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:23:54.493544+00:00Z"
     }
   }
 ]

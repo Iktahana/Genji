@@ -31,21 +31,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "メールに機種依存文字を使ったため、相手のパソコンでは文字化けして届いてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "報告書に機種依存文字が含まれていたせいで、印刷すると一部が意味不明な記号に化けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社内メールのガイドラインには「機種依存文字は使用しないこと」とはっきり明記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "環境依存文字"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文字コード",
+        "Unicode",
+        "文字化け",
+        "機種依存",
+        "フォント",
+        "OS"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T09:02:43.070477+00:00Z"
     }
   }
 ]

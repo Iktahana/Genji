@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "火事が発生し、ビルの住人は緊急避難した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "津波警報が発令され、海岸の住民は緊急避難を指示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "煙の中での緊急避難は、懐中電灯を持って進むべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "緊急避難的な要求からあえて同書の刊行を受け入れたが、大人になるというのはなかなか難しいことである。",
@@ -69,14 +94,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "緊急退避",
+        "非常避難",
+        "緊急脱出"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "避難所",
+        "緊急事態",
+        "災害",
+        "避難指示",
+        "緊急避難場所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:29:04.726115+00:00Z"
     }
   }
 ]

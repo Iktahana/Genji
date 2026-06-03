@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金融パニックが発生すると、市場全体が急速に悪化する傾向がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "2008年の金融パニックは、世界経済に深刻な影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金融パニックを防ぐため、中央銀行が流動性供給を行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現に一九二七年は人も知る金融パニックの画期的な年代だが、出版界の営業状態はとに角として、出版物の数量や品種の上では大した特色は統計の上に出ていないようだ。",
@@ -45,14 +70,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "金融恐慌",
+        "金融危機",
+        "経済パニック"
+      ],
+      "antonyms": [
+        "金融安定"
+      ],
+      "related": [
+        "金融崩壊",
+        "取り付け騒ぎ",
+        "株価暴落",
+        "経済危機",
+        "金融不安",
+        "恐慌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:48:13.762738+00:00Z"
     }
   }
 ]

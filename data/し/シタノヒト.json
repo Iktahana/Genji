@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "下の人から音が響きすぎるというクレームが来た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "下の人と顔を合わせたら、挨拶をするようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "下の人が不在のようなので、少し大きめの音でも大丈夫だろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "誰かがどこかで見ていやしなかったかと、自分は眼の下の人家の方を見た。",
@@ -305,6 +330,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "部長は下の人たちから意見を聞いてから判断することにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -320,7 +353,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:30.373498+00:00Z"
+      "updated_at": "2026-06-02T08:30:52.377657+00:00Z"
     }
   }
 ]

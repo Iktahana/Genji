@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "敵が突然斬りかかってきた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "武士が刀を抜いて斬りかかった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "怒った相手が斬りかかるジェスチャーをした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼が堀口に斬りかかる時に「さっきの一言」と言ったのから想像すると、高原の屋敷で「一人で帰ると、また鬼婆にいじめられるぞ」と堀口にからかわれたのを根に持ったものらしい。",
@@ -150,14 +175,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "襲いかかる",
+        "斬りつける",
+        "攻撃する"
+      ],
+      "antonyms": [
+        "防ぐ",
+        "守る"
+      ],
+      "related": [
+        "切る",
+        "かかる",
+        "攻撃",
+        "剣",
+        "刀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:09:24.282892+00:00Z",
       "frequencies": {
         "aozora": 16
       }

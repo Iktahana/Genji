@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国連特使が居中調停に乗り出し、停戦合意への道筋を探っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "労使紛争に居中調停が介入したことで、長期化していたストライキがようやく収束に向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "弁護士は「裁判より居中調停の方が早期解決につながる場合が多い」とアドバイスした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（623 a. Chr.）Solon は仲裁者（διαλλακτ）と稱せられたが、中裁（居中調停、勞資協商）とは階級鬪爭の中裁を謂つたものである。",
@@ -53,14 +78,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "調停",
+        "仲裁",
+        "仲介",
+        "斡旋"
+      ],
+      "antonyms": [
+        "対立",
+        "紛争"
+      ],
+      "related": [
+        "和解",
+        "交渉",
+        "第三者",
+        "紛争解決",
+        "居中"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:05:21.574044+00:00Z"
     }
   }
 ]

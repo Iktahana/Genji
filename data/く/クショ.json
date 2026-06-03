@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代に区処が行われて、新しい村が形成された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その県では区処により、いくつかの市町村が統合された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨年の区処によって、私たちの町は新しい行政区に属することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先人の言に曰く、「凡そ人事を区処する、当に先ずその結局を慮り、而して後に手を下すべし、楫無きの舟を行る勿れ、的無きの箭を発する勿れ」と。",
@@ -278,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "区分",
+        "処置",
+        "区別"
+      ],
+      "antonyms": [
+        "統合"
+      ],
+      "related": [
+        "行政",
+        "管理",
+        "分割",
+        "整理",
+        "手続き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:32:07.904522+00:00Z",
       "frequencies": {
         "aozora": 4
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "売上低迷を受けて経営陣は緊急会議を開き、立て直しの具体策の検討に入った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「不満を言うだけでなく、具体策を考えてから来い」と上司に突き返された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "増え続ける空き家問題に対し、町長は任期中に具体策を実行すると議会で約束した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、現地の事情について何ら知るところのない私がそこまで筆を駛らせることは不謹慎であるから、ここではそのような具体策にまでは触れない。",
@@ -117,14 +142,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "具体案"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "対策",
+        "具体化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:50.130366+00:00Z",
+      "updated_at": "2026-06-02T13:05:36.405059+00:00Z",
       "frequencies": {
         "aozora": 11
       }

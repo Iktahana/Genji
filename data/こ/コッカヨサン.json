@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の国家予算は前年比で3パーセント増加することが決定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国家予算の多くが社会保障費に充てられる見通しだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国家予算の削減案が議会で承認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "横田氏は、またソヴェトの国家予算の内容を検討していられる。",
@@ -157,14 +182,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "国家財政",
+        "国費",
+        "一般会計"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "予算",
+        "財政",
+        "財政政策",
+        "歳出",
+        "歳入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.490931+00:00Z"
+      "updated_at": "2026-06-02T14:39:37.783739+00:00Z"
     }
   }
 ]

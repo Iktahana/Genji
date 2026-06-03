@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "治験では参加者の半数に偽薬が投与され、実薬との効果の差が比較された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医師は「あなたに渡したのは偽薬でしたが、痛みが和らいだのは確かですね」と穏やかに告げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "偽薬を服用しているにもかかわらず症状が改善した患者が多く、研究者たちは興味深い結果に注目した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どれ、皆なで偽薬の菓子をやらまいか」　と幸作は笑って、それを客にもすすめ、自分でも食った。",
@@ -85,14 +110,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "プラセボ",
+        "偽物の薬",
+        "糖衣錠"
+      ],
+      "antonyms": [
+        "本物の薬",
+        "治療薬"
+      ],
+      "related": [
+        "プラセボ効果",
+        "臨床試験",
+        "暗示効果",
+        "心理効果",
+        "薬理",
+        "治験"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:08:19.942047+00:00Z",
       "frequencies": {
         "aozora": 2
       }

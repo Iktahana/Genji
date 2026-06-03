@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "仕事の都合を繰り合わせて、病院の予約に行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -62,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "工面する",
+        "何とかする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "時間",
+        "調整",
+        "予定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:48.093647+00:00Z"
+      "updated_at": "2026-06-02T12:51:22.504718+00:00Z"
     }
   }
 ]

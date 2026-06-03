@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画のラストシーンで主人公が流した涙に、思わずグッと来てしまい目を拭った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女からの手紙の一文一文が胸に刺さり、読み終わる頃にはグッと来ていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引退する先輩の最後のスピーチがグッと来て、チーム全員がもらい泣きをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かげろうの羽虫を餌として、鈎を瀬脇に投げ込めば、瞬間にグッとくる。",
@@ -49,14 +74,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "感動する",
+        "胸を打たれる",
+        "心に響く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感銘",
+        "感情",
+        "涙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:50.176374+00:00Z"
+      "updated_at": "2026-06-02T13:05:52.002692+00:00Z"
     }
   }
 ]

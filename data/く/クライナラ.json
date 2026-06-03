@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "毎日遅刻するくらいなら、早めに家を出た方がいい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "つまらない仕事をするくらいなら、転職を考えてみるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -279,14 +295,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "よりも",
+        "とするくらいであれば"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "比較",
+        "選択",
+        "仮定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.996806+00:00Z"
+      "updated_at": "2026-06-02T12:46:27.977714+00:00Z"
     }
   }
 ]

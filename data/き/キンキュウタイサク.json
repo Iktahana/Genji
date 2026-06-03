@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもの転落事故が相次いだため、公園の遊具に緊急対策として安全フェンスが設置された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "豪雨被害を受けた市は、床上浸水家屋の清掃を支援する緊急対策を打ち出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "緊急対策を協議するため、関係省庁の担当者が深夜に官邸に集まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つづいて六月十一日に八項目から成る「経済緊急対策」を発表、同十九日に業種別平均賃銀千八百円ベースを公表した。",
@@ -70,14 +95,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "緊急措置",
+        "応急対策",
+        "危機対応"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "緊急事態",
+        "対策本部",
+        "危機管理",
+        "応急処置"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:29:04.723168+00:00Z"
     }
   }
 ]

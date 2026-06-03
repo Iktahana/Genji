@@ -321,7 +321,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "震災で困った被災者を支援するため、カンパを集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このイベントでカンパに協力してくれた人たちに感謝する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "予想外にカンパが集まり、支援活動の幅が広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -339,21 +364,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "選挙のカンパを手伝い、政治活動に参加している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そのカンパが功を奏して、知名度が大幅に上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カンパの成功が次の選挙戦への弾みになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "募金",
+        "寄付",
+        "寄附"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "募金活動",
+        "チャリティー",
+        "キャンペーン",
+        "資金集め",
+        "運動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:31.413528+00:00Z",
+      "updated_at": "2026-06-02T07:07:49.029231+00:00Z",
       "freq_rank": 16895,
       "frequencies": {
         "aozora": 11
@@ -390,7 +450,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強い寒波が日本列島を襲い、気温が急降下した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "今週は寒波の影響で朝の気温が氷点下になると予報されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "寒波対策として暖房を強くし、防寒用品を用意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お隣のアメリカでも、たまには相当な大地震があり、大山火事があるし、時にまた日本にはあまり無い「熱波」「寒波」の襲来を受けるほかに、かなりしばしば猛烈な大旋風トルナドーに引っかき回される。",
@@ -584,9 +669,21 @@
       "homophones": [
         "看破"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "寒流",
+        "冷波"
+      ],
+      "antonyms": [
+        "熱波",
+        "温波"
+      ],
+      "related": [
+        "寒気",
+        "冷え込み",
+        "気温低下",
+        "天気",
+        "気象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -645,6 +742,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その医者は患者の病気を一目で看破する能力がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],
@@ -897,9 +1002,20 @@
       "homophones": [
         "寒波"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "見抜く",
+        "洞察",
+        "喝破",
+        "見破る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "識破",
+        "洞察力",
+        "直感",
+        "推理",
+        "分析"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その男の話す言葉は鴃舌のようで、何を言っているのか理解できなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "未開地の部族が発する鴃舌のような言葉に、探検家は戸惑った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まちの人の言葉も、まさか鴃舌というほどではなかったが、東京の人の言葉にくらべて、へんに語勢が強く、わかりにくいところが多かった。",
@@ -87,12 +104,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "夷狄",
+        "異民族",
+        "言葉",
+        "野蛮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:57.744333+00:00Z",
+      "updated_at": "2026-06-02T13:40:41.033320+00:00Z",
       "frequencies": {
         "aozora": 6
       }

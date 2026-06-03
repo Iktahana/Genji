@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の歌会始の御題は「光」と発表され、全国から多くの歌が寄せられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "御題に沿った和歌を詠もうと、宮中の人々が思案を重ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "御題を受けて詠んだ一首が選ばれ、彼女は喜びで声を震わせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御題は「水辺の草」というのですが、小町の作った歌は、蒔かなくに何を種とて浮草の　　　波のうね／＼生ひ茂るらむ　というのですが、腹の黒主はそれをこっそり写しとって家に帰り、その歌を万葉集の草紙の中へ読人不知として書き加え、何食わぬ顔をして翌日清涼殿の御歌合せの御会へのぞみました。",
@@ -221,14 +246,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "題目",
+        "テーマ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皇帝",
+        "詩",
+        "文学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:19:05.784456+00:00Z",
       "freq_rank": 44133,
       "frequencies": {
         "aozora": 8

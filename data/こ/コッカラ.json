@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こっからは山道になるから足元に気をつけろ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "こっからが本当の勝負だ、気を引き締めよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "こっから先は自動車の通行が禁止されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どうせ、曝露すりゃ、俺等はこっから追ン出されるぞ。",
@@ -109,14 +134,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ここから",
+        "こちらから",
+        "ここより"
+      ],
+      "antonyms": [
+        "そっちから",
+        "あっちから"
+      ],
+      "related": [
+        "ここ",
+        "こちら",
+        "此処"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.491138+00:00Z"
+      "updated_at": "2026-06-02T14:39:37.784078+00:00Z"
     }
   }
 ]

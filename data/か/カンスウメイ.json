@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "関数名はその処理内容を端的に表す動詞＋名詞の形にすると、コードの可読性が上がる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "メソッド名",
+        "メンバ名"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "関数",
+        "識別子",
+        "変数名",
+        "プログラミング",
+        "名前空間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T12:55:41.760905+00:00Z"
+      "updated_at": "2026-06-02T06:44:44.475603+00:00Z"
     }
   }
 ]

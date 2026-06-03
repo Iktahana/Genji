@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の農村では、ほとんどの民家が草葺きの屋根をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この古民家の草葺きは、専門の職人によって丁寧に修復された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "草葺きの屋根は断熱性が高く、冬の寒さをしのぐのに効果的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "速力計の針が六十五｜哩と七十哩の間をちらちらすると、車全体が唸る生きものになって、広いアスファルトの道は面前に逆立ち、今まで眼にとまっていた榕樹の中の草葺きの家も、椰子林の中の足高の小屋も、樹を切り倒している馬来人の一群も、総て緑の奔流に取り込められ、その飛沫のように風が皮膚に痛い。",
@@ -197,14 +222,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "茅葺き",
+        "藁葺き"
+      ],
+      "antonyms": [
+        "瓦葺き"
+      ],
+      "related": [
+        "屋根",
+        "古民家",
+        "伝統建築",
+        "茅",
+        "藁",
+        "建築"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:30:25.588988+00:00Z",
       "frequencies": {
         "aozora": 20
       }

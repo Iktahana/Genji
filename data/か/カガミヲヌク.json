@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "お祭りの開始時刻に、蔵元の主人が樽の鏡を抜いて酒を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -71,14 +79,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "樽開き"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "酒",
+        "儀式"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.469349+00:00Z"
+      "updated_at": "2026-06-02T03:39:24.402736+00:00Z"
     }
   }
 ]

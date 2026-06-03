@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関で名刺を確認してから、応接室へ客を通した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「少々お待ちください」と言いながら、受付係は客を通して上司に取り次いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母は急いでリビングを片付け、やっと客を通せる状態にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はいってみると、二人の客を通すには、ちと大きすぎるサロンである。",
@@ -102,14 +127,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "案内する",
+        "通す",
+        "招き入れる",
+        "迎え入れる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "接客",
+        "応対",
+        "玄関",
+        "座敷",
+        "来客",
+        "もてなす"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:37.492603+00:00Z"
+      "updated_at": "2026-06-02T09:47:47.729004+00:00Z"
     }
   }
 ]

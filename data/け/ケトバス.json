@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "腹を立てた彼は、玄関先のゴミ箱を蹴飛ばして中身を通路に散らかした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子供がボールを思い切り蹴飛ばすと、隣の庭まで飛んでいってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "突然噛みついてきた犬を、彼は躊躇なく蹴飛ばして追い払った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もうそうなると、気の上った各自が、自分の手足で、茶碗を蹴飛ばす、徳利を踏倒す、海嘯だ、と喚きましょう。",
@@ -289,21 +314,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「その条件では話にならない」と相手の提案を蹴飛ばし、席を立った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大企業からのスカウトを蹴飛ばして、彼は自分で起業する道を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そんな安値での取引は受け入れられない」と交渉相手の申し出を蹴飛ばした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "蹴る",
+        "拒絶する",
+        "撥ね付ける"
+      ],
+      "antonyms": [
+        "受諾する",
+        "受け入れる"
+      ],
+      "related": [
+        "拒否",
+        "断る"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:54.767731+00:00Z",
+      "updated_at": "2026-06-02T13:27:29.015201+00:00Z",
       "frequencies": {
         "aozora": 381
       }

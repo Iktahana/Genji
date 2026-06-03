@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎年七月になると、祇園会の山鉾が京の町を練り歩く光景を見ようと全国から人が集まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖母は幼い頃から祇園会の宵山を楽しみにしていたと懐かしそうに語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祇園会の期間中、四条通は歩行者天国となり浴衣姿の観光客で埋め尽くされる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）草の雨祭の車｜過てのち　京都の夏祭、即ち祇園会である。",
@@ -237,14 +262,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "祇園祭"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "京都",
+        "祭",
+        "山鉾",
+        "神社"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:53:24.859229+00:00Z"
     }
   }
 ]

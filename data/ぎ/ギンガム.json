@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の遠足に合わせて、母がギンガムのワンピースを縫ってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ピクニック用のバスケットにギンガムチェックの布を敷き、サンドイッチを並べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "手芸店でギンガムを一メートル買い、テーブルクロス用に裁断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「でも……」「じゃ、おれのナップザックをもって」「そうしろ」　といいながら、高志が真新しいギンガムチェックの敷物をふりあげ、令子とじぶんにかぶせた。",
@@ -85,14 +110,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ギンガムチェック"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "チェック柄",
+        "格子縞",
+        "綿",
+        "布",
+        "テキスタイル"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:20:11.287854+00:00Z",
       "frequencies": {
         "aozora": 7
       }

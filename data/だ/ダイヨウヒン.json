@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "醤油が切れていたので、塩とみりんを混ぜて代用品として使った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "現地では純正部品が手に入らず、仕方なく代用品で修理を済ませた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「本物でなく代用品でも、今は十分間に合います」と彼女は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "トンカツに巡り会わない日本人はようやくその代用品を見つけて、衣を着た肉の揚物に対する執着を充たすだけで我慢しなければならぬ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:56.507496+00:00Z",
+      "updated_at": "2026-06-02T11:13:00.647490+00:00Z",
       "frequencies": {
         "aozora": 133
       }

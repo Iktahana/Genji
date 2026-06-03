@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の俳諧や浮世草子は近世文学の代表的なジャンルとして国文学の授業で取り上げられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "近世文学を専門とする教授は、西鶴の作品を通じて当時の大坂商人の暮らしを読み解いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は近世文学の研究を進めるうち、江戸期の出版文化に深い関心を抱くようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近世文学なんて私大嫌です。",
@@ -53,14 +78,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "江戸文学"
+      ],
+      "antonyms": [
+        "古典文学",
+        "現代文学"
+      ],
+      "related": [
+        "俳諧",
+        "浮世草子",
+        "歌舞伎",
+        "松尾芭蕉",
+        "近松門左衛門"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.144812+00:00Z"
+      "updated_at": "2026-06-02T11:39:05.204023+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "書類にシールを貼った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この箱にはセキュリティシールが貼られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちは色とりどりのシールを集めていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このまへトゥロットが、人の髪の毛を引つぱつたことをうちあけますと、ミスは友人といふもののうつくしさををしへると言つて、アシールとパトロークルのお話をしました。",
@@ -319,7 +344,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:49.631894+00:00Z",
+      "updated_at": "2026-06-02T09:20:30.909499+00:00Z",
       "freq_rank": 7796,
       "frequencies": {
         "aozora": 33

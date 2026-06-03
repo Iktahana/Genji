@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ギリシャは古代文明の発祥地であり、多くの遺跡が保存されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨年ギリシャを旅行して、エーゲ海の美しい島々を巡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ギリシャの文化と歴史は西洋文明の礎となっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは希臘の擬古狂詩の断片をざっと飜訳したものだそうだ。",
@@ -280,14 +305,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "グレキア"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "地中海",
+        "南欧",
+        "アテネ",
+        "文明",
+        "バルカン半島"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:18:50.849578+00:00Z",
       "freq_rank": 5345,
       "frequencies": {
         "aozora": 820

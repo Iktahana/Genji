@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その会社の勤務者たちは、テレワークの導入に歓迎していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "勤務者の満足度調査が行われ、結果は経営に反映される予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "長時間の勤務者に対しては、残業代が支払われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは、工場、官庁その他の公共的な場面に働く勤務者が、私たちと全く同様な生活の必要から一定の要求をすると、当事者たちは、その要求を拒絶出来ない代り、忽ち、その結果を、一般市民これを見よ、とでもいう風な、其々の部門での値上りとして反映させることである。",
@@ -93,14 +118,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "労働者",
+        "従業員",
+        "職員"
+      ],
+      "antonyms": [
+        "失業者",
+        "無職"
+      ],
+      "related": [
+        "仕事",
+        "会社",
+        "給与"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:45:38.004305+00:00Z",
       "frequencies": {
         "aozora": 9
       }

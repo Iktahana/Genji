@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "データベースのカーソルを移動させると、現在レコードが切り替わり画面上の情報が更新された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プログラムは現在レコードのIDを参照して、次に処理すべきデータを自動的に取得する仕組みになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "現在レコードを削除しようとしたところ、外部キー制約によりエラーが表示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "管弦楽の団体と指揮者とは、多くの場合独立した存在で、それは当然別々に論ずべき性質のものであるが、私は便宜のため、指揮者と管弦楽団とを結びつけて、現在レコードに入っている姿のまま紹介する方法を採りたい。",
@@ -45,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "カレントレコード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "データベース",
+        "レコード",
+        "カーソル",
+        "行",
+        "DBMS"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.852624+00:00Z"
+      "updated_at": "2026-06-02T13:51:19.067158+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "月極めの駐車場を借りることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この家賃は月極めで毎月五万円支払っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "極めの値段が上がったので、別の業者を探すことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論時代といふものは極めて包括的に観る場合にのみその姿を現すがやうなものであるから、現代が芸術のためには明かに不幸な時代であるとしてからが、それは必ずしも芸術家個人々々にまで直ちに不幸な時代といふことを意味しはしまい。",
@@ -278,14 +303,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "月払い",
+        "週払い"
+      ],
+      "antonyms": [
+        "臨時払い",
+        "一括払い"
+      ],
+      "related": [
+        "支払い",
+        "定期",
+        "契約"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:06:18.126967+00:00Z",
       "freq_rank": 11773,
       "frequencies": {
         "aozora": 94

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はビールをぐうっと飲み干した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "暑い日には冷たい水をぐうっと一気に飲みたい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "選手はスポーツドリンクをぐうっと流し込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "達二が牛と、またあるきはじめたとき、泉が何かを知らせる様に、ぐうっと鳴り、牛も低くうなりました。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ぐいっと",
+        "一気に",
+        "一息に",
+        "ごくりと"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "飲む",
+        "一気飲み",
+        "喉",
+        "飲み干す"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:04:35.729441+00:00Z"
     }
   }
 ]

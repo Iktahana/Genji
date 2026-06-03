@@ -32,21 +32,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "電車に乗り込んだのはギリギリセーフで、後ろからドアが閉まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "合格点に達したのはギリギリセーフ、あと1点低かったら落ちていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "予算内に収まったのはギリギリセーフ、100円オーバーするところだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "滑り込み",
+        "間一髪",
+        "辛うじて",
+        "危ういところ"
+      ],
+      "antonyms": [
+        "ギリギリアウト"
+      ],
+      "related": [
+        "回避",
+        "成功",
+        "危機一髪",
+        "救済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:18:50.847738+00:00Z"
     }
   }
 ]

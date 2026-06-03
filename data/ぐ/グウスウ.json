@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "2、4、6、8はいずれも偶数であり、2で割り切れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "サイコロを二つ振って出た目の合計が偶数になる確率を求めよ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "整数を奇数と偶数に分けると、偶数のみが2の倍数になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "偶数一歩前へおいっ。",
@@ -247,13 +272,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "奇数"
+      ],
+      "related": [
+        "整数",
+        "倍数",
+        "偶数論",
+        "数論",
+        "偶奇",
+        "偶数パリティ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:04:35.720339+00:00Z",
       "freq_rank": 29758,
       "frequencies": {
         "aozora": 62

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝食を食べずに出かけたので、もう空腹だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "空腹状態で運動するのは避けるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜遅くまで仕事をして、ひどい空腹を感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "トソンと空腹を感じて来た。",
@@ -279,14 +304,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "飢え",
+        "飢餓",
+        "空腹感"
+      ],
+      "antonyms": [
+        "満腹",
+        "飽食"
+      ],
+      "related": [
+        "食事",
+        "栄養",
+        "満足",
+        "欲求"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:26:41.388379+00:00Z",
       "freq_rank": 12174,
       "frequencies": {
         "aozora": 1134

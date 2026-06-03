@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書館で機械学習に関する技術書を3冊借りました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この分野の第一人者が執筆した技術書は必読です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "技術書の内容が実装時に大いに役に立ちました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "失踪したゲドニー、一頭の犬、八体の無傷な生物標本、三台の橇、いくつかの機器類、図入りの科学技術書、筆記用具、懐中電灯と電池、食糧と燃料、暖房器具、予備のテント、毛皮の外衣、その他無くなってしまったものについては正気な頭では推測しようがなかった。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "書籍",
+        "本"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "技術原稿",
+        "技術情報"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:59:03.322375+00:00Z",
       "frequencies": {
         "aozora": 1
       }

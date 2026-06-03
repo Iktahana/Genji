@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は筋疾患と診断されてから、月に数回リハビリテーションに通っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "筋疾患の進行を遅らせるために、定期的な運動療法が重要とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼が患っている筋疾患は遺伝的な原因があると医師から説明を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "筋肉疾患",
+        "筋肉病",
+        "ミオパチー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "筋ジストロフィー",
+        "筋萎縮",
+        "神経筋疾患",
+        "筋力低下",
+        "筋炎",
+        "遺伝性疾患"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:34:35.948655+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母は旅の思い出を切り抜き帳に記録している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雑誌やチケットを整理して切り抜き帳にまとめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの成長記録を切り抜き帳に残す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから本棚には、驚異すべき切り抜き帳や、かつてはロンドン市民を熱狂せしめた大事件の参考書が、一ぱい立ち並んでいた。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "スクラップブック"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "帳面",
+        "記録",
+        "保存"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:13:18.688837+00:00Z"
     }
   }
 ]

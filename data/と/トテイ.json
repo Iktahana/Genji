@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔、彼は腕利きの職人の徒弟として修行を積んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "徒弟期間を経て、ようやく一人前の大工になれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "若い徒弟は師匠の技術を必死に学んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "兵士は、その殆んどすべてが、都市の工場で働いていた者たちか、或は、農村で鍬や鎌をとっていた者たちか、漁村で働いていた者たちか、商店で働いていた者たちか、大工か左官の徒弟であった者たちか、そういう青年たちばかりだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:13:04.402294+00:00Z",
       "freq_rank": 37554,
       "frequencies": {
         "aozora": 166

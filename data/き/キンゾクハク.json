@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食品をまとめるために、金属箔を使用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金属箔の厚さは、わずか数マイクロメートルである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "電子機器の内部に貼られた金属箔が、電磁波を遮断する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どうしたんですか」　するとレーダー手は、ブラウン管の膜面におどるエコーの映像を指してダイヤルをまわしながら、「これごらんなさい、ギンネコ号がおびただしい電波妨害用の金属箔をまきちらしたようです。",
@@ -93,14 +118,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "箔",
+        "薄膜"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アルミ箔",
+        "金属板",
+        "薄片"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:39:24.509460+00:00Z"
     }
   }
 ]

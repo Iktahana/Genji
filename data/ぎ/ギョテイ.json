@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ダムの横に設けられた魚梯を、サケが懸命に遡っていく姿が見られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "魚梯の整備が進んだことで、川の上流にも魚が戻ってくるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "環境調査チームが魚梯の通過数を記録し、生態系の回復状況を報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "でも、大川平三郎は糸之瀬から一滴の水も下流へこぼさなかったが、浅野総一郎は岩本の堰堤から、ぎこちない魚梯を通して、僅かの水を下流へ送った。",
@@ -77,14 +102,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "魚道"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魚",
+        "河川",
+        "施設"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:19:05.786278+00:00Z",
       "frequencies": {
         "aozora": 5
       }

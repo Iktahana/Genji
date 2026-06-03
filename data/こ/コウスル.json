@@ -298,14 +298,20 @@
         "抗する",
         "航する"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "侵略する",
+        "襲う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "戦争",
+        "侵入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:02.471880+00:00Z"
+      "updated_at": "2026-06-02T14:10:31.853882+00:00Z"
     }
   },
   {
@@ -346,6 +352,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "理不尽な命令に抗することができず、若い兵士たちは黙って従うほかなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -599,9 +613,17 @@
         "寇する",
         "航する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "抵抗する",
+        "反抗する"
+      ],
+      "antonyms": [
+        "従う",
+        "服従する"
+      ],
+      "related": [
+        "対立"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -650,6 +672,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嵐の中を航する船の甲板で、船頭は舵を握りながら波が静まるのをただ待ち続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -903,9 +933,15 @@
         "寇する",
         "抗する"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "航海する",
+        "渡航する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "船舶",
+        "旅"
+      ]
     },
     "meta": {
       "version": "1.0.0",

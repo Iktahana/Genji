@@ -313,7 +313,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:27:26.193565+00:00Z",
+      "updated_at": "2026-06-02T09:21:13.246974+00:00Z",
       "freq_rank": 5541,
       "frequencies": {
         "aozora": 1083
@@ -479,7 +479,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ハイカーたちは深林の中で道に迷った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "深林に足を踏み入れると、急に静かになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "深林の奥には珍しい植物が自生している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は草を敷いて身を横たえ、数百年斧の入れたことのない欝たる深林の上を見越しに、近郊の田園を望んで楽しんだことも幾度であるかわかりませんほどでした。",

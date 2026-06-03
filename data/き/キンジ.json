@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この計算は精密さよりも速度を優先しているため、近似による結果である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複雑な自然現象は数学的な近似を使うことで、比較的簡単に理解できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "工学設計では、厳密解ではなく工業的に有用な近似で問題を解決することが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "言換れば叫びは無論生活で、その生活に近似せしめる習練――技の習得が芸術となるのだつた。",
@@ -287,14 +312,31 @@
         "君",
         "金地"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "概算",
+        "近似値",
+        "推算",
+        "推定",
+        "近接"
+      ],
+      "antonyms": [
+        "厳密",
+        "正確",
+        "精密"
+      ],
+      "related": [
+        "近似値",
+        "近似解",
+        "誤差",
+        "収束",
+        "数値解析",
+        "線形近似"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:31.466833+00:00Z",
+      "updated_at": "2026-06-02T11:36:06.953595+00:00Z",
       "freq_rank": 20580,
       "frequencies": {
         "aozora": 151
@@ -333,7 +375,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "皇帝の近侍たちは一日中皇帝の居所の近くに控えていなければならなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大名の側近は近侍として選りすぐりの武士から構成されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その若い近侍は、主君への忠誠を示すため危険な任務に自ら志願した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其処へ近侍が襖を開いて、Ｔ「雲霧主膳と仰しゃる方が」　で左衛門と七兵衛顔見合わせた。",
@@ -588,9 +655,22 @@
         "君",
         "金地"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "側近",
+        "随行",
+        "侍従",
+        "供奉",
+        "お付き"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "家臣",
+        "随員",
+        "扈従",
+        "廷臣",
+        "警護",
+        "従者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -633,7 +713,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その古い経典の表紙には金字で経文が荘厳に書かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は自分の肖像画に金字で名前を入れさせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金字で装飾された書籍は高級な工芸品として扱われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えばタレースは始めて金字塔の高さを測るために、塔の影の終点の辺へ小さな棒を一本立てた。",
@@ -890,7 +995,14 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金文字",
+        "金箔",
+        "金泥",
+        "金彩",
+        "題字",
+        "銘文"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -931,7 +1043,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近事についての議論は、その会議の主要なテーマとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国際政治の講義では、近事の紛争事例が実際のケーススタディとして検討された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は毎朝のニュースで世界の近事をチェックすることを習慣としている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「餘瀝　近事片々」（「正直ノオト」「春晝」「市井喧爭」「酒ぎらひ」「困惑の辯」「知らない人」「心の王者」「鬱屈禍」）　以上の五篇の創作にて、私のこれまで歩いて來た經過の、だいたいは、推察していただける事と思ふ。",
@@ -1186,9 +1323,26 @@
         "君",
         "金地"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "最近の出来事",
+        "近況",
+        "時事",
+        "近頃",
+        "近事情"
+      ],
+      "antonyms": [
+        "往事",
+        "旧事",
+        "昔事"
+      ],
+      "related": [
+        "時事",
+        "近況",
+        "現況",
+        "最近",
+        "近時",
+        "今日の話題"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1230,7 +1384,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近時のAI技術の発展は、かつての予想をはるかに上回っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近時において、その業界の競争構図が大きく変わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近時の気候変動のデータを分析すると、警告するべき傾向が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我を忘れた時にも猶存するものは、作用に非ずして対象のみであり、斯かる時近時の芸術が方法的となり、恰かも結構な骨に紙の肉を張つたやうであることは、首肯出来る所であらう。",
@@ -1485,9 +1664,27 @@
         "君",
         "金地"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "最近",
+        "近頃",
+        "この頃",
+        "昨今",
+        "近来",
+        "近日"
+      ],
+      "antonyms": [
+        "往時",
+        "かつて",
+        "昔"
+      ],
+      "related": [
+        "現代",
+        "近年",
+        "最近",
+        "当節",
+        "今般",
+        "時代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1529,7 +1726,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「君はこの問題をどう思うか」と先生が各生徒に意見を求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「君たちが示した結果は期待以上だ」とコーチが全員に伝えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "君のおかげで、不可能だと思われたプロジェクトが完成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だつて君そこに浮気があります浮気は悲しい音楽をヒヨツと忘れさせること度々です空　空　空やつぱり壁は土で造つたものでした。",
@@ -1784,9 +2006,27 @@
         "近時",
         "金地"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "あなた",
+        "そなた",
+        "汝",
+        "お前",
+        "貴殿"
+      ],
+      "antonyms": [
+        "我",
+        "僕",
+        "俺",
+        "私"
+      ],
+      "related": [
+        "二人称",
+        "代名詞",
+        "人称",
+        "貴方",
+        "貴女",
+        "君子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1828,7 +2068,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その金屏風は金地に四季の風景が見事に描かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金地の背景に浮かぶ菩薩像は、圧倒的な荘厳さを放っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "京都の古寺の内陣では、金地に施された精緻な装飾が参拝者を魅了している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「大阪の城堀埋り、本丸｜許りにて浅間と成り、見苦敷体にて御座候との沙汰にて御座候」　と、正月二十日附で、金地院崇伝は細川忠興に消息している。",
@@ -2083,9 +2348,19 @@
         "近時",
         "君"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "金箔地",
+        "金砂子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金箔",
+        "金粉",
+        "蒔絵",
+        "屏風",
+        "金銀泥",
+        "下地"
+      ]
     },
     "meta": {
       "version": "1.0.0",

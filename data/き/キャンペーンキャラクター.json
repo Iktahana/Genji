@@ -47,6 +47,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "その飲料メーカーは人気俳優をキャンペーンキャラクターに起用し、売上が三割伸びた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -55,14 +63,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "マスコット"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キャンペーン",
+        "広告"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:37.938918+00:00Z"
+      "updated_at": "2026-06-02T09:58:21.366405+00:00Z"
     }
   }
 ]

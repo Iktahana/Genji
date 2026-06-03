@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この映画には強い郷土色が表れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "郷土色豊かな衣装が舞台で使用される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "郷土色を保ちながら現代化する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "塩釜は安産と戦捷の神といわれ、お守りを受けに往くところだが、銀子たちには土地の民謡「はっとせい節」を郷土色そのままに、土地の芸者から受け容れるという目当てもあった。",
@@ -151,14 +176,26 @@
       "homophones": [
         "郷土食"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "地方色",
+        "ローカルカラー",
+        "土地柄",
+        "地域色"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "郷土文化",
+        "地方文化",
+        "風土",
+        "民俗",
+        "地域性",
+        "郷土料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:29.960449+00:00Z",
+      "updated_at": "2026-06-02T10:46:31.062960+00:00Z",
       "frequencies": {
         "aozora": 16
       }
@@ -194,7 +231,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この郷土食は観光客に大人気だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "郷土食の作り方を習う料理教室が人気である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "郷土食を味わうことが旅の大きな楽しみだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -203,9 +265,21 @@
       "homophones": [
         "郷土色"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "郷土料理",
+        "地方料理",
+        "土地料理",
+        "ご当地料理"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "郷土色",
+        "地域食材",
+        "伝統食",
+        "B級グルメ",
+        "名物料理",
+        "食文化"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漁師が羽太を塩焼きにして食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新鮮な羽太は刺身でも美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "市場で羽太の値段が上がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三年Ｂ組の教室では、修一は教科書のかげで羽太鋭治の「性の研究」を読んでゐた。",
@@ -290,7 +315,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:40.524874+00:00Z",
+      "updated_at": "2026-06-02T12:42:10.905578+00:00Z",
       "freq_rank": 8393,
       "frequencies": {
         "aozora": 3
@@ -1616,6 +1641,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「将いい天気だねえ」と祖母が呟いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],

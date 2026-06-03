@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日は西日本で局地的に激しい雨が降る見込みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地域は局地的な干ばつに見舞われ、農作物が枯れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "インフルエンザの局地的な流行が複数の学校で報告された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは、「ハイカラ」の幾分超国境的なるに対し、純粋に民族的なるところ、局地的なるところ、一つの著しい特長であるが、従つて、一方の進歩的、個性的なるに対し、これは保守的で、しかも常に伝統的である。",
@@ -181,14 +206,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "局所的",
+        "地域的",
+        "限定的"
+      ],
+      "antonyms": [
+        "広域的",
+        "全体的",
+        "全般的"
+      ],
+      "related": [
+        "局地",
+        "地域",
+        "限定",
+        "部分的"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:59:16.375433+00:00Z",
       "frequencies": {
         "aozora": 20
       }

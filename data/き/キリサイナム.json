@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大砲の砲火で敵の隊列が切り苛まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "批評家の厳しい評論が、その著作を切り苛むようだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "厳しい質問で相手を切り苛めるのは控えるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、その後手に縛られた両手を見ました時、腸を切り苛むような憤と共に、涙が、――腹の底から湧き出すような涙が、潸々として流れ出ました。",
@@ -46,14 +71,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り刻む",
+        "八つ裂きにする",
+        "ずたずたにする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "苛む",
+        "傷つける",
+        "刃物",
+        "拷問",
+        "痛めつける"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:16:23.183588+00:00Z",
       "frequencies": {
         "aozora": 2
       }

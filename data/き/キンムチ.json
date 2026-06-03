@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "転勤により、勤務地が東京から大阪に変わることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その企業では、勤務地の選択肢が複数あると聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "勤務地周辺に、安い飲食店が増えているという。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ほんとに、ご旅行と伺つて羨ましく、お勤めのことゆゑ、そんな暢気なもんぢやないとおもひますけど、福岡は母の生国でもあり、兄の勤務地でもあり、懐かしく楽しい旅を一度してみたいと思ひます。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "職場",
+        "勤務場所"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "勤務",
+        "異動",
+        "転勤"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:47:56.643543+00:00Z",
       "frequencies": {
         "aozora": 1
       }

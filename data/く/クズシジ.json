@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古文書はくずし字で書かれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "くずし字を読むには訓練が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代の手紙はくずし字だらけだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "慣れないくずし字や乱暴な文字は、読書の妨げとなる騒音です。",
@@ -61,14 +86,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "草書",
+        "行書",
+        "崩し書き"
+      ],
+      "antonyms": [
+        "楷書",
+        "正楷"
+      ],
+      "related": [
+        "古文書",
+        "筆跡",
+        "書法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.208913+00:00Z",
+      "updated_at": "2026-06-02T12:35:15.448541+00:00Z",
       "frequencies": {
         "aozora": 3
       }

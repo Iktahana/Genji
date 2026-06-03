@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "筋肉内注射は静脈注射より安全だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "筋肉内注射の薬液は筋肉に吸収される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "筋肉内注射の位置は医師が決める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "筋注",
+        "筋肉注射"
+      ],
+      "antonyms": [
+        "静脈内注射",
+        "皮下注射"
+      ],
+      "related": [
+        "注射",
+        "投与",
+        "筋肉",
+        "ワクチン",
+        "医療行為",
+        "薬剤"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:44:22.670175+00:00Z"
     }
   }
 ]

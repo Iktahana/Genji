@@ -47,6 +47,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-pro"
               }
+            },
+            {
+              "text": "古いグラフィックボードのせいで対戦中にカクつきが連発し、必殺技の入力が全く決まらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -55,14 +63,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ラグ",
+        "遅延",
+        "フリーズ"
+      ],
+      "antonyms": [
+        "スムーズ"
+      ],
+      "related": [
+        "パフォーマンス",
+        "フレームレート",
+        "レスポンス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.087389+00:00Z"
+      "updated_at": "2026-06-02T03:52:04.840742+00:00Z"
     }
   }
 ]

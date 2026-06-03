@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母親は毎日朝、子どもに口小言を言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "口小言を云いながら窓をあけると、まず眼にはいったものは娘の浅ましい亡骸で、おちかは腰のぬけるほど驚いたのであった。",
@@ -261,14 +270,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "小言",
+        "愚痴",
+        "説教",
+        "嫌味"
+      ],
+      "antonyms": [
+        "称賛",
+        "褒め言葉"
+      ],
+      "related": [
+        "叱責",
+        "執拗",
+        "繰り返し",
+        "説教"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:37:04.892648+00:00Z"
     }
   }
 ]

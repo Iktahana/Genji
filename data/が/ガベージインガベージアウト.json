@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "データベースの品質はガベージインガベージアウトの法則に従う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プログラミングではガベージインガベージアウトを意識することが重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "入力データが不完全では、ガベージインガベージアウトの通り出力も信用できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "GIGO"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "データ品質",
+        "情報処理",
+        "入力",
+        "出力",
+        "コンピュータ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:33.542088+00:00Z"
+      "updated_at": "2026-06-02T08:07:47.148284+00:00Z"
     }
   }
 ]

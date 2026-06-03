@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旭日旗は日本の伝統的な意匠を持つ旗である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その建物の正面には旭日旗が掲げられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "旭日旗の歴史と文化的意味について研究している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "英國ヲ破リテ土耳古ヲ復活セシメ、印度ヲ獨立セシメ、支那ヲ自立セシメタル後ハ、日本ノ旭日旗ガ全人類ニ天日ノ光ヲ與フベシ。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "日の丸",
+        "国旗"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "日本",
+        "旗",
+        "軍旗",
+        "旭日",
+        "象徴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:56:46.983668+00:00Z"
     }
   }
 ]

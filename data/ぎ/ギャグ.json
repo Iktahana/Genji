@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その俳優のギャグは観客を大笑いさせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はギャグのタイミングが絶妙だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この番組は毎回新しいギャグが仕込まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "各人、随分得手勝手な、無責任極まる与太を飛ばしましたが、結果に於ては出来上ったシナリオが想像以上に明るく面白く、ギャグなぞも案外垢抜けのした奴がありました。",
@@ -277,14 +302,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "冗談",
+        "ジョーク",
+        "笑い",
+        "おやじギャグ",
+        "駄洒落"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ギャグマン",
+        "コメディ",
+        "漫才",
+        "ボケ",
+        "ツッコミ",
+        "笑い話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:07:33.085850+00:00Z",
       "freq_rank": 8109,
       "frequencies": {
         "aozora": 36

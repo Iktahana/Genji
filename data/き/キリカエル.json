@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "電源を切り替える必要がある",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は気分を切り替えて新しい仕事に取り組んだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "モードを手動に切り替えてください",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今後の法定闘争の推移によっては、同社は３８６、４８６互換プロセッサーのマイクロコードを著作権に抵触しないものに切り替えるなど、インテル互換戦略の大幅な見直しを迫られる可能性がでてきた。",
@@ -150,14 +175,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "交換する",
+        "転換する",
+        "変える",
+        "切り替わる"
+      ],
+      "antonyms": [
+        "継続する",
+        "維持する",
+        "保つ"
+      ],
+      "related": [
+        "替える",
+        "変える",
+        "交代する",
+        "移行する"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:09:24.282482+00:00Z",
       "freq_rank": 12930,
       "frequencies": {
         "aozora": 49

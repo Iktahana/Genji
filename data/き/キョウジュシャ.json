@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "補助金の享受者は申請から六か月以内に事業報告書を提出する義務がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この制度の享受者は全国で三十万人を超えると推計されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "文化的恩恵の享受者として、次世代のために文化財を守る責任があると彼女は語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは思想の提供者を空しく働かせ、享受者を空しく苦しめる。",
@@ -109,14 +134,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "受益者",
+        "受恵者",
+        "受給者"
+      ],
+      "antonyms": [
+        "提供者",
+        "給与者"
+      ],
+      "related": [
+        "享受",
+        "恩恵",
+        "利益",
+        "受取人",
+        "受益"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:35:12.639784+00:00Z"
     }
   }
 ]

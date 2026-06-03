@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は養子だが、数年前に実親と再会することができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "相続問題が生じたため、実親と養親の関係を法的に整理する必要があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "実親からもらった手紙には、産まれた時の状況と今の思いが綴られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "将門の在京中に、貞盛が嘗て式部卿｜敦実親王のところに詣つた。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:53.412719+00:00Z",
+      "updated_at": "2026-06-02T09:34:53.896725+00:00Z",
       "frequencies": {
         "aozora": 5
       }

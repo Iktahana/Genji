@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "霧雨が降る中、傘を持たずに外出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝の霧雨が街路樹の葉を濡らしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "霧雨の中、ランナーたちは走り続けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "釜石よりの帰り宮沢賢治かぎりなく鳥はすだけどこゝろこそいとそゞろなれ竹行李小きをになひ雲しろき飯場を出でぬみちのべにしやが花さけばかうもりの柄こそわびしきかすかなる霧雨ふりて丘はたゞいちめんの青谷あひの細き棚田に積まれつゝ廐肥もぬれたり",
@@ -279,14 +304,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "小雨",
+        "細雨",
+        "煙雨",
+        "ミスト"
+      ],
+      "antonyms": [
+        "豪雨",
+        "大雨",
+        "土砂降り"
+      ],
+      "related": [
+        "霧",
+        "雨",
+        "小雨",
+        "しとしと",
+        "梅雨",
+        "水滴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:16:23.186191+00:00Z",
       "freq_rank": 40069,
       "frequencies": {
         "aozora": 123

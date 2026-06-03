@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原始教会の信徒たちは迫害の中で信仰を守り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "原始教会の歴史は新約聖書に記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "原始教会の指導者たちは使徒と呼ばれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼が八月十七日に室から出した書簡によると、八月初めに追放の知らせを受けて、いろいろ教会のことを処理したときの状況は、「原始教会の迫害以来、曽て見たことのないもの」であった。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "初代教会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キリスト教",
+        "使徒",
+        "聖書"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.890972+00:00Z"
+      "updated_at": "2026-06-02T13:51:37.084396+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "磨き上げられた刃は銀白色に輝き、わずかな光でも眩しいほど反射した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初雪の朝、畑一面が銀白色に覆われ、土の輪郭がすっかり消えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その金属はチタン合金で、表面を処理すると独特の銀白色が現れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "婦人用の烟管の吸口と雁首に附けた金具に、銀と赤銅とを用いて、銀白色の帯青灰色との横縞を見せているのがある。",
@@ -205,14 +230,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "シルバーホワイト",
+        "銀色",
+        "白銀色"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "色彩",
+        "金属光沢",
+        "純銀",
+        "白",
+        "元素",
+        "輝き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:21:07.994721+00:00Z",
       "frequencies": {
         "aozora": 24
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平安時代の貴族の館は寝殿造りという独特な建築様式だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "寝殿造りの建物では複数の妻が別棟に住んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "京都の博物館に寝殿造りの模型が展示されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仏具のない寝殿造りの神社に似た霊屋は、照り輝く砂の白さに調和した破風の反りを波うたせ麗しかった。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:47.981998+00:00Z",
+      "updated_at": "2026-06-02T09:21:13.244834+00:00Z",
       "frequencies": {
         "aozora": 8
       }

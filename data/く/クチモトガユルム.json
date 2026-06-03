@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "孫の写真を見るたびに、祖母の口元が緩んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -54,14 +62,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "微笑む",
+        "顔をほころばせる",
+        "にやける",
+        "笑みがこぼれる"
+      ],
+      "antonyms": [
+        "表情を硬くする",
+        "唇を噛み締める"
+      ],
+      "related": [
+        "笑顔",
+        "喜び",
+        "満足",
+        "感情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.687426+00:00Z"
+      "updated_at": "2026-06-02T12:38:56.627333+00:00Z"
     }
   }
 ]

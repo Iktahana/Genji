@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東京の近郊都市では、毎朝の通勤ラッシュが激しく、ホームに人があふれかえる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は家賃の安い近郊都市に引っ越し、週五日を電車で都心に通う生活に切り替えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "大阪の近郊都市では、新興住宅地の開発が相次ぎ、人口が急増している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところがこの近郊都市群は、今世紀の初めからめざましい発展をして、一九二〇年には、もうネバダ山脈からの水だけでは、ロスアンゼルス及びその近郊都市、即ちアメリカの大切な工業地域である南カリホルニアの発展は、これ以上期待出来ないことになってしまった。",
@@ -61,14 +86,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "衛星都市",
+        "郊外都市"
+      ],
+      "antonyms": [
+        "中心都市"
+      ],
+      "related": [
+        "都市",
+        "地域",
+        "発展"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:31:53.548059+00:00Z"
     }
   }
 ]

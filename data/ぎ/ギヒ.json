@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "四番打者が放った犠飛で三塁走者が生還し、チームは均衡を破った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "外野フライを追いかけながら「犠飛になる！」と叫ぶ実況アナウンサーの声が響いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ツーアウト満塁の場面で犠飛を打てるかが、この試合の鍵だと監督は語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「いそぎひれふせ、ひざまづけ、　　みじろがざれ。",
@@ -229,14 +254,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "犠打"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "野球",
+        "打撃",
+        "ベースボール",
+        "得点"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:04:19.736488+00:00Z"
     }
   }
 ]

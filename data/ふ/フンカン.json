@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カップ麺にお湯を注ぎ、正確に3分間待ってから蓋を開けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "激しい運動のあとは、最低でも15分間はゆっくりと休憩を取るようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "試合終了まで残り5分間というところで、見事な逆転ゴールが決まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たゞ眠りに入る一寸前、小さい声で十分か二十分間位呟くくせがあり、その呟きに対して答へると聞きちがへてダダをこねはじめたりすることがあるのは欠点だ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:13:10.124696+00:00Z",
       "freq_rank": 5124,
       "frequencies": {
         "aozora": 1824

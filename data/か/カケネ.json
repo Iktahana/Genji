@@ -329,6 +329,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "営業部長は掛け値なしに、今年の売上は去年比で30%増加したと報告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -337,14 +345,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "割増し価格",
+        "誇張"
+      ],
+      "antonyms": [
+        "掛け値なし",
+        "正価"
+      ],
+      "related": [
+        "値段",
+        "値引き",
+        "交渉",
+        "商売"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.490028+00:00Z",
+      "updated_at": "2026-06-02T04:02:23.539197+00:00Z",
       "frequencies": {
         "aozora": 36
       }

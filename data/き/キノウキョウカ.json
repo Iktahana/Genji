@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システムの機能強化により操作性が大幅に改善された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "次期バージョンでは機能強化が予定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ユーザーの要望を反映した機能強化を実施した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "パーソナルコンピューターを小さくするのではなく、携帯電話を機能強化する感覚が欲しい。",
@@ -109,14 +134,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "改善",
+        "向上",
+        "性能向上"
+      ],
+      "antonyms": [
+        "低下",
+        "劣化"
+      ],
+      "related": [
+        "性能",
+        "アップデート",
+        "改修"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T09:30:52.268763+00:00Z"
     }
   }
 ]

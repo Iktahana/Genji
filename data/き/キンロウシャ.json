@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "賃上げを求める勤労者たちが市役所前に集まり、署名を提出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "勤労者のための低金利ローン制度が新設され、住宅取得のハードルが下がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "税制改正により、年収五百万円以下の勤労者の実質的な手取りが増える見込みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その同情感は、一般勤労者である男性にも通じるものであろう。",
@@ -261,14 +286,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "労働者",
+        "働き手",
+        "従業員",
+        "就労者"
+      ],
+      "antonyms": [
+        "失業者",
+        "無職"
+      ],
+      "related": [
+        "勤労",
+        "賃金",
+        "雇用",
+        "労働組合",
+        "サラリーマン",
+        "労働市場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:48:56.184948+00:00Z",
       "frequencies": {
         "aozora": 382
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "橋の傾斜角は最大5度に制限されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エンジニアが建物の傾斜角を測定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この滑走路の傾斜角は2度である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "停車場近くの神社で花崗石の石の鳥居が両方の柱とも見事に折れて、その折れ口が同じ傾斜角度を示して、同じ向きに折れていて、おまけに二つの折れ目の断面がほぼ同平面に近かった。",
@@ -77,14 +102,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "傾き"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "角度",
+        "勾配"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:52.839228+00:00Z"
+      "updated_at": "2026-06-02T13:18:10.363835+00:00Z"
     }
   }
 ]

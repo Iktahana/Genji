@@ -30,21 +30,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "包丁で野菜を素早く掻っ捌く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛肉を掻っ捌いて料理の準備を進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ナイフで皮を掻っ捌いて細工する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り裂く",
+        "さばく",
+        "切り開く"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "捌く",
+        "切る",
+        "解体",
+        "包丁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:26.310628+00:00Z"
+      "updated_at": "2026-06-02T04:54:03.483917+00:00Z"
     }
   }
 ]

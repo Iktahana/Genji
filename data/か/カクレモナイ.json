@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "彼女は隠れも無い業界トップのデザイナーで、パリやミラノのコレクションでも高く評価されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの食堂は隠れも無い地元の名店で、昼時には行列が通りにまで伸びる日も珍しくない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -206,14 +222,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "有名",
+        "周知",
+        "明白",
+        "公然"
+      ],
+      "antonyms": [
+        "秘密",
+        "隠れた"
+      ],
+      "related": [
+        "周知の事実",
+        "暴露"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.365767+00:00Z"
+      "updated_at": "2026-06-02T03:56:43.427131+00:00Z"
     }
   }
 ]

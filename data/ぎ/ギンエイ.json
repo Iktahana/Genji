@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "老人は縁側に腰を下ろし、低い声で漢詩を吟詠した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "吟詠の会では参加者が順番に詩を朗々と吟詠していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼が漢詩を吟詠し始めると、座敷に張り詰めた静寂が広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実に我々詩人の心外に堪えないことは、今日の文壇や雑誌社すらが、詩の何物たるかを全く知らず、吾人に嘱するに自然の風物吟詠や、四季の変化に際する美文的随筆の類を以てすることである。",
@@ -290,21 +315,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山中の一夜を過ごしながら、彼は月を題材に一首を吟詠した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "師匠から「まず自分で吟詠してみなさい」と言われ、弟子は紙に向かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅先の景色に感動した芭蕉は、宿に入るなり新たな句を吟詠した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "詩吟",
+        "朗誦",
+        "吟唱"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "吟",
+        "詩",
+        "漢詩"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:19:43.831157+00:00Z",
       "frequencies": {
         "aozora": 55
       }

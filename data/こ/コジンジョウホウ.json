@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "会員登録の際、個人情報の取り扱いについての説明をよく読むようにしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "サービス解約後も個人情報がどう処理されるのか、問い合わせてみた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -118,14 +134,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "プライバシー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "情報漏洩",
+        "保護",
+        "管理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.092695+00:00Z",
+      "updated_at": "2026-06-02T14:35:58.779468+00:00Z",
       "frequencies": {
         "aozora": 10
       }

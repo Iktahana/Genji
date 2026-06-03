@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漁業法が改正されて新しい規定が加わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "漁業法に基づいて漁業の秩序が保たれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この事件は漁業法違反に問われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すなわち一言にして蔽うと、この爆弾漁業なるものこそ、吾が日本の国民性に最も適合した漁業法……怪しからんと云ったって事実なんだから仕方がない。",
@@ -47,12 +72,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "法律",
+        "漁業",
+        "漁業権",
+        "水産",
+        "水産庁",
+        "資源保護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:59.292510+00:00Z",
       "frequencies": {
         "aozora": 1
       }

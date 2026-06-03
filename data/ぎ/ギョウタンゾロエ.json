@@ -31,21 +31,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この文書は行端揃えに設定されているので、左右の余白が新聞のようにきれいに揃っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "行端揃えを適用したら、段落全体が整然とした印象になり、読みやすくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "デザイナーから、本文テキストには行端揃えより左揃えのほうが読みやすい場合もあると教わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "両端揃え"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "行揃え",
+        "段落"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:14:40.642803+00:00Z"
     }
   }
 ]

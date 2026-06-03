@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビールのケグを配達する",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ケグから直接タップで飲む",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ケグ単位で大量購入する",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "古歌では松にイロナグサ、オキナグサ、ハツヨグサ、トキワグサ、チエダグサ、チヨギ、ソチヨグサ、スズクレグサ、タムケグサ、メサマシグサ、コトヒキグサ、ユウカゲグサ、ミヤコグサ、クモリグサ、ヒキマグサ、モモクサなど沢山な名がある。",
@@ -69,14 +94,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "樽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ビール",
+        "酒",
+        "容器",
+        "パーティー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:23:01.083694+00:00Z"
     }
   }
 ]

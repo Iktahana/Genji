@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この企業は毎年売上の一割以上を技術開発に充て、競合他社との差別化を図っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "政府は次世代半導体の技術開発を支援するため、大規模な補助金制度を設けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "技術開発が進んだおかげで、かつては高価だった太陽光パネルが家庭でも普及し始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だがもう一方で、手書きには特別の訓練を積まず手を伸ばせるという大きなメリットがあり、Ｄ博士はＮＥＷＳのプロジェクトを立ち上げた一九八五年当時からこの技術開発を進めてきた。",
@@ -93,14 +118,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "技術革新",
+        "R&D",
+        "研究開発",
+        "技術進歩"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イノベーション",
+        "特許",
+        "研究",
+        "産業",
+        "科学技術",
+        "開発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:58:41.463638+00:00Z"
     }
   }
 ]

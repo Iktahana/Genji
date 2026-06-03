@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "武家の若党は沓持ちとして主人の外出に随行し、雪駄を預かって歩いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "行列の先頭には槍持ちが立ち、その後ろを沓持ちが続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "沓持ちの役目を果たした従者は、屋敷に戻ると草履を丁寧にそろえて収めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると、ときどき蛍の火のように、懐中電灯がいくつもちらちら点滅するのが見られた。",
@@ -72,6 +97,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "宴席に招かれた沓持ちは機転の利いた冗談で座を大いに盛り上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "沓持ちと呼ばれた道化者は、殿様の機嫌を取りながら辛辣な皮肉をさりげなく交えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -80,14 +121,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "従者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "靴",
+        "江戸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.935890+00:00Z"
+      "updated_at": "2026-06-02T12:42:07.332893+00:00Z"
     }
   }
 ]

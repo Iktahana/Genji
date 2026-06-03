@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場の労働環境改善を求めて、勤労階級を代表する組合が交渉の席についた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社会保障の充実は勤労階級の生活水準を底上げするうえで不可欠だと訴えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の小説は勤労階級の日常を丁寧に描き、多くの読者の共感を得た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十五円という金がこの国の勤労階級の収入の、殆ど一日分――いや、それ以上の大金だということには、小沢は暫らく気がつかなかった。",
@@ -269,14 +294,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "労働者階級",
+        "労働階級",
+        "勤労者",
+        "ワーキングクラス"
+      ],
+      "antonyms": [
+        "支配階級",
+        "上流階級",
+        "資本家階級"
+      ],
+      "related": [
+        "勤労",
+        "階級",
+        "労働者",
+        "賃金労働",
+        "社会階層",
+        "プロレタリアート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:48:56.184185+00:00Z"
     }
   }
 ]

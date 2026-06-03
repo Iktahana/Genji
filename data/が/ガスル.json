@@ -38,6 +38,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "医者は数日間臥することを勧めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -289,14 +297,29 @@
       "homophones": [
         "賀する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "横たわる",
+        "伏す",
+        "寝る",
+        "寝臥す"
+      ],
+      "antonyms": [
+        "起きる",
+        "立つ",
+        "起立する"
+      ],
+      "related": [
+        "就寝",
+        "休息",
+        "臥床",
+        "安静",
+        "病床"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:33.172221+00:00Z"
+      "updated_at": "2026-06-02T07:54:20.421986+00:00Z"
     }
   },
   {
@@ -330,7 +353,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新年を賀する式典が開催された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の昇進を賀する会が開かれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国家の独立を賀する儀式が行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自然派の諸君子に、此文字の、今日の日本に於て猶真個の生命あるを事実の上に於て証拠立て得たるを賀するものである。",
@@ -580,9 +628,23 @@
       "homophones": [
         "臥する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "祝う",
+        "慶ぶ",
+        "寿ぐ",
+        "祝賀する"
+      ],
+      "antonyms": [
+        "弔う",
+        "悼む"
+      ],
+      "related": [
+        "祝賀",
+        "賀詞",
+        "慶賀",
+        "祝辞",
+        "祝い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -664,9 +726,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "霞む",
+        "霧がかかる"
+      ],
+      "antonyms": [
+        "晴れる"
+      ],
+      "related": [
+        "霧",
+        "霞",
+        "もや",
+        "視界不良",
+        "天気"
+      ]
     },
     "meta": {
       "version": "1.0.0",

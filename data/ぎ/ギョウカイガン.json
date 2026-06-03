@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この火山灰からできた凝灰岩は柔らかくて加工しやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古代遺跡の壁は凝灰岩ブロックで構成されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "地質学的に凝灰岩の層は過去の火山活動を示している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "汽車はサクラメントの大河に沿うて走る、川の底には、堅い凝灰岩などが露出しているが、シャスタを距ること、五十｜哩位のところから、熔岩が、両岸に段丘を作っている。",
@@ -245,14 +270,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "凝灰岩石",
+        "火山灰岩"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "火山岩",
+        "岩石",
+        "地質"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:10:28.641826+00:00Z",
       "frequencies": {
         "aozora": 41
       }

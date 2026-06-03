@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏休みに家族で、山の中にある静かな湖畔のキャンプ場へ行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "湖の向こう側に、雪をかぶった高い山が見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "朝霧が立ち込める湖面を、ボートがゆっくりと進んでいく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "われはつちを掘り、つちをもりて、日毎におんみの家畜を建設す、いま初夏きたり、主のみ足は金屬のごとく、薫風のいただきにありて輝やき、われの家畜は新緑の蔭に眠りて、ふしぎなる白日の夢を畫けり、ああしばし、ねがはくはこの湖しろきほとりに、わがにくしんをしてみだらなる遊戲をなさしめよ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:39:52.232631+00:00Z",
+      "updated_at": "2026-06-02T13:31:52.855879+00:00Z",
       "freq_rank": 4626,
       "frequencies": {
         "aozora": 4063

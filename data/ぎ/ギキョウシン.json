@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その医者は義侠心から貧困層の患者の治療費を免除していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義侠心を持つ者は相手の利益を自分の利益より優先させることが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大火で被災した町を救うという義侠心に駆られて彼は奔走した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを見つけると、吃驚したように立止って、お婆さんの様子を眺め、それから、あたしの方を見て、淑女の面前である手前、どうにも義侠心を出さずにはいられなくなったらしかったわ。",
@@ -253,14 +278,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "侠気",
+        "義気",
+        "男気"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "義侠",
+        "任侠",
+        "武士道",
+        "正義感",
+        "仁義"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:56:01.610892+00:00Z"
     }
   }
 ]

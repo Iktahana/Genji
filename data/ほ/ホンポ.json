@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "創業者が経営していた本舗は今も営業している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この商品は本舗でしか買えない限定品です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "本舗の建物は江戸時代のものが残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "湯豆腐屋で名高い高津神社の附近には薬屋が多く、表門筋には「昔も今も効能で売れる七福ひえぐすり」の本舗があり、裏門筋には黒焼屋が二軒ある。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:39:25.217136+00:00Z",
+      "updated_at": "2026-06-02T13:19:57.187357+00:00Z",
       "freq_rank": 22544,
       "frequencies": {
         "aozora": 19

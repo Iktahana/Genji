@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "各製品の品質スコアをもとに位付けを行い、優先的に改良すべき項目を特定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "校内の成績位付けが公表され、上位者は特別講習への参加資格を得た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -62,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "格付け",
+        "ランキング",
+        "序列化",
+        "ランク付け"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "評価",
+        "等級",
+        "順位"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.994801+00:00Z"
+      "updated_at": "2026-06-02T12:46:27.974921+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地球は近日点を通過した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近日点における軌道速度が最大になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彗星が近日点に接近している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、どんな小さな経験的事実、たとへば水星の近日点の移動の如き事実でも万有引力の理論全体の変革を迫るに十分だつたのである。",
@@ -85,14 +110,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "太陽最近点"
+      ],
+      "antonyms": [
+        "遠日点",
+        "アフェリオン"
+      ],
+      "related": [
+        "遠日点",
+        "軌道",
+        "公転",
+        "離心率",
+        "惑星",
+        "ケプラー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:36:06.960453+00:00Z",
       "frequencies": {
         "aozora": 6
       }

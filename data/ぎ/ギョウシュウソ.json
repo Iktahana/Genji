@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "免疫系は凝集素を産生することで、病原体に対抗する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この凝集素は特定の抗原に反応する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "血清に含まれる凝集素の量を測定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "輓近自家凝集素の研究が進んで、ある程度まではそういうことも出来そうに考えられるけれどそれはもっともっと将来に属することである。",
@@ -45,14 +70,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "凝集抗体",
+        "アグルチニン"
+      ],
+      "antonyms": [
+        "凝集原"
+      ],
+      "related": [
+        "凝集反応",
+        "血液型",
+        "抗体",
+        "免疫",
+        "赤血球",
+        "血清"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:12:05.261219+00:00Z"
     }
   }
 ]

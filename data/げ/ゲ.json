@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その提案はいい気がするが、細部に不安が残る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は優しい気がするけど、実は厳しい人だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このコースは簡単な気がするから、挑戦してみよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だつて君そこに浮気があります浮気は悲しい音楽をヒヨツと忘れさせること度々です空　空　空やつぱり壁は土で造つたものでした。",
@@ -282,14 +307,22 @@
         "夏",
         "牙"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "様子",
+        "気味",
+        "ふう"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "気配",
+        "雰囲気",
+        "態度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:57.466540+00:00Z",
+      "updated_at": "2026-06-02T13:39:12.766407+00:00Z",
       "freq_rank": 212,
       "frequencies": {
         "aozora": 111286
@@ -647,9 +680,20 @@
         "夏",
         "牙"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "下巻",
+        "後編",
+        "下位"
+      ],
+      "antonyms": [
+        "上",
+        "中"
+      ],
+      "related": [
+        "程度",
+        "等級",
+        "書物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -969,9 +1013,18 @@
         "夏",
         "牙"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "偈頌",
+        "詩",
+        "讃"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "経典",
+        "韻文",
+        "詩句"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1291,9 +1344,17 @@
         "偈",
         "牙"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "夏安居",
+        "雨安居",
+        "安居"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "修行",
+        "僧侶"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1656,9 +1717,18 @@
         "偈",
         "夏"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "きば",
+        "象牙",
+        "歯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "象",
+        "動物",
+        "角",
+        "骨"
+      ]
     },
     "meta": {
       "version": "1.0.0",

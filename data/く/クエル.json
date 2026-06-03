@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地元の農家から直送された野菜は新鮮で、シンプルに塩ゆでするだけで十分食えるうまさだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "初めて作ったカレーは少し辛すぎたが、なんとか食えると家族に言ってもらえてほっとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "完熟したマンゴーはそのまま食えるほど甘く、包丁を入れた瞬間に甘い香りが広がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上陸後半日もすると、われわれ一行の鼻の神経は悪臭に対して無感覚となって、うまく飯が食えるようになった。",
@@ -289,7 +314,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "副業のライター収入が月に三十万円を超え、ようやくこれだけで食えると実感できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "職人として食えるようになるまで十年かかったと、師匠は弟子たちに話して聞かせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "小説家として食えるのは一握りだと知りながらも、彼女は書き続けることをやめなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -307,21 +357,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このキノコは毒があるように見えるが、実は加熱すれば食えることを地元の人から教わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "非常食として保存していた缶詰は、賞味期限を少し過ぎていたが食えると判断して使った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "河原で拾ったタニシが食えると知った子どもたちは、早速バケツに集めて家に持ち帰った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "食べられる",
+        "生活できる",
+        "稼げる"
+      ],
+      "antonyms": [
+        "食えない"
+      ],
+      "related": [
+        "食べ物",
+        "生活",
+        "職業",
+        "給料"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:28:42.884552+00:00Z",
       "freq_rank": 24753,
       "frequencies": {
         "aozora": 1093

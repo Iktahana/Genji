@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レーニン主義の経済理論では、国家独占資本主義は帝国主義段階の資本主義の最高形態と位置付けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二十世紀前半の欧州では国家独占資本主義的な経済政策が採用され、国家と大資本の結合が進んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究者は国家独占資本主義の概念を用いて、戦時期の日本経済の構造的特徴を分析した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "自由資本主義",
+        "自由市場主義"
+      ],
+      "related": [
+        "資本主義",
+        "独占資本主義",
+        "国家主義",
+        "社会主義",
+        "混合経済",
+        "国家介入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.454989+00:00Z"
+      "updated_at": "2026-06-02T14:39:37.780670+00:00Z"
     }
   }
 ]

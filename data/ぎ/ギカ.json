@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イチゴは植物学上、果肉部分が花托が発達した偽果であり、本来の果実は表面の粒々の部分だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "リンゴやナシも偽果の一種で、私たちが食べている甘い部分は花托が肥大したものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "植物学の授業で偽果と真果の違いを学び、身近な果物の構造を改めて見直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてこの果はじつは擬果すなわち偽果であって、本当の果実でない事実は素人には分るまいが学者にはよく分っている。",
@@ -281,13 +306,20 @@
         "偽花"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "真果"
+      ],
+      "related": [
+        "果実",
+        "植物学",
+        "種子",
+        "成熟"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:32.109183+00:00Z"
+      "updated_at": "2026-06-02T11:53:24.861114+00:00Z"
     }
   },
   {
@@ -320,7 +352,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その植物は偽花を形成することで昆虫を引き寄せ、効率よく花粉を運ばせる戦略をとっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "偽花は一見すると本物の花のように見えるが、実際には葉が変形したものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究チームは偽花の構造を詳しく調べ、花粉媒介者を欺くメカニズムを解明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "困りましたね」「言いすぎかも知れないけれど、君の言葉はひどくしどろもどろの感じです。",
@@ -563,8 +620,15 @@
         "偽果"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "真花"
+      ],
+      "related": [
+        "花",
+        "植物学",
+        "花序",
+        "苞葉"
+      ]
     },
     "meta": {
       "version": "1.0.0",

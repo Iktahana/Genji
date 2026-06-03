@@ -47,6 +47,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "「人」の訓読は「ひと」である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -243,6 +251,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "この古い書物を訓読するのに、数日かかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -251,14 +267,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "訓読み"
+      ],
+      "antonyms": [
+        "音読み"
+      ],
+      "related": [
+        "漢文",
+        "書き下し文",
+        "音読",
+        "和訓"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T13:20:59.675099+00:00Z",
+      "updated_at": "2026-06-02T13:03:01.468448+00:00Z",
       "frequencies": {
         "aozora": 19
       }

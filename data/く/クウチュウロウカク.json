@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その政治家の公約は、実現不可能な空中楼閣に過ぎない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の壮大な計画は美しいが、実現可能性がない空中楼閣である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夢を持つことは大切だが、空中楼閣に終わらないようにしなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もしこれが可能とすれば、洋上に浮き観測所の設置ということもあながち学究の描き出した空中楼閣だとばかりは言われないであろう。",
@@ -253,14 +278,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "砂上の楼閣",
+        "絵空事",
+        "夢物語",
+        "机上の空論"
+      ],
+      "antonyms": [
+        "現実"
+      ],
+      "related": [
+        "妄想",
+        "幻想",
+        "空想",
+        "理想論"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:27:53.896540+00:00Z"
     }
   }
 ]

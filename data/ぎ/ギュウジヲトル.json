@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治維新後、薩長の勢力が新政府の牛耳を執った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新体制発足後、若手派閥が一気に党の牛耳を執ることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "業界の牛耳を執るべく、彼は三社の合併交渉を水面下で主導した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さう云ふ次第だから創作上の話になると――と云ふより文壇に関係した話になると、勢何時も我々の中では、久米が牛耳を執る形があつた。",
@@ -78,14 +103,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "主導する",
+        "指導する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "権力",
+        "指導権"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:11:14.862662+00:00Z"
     }
   }
 ]

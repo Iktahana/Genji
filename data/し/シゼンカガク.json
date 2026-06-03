@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自然科学の発展により、かつて謎だった多くの現象が解明された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "自然科学は観察と実験を通じて、自然界の法則を明らかにする学問である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "高校の自然科学の授業では、物理と化学の基礎を習う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又経済学や自然科学に就いても、まるで知らないが、やはり文芸との関係は知つてゐる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:29.716543+00:00Z",
+      "updated_at": "2026-06-02T08:24:42.223289+00:00Z",
       "frequencies": {
         "aozora": 1943
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祭りの夜、煌びやかな山車が通りを進むと、沿道の観客から大きな歓声が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は煌びやかな衣装を身にまとい、舞台の中央に立つと一瞬で観客の視線を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "煌びやかなシャンデリアが吊るされた宴会場に足を踏み入れ、思わず息をのんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "回廊の終わりには、常ならぬ光輝の姿、人ならぬ背丈の女性の姿が、頭からつま先まで煌びやかな鎖帷子を纏っていた。",
@@ -237,14 +262,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "華麗",
+        "豪華",
+        "艶やか"
+      ],
+      "antonyms": [
+        "地味",
+        "素朴",
+        "質素"
+      ],
+      "related": [
+        "華美",
+        "光"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:07:28.433955+00:00Z",
       "freq_rank": 31993,
       "frequencies": {
         "aozora": 2

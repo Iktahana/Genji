@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市街地での近接戦は兵士にとって心理的にも肉体的にも極めて過酷な戦闘形態だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ゲームのミッションで建物に突入し、銃を使わずナイフだけで近接戦を制する戦略を試みた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "剣道の試合は礼法から始まるが、打ち合いが始まれば激しい近接戦そのものだと師範は言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小部隊でその全部がおそらく近接戦を行うのであるから、これは、大部隊をなしていてその大部分がしばしば接近しない近代の軍隊に比較して、戦死者の割合が遥かに多かったことであろう２）。",
@@ -53,14 +78,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "白兵戦",
+        "肉弾戦",
+        "格闘戦"
+      ],
+      "antonyms": [
+        "遠距離戦",
+        "銃撃戦"
+      ],
+      "related": [
+        "格闘",
+        "剣戟",
+        "武器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:38:35.776499+00:00Z"
     }
   }
 ]

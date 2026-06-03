@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "駅の近辺には飲食店や小売店が数多く立ち並んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "公園の近辺を夕方散歩するのが日課である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "学校の近辺は帰宅時間に子どもたちで混雑する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近辺の寺々いずこも参詣人多く花屋の店頭黄なる赤き菊｜蝦夷菊堆し。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "近所",
+        "付近",
+        "周辺",
+        "辺り",
+        "近隣"
+      ],
+      "antonyms": [
+        "遠方"
+      ],
+      "related": [
+        "界隈",
+        "周囲",
+        "近く"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:47:31.130765+00:00Z",
       "freq_rank": 9021,
       "frequencies": {
         "aozora": 396
@@ -321,7 +358,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金ペンは高級感があり、贈り物として人気がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金ペンで署名すると書類が格調高く見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は愛用の金ペンで毎日日記を記している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小沢は学生時代、LUMPEN（ルンペン）という題を出されて、「RUMPEN とは合金ペンなり」　という怪しげな答案を書いたことがあるが、ルンペンの本来の意味は、ボロとか屑とかいう意味である。",
@@ -419,7 +481,12 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "万年筆",
+        "ペン先",
+        "筆記用具",
+        "金合金"
+      ]
     },
     "meta": {
       "version": "1.0.0",

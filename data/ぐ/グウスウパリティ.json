@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このデータ転送プロトコルでは偶数パリティを使ってエラー検出を行っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "1ビットの誤りは偶数パリティによって検出できるが、2ビット同時の誤りは見逃す場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "通信設定で偶数パリティを選択すると、データビット中の1の数が偶数になるようパリティビットが付加される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -37,13 +62,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "奇数パリティ"
+      ],
+      "related": [
+        "パリティ",
+        "誤り検出",
+        "偶数",
+        "ビット",
+        "データ通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:04:35.721354+00:00Z"
     }
   }
 ]

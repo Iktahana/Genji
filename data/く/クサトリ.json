@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎週日曜日は庭の草取りを行うのが慣習だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの頃、祖父の畑の草取りを手伝った思い出がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夏の暑い日に草取りをするのは、かなり体力が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "引きちがえて入り来る西洋人のたけ低く顔のたけも著しく短きが赤き顔にこればかり立派なる鬚ひねりながら煙草を人力に買わせて向側のプラットフォームに腰をかけ煙草取り出して鬚をかい上ぐるなどあまり上等社会にもあらざるべし。",
@@ -289,21 +314,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この草取りは握りやすく、長時間の作業でも手が痛くならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "木製の草取りは土に優しく、土壌を傷めない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父は愛用の草取りで、丁寧に庭の雑草を取り除いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "除草",
+        "草むしり"
+      ],
+      "antonyms": [
+        "播種",
+        "植栽"
+      ],
+      "related": [
+        "ガーデニング",
+        "農業",
+        "手入れ",
+        "草刈り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:29:47.868572+00:00Z",
       "freq_rank": 38892,
       "frequencies": {
         "aozora": 94

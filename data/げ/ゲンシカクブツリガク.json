@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原子核物理学は20世紀初頭に飛躍的に発展した学問である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大学院では原子核物理学の専門的な研究に従事することになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の原子核物理学の論文は国際学会で高く評価されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現代の原子核物理学者は声をそろえてこう告白する。",
@@ -117,14 +142,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "核物理学"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "素粒子物理学",
+        "量子力学",
+        "原子物理学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.883066+00:00Z"
+      "updated_at": "2026-06-02T13:51:37.082538+00:00Z"
     }
   }
 ]

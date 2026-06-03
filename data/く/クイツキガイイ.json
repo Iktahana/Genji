@@ -32,21 +32,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日はルアーへの食いつきがいいので、次々と釣れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この時期は食いつきがいいから、初心者でも楽しめるよ」とガイドが言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "反応が良い",
+        "ウケが良い",
+        "興味津々"
+      ],
+      "antonyms": [
+        "反応が薄い",
+        "ウケが悪い",
+        "見向きもしない"
+      ],
+      "related": [
+        "評判",
+        "評価",
+        "魚",
+        "餌",
+        "話題",
+        "好感度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:23:07.045236+00:00Z"
     }
   }
 ]

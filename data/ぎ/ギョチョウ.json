@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "豊かな湿地には魚鳥が集まり、昔から人々の暮らしを支えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "江戸時代の料理書には、魚鳥をさまざまに調理する方法が詳しく記されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "藩の役人が魚鳥の売買を取り締まり、市場の秩序を維持していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あまりに哀しく、きのふきみのくちびる吸ひてきずつけ、かへれば琥珀の石もて魚をかこひ、かの風景をして水盤に泳がしむるの日、遠望の魚鳥ゆゑなきに消え、塔をきづくの額は研がれて、はや秋は晶玉の死を窓にかけたり。",
@@ -271,12 +296,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "魚",
+        "鳥",
+        "生物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:19:05.784779+00:00Z",
       "frequencies": {
         "aozora": 55
       }

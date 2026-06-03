@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "その屏風は個人蔵のため、今回の展覧会では写真パネルのみの展示となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "カタログには「個人蔵」と記された作品が多く、海外に持ち出されているものも含まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -46,14 +62,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "私蔵"
+      ],
+      "antonyms": [
+        "公蔵",
+        "収蔵"
+      ],
+      "related": [
+        "コレクション",
+        "美術品",
+        "所有"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.095818+00:00Z"
+      "updated_at": "2026-06-02T14:35:58.782765+00:00Z"
     }
   }
 ]

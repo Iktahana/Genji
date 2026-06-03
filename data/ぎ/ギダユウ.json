@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "文楽公演を初めて観た彼女は、義太夫の語りの迫力に圧倒されて涙をこぼした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父は若い頃から義太夫に親しみ、今も地域の稽古会で後進に稽古をつけている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "義太夫の節回しは、長年かけて身体に染み込ませるものだと師匠に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三　文楽の義太夫を聞きながら気のついたことは、あの太夫の声の音色が義太夫の太棹の三味線の音色とぴったり適合していることである、ピアノ伴奏では困るのである。",
@@ -237,14 +262,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "義太夫節"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文楽",
+        "浄瑠璃",
+        "三味線",
+        "人形浄瑠璃",
+        "太夫",
+        "竹本義太夫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:04:03.255274+00:00Z",
       "frequencies": {
         "aozora": 567
       }

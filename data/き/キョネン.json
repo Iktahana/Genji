@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "去年の売上は好調だった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "去年の冬は特に寒かった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "去年初めて日本を訪れた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三十通あまりの、その手紙を、まるで谷川が流れ走るような感じで、ぐんぐん読んでいって、去年の秋の、最後の一通の手紙を、読みかけて、思わず立ちあがってしまいました。",
@@ -280,14 +305,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "昨年"
+      ],
+      "antonyms": [
+        "来年"
+      ],
+      "related": [
+        "今年",
+        "前年",
+        "年"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:05:18.712756+00:00Z",
       "freq_rank": 2170,
       "frequencies": {
         "aozora": 5354

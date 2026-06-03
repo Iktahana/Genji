@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "超伝導磁石がクエンチを起こすと大量のヘリウムガスが一気に放出され、実験室の安全弁が作動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "鍛冶職人は赤く焼いた鉄をクエンチして硬度を上げる工程を、何度も繰り返して刃物を仕上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "MRI装置のクエンチ対策として、建物には専用のガス排気ダクトが設置されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "焼入れ",
+        "冷却"
+      ],
+      "antonyms": [
+        "焼鈍"
+      ],
+      "related": [
+        "熱処理",
+        "金属加工",
+        "硬化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:28:42.886554+00:00Z"
     }
   }
 ]

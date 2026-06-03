@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもたちは草っぱらでバッタを探していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昼食は草っぱらに座って食べることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その村には広い草っぱらが広がっていて、牛が何頭も放牧されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「なに、ね、××の臨海亭の裏手に草っぱらがあるのだ、そこに小屋がけをして六十位の婆さんがいる、ところで、この男は、二十二三の女がいるというから大に争っているところだよ」　画家は苦笑しながら手にしていたカップをぐいと飲んだ。",
@@ -77,14 +102,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "草原",
+        "草地",
+        "空き地"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "広場",
+        "自然",
+        "遊び場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:29:47.867225+00:00Z",
       "frequencies": {
         "aozora": 8
       }

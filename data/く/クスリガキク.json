@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "この風邪薬が効くには３日ほどかかるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "胃薬が効く前に食事をしてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -55,14 +71,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "奏効する",
+        "効き目がある",
+        "薬効がある"
+      ],
+      "antonyms": [
+        "薬石効なし"
+      ],
+      "related": [
+        "治癒",
+        "快方",
+        "効果",
+        "回復",
+        "改善"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.175782+00:00Z"
+      "updated_at": "2026-06-02T12:32:59.921195+00:00Z"
     }
   }
 ]

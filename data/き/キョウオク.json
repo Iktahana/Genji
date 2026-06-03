@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "彼の胸臆には深い悲しみが秘められていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -278,14 +286,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "胸中",
+        "心中",
+        "胸奥",
+        "内心",
+        "心奥"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "心",
+        "感情",
+        "思い",
+        "本心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:38.979796+00:00Z",
+      "updated_at": "2026-06-02T10:25:45.560759+00:00Z",
       "frequencies": {
         "aozora": 35
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "業務用の大型冷蔵庫を購入するには、複数の見積もりを比較する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そのレストランは業務用の調理機器を専門に扱う店から仕入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "業務用と家庭用では、製品の耐久性や容量が大きく異なる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "捕まった男は逃げる素振りさえなく、自分の元業務用馬車まで踏みしめるように進み、我々もあとからついていく。",
@@ -135,13 +160,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "家庭用",
+        "個人用"
+      ],
+      "related": [
+        "業務"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:39.995218+00:00Z",
       "frequencies": {
         "aozora": 12
       }

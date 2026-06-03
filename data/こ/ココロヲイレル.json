@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仕事に心を入れて取り組むことが成功の鍵だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この企画に心を入れて準備した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちの教育に心を入れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一歩々々に心を入れるのである。",
@@ -54,14 +79,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "専念する",
+        "打ち込む",
+        "熱心に取り組む",
+        "傾倒する"
+      ],
+      "antonyms": [
+        "手を抜く",
+        "おろそかにする"
+      ],
+      "related": [
+        "努力",
+        "熱心",
+        "集中",
+        "献身",
+        "真剣"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:07.309203+00:00Z"
+      "updated_at": "2026-06-02T14:34:33.839928+00:00Z"
     }
   }
 ]

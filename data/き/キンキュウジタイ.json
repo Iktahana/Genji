@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原子炉の冷却装置が停止し、施設内に緊急事態が宣言された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「これは緊急事態だ、全員すぐに持ち場に戻れ！」と指揮官が怒鳴った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "感染者数が急増し、病院は緊急事態に陥って手術の受け入れを制限せざるを得なかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "公衆衛生に関係する普通の緊急事態においてさえ同じようである。",
@@ -101,14 +126,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "非常事態",
+        "有事",
+        "緊急時",
+        "危機的状況"
+      ],
+      "antonyms": [
+        "平時",
+        "通常状態",
+        "平和"
+      ],
+      "related": [
+        "緊急事態宣言",
+        "戒厳令",
+        "危機管理",
+        "災害対策"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:29:04.721340+00:00Z",
       "frequencies": {
         "aozora": 9
       }

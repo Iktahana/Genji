@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "星の金属量が多いほど、その星は若い可能性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スペクトル分析により、この隕石の金属量が測定された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "銀河系内の恒星の平均的な金属量は、太陽のそれより低い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また同一の原則すなわちその分量の制限によって、削減された鋳貨ももしそれが法定の量目と品位とを有っている場合にはそれが有つべき価値で流通するであろうが、それが実際に含有する金属量の価値では流通しないであろう。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金属",
+        "量",
+        "含有量"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:39:24.511578+00:00Z"
     }
   }
 ]

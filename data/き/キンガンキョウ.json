@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近眼鏡をかけたら授業の黒板がはっきり見えるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "教室の後ろの席で近眼鏡をかけて授業を受けていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女は近眼鏡なしではテレビの画面も読めない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だんだん近付いて見ると、一人のせいの高い、ひどい近眼鏡をかけ、長靴をはいた学者らしい人が、手帳に何かせわしさうに書きつけながら、鶴嘴をふりあげたり、スコープをつかったりしてゐる、三人の助手らしい人たちに夢中でいろいろ指図をしてゐました。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "眼鏡",
+        "めがね"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "近視",
+        "視力",
+        "レンズ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:27:09.165988+00:00Z"
     }
   }
 ]

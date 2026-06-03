@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春になると野原に金鳳花の黄色い花が一面に咲く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金鳳花の花は田舎の春を象徴する風景である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもたちが金鳳花を摘んで持ち帰るのが毎年の光景だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "金鳳花、いらくさ、雛菊、それから紫蘭、あの、紫蘭の花のことを、しもじもの者たちは、なんと呼んでいるか、オフィリヤは、ご存じかな？",
@@ -207,14 +232,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ウマノアシガタ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "花",
+        "黄色",
+        "植物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:45:37.998163+00:00Z",
       "frequencies": {
         "aozora": 6
       }

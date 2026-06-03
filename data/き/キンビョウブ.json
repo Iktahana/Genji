@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "茶室の床の間に置かれた金屏風が、蝋燭の灯りを受けてゆらゆらと輝いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "結婚式の記念撮影では金屏風を背景に、親族全員が並んで写真に収まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "博物館に展示された桃山時代の金屏風は、保存状態が良く今も金色が鮮やかだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "中の茶屋へ着くと、松虫草の紫は、見る影もなく褪せているが、鳥冑草は濃紫に咲いている、そして金屏風を背後にした菊花のように、この有毒植物の、刺戟強い濃紫は、焼砂の大壁を背景にして、荒廃の中に、一点の情火を、執念くも亡ぼさずにいる。",
@@ -279,12 +304,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "屏風",
+        "金箔",
+        "障壁画",
+        "日本画",
+        "屏風絵",
+        "金蒔絵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.459608+00:00Z",
+      "updated_at": "2026-06-02T11:47:31.121510+00:00Z",
       "frequencies": {
         "aozora": 82
       }

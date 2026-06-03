@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この公園は区営である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "区営住宅の申し込みをした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "区営施設の利用方法を確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "九月五日さとるより　窪田章一郎先生　遠くに見える豊島区営グランドの樹々がすっかり黄いろくなりました窓から部屋にいて樹々を遠く見れるのは私の房ととなりの二部屋です。",
@@ -55,13 +80,25 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "市営",
+        "都営",
+        "民営",
+        "県営"
+      ],
+      "related": [
+        "自治体",
+        "特別区",
+        "公営",
+        "行政",
+        "福利厚生",
+        "施設"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:09.806147+00:00Z",
       "frequencies": {
         "aozora": 1
       }

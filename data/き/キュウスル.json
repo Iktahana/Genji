@@ -241,7 +241,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仕事の合間に少し休する時間が欲しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎週日曜日は体を休する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "旅の途中で一日休することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -251,14 +276,29 @@
         "窮する",
         "給する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "休む",
+        "休息",
+        "終わる",
+        "やめる",
+        "中止する"
+      ],
+      "antonyms": [
+        "続ける",
+        "進める"
+      ],
+      "related": [
+        "休止",
+        "休業",
+        "停止",
+        "終了",
+        "静止"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:38.375918+00:00Z",
+      "updated_at": "2026-06-02T10:08:08.032903+00:00Z",
       "frequencies": {
         "aozora": 63
       }
@@ -554,7 +594,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "資金に窮する中での事業継続は困難だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -564,9 +613,23 @@
         "休する",
         "給する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "困る",
+        "困窮する",
+        "苦しむ",
+        "追い詰められる"
+      ],
+      "antonyms": [
+        "恵まれる",
+        "豊かになる"
+      ],
+      "related": [
+        "困窮",
+        "困難",
+        "苦境",
+        "逆境",
+        "貧困"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -615,6 +678,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "食糧を給する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],
@@ -868,9 +939,23 @@
         "休する",
         "窮する"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "与える",
+        "提供する",
+        "供給する",
+        "賄う"
+      ],
+      "antonyms": [
+        "奪う",
+        "取り上げる"
+      ],
+      "related": [
+        "給与",
+        "供給",
+        "提供",
+        "配給",
+        "支給"
+      ]
     },
     "meta": {
       "version": "1.0.0",

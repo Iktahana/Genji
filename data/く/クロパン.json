@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ドイツの朝食には黒パンにバターとハムを乗せたものがよく出てくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "健康を意識して白いパンから黒パンに切り替えたら、腹持ちがずいぶんよくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は市場で買った黒パンをスライスし、温かいスープに添えてテーブルに出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　彼は袋の底をさぐって、黒パンを一と切れ息子に出してやった。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ライ麦パン",
+        "黒麦パン"
+      ],
+      "antonyms": [
+        "白パン"
+      ],
+      "related": [
+        "ライ麦",
+        "全粒粉",
+        "パン",
+        "食パン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:01:14.822931+00:00Z"
     }
   }
 ]

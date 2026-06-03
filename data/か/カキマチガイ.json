@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "提出書類に書き間違いが見つかり、修正が必要になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -70,14 +78,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "誤字",
+        "誤記",
+        "筆誤"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "誤り",
+        "訂正",
+        "校正"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.654362+00:00Z",
+      "updated_at": "2026-06-02T03:39:24.408702+00:00Z",
       "frequencies": {
         "aozora": 3
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その地域の居留民は外国人が大多数を占める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "居留民の権利について法律で明確に定められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "20年の居留民として公式に認められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　局へ内地の新聞を読みに来ている、二三人の居留民が、好奇心に眼を光らせて受付の方へやって来た。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "住民",
+        "居住者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "居留地",
+        "地域",
+        "人口"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:06:45.523993+00:00Z",
       "frequencies": {
         "aozora": 37
       }

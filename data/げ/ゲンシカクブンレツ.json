@@ -29,21 +29,52 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原子核分裂によって莫大なエネルギーが放出される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ウランの原子核分裂を制御することは原子力発電の基本である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "原子核分裂の連鎖反応を止めるため、制御棒が挿入される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "核分裂"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "核融合",
+        "原子力発電",
+        "連鎖反応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.883596+00:00Z"
+      "updated_at": "2026-06-02T13:51:37.082867+00:00Z"
     }
   }
 ]

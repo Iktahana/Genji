@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キーボードでカーソルを動かしてテキストを選択する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "マウスを使ってカーソルを目的の位置に移動させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "画面上のカーソルが点滅している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すぐに点滅にもどったカーソルを、慶一は腹立たしげに見た。",
@@ -93,14 +118,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ポインター"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "マウス",
+        "キーボード",
+        "テキスト入力",
+        "点滅",
+        "カーソルキー",
+        "クリック"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:31.879021+00:00Z",
+      "updated_at": "2026-06-02T07:24:04.782030+00:00Z",
       "freq_rank": 15450,
       "frequencies": {
         "aozora": 7

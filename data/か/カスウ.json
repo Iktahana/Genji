@@ -204,14 +204,23 @@
         "加数",
         "価数"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "マンティサ",
+        "仮数部"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "対数",
+        "指数",
+        "浮動小数点",
+        "有効数字",
+        "指数部"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:25.275491+00:00Z"
+      "updated_at": "2026-06-02T04:26:37.689428+00:00Z"
     }
   },
   {
@@ -410,7 +419,13 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "被加数",
+        "加算",
+        "和",
+        "足し算",
+        "数値"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -458,6 +473,22 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "塩素は価数が1で、ナトリウムと1対1の割合で結合する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この元素の価数を確認してから化合物の化学式を組み立てなさいと先生に言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -591,9 +622,18 @@
         "仮数",
         "加数"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "原子価",
+        "バレンス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "化学結合",
+        "電子",
+        "イオン",
+        "周期表",
+        "酸化数"
+      ]
     },
     "meta": {
       "version": "1.0.0",

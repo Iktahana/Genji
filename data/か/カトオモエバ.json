@@ -329,6 +329,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "雨が降るかと思えば、突然晴れ間が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -337,14 +345,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "かと思うと",
+        "かと思ったら"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "思う",
+        "直後",
+        "瞬間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T07:18:02.021799+00:00Z"
+      "updated_at": "2026-06-02T05:05:53.155324+00:00Z"
     }
   }
 ]

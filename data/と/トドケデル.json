@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい住所に引っ越したら、区役所に届け出る必要があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事故を起こした場合は、すぐに警察に届け出なければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会社に欠勤する際は、事前に総務部に理由を届け出るようになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "イヤお持帰りになりませんならそれで可う御座います、右の次第を届け出るばかりですから」と大きく出れば、いかな母でも半分落城するところだけれど、あの時の自分に何でこんな芝居が打てよう。",
@@ -245,7 +270,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:14:39.570826+00:00Z",
       "frequencies": {
         "aozora": 133
       }

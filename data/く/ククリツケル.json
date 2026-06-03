@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ロープで荷物を括り付けてトラックに積む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "馬を杭に括り付けておく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "荷台に積んだ段ボール箱をしっかり括り付ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "甚だしいのになると、風呂から外へ持ち出されないように、菖蒲をたばねて縄でくくりつけるのもある。",
@@ -166,14 +191,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "縛り付ける",
+        "結び付ける",
+        "固定する",
+        "縛る",
+        "繋ぎ止める"
+      ],
+      "antonyms": [
+        "ほどく",
+        "外す",
+        "解放する"
+      ],
+      "related": [
+        "紐",
+        "ロープ",
+        "杭",
+        "束縛",
+        "固定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:29:05.141275+00:00Z",
       "frequencies": {
         "aozora": 48
       }

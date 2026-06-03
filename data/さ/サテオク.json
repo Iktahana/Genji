@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "難しい問題はいったんさて置いて、解決できることから片付けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "意見の相違はさて置いて、共同作業を進めることで合意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は私情をさて置いて、冷静に事態を判断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その一つは、いうまでもないことですが、……ひとまず、貴方の変貌についてはさて置くとして、鵜飼邦太郎の変貌には、なにか他から加えられた力があるのではないかと思われたのです。",
@@ -77,7 +102,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:20.722591+00:00Z",
+      "updated_at": "2026-06-02T08:06:46.318246+00:00Z",
       "frequencies": {
         "aozora": 98
       }

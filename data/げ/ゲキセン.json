@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "第二次世界大戦中、この地は激戦の場となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "選手権大会は激戦を繰り広げた末、地元チームが優勝した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "営業部門では激戦の結果、新人が成績トップとなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東郷提督の命令一下で、露国のバルチック艦隊を一挙に撃滅なさるための、大激戦の最中だったのでございます。",
@@ -280,14 +305,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "死闘",
+        "熱戦",
+        "接戦",
+        "乱戦",
+        "苦戦"
+      ],
+      "antonyms": [
+        "圧勝",
+        "楽勝"
+      ],
+      "related": [
+        "戦争",
+        "競争",
+        "選挙",
+        "合戦",
+        "戦闘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:57.739315+00:00Z",
+      "updated_at": "2026-06-02T13:40:41.031975+00:00Z",
       "freq_rank": 18265,
       "frequencies": {
         "aozora": 205

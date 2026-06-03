@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "植物図鑑でマメ科の分類について詳しく調べていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "うちの庭にはマメ科の植物を多く植えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "マメ科の植物は土を肥やす効果があるらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一年生植物でもマメ科やナス科の植物が連作を嫌うのは、明らかに同じ系統のものが永く同じ状態を繰返すことの不利を証明していると云ってもよい。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:30:15.464841+00:00Z",
       "frequencies": {
         "aozora": 9
       }

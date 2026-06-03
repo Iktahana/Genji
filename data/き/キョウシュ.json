@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は囲碁に格別の興趣を持ち、八十歳を過ぎても毎週碁会所に通っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の話は細部まで丁寧で、聞くうちに自然と鉄道史への興趣が湧いてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "枯山水の庭を眺めているうちに、造園という世界への興趣が深まっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それがために物語はいっそう古雅な詩的な興趣を帯びている。",
@@ -266,14 +291,24 @@
         "凶手",
         "教主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "関心",
+        "興味",
+        "嗜好",
+        "趣味"
+      ],
+      "antonyms": [
+        "無関心"
+      ],
+      "related": [
+        "好み",
+        "愛好"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:39.337848+00:00Z",
+      "updated_at": "2026-06-02T10:34:20.975958+00:00Z",
       "frequencies": {
         "aozora": 135
       }
@@ -634,9 +669,18 @@
         "凶手",
         "教主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "傍観"
+      ],
+      "antonyms": [
+        "干渉",
+        "介入"
+      ],
+      "related": [
+        "動作",
+        "礼儀",
+        "中国"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -949,9 +993,17 @@
         "凶手",
         "教主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "晒す"
+      ],
+      "antonyms": [
+        "埋葬"
+      ],
+      "related": [
+        "刑罰",
+        "死刑",
+        "歴史"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1046,9 +1098,18 @@
         "梟首",
         "教主"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "殺人鬼",
+        "犯人",
+        "暗殺者"
+      ],
+      "antonyms": [
+        "被害者"
+      ],
+      "related": [
+        "犯罪",
+        "殺人"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1373,9 +1434,16 @@
         "梟首",
         "凶手"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "宗主",
+        "導師"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "宗教",
+        "宗派",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",

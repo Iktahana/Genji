@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "革命後に新政権が樹立され、議会制民主主義から一党独裁へと国家体制が大きく変わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "憲法改正の議論は国家体制の根幹に触れるため、与野党間で激しい論争が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "植民地支配からの独立後、各国は自国の文化や歴史に根ざした国家体制の構築を模索した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "第一次欧州大戦を契機として軍事上の進歩は驚嘆すべき有様であり、特にドイツおよびソ連の全体主義的国防建設が列強のいわゆる国防国家体制への急進展となりつつある。",
@@ -93,14 +118,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "国体",
+        "体制"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "政治制度",
+        "統治"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.442542+00:00Z"
+      "updated_at": "2026-06-02T14:38:23.367605+00:00Z"
     }
   }
 ]

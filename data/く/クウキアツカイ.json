@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あいつは俺を完全に空気扱いしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新入社員が空気扱いされるのはよくあることだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "友人グループから空気扱いされるのはつらい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "純一はとかくこんな時には、透くまで待っていようとするのであるが、今日大村が人を押し退けようともせず、人に道を譲りもせずに、群集を空気扱いにして行くので、その背後に附いて、早く出た。",
@@ -46,14 +71,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "無視",
+        "完全無視",
+        "村八分",
+        "のけ者",
+        "冷遇",
+        "孤立"
+      ],
+      "antonyms": [
+        "重用",
+        "優遇",
+        "評価"
+      ],
+      "related": [
+        "人間関係",
+        "いじめ",
+        "社会的排除",
+        "無視"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:25:50.862618+00:00Z"
     }
   }
 ]

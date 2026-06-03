@@ -314,6 +314,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "会社は重大な損失を喫することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -322,14 +330,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "食べる",
+        "摂取"
+      ],
+      "antonyms": [
+        "吐く"
+      ],
+      "related": [
+        "飲食",
+        "食事"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:36.209351+00:00Z",
+      "updated_at": "2026-06-02T09:20:04.679568+00:00Z",
       "frequencies": {
         "aozora": 468
       }

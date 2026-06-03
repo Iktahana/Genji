@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "感染症の局在化を目指す公衆衛生政策が実施されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疾患の局在により治療がより効果的になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "問題を特定地域に局在させるための対策が講じられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今後私の生活がいかように変わろうとも、私は結局在来の支配階級者の所産であるに相違ないことは、黒人種がいくら石鹸で洗い立てられても、黒人種たるを失わないのと同様であるだろう。",
@@ -159,14 +184,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "限局",
+        "局限",
+        "偏在",
+        "集中"
+      ],
+      "antonyms": [
+        "分散",
+        "拡散",
+        "散在"
+      ],
+      "related": [
+        "局所",
+        "局部",
+        "分布",
+        "局在化",
+        "偏在"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:56:28.161425+00:00Z",
       "frequencies": {
         "aozora": 12
       }

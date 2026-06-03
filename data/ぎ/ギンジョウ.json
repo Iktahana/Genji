@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このレストランでは地元産の吟醸を、冷やして提供している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "吟醸の芳醇な香りを楽しむために、ワイングラスを使う人も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "父親の誕生日は、有名な吟醸で祝った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夕月がほのかに照る、白船君だしぬけに来庵、これはこれはとばかり話しこんでしまつた、八時の汽車へ見送る、お土産の吟醸をいたゞく。",
@@ -77,14 +102,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "吟醸酒"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "大吟醸",
+        "日本酒",
+        "酒",
+        "醸造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:20:29.183374+00:00Z",
       "freq_rank": 21250,
       "frequencies": {
         "aozora": 5

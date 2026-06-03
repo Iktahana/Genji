@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この機械部品はくさび形に削られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "くさび形の石が、アーチの構造を支えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "斧の刃はくさび形をしているので、効率よく木を割ることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところがそのうちにハーシュはあんまり車ががたがたするやうに思ひましたのでふり返って見ましたら車の輪は両方下の方で集まってくさび形になってゐました。",
@@ -97,14 +122,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "楔状",
+        "V字型"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "形状",
+        "図形",
+        "鋭角",
+        "先細り"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:30:25.584452+00:00Z",
       "frequencies": {
         "aozora": 7
       }

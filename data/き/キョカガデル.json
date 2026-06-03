@@ -30,21 +30,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の申請がようやく実り、建設工事の許可が出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "主治医から外出の許可が出たので、患者は久しぶりに病院の外の空気を吸った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「上司から許可が出たら、すぐに着工できます」と現場監督は施主に説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "認可が下りる"
+      ],
+      "antonyms": [
+        "許可が下りない",
+        "拒否される"
+      ],
+      "related": [
+        "許可",
+        "承認",
+        "決定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:40.268572+00:00Z"
+      "updated_at": "2026-06-02T10:52:17.815351+00:00Z"
     }
   }
 ]

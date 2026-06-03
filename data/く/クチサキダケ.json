@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「手伝うよ」と言いながら何もしない彼は、口先だけの男だと思われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "約束をいつも守らない彼女に、「あなたは口先だけね」と友人が呆れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会議では積極的に発言するのに行動が伴わない社員は、口先だけと評価された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "和尚さんが、どんな殊勝げな顔をして、どんなりつぱなことをいはうと、それは口先だけのことで、ほんたうの和尚さんがどんな人であるか、自分はちやんと知つてゐる、と菊次さんは心のうちでいつてゐました。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "言葉だけ",
+        "有言不実行",
+        "看板倒れ",
+        "名ばかり"
+      ],
+      "antonyms": [
+        "有言実行",
+        "不言実行"
+      ],
+      "related": [
+        "嘘",
+        "信頼性",
+        "公約",
+        "虚勢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:38:04.950802+00:00Z"
     }
   }
 ]

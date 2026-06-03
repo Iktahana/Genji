@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "岐阜県は内陸に位置し、海に面していない代わりに雄大な山岳地帯が広がっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "岐阜県の飛騨地方は豪雪地帯で、冬になると三メートル以上の積雪になることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長良川は岐阜県を代表する清流で、友釣りのメッカとして全国の釣り人に愛されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "岐阜県××町、――里見稲子、二十七、と宿帳に控えたが、あえて誌すまでもない、岐阜の病院の里見といえば、家族雇人一同神のごとくに崇拝する、かつて当家の主人が、難病を治した名医、且つ近頃三由屋が、株式で伊勢の津に設立した、銀行の株主であるから。",
@@ -271,12 +296,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "岐阜市",
+        "中部地方",
+        "東海地方",
+        "飛騨",
+        "美濃",
+        "長良川"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:04:48.153353+00:00Z",
       "frequencies": {
         "aozora": 46
       }

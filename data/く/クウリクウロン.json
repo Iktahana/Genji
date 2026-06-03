@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その計画は空理空論だと批判された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "専門家は彼の意見を空理空論と退けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "空理空論で終わらず実行が大事だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「同時に人相や風采を突きとめない限り、それは空理空論の満足に過ぎないでしょう。",
@@ -101,14 +126,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "机上の空論",
+        "砂上の楼閣",
+        "絵空事",
+        "徒労"
+      ],
+      "antonyms": [
+        "実践的",
+        "現実的",
+        "実学",
+        "具体的"
+      ],
+      "related": [
+        "理論",
+        "理屈",
+        "非現実",
+        "議論",
+        "抽象的",
+        "観念的"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:09.801719+00:00Z",
       "frequencies": {
         "aozora": 11
       }

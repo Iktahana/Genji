@@ -399,21 +399,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "北から強い風が吹き付けている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "北の風は冷たく、頬を刺すようだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "天気予報によると北からの風が強まるだろう",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "北方"
+      ],
+      "antonyms": [
+        "南"
+      ],
+      "related": [
+        "方角",
+        "方向",
+        "東",
+        "西",
+        "地理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T23:09:13.225528+00:00Z",
+      "updated_at": "2026-06-02T09:13:43.359168+00:00Z",
       "freq_rank": 1550,
       "frequencies": {
         "aozora": 8377

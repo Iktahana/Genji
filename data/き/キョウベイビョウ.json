@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治初期の知識人の中には、欧米列強への過度な依存を恐米病と批判する者もいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の論説は恐米病に陥らず対等な外交を目指すべきだという主張で締めくくられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "戦後の恐米病とも呼ばれる風潮を乗り越えようと、若い外交官たちは独自路線を模索した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すくなくとも、一種の「恐米病」又は「酔米病」に囚われている日本には、しっかりしたものは一人も居ない。",
@@ -46,13 +71,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "親米"
+      ],
+      "related": [
+        "恐米",
+        "嫌米",
+        "アメリカ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:49:41.733132+00:00Z"
     }
   }
 ]

@@ -29,21 +29,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏場の工場内は空気調節が十分でなく、作業員が熱中症で倒れる事故が相次いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このビルは竣工当時から空気調節に力を入れており、真冬でも室内は快適な温度に保たれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "空気調節の不具合で会議室が蒸し暑くなり、プレゼンの途中で参加者全員が汗をかき始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "空気調整",
+        "空調",
+        "エアコン",
+        "環境制御"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "調節",
+        "温度",
+        "湿度",
+        "環境",
+        "設備",
+        "快適"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:25:50.868428+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のスピーチは切り口上で、聴衆に感情が伝わらなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "堅い文体で書かれた報告書は切り口上な印象を与える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "官僚的な対応は切り口上だと市民から批判された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "親御も御得心ならば、今夜からすぐにお越し下さるように、わたくしがお迎いにまいりました」　女は切り口上で云った。",
@@ -269,14 +294,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "堅苦しい挨拶",
+        "改まった口調"
+      ],
+      "antonyms": [
+        "砕けた口調",
+        "打ち解けた言葉"
+      ],
+      "related": [
+        "礼儀",
+        "挨拶",
+        "格式",
+        "言葉遣い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:12:04.103428+00:00Z",
       "frequencies": {
         "aozora": 12
       }

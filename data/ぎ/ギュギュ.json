@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "激しく運動した後、ぎゅぎゅという音で息をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「ぎゅぎゅ、ぎゅぎゅ」と寝息をかいている子ども。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "喘息の患者がぎゅぎゅという音を出して息をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またその約束を楯にとって相手をぎゅぎゅ押しつけるなんて蛮行は野暮の至りである。",
@@ -47,12 +72,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "擬音語",
+        "オノマトペ",
+        "締める",
+        "押さえる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:10:55.513913+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画ザキラービーズをレンタルしてきたら、思ったよりずっと怖くて途中で止めてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「ザキラービーズって観たことある？」「殺人蜂のパニック映画でしょ、昔テレビで放送してたよ」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ザキラービーズは1978年の作品で、父が若い頃に映画館で観たと懐かしそうに話していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:25.466586+00:00Z"
+      "updated_at": "2026-06-02T08:18:12.760155+00:00Z"
     }
   }
 ]

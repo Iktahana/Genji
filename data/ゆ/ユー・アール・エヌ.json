@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンテンツの場所が変わってもアクセスできるように、ＵＲＮを用いて永続的な識別子を付与した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "書籍情報を電子化するにあたり、ISBNを基にしたＵＲＮを定義して管理することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ＵＲＮはリソースの名前そのものを指すため、URLとは異なりアクセス手段を指定しない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "／七種類のベーシックのステートメント（ＩＮＰＵＴ、ＰＲＩＮＴ、ＬＥＴ、ＧＯＴＯ、ＩＦ、ＧＯＳＵＢ、ＲＥＴＵＲＮ）／文字列？",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:47:37.559359+00:00Z"
     }
   }
 ]

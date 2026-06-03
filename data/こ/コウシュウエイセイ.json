@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "公衆衛生の改善により、感染症の蔓延が防がれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -278,14 +286,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "衛生"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "公衆",
+        "健康",
+        "医療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T02:03:46.611331+00:00Z",
+      "updated_at": "2026-06-02T14:08:21.629637+00:00Z",
       "frequencies": {
         "aozora": 78
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "議会で緊急動議が提出され、採決が行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "状況の急変に対応するため、緊急動議が必要となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "規則では、3人の議員が署名すれば緊急動議ができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "○いざり一、（神妙に）敬意を払ひませう、若い時代に、刃向ふ古いものは、犬に喰はれますから、（突拍子もない高い声）諸君、緊急動議を提出します。",
@@ -101,14 +126,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "緊急提案",
+        "臨時動議",
+        "緊急発議"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "議会",
+        "議事進行",
+        "委員会",
+        "採決",
+        "議長"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:29:04.725382+00:00Z"
     }
   }
 ]

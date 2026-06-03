@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その古い文献には戯文が多く含まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代の戯文は機知に富んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "戯文を書くことで著者の個性が表れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家人は私を未だ病人あつかいにしているし、この戯文を読むひとたちもまた、私の病気を知っている筈である。",
@@ -245,14 +270,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "諧謔文",
+        "滑稽文",
+        "戯書"
+      ],
+      "antonyms": [
+        "正文",
+        "真面目な文章"
+      ],
+      "related": [
+        "戯作",
+        "滑稽",
+        "ユーモア",
+        "諧謔",
+        "文学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:04:48.160766+00:00Z",
       "frequencies": {
         "aozora": 28
       }

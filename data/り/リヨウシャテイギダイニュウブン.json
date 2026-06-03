@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "複雑な構造体のデータをメモリリークを起こさず安全にコピーするため、プログラムのクラス内に専用の利用者定義代入文を実装した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "メモリのポインタを含むオブジェクトを別の変数に代入する際、コンパイラが自動的に利用者定義代入文を呼び出してディープコピーを行う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "社内のコーディング規約に従い、このプロジェクトでは動的なメモリ確保を行うクラスに対する利用者定義代入文の記述を徹底している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:41:16.633085+00:00Z"
+      "updated_at": "2026-06-02T14:02:08.508111+00:00Z"
     }
   }
 ]

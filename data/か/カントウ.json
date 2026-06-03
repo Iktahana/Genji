@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雑誌の巻頭には有名人のインタビュー記事が掲載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "教科書の巻頭のページには目次が印刷されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巻頭に広告が多く掲載されると印象に残りやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "婦人雑誌の巻頭挿画らしい色刷の絵が一枚貼ってある。",
@@ -288,7 +313,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロジェクトの巻頭から参加することになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会議の巻頭で新しい方針が発表された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この物語は巻頭から終わりまで緊迫した展開が続く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -308,14 +358,29 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "冒頭",
+        "巻首",
+        "書き出し",
+        "最初"
+      ],
+      "antonyms": [
+        "巻末",
+        "末尾",
+        "結末"
+      ],
+      "related": [
+        "目次",
+        "序文",
+        "前書き",
+        "冒頭",
+        "書籍"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:31.185304+00:00Z",
+      "updated_at": "2026-06-02T07:01:48.772406+00:00Z",
       "freq_rank": 16933,
       "frequencies": {
         "aozora": 276
@@ -354,7 +419,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オリンピック選手たちが敢闘精神で試合に臨んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "敢闘する選手の姿勢は観客の心を打つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "試合終盤まで敢闘を続けて、奇跡的な逆転勝利を成し遂げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "低速のおかげで往復に寧日なく、呼べば「ヘーイ」と調子の外れた大声で返事はするが目じろぎもせず必死の構へは崩れをみせず、真剣敢闘、汗は流れ、呼吸は荒れ、たまに勝負の手があくと汗をふきふき誰彼と腹蔵なく談論風発、隠し芸まであつて「浜辺の歌」だの「小さな喫茶店」などゝいふセンチな甘い歌が大好きで声もよい。",
@@ -551,9 +641,23 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "奮闘",
+        "健闘",
+        "力戦"
+      ],
+      "antonyms": [
+        "敗退",
+        "降伏"
+      ],
+      "related": [
+        "戦う",
+        "勇敢",
+        "健闘",
+        "奮戦",
+        "闘志",
+        "武勇"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -932,8 +1036,17 @@
         "完登"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "関西"
+      ],
+      "related": [
+        "東京",
+        "首都圏",
+        "関西",
+        "地方",
+        "東日本",
+        "関東地方"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1079,9 +1192,22 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "完投勝利",
+        "一人投げ抜く"
+      ],
+      "antonyms": [
+        "途中降板",
+        "リリーフ"
+      ],
+      "related": [
+        "先発投手",
+        "野球",
+        "完封",
+        "完投勝利",
+        "投球",
+        "ピッチャー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1405,9 +1531,19 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "官位",
+        "位階",
+        "官階"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "官職",
+        "位階",
+        "役人",
+        "叙位",
+        "官僚制度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1734,9 +1870,17 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "棒の先端",
+        "竿の先"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "竿",
+        "棒",
+        "旗竿",
+        "先端"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1983,9 +2127,21 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "危機",
+        "瀬戸際",
+        "肝心な時",
+        "正念場",
+        "峠"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "危機",
+        "分岐点",
+        "瀬戸際",
+        "転換点",
+        "決断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2312,9 +2468,18 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "間投詞",
+        "感嘆詞"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "品詞",
+        "感動詞",
+        "叫び声",
+        "文法",
+        "言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2649,9 +2814,18 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ふき",
+        "フキ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "山菜",
+        "キク科",
+        "ヤマブキ",
+        "野草"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2858,9 +3032,18 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "竿灯祭り",
+        "ねぶた"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "秋田",
+        "東北",
+        "祭り",
+        "伝統行事",
+        "民俗"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3043,9 +3226,20 @@
         "奸盗",
         "完登"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "公稲",
+        "官有米"
+      ],
+      "antonyms": [
+        "私稲"
+      ],
+      "related": [
+        "律令制",
+        "租税",
+        "米",
+        "朝廷",
+        "国家"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3201,9 +3395,19 @@
         "官稲",
         "完登"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "悪賊",
+        "盗賊",
+        "賊"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "泥棒",
+        "賊",
+        "犯罪",
+        "悪党",
+        "盗み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3352,9 +3556,21 @@
         "官稲",
         "奸盗"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "登頂",
+        "完攀"
+      ],
+      "antonyms": [
+        "途中下山",
+        "敗退"
+      ],
+      "related": [
+        "クライミング",
+        "登山",
+        "ボルダリング",
+        "山岳",
+        "攀登"
+      ]
     },
     "meta": {
       "version": "1.0.0",

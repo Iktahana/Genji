@@ -30,21 +30,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オートバイのエンジンは水冷ではなく空気冷却方式を採用しているため、構造がシンプルで整備しやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電子機器の基板に取り付けられたヒートシンクが空気冷却を担い、CPU の温度を適正範囲に保っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "小型発電機は空気冷却で設計されているが、密閉された部屋で長時間使うと熱がこもり過熱する危険がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "空冷"
+      ],
+      "antonyms": [
+        "水冷",
+        "液冷"
+      ],
+      "related": [
+        "エンジン",
+        "ラジエーター",
+        "放熱",
+        "冷却ファン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:24:10.574387+00:00Z"
     }
   }
 ]

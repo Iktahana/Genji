@@ -316,14 +316,31 @@
         "角す",
         "嚇す"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "秘める",
+        "隠蔽する",
+        "秘匿する",
+        "覆う",
+        "包み隠す"
+      ],
+      "antonyms": [
+        "現す",
+        "明かす",
+        "露わにする",
+        "公開する"
+      ],
+      "related": [
+        "隠れる",
+        "秘密",
+        "内緒",
+        "偽装",
+        "伏せる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.983504+00:00Z",
+      "updated_at": "2026-06-02T03:49:15.908205+00:00Z",
       "freq_rank": 8263,
       "frequencies": {
         "aozora": 10157
@@ -749,9 +766,20 @@
         "角す",
         "嚇す"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "区画する",
+        "線引きする",
+        "区切る",
+        "区分する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "区分",
+        "境界",
+        "計画",
+        "区画",
+        "線引き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -794,7 +822,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史小説には謀反人を馘すという残酷な場面が生々しく描かれており、読者を戦慄させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "と思わず口を滑らせたら、菊ちゃんは一瞬はっと表情をかえて妙にまじめな眼つきで私の顔を見つめたかと思うと、くるっと私に背をむけお盆で顔をかくすようにして店の奥へ駈けこんでいったものだ。",
@@ -1053,6 +1090,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "不正経理が発覚した部長を馘すかどうか、緊急役員会で深夜まで議論が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -1066,9 +1111,23 @@
         "角す",
         "嚇す"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "解雇する",
+        "首を切る",
+        "斬首する",
+        "罷免する"
+      ],
+      "antonyms": [
+        "採用する",
+        "雇用する"
+      ],
+      "related": [
+        "解雇",
+        "馘首",
+        "罷免",
+        "斬首",
+        "懲戒"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1393,9 +1452,18 @@
         "馘す",
         "嚇す"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "競う",
+        "争う",
+        "比べる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "競争",
+        "対決",
+        "勝負",
+        "競技"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1687,9 +1755,23 @@
         "馘す",
         "角す"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "脅す",
+        "威嚇する",
+        "恫喝する",
+        "脅迫する"
+      ],
+      "antonyms": [
+        "励ます",
+        "なだめる"
+      ],
+      "related": [
+        "脅迫",
+        "威嚇",
+        "恐喝",
+        "恐怖",
+        "圧力"
+      ]
     },
     "meta": {
       "version": "1.0.0",

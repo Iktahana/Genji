@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい機能拡張がリリースされて使いやすくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この機能拡張により作業効率が大幅に向上した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "機能拡張をインストールすると新しいツールが使える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ハイパーカードには、かなり突っ込んだ機能拡張を受け入れる柔軟性があります。",
@@ -165,14 +190,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "拡張",
+        "機能追加",
+        "アドオン"
+      ],
+      "antonyms": [
+        "縮小"
+      ],
+      "related": [
+        "ソフトウェア",
+        "プラグイン",
+        "アップグレード"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:30:52.267512+00:00Z",
       "frequencies": {
         "aozora": 18
       }

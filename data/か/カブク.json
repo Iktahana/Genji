@@ -329,6 +329,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "江戸の町では常識を逸した振る舞いで傾く若者たちが群れをなして歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -380,14 +388,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "傾斜する",
+        "斜める"
+      ],
+      "antonyms": [
+        "正す",
+        "立てる"
+      ],
+      "related": [
+        "傾斜",
+        "奇妙",
+        "珍しい",
+        "斜め"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:27.468273+00:00Z",
+      "updated_at": "2026-06-02T05:23:08.418769+00:00Z",
       "freq_rank": 25311,
       "frequencies": {
         "aozora": 2792

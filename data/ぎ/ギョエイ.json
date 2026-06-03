@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その御詠は、昭和天皇が自然についての深い思いを詠んだものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "宮家の御詠を読むことで、皇族の文化的教養の高さが伝わってくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歌集に収められた御詠は、古典的な和歌の伝統を継ぐ作品だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つひぞ、かういふ事は十四五歳の後には味はつた事が無かつたのに、暗く交睫みつつある心の表に突然三味線が鳴り出したり御詠歌が聞えたりするのを、半ば無意識に聞くといふ事は、然し兎に角愉快な事であつた。",
@@ -255,14 +280,23 @@
       "homophones": [
         "魚影"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "御製",
+        "御歌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "和歌",
+        "天皇",
+        "皇族",
+        "歌会始",
+        "短歌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:33.019686+00:00Z",
+      "updated_at": "2026-06-02T12:16:26.862131+00:00Z",
       "frequencies": {
         "aozora": 5
       }
@@ -298,7 +332,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "水面下の魚影を見つけたら、竿を静かに構える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この川には大きな魚影が見えるので、大物が隠れているかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昼間の明るい水面でも、慣れた目なら魚影を察知できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは、まったく翡翠が杭の上から魚影を覗う敏捷でしかも瀟洒な姿態である。",
@@ -334,7 +393,13 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "釣り",
+        "魚群探知機",
+        "水面",
+        "漁場",
+        "獲物"
+      ]
     },
     "meta": {
       "version": "1.0.0",

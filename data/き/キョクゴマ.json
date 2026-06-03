@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもの時に曲独楽で遊んだ懐かしい思い出がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "曲独楽を手のひらで回すのは意外とコツがいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その職人は手作りの曲独楽を全国に販売している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　足芸をする若い女太夫、一人で八人分の芸を使う、中年増の女太夫、曲独楽を廻す松井源水の弟子、――などというような芸人を、一緒に集めて打っている小屋で、都会ではとうてい見ることの出来ない、大変もないイカモノ揃いなのだが、そこは田舎のことなので、毎夜繁昌していたものさ。",
@@ -269,14 +294,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "独楽"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "玩具",
+        "回転",
+        "遊具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:54:44.142774+00:00Z"
     }
   }
 ]

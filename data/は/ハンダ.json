@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "基板上の細かい部品を固定するために、熱したコテで丁寧に半田を盛り付ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "半田がうまく馴染まず、接続部分が不安定になって接触不良が起きてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "電子工作を始めたばかりの息子は、銀色に光る半田の扱いに苦戦している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昭和十七年九月半田の生家にて新美南吉",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:50.909104+00:00Z",
+      "updated_at": "2026-06-02T12:47:40.886025+00:00Z",
       "freq_rank": 19910,
       "frequencies": {
         "aozora": 84

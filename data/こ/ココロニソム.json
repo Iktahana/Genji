@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "この茶碗の風合いが心に染む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -71,14 +79,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "染み入る",
+        "感じ入る",
+        "心に刺さる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感動",
+        "感慨"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:07.172900+00:00Z"
+      "updated_at": "2026-06-02T14:33:05.243203+00:00Z"
     }
   }
 ]

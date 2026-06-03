@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "玄関に入ると、彼は靴を揃えて並べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -54,14 +62,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "靴を並べる"
+      ],
+      "antonyms": [
+        "靴を散らす"
+      ],
+      "related": [
+        "靴",
+        "整理",
+        "玄関"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.951416+00:00Z"
+      "updated_at": "2026-06-02T12:42:07.335889+00:00Z"
     }
   }
 ]

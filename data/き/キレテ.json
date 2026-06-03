@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は営業部の切れ手として知られており、新規顧客を次々と開拓している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その切れ手のおかげで、プロジェクトは予定より早く完了した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会社の切れ手たちが一堂に集まり、新戦略について議論した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「戦いの後と見えまして、衣裳は千切れ手傷を負い、無惨な有様ではございますが、容貌秀麗態度｜毅然、立派なものでございます」「では野武士ではないのだな？",
@@ -253,14 +278,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "才人",
+        "有能",
+        "敏才"
+      ],
+      "antonyms": [
+        "無能",
+        "凡人"
+      ],
+      "related": [
+        "人物",
+        "能力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:18:54.838674+00:00Z",
       "freq_rank": 8155
     }
   }

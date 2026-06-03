@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "肉屋でギアラを切り分けてもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "焼肉店ではギアラが人気メニューの一つだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ギアラは塩辛い味が特徴である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "薔薇は間もなく知つたが、彼が飾られてゐるこの店といふのは花屋でも菓子屋でもなく実は、官感派の芸術家のギアラリイであつた。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "第四胃",
+        "センマイ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ホルモン",
+        "牛の胃",
+        "センマイ",
+        "ミノ",
+        "ハチノス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:53:15.845498+00:00Z"
     }
   }
 ]

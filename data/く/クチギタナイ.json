@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その酔っ払った男は口汚い言葉で警察官を罵った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "』などと思いきり口汚い無智な不平ばかり並べるのですからねえ、僕は自国の現在の民衆と思い合せて、苦しくて、そのお説教をおしまいまで聞いて居られなくなって、途中で逃げて来たのですが、何だかひどく淋しくて、あなたのところに駈け込んで来たのです。",
@@ -168,21 +177,44 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金銭に口汚い者は、いつまでたっても満足することがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "口が悪い",
+        "下品",
+        "毒舌",
+        "罵詈雑言"
+      ],
+      "antonyms": [
+        "口綺麗",
+        "上品",
+        "丁寧"
+      ],
+      "related": [
+        "悪口",
+        "罵倒",
+        "罵る",
+        "卑しい"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:37:04.886404+00:00Z",
       "frequencies": {
         "aozora": 95
       }

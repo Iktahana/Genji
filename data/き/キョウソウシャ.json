@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の最大の競争者は、同じ地域で店を開いている企業である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スポーツ選手は多くの強い競争者と戦わなければならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "競争者の動向をしっかり分析することは経営戦略の基本だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これでも求婚の競争者が相当ございましてね」　という意味のようなことを話しかけると、妻は「まあまあ、そんなお話、どうでもいいじゃございませんか」「それよりかまだ山の中でおとうさまがお見残しのとこもございましょう。",
@@ -279,14 +304,27 @@
       "homophones": [
         "競走者"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "競争相手",
+        "競合者",
+        "ライバル",
+        "対抗者"
+      ],
+      "antonyms": [
+        "協力者",
+        "味方"
+      ],
+      "related": [
+        "競争",
+        "競合",
+        "敵手",
+        "好敵手"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:29.685191+00:00Z"
+      "updated_at": "2026-06-02T10:37:45.725014+00:00Z"
     }
   },
   {
@@ -319,7 +357,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マラソンの競走者たちは朝早く練習を開始する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オリンピックの競走者は人生をかけて目標に向かっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "短距離の競走者は瞬発力を鍛えるために日々トレーニングしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは第一流の競走者の千九百万倍もはやく走ります。",
@@ -393,9 +456,19 @@
       "homophones": [
         "競争者"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "走者",
+        "ランナー",
+        "選手"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "競走",
+        "陸上競技",
+        "マラソン",
+        "短距離走",
+        "レース"
+      ]
     },
     "meta": {
       "version": "1.0.0",

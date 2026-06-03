@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "冬の夜空には、鯨座がはっきり見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -62,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "星座",
+        "天体"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "星",
+        "天文学",
+        "宇宙",
+        "夜空"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.124366+00:00Z",
+      "updated_at": "2026-06-02T12:32:52.061331+00:00Z",
       "frequencies": {
         "aozora": 1
       }

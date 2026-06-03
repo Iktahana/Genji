@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日今日での急激な値上げに驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日今日のニュースをチェックするのが習慣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日今日の出来事を日記に記録している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "虫の声　垣根の朝顔やう／＼小さく咲きて、昨日今日｜葉がくれに一花みゆるも、そのはじめの事おもはれて哀れなるに、松虫すゞ虫いつしか鳴よわりて、朝日まちとりて竈馬の果敢なげに声する、小溝の端、壁の中など有るか無きかの命のほど、老たる人、病める身などにて聞たらば、さこそ比らべられて物がなしからん。",
@@ -288,21 +313,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これは昨日今日始まった問題ではない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日今日でそう簡単に変わるものではない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昨日今日の間に決める事柄ではありません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "最近",
+        "ここ数日",
+        "今日昨日"
+      ],
+      "antonyms": [
+        "昔",
+        "以前"
+      ],
+      "related": [
+        "時間",
+        "期間",
+        "現在"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:30:52.268275+00:00Z",
       "freq_rank": 26383,
       "frequencies": {
         "aozora": 184

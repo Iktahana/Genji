@@ -31,21 +31,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "くず米を混ぜて炊くとご飯が安くなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "くず米も売られているが、選別が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古米を挽いてくず米にする工程を見学した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "砕米",
+        "割れ米"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "米",
+        "精米",
+        "玄米",
+        "穀物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.206724+00:00Z"
+      "updated_at": "2026-06-02T12:35:20.851662+00:00Z"
     }
   }
 ]

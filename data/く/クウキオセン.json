@@ -29,21 +29,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "都市の空気汚染は深刻な問題だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "空気汚染が原因で喘息が悪化する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "工場からの排気が空気汚染を招いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大気汚染",
+        "環境汚染",
+        "公害",
+        "汚濁"
+      ],
+      "antonyms": [
+        "空気清浄",
+        "清浄"
+      ],
+      "related": [
+        "環境",
+        "排気ガス",
+        "PM2.5",
+        "大気",
+        "汚染",
+        "有害"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:25:50.864084+00:00Z"
     }
   }
 ]

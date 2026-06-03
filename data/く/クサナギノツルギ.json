@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本の皇位継承の三種の神器の一つが草薙の剣だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "神話では、スサノオが八岐大蛇から草薙の剣を取り出したとされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古典の授業で、草薙の剣について学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "草薙の剣は能く見ゆる野火を薙ぎ尽したりと雖、見えざる銃鎗は、よもや薙ぎ尽せまじ。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天叢雲剣"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "三種の神器",
+        "日本神話",
+        "日本武尊",
+        "熱田神宮"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:29:47.869099+00:00Z"
     }
   }
 ]

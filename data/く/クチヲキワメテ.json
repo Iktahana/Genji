@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "批評家たちは口を極めて新作映画を酷評した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -295,14 +303,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "散々",
+        "激しく",
+        "痛烈に",
+        "盛んに"
+      ],
+      "antonyms": [
+        "控えめに"
+      ],
+      "related": [
+        "罵倒",
+        "称賛",
+        "強調",
+        "表現"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.731137+00:00Z"
+      "updated_at": "2026-06-02T12:39:44.334913+00:00Z"
     }
   }
 ]

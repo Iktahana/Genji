@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "現場を見れば、事故の原因がおおよそ見当つくはずだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -62,14 +70,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見当がつく"
+      ],
+      "antonyms": [
+        "見当がつかない"
+      ],
+      "related": [
+        "見当",
+        "推測",
+        "判断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:56.985571+00:00Z"
+      "updated_at": "2026-06-02T13:36:00.777842+00:00Z"
     }
   }
 ]

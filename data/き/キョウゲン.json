@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "能の合間に演じられた狂言に、観客席から笑い声が漏れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は小学生のころから狂言の稽古に通い、今では家元に次ぐ実力者だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "狂言の「附子」を観て、日本の伝統的なコメディの奥深さを改めて感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "学校のおつとめからお帰りになって、隣りのお部屋で、私たちの話を立聞きして、ふびんに思い、厳酷の父としては一世一代の狂言したのではなかろうか、と思うことも、ございますが、まさか、そんなこともないでしょうね。",
@@ -288,7 +313,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この歌舞伎の狂言は江戸時代から続く人気演目で、毎年正月に上演される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "座元は新しい狂言の台本を作者に依頼し、来年の興行に備えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "見物客は並んで席に着き、幕が開くと同時に狂言の世界に引き込まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -306,21 +356,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "倒れているのは狂言だと思っていたら、本当に怪我をしていたのだと後で知った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は狂言で具合が悪いふりをして、面倒な会議を欠席した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人は口論しているように見えたが、あれはすべて狂言だったらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "能狂言",
+        "茶番",
+        "猿楽",
+        "仮病",
+        "芝居",
+        "でたらめ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "能",
+        "歌舞伎",
+        "茶番劇",
+        "喜劇",
+        "演劇",
+        "和泉流"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:29:08.400658+00:00Z",
       "freq_rank": 21730,
       "frequencies": {
         "aozora": 1859

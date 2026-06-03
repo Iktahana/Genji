@@ -377,7 +377,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:25.145358+00:00Z",
+      "updated_at": "2026-06-02T10:14:08.483514+00:00Z",
       "freq_rank": 15518,
       "frequencies": {
         "aozora": 1773
@@ -2860,6 +2860,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い台帳を調べると、奉公人の手間賃が日に二銭と書き留められていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
               }
             }
           ],
@@ -7244,7 +7252,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今さら後悔しても詮がないと自分に言い聞かせ、前を向いて歩き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "証拠もなく疑いをかけても詮のないことだと、弁護士は依頼人を諭した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼に謝罪を求めても詮はないと悟り、裁判で決着をつける道を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }

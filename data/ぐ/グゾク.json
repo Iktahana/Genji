@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治の啓蒙思想家は社会に深く根付いた愚俗を批判し、文明開化の必要性を訴えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "科学的根拠のない迷信を愚俗と切り捨てるのは簡単だが、その背景にある民衆の知恵を見落としてはならない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しい知事は就任演説で「旧来の愚俗にとらわれず、改革を断行する」と高らかに宣言した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その子衡父の屍を覓めて得ざりければ、鵠の足を縻いで石崖頂に置き、白日昇天したと言い触らし、愚俗これを信じて子孫を天師と崇めた（『五雑俎』八）。",
@@ -157,14 +182,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "俗気",
+        "凡俗"
+      ],
+      "antonyms": [
+        "高潔",
+        "清廉"
+      ],
+      "related": [
+        "俗世",
+        "愚か"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:50.123819+00:00Z"
+      "updated_at": "2026-06-02T13:05:36.403040+00:00Z"
     }
   }
 ]

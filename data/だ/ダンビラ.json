@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "侍は腰に段平を差して歩いていた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "段平は日本刀より幅が広く、一撃の威力が大きい",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "中国武術の段平は無骨な美しさを持つ武器だ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その侍、ハハッ、と平伏して「知らぬ事とは申せ無礼の段平に」と謝まった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:00.099213+00:00Z",
+      "updated_at": "2026-06-02T11:19:06.726871+00:00Z",
       "frequencies": {
         "aozora": 56
       }

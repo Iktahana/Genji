@@ -29,21 +29,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テキストエディタの行始端に余分なスペースが入っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プログラミングでは行始端のインデントが重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この行始端に新しいコメントを挿入する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "行頭",
+        "ホームポジション",
+        "行の先頭"
+      ],
+      "antonyms": [
+        "行末端",
+        "行終端"
+      ],
+      "related": [
+        "行末",
+        "テキスト編集",
+        "カーソル",
+        "改行",
+        "インデント",
+        "文字コード"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:12:05.258361+00:00Z"
     }
   }
 ]

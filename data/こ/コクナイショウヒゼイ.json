@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "国内消費税は商品の価格に含まれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "内国消費税",
+        "物品税",
+        "消費税"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "税制",
+        "間接税",
+        "消費税",
+        "物品税",
+        "課税"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:06.263498+00:00Z"
+      "updated_at": "2026-06-02T14:29:51.978587+00:00Z"
     }
   }
 ]

@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "東京を拠点とする企業",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はニューヨークを拠点とする",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -55,14 +71,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "本拠を置く",
+        "根拠地とする"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "拠点",
+        "活動拠点",
+        "進出",
+        "展開",
+        "本拠"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:40.702523+00:00Z"
+      "updated_at": "2026-06-02T11:05:21.579325+00:00Z"
     }
   }
 ]

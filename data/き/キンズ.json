@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学校は授業中の携帯電話の使用を禁ずる規則を定めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その地域では野生動物への餌付けを禁ずる法令が施行された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "図書館は飲食を禁ずるルールで、静寂な環境を保っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "政府が盆踊を禁ずるのも、国民が欧米人の真似をするのも、固有の日本文化が亡びるのも、すべて皆基督教の宣教師が宣伝するためであり、一切の悪は耶蘇教の罪に帰せられた。",
@@ -278,14 +303,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "禁じる",
+        "禁止する",
+        "制止する",
+        "差し止める"
+      ],
+      "antonyms": [
+        "許す",
+        "許可する",
+        "解禁する"
+      ],
+      "related": [
+        "規制",
+        "制限",
+        "法律",
+        "命令",
+        "条例"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.111085+00:00Z"
+      "updated_at": "2026-06-02T11:39:05.198340+00:00Z"
     }
   }
 ]

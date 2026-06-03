@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "電気刺激を与えると筋収縮が瞬時に起きることが実験で確認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "マラソンの終盤に筋収縮が乱れ始め、彼は脚の痙攣に苦しんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "筋収縮のメカニズムを学ぶため、学生たちはカエルの標本を使って観察した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "注意深く研究されてきた幾つかの共役した生化学反応たとえば筋収縮とか呼吸のような反応においてすべての個々の段階は他の段階と特異的に関連していることが示された。",
@@ -69,14 +94,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "筋肉収縮"
+      ],
+      "antonyms": [
+        "筋弛緩",
+        "筋肉弛緩"
+      ],
+      "related": [
+        "筋肉",
+        "収縮",
+        "弛緩",
+        "筋繊維",
+        "ATP",
+        "筋疾患"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:34:35.958685+00:00Z"
     }
   }
 ]

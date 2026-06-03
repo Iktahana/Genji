@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この申請書の空欄には氏名を記入してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "テーブルの空欄が多いと見栄えが悪くなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "空欄を埋めるためにデータを入力する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "画面上に表示された表の縦横の空欄にキーボードから数字を入れていくと、あらかじめ指示しておいた計算の手順に従って、ビジカルクは自動的に処理を行った。",
@@ -101,14 +126,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "白紙",
+        "ブランク",
+        "空白",
+        "未記入"
+      ],
+      "antonyms": [
+        "記入済",
+        "既入",
+        "充填"
+      ],
+      "related": [
+        "フォーム",
+        "書類",
+        "欄",
+        "記入",
+        "入力",
+        "アンケート"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:09.798850+00:00Z",
       "freq_rank": 36994,
       "frequencies": {
         "aozora": 9

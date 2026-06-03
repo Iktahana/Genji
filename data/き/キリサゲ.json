@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "通貨の切り下げは、その国の経済に大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "政府は円の切り下げを決定して、輸出業界を支援した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "為替相場による切り下げで、商品の競争力が上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし比率を半分に切り下げても、研究の数が四倍になれば、博士及第者の数は二倍になるのは明白な勘定であろう。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "平価切り下げ",
+        "減価",
+        "通貨下落"
+      ],
+      "antonyms": [
+        "切り上げ",
+        "通貨切り上げ",
+        "平価切り上げ",
+        "増価"
+      ],
+      "related": [
+        "為替レート",
+        "通貨",
+        "平価",
+        "インフレ",
+        "経済政策",
+        "国際収支"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:16:23.185228+00:00Z",
       "freq_rank": 28635,
       "frequencies": {
         "aozora": 40

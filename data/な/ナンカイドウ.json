@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の旅人たちは、風光明媚な南海道を巡る旅を楽しんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "南海道には、弘法大師ゆかりの寺院が数多く点在している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "奈良時代には、南海道は行政区画の一つとして定められていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "北海道や朝鮮台湾は除外するとしても、たとえば南海道九州の自然と東北地方の自然とを一つに見て論ずることは、問題の種類によっては決して妥当であろうとは思われない。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:30:25.229922+00:00Z",
       "frequencies": {
         "aozora": 39
       }

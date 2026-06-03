@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいナイフが布に切れ込む",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "雨水がコンクリートの隙間に切れ込んでいく",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "風が窓の隙間から冷たく切れ込む",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その日の夕方も、まだ日の高いうちに、野崎島をめぐって神之浦へ切れ込むと、そこへ山のような和蘭陀船が一艘｜碇泊って、風待ちをしているのが眼に付いた。",
@@ -62,14 +87,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り込む",
+        "刻み込む"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "切る",
+        "潜入",
+        "侵入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:18:54.836089+00:00Z",
       "frequencies": {
         "aozora": 30
       }

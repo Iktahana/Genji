@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の古い木を切った後、株が残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "切り株の上にキノコが生えていて、きれいだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この株からは、新しい芽が次々と出てくるだろう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宗谷〔一〕宮沢賢治まくろなる流れの岸に根株燃すゆふべのけむりこらつどひかたみに舞ひてたんぽゝの白き毛をふく丘の上のスリッパ小屋に媼ゐてむすめらに云ふかくてしも畑みな成りてあらたなる艱苦ひらくと",
@@ -279,14 +304,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り株",
+        "根株",
+        "根っ子"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "樹木",
+        "伐採",
+        "森林",
+        "倒木"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:22:23.045023+00:00Z",
       "freq_rank": 968,
       "frequencies": {
         "aozora": 1964

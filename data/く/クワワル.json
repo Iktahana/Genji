@@ -416,6 +416,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "熱が加わると、金属は膨張する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -424,14 +432,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "参加する",
+        "増す",
+        "加算される",
+        "加盟する",
+        "仲間入りする"
+      ],
+      "antonyms": [
+        "抜ける",
+        "減る",
+        "離脱する"
+      ],
+      "related": [
+        "増加",
+        "参加",
+        "適用"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:49.656174+00:00Z",
+      "updated_at": "2026-06-02T13:00:30.911046+00:00Z",
       "freq_rank": 9910,
       "frequencies": {
         "aozora": 3218

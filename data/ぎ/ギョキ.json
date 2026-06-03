@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イワシの漁期は冬が最盛期である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "漁期に入ると、この町は活気を取り戻す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "漁期を外すと新鮮な魚が手に入らない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "凡そ東京近くにて青鼠頭魚といふものは、春の末夏の初頃より数十日の間、内海の底浅く沙平らかなる地にて漁るものの釣に上るものを指して称へ、また白鼠頭魚とは青鼠頭魚の漁期より一ト月も後れて釣れ初むるものをいふ。",
@@ -263,14 +288,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "漁り期",
+        "漁季"
+      ],
+      "antonyms": [
+        "禁漁期",
+        "禁漁"
+      ],
+      "related": [
+        "解禁",
+        "漁業",
+        "水産",
+        "魚",
+        "旬",
+        "漁獲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:59.288129+00:00Z",
       "frequencies": {
         "aozora": 29
       }

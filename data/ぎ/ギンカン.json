@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "盆地の農家に泊まった夜、天を渡る銀漢がくっきりと見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「銀漢の　流れや冴えて　秋の夜」と祖父は縁側で静かに呟いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "山の頂まで登ると、銀漢が頭上をゆっくりと横切っているように見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "下り舟岩に松ありつゝじあり　或は千仭の山峰雲間に突出して翠鬟鏡影に映じ或は一道の飛流銀漢より瀉ぎて白竜樹間に躍る。",
@@ -69,14 +94,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "天の川",
+        "銀河",
+        "天漢",
+        "星の川"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "夜空",
+        "星",
+        "七夕",
+        "宇宙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:20:11.284622+00:00Z",
       "frequencies": {
         "aozora": 6
       }

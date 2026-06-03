@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関の靴箱から今日の靴を取り出そうとしたら、棚が一杯で探すのに手間取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引越しのとき靴箱の靴を整理したら、段ボール三箱分にもなって驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "子どもが靴箱の中に砂を持ち込んでいて、すべての靴が砂だらけになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "食牛羊皮襖、靴箱、馬鞍。",
@@ -45,14 +70,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "シューボックス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "靴",
+        "箱",
+        "玄関"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.912871+00:00Z",
+      "updated_at": "2026-06-02T12:42:07.331311+00:00Z",
       "frequencies": {
         "aozora": 2
       }

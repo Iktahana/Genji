@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は何か距離感を感じているようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オンラインミーティングでは距離感が生まれやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "思春期は親子の距離感が変わる時期だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから、聖者はまた、二つ三つ、眼をしばだたくと、聖者の眼に富士はいつも寺の縁から眺められる距離感に戻って、青空に匂った。",
@@ -229,14 +254,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "距離",
+        "隔たり"
+      ],
+      "antonyms": [
+        "親密感"
+      ],
+      "related": [
+        "関係",
+        "印象",
+        "人間関係",
+        "心理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:06:45.519006+00:00Z",
       "frequencies": {
         "aozora": 26
       }

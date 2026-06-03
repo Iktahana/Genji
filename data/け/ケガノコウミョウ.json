@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "転んだのが怪我の功名で、新しい道が開けた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "失敗が怪我の功名となって大きなチャンスを掴んだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "偶然の怪我の功名で人生が大きく変わった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "広大な松林の中を一直線に切開いた道路は実に愉快なちょっと日本ばなれのした車路で、これは怪我の功名意外の拾い物であった。",
@@ -200,14 +225,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "棚からぼたもち",
+        "瓢箪から駒",
+        "フロック",
+        "まぐれ当たり"
+      ],
+      "antonyms": [
+        "裏目",
+        "骨折り損"
+      ],
+      "related": [
+        "失敗",
+        "成功",
+        "幸運",
+        "偶然",
+        "ミス"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:23:04.994354+00:00Z"
     }
   }
 ]

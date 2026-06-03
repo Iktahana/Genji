@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "偶像教は古代地中海世界に広く分布していた宗教形態の一つだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "キリスト教の布教活動はしばしば地元の偶像教との摩擦を生んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "人類学者は部族社会に残る偶像教の儀礼を詳細に記録した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ははは、そこでございますから、自然、貴下がたには、仏教、即ち偶像教でないように思召しが願いたい、御像の方は、高尚な美術品を御覧になるように、と存じて、つい御遊歩などと申すような次第でございますよ。",
@@ -61,14 +86,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "偶像崇拝",
+        "偶像礼拝"
+      ],
+      "antonyms": [
+        "偶像破壊",
+        "一神教"
+      ],
+      "related": [
+        "偶像",
+        "宗教",
+        "崇拝",
+        "礼拝",
+        "多神教"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:04:35.726748+00:00Z"
     }
   }
 ]

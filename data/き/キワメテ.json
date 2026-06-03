@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その計画は極めて重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "状況は極めて深刻だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は極めて優秀な人材だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論時代といふものは極めて包括的に観る場合にのみその姿を現すがやうなものであるから、現代が芸術のためには明かに不幸な時代であるとしてからが、それは必ずしも芸術家個人々々にまで直ちに不幸な時代といふことを意味しはしまい。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "非常に",
+        "大変",
+        "至って",
+        "極度に"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "著しく",
+        "甚だしく",
+        "まことに"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:21:17.730467+00:00Z",
       "freq_rank": 2162,
       "frequencies": {
         "aozora": 9963

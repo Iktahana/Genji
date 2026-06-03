@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雷雨の日には空中電気が増加し、放電現象が活発になる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "科学者たちは空中電気がどのように蓄積されるかについて研究を進めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気象観測所では、空中電気の変化を毎日測定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここで聴いたキービッツという若いプリバート・ドチェントの空中電気の講義は始め十人くらいの聴講者がだんだん減ってとうとう二、三人になってしまった、そのせいか数時間でおしまいになった。",
@@ -109,14 +134,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "大気電気"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "雷",
+        "静電気",
+        "大気",
+        "気象"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:26:05.817655+00:00Z"
     }
   }
 ]

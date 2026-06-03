@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新型モデルは居住性が大幅に改善され、後部座席でも足元に余裕がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このアパートは古いが日当たりがよく、居住性という点では申し分ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "キャンピングカーの選定では価格より居住性を重視すべきだと勧められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "居住性からいえば、大阪の郊外、殊に阪神間くらいいいところはないと思う。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "快適性",
+        "住みやすさ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "環境",
+        "品質",
+        "利便性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:00:18.129019+00:00Z",
       "frequencies": {
         "aozora": 6
       }

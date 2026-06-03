@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は毎日のように川柳を作り、五七五のリズムで日常の機智を詠みこんでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "俳句より自由な川柳は、社会風刺や人間模様をユーモアたっぷりに表現する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その川柳大会では、日本全国から上千句が投稿され、選者たちが最優秀作を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いろはがるたや、川柳や、論語などに現わされている日常倫理の戒津だけでは、どうも生き難い。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:28.182028+00:00Z",
+      "updated_at": "2026-06-02T10:26:26.257689+00:00Z",
       "freq_rank": 15823,
       "frequencies": {
         "aozora": 488

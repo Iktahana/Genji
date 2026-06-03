@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人気のラーメン屋の前には、毎日長い行列ができている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新作映画の上映初日は、チケット売り場に行列ができていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "朝6時の段階で、もう行列が50人以上いるようだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さうして眞黒の群衆が、何十萬とも數知れずに押し合ひながら、お玉杓子のやうに行列して居る。",
@@ -289,21 +314,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "行列を使うことで、複雑な連立方程式を簡潔に表現できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この行列の階数を計算することは、システムの安定性を判定するのに重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "3×3行列の逆行列を求めるには、余因子行列を使う方法が便利である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "列",
+        "並び",
+        "マトリックス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "順番待ち",
+        "行列式",
+        "線形代数",
+        "混雑",
+        "人気店"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:26.858888+00:00Z",
       "freq_rank": 6672,
       "frequencies": {
         "aozora": 2387

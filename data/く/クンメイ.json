@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "君命に逆らうことは、その時代では死を意味していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -294,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "王命",
+        "主命",
+        "御下命",
+        "勅命"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "命令",
+        "指示",
+        "主君"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T13:20:59.678575+00:00Z",
+      "updated_at": "2026-06-02T13:03:01.472320+00:00Z",
       "frequencies": {
         "aozora": 86
       }

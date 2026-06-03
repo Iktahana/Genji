@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "次の選挙では野党も候補者を立てることを表明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -54,14 +62,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "推薦する",
+        "指名する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "候補者",
+        "選挙",
+        "推薦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:04.317681+00:00Z"
+      "updated_at": "2026-06-02T14:19:51.420850+00:00Z"
     }
   }
 ]

@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アルゴリズムを説明するために、プログラマーは疑似コードを書いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その疑似コードは十分に詳細で、実装が容易だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疑似コードを使うことで、言語に依存しない方法でロジックを説明できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "擬似コード",
+        "疑似言語"
+      ],
+      "antonyms": [
+        "ソースコード",
+        "実装コード"
+      ],
+      "related": [
+        "アルゴリズム",
+        "プログラミング",
+        "フローチャート",
+        "仕様書",
+        "設計",
+        "プログラム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:58:41.456449+00:00Z"
     }
   }
 ]

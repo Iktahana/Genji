@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は二つの派閥の間に居中して、どちらにも公平な姿勢を保ち続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "司会者が居中する形で両チームのディベートが進められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "調停役として居中した大使は、対立する両国の代表と丁寧に対話を重ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（623 a. Chr.）Solon は仲裁者（διαλλακτ）と稱せられたが、中裁（居中調停、勞資協商）とは階級鬪爭の中裁を謂つたものである。",
@@ -279,14 +304,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "中立",
+        "中間",
+        "中央"
+      ],
+      "antonyms": [
+        "偏向",
+        "一方的"
+      ],
+      "related": [
+        "調停",
+        "仲介",
+        "仲裁",
+        "中庸",
+        "公平"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:05:21.573513+00:00Z",
       "frequencies": {
         "aozora": 16
       }

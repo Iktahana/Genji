@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "高圧電線は100キロボルトで動作している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -62,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "kV"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ボルト",
+        "メガボルト",
+        "電圧",
+        "高圧",
+        "送電",
+        "電力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:41.467512+00:00Z",
+      "updated_at": "2026-06-02T11:21:17.882796+00:00Z",
       "frequencies": {
         "aozora": 1
       }

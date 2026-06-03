@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "グループチャットでは言いにくかったので、彼に個人チャットで直接相談した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "上司から突然個人チャットに「今日少し話せますか」と届き、どきりとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "プライベートチャット",
+        "DM"
+      ],
+      "antonyms": [
+        "グループチャット",
+        "公開チャット"
+      ],
+      "related": [
+        "メッセージ",
+        "コミュニケーション"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.096964+00:00Z"
+      "updated_at": "2026-06-02T14:36:13.413471+00:00Z"
     }
   }
 ]

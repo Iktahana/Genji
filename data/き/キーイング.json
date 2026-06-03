@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映像のキーイング処理でグリーンスクリーンを削除した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "キーイング技術を使って背景を別の画像に変えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "高度なキーイングにより違和感のない合成映像ができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この絵とどう違うか……」とて、知らぬ人に「スキーイング・ターンス」の説明カードを手渡しその前で何度もクリスチャニアをやるマニア。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "合成",
+        "クロマキー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映像",
+        "画像処理",
+        "編集"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:50:42.399747+00:00Z"
     }
   }
 ]

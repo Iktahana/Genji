@@ -377,6 +377,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "彼はビールをキュッと飲み干した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -385,14 +393,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぎゅっと",
+        "ぐっと"
+      ],
+      "antonyms": [
+        "ゆったり",
+        "ゆるく"
+      ],
+      "related": [
+        "締める",
+        "絞る",
+        "押さえる",
+        "握る"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:38.751432+00:00Z"
+      "updated_at": "2026-06-02T10:20:46.322554+00:00Z"
     }
   }
 ]

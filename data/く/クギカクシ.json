@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数寄屋造りの床柱には精巧な釘隠が施され、金工の細工が美しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古民家を改修した際、職人が伝統的な文様の釘隠を取り付けて雰囲気を出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "美術館の展示で江戸時代の釘隠が並べられており、花や松を象った意匠が目を引いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでも建ちは割合に高くて、簡単な欄間もあり銅の釘隠なども打ってある。",
@@ -183,12 +208,19 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "釘",
+        "装飾金具",
+        "金具",
+        "建具",
+        "座金",
+        "和釘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:28:47.130989+00:00Z",
       "frequencies": {
         "aozora": 3
       }

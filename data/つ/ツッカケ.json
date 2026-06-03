@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "玄関に脱ぎ捨てた突っかけを履いて、彼女は庭に出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "近所のコンビニへ行くだけだからと、古い突っかけのまま出かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "縁側に置いてある突っかけがどこかに見当たらず、庭に降りられなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "清逸は誰のともしれない下駄を突っかけて、身を切るような明け方近い空気の中に立った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:17.333943+00:00Z",
+      "updated_at": "2026-06-02T11:44:24.132143+00:00Z",
       "frequencies": {
         "aozora": 12
       }

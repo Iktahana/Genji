@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "審査委員会はその提案を可とする決定を下した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "併し机や米に對しては、誰しも精の一語を下して其の製作を評されたり、其の物を評されたりするやうなものを可とするが、學問に於ては時に異議あることを免れない。",
@@ -278,14 +287,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "認める",
+        "許可する",
+        "承認する"
+      ],
+      "antonyms": [
+        "否とする",
+        "不可とする"
+      ],
+      "related": [
+        "判定",
+        "評価"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:26.774804+00:00Z"
+      "updated_at": "2026-06-02T05:05:53.158324+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い王宮の玉殿は複雑な装飾で彩られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "玉殿に招待されることは最高の栄誉だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その玉殿は数百年前に建設されたものとは思えないほど豪華だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "否、斯くの如きは少くとも大自覚の磐上に理想の玉殿を建設せむとする者の採用すべき路にあらず。",
@@ -149,14 +174,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宮殿",
+        "御殿",
+        "玉楼"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "宝殿",
+        "皇居",
+        "宮城",
+        "楼閣"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:19:20.294503+00:00Z"
     }
   }
 ]

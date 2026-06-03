@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人の意見に大きな食い違いがあって、話し合いが続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "伸縮性のある材料なので、接合部に食い違いが生じやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夫婦の人生観の食い違いが、離婚の原因になったそうだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十銭芸者の話も千日前の殺人事件の話も阿部定の話も、書けばありし日を偲ぶよすがになるとはいうものの、今日の世相と余りにかけ離れた時代感覚の食い違いは如何ともし難く、世相の哀しさを忘れて昔の夢を追うよりも、まず書くべきは世相ではあるまいか。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "齟齬",
+        "矛盾",
+        "不一致",
+        "隔たり",
+        "ギャップ"
+      ],
+      "antonyms": [
+        "一致",
+        "符合",
+        "合致",
+        "整合"
+      ],
+      "related": [
+        "意見",
+        "認識",
+        "誤解",
+        "調整"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:22:23.047675+00:00Z",
       "freq_rank": 18260,
       "frequencies": {
         "aozora": 56

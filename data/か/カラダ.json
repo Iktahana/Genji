@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "毎日の運動で体が丈夫になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -423,14 +431,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "身体",
+        "肉体",
+        "身",
+        "胴体",
+        "肉"
+      ],
+      "antonyms": [
+        "心",
+        "精神",
+        "魂"
+      ],
+      "related": [
+        "健康",
+        "体力",
+        "体型",
+        "体格",
+        "体調"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:28.537802+00:00Z",
+      "updated_at": "2026-06-02T05:51:06.237182+00:00Z",
       "freq_rank": 509,
       "frequencies": {
         "aozora": 19508

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "CADソフトの画面を開き、複雑な機械部品を設計しやすくするために図面の中央を原点とする独自の利用者座標を設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "スマートフォンから大型モニターまで様々な画面解像度に対応させるため、描画プログラムは絶対的な物理座標ではなく利用者座標系を用いて記述した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ユーザーがタブレットの画面を横向きに回転させたため、利用者座標と物理的な画面座標をすり合わせる変換行列をプログラム内で即座に再計算させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:41:16.626275+00:00Z"
+      "updated_at": "2026-06-02T14:02:08.507423+00:00Z"
     }
   }
 ]

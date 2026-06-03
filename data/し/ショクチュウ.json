@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アリクイは典型的な食虫で、毎日何千匹ものアリを食べる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "多くの食虫は、夜間に活動する習性がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この公園には、様々な食虫が生息している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又動物の中にだってヒドラや珊瑚類のように植物に似たやつもあれば植物の中にだって食虫植物もある、睡眠を摂る植物もある、睡る植物などは毎晩｜邪魔して睡らせないと枯れてしまう、食虫植物には小鳥を捕るのもあり人間を殺すやつさえあるぞ。",
@@ -221,7 +246,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:03:34.884677+00:00Z",
       "frequencies": {
         "aozora": 14
       }

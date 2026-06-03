@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「今日の対局では私が黒番ですね」と彼は碁石を並べながら確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "黒番は最初に打つ権利があるが、コミとして白番に目数を加えるのが現代の囲碁のルールだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "名人戦の第三局では黒番の挑戦者が序盤から積極的に打ち、主導権を握った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さすれば黒番絶対有利だから、黒番ときまった本因坊のいかにも当惑したような顔がフシギであった。",
@@ -78,13 +103,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "白番"
+      ],
+      "related": [
+        "囲碁",
+        "白番",
+        "先番",
+        "後番",
+        "手番"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:01:14.822286+00:00Z",
       "frequencies": {
         "aozora": 6
       }

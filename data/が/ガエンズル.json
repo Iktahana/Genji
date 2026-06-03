@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親はようやく子どもの留学計画に肯んずることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "上司は部下の提案を肯んずるかどうか検討している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼女はやっと僕の結婚提案に肯んずってくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人はたゞ單に黒鴉白鷺の如く、生れてそして死ぬことを肯んずるもので無い。",
@@ -62,14 +87,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "承諾する",
+        "同意する"
+      ],
+      "antonyms": [
+        "拒否する"
+      ],
+      "related": [
+        "承認",
+        "許可"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:32.649286+00:00Z",
+      "updated_at": "2026-06-02T07:40:45.544150+00:00Z",
       "frequencies": {
         "aozora": 107
       }

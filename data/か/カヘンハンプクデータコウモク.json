@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "COBOLのプログラムで可変反復データ項目を定義する際はOCCURS句とDEPENDING ON句を組み合わせる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "可変反復データ項目の実際の繰り返し回数は、実行時に別の項目の値で決まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "出力行数が一定でないため、レポートレコードに可変反復データ項目を採用した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "繰り返しデータ項目"
+      ],
+      "antonyms": [
+        "固定反復データ項目"
+      ],
+      "related": [
+        "データベース",
+        "レコード",
+        "COBOL",
+        "プログラミング",
+        "データ構造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T05:27:15.006419+00:00Z"
     }
   }
 ]

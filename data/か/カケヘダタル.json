@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "東京とロンドンは物理的に地球の裏側に懸け隔たっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "兄弟の心は年月とともに懸け隔たってしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -46,14 +62,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "隔たる",
+        "離れる"
+      ],
+      "antonyms": [
+        "近づく"
+      ],
+      "related": [
+        "距離",
+        "間隔",
+        "空間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.510547+00:00Z",
+      "updated_at": "2026-06-02T04:02:10.531744+00:00Z",
       "frequencies": {
         "aozora": 5
       }

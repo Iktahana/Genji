@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "教授が提唱した新しい学説に対して、若手研究者から次々とそれを駁する論文が発表された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
             }
           ],
           "literary": [
@@ -296,7 +304,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:37:55.452482+00:00Z",
+      "updated_at": "2026-06-02T12:49:33.381613+00:00Z",
       "frequencies": {
         "aozora": 67
       }
@@ -593,7 +601,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "法律や規則で国民の自由を過度に縛するような政策には、断固として反対の声を上げるべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンパイラは人間が書いたソースコードを読み込み、実行可能な目標プログラムへと変換する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "目標プログラムのサイズをできるだけ小さく抑えるよう、最適化のオプションを指定する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "開発したばかりの目標プログラムをデバッガに読み込ませ、バグがないか検証を行う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:40:20.820717+00:00Z"
+      "updated_at": "2026-06-02T13:38:29.860863+00:00Z"
     }
   }
 ]

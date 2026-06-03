@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "工事がいつ終わるか見当がつかないまま、半年が過ぎた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -294,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見当もつかない"
+      ],
+      "antonyms": [
+        "見当がつく"
+      ],
+      "related": [
+        "見当",
+        "不確実",
+        "未知"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:56.959433+00:00Z"
+      "updated_at": "2026-06-02T13:36:00.770915+00:00Z"
     }
   }
 ]

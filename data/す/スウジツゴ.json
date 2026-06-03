@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数日後に試験を控え、彼は追い込みの勉強を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "数日後、彼女から返信のメールが届き、会う約束が取り付けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "手術は成功し、数日後には退院できると医師から告げられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数日後、大隅忠太郎君は折鞄一つかかえて、三鷹の私の陋屋の玄関に、のっそりと現われた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:06.625418+00:00Z"
+      "updated_at": "2026-06-02T10:01:39.001582+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "モーターが逆回転していたため、ファンが風を逆方向に送り出してしまっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ピッチャーが逆回転のボールを投げると、打者は予測と逆方向に曲がる球に翻弄された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ドリルを逆回転に切り替えて、さびで固まったネジをゆっくり外した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「ええ、実は昨晩少し天候が悪かったものですから責任上心配して、今朝は何日もより少し早く六時半に出勤しました」　捲取機のハンドルを逆回転させながら、係の男は愛想よく答えた。",
@@ -101,14 +126,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "反転",
+        "逆転"
+      ],
+      "antonyms": [
+        "正回転",
+        "順回転"
+      ],
+      "related": [
+        "回転",
+        "反時計回り",
+        "時計回り",
+        "回転方向",
+        "スピン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:05:46.907364+00:00Z",
       "frequencies": {
         "aozora": 8
       }

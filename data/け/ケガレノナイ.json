@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "穢れのない純粋な心を持つ子どもが好きだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "穢れのない白い花が庭に咲いている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "穢れのない少女の笑顔がとても印象的だった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "朱実は、あなたと初めて伊吹の下で会った時のように、もう穢れのない野の花ではありません。",
@@ -94,14 +119,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "純粋な",
+        "清らかな",
+        "無垢な",
+        "純真な"
+      ],
+      "antonyms": [
+        "汚れた",
+        "不純な",
+        "邪な"
+      ],
+      "related": [
+        "純潔",
+        "潔白",
+        "清純",
+        "無邪気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:23:01.078566+00:00Z"
     }
   }
 ]

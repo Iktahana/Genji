@@ -48,6 +48,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "「あなたって少し変わっているわね」と彼女に笑いながら言われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -297,14 +305,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "奇妙である",
+        "珍しい"
+      ],
+      "antonyms": [
+        "普通である"
+      ],
+      "related": [
+        "変わる"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:29.546386+00:00Z"
+      "updated_at": "2026-06-02T06:20:59.850590+00:00Z"
     }
   }
 ]

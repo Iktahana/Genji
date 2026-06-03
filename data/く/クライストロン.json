@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "レーダー装置の送信部にはクライストロンが使われており、高出力のマイクロ波を発生させる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究室の加速器ではクライストロンを電力増幅器として活用し、粒子を高速に加速している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "電子管",
+        "真空管"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "高周波",
+        "増幅器",
+        "マイクロ波",
+        "加速器"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.992946+00:00Z"
+      "updated_at": "2026-06-02T12:46:27.972325+00:00Z"
     }
   }
 ]

@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は何か言いたそうだったが、口ごもった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "オズオズ口ごもる件の男。",
@@ -270,14 +279,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "言いよどむ",
+        "言葉に詰まる",
+        "絶句する",
+        "どもる",
+        "もごもごする"
+      ],
+      "antonyms": [
+        "明言する",
+        "言い切る",
+        "立て板に水"
+      ],
+      "related": [
+        "躊躇",
+        "困惑",
+        "吃音",
+        "内気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:38:04.948578+00:00Z",
       "frequencies": {
         "aozora": 422
       }

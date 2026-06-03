@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "子どもが我鳴るように泣いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -294,14 +302,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "怒鳴る",
+        "叫ぶ",
+        "わめく",
+        "喚く"
+      ],
+      "antonyms": [
+        "囁く",
+        "ひそひそ話す"
+      ],
+      "related": [
+        "がなり立てる",
+        "大声",
+        "叫び声",
+        "喚き",
+        "騒ぐ",
+        "怒鳴り声"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:33.481585+00:00Z"
+      "updated_at": "2026-06-02T08:01:27.686092+00:00Z"
     }
   }
 ]

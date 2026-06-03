@@ -29,21 +29,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "システムエンジニアが機能試験マクロを実行して、新機能の動作を自動検証した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "品質保証チームは機能試験マクロによる一括テストで複数のバグを発見した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "リリース前に機能試験マクロが全てのテストケースをパスすることを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "テストコード",
+        "マクロ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "プログラミング",
+        "自動化",
+        "開発"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T09:30:52.270370+00:00Z"
     }
   }
 ]

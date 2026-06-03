@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の喫煙が食道癌のリスクを高めると医師から警告を受け、彼はすぐに禁煙を決意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "食道癌は早期に発見すれば内視鏡的切除で対応できる場合があると主治医に説明された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "父が食道癌と告げられた日、家族全員が病院に集まり今後の治療方針を医師から聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし推するに茶山は食道癌若くは胃癌に罹つて歿したのであらう。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T09:05:26.542969+00:00Z",
       "frequencies": {
         "aozora": 17
       }

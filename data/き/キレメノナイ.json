@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このシステムは切れ目のないサービスを提供している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "スマートフォンとパソコンの間に、切れ目のない連携がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の説明は、切れ目のない論理で構成されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "遮断されていた生活からいきなり激動の三日間を暮し、再び切れ目のない単調な寒さの中にかえって来て縁のない畳が三枚しいてあるところへ坐ると、堪え難い疲労が襲って来た。",
@@ -70,14 +95,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "絶え間ない",
+        "連続した"
+      ],
+      "antonyms": [
+        "途切れた",
+        "断続的"
+      ],
+      "related": [
+        "継続",
+        "連続",
+        "統一"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:18:54.842306+00:00Z"
     }
   }
 ]

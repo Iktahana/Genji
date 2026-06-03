@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "靴ひもが切れてしまい、近くのコンビニで新しいものを買って結び直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "靴ひもの結び目をきつくしておかないと、長く歩くうちにほどけてくる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "母は子どもに靴ひもの結び方を、手を取りながら何度も繰り返して教えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小店員は自転車を止め、若きサラリーマンは靴ひもの解けたのも忘れ、魂は飛行機に乗って青山の空をかけっているのであった。",
@@ -85,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "紐",
+        "靴紐"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "靴",
+        "結ぶ",
+        "足"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.914774+00:00Z",
+      "updated_at": "2026-06-02T12:42:07.331620+00:00Z",
       "frequencies": {
         "aozora": 5
       }

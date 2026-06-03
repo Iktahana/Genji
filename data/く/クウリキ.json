@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "航空機の空力性能は非常に重要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この車は優れた空力設計を持っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "エンジニアは空力を計算して改良した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飛行機と突風との関係に似ていっそう複雑な場合であるから、世界じゅうの航空力学の大家でも手こずらせるだけの難題を提供するかもしれない。",
@@ -86,14 +111,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "空気力学",
+        "エアロダイナミクス"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "流体",
+        "抵抗",
+        "揚力",
+        "自動車",
+        "航空機",
+        "性能"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:09.800039+00:00Z",
       "frequencies": {
         "aozora": 2
       }

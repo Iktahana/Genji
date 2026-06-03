@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦後の農業は金肥の普及によって生産性が飛躍的に向上した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "有機農家の彼は金肥を一切使わず、堆肥だけで野菜を育てることにこだわっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "金肥は手軽に使える反面、土壌の微生物バランスを崩すこともあると農業指導員は説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "金肥えの鰊粕を食う。",
@@ -153,14 +178,25 @@
       "homophones": [
         "禁秘"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "化学肥料"
+      ],
+      "antonyms": [
+        "有機肥料",
+        "堆肥"
+      ],
+      "related": [
+        "肥料",
+        "施肥",
+        "農業",
+        "窒素",
+        "リン酸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.460721+00:00Z",
+      "updated_at": "2026-06-02T11:47:31.122225+00:00Z",
       "frequencies": {
         "aozora": 7
       }
@@ -196,7 +232,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "皇室の儀式に関する文書は禁秘扱いとされ、関係者以外は閲覧できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その条約の付属議定書は長らく禁秘のまま公開されず、研究者を悩ませてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "禁秘とされていた古文書が蔵の整理中に発見され、学界に衝撃を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「※庭雑考」に「禁秘抄」を引用して『角なきは獅子、角あるは狛犬なり』と云うているけれども、実際には角のある獅子が、狛犬の代理をしているのも、決して珍しくない。",
@@ -302,9 +363,21 @@
       "homophones": [
         "金肥"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "秘密",
+        "機密",
+        "守秘"
+      ],
+      "antonyms": [
+        "公開",
+        "開示"
+      ],
+      "related": [
+        "秘匿",
+        "極秘",
+        "非公開",
+        "秘事"
+      ]
     },
     "meta": {
       "version": "1.0.0",

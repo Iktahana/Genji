@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "停電が近づいているとのニュースを聞き、急いでパソコンをシャットダウンしてオフィスを出た。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "サーバーの定期メンテナンスのため、今夜零時からシステムを一時的にシャットダウンすると通知が届いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場の安全センサーが過熱を感知し、製造ラインが自動的にシャットダウンされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:34.901642+00:00Z"
+      "updated_at": "2026-06-02T08:56:48.697518+00:00Z"
     }
   }
 ]

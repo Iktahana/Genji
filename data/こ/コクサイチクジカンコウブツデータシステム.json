@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "この学術雑誌は国際逐次刊行物データシステムに登録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ISDS"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "逐次刊行物",
+        "ISSN",
+        "図書館学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:05.793660+00:00Z"
+      "updated_at": "2026-06-02T14:25:18.880543+00:00Z"
     }
   }
 ]

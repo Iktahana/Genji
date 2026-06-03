@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "滝に打たれると、心と体が清まるような感覚に包まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "神社の境内を歩いていると、ざわついた気持ちが自然と清まっていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "深夜の海岸に立ち波の音を聞いていると、乱れた心が清まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「便宜上ここでは役ノ優婆塞へ、懺悔することになっております」「そうして懺悔しましたなら、罪が清まるのでございますか？",
@@ -94,14 +119,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "清浄になる",
+        "浄化される",
+        "澄む"
+      ],
+      "antonyms": [
+        "穢れる",
+        "汚れる"
+      ],
+      "related": [
+        "清める",
+        "浄化",
+        "禊",
+        "清浄",
+        "洗い清める",
+        "祓う"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:07:11.015937+00:00Z",
       "frequencies": {
         "aozora": 26
       }

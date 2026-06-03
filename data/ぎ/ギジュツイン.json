@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "研究室の技術員が実験装置の定期点検を行い、測定値のズレを修正してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "技術員として採用された彼は、入社初日から機器の校正作業を任された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "技術員が試作品のデータを丁寧に記録し、設計チームへのフィードバックをまとめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは、アメリカの兵器会社の技師が発明した人造島で、われわれ技術員は、その耐熱試験をやっているのだ。",
@@ -213,14 +238,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "技術者",
+        "技術職員",
+        "テクニシャン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "エンジニア",
+        "専門職",
+        "技師",
+        "研究者",
+        "職員",
+        "技術"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:58:41.462651+00:00Z"
     }
   }
 ]

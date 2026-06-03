@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "PCR検査の結果が疑陽性だったため、医師は追加の確定検査を指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "免疫検査では疑陽性反応が出ることがあり、その場合は別の方法で再検査する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "疑陽性と判定された患者に対し、念のため一時的な隔離措置が取られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -39,13 +64,21 @@
         "偽陽性"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "疑陰性"
+      ],
+      "related": [
+        "検査",
+        "陽性",
+        "陰性",
+        "誤判定",
+        "医療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:33.150438+00:00Z"
+      "updated_at": "2026-06-02T12:18:22.444689+00:00Z"
     }
   },
   {
@@ -78,7 +111,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "検査の感度が高すぎると偽陽性が増え、不必要な治療につながるリスクが生じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女のアレルギー検査は偽陽性だったことが後から判明し、医師から安堵の言葉をかけられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その診断キットは偽陽性率が高いと報告されており、学会での議論が続いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -88,8 +146,16 @@
         "疑陽性"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "偽陰性"
+      ],
+      "related": [
+        "陽性",
+        "検査",
+        "エラー",
+        "誤診",
+        "統計"
+      ]
     },
     "meta": {
       "version": "1.0.0",

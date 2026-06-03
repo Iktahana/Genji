@@ -323,14 +323,23 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "発行",
+        "出版",
+        "発表"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "本",
+        "雑誌",
+        "新聞",
+        "刊載"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:30.160622+00:00Z",
+      "updated_at": "2026-06-02T06:34:38.699013+00:00Z",
       "freq_rank": 5725,
       "frequencies": {
         "aozora": 1003
@@ -469,9 +478,17 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "校正",
+        "校閲",
+        "検査"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "修正",
+        "確認",
+        "検証"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -803,9 +820,17 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "検討",
+        "考察",
+        "考慮",
+        "熟考"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "思案",
+        "判断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1140,7 +1165,11 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "産業",
+        "奨励",
+        "振興"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1339,7 +1368,12 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "投降",
+        "戦争",
+        "軍事",
+        "降伏"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1396,6 +1430,14 @@
                 "source": "Illusions AI",
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先生の寛厚な指導が多くの学生に影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
               }
             }
           ],
@@ -1649,9 +1691,21 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "寛容",
+        "仁恵",
+        "温情",
+        "厚意"
+      ],
+      "antonyms": [
+        "峻厳",
+        "薄情"
+      ],
+      "related": [
+        "優しい",
+        "親切",
+        "思いやり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1994,9 +2048,17 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "露光",
+        "露出"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "写真",
+        "カメラ",
+        "フィルム",
+        "光"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2339,9 +2401,18 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "習慣",
+        "慣習",
+        "慣例",
+        "通例"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "伝統",
+        "風習",
+        "慣わし"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2685,9 +2756,21 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "実行",
+        "断行",
+        "強行",
+        "決行"
+      ],
+      "antonyms": [
+        "躊躇",
+        "回避"
+      ],
+      "related": [
+        "実施",
+        "勇気",
+        "決意"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -2838,9 +2921,19 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "低速",
+        "各駅停車"
+      ],
+      "antonyms": [
+        "急行",
+        "快速"
+      ],
+      "related": [
+        "電車",
+        "列車",
+        "移動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3188,9 +3281,18 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "旅行",
+        "観覧",
+        "見物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "旅",
+        "風景",
+        "観光地",
+        "名所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3359,9 +3461,17 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "竣工",
+        "完成",
+        "落成"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "工事",
+        "建設",
+        "完了"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3604,9 +3714,18 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "沈黙",
+        "無言"
+      ],
+      "antonyms": [
+        "発言"
+      ],
+      "related": [
+        "秘密",
+        "口止め",
+        "黙る"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3805,7 +3924,11 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "化学",
+        "医薬",
+        "水銀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -3980,7 +4103,11 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "平安時代",
+        "年号",
+        "時代"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -4358,9 +4485,16 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "御帰還"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "天皇",
+        "参拝",
+        "儀式",
+        "行幸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -4501,9 +4635,15 @@
         "完稿",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "攻撃機"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "飛行機",
+        "戦争",
+        "軍艦"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -4706,9 +4846,16 @@
         "艦攻",
         "間行"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "脱稿",
+        "校了"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "原稿",
+        "出版",
+        "執筆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -5039,9 +5186,15 @@
         "艦攻",
         "完稿"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "変装"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "旅",
+        "隠れる",
+        "行動"
+      ]
     },
     "meta": {
       "version": "1.0.0",

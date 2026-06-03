@@ -30,21 +30,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このシステム実装は技術的に困難な部分が多くあります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "要件は明確ですが、実現には技術的に困難な課題があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "技術的に困難なタスクを担当するベテランエンジニアを配置しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "技術的に難しい",
+        "実現困難",
+        "技術的難題"
+      ],
+      "antonyms": [
+        "技術的に容易",
+        "実現可能"
+      ],
+      "related": [
+        "困難",
+        "課題",
+        "技術的限界",
+        "実現可能性",
+        "ハードル"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:01:15.394500+00:00Z"
     }
   }
 ]

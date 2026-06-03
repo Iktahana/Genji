@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お盆の時期になると、駅前で草市が開かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "草市で売られるトマティーヤは、古い地域の風習として大切にされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "七月になると、この神社の前では毎年草市が立つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　草市　七月十三日の夕方哲学者のＡ君と二人で、京橋ぎわのあるビルディングの屋上で、品川沖から運ばれて来るさわやかな涼風の流れにしながら眼下に見通される銀座通りのはなやかな照明をながめた。",
@@ -277,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "盆市",
+        "花市"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "お盆",
+        "盆花",
+        "仏花",
+        "迎え火",
+        "精霊",
+        "市場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:31:34.392787+00:00Z",
       "frequencies": {
         "aozora": 40
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "川釣りで使う疑似餌には、様々な種類がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その疑似餌は毛糸と羽で精密に作られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "疑似餌を使う技術は、長年の経験を必要とする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その前後から、ビニールの疑似餌がうまくできているが、やはり本物にはかなわない。",
@@ -61,14 +86,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ルアー",
+        "擬似餌",
+        "おとり",
+        "偽餌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "釣り",
+        "フライフィッシング",
+        "毛鉤",
+        "スピナー",
+        "ワーム",
+        "ジグ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:58:41.453467+00:00Z"
     }
   }
 ]

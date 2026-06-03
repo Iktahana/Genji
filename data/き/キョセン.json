@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "港に入港してきた巨船の影が、小さな漁船の群れを圧倒していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "津波の後、内陸まで流された巨船が町の中に取り残された映像が世界に衝撃を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -286,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "大型船",
+        "大船"
+      ],
+      "antonyms": [
+        "小船"
+      ],
+      "related": [
+        "航海",
+        "乗客",
+        "港"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:40.629033+00:00Z",
+      "updated_at": "2026-06-02T11:02:56.508463+00:00Z",
       "frequencies": {
         "aozora": 142
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この森には多様な菌類が生息しており、土壌の養分循環に欠かせない役割を担っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "菌類の中には人間にとって有毒なものも多く、山でのキノコ採りには注意が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "腐った木材を分解しているのは主に菌類で、森の生態系を支えている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この瓦斯は酸素の変形したもので非常に酸化力が強く、黴菌類はこれに遇えば皆死んでしまう。",
@@ -263,14 +288,25 @@
       "homophones": [
         "禽類"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "真菌",
+        "カビ",
+        "キノコ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "細菌",
+        "微生物",
+        "胞子",
+        "菌糸",
+        "酵母",
+        "菌類学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:31.946063+00:00Z",
+      "updated_at": "2026-06-02T11:48:56.181775+00:00Z",
       "frequencies": {
         "aozora": 55
       }
@@ -306,7 +342,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の博物学者は禽類の羽毛の色や形態を詳細に記録した図鑑を残した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "動物園の禽類展示エリアでは、フラミンゴやペリカンが間近で観察できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その古い辞典には禽類の項目に鷹・鶴・雀など百種以上が挙げられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "嘗て、ものに記して、東海道中、品川のはじめより、大阪まはり、山陰道を通じて、汽車から、婀娜と、しかして、窈窕と、野に、禽類の佳人を見るのは、蒲田の白鷺と、但馬豐岡の鶴ばかりである、と知つたかぶりして、水上さんに笑はれた。",
@@ -380,9 +441,20 @@
       "homophones": [
         "菌類"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "鳥類",
+        "鳥",
+        "とり"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "哺乳類",
+        "羽毛",
+        "飛翔",
+        "卵",
+        "渡り鳥",
+        "猛禽"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "監督はバントのサインを出し、打者は犠打を成功させてランナーを二塁に進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "九回裏、無死一塁の場面で犠打を決め、得点圏にランナーを送り込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "犠打で走者を三塁に進め、後続の内野ゴロで同点に追いついた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「あゝ今のは、言ひ過ぎた………言ひ過ぎだ………！",
@@ -261,14 +286,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "犠牲打",
+        "バント"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "野球",
+        "犠牲フライ",
+        "送りバント",
+        "打点",
+        "セーフティバント",
+        "走者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:04:03.254132+00:00Z"
     }
   }
 ]

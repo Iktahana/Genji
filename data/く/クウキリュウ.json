@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風洞実験では翼の周囲の空気流を可視化することで、乱流が発生している箇所を正確に特定できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "エアコンの設計者は室内の空気流をシミュレーションし、冷気が部屋全体に均一に広がる吹き出し口の形状を決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "山岳地帯では地形が複雑なため空気流が乱れやすく、小型機のパイロットは飛行前に細心の注意を払う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "といって、江州柏原駅にあらかじめ道庵を入れて運ぶために備えつけられていた長持が無い限り、道庵の呼吸のために安全弁が特設されてあろうはずもないから、いたずら心はいたずら心として、中に納まった道庵は蓋をされる瞬間に、そこは心得て、なんらか空気流入の調節方法を講じて置いたものと見なければならぬ。",
@@ -69,14 +94,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "気流",
+        "エアフロー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "風",
+        "循環",
+        "換気",
+        "空調"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:24:10.574077+00:00Z"
     }
   }
 ]

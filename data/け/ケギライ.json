@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その人を無意識に毛嫌いしてしまう",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毛嫌いする気持ちを押さえるのに努力した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "兄弟でも毛嫌いすることがある",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "興味を持たないというよりは、趣味的に俳句を毛嫌いしたのである。",
@@ -279,14 +304,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "嫌悪",
+        "反感",
+        "敵意",
+        "虫が好かない"
+      ],
+      "antonyms": [
+        "愛好",
+        "好み",
+        "好意"
+      ],
+      "related": [
+        "偏見",
+        "苦手",
+        "生理的嫌悪",
+        "食わず嫌い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:23:01.082667+00:00Z",
       "freq_rank": 35776,
       "frequencies": {
         "aozora": 71

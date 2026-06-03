@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "義理の母とは毎週電話で話をする習慣がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義理の母が作ったお弁当はいつもおいしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義理の母の誕生日には毎年プレゼントを用意する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "義理の母とは衝突もあったが、ともかく叔母を頼って上京することになった。",
@@ -213,14 +238,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "姑",
+        "義母",
+        "養母",
+        "継母"
+      ],
+      "antonyms": [
+        "実母"
+      ],
+      "related": [
+        "義理の父",
+        "親族",
+        "姻族",
+        "結婚",
+        "家族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:19:27.418642+00:00Z"
     }
   }
 ]

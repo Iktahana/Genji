@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者が患者に仰臥の状態で横たわるよう指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "仰臥位置で検査を受けることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "瞑想は仰臥で行うと効果的だという説もある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "吠えるなら吠えろ、　　　鳴くなら鳴け、目に涙を湛へて俺は仰臥さ。",
@@ -279,14 +304,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "仰向け",
+        "仰臥位"
+      ],
+      "antonyms": [
+        "俯臥",
+        "うつ伏せ",
+        "伏臥"
+      ],
+      "related": [
+        "安静",
+        "寝姿勢",
+        "臥床",
+        "医療",
+        "看護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:15:56.109371+00:00Z",
       "frequencies": {
         "aozora": 199
       }

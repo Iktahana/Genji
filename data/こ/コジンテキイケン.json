@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "それはあくまで私の個人的意見ですが、このデザインは改善の余地があると思います。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "会議では数字に基づいた議論を求めており、個人的意見だけでは説得力に欠ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -126,14 +142,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "私見"
+      ],
+      "antonyms": [
+        "客観的意見",
+        "公的見解"
+      ],
+      "related": [
+        "感想",
+        "考え"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.097667+00:00Z"
+      "updated_at": "2026-06-02T14:36:13.414845+00:00Z"
     }
   }
 ]

@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "休日の午後、特に目的もなく銀ぶらしながら並木道のウィンドウショッピングを楽しんだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "友人と待ち合わせ時間まで銀ぶらして、気になった雑貨店に入り小物を買った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人は映画の後、銀ぶらしながら夕食を食べる店をゆっくりと探した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「ええ、時々三人で銀ぶらしますわ。",
@@ -169,14 +194,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "散策",
+        "散歩"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "銀座",
+        "ぶらぶら",
+        "外出",
+        "ショッピング",
+        "東京"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:23:05.492090+00:00Z",
       "frequencies": {
         "aozora": 20
       }

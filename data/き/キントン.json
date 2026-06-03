@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お正月は母が金団を作る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この金団には栗がたくさん入っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金団の甘さは人によって好みが分かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と最近の成金団の一員で、スクーカム台地の一成金がどもりながら云つた、「わしがその犬に八百ドル出しましよう、ねえ、そのテストの前に、ねえ、そのままで八百ドル」　ソーントンは頭を振つてバックの傍へ歩みよつた。",
@@ -271,12 +296,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "菓子",
+        "さつまいも",
+        "栗",
+        "豆"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:44:05.253099+00:00Z",
       "frequencies": {
         "aozora": 1
       }

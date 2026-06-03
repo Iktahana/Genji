@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その曲芸師は綱の上で逆立ちをして見せた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "来月のショーに出演する曲芸師たちはすべてヨーロッパから招待されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "曲芸師の彼は毎日4時間以上の訓練を欠かさない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、それは絶対に曲芸師の綱渡りとは違つてゐるのです。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アクロバット奏者",
+        "軽業師"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "芸人",
+        "演者",
+        "パフォーマー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:54:44.139887+00:00Z"
     }
   }
 ]

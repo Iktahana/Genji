@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "この地域では、市民がクラインガルテンを借りて野菜を栽培している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クラインガルテンは、都市部での農業体験を可能にしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "市民農園",
+        "貸し農園"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "農作業",
+        "ガーデニング",
+        "家庭菜園",
+        "自給自足"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:35.002218+00:00Z"
+      "updated_at": "2026-06-02T12:47:05.237961+00:00Z"
     }
   }
 ]

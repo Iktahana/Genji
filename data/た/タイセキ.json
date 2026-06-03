@@ -307,7 +307,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:41.396593+00:00Z",
+      "updated_at": "2026-06-02T10:51:38.932705+00:00Z",
       "freq_rank": 23448,
       "frequencies": {
         "aozora": 59
@@ -865,7 +865,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数万年にわたる土砂の堆積でできた地層が断崖に剥き出しになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ダム湖の底に堆積した土砂が満水容量を年々減らしてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "川底に堆積した泥を取り除く浚渫工事が来月から始まると市が告知した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }

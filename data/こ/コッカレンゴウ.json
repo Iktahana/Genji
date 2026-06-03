@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ユーラシア国家連合が新しい協力協定に調印した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この国家連合に参加することで経済的な利益が見込める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国家連合としての一体的な発展戦略を策定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし世界は欧州戦争前の国家主義全盛の時代までは逆転しないで、国家連合の時代になったと私どもは言っているのであります。",
@@ -117,14 +142,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "連合国家",
+        "連邦",
+        "国家連邦"
+      ],
+      "antonyms": [
+        "単一国家",
+        "単独国家"
+      ],
+      "related": [
+        "連邦",
+        "同盟",
+        "連合",
+        "国際機関",
+        "条約"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.493214+00:00Z"
+      "updated_at": "2026-06-02T14:39:37.784448+00:00Z"
     }
   }
 ]

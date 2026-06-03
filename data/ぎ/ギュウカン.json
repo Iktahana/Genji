@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "登山の夕食に牛缶をご飯の上にのせて食べると、疲れた体に染み渡った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "非常食として牛缶を十缶ほど棚の奥に備えておいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "キャンプで食材を大半忘れてきたが、牛缶だけは持ってきていて助かった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "飾り、漁類問屋をやっている中に、日露戦争にぶっつかり、奇貨おくべしというので大倉喜八郎の牛缶に傚って、軍需品としての魚の缶詰製造を思い立ったが、慣れない商売の悲しさ、缶の製造業者に資本を喰われて、忽ち大失敗の大失脚。",
@@ -61,14 +86,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "コンビーフ缶",
+        "ビーフ缶詰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "缶詰",
+        "牛肉",
+        "コンビーフ",
+        "保存食",
+        "非常食",
+        "肉"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:08:19.945318+00:00Z",
       "frequencies": {
         "aozora": 3
       }

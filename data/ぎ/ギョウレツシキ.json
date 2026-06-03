@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "行列式がゼロでない場合、その行列は逆行列を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "2×2行列の行列式は、簡単な公式を使って暗算できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "行列式の符号は、座標変換時の向きの変化を表している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また角術というのは正多角形の算法で、それをいろいろの場合に明らかにしたり、そのほかに行列式の論などもあります。",
@@ -93,14 +118,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "デターミナント"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "正方行列",
+        "逆行列",
+        "線形代数",
+        "特異行列",
+        "余因子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:26.860203+00:00Z",
       "frequencies": {
         "aozora": 10
       }

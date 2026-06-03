@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "返す返す申し訳ありませんでした、ご不便をおかけして。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "返す返す言うようですが、その方法はお勧めできません。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "返す返す感謝しています、いろいろとお力をいただいて。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そういうことにかけてはおそらく日本人がいちばん長じているはずだと思われるのに、その長所を利用しないのが返す返すも残念なことである。",
@@ -294,7 +319,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:25:03.441178+00:00Z",
+      "updated_at": "2026-06-02T03:44:06.528998+00:00Z",
       "frequencies": {
         "aozora": 103
       }

@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "友人が突然入院したと聞いて以来、掛け構いの日々が続き、仕事にも身が入らなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "一人娘の受験が終わるまで、母親は毎晩遅くまで起きて掛け構いをしながら祈り続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -273,14 +289,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "気遣い",
+        "思い遣り"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "心配",
+        "配慮",
+        "関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.434021+00:00Z",
+      "updated_at": "2026-06-02T03:59:02.907335+00:00Z",
       "frequencies": {
         "aozora": 1
       }

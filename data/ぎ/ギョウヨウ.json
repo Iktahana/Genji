@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この会社の業容は、ここ10年で大きく変わってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "企業の業容を理解するには、財務諸表だけでなく市場戦略も確認すべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新しい製品ラインの追加により、当社の業容がさらに拡大する見込みだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然れども、由來、辭書編纂の業容易ならず、更に改訂を加ふべきところ亦多々あらん、著者は專心一意、身を此事業に捧げ、版を重ぬる毎に改刪増補を怠らざるべし。",
@@ -53,14 +78,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "事業内容",
+        "業務内容",
+        "事業規模"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "企業",
+        "経営",
+        "拡大",
+        "縮小",
+        "業績"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:16:26.857138+00:00Z"
     }
   }
 ]

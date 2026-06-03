@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一般的には『ハイブリッド車』ですが、技術的名称は『プラグインハイブリッド電気自動車』です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この化学物質の技術的名称は複雑で、覚えるのが大変です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "製品の技術的名称と商品名は大きく異なります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "専門名称",
+        "学術名称",
+        "専門用語"
+      ],
+      "antonyms": [
+        "俗称",
+        "通称"
+      ],
+      "related": [
+        "術語",
+        "学術用語",
+        "命名",
+        "定義",
+        "分類"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:01:15.395307+00:00Z"
     }
   }
 ]

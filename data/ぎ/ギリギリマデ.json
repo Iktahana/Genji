@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ぎりぎりまで粘ってようやく、二社の間に合意が成立した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "予算の限界ぎりぎりまで設備投資を続けて、工場を拡張した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "納期ぎりぎりまで修正作業に追われ、やっと完成にこぎつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれど私には、暴走も含めてぎりぎりまで作家の個性に付き合おうと覚悟した彼らの流儀こそが、Ｔ※誕生の欠くべからざる条件だったような気がしてなりません。",
@@ -255,14 +280,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "間際まで",
+        "土壇場まで",
+        "直前まで",
+        "極限まで"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "粘る",
+        "猶予",
+        "最終局面",
+        "延期"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:18:50.848354+00:00Z"
     }
   }
 ]

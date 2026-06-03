@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "その曲は何度聞いても心に響く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -207,14 +215,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "感動する",
+        "染み入る",
+        "胸を打つ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "感動",
+        "共感"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:07.179425+00:00Z"
+      "updated_at": "2026-06-02T14:33:05.245609+00:00Z"
     }
   }
 ]

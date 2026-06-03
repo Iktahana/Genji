@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "仕事帰りに居酒屋でビールを飲みながら、同僚と上司のことを思う存分愚痴った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「また愚痴ってる」と妹に呆れられたが、言わずにはいられなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は毎晩SNSで生活の不満を愚痴り続け、フォロワーが少しずつ減っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "酔えば女給を相手に何ごとかをぼそ／＼と愚痴るのだ。",
@@ -120,14 +145,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ぼやく",
+        "不平を言う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "愚痴"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:50.164805+00:00Z",
+      "updated_at": "2026-06-02T13:05:36.411245+00:00Z",
       "frequencies": {
         "aozora": 37
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "着る物がないと外出できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "季節に合わせて着る物を選ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "着る物は毎日きちんと選ぶべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この時一着のオヴアーコートを持っていましたが、それは船頭の着る物だと云っていましたが、それを着ていたのです。",
@@ -278,14 +303,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "衣服",
+        "着物",
+        "衣類",
+        "着るもの",
+        "衣料"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "衣食住",
+        "ファッション",
+        "洋服",
+        "和服",
+        "装い",
+        "被服"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:18:53.637804+00:00Z",
       "freq_rank": 7286
     }
   }

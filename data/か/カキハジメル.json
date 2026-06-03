@@ -329,6 +329,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "授業のベルが鳴ると、生徒たちは答案に書き始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -337,14 +345,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "執筆を始める"
+      ],
+      "antonyms": [
+        "書き終える"
+      ],
+      "related": [
+        "執筆",
+        "開始",
+        "文章"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:23.637048+00:00Z"
+      "updated_at": "2026-06-02T03:39:24.408200+00:00Z"
     }
   }
 ]

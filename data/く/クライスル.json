@@ -30,7 +30,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この映画は国内の批評家の間で今年最高の作品と位する声が多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の論文は学会でも上位に位する評価を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又五分位すると不意に思出したやうに一陣の風がどうつと吹きつけてしばらくは家鳴り震動する、又ぴつたりと止む。",
@@ -289,21 +306,38 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい工場は港に近い臨海部に位する予定で、物流の効率化が期待されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "位置する",
+        "ランクされる",
+        "位置を占める"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "順位",
+        "位置",
+        "序列"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:47.734520+00:00Z"
+      "updated_at": "2026-06-02T12:46:27.973594+00:00Z"
     }
   }
 ]

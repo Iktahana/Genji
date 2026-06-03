@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金梅草は日本固有の高山植物で、夏の山を黄色に彩る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "登山道沿いに金梅草が咲き乱れ、登山者たちが足を止めて写真を撮っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "金梅草の群落は環境の変化に敏感で、保護が必要とされている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "黒岳の東面にはエゾの金梅草が咲く、日本アルプスの信濃金梅に似て、ひとまわり大きく、眼のさめるようなみごとな花だ。",
@@ -65,12 +90,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "植物",
+        "花",
+        "山野草",
+        "オダマキ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:44:41.434134+00:00Z"
     }
   }
 ]

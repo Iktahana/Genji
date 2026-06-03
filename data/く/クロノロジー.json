@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "論文の冒頭に事件のクロノロジーをまとめ、読者が経緯を把握しやすいよう工夫した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "編集部ではプロジェクトのクロノロジーを壁に貼り出し、全員でスケジュールを共有している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "考古学的発掘の成果をクロノロジーに整理することで、文明の変遷が浮かび上がってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしたクロノロジーを吾々は問題にする権利を有つと思う。",
@@ -45,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "年代学",
+        "年表"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "歴史",
+        "時間",
+        "編年"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:58:41.625110+00:00Z",
       "frequencies": {
         "aozora": 1
       }

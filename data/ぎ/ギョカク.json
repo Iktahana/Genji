@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月の漁獲は去年より30パーセント減少した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "北部海域の漁獲量が増えているという報告がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この季節の漁獲は特に期待されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼らの漁場はただ浜べ岸べに限られていたであろうが、船と漁具との発達は漁場を次第に沖のほうに押し広げ同時に漁獲物の種類を豊富にした。",
@@ -231,14 +256,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "捕獲",
+        "採取"
+      ],
+      "antonyms": [
+        "放流"
+      ],
+      "related": [
+        "漁業",
+        "網",
+        "釣り",
+        "水揚げ",
+        "資源"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:26.866033+00:00Z",
       "freq_rank": 24968,
       "frequencies": {
         "aozora": 84

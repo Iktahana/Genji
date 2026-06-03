@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供の頃から野菜嫌いだった彼も、農家での体験を経て今では旬の野菜を進んで食べるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "人嫌いを自認していた彼女だが、この小さなコミュニティではなぜか自然と打ち解けることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "猫嫌いだった隣人が野良猫に毎日餌をやるようになったのを見て、家族は驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山の手の某所に住んでるある華族の老婦人が、非常に極端な西洋嫌いで、何でも舶来のものやハイカラなものは、一切『西洋｜臭い』と言って使用しない。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "苦手",
+        "嫌悪"
+      ],
+      "antonyms": [
+        "好き",
+        "好み"
+      ],
+      "related": [
+        "毛嫌い",
+        "食わず嫌い",
+        "偏食",
+        "人嫌い"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:18:22.446708+00:00Z",
       "freq_rank": 2427,
       "frequencies": {
         "aozora": 3005

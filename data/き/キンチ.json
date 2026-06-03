@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "錦地はいずこでございますか、ぜひご挨拶に伺いたいと存じます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ご錦地をお教えいただければ、資料をお送りいたします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "長らくご無沙汰しておりますが、錦地にてつつがなくお過ごしのことと存じます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると、帝釈様の剣に錦地の南無妙法蓮華経の幟をたてた出車の上から声をかけたものがある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T05:12:13.174184+00:00Z",
       "frequencies": {
         "aozora": 2
       }

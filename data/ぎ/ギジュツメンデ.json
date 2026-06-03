@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "技術面で見ると、このシステムは高度なセキュリティを備えています。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "技術面で申し上げますと、この実装方法が最も効率的です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "技術面で優れているだけでなく、ユーザー体験も大幅に改善しました。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ、写真と印刷とが同一の技術面で合致すべきだという久保の説を、ちょっと面白く思っただけでした。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "技術的に",
+        "技術面では",
+        "技術的観点から"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "観点",
+        "評価",
+        "分析",
+        "技術面"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:01:15.398020+00:00Z"
     }
   }
 ]

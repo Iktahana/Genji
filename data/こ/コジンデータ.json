@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "GDPRの施行後、欧州では個人データの取り扱いに対する企業の責任が大幅に強化された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "アプリをアンインストールする前に、保存された個人データの削除を申請した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "プライバシーデータ"
+      ],
+      "antonyms": [
+        "公開データ"
+      ],
+      "related": [
+        "個人情報",
+        "情報保護"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.098492+00:00Z"
+      "updated_at": "2026-06-02T14:36:13.416376+00:00Z"
     }
   }
 ]

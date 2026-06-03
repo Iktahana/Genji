@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "熟練した技能者がいなければ、この精密な部品は製造できない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "町工場の技能者たちが協力して、航空機向けの特殊部品を完成させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "高齢化が進む中、若い技能者の育成が業界全体の課題になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "◇　学生に関する学生自身にとっての一切の問題は終局に於てこの「知能的技能者としての学生」というカテゴリーから見て解決されねばならぬと私は信じる。",
@@ -109,14 +134,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "職人",
+        "技術者",
+        "工人"
+      ],
+      "antonyms": [
+        "素人",
+        "初心者"
+      ],
+      "related": [
+        "技能",
+        "職業",
+        "専門家",
+        "職工"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:04:19.734622+00:00Z",
       "frequencies": {
         "aozora": 12
       }

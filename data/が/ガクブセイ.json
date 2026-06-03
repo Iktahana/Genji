@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "私たちの大学には3000人の学部生がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -86,14 +94,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "学部学生"
+      ],
+      "antonyms": [
+        "大学院生"
+      ],
+      "related": [
+        "学生",
+        "学部",
+        "大学",
+        "学業"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:32.902378+00:00Z"
+      "updated_at": "2026-06-02T07:48:36.187456+00:00Z"
     }
   }
 ]

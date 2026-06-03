@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この土地は昔から田中平と呼ばれていて、農業に適した広大な平野だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "山間部から平に出ると、見晴らしが一気に良くなる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "京都の盆地平では毎年祇園祭が盛大に開催される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空のもと林の中に、たゆけくも　仰ざまに眼をつむり、白き雲、汝が胸の上を流れもゆけば、　はてもなき平和の、汝がものとなるにあらずや",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:56.564150+00:00Z",
+      "updated_at": "2026-06-02T11:16:33.038909+00:00Z",
       "freq_rank": 4141,
       "frequencies": {
         "aozora": 4246

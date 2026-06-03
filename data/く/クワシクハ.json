@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "この製品の保証内容については、詳しくは取扱説明書をご覧ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -294,14 +302,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "詳細には",
+        "詳細は"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "説明",
+        "補足"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:49.624171+00:00Z"
+      "updated_at": "2026-06-02T13:00:12.672430+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キルギスの首都はビシュケクだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "キルギスは中央アジアに位置する国である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "キルギスの山々は非常に美しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私たちの汽車が着くと手に手に卵や牛乳を持った老婆やキルギスの娘が、人家の方から馳けて来る。",
@@ -141,14 +166,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "キルギス共和国",
+        "キルギスタン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "中央アジア",
+        "旧ソ連",
+        "テンシャン山脈",
+        "ビシュケク",
+        "カザフスタン",
+        "タジキスタン"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:18:53.633849+00:00Z",
       "freq_rank": 38795,
       "frequencies": {
         "aozora": 17

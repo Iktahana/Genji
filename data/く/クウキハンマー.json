@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "解体業者は空気ハンマーでコンクリートの基礎を次々と砕き、一日で建物の土台を取り除いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "空気ハンマーの打撃力は手作業の数十倍あり、固い岩盤でも短時間で穿孔できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工場では空気ハンマーを使ってベアリングをシャフトに圧入し、組み立て作業を効率化している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは圧搾空気ハンマーに似た形をしていたが、原子力で動くものであるから、長い耐圧管もなければ、ボンベもなく、構造はずっとかんたんになっていた。",
@@ -53,14 +78,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "エアハンマー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "工具",
+        "破砕",
+        "圧縮空気",
+        "打撃"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:24:10.568768+00:00Z"
     }
   }
 ]

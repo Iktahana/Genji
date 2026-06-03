@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は私より三つ年下なのに、落ち着いた話し方で周囲から頼られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "配属された上司が自分より年下だと知って最初は戸惑ったが、今は素直に尊敬している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年下の妹に料理を教えてもらうのは少し恥ずかしかったが、とても参考になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "竹屋の渡しを渡船に乗るときには年下の方が柚木に「おにいさん、ちょっと手を取って下さいな」と云った。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:07:47.913815+00:00Z",
       "freq_rank": 12521,
       "frequencies": {
         "aozora": 544

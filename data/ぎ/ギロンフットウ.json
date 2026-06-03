@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国会では議論沸騰の状態が続いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "というので、これに関する討議は、同月二十六、二十七、二十八日の三日間にわたって行われ、賛否両方の論争頗る激烈であったが、就中二十七日午後の討議においては、議論沸騰して議場喧噪を極め、遂に議長｜蜂須賀茂韶侯は号鈴を鳴らして議場の整理を行うという有様であった。",
@@ -56,12 +65,17 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "議論",
+        "白熱",
+        "激論",
+        "沸騰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:19:43.826893+00:00Z"
     }
   }
 ]

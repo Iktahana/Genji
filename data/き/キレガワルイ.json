@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このバターは冷蔵庫から出したばかりで切れが悪い",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古いナイフは切れが悪くなっているので買い替えたい",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この墨は切れが悪いので、別の墨を用意しよう",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それとも自分の剃刀は切れが悪いので、人殺しをするために新らしい刃物を買ったのでしょうか。",
@@ -54,14 +79,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "濃い",
+        "粘度が高い"
+      ],
+      "antonyms": [
+        "切れが良い",
+        "さらり"
+      ],
+      "related": [
+        "粘度",
+        "食感",
+        "液体"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:18:54.834127+00:00Z"
     }
   }
 ]

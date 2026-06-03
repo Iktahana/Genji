@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "謹啓、時下ますますご清祥のこととお喜び申し上げます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "公式な業務文書では「謹啓」で始めるのが礼儀である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会社の重要な通知文は「謹啓」で敬意を表すのが慣例だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "謹啓、よもの景色云々と書きだして、御尊父様には御変りもこれなく候や、と虚心にお伺い申しあげ、それからすぐ用事を書くのであった。",
@@ -105,14 +130,24 @@
         "近景",
         "錦鶏"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "拝啓"
+      ],
+      "antonyms": [
+        "敬具"
+      ],
+      "related": [
+        "手紙",
+        "書簡",
+        "敬語",
+        "文頭",
+        "謹言"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:31.337916+00:00Z",
+      "updated_at": "2026-06-02T11:31:59.604126+00:00Z",
       "frequencies": {
         "aozora": 18
       }
@@ -148,7 +183,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近景に夏の野草を配置することで、より立体的な構図になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "風景写真で近景をぼかすと、遠景の山々が浮き出る。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "画家は近景の樹々を細かく描き込み、遠景は簡潔に処理した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "森のはずれから近景へかけて石ころの多い小径がうねって出る処を橙色の服を着た豆大の人が長い棒を杖にし、前に五、六頭の牛羊を追うてトボトボ出て来る。",
@@ -375,9 +435,21 @@
         "謹啓",
         "錦鶏"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "前景",
+        "手前"
+      ],
+      "antonyms": [
+        "遠景",
+        "背景"
+      ],
+      "related": [
+        "風景",
+        "絵画",
+        "構図",
+        "遠近法",
+        "景色"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -418,7 +490,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園の鳥舎に錦鶏が新しく展示され、訪問客から注目を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "錦鶏のオスは錦織りの衣のような美しい羽をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "中国の古い文献には錦鶏が皇帝への贈り物として記録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際｜画家のなかには、その人に会つたが為めに、折角｜描いて貰つた錦鶏鳥の画までが厭になるやうな人も少くなかつた。",
@@ -463,7 +560,13 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キジ",
+        "鳥類",
+        "中国",
+        "羽毛",
+        "観賞鳥"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "ループの内側で毎回重い関数呼び出しを行っていたため、ループ外に移動させて速度を改善した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "関数コール",
+        "メソッド呼び出し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "関数",
+        "引数",
+        "戻り値",
+        "スタック",
+        "プログラミング"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T12:55:41.761148+00:00Z"
+      "updated_at": "2026-06-02T06:44:44.475762+00:00Z"
     }
   }
 ]

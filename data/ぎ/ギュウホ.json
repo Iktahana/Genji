@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "交渉は牛歩で進み、決着が出そうにない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "プロジェクトは牛歩で進んでいる状況が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "牛歩のような速度で改革が進む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "素直なものは黙過され易いが、この作家のもののうちには、見得易からざる胆汁質的の頼もしさともいふべきものが含まれて居り、牛歩千里の趣きが期待されるのだ。",
@@ -149,14 +174,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "のろのろ",
+        "遅歩",
+        "蝸牛の歩み"
+      ],
+      "antonyms": [
+        "快歩",
+        "速歩",
+        "駆け足"
+      ],
+      "related": [
+        "遅い",
+        "のろま",
+        "遅々",
+        "歩み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:10:55.511318+00:00Z",
       "frequencies": {
         "aozora": 15
       }

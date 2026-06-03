@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その状況は奇妙で、誰もが違和感を感じずにはいられなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の行動が奇妙だったため、周囲は彼の真の意図を理解することができなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "部屋から奇妙な臭いがしたので、すぐに換気をして原因を調べることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうした奇妙な日本語は、時にしばしば、家庭内のユーモラスな流行語となったであろう。",
@@ -280,14 +305,30 @@
       "homophones": [
         "帰命"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "不思議",
+        "奇怪",
+        "奇異",
+        "変",
+        "異様",
+        "妙"
+      ],
+      "antonyms": [
+        "普通",
+        "平凡",
+        "正常",
+        "ありふれた"
+      ],
+      "related": [
+        "不可解",
+        "謎",
+        "珍奇"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:28.015195+00:00Z",
+      "updated_at": "2026-06-02T09:43:23.319397+00:00Z",
       "freq_rank": 4920,
       "frequencies": {
         "aozora": 4496
@@ -324,7 +365,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は若い時からこの寺で帰命の修行を積んできた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "護摩焚きの儀式の後、新しく帰命を誓った信者たちが列をなしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は帰命を誓うことで、俗世間を離れて新しい人生を歩もうと決心した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帰命頂礼、賽ころ明神の兀天窓、光る光る、と追従云うて、あか柄杓へまた一杯、煽るほどに飲むほどに、櫓拍子が乱になって、船はぐらぐら大揺れ小揺れじゃ、こりゃならぬ、賽が据らぬ。",
@@ -574,9 +640,17 @@
       "homophones": [
         "奇妙"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "帰依",
+        "南無"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仏教",
+        "礼拝",
+        "信仰",
+        "南無阿弥陀仏"
+      ]
     },
     "meta": {
       "version": "1.0.0",

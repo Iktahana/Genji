@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "羊の毛刈りは毎年春に行う",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毛刈り機で効率よく毛を刈り取った",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毛刈りの季節が近づいてきた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼はスーラーブと向い合う敷物の上に坐り、種々な業務の打合せをする今朝、スーラーブは、まるで心が内に捕われた、無頓着な風で、シャラフシャーが述べる馬の毛刈りについて聞いた。",
@@ -69,14 +94,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "剪毛"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "羊",
+        "羊毛",
+        "バリカン",
+        "ウール",
+        "牧畜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:23:04.995490+00:00Z",
       "frequencies": {
         "aozora": 2
       }

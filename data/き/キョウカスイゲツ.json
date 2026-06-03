@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その詩は鏡花水月の美しさを表現している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "鏡花水月のような儚い美しさが好きだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "禅では鏡花水月の概念を重視する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "所謂理想派と雖も、豈徒らに鏡花水月をのみ画く者ならんや、心中の事実、皎として明なる者を写すに過ぎざるのみ、然らば即ち是も亦写実派なり。",
@@ -45,14 +70,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "空中楼閣",
+        "幻",
+        "虚像"
+      ],
+      "antonyms": [
+        "現実",
+        "実態"
+      ],
+      "related": [
+        "無常",
+        "儚さ",
+        "仏教",
+        "東洋思想"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:26:49.206472+00:00Z"
     }
   }
 ]

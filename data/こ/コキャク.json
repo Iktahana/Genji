@@ -48,6 +48,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "新しい顧客から連絡があり、大きな案件の相談を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -289,14 +297,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "得意先",
+        "取引先",
+        "クライアント"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "売り手",
+        "サービス",
+        "商品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:05.221871+00:00Z",
+      "updated_at": "2026-06-02T14:22:59.995654+00:00Z",
       "freq_rank": 1811,
       "frequencies": {
         "aozora": 314

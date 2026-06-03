@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "中古車を購入する際は走行距離と整備記録をしっかり確認するべきだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "年間走行距離が多いドライバーにはリース契約より購入が向いている場合がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このトラックは走行距離が30万キロを超えても問題なく現役で働いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御者には走行距離より多額の一ポンド金貨をやって、喜ばせて解放した。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:31.955292+00:00Z",
+      "updated_at": "2026-06-02T10:34:53.025420+00:00Z",
       "frequencies": {
         "aozora": 1
       }

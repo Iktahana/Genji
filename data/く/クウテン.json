@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "エンジンが空転しているのは冷却水の循環に問題があるからかもしれない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ニュートラル状態でエンジンが高速で空転を始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "マフラーから白煙が出ているのはエンジン空転の兆候だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あなたは、まじめな顔をして冗談を言うから可愛い」　冗談ではないのだ、本当なんだ、ああ、あの絵を見せてやりたい、と空転の煩悶をして、ふいと気をかえ、あきらめて、「漫画さ。",
@@ -290,21 +315,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "予算委員会は1時間以上空転して、何も決定されなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "意見が対立して議論は空転する一方だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "3時間の空転の末、ようやく基本方針が承認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "空回り",
+        "停滞",
+        "堂々巡り"
+      ],
+      "antonyms": [
+        "進展",
+        "前進"
+      ],
+      "related": [
+        "スリップ",
+        "審議",
+        "国会",
+        "行き詰まり"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:53.900333+00:00Z",
       "frequencies": {
         "aozora": 48
       }

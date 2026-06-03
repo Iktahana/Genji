@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "隣国の軍隊が我が国の国境を侵したと報道されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -63,14 +71,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "侵入する",
+        "領空侵犯"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "国境",
+        "紛争",
+        "侵略"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.534609+00:00Z"
+      "updated_at": "2026-06-02T14:38:37.530759+00:00Z"
     }
   }
 ]

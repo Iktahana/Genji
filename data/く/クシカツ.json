@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大阪の新世界で串カツを食べるのが、今回の旅行での一番の楽しみだった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ソースの二度づけ禁止というルールをしっかり守りながら、串カツを次々と平らげた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "家で串カツを揚げてキャベツと一緒に食卓に並べたら、子どもたちが大喜びした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、帰り途に草餅や串カツなども釣った。",
@@ -87,12 +112,15 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "揚げ物",
+        "料理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:32:05.876133+00:00Z",
       "freq_rank": 41709,
       "frequencies": {
         "aozora": 6

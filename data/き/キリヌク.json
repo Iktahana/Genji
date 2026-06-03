@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カタログから欲しいページを切り抜く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "新聞記事を丁寧に切り抜いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "紙を定規に沿って切り抜く。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我が書きたるものに振仮名を附くる事と、日毎の新聞より『閑天地』切り抜くを勤めなりけるその人も、亦今我と共にこゝにあり。",
@@ -86,14 +111,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り出す",
+        "抜き出す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "切断",
+        "抽出",
+        "除去"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:13:18.689329+00:00Z",
       "frequencies": {
         "aozora": 156
       }

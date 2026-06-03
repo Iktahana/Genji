@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近日中に成績表をお渡しします。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近日中に工事が完了する予定です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "近日中に連絡させていただきます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、近日中にお目にかかりたいのですが、ご都合おしらせ下さいませ。",
@@ -277,14 +302,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "数日以内に",
+        "数日のうちに",
+        "近いうちに"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "近日",
+        "近々",
+        "近日点",
+        "期日",
+        "締切",
+        "予定"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:36:06.960001+00:00Z"
     }
   }
 ]

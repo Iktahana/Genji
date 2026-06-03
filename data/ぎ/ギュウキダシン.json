@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "牛鬼蛇神の輩が跋扈する世の中では、真面目に働く者が損をしてしまうことが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "牛鬼蛇神な連中に権力を握らせてはならないと、老政治家は繰り返し訴えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "あの組織には牛鬼蛇神の人物が多いから、近づかない方がいいと先輩に忠告された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又或は凝る氣を生じて、神とか佛とか基督とか、或は其より下つて牛鬼蛇神の類の如きもの、巫覡卜筮方鑑の道、其の樣なことに心を委ぬるやうになるのもある。",
@@ -102,14 +127,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "邪悪",
+        "悪鬼",
+        "妖怪変化"
+      ],
+      "antonyms": [
+        "清廉",
+        "善良",
+        "正直"
+      ],
+      "related": [
+        "悪魔",
+        "妖怪",
+        "鬼",
+        "邪気",
+        "魑魅魍魎",
+        "悪党"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:08:19.945655+00:00Z"
     }
   }
 ]

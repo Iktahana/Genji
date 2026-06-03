@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸幕府はキリスト教の布教に対して禁令を発し、信者を厳しく取り締まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "密猟に対する禁令が強化されたにもかかわらず、象牙の密売は後を絶たなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "城下町への刀剣の持ち込みを禁じる禁令が出され、農民は武装解除を余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "徳川時代に、大火の後ごとに幕府から出した色々の禁令や心得が、半分でも今の市民の頭に保存されていたら、去年のあの大火は、おそらくあれほどにならなかったに相違ない。",
@@ -261,14 +286,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "禁止令",
+        "禁止",
+        "禁制",
+        "禁断"
+      ],
+      "antonyms": [
+        "解禁",
+        "許可",
+        "容認"
+      ],
+      "related": [
+        "法令",
+        "規制",
+        "命令",
+        "布告",
+        "制限",
+        "違反"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:48:56.182732+00:00Z",
       "frequencies": {
         "aozora": 165
       }

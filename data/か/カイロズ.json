@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "エンジニアは回路図を丁寧に描いて、新製品の開発設計を開始した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "回路図に使用される記号の意味を理解することは、回路設計の基本だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この複雑な回路図は、高度な電気知識を持つ者でなければ読みにくい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "事業部内での配属を最終的に決める面接で「回路図が読めるか」と聞かれ、物理や化学出身の新卒者の大半が「読めない」と答える中で、「なんとか読めます」と答えてしまったことを、後藤はそのとき、後悔した。",
@@ -157,7 +182,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:20:11.104393+00:00Z",
+      "updated_at": "2026-06-02T03:44:06.526757+00:00Z",
       "frequencies": {
         "aozora": 13
       }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は職場での虐遇に耐えかねて、ついに退職を決意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "施設での虐遇が発覚し、責任者が書類送検された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "捕虜に対する虐遇は国際法で明確に禁止されており、違反者は厳しく裁かれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、これだけの虐遇と迫害に会いながら、なおも神様の禁責を恐れている私たちのまごころを、この瓶に封じこめて、海に投げ込もうと思っているのです。",
@@ -262,14 +287,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "虐待",
+        "酷遇",
+        "迫害"
+      ],
+      "antonyms": [
+        "優遇",
+        "厚遇",
+        "善遇"
+      ],
+      "related": [
+        "暴力",
+        "ハラスメント",
+        "差別",
+        "人権侵害",
+        "苦痛"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:05:46.909728+00:00Z",
       "frequencies": {
         "aozora": 31
       }

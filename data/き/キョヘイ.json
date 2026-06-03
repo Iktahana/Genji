@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は天下統一のため挙兵した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "挙兵から一年で国を支配した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "反乱軍が挙兵した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その時、和田左衛門尉さまは、はつと平伏なさいましたきりで、額の皺に汗をにじませ、しばらくは何も言上できぬ御様子でございましたが、やがて、例の訥々たる御口調で、甚だ唐突に、故右大将家御挙兵以来の義盛さま御自身の十数度にわたる軍功を一つ一つならべ立てたのでございます。",
@@ -279,14 +304,31 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "起兵",
+        "蜂起",
+        "決起",
+        "挙起",
+        "兵を挙げる"
+      ],
+      "antonyms": [
+        "降伏",
+        "投降",
+        "休戦"
+      ],
+      "related": [
+        "反乱",
+        "謀反",
+        "クーデター",
+        "武装蜂起",
+        "征討",
+        "出兵"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:09:01.052750+00:00Z",
       "frequencies": {
         "aozora": 93
       }

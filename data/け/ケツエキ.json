@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "献血センターで初めて血液を提供すると、係員が「ありがとうございます」と深々と頭を下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -286,14 +294,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "血"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "循環",
+        "血管",
+        "輸血",
+        "赤血球",
+        "白血球"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:54.435849+00:00Z",
+      "updated_at": "2026-06-02T13:26:23.622640+00:00Z",
       "freq_rank": 3906,
       "frequencies": {
         "aozora": 1148

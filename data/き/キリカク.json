@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "板から角を切り欠く",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は木に文字を切り欠いた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "布から模様を丁寧に切り欠いた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いったい顔ばかりでなく、静物でもなんでも、あまり輪郭をはっきりかくと絵が堅すぎてかえって実感がなくなるようである。",
@@ -46,14 +71,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "欠き取る",
+        "くり抜く",
+        "削り取る"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "欠く",
+        "切る",
+        "削る",
+        "彫る"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:09:24.283629+00:00Z",
       "frequencies": {
         "aozora": 1
       }

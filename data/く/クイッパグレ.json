@@ -29,21 +29,59 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議が長引いて食いっ逸れになったので、夜になってからまとめて食べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "昼食の食いっ逸れが続くと体に応えると感じ、きちんと休憩を取ることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "忙しい日は食いっ逸れになってしまい、夕方にはふらふらしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "欠食",
+        "食い込み"
+      ],
+      "antonyms": [
+        "ありつく",
+        "飽食"
+      ],
+      "related": [
+        "食事",
+        "空腹",
+        "貧困",
+        "飯",
+        "空腹感",
+        "食糧"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:23:07.044589+00:00Z"
     }
   }
 ]

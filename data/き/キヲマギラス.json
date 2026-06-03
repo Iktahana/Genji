@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テレビを見ることで悲しみを気を紛らす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "忙しい仕事で辛い思い出を気を紛らす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "趣味の活動で退屈さを気を紛らす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は気を紛らす為めに障子を少し開けひろげた。",
@@ -206,14 +231,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "気を散らす",
+        "気を晴らす",
+        "ストレス解消する",
+        "気分転換する"
+      ],
+      "antonyms": [
+        "集中する"
+      ],
+      "related": [
+        "気晴らし",
+        "気分転換",
+        "ストレス",
+        "娯楽",
+        "紛らわし"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:23:55.678247+00:00Z"
     }
   }
 ]

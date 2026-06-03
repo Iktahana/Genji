@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "孔子は克己復礼をもって仁の道とした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "克己復礼の教えは儒教思想の核をなしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "克己復礼を実践することは容易ではないが必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――ゲーテ――　――克己復礼。",
@@ -70,14 +95,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "自重自戒"
+      ],
+      "antonyms": [
+        "奔放恣肆"
+      ],
+      "related": [
+        "克己心",
+        "論語",
+        "礼儀",
+        "自律"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.499894+00:00Z"
+      "updated_at": "2026-06-02T14:38:37.525008+00:00Z"
     }
   }
 ]

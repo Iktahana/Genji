@@ -176,7 +176,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:10.732918+00:00Z",
+      "updated_at": "2026-06-02T11:38:18.986231+00:00Z",
       "frequencies": {
         "aozora": 75
       }
@@ -288,7 +288,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経理担当者は月末になると各部署の帳表を取りまとめる作業に追われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "江戸時代の商家では、帳表を丁寧に保管することが番頭の重要な仕事だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "監査の前日、担当者は帳表の数字に誤りがないか夜通し確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "牛乳にレモン汁を加えて加熱すると凝乳が分離し、リコッタチーズのようになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "チーズ工場の見学で、凝乳を型に入れてプレスする工程が最も重要だと説明を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "凝乳を細かく切り分けてホエーを丁寧に排出することで、チーズの仕上がりが決まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "チチコフが振りかえって見ると、いつの間にか、蕈だの、肉饅頭だの、早焼｜麺麭だの、パイだの、薄焼だの、いろんな物を入れた厚焼、例えば葱を入れたり、芥子を入れたり、凝乳を入れたり、石斑魚を入れたり、その他あらゆる混ぜものをした厚焼が、テーブルの上に堆かく盛りあげてあった。",
@@ -109,14 +134,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "カード"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "乳清",
+        "チーズ",
+        "牛乳",
+        "発酵",
+        "乳製品"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:32.580994+00:00Z",
       "frequencies": {
         "aozora": 12
       }

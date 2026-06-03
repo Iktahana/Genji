@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暗いトンネルに入った瞬間、言いようのない恐怖感に全身が震えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "高所恐怖症の彼は、展望台の柵に近づくだけで強い恐怖感を覚えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "面接室のドアを開ける前、胸に広がる恐怖感を深呼吸で押さえつけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、どうかすると眞夜中過ぎても眠れずに、變に冴えてしまつた頭の中で物語のあとをまた色々に辿りながら、時には隣に寢てゐる祖父母達を呼び起したくなるやうな恐怖感に襲はれたりするのであつた。",
@@ -269,14 +294,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "恐怖心",
+        "恐れ",
+        "戦慄",
+        "不安感",
+        "恐懼"
+      ],
+      "antonyms": [
+        "安心感",
+        "安堵感"
+      ],
+      "related": [
+        "恐怖",
+        "不安",
+        "トラウマ",
+        "緊張感",
+        "恐慌"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:49:20.250730+00:00Z",
       "frequencies": {
         "aozora": 74
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "美術館で江戸絵画の特別展が開催されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この特別展には開始以来毎日多くの来館者が訪れている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "特別展「古代エジプト展」の入場者数が50万人を超えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これら日本美術の愛好家は、各自の蒐集品を一括して千八百八十三年（明治十六年）既に一大展覧会を催しつづいて九十年（明治二十三年）には浮世絵｜板物のみの特別展覧会を開きぬ。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:04:27.261795+00:00Z",
       "frequencies": {
         "aozora": 1
       }

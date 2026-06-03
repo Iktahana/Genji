@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "政府は低金利の融資を中小企業に供与している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "大学は奨学金を優秀な学生に供与する制度を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この援助物資は被災者に供与される予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本では婦人労働者がその八割六分を占めている繊維工業者らは、実物供与、寄宿舎、光熱、被服、賄等を会社の手に独占して更にそこから儲けている。",
@@ -279,14 +304,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "提供",
+        "供給",
+        "授与"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "与える",
+        "配分"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:51:21.167638+00:00Z",
       "freq_rank": 11608,
       "frequencies": {
         "aozora": 30

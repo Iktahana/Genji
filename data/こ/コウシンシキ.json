@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "論理学の授業で「AまたはAでない」が恒真式であることを、真理値表を使って証明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "恒真式はいかなる変数の値に対しても真となる論理式であり、トートロジーとも呼ばれると教授が説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "トートロジー"
+      ],
+      "antonyms": [
+        "矛盾式",
+        "恒偽式"
+      ],
+      "related": [
+        "論理学",
+        "命題",
+        "真偽値",
+        "論理式"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T02:04:12.762130+00:00Z"
+      "updated_at": "2026-06-02T14:10:09.917155+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うちはコリーを飼っている、とても賢い犬だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "コリーは羊飼い犬として有名である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その子どもはコリーと毎日遊んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "萩は田舎乙女の素朴と都会婦人の洗練とを調和して居るかと思へば、小娘のロマン性と中年女のメランコリーを二つながら持つてゐる。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:11.326719+00:00Z",
+      "updated_at": "2026-06-02T07:40:30.965349+00:00Z",
       "freq_rank": 27267,
       "frequencies": {
         "aozora": 51

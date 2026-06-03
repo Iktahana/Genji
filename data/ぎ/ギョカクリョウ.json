@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この漁場の漁獲量は世界的に重要な位置を占めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "漁獲量が減るとこの地域の経済が大きく縮小する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "最近の漁獲量の低下が業界で心配されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが近頃では、浴客の数に反比例して漁獲量が不足し、ときには場違いの魚類が加わるのみか、雨天などには、乾燥機がどんどん仕上げるものもあるらしいから、評判通りのものが、いつでも手に入るとはかぎらない。",
@@ -53,14 +78,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "漁獲高",
+        "水揚げ量"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "統計",
+        "海域",
+        "規制",
+        "乱獲",
+        "環境"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:16:26.867217+00:00Z",
       "frequencies": {
         "aozora": 2
       }

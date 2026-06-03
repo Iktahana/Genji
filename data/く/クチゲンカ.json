@@ -33,7 +33,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人は駅のホームで激しい口喧嘩をしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕など麻雀はしばしば細君と口喧嘩の種子になるが、これが臨戰前だときつと八｜卦が惡い。",
@@ -241,14 +250,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "言い争い",
+        "口論",
+        "諍い",
+        "舌戦",
+        "水掛け論"
+      ],
+      "antonyms": [
+        "和解",
+        "沈黙"
+      ],
+      "related": [
+        "喧嘩",
+        "激論",
+        "悶着",
+        "いざこざ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:37:04.891480+00:00Z",
       "frequencies": {
         "aozora": 74
       }

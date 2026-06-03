@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "神前に新米を献ずる儀式が、その村では毎年秋の収穫後に執り行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -295,14 +303,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "献上する",
+        "献呈する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "献金",
+        "寄付",
+        "供え"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:56.630216+00:00Z",
+      "updated_at": "2026-06-02T13:34:42.688086+00:00Z",
       "frequencies": {
         "aozora": 406
       }

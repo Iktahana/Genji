@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅先での疲れを取ろうと、浴衣の帯を寛げてごろりと畳に横になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "締め付けの強い着物を脱いで、ようやく体を寛げることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ノルマを達成した彼は久しぶりに気持ちを寛げ、仲間と酒を酌み交わした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「こんなんですけど、寛げるかと思って、自分で縫って見たの。",
@@ -190,14 +215,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "和らげる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寛ぐ",
+        "安心"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.945924+00:00Z",
+      "updated_at": "2026-06-02T12:42:07.334361+00:00Z",
       "freq_rank": 37442,
       "frequencies": {
         "aozora": 47

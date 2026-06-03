@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "実行ファイルを逆アセンブルして、内部の処理フローを確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "セキュリティ研究者はウイルスを逆アセンブルし、攻撃コードの構造を明らかにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "このバイナリを逆アセンブルすると、関数の呼び出し構造が浮かび上がった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "機械語に変換されてＲＯＭに組み込まれているベーシック処理プログラムを、逆アセンブルと呼ばれる工程を経てアセンブラーの形式に戻して分析すれば、マイクロソフトがどういった手順で機能を実現しているかを覗いてみることができた。",
@@ -62,14 +87,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "逆コンパイル"
+      ],
+      "antonyms": [
+        "アセンブル",
+        "コンパイル"
+      ],
+      "related": [
+        "プログラム",
+        "コンピュータ",
+        "処理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:06:18.133226+00:00Z"
     }
   }
 ]

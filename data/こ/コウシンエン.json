@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "乾燥した季節が続き、口唇炎を発症して唇が赤くただれ、食事のたびに痛みを感じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "皮膚科を受診したところアレルギー性の口唇炎と診断され、ステロイド軟膏を処方された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -54,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "唇炎"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "口腔炎",
+        "皮膚炎",
+        "湿疹",
+        "歯肉炎"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T02:04:12.759215+00:00Z",
+      "updated_at": "2026-06-02T14:10:09.911835+00:00Z",
       "frequencies": {
         "aozora": 1
       }

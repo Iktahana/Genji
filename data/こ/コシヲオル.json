@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "話の最中に腰を折るのは失礼だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -226,14 +234,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "邪魔をする",
+        "中断させる"
+      ],
+      "antonyms": [
+        "促進する"
+      ],
+      "related": [
+        "妨害",
+        "中断",
+        "会話"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:07.683091+00:00Z"
+      "updated_at": "2026-06-02T14:35:03.478747+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新生児の蟹屎は緑黒色で粘り気が強い特徴的な色をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "蟹屎の排出が遅れると、新生児黄疸が発生するリスクが高まる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医学教科書では蟹屎の重要性と観察方法について詳しく説明されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは物凄く汚いどろどろのかたまりのようなもので、三好が看護婦から聞いたのでは、胎児の毒素が口の方へ出るのだと云うことであったが、幸子が見ると、赤ん坊が分娩後に始めて排泄するあの蟹屎と云うものに似ていた。",
@@ -47,14 +72,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "胎便",
+        "初生便"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "便"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:27.062256+00:00Z",
+      "updated_at": "2026-06-02T05:13:10.485926+00:00Z",
       "frequencies": {
         "aozora": 1
       }

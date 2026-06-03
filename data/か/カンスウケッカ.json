@@ -29,21 +29,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "デバッグ中に関数結果をログに出力してみると、期待値とまったく異なる値が返っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "関数結果をキャッシュすることで、同じ引数での再計算を省いてパフォーマンスを改善した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "テストコードでは、関数結果が仕様どおりの型と範囲に収まっているかを検証する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "返り値",
+        "戻り値"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "関数",
+        "引数",
+        "変数",
+        "プログラミング",
+        "出力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:30.713121+00:00Z"
+      "updated_at": "2026-06-02T06:44:44.473333+00:00Z"
     }
   }
 ]

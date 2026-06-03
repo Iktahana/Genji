@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "技術委員会は新製品の安全基準について三か月にわたって審議を重ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "国際標準化機構の技術委員会に日本代表として参加し、規格案の策定に貢献した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "社内の技術委員会が設備老朽化の問題を指摘し、早急な更新を経営陣に勧告した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "掘りはじめは不成績であったので放棄する意見が技術委員会の大半を占めた、その時、数人の若い連中ががんばって遂にこんなに豊富な源泉に当った。",
@@ -45,14 +70,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "技術部会",
+        "専門委員会",
+        "技術部門"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "委員会",
+        "標準化",
+        "規格",
+        "審議",
+        "技術",
+        "専門家"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:58:41.462102+00:00Z"
     }
   }
 ]

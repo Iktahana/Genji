@@ -29,21 +29,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この工事の緊急性を考慮し、入札を省略して随意契約を結ぶことが承認された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医師は症状の緊急性を判断し、最優先で手術室に運ぶよう指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "上司に報告の緊急性を訴えたが、「明日でいい」と一言で片付けられてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "切迫性",
+        "急迫性",
+        "緊急度"
+      ],
+      "antonyms": [
+        "余裕",
+        "ゆとり"
+      ],
+      "related": [
+        "優先度",
+        "緊急性判断",
+        "トリアージ",
+        "緊急対応"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:29:04.722235+00:00Z"
     }
   }
 ]

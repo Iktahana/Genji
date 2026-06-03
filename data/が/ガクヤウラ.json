@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "楽屋裏では役者たちが次の場面の準備をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "そのドラマの楽屋裏には様々な人間関係があった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "テレビ番組で楽屋裏の話題を披露した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この世に人間という形を以て現れて来まして、いろいろの芸当をやって見せますが、時期が来れば楽屋裏の大生命の根拠地へ帰らねばなりません。",
@@ -296,14 +321,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "楽屋",
+        "舞台裏",
+        "内幕"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "楽屋",
+        "内幕",
+        "裏話",
+        "実情",
+        "舞台裏"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T18:05:43.076107+00:00Z",
+      "updated_at": "2026-06-02T07:49:13.922260+00:00Z",
       "frequencies": {
         "aozora": 58
       }

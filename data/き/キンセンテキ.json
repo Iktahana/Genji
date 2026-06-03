@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金銭的に余裕がないので、海外旅行は延期することにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この企画は金銭的なメリットが大きい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金銭的サポートなしでは、このプロジェクトは進められない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "書く意欲、訳す意欲、まとめる意欲はやはり、金銭的な裏付けを得てはじめて継続できる物でしょう。",
@@ -253,14 +278,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "財務的",
+        "経済的"
+      ],
+      "antonyms": [
+        "精神的",
+        "非物質的"
+      ],
+      "related": [
+        "金銭",
+        "経済",
+        "財政",
+        "金融"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:38:35.780662+00:00Z",
       "frequencies": {
         "aozora": 59
       }

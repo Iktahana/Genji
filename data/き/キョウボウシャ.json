@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "共謀者の身元がようやく明らかになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼が共謀者であることは疑いの余地がない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "複数の共謀者が逮捕されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてその間片方では、共謀者が、実に巧みな計略で、例の医者を診察室の中へとじこめちまっていたんだ」「だがしかし一人の男は顛癇病の患者だったのじゃないかね！",
@@ -269,14 +294,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "共犯者",
+        "謀議者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "共謀罪",
+        "共謀",
+        "内通者",
+        "首謀者",
+        "従犯",
+        "主犯"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:53:28.216811+00:00Z",
       "frequencies": {
         "aozora": 61
       }

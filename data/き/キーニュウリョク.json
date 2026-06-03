@@ -29,21 +29,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このアプリケーションは、キー入力のみで操作することができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ユーザーがキー入力を間違えると、エラーメッセージが表示される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "マウスが不要なため、キー入力による作業は効率的である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "キーボード入力",
+        "タイピング",
+        "キータイプ",
+        "打鍵"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "キーボード",
+        "入力装置",
+        "データ入力",
+        "キーストローク"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:51:00.837444+00:00Z"
     }
   }
 ]

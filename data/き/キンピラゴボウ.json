@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金平牛蒡を作るために、祖母はごぼうを水にさらしてあく抜きをしてから炒め始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "お節料理の重箱には必ず金平牛蒡が入っており、年明けのおせちの定番だと母は言う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "栄養士は「金平牛蒡は食物繊維が豊富なので積極的に食べてください」と指導した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その時、あなたのお弁当のおかずは卵焼きと金平牛蒡で、私の持って来たお弁当のおかずは、筋子の粕漬と、玉葱の煮たのでした。",
@@ -81,14 +106,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "きんぴら"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "牛蒡",
+        "人参",
+        "炒め物",
+        "和食",
+        "副菜",
+        "常備菜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:42.464135+00:00Z"
+      "updated_at": "2026-06-02T11:47:31.124339+00:00Z"
     }
   }
 ]

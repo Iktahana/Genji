@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "婚約の儀式では金包を新郎から新婦へ贈るのが風習である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金包には幸運と繁栄を象徴する意味が込められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金包の包装は絹布で丁寧に仕上げられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鉄斎も立ち上りかけて、先刻武士が置いて行った縁先きの金包みに気が付き、手に取り上げる。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "聘礼",
+        "結納金"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "結納",
+        "結婚",
+        "祝儀"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:45:37.997703+00:00Z",
       "frequencies": {
         "aozora": 99
       }

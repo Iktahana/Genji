@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "『ガリヴァー旅行記』に登場する巨人国ブロブディンナグでは、主人公は小人同然の存在だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「巨人国に迷い込んだら怖いけど面白そう」と子供は目を輝かせて言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "作家は巨人国を舞台にした物語の中で、人間の傲慢さを痛烈に風刺した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あれが棚になる主要資材なんです」　なるほど、巨人国で使うレールのような形をした鉄材が数十本、上下から互いに噛み合ったようになったまま、ぐんぐん壁の向こうへ入っていく。",
@@ -110,13 +135,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "小人国"
+      ],
+      "related": [
+        "ガリバー旅行記",
+        "巨人",
+        "小人国",
+        "ファンタジー",
+        "異世界"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:02:29.958126+00:00Z"
     }
   }
 ]

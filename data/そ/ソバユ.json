@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "蕎麦を食べ終えると、店主がそば湯を運んできてくれたので、残ったつゆで割って飲んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "冬の寒い夜にそば湯を一杯飲むと、体の芯からじわじわと温まっていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「そば湯はお持ちしますか」と店員が声をかけてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ようやく川を渉る、足袋底がこそばゆいから、草鞋を釈いて足袋を振うと、粗製のザラメ砂糖のような花崗の砂が、雫と共に堕ちる。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:36.740965+00:00Z",
+      "updated_at": "2026-06-02T10:44:45.484090+00:00Z",
       "frequencies": {
         "aozora": 1
       }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "キルシュはサクランボのブランデーだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "キルシュはデザートの風味付けに使われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "キルシュの香りは独特である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宿の人達は、私の顔の雪やけと、初めて知った山登りに、深い興味をそそられたと見える、バーで飲んだキルシュ・ワッサーはうれしかった。",
@@ -93,14 +118,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "キルシュワッサー",
+        "チェリーブランデー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "蒸留酒",
+        "サクランボ",
+        "ブランデー",
+        "洋酒",
+        "リキュール",
+        "ドイツ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:18:53.635923+00:00Z",
       "frequencies": {
         "aozora": 3
       }

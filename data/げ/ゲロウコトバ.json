@@ -29,21 +29,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その映画では主人公が下郎言葉を使っているが、実は上級者だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "江戸時代の文献には下郎言葉の例が多く記録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "下品な言葉",
+        "卑語",
+        "俗語",
+        "卑猥語"
+      ],
+      "antonyms": [
+        "雅語",
+        "敬語",
+        "上品な言葉"
+      ],
+      "related": [
+        "言葉遣い",
+        "身分",
+        "下郎"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.328645+00:00Z"
+      "updated_at": "2026-06-02T13:45:28.688833+00:00Z"
     }
   }
 ]

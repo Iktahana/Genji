@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古典の講師は、その和歌の句義を丁寧に読み解き、作者の心情を説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "漢詩の句義を誤って解釈すると、全体の意味が大きく変わってしまうと先生は注意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "辞書を引きながら句義を確認しつつ、百人一首を一首ずつ覚えていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "遅々たる行列の進みが百貨店の外の入口まで届くと黒服の店員に管理されて人数の一くぎりずつが内側の入口の床石に誘われる。",
@@ -273,14 +298,27 @@
         "釘",
         "供犠"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "語義",
+        "語意",
+        "字義",
+        "文意",
+        "意味"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "語釈",
+        "解釈",
+        "意義",
+        "語句",
+        "文節",
+        "注釈"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:33.900717+00:00Z",
+      "updated_at": "2026-06-02T12:28:47.128485+00:00Z",
       "freq_rank": 38738
     }
   },
@@ -314,7 +352,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地元の区議が小学校の建て替え問題について住民説明会を開いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は区議として三期目を迎え、高齢者福祉の充実に力を入れてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "区議は区民からの陳情を受け、保育所の増設を議会で訴えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "政治的な成長ということは、必ずしも隣組選出の区議を当選させるために主婦たちが活躍するというような末梢のことではあるまい。",
@@ -566,9 +629,18 @@
         "釘",
         "供犠"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "区議会議員"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "区議会",
+        "都議",
+        "市議",
+        "議員",
+        "区政",
+        "地方議員"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -612,7 +684,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大工は木材をしっかり固定しようと、長い釘を金槌で力強く打ち込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "引っ越し先の壁に絵を飾るため、細い釘を一本慎重に打った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い家を解体していると、錆びた釘が床板のあちこちに残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "情慾萩原朔太郎手に釘うて、足に釘うて、十字にはりつけ、邪淫のいましめ、齒がみをなして我こたふ。",
@@ -866,7 +963,14 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉄釘",
+        "木ねじ",
+        "釘打ち",
+        "釘抜き",
+        "金槌",
+        "ハンマー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -908,7 +1012,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の祭礼では供犠として牛が神前に捧げられ、司祭が厳かに儀式を執り行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その部族の伝統では収穫前に供犠を行い、神の加護を祈る慣わしがあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "研究者は古代遺跡から発掘された動物の骨を、供犠の痕跡として分析した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人身供犠の一事は、太古の風習の一として、之を解釈す可く、現今の未開民族中尚この風習を有するものあり、何れの文化民族も、嘗て一度び此恐ろしき風習を、有せざりしは無し。",
@@ -1160,9 +1289,21 @@
         "区議",
         "釘"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "いけにえ",
+        "犠牲",
+        "祭儀",
+        "奉献"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "祭祀",
+        "儀式",
+        "神前",
+        "生贄",
+        "宗教儀礼",
+        "奉納"
+      ]
     },
     "meta": {
       "version": "1.0.0",

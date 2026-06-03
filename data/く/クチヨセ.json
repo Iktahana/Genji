@@ -47,6 +47,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "恐山のイタコによる口寄せを体験するために、青森まで出かけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -323,14 +331,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "降霊",
+        "霊媒",
+        "憑依"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "イタコ",
+        "巫女",
+        "死者",
+        "霊感",
+        "信仰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.711575+00:00Z",
+      "updated_at": "2026-06-02T12:39:44.329763+00:00Z",
       "frequencies": {
         "aozora": 25
       }

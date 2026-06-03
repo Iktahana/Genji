@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春山に登ると、日差しを受けた雪面は粗目雪に変わって歩くたびにざくざくと音を立てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スキー場のインストラクターが「今日は粗目雪でスピードが出にくいので注意してください」とアドバイスした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "朝は締まった雪でも昼過ぎには粗目雪になってしまい、スキーの滑りが重くなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:25.968660+00:00Z"
+      "updated_at": "2026-06-02T08:18:12.767784+00:00Z"
     }
   }
 ]

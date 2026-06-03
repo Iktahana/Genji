@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "現地で輸入した商品を逆輸出で利益を上げている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "逆輸出ビジネスの税務手続きは非常に複雑だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "税制の優遇措置により逆輸出が増加した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、あっちで学者がほめた、というようなニュースとして、わたしたち日本の人民に逆輸出されてくる。",
@@ -47,14 +72,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "再輸出"
+      ],
+      "antonyms": [
+        "輸出",
+        "直輸出"
+      ],
+      "related": [
+        "輸出",
+        "輸入",
+        "逆輸入",
+        "貿易",
+        "再輸入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:07:33.082712+00:00Z"
     }
   }
 ]

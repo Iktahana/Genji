@@ -29,21 +29,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "デジタル通信システムでは、疑似乱数生成器が近似雑音を生成する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この近似雑音は真の白色雑音に非常によく似た統計特性を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "レーダーシステムのテストでは、近似雑音を用いた信号で検出性能を評価する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "擬似雑音",
+        "疑似ノイズ",
+        "PN信号"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "擬似ランダム",
+        "スペクトル拡散",
+        "PN符号",
+        "雑音系列",
+        "符号",
+        "通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:36:06.957621+00:00Z"
     }
   }
 ]

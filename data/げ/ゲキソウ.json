@@ -30,21 +30,60 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マラソン選手が激走の末、ゴールを切った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は競争相手を追い越そうと激走している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "車は激走する列車に追いつこうとしたが、及ばなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "力走",
+        "快走",
+        "疾走",
+        "独走"
+      ],
+      "antonyms": [
+        "徐行",
+        "緩走"
+      ],
+      "related": [
+        "走る",
+        "マラソン",
+        "競争",
+        "ラストスパート",
+        "力走"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:57.746303+00:00Z"
+      "updated_at": "2026-06-02T13:40:41.033819+00:00Z"
     }
   }
 ]

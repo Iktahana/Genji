@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の日ごろの行状を知る人は誰も、そんな事件を起こすとは思っていなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "放蕩な行状が続いたため、父親はついに息子を家から追い出すことを決断した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "史料に記された武将の行状を丁寧にたどることで、その人物像が立体的に見えてきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自滅じゃあ詮議にもならねえ」　それからおみよが平素の行状などを少しばかり訊いて、半七はここを出た。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "行い",
+        "振舞い",
+        "言動"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "品行",
+        "人柄",
+        "態度"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:13:08.606342+00:00Z",
       "frequencies": {
         "aozora": 535
       }

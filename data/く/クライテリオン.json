@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "映画マニアの兄は、クライテリオンのブルーレイを数百枚コレクションしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クライテリオンから出たあのフランス映画のBD版には、監督インタビューが特典として収録されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -70,14 +86,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "基準",
+        "尺度"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "映画",
+        "ブルーレイ",
+        "名作"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.995100+00:00Z",
+      "updated_at": "2026-06-02T12:46:27.975429+00:00Z",
       "frequencies": {
         "aozora": 6
       }

@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "虚礼を廃止して本質的な対話を重視する方針だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "虚礼に時間を使うのではなく、実際の内容を議論したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -248,14 +264,22 @@
       "homophones": [
         "挙例"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "形式"
+      ],
+      "antonyms": [
+        "真心"
+      ],
+      "related": [
+        "礼儀",
+        "マナー",
+        "作法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:40.777914+00:00Z",
+      "updated_at": "2026-06-02T11:06:45.525377+00:00Z",
       "frequencies": {
         "aozora": 38
       }
@@ -293,7 +317,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "説明を明確にするため、具体的な挙例を示してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "先ほどの挙例で状況が理解できた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "挙例による説明が最も効果的な教え方だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -302,9 +351,15 @@
       "homophones": [
         "虚礼"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "例示"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "例",
+        "説明",
+        "引用"
+      ]
     },
     "meta": {
       "version": "1.0.0",

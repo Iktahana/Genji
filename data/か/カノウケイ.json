@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "日本語文法において「食べられる」は可能形である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -62,14 +70,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "能動形",
+        "受動形"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文法",
+        "活用",
+        "使役形"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:27.217907+00:00Z",
+      "updated_at": "2026-06-02T05:16:24.298859+00:00Z",
       "frequencies": {
         "aozora": 1
       }

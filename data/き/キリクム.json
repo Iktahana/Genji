@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "編集者は複数のニュース記事を切り組んで、特集を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "デザイナーがいくつかの写真を切り組んで、ポスターを完成させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "職人が木材の断片を巧みに切り組んで、額縁にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、これを四丈八尺の大さに切り組むことが出来るかと訊くと、訳はないという。",
@@ -54,14 +79,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "組み合わせる",
+        "組み立てる",
+        "接合する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "木工",
+        "大工",
+        "組み木",
+        "継手"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:12:04.101869+00:00Z",
       "frequencies": {
         "aozora": 8
       }

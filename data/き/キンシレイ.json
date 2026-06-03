@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市議会は騒音を理由に、深夜の花火に関する禁止令を発布した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "感染拡大を受け、政府は大規模集会に対する禁止令を発動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "禁止令が出たにもかかわらず、一部の市民は抗議活動を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "徳川、天保の改革に幕府から厳しい奢侈禁止令が出て女の髪飾りにもいわゆる金銀玳瑁はご法度であった。",
@@ -253,14 +278,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "禁令"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "禁止",
+        "命令",
+        "法律",
+        "布告"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:35:23.447549+00:00Z"
     }
   }
 ]

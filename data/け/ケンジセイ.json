@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地方検察庁の検事正が記者会見を開き、大型汚職事件の捜査経緯を説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新たな検事正が就任し、組織の透明性向上に取り組む姿勢を強調した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "検事正の指揮のもと、建設会社をめぐる大規模な談合事件の捜査が進められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（総監閣下によろしく……）といったが、実に総監閣下とは何ごとであるか、仮りに検事局に身を置いている自分に、検事正によろしくとか、検事総長によろしくとかいうのなら分っているが総監閣下へよろしくは無い。",
@@ -185,12 +210,17 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "検事",
+        "検事長",
+        "検事総長",
+        "検察庁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:56.559701+00:00Z",
+      "updated_at": "2026-06-02T13:34:25.449720+00:00Z",
       "frequencies": {
         "aozora": 19
       }
@@ -260,9 +290,17 @@
       "homophones": [
         "検事正"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "視認性",
+        "可視性"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "デザイン",
+        "広告",
+        "強調",
+        "表示"
+      ]
     },
     "meta": {
       "version": "1.0.0",

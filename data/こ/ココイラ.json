@@ -313,21 +313,53 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "此処いらは田舎で、店も少ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "此処いらで一番大きい病院はどこですか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "此処いらにはいい温泉がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "この辺り",
+        "此処ら",
+        "近辺"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "場所",
+        "指示語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:06.936920+00:00Z",
+      "updated_at": "2026-06-02T14:32:11.659108+00:00Z",
       "freq_rank": 43147
     }
   }

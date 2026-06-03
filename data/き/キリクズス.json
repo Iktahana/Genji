@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建設会社が山の斜面を切り崩して、造成地にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "土地改良のため、農家は田の高い部分を切り崩した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "工事現場で重機が土を切り崩していく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "羽織は猩々緋、とを見ず、故に競い掛かりて切り崩す、中村｜戈を振るって敵を殺す事あまたなれども中村を知らざれば敵恐れず、中村ついに戦歿す。",
@@ -81,21 +106,58 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "政治家は巧妙な戦略で野党を切り崩していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "強力な外交交渉で敵対勢力を切り崩すことができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "経営陣の説得で、労働組合の結束を切り崩した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "崩す",
+        "取り崩す"
+      ],
+      "antonyms": [
+        "固める",
+        "まとめる",
+        "結束させる"
+      ],
+      "related": [
+        "土砂",
+        "地形工事",
+        "分断",
+        "切り崩し"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:12:04.100666+00:00Z",
       "frequencies": {
         "aozora": 44
       }

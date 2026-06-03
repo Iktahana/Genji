@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このスクリプトはカンマを区きり子として使い、データを列ごとに分割している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "CSVファイルの区きり子をタブに変更したところ、正しく読み込めるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プログラマーはパイプ文字を区きり子に指定し、ログを解析するツールを作成した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "セパレータ",
+        "区切り文字"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文字列",
+        "データ",
+        "プログラミング",
+        "CSV"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:28:13.384663+00:00Z"
     }
   }
 ]

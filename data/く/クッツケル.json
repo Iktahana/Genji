@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "荷物にラベルをくっ付ける。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -322,6 +330,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "二つのテーブルをくっ付けて大きな机を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -373,14 +389,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "付ける",
+        "接着する",
+        "貼り付ける",
+        "合わせる"
+      ],
+      "antonyms": [
+        "離す",
+        "剥がす"
+      ],
+      "related": [
+        "接合",
+        "固定",
+        "結合",
+        "くっ付く"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.854031+00:00Z",
+      "updated_at": "2026-06-02T12:41:57.956856+00:00Z",
       "freq_rank": 39911,
       "frequencies": {
         "aozora": 27

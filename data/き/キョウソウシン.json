@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の強い競争心が優秀な成績を生み出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "子どもの競争心を適切に育てることは教育の課題だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "健全な競争心があれば、自分の能力を高めることができる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "幹部の功名心と競争心は兵士に重量がのしかゝるように出来ていた。",
@@ -245,14 +270,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "競争意識",
+        "対抗心",
+        "闘争心",
+        "負けず嫌い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "競争",
+        "向上心",
+        "ライバル意識",
+        "勝負欲",
+        "プライド"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:37:45.725591+00:00Z",
       "frequencies": {
         "aozora": 88
       }

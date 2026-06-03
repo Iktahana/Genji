@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今期の業績悪化を受けて、会社は人件費の切り詰めを余儀なくされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "家計の切り詰めのために、外食を月に二度だけにすると決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "予算の切り詰めにより、図書館の新規購入図書数が半減してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これなどは思い切って切り詰め、年代いじりなどは抜きにして綱領だけに止めたい。",
@@ -277,14 +302,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "削減",
+        "節減",
+        "縮小",
+        "倹約",
+        "緊縮"
+      ],
+      "antonyms": [
+        "拡大",
+        "増加",
+        "拡充"
+      ],
+      "related": [
+        "経費削減",
+        "予算削減",
+        "節約",
+        "リストラ",
+        "緊縮財政"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:13:48.521501+00:00Z",
       "freq_rank": 35142
     }
   }

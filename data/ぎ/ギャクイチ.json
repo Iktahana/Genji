@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "タロットカードを引いたら「塔」が逆位置で出て、占い師は「突然の崩壊を示します」と言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「月」が逆位置に現れたとき、隠された不安が表面化するサインだと解説書に書いてあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "逆位置のカードは正位置とは異なる解釈をするため、初心者には難しいと感じる人も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "反転"
+      ],
+      "antonyms": [
+        "正位置"
+      ],
+      "related": [
+        "位置",
+        "方向",
+        "タロット"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:06:18.133724+00:00Z"
     }
   }
 ]

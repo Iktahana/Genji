@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "焼鳥屋で串焼きを注文すると、炭火の香ばしい香りが食欲をそそる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夏祭りで串焼きを食べながら、屋台を回るのが恒例になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "串焼きの焦げ具合を見極めるには、職人の経験と感覚が必要である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "(Ice.)steik は steka と親類で英語の stick すなわちステッキと関係があり、串に刺して火にあぶる「串焼き」であったらしい。",
@@ -133,14 +158,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "焼き鳥",
+        "串刺し"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "串",
+        "炭火",
+        "居酒屋",
+        "料理",
+        "バーベキュー"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:32:07.903494+00:00Z",
       "freq_rank": 38690,
       "frequencies": {
         "aozora": 12

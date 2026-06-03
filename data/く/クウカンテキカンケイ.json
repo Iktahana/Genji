@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供の発達段階では、「上」「下」「隣」などの空間的関係を表す言葉を習得するのが重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "地図を読む力とは、現実の地形と記号の空間的関係を正確に把握する能力のことだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ロボットアームは周囲の物体との空間的関係をセンサーで認識しながら動作する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "同じようなことであるが、ある一場面と次の一場面との空間的関係を示すような注意が一般にあまりに閑却され過ぎている。",
@@ -95,12 +120,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "配置",
+        "隣接",
+        "包含",
+        "相対位置",
+        "位置関係"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:23:36.872533+00:00Z"
     }
   }
 ]

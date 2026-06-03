@@ -29,21 +29,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パッケージの裏面に記載された原材料名を確認すると、アレルゲンが含まれていることがわかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "食品表示法の改正により、加工食品の原材料名をより詳細に表示することが義務付けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "健康志向の消費者が増え、購入前に原材料名を丁寧に読み込む人が以前より多くなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "成分"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "食品表示",
+        "原材料",
+        "添加物",
+        "アレルギー表示",
+        "成分表"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.852137+00:00Z"
+      "updated_at": "2026-06-02T13:51:19.066869+00:00Z"
     }
   }
 ]

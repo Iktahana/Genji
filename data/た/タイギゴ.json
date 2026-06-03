@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国語の授業で先生は「幸福」の対義語を黒板に書くよう生徒に求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "辞書を引くと「希望」の対義語として「絶望」が載っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この語の対義語を調べてみると、概念の輪郭がよりはっきりする」と言語学の講師は説明した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは、対義語の当てっこでした。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:35:40.382705+00:00Z",
+      "updated_at": "2026-06-02T10:47:18.121289+00:00Z",
       "frequencies": {
         "aozora": 3
       }

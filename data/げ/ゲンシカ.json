@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "炭素の原子価は四であるため、四つの水素原子と結合してメタン分子を形成できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "化学の授業で原子価を学んだ生徒は、元素ごとに結合できる手の数が異なることを図を使って理解した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "遷移金属は原子価が複数あることが多く、反応条件によって異なる酸化数をとる点が特徴的だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると、元素のなかでアルカリ元素とか、ハロゲン元素とか云われて、性質の互いに似通っているものが縦に並ぶことになり、それらが、原子価を等しくすることなどもこれで明らかに示されるのでした。",
@@ -55,12 +80,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "化学結合",
+        "電子",
+        "酸化数"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.859936+00:00Z",
+      "updated_at": "2026-06-02T13:51:37.081061+00:00Z",
       "frequencies": {
         "aozora": 2
       }

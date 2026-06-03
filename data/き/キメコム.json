@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "彼はその情報をうっかり信じ込んで、すぐに決め込んでしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -269,14 +277,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "決める",
+        "決定する"
+      ],
+      "antonyms": [
+        "迷う"
+      ],
+      "related": [
+        "意思決定",
+        "態度",
+        "行動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:37.333345+00:00Z",
+      "updated_at": "2026-06-02T09:43:23.112655+00:00Z",
       "frequencies": {
         "aozora": 30
       }

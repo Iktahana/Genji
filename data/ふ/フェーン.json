@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アルプス山脈を越えて吹き下ろすフェーンの影響で、麓の村は季節外れの暖かさになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "乾燥したフェーンが吹き荒れ、山火事の危険性が急激に高まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "春先に吹くフェーンによって山の雪解けが一気に進み、川が激しく増水した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "幸いあそこの峠の頂には、森林測候所がございまして、その観測の結果から最も信用のできる資料を知ることができますが、つまり、南風がこの峠の南斜面を這い登り、時にはそこに霧さえ起し、今度はそれが北側へ吹き下す時には、一種のフェーン型のものとなりまして、かえって乾くのでございます。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:38:32.914698+00:00Z",
+      "updated_at": "2026-06-02T13:05:24.110984+00:00Z",
       "frequencies": {
         "aozora": 6
       }

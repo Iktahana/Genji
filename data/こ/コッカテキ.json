@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オリンピックの開催は国家的な一大事業であり、各省庁が連携して準備を進めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "この災害は国家的な対応が求められる規模であると判断し、政府は非常事態を宣言した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "国家的なプロジェクトとして推進されたリニア新幹線の建設は、数十年にわたる長期計画だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は読者の中で国家百年の将来を思う人々があらば、どうかこういう国家的にも世界的にも意義の深い仕事に有形無形の援助を惜しまれないようにこの機会をかりて切望する次第である。",
@@ -253,14 +278,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "国民的",
+        "全国的",
+        "国家規模の"
+      ],
+      "antonyms": [
+        "個人的",
+        "私的",
+        "局地的"
+      ],
+      "related": [
+        "国家",
+        "国民",
+        "政府",
+        "公的",
+        "社会的",
+        "国政"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:08.448565+00:00Z"
+      "updated_at": "2026-06-02T14:39:37.778533+00:00Z"
     }
   }
 ]

@@ -442,7 +442,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:45.403227+00:00Z",
+      "updated_at": "2026-06-02T09:17:15.293156+00:00Z",
       "freq_rank": 11956,
       "frequencies": {
         "aozora": 939
@@ -765,7 +765,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "白物の産地として知られた地域では、塩田が広がっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "白物の取引を独占していた商人の家は栄えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }

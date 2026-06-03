@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "舞台に登場した狂言方が滑稽な身振りで太郎冠者を演じ、場内が笑いに包まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は幼少から狂言方として厳しい訓練を受け、今では一流の演者として認められている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "狂言方のテンポよい掛け合いに、能楽堂を訪れた外国人観光客も思わず笑顔になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "坂東あべ川、市村しるこ、渠はあまい名を春狐と号して、福面女に、瓢箪男、般若の面、……二十五座の座附きで駈出しの狂言方であったから。",
@@ -280,21 +305,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "座に入りたての狂言方は小道具の準備や雑用から仕事を覚えていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "狂言方が書いた添え狂言が思いがけず評判となり、座頭に認められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "劇場の狂言方は、主役俳優の得意な動きを計算しながら台本を仕立てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "狂言師",
+        "狂言役者"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "狂言",
+        "能役者",
+        "脇役",
+        "歌舞伎",
+        "座付き作者",
+        "演者"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:29:08.401305+00:00Z"
     }
   }
 ]

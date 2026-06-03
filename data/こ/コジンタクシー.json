@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "個人タクシーの運転手は長年の経験を持つベテランが多く、道案内が丁寧だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "個人タクシーを始めるには、法人タクシーで10年以上の無事故経歴が必要とされる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "個タク"
+      ],
+      "antonyms": [
+        "法人タクシー"
+      ],
+      "related": [
+        "タクシー",
+        "運輸"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.096684+00:00Z"
+      "updated_at": "2026-06-02T14:36:13.413152+00:00Z"
     }
   }
 ]

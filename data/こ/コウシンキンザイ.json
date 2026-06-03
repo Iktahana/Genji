@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "水虫が悪化したため皮膚科を受診し、強力な抗真菌剤を処方してもらって患部に毎日塗布した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "免疫力が著しく低下している患者には、予防目的で抗真菌剤を投与することがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "抗真菌薬"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "抗生物質",
+        "抗ウイルス薬",
+        "医薬品",
+        "処方薬"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T02:04:12.760566+00:00Z"
+      "updated_at": "2026-06-02T14:10:09.915013+00:00Z"
     }
   }
 ]

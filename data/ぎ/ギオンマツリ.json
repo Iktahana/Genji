@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祇園祭のクライマックスである山鉾巡行を見るために、桟敷席の予約を三ヶ月前に取った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "京都の夏は祇園祭一色に染まり、街全体が祭りの熱気に包まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祇園祭は千年以上の歴史を持ち、ユネスコの無形文化遺産にも登録されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "折からこの地の祇園祭で樽神輿を舁いだ子供や大供の群が目抜きの通りを練っていた。",
@@ -277,14 +302,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "祇園会"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "京都",
+        "祭",
+        "山鉾",
+        "神輿"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:53:24.860341+00:00Z",
       "freq_rank": 34363,
       "frequencies": {
         "aozora": 40

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若き日に義兄弟の契りを交わしたほど深い付き合いだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義兄弟同然の関係を持つ二人の絆は何十年の時を経ても変わらない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その家族は彼を義兄弟として迎え入れ、血族同然に遇してくれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "義兄弟のバルフォーア、当時のアイルランド政務総監がターリングへ遊びに来た時は護衛の警官が十二人もついて来たりした。",
@@ -245,14 +270,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "兄弟分",
+        "契り兄弟"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "義兄",
+        "義弟",
+        "義姉妹",
+        "盃事",
+        "義理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:56:01.611391+00:00Z"
     }
   }
 ]

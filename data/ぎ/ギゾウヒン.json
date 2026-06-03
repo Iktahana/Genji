@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "路上の露店で販売員が偽造品のブランド品を高値で売っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "税関が輸入される偽造品の摘発に資源を集中させ、成果を上げている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "消費者の多くは偽造品と本物の違いを見分けるのは難しいと感じている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは偽造品と区別するためのミヤコ缶詰会社の隠し符号であったわけである。",
@@ -69,14 +94,32 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "模造品",
+        "偽物",
+        "にせ物",
+        "コピー品",
+        "模倣品"
+      ],
+      "antonyms": [
+        "本物",
+        "正規品",
+        "真正品",
+        "本物商品"
+      ],
+      "related": [
+        "偽造",
+        "海賊版",
+        "商標侵害",
+        "知的財産",
+        "粗悪品",
+        "不正競争"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:04:03.249058+00:00Z"
     }
   }
 ]

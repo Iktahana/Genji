@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の調査は緊密で、一つの矛盾も見落とさなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "学問的な緊密さがなければ、論文は受理されない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その議論の緊密性に、誰もが感心させられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "２猫が鳴いてゐた、みんなが寝静まると、隣りの空地で、そこの暗がりで、まことに緊密でゆつたりと細い声で、ゆつたりと細い声で闇の中で鳴いてゐた。",
@@ -254,14 +279,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "厳密",
+        "密接",
+        "堅牢"
+      ],
+      "antonyms": [
+        "疎い"
+      ],
+      "related": [
+        "連結",
+        "関係",
+        "協力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:45:38.001783+00:00Z",
       "freq_rank": 13882,
       "frequencies": {
         "aozora": 303

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食事の食い残しはもったいないので冷蔵庫に保存した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このレストランは食い残しが多い傾向にある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "食い残しを持ち帰りバッグに詰めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこには、中隊で食い残した麦飯が入っていた。",
@@ -269,14 +294,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "食べ残し",
+        "残飯"
+      ],
+      "antonyms": [
+        "完食"
+      ],
+      "related": [
+        "廃棄",
+        "勿体ない",
+        "ゴミ",
+        "残り物",
+        "食品ロス",
+        "処理"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:23:07.049635+00:00Z"
     }
   }
 ]

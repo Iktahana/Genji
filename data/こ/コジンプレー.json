@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "そのサッカー選手は個人プレーが目立ち、パスが少ない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "バスケットボールでは個人プレーより連携プレーが重視される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "単独プレー"
+      ],
+      "antonyms": [
+        "チームプレー"
+      ],
+      "related": [
+        "スポーツ",
+        "戦術"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-01T04:02:06.099815+00:00Z"
+      "updated_at": "2026-06-02T14:36:13.418495+00:00Z"
     }
   }
 ]

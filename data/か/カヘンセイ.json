@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この素材は温度による可変性が高く、わずかな温度差で伸縮する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "気候モデルの可変性を評価するため、複数の観測データを比較した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "人の性格の可変性については、研究者の間でいまも議論が続いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤とか紫とか其他の原色、中間色は他の色彩との関係でどのやうにも、自分をゆづる、一つの可変性をもつてゐる。",
@@ -53,14 +78,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "変動性",
+        "流動性",
+        "柔軟性"
+      ],
+      "antonyms": [
+        "不変性",
+        "固定性"
+      ],
+      "related": [
+        "変化",
+        "性質",
+        "動的",
+        "特性",
+        "弾力性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T05:27:15.005699+00:00Z"
     }
   }
 ]

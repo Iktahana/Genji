@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "正倉院には奈良時代の写経が巻子本の形で数多く保存されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -70,14 +78,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "巻物",
+        "巻子",
+        "手巻"
+      ],
+      "antonyms": [
+        "冊子本",
+        "折本"
+      ],
+      "related": [
+        "写本",
+        "経典",
+        "絵巻",
+        "装丁",
+        "古典籍"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T12:55:41.789251+00:00Z"
+      "updated_at": "2026-06-02T06:44:44.477445+00:00Z"
     }
   }
 ]

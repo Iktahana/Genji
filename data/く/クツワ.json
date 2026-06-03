@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "騎手は出走前に馬の轡を確認し、しっかりと固定されているかを確かめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い厩舎の壁には使い古した轡が何個も掛けられたままになっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "馬が轡を嫌がって首を振るので、調教師は根気よく慣れさせる訓練を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何処かで轡虫の鳴くのが静かな闇に響く。",
@@ -279,14 +304,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ハミ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "馬",
+        "乗馬",
+        "馬具"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.947991+00:00Z",
+      "updated_at": "2026-06-02T12:42:07.334670+00:00Z",
       "freq_rank": 23687,
       "frequencies": {
         "aozora": 385

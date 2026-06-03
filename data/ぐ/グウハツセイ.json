@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この計画では気象の偶発性を考慮する必要があります。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "市場の偶発性に対応するため、柔軟な戦略を立てた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "人生における偶発性は避けられないものである。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近頃の医学界では、この結核という考えが煩さく何にでも附纏うようになったものだから、我々もついそれに釣りこまれて、一過性の、偶発性のラッセルでも、誤って結核と解釈することがある。",
@@ -45,14 +70,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "偶然性",
+        "不確定性"
+      ],
+      "antonyms": [
+        "必然性",
+        "確実性"
+      ],
+      "related": [
+        "偶発",
+        "偶然",
+        "確率",
+        "リスク",
+        "不測",
+        "アクシデント"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T13:04:35.731638+00:00Z"
     }
   }
 ]

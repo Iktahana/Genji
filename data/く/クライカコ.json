@@ -38,6 +38,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "彼女は笑顔の裏に暗い過去を隠しており、誰にも打ち明けたことがなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "探偵は依頼人の暗い過去を調べるうちに、思わぬ真実にたどり着いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -191,14 +207,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "秘密",
+        "暗い歴史"
+      ],
+      "antonyms": [
+        "明るい過去"
+      ],
+      "related": [
+        "過去",
+        "秘密",
+        "歴史",
+        "闇"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.990666+00:00Z"
+      "updated_at": "2026-06-02T12:48:14.581446+00:00Z"
     }
   }
 ]

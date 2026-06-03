@@ -35,7 +35,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼がくしゃみをしたら、周囲が一斉に「お大事に」と言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "会議中に大きなくしゃみが出て、場の雰囲気が一瞬ほぐれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "くしゃみが止まらないので、医者に診てもらうことにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奈良朝においてハ行上一段活用の動詞としては「乾る」「嚏る」の二語だけでありますが、それが活用した確かな例は、未然・連用の二つの活用形だけで、それにはどちらも「ヒ」の乙類の仮名が用いてあるのであります。",
@@ -294,21 +319,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誰かがくしゃみをしたので、伝統に従って「嚏」と二度言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い習慣として、他人のくしゃみに対して嚏と唱える儀式がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "「嚏」と言うことで、くしゃみをした人が長生きするという昔からの信仰がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "クサメ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鼻",
+        "風邪",
+        "生理現象",
+        "花粉症",
+        "飛沫"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:32:07.902564+00:00Z",
       "freq_rank": 22297,
       "frequencies": {
         "aozora": 145

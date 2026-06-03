@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "相場操縦は違法であり、金融操作に該当する行為は厳しく罰せられる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "当局は市場での不正な金融操作を摘発するために監視を強化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その投資ファンドは金融操作の疑いで調査を受けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この藩に限らず、当時は諸侯ぜんたいが経済的に逼迫していたのであるが、ここでは計画がゆき当りばったりで、生産の裏付けのない金融操作にはしったため、その状態はしだいに破局的なものになっていった。",
@@ -45,14 +70,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "市場操作",
+        "相場操縦"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "金融犯罪",
+        "インサイダー取引",
+        "不正取引",
+        "為替介入",
+        "金融規制",
+        "相場"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:48:13.761195+00:00Z"
     }
   }
 ]

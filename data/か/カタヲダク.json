@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "母親は泣いている子どもの肩を抱いて優しく声をかけた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -271,14 +279,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "抱く",
+        "腕を回す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "親愛",
+        "慰める",
+        "信頼"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:26.095618+00:00Z"
+      "updated_at": "2026-06-02T04:47:57.130551+00:00Z"
     }
   }
 ]

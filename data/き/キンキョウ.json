@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "久しぶりに友人から、近況の連絡をもらった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "手紙に近況を記して、両親に送った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "年賀状には、この一年間の近況を簡潔に書くのが良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熊本の近況から漱石師の噂になって昔話も出た。",
@@ -271,14 +296,22 @@
       "homophones": [
         "禁教"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "最近の様子",
+        "現況"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "状況",
+        "消息",
+        "便り",
+        "様子"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:31.274671+00:00Z",
+      "updated_at": "2026-06-02T11:29:26.632813+00:00Z",
       "freq_rank": 10375,
       "frequencies": {
         "aozora": 122
@@ -315,7 +348,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代には、キリスト教の禁教が厳しく行われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "禁教令によって、多くの信者が隠れて信仰を守った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "禁教期間中、日本はキリスト教の影響を最小限に抑えていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "窓際の硝子蓋の裡に天正十五年の禁教令出島和蘭屋敷の絵巻物、対支貿易に使用された信牌、航海図、切支丹ころびに関する書類、有名なフェートン号の航海日誌、ミッション・プレス等。",
@@ -549,9 +607,18 @@
       "homophones": [
         "近況"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "宗教禁止"
+      ],
+      "antonyms": [
+        "許可",
+        "認可"
+      ],
+      "related": [
+        "宗教",
+        "禁止",
+        "規制"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大使館の儀典が厳粛に執り行われた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "儀典の打ち合わせが何度も重ねられた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その儀典に各国の要人が参列した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "加持力の儀典、行列から離れて、授戒會の儀式を離れて、而かも尚蒸々たる衆生は、神人を忘るる底の莊嚴なる醉を、そも何れの經典から搜し出さうとする。",
@@ -88,14 +113,23 @@
         "疑点",
         "偽典"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "式典",
+        "儀式",
+        "行事",
+        "セレモニー"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "典礼",
+        "格式",
+        "作法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:32.397557+00:00Z",
+      "updated_at": "2026-06-02T12:02:24.126397+00:00Z",
       "frequencies": {
         "aozora": 6
       }
@@ -131,7 +165,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その事件には疑点が多く残されている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "医者たちが診断結果の疑点を指摘した",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "法廷で疑点が明らかになって無罪となった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "図鑑を見ただけで、なんらの疑点もなく明確にこれだと決定できる場合は存外少ない。",
@@ -382,9 +441,20 @@
         "儀典",
         "偽典"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "疑問点",
+        "謎",
+        "疑わしい点"
+      ],
+      "antonyms": [
+        "明白",
+        "確実"
+      ],
+      "related": [
+        "疑問",
+        "不安",
+        "調査"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -425,7 +495,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の偽典がこの博物館に所蔵されている",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "聖書の偽典についての研究論文を読んだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その偽典の成立時期を調査している",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "新約聖書に含まれる二十七の文書のほかに、エジプト人の福音、ヘブル人の福音、パウロ行伝、ペテロ黙示録、バルナバの書簡等があったが、これらは聖書に包含せしむべき価値なき偽書であるとして、排斥せられたのである（「偽典」と総称せられる）。",
@@ -460,9 +555,19 @@
         "儀典",
         "疑点"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "贋造品",
+        "偽作",
+        "模造品"
+      ],
+      "antonyms": [
+        "正典"
+      ],
+      "related": [
+        "文献",
+        "写本",
+        "著作"
+      ]
     },
     "meta": {
       "version": "1.0.0",

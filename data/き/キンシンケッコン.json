@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ヨーロッパの王族は歴史を通じて近親結婚を繰り返してきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "遺伝学的リスクを踏まえて、ほとんどの現代社会では近親結婚は法律で禁止されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "民族学の論文で、近親結婚と社会構造の関係性が詳細に分析されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "秋田犬はテンパーに弱くて死に易いように近親結婚の結果、繁殖率が低くなって絶滅を辿るのみであるという。",
@@ -61,14 +86,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "血族結婚",
+        "近親婚"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "結婚",
+        "血縁",
+        "遺伝",
+        "親族"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:35:23.449166+00:00Z"
     }
   }
 ]

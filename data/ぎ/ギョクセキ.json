@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "河原で拾った玉石は光に透かすと美しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "玉石を磨いて装飾品を作る職人がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "古い庭園には様々な玉石が配置されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "暗い中に流してゐたので、鉤が木工沈床の鉄筋か玉石の間か、流木かに引つかかつてとれなくなつた。",
@@ -269,14 +294,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "宝石",
+        "宝玉",
+        "珠石"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "鉱石",
+        "原石",
+        "鉱物",
+        "貴石",
+        "翡翠"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:19:20.292111+00:00Z",
       "frequencies": {
         "aozora": 100
       }

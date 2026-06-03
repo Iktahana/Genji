@@ -29,21 +29,61 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証券会社は月末に玉整理を実施した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "相場の急変に伴い、大量の玉整理が行われた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "トレーダーたちは玉整理による損失を避けようと必死だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "手仕舞い",
+        "損切り",
+        "決済",
+        "清算",
+        "ポジション解消"
+      ],
+      "antonyms": [
+        "玉建て",
+        "新規建て"
+      ],
+      "related": [
+        "先物取引",
+        "相場",
+        "投機",
+        "証拠金",
+        "売買高"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:19:20.291536+00:00Z"
     }
   }
 ]

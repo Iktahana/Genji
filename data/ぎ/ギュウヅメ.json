@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "帰省ラッシュの新幹線はぎゅう詰めで、デッキにも人があふれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "小さなワゴン車にスタッフが七人ぎゅう詰めになって、会場まで移動した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "倉庫の棚がぎゅう詰めになっていて、新しい荷物を受け取れる状態ではなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "クリスマスの用意に鵞鳥をつかまえてひざの間にはさんで首っ玉をつかまえて無理に開かせた嘴の中へ五穀をぎゅうぎゅう詰め込む。",
@@ -142,14 +167,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "満員"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "混雑",
+        "詰め込み"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:11:14.864104+00:00Z",
       "frequencies": {
         "aozora": 2
       }

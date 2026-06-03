@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暗闇の中で、手探りで懐中電灯のスイッチをまさぐる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「ほんとうに綺麗な方ですわ、女の私が見てさえ可愛いのですもの、男の方は、ね、え」　桑は、「せんには履を弄るとすぐ来たから、疑うことは疑っていたものの、鬼ということは思わなかったよ、今、履を見てその容を思うことは、ほんとに堪えられないね」　と言って涙を流した。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:39:38.695335+00:00Z",
+      "updated_at": "2026-06-02T13:25:22.126594+00:00Z",
       "frequencies": {
         "aozora": 184
       }

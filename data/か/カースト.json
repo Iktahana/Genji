@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インドではカースト制度の影響が今も残っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "人権活動家はカースト制度の廃止を求めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "歴史的にカースト制度は社会構造を形成していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "早速に支度をして、ベーカーストリートの停車場から運ばれてゆくと、ガーデンの門前にゆき着いて、先ずわたしの眼をひいたのは、かのホース・チェストナットの並木でした。",
@@ -199,14 +224,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "階級制度",
+        "身分制度"
+      ],
+      "antonyms": [
+        "平等"
+      ],
+      "related": [
+        "インド",
+        "社会階級",
+        "差別"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:31.863485+00:00Z",
+      "updated_at": "2026-06-02T07:21:23.392396+00:00Z",
       "freq_rank": 28589,
       "frequencies": {
         "aozora": 18

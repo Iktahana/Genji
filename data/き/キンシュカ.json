@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は生涯の禁酒家で、祝いの席でも水しか口にしなかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は厳格な禁酒家として知られ、飲み会への参加を一切断っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "禁酒家の上司に合わせて、歓迎会の二次会はカラオケになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "絶対に禁酒家である。",
@@ -69,14 +94,30 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "禁酒主義者",
+        "断酒家",
+        "節酒家",
+        "禁酒論者"
+      ],
+      "antonyms": [
+        "愛飲家",
+        "飲んべえ",
+        "酒豪"
+      ],
+      "related": [
+        "禁酒",
+        "断酒",
+        "節制",
+        "アルコール",
+        "禁欲主義",
+        "禁酒運動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:34:35.959037+00:00Z"
     }
   }
 ]

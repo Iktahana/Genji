@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この技術はまだ研究段階であり、実用化には少なくとも十年かかると研究者は語った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "量子コンピューターの実用化が進めば、現在の暗号技術は根本から見直す必要が生じる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "試作品を実用化するために、素材コストの削減と耐久性向上が最優先の課題とされた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（今ではこの様式のものは珍らしくもないが、当時独仏の表現派芸術が漸やく普遍実用化されて、家具や室内装飾に盛んに取り付け出された時代に、この様式の噴水は欧洲でも珍らしかった。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:53.668765+00:00Z",
+      "updated_at": "2026-06-02T09:37:13.638771+00:00Z",
       "frequencies": {
         "aozora": 60
       }

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "息子の不行跡に怒り心頭に発した父親は、義絶を宣言して家から追い出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼は勘当ではなく正式な義絶という形で親族関係を断たれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "義絶した兄との関係を取り戻すために、妹は長年かけて仲介の努力を続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女も情を立てて帰らないから、両方とも、親から勘当になったんですね、親類義絶――つまるところ。",
@@ -263,7 +288,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T05:36:11.003947+00:00Z",
       "frequencies": {
         "aozora": 104
       }

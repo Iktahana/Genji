@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "アメリカではクライオニクスによる人体の凍結保存を希望する人が増えており、専門施設が数社存在する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クライオニクスを支持する科学者がいる一方で、解凍後に細胞が再生できるかどうか疑問視する声も多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -45,14 +61,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "冷凍保存"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "冷凍",
+        "保存",
+        "技術",
+        "医療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T12:39:34.990289+00:00Z"
+      "updated_at": "2026-06-02T12:48:14.581163+00:00Z"
     }
   }
 ]

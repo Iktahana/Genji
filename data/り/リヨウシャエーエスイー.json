@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パケットアナライザで通信ログを詳細に解析し、利用者ＡＳＥからの要求メッセージがサーバーへ正しく送信されているか確認した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "システムのプロトコル仕様書に従い、基盤となるソフトウェアに利用者ＡＳＥの複雑な動作シーケンスを組み込んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "クローズドなテスト環境を構築し、利用者ＡＳＥ間でデータ通信が途切れることなく安定して行えるかを徹底的に検証した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:41:16.621548+00:00Z"
+      "updated_at": "2026-06-02T14:02:08.506637+00:00Z"
     }
   }
 ]

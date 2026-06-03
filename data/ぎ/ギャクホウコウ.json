@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "交通を逆方向に変更するため、新しい標識を設置した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼は逆方向に走っていくことに決めて、そのまま去っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "データベースから逆方向に検索して最新の記録を見つけ出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「いいから、こっち」　慶一はさきに立って、玄関とは逆方向に案内する。",
@@ -101,14 +126,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "反対方向"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "方向",
+        "進行",
+        "対向"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:07:16.140919+00:00Z",
       "frequencies": {
         "aozora": 10
       }

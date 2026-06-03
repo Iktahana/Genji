@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "授業で基数記数法の仕組みを学んで初めて、なぜコンピュータが二進法を使うのかが腑に落ちた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -53,14 +61,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "位取り記数法"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "記数法",
+        "十進法",
+        "二進法",
+        "基数",
+        "進数",
+        "数字体系"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:35.642290+00:00Z"
+      "updated_at": "2026-06-02T09:06:32.830644+00:00Z"
     }
   }
 ]

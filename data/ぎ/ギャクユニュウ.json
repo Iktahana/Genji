@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本メーカーの製品がアメリカで人気になり、逆輸入で日本に戻ってきた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "逆輸入車は国内定価より安いことが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "逆輸入版の製品が正規版より高品質な場合もある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして、そのうちに本家の老舗の日本人がこのアメリカ語に翻訳された「俳諧」の逆輸入をいかなる形式においてしおおせるであろうかを観望するのは、さらにより多く興味の深いことである。",
@@ -266,21 +291,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カリフォルニア巻きは寿司の逆輸入の典型的な例だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "日本発祥の文化が欧米で人気になり、逆輸入で再び注目される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "ラーメンも海外で大流行した後、逆輸入で新しいブームが生まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "再輸入"
+      ],
+      "antonyms": [
+        "輸入",
+        "直輸入"
+      ],
+      "related": [
+        "逆輸出",
+        "輸入",
+        "逆輸入車",
+        "文化逆輸入",
+        "貿易"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:07:33.083137+00:00Z",
       "frequencies": {
         "aozora": 32
       }

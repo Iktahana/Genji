@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年発売されたモデルと旧型を比較すると、演算処理の速さに格段の相違がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "プロと学生の演奏を聴き比べれば、音の深みと表現力に格段の相違があることはすぐわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "十年間修行を積んだ職人と入門したばかりの弟子では、包丁さばきに格段の相違がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あれを個人と対談してひどく神経的になる時の女々しく執拗な氏に較べると実に格段の相違がある。",
@@ -173,14 +198,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "著しい差",
+        "著しい違い",
+        "大きな違い",
+        "段違いの違い"
+      ],
+      "antonyms": [
+        "わずかな違い"
+      ],
+      "related": [
+        "相違",
+        "違い",
+        "差",
+        "比較"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:24.046154+00:00Z"
+      "updated_at": "2026-06-02T03:51:31.193710+00:00Z"
     }
   }
 ]

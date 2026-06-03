@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "異なる地域の文化には異な特徴がある",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -294,14 +302,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "異常な",
+        "特別な",
+        "並外れた"
+      ],
+      "antonyms": [
+        "普通の",
+        "通常の"
+      ],
+      "related": [
+        "異",
+        "特異"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T21:46:54.028785+00:00Z",
+      "updated_at": "2026-06-02T13:27:29.023975+00:00Z",
       "frequencies": {
         "aozora": 319
       }

@@ -400,21 +400,55 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "編集者は長い動画から最も重要な5分間を切り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼はテキストから関連する部分を注意深く切り出す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "デザイナーは大きな画像から必要な領域を切り出している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "採掘する",
+        "話し始める",
+        "持ち出す"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "切る",
+        "出す",
+        "話す",
+        "採掘"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-31T07:27:18.430645+00:00Z",
+      "updated_at": "2026-06-02T11:12:12.618999+00:00Z",
       "freq_rank": 34853,
       "frequencies": {
         "aozora": 756

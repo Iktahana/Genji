@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "野原の草花を摘んで、花束を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "春の草花は、見ているだけで心が癒される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この地方に自生する草花は、植物学的に珍しいものが多い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夏祭の日には、家々の軒に、あやめや、菖蒲や、百合などの草花を挿して置くので、それが雨に濡れて茂り、町中が忽ち青々たる草原のようになってしまう。",
@@ -279,14 +304,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "花",
+        "植物",
+        "百草",
+        "園芸植物"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "庭",
+        "ガーデニング",
+        "季節",
+        "自然",
+        "観葉植物"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:30:25.582152+00:00Z",
       "freq_rank": 23669,
       "frequencies": {
         "aozora": 1089

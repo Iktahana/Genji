@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この家の居室には、大きな窓があり、日当たりが良い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "居室にエアコンを新しく設置したため、快適になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "玄関からすぐに居室が見える間取りは避けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猫の智慧　ある人の飼猫は主人の居室で椅子の上に登って呼鈴のボタンを押しボーイを呼出す癖があった。",
@@ -277,14 +302,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "居間",
+        "部屋",
+        "生活空間",
+        "住室"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "寝室",
+        "リビング",
+        "住居",
+        "個室",
+        "自室",
+        "部屋"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T10:59:59.412325+00:00Z",
       "freq_rank": 24158,
       "frequencies": {
         "aozora": 307

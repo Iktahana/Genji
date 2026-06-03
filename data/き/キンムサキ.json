@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友人の勤務先は、都市部の大きなビルの一角にあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "転職活動中に、新しい勤務先を探すのに苦労していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "勤務先から家まで、電車で二時間かかると聞いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから暫らくのこと、私の勤務先は、日本橋の三越デパートメントの裏で、日本銀行と向いあったところだが、その建物の中で私たちが占めている室からは、太田道灌以来の名城を、松の緑の間に、仰ぎ見られるので、はじめて松樹国の日本に落ちついた気がした。",
@@ -253,14 +278,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "職場",
+        "会社",
+        "勤務地"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "仕事",
+        "勤務",
+        "住所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:45:38.004005+00:00Z",
       "frequencies": {
         "aozora": 49
       }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建物の軒の繰形を見ると、その時代の建築技法がわかる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "繰形の技術を習得するには何年もの修行が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "柱の繰形が精密に彫られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "浮浪人はそのひっこんだ戸口へのそりのそりと入り込んで戸の鏡板でマッチを擦り、子供たちは踏段の上で店を張って遊び、学校の生徒は繰形でナイフの切味を験したりした。",
@@ -231,14 +256,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "鋳型",
+        "型"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "成形",
+        "製造"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:48.149767+00:00Z",
+      "updated_at": "2026-06-02T12:51:32.132821+00:00Z",
       "frequencies": {
         "aozora": 3
       }

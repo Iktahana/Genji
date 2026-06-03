@@ -107,14 +107,23 @@
         "嫌韓",
         "建艦"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "兼任",
+        "兼務",
+        "兼帯"
+      ],
+      "antonyms": [
+        "専任"
+      ],
+      "related": [
+        "官職",
+        "本官"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:56.001051+00:00Z",
+      "updated_at": "2026-06-02T13:30:38.159190+00:00Z",
       "frequencies": {
         "aozora": 5
       }
@@ -202,7 +211,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その官吏は権官として複数の重要な職務を担当していた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "権官に任命された人物には特別な給与が支給される",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "権官の制度は帝国統治の効率化をもたらした",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -213,9 +247,15 @@
         "嫌韓",
         "建艦"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "権臣"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "高官",
+        "権力者",
+        "専横"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -299,8 +339,16 @@
         "建艦"
       ],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "親韓",
+        "知韓"
+      ],
+      "related": [
+        "反韓",
+        "嫌中",
+        "ヘイトスピーチ",
+        "嫌韓流"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -496,9 +544,16 @@
         "権官",
         "嫌韓"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "造艦"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "造船",
+        "軍艦",
+        "艦艇",
+        "海軍"
+      ]
     },
     "meta": {
       "version": "1.0.0",

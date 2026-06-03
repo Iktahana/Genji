@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は高校卒業後、遠縁の名家に行儀見習いとして住み込み、茶の湯から季節の挨拶状の書き方まで学んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "昔は上流家庭への行儀見習いが若い女性の花嫁修業として当然視されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "行儀見習いに出た娘から届いた手紙には、掃除と料理の手伝いに明け暮れる毎日のことが綴られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なんというか、まあ、お宅のような大家にあがって行儀見習いした者は、やはりどこか、ちがいましてな」すこし顔を赤くして笑い、「おかげさまでした。",
@@ -181,14 +206,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "修業",
+        "見習い"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "奉公",
+        "花嫁修業",
+        "躾",
+        "女中",
+        "丁稚"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:15:56.113366+00:00Z"
     }
   }
 ]

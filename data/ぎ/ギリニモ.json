@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "義理にも悪いと思って、相手の招待に応じることにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義理にも申し訳なく感じて、お返しを用意した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "義理にも彼を信頼できないので、その提案には応じられない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "温泉場へ來たからには義理にも度々温泉に浴しなければならないといふ譯もないが、すこしすまなかつたやうな氣がする。",
@@ -277,14 +302,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "建前上",
+        "道理上"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "世間体",
+        "お世辞",
+        "社交辞令",
+        "義務感"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:18:50.855551+00:00Z"
     }
   }
 ]

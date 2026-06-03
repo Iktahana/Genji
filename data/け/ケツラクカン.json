@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "一人暮らしを始めてから何となく欠落感が拭えず、家族の顔を思い浮かべることが増えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -86,14 +94,22 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "喪失感",
+        "空虚感"
+      ],
+      "antonyms": [
+        "充実感"
+      ],
+      "related": [
+        "欠落",
+        "寂しさ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:54.706804+00:00Z"
+      "updated_at": "2026-06-02T13:27:13.391516+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遺産を受け取った彼は数年間の享楽生活を送ったが、やがて財産を使い果たした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "豪邸でのパーティーや海外旅行が続く享楽生活に、彼女はいつしか虚しさを覚えるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "享楽生活から足を洗い、彼は農村に移住して自給自足の暮らしを始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "男の方にはヘロイズムがなくなって享楽生活を非常に重要視している。",
@@ -93,14 +118,29 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "享楽主義",
+        "快楽生活",
+        "遊蕩生活",
+        "放蕩生活"
+      ],
+      "antonyms": [
+        "禁欲生活",
+        "克己生活"
+      ],
+      "related": [
+        "享楽",
+        "快楽",
+        "遊興",
+        "放蕩",
+        "歓楽",
+        "贅沢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:51:19.746103+00:00Z"
     }
   }
 ]

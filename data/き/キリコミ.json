@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "外科医は患部への切り込みを慎重に行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "バターナイフで包装の切り込みを入れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "レコードのジャケットに切り込みが入っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "髪はまだ下さないで、金襴、染絹の衣、腺病質のたちと見え、透き通るばかり青白い肌に、切り込み過ぎたかのようなはっきりした眼鼻立ち、男性的な鋭い美しさを持つ青年でした。",
@@ -288,21 +313,57 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "敵陣への切り込みは、戦の転機となった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "警察が詐欺グループへの一斉切り込みを実行した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金融機関が不正取引への切り込みを強化した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切れ込み",
+        "刻み目",
+        "切り目",
+        "突入",
+        "奇襲"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "刃物",
+        "切れ目",
+        "攻撃",
+        "侵入"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:12:04.104412+00:00Z",
       "freq_rank": 32772,
       "frequencies": {
         "aozora": 23

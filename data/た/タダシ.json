@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "参加費は無料です。但し、材料費として五百円をご持参ください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "全品三割引きとなります。但し、セール対象外の商品を除きます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "本日は貸し切りで営業します。但し、ご予約のお客様のみご入店いただけます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "但しその簡潔とは、原稿紙に臨んでからのことであるよりも、寧ろそれ以前の、凝集を謂つてゐるのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:02:54.805179+00:00Z",
       "freq_rank": 5727,
       "frequencies": {
         "aozora": 2229

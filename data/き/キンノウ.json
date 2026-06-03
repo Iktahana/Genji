@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "吉田松陰は勤王の志を弟子たちに説き続けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "藩内では勤王か佐幕かをめぐって激しい対立が続いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼の父は勤王の士として尊皇運動に身を投じ、命を落とした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今の時節――勤王討幕の議論が沸騰している今の時節では、仮りにも京都の公家にゆかりがあるという者、それは厳重に詮議しなければならない。",
@@ -279,14 +304,29 @@
       "homophones": [
         "金納"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "尊王",
+        "勤皇",
+        "忠君"
+      ],
+      "antonyms": [
+        "倒幕",
+        "佐幕",
+        "攘夷"
+      ],
+      "related": [
+        "尊王攘夷",
+        "天皇",
+        "忠義",
+        "幕末",
+        "勤王党",
+        "倒幕運動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:31.744676+00:00Z",
+      "updated_at": "2026-06-02T11:44:22.672811+00:00Z",
       "frequencies": {
         "aozora": 434
       }
@@ -324,7 +364,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "年貢を米ではなく金納に切り替えると、農民の負担が変わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "江戸時代後期になると、金納による納税が各地で認められるようになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "小作料を金納することで、豊凶に関わらず一定の支払いが求められた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "血を分けたきょうだいってものは、うれしいじゃござんせんか、ついきんのうもきんのうでしたがね、わざわざ前ぶれの手紙をよこしましてね。",
@@ -374,9 +439,23 @@
       "homophones": [
         "勤王"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "現金払い",
+        "金銭納付",
+        "現金納付"
+      ],
+      "antonyms": [
+        "物納",
+        "現物納付"
+      ],
+      "related": [
+        "租税",
+        "納税",
+        "現金",
+        "支払い",
+        "税金",
+        "貢納"
+      ]
     },
     "meta": {
       "version": "1.0.0",

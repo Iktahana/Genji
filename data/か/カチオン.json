@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この化学反応では塩化物のカチオンが放出される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "溶液中のカチオン濃度を測定するため電気分析を行った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "カチオンとアニオンのイオンペアの相互作用が重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは「電気の実験研究」の第七篇になっているが、まずファラデーは電池の電極を、単に電流の入り口と出口に過ぎないからとて、アノード（昇り道）およびカソード（降り道）という名称をつけ、また液体内で分解している物に、アニオン（昇り行く物）およびカチオン（降り行く物）という名前をつけた。",
@@ -53,14 +78,26 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "陽イオン"
+      ],
+      "antonyms": [
+        "アニオン",
+        "陰イオン"
+      ],
+      "related": [
+        "イオン",
+        "電荷",
+        "電解質",
+        "化学",
+        "原子",
+        "電気"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:26.138986+00:00Z",
+      "updated_at": "2026-06-02T04:48:14.337517+00:00Z",
       "frequencies": {
         "aozora": 3
       }

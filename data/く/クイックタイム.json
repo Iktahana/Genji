@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔はMacでクイックタイムを使って動画を再生するのが当たり前だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "クイックタイムで録画したファイルが開けなくて、コーデックをインストールし直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「この動画ファイル、クイックタイムじゃないと再生できないんだよね」と友人が言った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが一九九二年一月になって、動画をマックで扱うクイックタイムという技術が登場してくると、レーザーディスクの存在意義はまた一段と薄れました。",
@@ -63,12 +88,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アップル",
+        "動画",
+        "再生",
+        "ソフトウェア",
+        "フォーマット"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:22:23.052210+00:00Z"
     }
   }
 ]

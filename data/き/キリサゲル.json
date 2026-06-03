@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "企業の経営難により、給与を切り下げることになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "物価が低下したため、商品の価格を切り下げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "予算を切り下げて、経費削減を進める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三十年間にうけた抑圧との闘いによってプロレタリアとして目覚めた一移民労働者が、今や彼の賃金を百ドルから七十ドルに切り下げる恐慌に対して、利害の衝突する二つの資本主義国家間の泥仕合的排外主義に対し、ピオニイルの養成にも熱誠を示すというようなのでは決してない。",
@@ -89,21 +114,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会計士は小数点以下を切り下げて、金額を計算した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "統計データを切り下げて、概算値を出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "消費額を切り下げて、最大値を算出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "引き下げる",
+        "減額する",
+        "削減する",
+        "切り詰める"
+      ],
+      "antonyms": [
+        "切り上げる",
+        "値上げする",
+        "引き上げる"
+      ],
+      "related": [
+        "切り下げ",
+        "端数",
+        "丸め",
+        "価格",
+        "賃金",
+        "予算"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:16:23.185747+00:00Z",
       "frequencies": {
         "aozora": 53
       }

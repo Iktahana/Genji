@@ -29,21 +29,51 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "開発チームは文字列処理を共用ルーチンとして切り出し、各モジュールから一括して呼び出せるよう整備した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "バグ修正の際、担当者は共用ルーチンに潜む不具合を発見し、システム全体への影響範囲を調査した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新人エンジニアはコードレビューで「この処理は共用ルーチンにまとめるべきだ」と先輩から指摘された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "共通ルーチン"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "ルーチン",
+        "プログラム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:51:21.173516+00:00Z"
     }
   }
 ]

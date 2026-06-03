@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鉄筋コンクリートに使用される金属棒は、鋼製である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "実験装置の中心に金属棒を設置した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金属棒を加熱して、熱膨張の度合いを測定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一定の位置並びに寒暖計の示す温度において測った金属棒の長さは、不可測的の雑多な微細な原因のために、種々異なる価を与えても多数の測定の平均はある程度まで一致すると考えられるのはやはりこの偶然の御蔭である。",
@@ -103,12 +128,16 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "棒",
+        "杆",
+        "金属"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:39:24.511367+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "タラの魚精は白子として珍重され、鍋料理に欠かせない食材だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "魚精を使った料理は日本各地に伝わり、特に寒い季節に好まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "市場では新鮮な魚精が並び、料理人たちが真っ先に買い求めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "魚精は痩せた顔に澄んだ眼をあげ、老猿を仰いだ。",
@@ -55,14 +80,22 @@
       "homophones": [
         "御製"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "白子"
+      ],
+      "antonyms": [
+        "真子"
+      ],
+      "related": [
+        "魚",
+        "生殖",
+        "食材"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:33.092243+00:00Z"
+      "updated_at": "2026-06-02T12:19:05.781374+00:00Z"
     }
   },
   {
@@ -95,7 +128,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "元旦の歌会始には、天皇陛下の御製が広く国民に披露された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "古い巻物には、室町時代の天皇による御製が丁寧な筆跡で記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "御製を拝読すると、陛下が民の暮らしを深く案じておられることが伝わった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本文学の伝統は、天皇の御製に於いて最も根強い。",
@@ -329,9 +387,16 @@
       "homophones": [
         "魚精"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "詩",
+        "歌"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "皇帝",
+        "文学",
+        "創作"
+      ]
     },
     "meta": {
       "version": "1.0.0",

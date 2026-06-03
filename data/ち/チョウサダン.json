@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国連の調査団が現地入りし、難民キャンプの衛生状態を三日間かけて視察した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "与党は独自の調査団を編成して、被災地の復旧状況を確認することを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "調査団の団長は記者会見で「人権侵害の証拠が複数見つかった」と述べた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "世界各地の通信機関と調査団とが、ヘルナー山頂に続々と集まってきた。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:36:09.639250+00:00Z",
+      "updated_at": "2026-06-02T11:35:59.505861+00:00Z",
       "frequencies": {
         "aozora": 50
       }

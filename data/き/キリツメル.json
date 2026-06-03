@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ズボンの丈を五センチ切り詰めると、ちょうどよい長さになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "スピーチの時間が限られているので、原稿を半分に切り詰めるよう指示された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "職人が角材を規定の寸法に切り詰めてから、丁寧に表面を磨き上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "俳句を作る場合のおもなる仕事は不用なものをきり捨て切り詰めることだからである。",
@@ -129,21 +154,62 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生活費を切り詰めて、毎月少しずつ旅行のための貯金をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電気代を切り詰めるために、使わない部屋の照明をこまめに消すようにした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "旅費を切り詰めるため、新幹線ではなく夜行バスを予約した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "削減する",
+        "節減する",
+        "短縮する",
+        "縮小する",
+        "倹約する",
+        "切り縮める"
+      ],
+      "antonyms": [
+        "増やす",
+        "拡大する",
+        "延ばす"
+      ],
+      "related": [
+        "節約",
+        "削る",
+        "圧縮する",
+        "切り詰め"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:13:48.522046+00:00Z",
       "frequencies": {
         "aozora": 83
       }

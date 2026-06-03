@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "英語の現在分詞は「-ing」の形をとり、進行形や形容詞的用法に使われると授業で習った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その文法書には現在分詞を使った分詞構文の例文が豊富に載っており、理解しやすかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は「running water」の「running」が現在分詞として名詞を修飾していることを指摘した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "“doing”とか“going”とか云う現在分詞には必ずその前に「ある」と云う動詞、―――“to be”を附けなければいけないのに、それが彼女には何度教えても理解出来ない。",
@@ -46,13 +71,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "過去分詞"
+      ],
+      "related": [
+        "分詞",
+        "現在進行形",
+        "動名詞",
+        "形容詞的用法",
+        "文法"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:58.848997+00:00Z"
+      "updated_at": "2026-06-02T13:51:19.066298+00:00Z"
     }
   }
 ]

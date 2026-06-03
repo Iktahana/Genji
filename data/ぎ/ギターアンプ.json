@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スタジオに持ち込んだギターアンプの出力が小さすぎて、ドラムの音にかき消されてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "新しいギターアンプに買い替えたら、音の歪み具合が格段に良くなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "ライブ直前にギターアンプのヒューズが飛んで、メンバー全員が青ざめた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ま、ジルジャンはむりだろうけど」「そういうことは、早くいってほしいよ」　ここから見て右側にあたる、プールサイドのグラウンドよりが今夜の「ステージ」で、いまはギターアンプやドラムを必要としない、知子と郁子のフォーク・デュオが〈サムタイム・ラヴィン〉を歌っている。",
@@ -47,14 +72,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "アンプ",
+        "ギター用アンプ"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "アンプ",
+        "スピーカー",
+        "エフェクター",
+        "エレキギター",
+        "音響機器",
+        "出力"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:04:03.252152+00:00Z"
     }
   }
 ]

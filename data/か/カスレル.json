@@ -357,6 +357,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "転倒した際に地面で膝を掠れ、薄く皮が剥けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": []
@@ -365,14 +373,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぼやける",
+        "かすむ",
+        "しゃがれる"
+      ],
+      "antonyms": [
+        "鮮明になる",
+        "はっきりする"
+      ],
+      "related": [
+        "かすれ",
+        "不鮮明",
+        "微かな"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:25.381383+00:00Z",
+      "updated_at": "2026-06-02T04:33:53.234056+00:00Z",
       "frequencies": {
         "aozora": 71
       }

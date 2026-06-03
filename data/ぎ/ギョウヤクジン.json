@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、行疫神を祀る祭りが伝染病の流行を鎮めると信じられていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "この神社には、疫病を退治する行疫神の像が安置されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "行疫神の伝説は、古代のペスト流行時代に遡ると言われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "行疫神自身であつた天王が、夏の季に、新来の邪悪の霊を圧服して、海の彼方へ還つて行かれるものと考へ出したのは、平安の都がやつと落ちついた頃からの事である。",
@@ -87,14 +112,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "疫病神"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "神",
+        "疫病"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:16:39.995642+00:00Z"
     }
   }
 ]

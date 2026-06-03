@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二十年ぶりに訪れた街で、偶然にも学生時代の友人に出会った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "二人が同じ本を読んでいたのは全くの偶然だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その発見は偶然から生まれたものだが、科学史に大きな影響を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一言で云へば、必竟偶然を排し詩を判然と人間の意識の手中に収めたいといふ精神と云ふことが出来るかと思ひますが、それが判然と実現出来れば、全く喜ばしいことであります。",
@@ -290,7 +315,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "偶然通りかかった路地に、昔ながらの和菓子屋が残っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "電車が遅れたおかげで偶然バスに乗り換え、旧友と同席した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "彼女は偶然その会議に居合わせ、重要な情報を得ることができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       },
@@ -308,21 +358,64 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "哲学者はこの世界の出来事には偶然と必然の両面があると論じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "その出会いが偶然であったか必然であったか、今も二人には分からない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "自然科学は偶然を排除して法則を見出そうとする営みでもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "たまたま",
+        "偶発",
+        "不意",
+        "はからずも",
+        "たまさか"
+      ],
+      "antonyms": [
+        "必然",
+        "故意",
+        "必然性",
+        "予定"
+      ],
+      "related": [
+        "偶然性",
+        "偶発",
+        "運命",
+        "巡り合わせ",
+        "奇遇",
+        "確率"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:04:35.723361+00:00Z",
       "freq_rank": 3087,
       "frequencies": {
         "aozora": 7135

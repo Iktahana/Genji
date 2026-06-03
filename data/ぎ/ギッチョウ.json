@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "正月の宮廷では毬杖で毬を打つ遊びが行われ、男女が華やかに興じた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "資料館に展示された毬杖を見て、かつての正月の遊びに思いをはせた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "平安絵巻に描かれた公達が毬杖を手に雪の庭に立つ場面は、雅な雰囲気を漂わせている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その事毬杖とて正月に槌で毬を打てば年中凶事なしというに類す（『骨董集』上編下前）。",
@@ -95,14 +120,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "杖打"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "正月",
+        "遊び",
+        "球"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:02:24.123897+00:00Z",
       "frequencies": {
         "aozora": 6
       }

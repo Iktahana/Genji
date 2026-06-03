@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生は全ての生徒に気を配っている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "運転中は周囲に気を配る必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "老いた親に気を配ることが、子どもの責任だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔の日本人は前後左右に気を配る以外にはわずかに鳶に油揚を攫われない用心だけしていればよかったが、昭和七年の東京市民は米露の爆撃機に襲われたときに如何なる処置をとるべきかを真剣に講究しなければならないことになってしまった。",
@@ -270,14 +295,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "注意する",
+        "気をつける",
+        "配慮する",
+        "心がける",
+        "気遣う"
+      ],
+      "antonyms": [
+        "無視する"
+      ],
+      "related": [
+        "配慮",
+        "注意",
+        "気遣い",
+        "気配り",
+        "周囲"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:23:55.669632+00:00Z"
     }
   }
 ]

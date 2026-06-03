@@ -329,6 +329,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-pro"
               }
+            },
+            {
+              "text": "その詩人は雅語を巧みに使いこなしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -337,14 +345,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "雅言",
+        "文語",
+        "雅称",
+        "歌言葉"
+      ],
+      "antonyms": [
+        "俗語",
+        "卑語"
+      ],
+      "related": [
+        "和歌",
+        "古典",
+        "平安文学",
+        "雅文",
+        "雅号"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:32.978431+00:00Z",
+      "updated_at": "2026-06-02T07:50:53.189640+00:00Z",
       "frequencies": {
         "aozora": 27
       }

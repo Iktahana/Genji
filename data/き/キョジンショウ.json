@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "下垂体の腫瘍が原因で巨人症を発症した少年は、成長期に急激に身長が伸びた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "巨人症の患者は骨格や内臓にも異常が生じることがあるため、早期治療が重要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "医師から巨人症と診断されたとき、両親は驚きと不安で言葉を失った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "どういうわけか我々は、周りを取り巻くキュクロプス式の重量感や巨人症から不愉快な感じを受けるようになっていた。",
@@ -45,14 +70,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "末端肥大症",
+        "巨大症"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "成長ホルモン",
+        "下垂体",
+        "内分泌",
+        "先端巨大症",
+        "低身長症"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:02:29.958446+00:00Z",
       "frequencies": {
         "aozora": 1
       }

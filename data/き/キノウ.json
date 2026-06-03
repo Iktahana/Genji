@@ -309,14 +309,23 @@
         "帰農",
         "気嚢"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "役割",
+        "働き",
+        "作用",
+        "機構"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "機能的",
+        "機能性",
+        "システム"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:27.596725+00:00Z",
+      "updated_at": "2026-06-02T09:30:52.266360+00:00Z",
       "freq_rank": 476,
       "frequencies": {
         "aozora": 2046
@@ -633,9 +642,18 @@
         "帰農",
         "気嚢"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "帰納法",
+        "推論"
+      ],
+      "antonyms": [
+        "演繹"
+      ],
+      "related": [
+        "論理",
+        "推理",
+        "統計"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -958,9 +976,19 @@
         "帰農",
         "気嚢"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "前日",
+        "昨日の朝"
+      ],
+      "antonyms": [
+        "明日",
+        "今日"
+      ],
+      "related": [
+        "時間",
+        "日付",
+        "期間"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1282,9 +1310,19 @@
         "昨日",
         "気嚢"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "帰郷",
+        "田舎暮らし",
+        "定住"
+      ],
+      "antonyms": [
+        "離農"
+      ],
+      "related": [
+        "農業",
+        "農村",
+        "地方"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1610,7 +1648,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "気球の気嚢が膨らんで空へ上昇していった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "気嚢の内部構造は複雑な仕組みになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "危険物である気嚢の取り扱いは厳格だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -1624,7 +1687,12 @@
       ],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "気囊",
+        "呼吸",
+        "器官",
+        "動物"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は日雇い仕事で糊口を凌いでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "貧しい家庭は何とか糊口を凌いでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "戦後、多くの人が糊口を凌ぐのに必死だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それも家族の糊口を凌ぐ汗多き働きである。",
@@ -46,14 +71,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "食いつなぐ",
+        "やっと生きる"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "生活",
+        "経済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:06.948481+00:00Z"
+      "updated_at": "2026-06-02T14:32:11.662420+00:00Z"
     }
   }
 ]

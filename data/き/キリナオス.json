@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "柱の寸法を測り直したところ五ミリ長すぎたため、大工がのこぎりで切り直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "切断面が斜めになっていたので、一度外して切り直してからはめ直した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "石材の角が欠けてしまったため、職人が別の石を切り直して代えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女の旗本というのも聞いたことがねえから、虫のせいかな――」　主従が疑問のまなこを光らしていぶかり合っているとき、土俵の上では仕切り直すこと六回、ようやく阿※の呼吸合するのとききたったとみえて、まず江戸錦の左の腕が、じり、じりと砂の上におろされました。",
@@ -61,14 +86,20 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "切り替える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "修正",
+        "やり直す",
+        "切断"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T11:13:18.685790+00:00Z",
       "frequencies": {
         "aozora": 7
       }

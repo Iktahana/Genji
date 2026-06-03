@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は部屋から闃然と姿を消した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祭りが終わると、街は闃然としてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "夜が深まるにつれ、街は闃然と静まり返っていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "室内は闃然として、人の呻吟する声その他の物音を聞かざりき。",
@@ -86,14 +111,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "静寂",
+        "閑静",
+        "寂然",
+        "闃寂"
+      ],
+      "antonyms": [
+        "喧騒",
+        "雑踏"
+      ],
+      "related": [
+        "静けさ",
+        "無音",
+        "森閑",
+        "物音一つしない"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:57.744804+00:00Z",
+      "updated_at": "2026-06-02T13:40:41.033590+00:00Z",
       "frequencies": {
         "aozora": 6
       }

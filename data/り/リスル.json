@@ -357,7 +357,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回の税制改革は、高所得者層ばかりを利する結果になっていると批判を浴びた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "そのような軽率な発言は、結果的に相手陣営を利することになりかねない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -371,7 +388,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:41:07.373366+00:00Z",
+      "updated_at": "2026-06-02T14:00:41.793772+00:00Z",
       "frequencies": {
         "aozora": 210
       }

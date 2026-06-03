@@ -289,21 +289,54 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議の結論として、来月から新制度を導入することとする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "今後はすべての報告書に日付を明記することとすると、部長が指示した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "安全のため、現場作業は二人一組で行うこととする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": []
         }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "決める"
+      ],
+      "antonyms": [
+        "放棄する",
+        "やめる"
+      ],
+      "related": [
+        "決定",
+        "専念"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:09.110582+00:00Z"
+      "updated_at": "2026-06-02T14:42:12.552723+00:00Z"
     }
   }
 ]

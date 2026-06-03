@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その論文は空理ばかりで実用的ではない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "空理に陥らないよう注意が必要だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "彼の主張は空理空論に過ぎない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれどもその論旨の一部は、單なる言語上の空理を爭ふにすぎない。",
@@ -277,14 +302,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "空論",
+        "妄説",
+        "虚論"
+      ],
+      "antonyms": [
+        "実理",
+        "実証",
+        "真理"
+      ],
+      "related": [
+        "理論",
+        "屁理屈",
+        "抽象的",
+        "観念的",
+        "思弁"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:27:09.799443+00:00Z",
       "frequencies": {
         "aozora": 29
       }

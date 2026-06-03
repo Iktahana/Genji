@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ローンの元利は毎月返済する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "元利均等返済で毎月一定額を支払うことになった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "元利合計で150万円になる予定だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その規約によると、誠心誠意主人のために働いた者には、解雇又は退隠の際、或は不時の不幸、特に必要な場合に限り元利金を返還するが、若し不正、不穏の行為其他により解雇する時には、返還せずというような箇条があった。",
@@ -281,12 +306,18 @@
       "homophones": [],
       "synonyms": [],
       "antonyms": [],
-      "related": []
+      "related": [
+        "元金",
+        "利息",
+        "利子",
+        "複利",
+        "返済"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:34.159237+00:00Z",
+      "updated_at": "2026-06-02T08:18:31.461681+00:00Z",
       "freq_rank": 26296,
       "frequencies": {
         "aozora": 44

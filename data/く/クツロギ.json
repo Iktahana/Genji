@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "忙しい一週間を終えた後、週末にソファでくつろぐ寛ぎのひとときが何よりの楽しみだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "温泉旅館では浴衣を着て縁側に座り、山の景色を眺めながら寛ぎを満喫した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "家族が揃うリビングは、それぞれが思い思いの寛ぎを楽しめる場所になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちっとでも自分にだらしがないところが眼につくと、自分で不安なのだ」「何だか知らないが、欲しいものがあったら、遠慮なくいくらでもそうお云いよ」　初午の日には稲荷鮨など取寄せて、母子のような寛ぎ方で食べたりした。",
@@ -278,14 +303,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "安らぎ",
+        "落ち着き",
+        "リラックス"
+      ],
+      "antonyms": [
+        "緊張",
+        "不安"
+      ],
+      "related": [
+        "寛ぐ",
+        "快適",
+        "休息"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.944601+00:00Z",
+      "updated_at": "2026-06-02T12:42:07.333484+00:00Z",
       "freq_rank": 29070,
       "frequencies": {
         "aozora": 83

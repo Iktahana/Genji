@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "隣家が火事になった翌日、近所の人たちが次々と火事見舞いに訪れた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -102,14 +110,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "見舞い",
+        "弔問"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "火事",
+        "災害",
+        "同情"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:25.191353+00:00Z"
+      "updated_at": "2026-06-02T04:23:52.049893+00:00Z"
     }
   }
 ]

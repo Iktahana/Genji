@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女がかけている銀縁の眼鏡は細いフレームで、知的な印象を与えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "祖父の形見の銀縁眼鏡を手に取ると、レンズはすっかり曇っていたが枠はまだ輝いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "鏡を銀縁の額に入れて壁に掛けると、部屋が一段と品よく見えた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "古骨というのは、やはり郁治や清三と同じく三里の道を朝早く熊谷に通った連中の一人だが、そのほんとうの号は機山といって、町でも屈指の青縞商の息子で、平生は角帯などをしめて、つねに色の白い顔に銀縁の近眼鏡をかけていた。",
@@ -174,13 +199,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "金縁",
+        "縁なし"
+      ],
+      "related": [
+        "眼鏡",
+        "額縁",
+        "金縁",
+        "黒縁",
+        "装飾"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:23:05.491110+00:00Z",
       "frequencies": {
         "aozora": 21
       }

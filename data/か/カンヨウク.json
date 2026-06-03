@@ -45,6 +45,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash"
               }
+            },
+            {
+              "text": "彼の話には多くの慣用句が使われていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -230,14 +238,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "成句",
+        "言い回し",
+        "表現",
+        "イディオム"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "慣用語",
+        "用法",
+        "言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:31.638320+00:00Z",
+      "updated_at": "2026-06-02T07:15:53.467899+00:00Z",
       "frequencies": {
         "aozora": 29
       }

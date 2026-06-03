@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裁判所から営業禁止命令が発出された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "禁止命令に違反すると、罰金または懲役刑に処せられることになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その企業の営業禁止命令は5年間の期限が設定されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "新聞紙法の掲載禁止命令は茲に威力を発揮して、秋山亨一、真野すゞ子、神谷太郎吉、古山貞雄等の拘留審問の事実を、一ヶ月余も社会へは洩さなかつた。",
@@ -109,14 +134,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "差止命令",
+        "禁令",
+        "停止命令",
+        "制止命令"
+      ],
+      "antonyms": [
+        "許可命令",
+        "執行命令"
+      ],
+      "related": [
+        "禁止",
+        "仮処分",
+        "差止請求",
+        "司法命令",
+        "裁判所"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T11:34:35.953833+00:00Z"
     }
   }
 ]

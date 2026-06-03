@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この書類は行政官庁に提出する必要があるため、様式に従って正確に記入してください。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "市民からの苦情は行政官庁の相談窓口で受け付けているとのことです。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "行政官庁から許可を得るには、書類審査の他に実地調査も行われます。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この場合に当然各行政官庁、翼賛会、また他の組織との間の関係を充分考慮に入れながら、その決意をもつて進まなければならないと思ふのであります。",
@@ -77,14 +102,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "官公庁",
+        "役所"
+      ],
+      "antonyms": [
+        "民間企業"
+      ],
+      "related": [
+        "行政",
+        "官庁",
+        "政府"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:13:08.612100+00:00Z"
     }
   }
 ]

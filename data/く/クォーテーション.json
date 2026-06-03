@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "論文ではこのクォーテーションを引用文献として明記する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "クォーテーションマークで囲まれた部分が直接引用だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "著作権の問題があるから、クォーテーション部分をいくつか削除した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうかと思うと、文中の一節に関して、いろいろのクォーテーションを黒板へ書くこともあった。",
@@ -47,14 +72,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "引用",
+        "相場表示"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "文献",
+        "価格",
+        "見積"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:28:42.889992+00:00Z",
       "frequencies": {
         "aozora": 1
       }

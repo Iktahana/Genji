@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "ソムリエはワインを口に含んでしばらく転がし、そっと吐き出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -135,14 +143,28 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "咥える",
+        "含める",
+        "保持する",
+        "含有"
+      ],
+      "antonyms": [
+        "吐き出す",
+        "出す"
+      ],
+      "related": [
+        "口",
+        "保持",
+        "歯",
+        "舌",
+        "飲食"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:46.600928+00:00Z"
+      "updated_at": "2026-06-02T12:40:13.569813+00:00Z"
     }
   }
 ]

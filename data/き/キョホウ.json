@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "富士山の巨峰は遠くからでも見える",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "その地域の巨峰が霞んでいる",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巨峰の頂上を目指す",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "泰岳巨峰の風物は人間の精神を雄大ならしめるというが、全くその通りに思われる。",
@@ -128,7 +153,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "巨峰は甘くて人気のあるぶどうだ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巨峰の収穫時期が来た",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巨峰を買ってきた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -138,14 +188,25 @@
         "巨砲",
         "虚報"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "高峰",
+        "峻峰",
+        "名峰"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "山岳",
+        "峰",
+        "ブドウ",
+        "葡萄",
+        "山頂",
+        "霊峰"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:30.591057+00:00Z",
+      "updated_at": "2026-06-02T11:09:01.054290+00:00Z",
       "frequencies": {
         "aozora": 11
       }
@@ -181,7 +242,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その砦には巨砲が配置されていた",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "巨砲の音が響き渡った",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "敵の巨砲により城壁が破壊された",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おそらくは戦闘艦の巨砲の一発の価、陸軍兵員の一日分のたくあんの代金にも足りないくらいの金を使って懸命に研究し、そうして世界的に立派な結果を出しているようである。",
@@ -416,9 +502,20 @@
         "巨峰",
         "虚報"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "大砲",
+        "重砲",
+        "巨銃"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "砲台",
+        "砲撃",
+        "兵器",
+        "艦砲",
+        "大口径",
+        "軍備"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -459,7 +556,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その虚報により株価が下がった",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "虚報を流した者が逮捕された",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "虚報を拡散しないよう注意が必要だ",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「今朝の各新聞に出ているキューバ糖の大豊作の予想は虚報だと思います。",
@@ -694,9 +816,25 @@
         "巨峰",
         "巨砲"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "誤報",
+        "偽報",
+        "デマ",
+        "流言",
+        "虚偽情報"
+      ],
+      "antonyms": [
+        "正報",
+        "確報",
+        "真報"
+      ],
+      "related": [
+        "フェイクニュース",
+        "風説",
+        "流言飛語",
+        "誤情報",
+        "報道"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-2.5-flash-lite"
               }
+            },
+            {
+              "text": "相手の意見を軽んずると、信頼関係はあっという間に崩れてしまう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
             }
           ],
           "literary": [
@@ -295,14 +303,33 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "見下す",
+        "蔑む",
+        "侮る",
+        "軽んじる",
+        "馬鹿にする",
+        "見くびる"
+      ],
+      "antonyms": [
+        "尊ぶ",
+        "敬う",
+        "重んじる",
+        "崇める"
+      ],
+      "related": [
+        "軽蔑",
+        "侮辱",
+        "蔑視",
+        "軽侮",
+        "差別",
+        "傲慢"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:29.402502+00:00Z",
+      "updated_at": "2026-06-02T06:15:42.234120+00:00Z",
       "frequencies": {
         "aozora": 284
       }

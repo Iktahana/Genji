@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東京の市外局番は03で、携帯電話からも同じ局番で通話できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "間違えて違う局番を入力するとまったく別の地域へ接続される。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "国際通話をかけるときは相手国の市外局番を確認してからダイヤルする。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -38,14 +63,20 @@
       "homophones": [
         "極板"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "市外局番"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "電話番号",
+        "電話",
+        "通信"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:26:30.388365+00:00Z",
+      "updated_at": "2026-06-02T10:59:38.145723+00:00Z",
       "freq_rank": 37689
     }
   },
@@ -79,7 +110,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンデンサーの極板の間隔を狭くするとより大きな静電容量が得られる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "高周波回路では極板の材質に銅やアルミニウムが選ばれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "極板同士が接触して短絡することがないよう絶縁体で分離する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "超短波を盛んに起して置いて、実験者がそれに手を近づけましたのですが、本当は先ず手を先に電極板の間に入れて置いて、あとでスイッチを入れて超短波を起す方がよいのです。",
@@ -161,9 +217,15 @@
       "homophones": [
         "局番"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "電極"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "極性",
+        "コンデンサー",
+        "物理"
+      ]
     },
     "meta": {
       "version": "1.0.0",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "材料工学ではシヤーストレスの影響を詳しく調べている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "このビルの構造設計ではシヤー力に対する強度が計算されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "金属加工でシヤーを使うと、直線的で綺麗に切断できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "からら、シヤーレの窓をばしめて　　ああ、ああ、遠いと乳屋がいつた。",
@@ -215,7 +240,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:35.505880+00:00Z",
+      "updated_at": "2026-06-02T08:53:12.619470+00:00Z",
       "frequencies": {
         "aozora": 6
       }

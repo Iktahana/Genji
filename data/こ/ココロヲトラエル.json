@@ -46,6 +46,14 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "その映画は私の心を捉えて話さない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": [
@@ -159,14 +167,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "惹きつける",
+        "魅了する",
+        "感銘を与える"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "印象",
+        "感動"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:07.322141+00:00Z"
+      "updated_at": "2026-06-02T14:33:39.127778+00:00Z"
     }
   }
 ]

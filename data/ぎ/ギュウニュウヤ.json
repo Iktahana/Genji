@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎朝、牛乳屋が家の前に瓶を置いていく。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "祖母は牛乳屋との付き合いが長い。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "昔はこの街に牛乳屋がたくさんあった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれどもジョバンニは、いつかまた深く首を垂れて、そこらのにぎやかさとはまるでちがったことを考へながら、牛乳屋の方へ〔急ぐのでした。",
@@ -277,14 +302,23 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "乳屋",
+        "乳販売店"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "牛乳",
+        "乳製品",
+        "酪農",
+        "配達",
+        "牛乳配達"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:10:55.506450+00:00Z"
     }
   }
 ]

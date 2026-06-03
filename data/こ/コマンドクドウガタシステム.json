@@ -37,6 +37,22 @@
                 "author": "Gemini",
                 "note": "gemini-3-flash-preview"
               }
+            },
+            {
+              "text": "このコマンド駆動型システムは初心者には使いにくい設計になっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "コマンド駆動型システムではすべての操作がテキスト入力で行われる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
             }
           ],
           "literary": []
@@ -46,13 +62,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "antonyms": [
+        "メニュー駆動型"
+      ],
+      "related": [
+        "システム設計",
+        "UI",
+        "操作性"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:34:10.406529+00:00Z"
+      "updated_at": "2026-06-02T14:51:51.993429+00:00Z"
     }
   }
 ]

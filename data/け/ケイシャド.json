@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "道路の傾斜度が大きいと雨の日は運転が危険だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "屋根の傾斜度は雪国では重要な設計要素である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "坂道の傾斜度によって自転車での走行難易度が変わる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "船は、どーんと、はげしくゆれながら、そのたびに傾斜度が加わった。",
@@ -53,14 +78,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "勾配"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "角度",
+        "傾斜"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:33:52.844687+00:00Z"
+      "updated_at": "2026-06-02T13:18:10.365568+00:00Z"
     }
   }
 ]
