@@ -61,14 +61,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "JITコンパイラ",
+        "動的コンパイラ",
+        "実行時コード生成"
+      ],
+      "antonyms": [
+        "静的コンパイラ",
+        "事前コンパイラ"
+      ],
+      "related": [
+        "コンパイラ",
+        "インタプリタ",
+        "バイトコード",
+        "仮想マシン",
+        "最適化"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T09:37:38.898136+00:00Z"
+      "updated_at": "2026-06-03T13:55:16.747534+00:00Z"
     }
   }
 ]
