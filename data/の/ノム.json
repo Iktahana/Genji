@@ -564,14 +564,24 @@
         "喫む",
         "服む"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "喫する",
+        "服用する",
+        "嚥下する"
+      ],
+      "antonyms": [
+        "吐く"
+      ],
+      "related": [
+        "飲食",
+        "薬",
+        "喫煙"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:29:44.618878+00:00Z",
+      "updated_at": "2026-06-04T14:33:37.028834+00:00Z",
       "freq_rank": 3116,
       "frequencies": {
         "aozora": 21496
@@ -885,9 +895,14 @@
         "飲む",
         "服む"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "吸う"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "喫煙",
+        "たばこ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -1206,9 +1221,14 @@
         "飲む",
         "喫む"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "服用する"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "薬",
+        "治療"
+      ]
     },
     "meta": {
       "version": "1.0.0",
