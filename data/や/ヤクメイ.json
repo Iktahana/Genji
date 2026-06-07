@@ -258,14 +258,22 @@
         "役名",
         "薬名"
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "翻訳名"
+      ],
+      "antonyms": [
+        "原名"
+      ],
+      "related": [
+        "翻訳",
+        "名前",
+        "言語"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:32:38.828820+00:00Z",
+      "updated_at": "2026-06-05T04:35:44.654237+00:00Z",
       "frequencies": {
         "aozora": 38
       }
@@ -577,9 +585,16 @@
         "訳名",
         "薬名"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "官名",
+        "職名"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "役職",
+        "名前",
+        "肩書き"
+      ]
     },
     "meta": {
       "version": "1.0.0",
@@ -728,9 +743,15 @@
         "訳名",
         "役名"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "医薬品名"
+      ],
       "antonyms": [],
-      "related": []
+      "related": [
+        "薬",
+        "医薬品",
+        "医学"
+      ]
     },
     "meta": {
       "version": "1.0.0",
