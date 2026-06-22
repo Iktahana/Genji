@@ -194,9 +194,20 @@ def _is_numeric_word(s: str) -> bool:
     return has_num
 
 
+# 1 語として長すぎる＝Sudachi の誤分割（文丸ごと等）。読みがファイル名になるため
+# 長すぎると Linux(ext4, 255B) で checkout 不能になる。実在語は十分これ未満。
+_MAX_WORD_LEN = 30
+
+
+def is_too_long(canonical: str, reading: str) -> bool:
+    return len(canonical) > _MAX_WORD_LEN or len(reading) > _MAX_WORD_LEN
+
+
 def is_low_quality_new(canonical: str, reading: str) -> bool:
     """新語スケルトンとして作るに値しない低品質 canonical を弾く。"""
     if not canonical:
+        return True
+    if is_too_long(canonical, reading):
         return True
     if _RE_DIGITS.match(canonical):           # 数字（二十→20 等）
         return True
@@ -426,6 +437,9 @@ def classify(
             continue
         canonical = an.canonical
 
+        # 長すぎる語（誤分割）は force_new でも作らない。ただし既存への吸収は許可
+        too_long = is_too_long(canonical, an.reading)
+
         # canonical が既存エントリに一致 → 吸収（旧表記が元表記と異なる場合のみ）
         target = None
         if canonical in by_entry:
@@ -441,15 +455,15 @@ def classify(
         # canonical 自体は entry に無いが、読みが既知（かな表記の既存語）→ 吸収せずスキップ
         # （読みだけ一致は誤吸収を招くため、新語化もしない安全側）
         if canonical in known or word in known:
-            if force_new and not _is_numeric_word(canonical) and not _is_numeric_word(word):
+            if force_new and not too_long and not _is_numeric_word(canonical) and not _is_numeric_word(word):
                 _add_new(canonical, an, word, count)
             else:
                 skipped += 1
             continue
 
-        # 真の新語（低品質はスキップ。force_new 時は非数字を強制登録）
+        # 真の新語（低品質はスキップ。force_new 時は非数字を強制登録。長すぎは常に除外）
         if is_low_quality_new(canonical, an.reading):
-            if force_new and not _is_numeric_word(canonical):
+            if force_new and not too_long and not _is_numeric_word(canonical):
                 _add_new(canonical, an, word, count)
             else:
                 low_quality += 1
