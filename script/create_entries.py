@@ -174,6 +174,26 @@ def _has_cjk(s: str) -> bool:
     return any(0x3400 <= ord(c) <= 0x9FFF for c in s)
 
 
+# 数字とみなす文字（半角/全角アラビア数字・漢数字・桁・区切り）
+_NUM_CHARS = set("0123456789０１２３４５６７８９〇零一二三四五六七八九十拾百千万萬億兆")
+_NUM_PUNCT = set("・.,，．、-－―ー/／:：")
+
+
+def _is_numeric_word(s: str) -> bool:
+    """全文字が数字・桁・区切りで、かつ数字を1つ以上含むなら True（例: 一〇一一, 二十, 4.5）。"""
+    if not s:
+        return True
+    has_num = False
+    for c in s:
+        if c in _NUM_CHARS:
+            has_num = True
+        elif c in _NUM_PUNCT:
+            continue
+        else:
+            return False
+    return has_num
+
+
 def is_low_quality_new(canonical: str, reading: str) -> bool:
     """新語スケルトンとして作るに値しない低品質 canonical を弾く。"""
     if not canonical:
@@ -376,13 +396,28 @@ def classify(
     rows: list[tuple[str, int]],
     known: set[str],
     by_entry: dict[str, list[tuple[str, str]]],
-) -> tuple[list[AbsorbOp], dict[str, NewWord], int]:
-    """新語行を吸収 / 新語に振り分ける。"""
+    force_new: bool = False,
+) -> tuple[list[AbsorbOp], dict[str, NewWord], int, set[str]]:
+    """新語行を吸収 / 新語に振り分ける。
+
+    force_new=True のとき、低品質フィルタや読み一致スキップを上書きし、
+    **非数字**の語はすべて新語として登録する（数字は除外＝残置）。
+    """
     absorbs: list[AbsorbOp] = []
     news: dict[str, NewWord] = {}
     skipped = 0
     low_quality = 0
     processed: set[str] = set()  # 吸収 or 新語化された元表記（new_words.txt から削除する対象）
+
+    def _add_new(canonical: str, an: "Analyzed", word: str, count: int) -> None:
+        nw = news.get(canonical)
+        if nw is None:
+            nw = NewWord(canonical, an.reading, an.pos, an.ctype)
+            news[canonical] = nw
+        if word != canonical:
+            nw.variants.add(word)
+        nw.count += count
+        processed.add(word)
 
     for word, count in rows:
         an = analyze_word(word)
@@ -406,12 +441,18 @@ def classify(
         # canonical 自体は entry に無いが、読みが既知（かな表記の既存語）→ 吸収せずスキップ
         # （読みだけ一致は誤吸収を招くため、新語化もしない安全側）
         if canonical in known or word in known:
-            skipped += 1
+            if force_new and not _is_numeric_word(canonical) and not _is_numeric_word(word):
+                _add_new(canonical, an, word, count)
+            else:
+                skipped += 1
             continue
 
-        # 真の新語（低品質はスキップ）
+        # 真の新語（低品質はスキップ。force_new 時は非数字を強制登録）
         if is_low_quality_new(canonical, an.reading):
-            low_quality += 1
+            if force_new and not _is_numeric_word(canonical):
+                _add_new(canonical, an, word, count)
+            else:
+                low_quality += 1
             continue
         nw = news.get(canonical)
         if nw is None:
@@ -475,9 +516,18 @@ def _to_literary(examples: list[dict]) -> list[dict]:
 # 出力（ファイル単位でアトミック書き換え）
 # ──────────────────────────────────────────────────────────
 def _file_for(reading_primary: str) -> tuple[str, str]:
-    """reading_primary → (頭文字ディレクトリ, カタカナファイルキー)。"""
-    key = bd.hiragana_to_katakana(reading_primary) if reading_primary else "記号"
-    initial = bd.get_initial_hiragana(key)
+    """reading_primary → (頭文字ディレクトリ, カタカナファイルキー)。
+
+    読みにかなが無い（＝読み導出不能で reading=表記の漢字）場合は、
+    bd.get_initial_hiragana が CJK を isalpha 扱いして単漢字ディレクトリを
+    量産してしまうため、`記号` バケットへ集約する（ファイル名は表記のまま）。
+    """
+    if reading_primary and _has_kana(reading_primary):
+        key = bd.hiragana_to_katakana(reading_primary)
+        initial = bd.get_initial_hiragana(key)
+    else:
+        key = reading_primary or "記号"
+        initial = "記号"
     return initial, key
 
 
@@ -491,6 +541,9 @@ def make_new_record(nw: NewWord, examples: list[dict], updated_at: str) -> dict:
         "updated_at": updated_at,
         "needs_gloss": True,
     }
+    # 読みが導出できなかった（かな無し＝表記と同一）場合は後段で読み補完が必要
+    if not _has_kana(nw.reading):
+        meta["needs_reading"] = True
     if nw.count:
         meta["frequencies"] = {"aozora": nw.count}
     if nw.variants:
@@ -704,6 +757,8 @@ def main() -> None:
                         help="青空例句収集をスキップ（分類・統計のみ）")
     parser.add_argument("--resume", action="store_true",
                         help="例句インデックスをチェックポイントから再開")
+    parser.add_argument("--force-new", action="store_true",
+                        help="低品質フィルタ/読み一致を上書きし、非数字の語をすべて新語登録（数字は残置）")
     parser.add_argument("--prune-input", action="store_true",
                         help="処理済み（吸収/新語化）の語を new_words.txt から削除")
     parser.add_argument("--dry-run", action="store_true",
@@ -730,7 +785,7 @@ def main() -> None:
 
     # Phase 2: 分類
     bd.Progress.group("Phase 2 │ 正規化・分類（旧字体/旧仮名の吸収判定）")
-    absorbs, news, skipped, processed = classify(rows, known, by_entry)
+    absorbs, news, skipped, processed = classify(rows, known, by_entry, force_new=args.force_new)
     bd.Progress.ok(f"吸収候補 {len(absorbs):,}  新語 {len(news):,}  スキップ {skipped:,}")
     bd.Progress.endgroup()
 
