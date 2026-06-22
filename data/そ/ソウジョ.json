@@ -480,5 +480,68 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "4c19d774-0d34-5606-8f80-22d50b029fc2",
+    "entry": "双叙",
+    "reading": {
+      "primary": "そうじょ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "昭和十年四月荻原雲來第一　雙敍の部二首づつ對比して述べてあるを以て雙敍と名づく。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "雙敍"
+      ]
+    }
   }
 ]

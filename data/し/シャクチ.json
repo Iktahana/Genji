@@ -311,5 +311,68 @@
         "aozora": 93
       }
     }
+  },
+  {
+    "uuid": "b38a9f14-dd86-526c-94bb-c4495e272cfd",
+    "entry": "舎口",
+    "reading": {
+      "primary": "しゃくち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼はいちど戻って、風呂舎口から作事方の御小屋の脇をぬけ、三重｜櫓の蔭に午過ぎまで隠れていた。",
+              "citation": {
+                "source": "風流太平記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "舍口"
+      ]
+    }
   }
 ]

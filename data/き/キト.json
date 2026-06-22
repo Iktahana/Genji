@@ -659,11 +659,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:58:42Z",
       "freq_rank": 20854,
       "frequencies": {
         "aozora": 1034
-      }
+      },
+      "variant_writings": [
+        "歸途"
+      ]
     }
   },
   {
@@ -1288,6 +1291,69 @@
       "frequencies": {
         "aozora": 14
       }
+    }
+  },
+  {
+    "uuid": "edaf8552-c664-5bba-8613-4b3c97343af6",
+    "entry": "帰都",
+    "reading": {
+      "primary": "きと",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "林も事前に逃げを打つて「魯西亞人――再渡之節は應接致し方餘程六ヶ敷可相成――月末迄には筒井肥前守川路左衞門尉も歸都可被致候間――引續き兩人にて取扱候樣宜敷被仰渡候樣、前々御申上置可被下候――」と江戸老中宛に書いてゐる。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "歸都"
+      ]
     }
   }
 ]
