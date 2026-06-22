@@ -364,11 +364,19 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:22:22.448608+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 17076,
       "frequencies": {
         "aozora": 286
-      }
+      },
+      "variant_writings": [
+        "おき変える",
+        "おき換える",
+        "置きかえる",
+        "置き代える",
+        "置き変える",
+        "置換える"
+      ]
     }
   },
   {
@@ -602,6 +610,98 @@
       "updated_at": "2026-03-22T22:30:00Z",
       "frequencies": {
         "aozora": 32
+      }
+    }
+  },
+  {
+    "uuid": "7425c13a-a71f-5b58-afc7-32c91a4778b5",
+    "entry": "置き替える",
+    "reading": {
+      "primary": "おきかえる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ア行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これで見ても、詩は必しも現実の言葉を以て、表現するだけではなく、古語を置き替える事も自由なのだから、其所に現れて来るものも、あなくろにずむと言い棄てられぬことが多い。",
+              "citation": {
+                "source": "詩語としての日本語",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし今、特定に限定された世界像の代りに、一般的な世界観をこの一連の図式の内で置き替えるなら、世界観――体系――方法という図式になるが、これは或る意味での哲学の構造を示すものに他ならぬ。",
+              "citation": {
+                "source": "現代唯物論講話",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もちろんそれはべつの言葉と置き替えるべきものであった。",
+              "citation": {
+                "source": "樅ノ木は残った",
+                "author": "第二部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのために村々の先祖祭は複雑なものとなり、今まであった儀式は聊か衰えたようだが、まるまる古くからのものを置き替えることはできず、依然として七月の盆のあとに、また八月のコウソ祭があって、この方が多くの行事と結びつき、踊その他の色々の催しを伴のうて、力の入れかたが格別であった。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し、この事件の新聞記事を記憶する読者にとって、それらを真実の人名、地名に置き替えることは、さして困難ではないと信じる。",
+              "citation": {
+                "source": "悪霊",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 24
       }
     }
   }

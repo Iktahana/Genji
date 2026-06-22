@@ -366,5 +366,73 @@
         "aozora": 327
       }
     }
+  },
+  {
+    "uuid": "606b9e78-c01f-5001-a95f-eb1d62e11c81",
+    "entry": "吹笛",
+    "reading": {
+      "primary": "すいてき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幼子のむれはまた吹笛鳴らし、白楊の岸にそひ曇り黄ばめる教会の硝子※ながめてくだる。",
+              "citation": {
+                "source": "邪宗門",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は何時も桐の花が咲くと冷めたい吹笛の哀音を思ひ出す。",
+              "citation": {
+                "source": "桐の花とカステラ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

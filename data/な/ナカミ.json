@@ -410,10 +410,98 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:14:59.539935+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2540,
       "frequencies": {
         "aozora": 632
+      },
+      "variant_writings": [
+        "中み",
+        "中味"
+      ]
+    }
+  },
+  {
+    "uuid": "6ce57f61-1cb3-5010-adc8-6785e1937a36",
+    "entry": "ナカミ",
+    "reading": {
+      "primary": "なかみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "西荻窪の植木屋の気付で、宛名は、ミナカミサトコとなっている。",
+              "citation": {
+                "source": "あなたも私も",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "でも、しかたが無いから、しんぼうして、そのナカミの性質をかんたんに列記してみよう。",
+              "citation": {
+                "source": "恐怖の季節",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「夏麻ひく」は夏の麻を引く畑畝のウネのウからウナカミのウに続けて枕詞とした。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこでこの後でお生まれになつた五人の子の中に、アメノホヒの命の子のタケヒラドリの命、これは出雲の國の造・ムザシの國の造・カミツウナカミの國の造・シモツウナカミの國の造・イジムの國の造・津島の縣の直・遠江の國の造たちの祖先です。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

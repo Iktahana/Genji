@@ -317,10 +317,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:21:50.876688+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36767,
       "frequencies": {
         "aozora": 46
+      },
+      "variant_writings": [
+        "埋めあわせ",
+        "埋合せ"
+      ]
+    }
+  },
+  {
+    "uuid": "4c63cae2-226c-5aff-86cf-1e5f710d692a",
+    "entry": "ウメアワセ",
+    "reading": {
+      "primary": "うめあわせ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この店の勘定だけでウメアワセがつくとは、ありがたい」　新十郎がハシャイで、こんな皮肉なことを云うのは、実は皮肉ではなくて、本当に嬉しかった重大なことがあったのだろう。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その十四　ロッテナム美人術",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

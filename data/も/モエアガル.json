@@ -321,10 +321,68 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:36:20.618181+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36670,
       "frequencies": {
         "aozora": 268
+      },
+      "variant_writings": [
+        "燃えあがる",
+        "燃え上る",
+        "燃え揚る",
+        "燃上がる",
+        "燃上る"
+      ]
+    }
+  },
+  {
+    "uuid": "80fec41c-023a-5449-af0f-87d17ca3f44e",
+    "entry": "萌え上がる",
+    "reading": {
+      "primary": "もえあがる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

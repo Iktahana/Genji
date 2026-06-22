@@ -275,5 +275,73 @@
         "aozora": 6
       }
     }
+  },
+  {
+    "uuid": "8cc4c0c7-601f-5606-95c9-8a8afec005cb",
+    "entry": "音訛",
+    "reading": {
+      "primary": "おんか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さてこのヅクベが単なるヅクボウの音訛であるか、はたまた新種の協定にして、更に第五の系統を暗示するものであるかは、容易には決し兼ねる。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところがヒホドの方は発音が殊に容易でなかったと見えて、各地さまざまの音訛がもう起こっている。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

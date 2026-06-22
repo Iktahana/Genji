@@ -364,10 +364,117 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:13:48.128978+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 39182,
       "frequencies": {
         "aozora": 369
+      },
+      "variant_writings": [
+        "ひき離す",
+        "引きはなす",
+        "引き離せる",
+        "引離す",
+        "引離せる"
+      ]
+    }
+  },
+  {
+    "uuid": "af9f8cc0-8172-5248-a642-de1ed30f9cc7",
+    "entry": "引き放す",
+    "reading": {
+      "primary": "ひきはなす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これほどはっきりと玉鬘を自分から引き放すこととは思わずに油断をさせられていたことが、人聞きも不体裁に思われ、自身のためにも残念で、玉鬘が恋しくばかり思われた。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "真木柱",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今の次郎左衛門からどうしても引き放すことの出来ないものは、この籠釣瓶と八橋とであった。",
+              "citation": {
+                "source": "籠釣瓶",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分と八橋と籠釣瓶と、この三つはどうしても引き放すことの出来ない約束になっているらしくも思われた。",
+              "citation": {
+                "source": "籠釣瓶",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宇宙に於ける如何なる律法も如何なる法廷も一度根ざした恋愛を土から引き放すことは出来ない。",
+              "citation": {
+                "source": "結婚と恋愛",
+                "author": "エンマ・ゴルドマン",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし思想を形式から引き放すことはできないのだ。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――この時、突然私を捕えて私の心を急用から引き放すものがあった。",
+              "citation": {
+                "source": "創作の心理について",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 67
       }
     }
   }

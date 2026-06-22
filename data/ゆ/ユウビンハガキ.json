@@ -89,5 +89,65 @@
         "aozora": 2
       }
     }
+  },
+  {
+    "uuid": "91328616-1209-522f-8269-f27caa5869f4",
+    "entry": "郵便葉書",
+    "reading": {
+      "primary": "ゆうびんはがき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "たいていは郵便葉書に、まず手紙を受取ったお礼を書き、そのあとに、勉強して一番になってもらいたいとか、おとなしくせよとか、病気をするなとか、お墓詣りを怠るなとか、いったような意味のことを、きまり文句でしるしてあるに過ぎなかった。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第二部",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

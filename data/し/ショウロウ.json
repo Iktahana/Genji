@@ -596,6 +596,22 @@
                 "author": "倉田百三",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "こゝは湊町をはなれて、別に一郭をなし、酒樓、娼樓、屹として海邊に立ちならべり。",
+              "citation": {
+                "source": "水戸觀梅",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明治二十三年、群馬縣會の議決によりて、群馬縣下一般に癈娼を實行せしが、こゝにも榮えし娼樓の痕跡、今なほ普通の人家とは見えざる家が二三軒、そのまゝに殘れる也。",
+              "citation": {
+                "source": "妙義山の五日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -620,10 +636,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 10
+      },
+      "variant_writings": [
+        "娼樓"
+      ]
+    }
+  },
+  {
+    "uuid": "0d493833-b3f1-5a00-8c4a-1f02b986015e",
+    "entry": "荘老",
+    "reading": {
+      "primary": "しょうろう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "【弟李】景莊老於場屋（進士の受驗場）。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "莊老"
+      ]
     }
   }
 ]

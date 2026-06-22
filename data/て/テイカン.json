@@ -1014,10 +1014,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 104
-      }
+      },
+      "variant_writings": [
+        "諦觀"
+      ]
     }
   },
   {
@@ -1640,6 +1643,114 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "14a3e706-8f2f-5013-aceb-659ac52bd253",
+    "entry": "邸館",
+    "reading": {
+      "primary": "ていかん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ポリの邸館の広場に在る「トレビの噴水」を劇的だと言った。",
+              "citation": {
+                "source": "噴水物語",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "友人の申出に從つて、わたしたちは馬車を降り、莊園の中を歩いて邸館まで行くことにした。",
+              "citation": {
+                "source": "クリスマス・イーヴ",
+                "author": "アーヴィング",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等は邸館のぐるりを※つて窓々の下で音樂を奏した。",
+              "citation": {
+                "source": "クリスマス・イーヴ",
+                "author": "アーヴィング",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いったいこの地方などにはあるはずもない宏壮萃麗なこの邸館は、どういう由緒の家なのか。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "果たせるかな、柴進は以後、獄中につながれ、故人｜皇城の邸館とその名園は、そっくり門の相を変え、“官没”の名のもとに、今では奉行｜高廉の別荘になっているという。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして曹操から、五万の精兵と二人の大将を借りうけるや、取るものも取りあえず、許都の邸館をひき払って出発した。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かういふ各地の小都市には、かならず今は人無き、舊藩主の城址や邸館の跡がある。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
     }
   }
 ]

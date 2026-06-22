@@ -756,11 +756,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:33:49.189822+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6148,
       "frequencies": {
         "aozora": 8157
-      }
+      },
+      "variant_writings": [
+        "押せる",
+        "捺す"
+      ]
     }
   },
   {
@@ -1177,11 +1181,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 40784,
       "frequencies": {
         "aozora": 1639
-      }
+      },
+      "variant_writings": [
+        "推せる"
+      ]
     }
   },
   {
@@ -1514,11 +1521,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6668,
       "frequencies": {
         "aozora": 1642
-      }
+      },
+      "variant_writings": [
+        "オス",
+        "牡"
+      ]
     }
   },
   {
@@ -2264,11 +2275,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36368,
       "frequencies": {
         "aozora": 2712
-      }
+      },
+      "variant_writings": [
+        "オシ"
+      ]
     }
   },
   {
@@ -2596,6 +2610,74 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T22:30:00Z",
       "freq_rank": 36368
+    }
+  },
+  {
+    "uuid": "30aa0f95-f516-5a25-858c-3eb166be034c",
+    "entry": "小簾",
+    "reading": {
+      "primary": "おす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "伏見山梅さく頃は加茂川の流れかをりて風吹きのぼる打むれて蝶のしたふや梅が香を吹きゆく風の流れなるらん心なく花ふきちらす風もあり小簾になごりを留むるもあり若き頃、洛東黒谷に借りずまひして。",
+              "citation": {
+                "source": "禮嚴法師歌集",
+                "author": "與謝野禮嚴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夏のことでなかの仕切りは形ばかりの小簾一重、風も通せば話も通う。",
+              "citation": {
+                "source": "不如帰　小説",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
     }
   }
 ]

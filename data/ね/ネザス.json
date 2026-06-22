@@ -314,5 +314,73 @@
         "aozora": 288
       }
     }
+  },
+  {
+    "uuid": "65c16390-251c-5e9e-9eef-57f92cd66ecd",
+    "entry": "根差す",
+    "reading": {
+      "primary": "ねざす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "虚無に根差す人生はフィクショナルなものである。",
+              "citation": {
+                "source": "人生論ノート",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いうまでもなく、かかる標準を最初から理論で組立てるべきではなく、深く直観に根差すべきなのはもとよりである。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
   }
 ]

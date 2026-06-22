@@ -321,10 +321,64 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:38:40.264218+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32079,
       "frequencies": {
         "aozora": 78
+      },
+      "variant_writings": [
+        "悍しい"
+      ]
+    }
+  },
+  {
+    "uuid": "e3ee7319-38b9-53a9-ae9e-504482847029",
+    "entry": "鈍ましい",
+    "reading": {
+      "primary": "おぞましい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容詞"
+      ],
+      "ctype": "形容詞",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 11
       }
     }
   }

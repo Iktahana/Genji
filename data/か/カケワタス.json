@@ -129,9 +129,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:02:10.544610+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 18
+      },
+      "variant_writings": [
+        "かけ渡す",
+        "掛渡す"
+      ]
+    }
+  },
+  {
+    "uuid": "3eb9fae5-b00b-5412-950a-1d199bfd3e01",
+    "entry": "架け渡す",
+    "reading": {
+      "primary": "かけわたす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "）そして刎橋の特徴は、それを廓内から廓外へすとんと架け渡すことは出来ても、外から内へと渡す仕組には造れなかつたことである。",
+              "citation": {
+                "source": "刎橋の受け台について",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "残の雪が夫から夫へと蜘蛛手に橋を架け渡す。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 23
       }
     }
   }

@@ -2208,11 +2208,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1696,
       "frequencies": {
         "aozora": 5131
-      }
+      },
+      "variant_writings": [
+        "醫師"
+      ]
     }
   },
   {
@@ -2871,11 +2874,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1987,
       "frequencies": {
         "aozora": 21686
-      }
+      },
+      "variant_writings": [
+        "斛"
+      ]
     }
   },
   {
@@ -3973,11 +3979,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7595,
       "frequencies": {
         "aozora": 31
-      }
+      },
+      "variant_writings": [
+        "頤指"
+      ]
     }
   },
   {
@@ -4376,6 +4385,93 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 7595
+    }
+  },
+  {
+    "uuid": "40716186-e8f2-527f-b899-e60547a04e37",
+    "entry": "医史",
+    "reading": {
+      "primary": "いし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "諸家の中でも、戸川残花さんはわたくしのために武田信賢さんに問うたり、南葵文庫所蔵の書籍を検したりしてくれ、呉秀三さんは医史の資料について捜索してくれ、大槻文彦さんは如電さんに問うてくれ、如電さんは向島へまで墓を探りに往ってくれた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浅田｜栗園の皇朝医史には此人のために伝が立ててあるさうであるが、今其書が手元に無い。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この出版は日本医史学会からの補助を受けました。",
+              "citation": {
+                "source": "鴎外の思い出",
+                "author": "小金井喜美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど我國の醫史に據れば、温補の方盛に用ゐられて、漢醫の道衰へたるを、吉益東洞、永富獨嘯庵の輩起りて、古方を唱へ、劇藥を用ゐ、一度は廻瀾の功を奏しき。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "醫史"
+      ]
     }
   }
 ]

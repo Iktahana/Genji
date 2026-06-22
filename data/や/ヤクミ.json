@@ -316,10 +316,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:35:44.651944+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 31487,
       "frequencies": {
         "aozora": 111
+      },
+      "variant_writings": [
+        "藥味"
+      ]
+    }
+  },
+  {
+    "uuid": "53317b80-561d-53b5-8306-408c69364795",
+    "entry": "ヤクミ",
+    "reading": {
+      "primary": "やくみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "葱を細に切ってヤクミにして食べると塩ゆでにしてあるから誰も豚と思わんよ。",
+              "citation": {
+                "source": "食道楽",
+                "author": "春の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」（手帳の文字）ハヤクミンナヲ呼ベ。",
+              "citation": {
+                "source": "黒蜥蜴",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

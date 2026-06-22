@@ -645,10 +645,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 1079
-      }
+      },
+      "variant_writings": [
+        "餘儀"
+      ]
     }
   },
   {
@@ -973,10 +976,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 188
-      }
+      },
+      "variant_writings": [
+        "餘技"
+      ]
     }
   },
   {
@@ -1122,6 +1128,125 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "20654a2e-1670-5f20-b9f9-37713da6367f",
+    "entry": "余戯",
+    "reading": {
+      "primary": "よぎ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "エレン・ケイの霊活な筆は、家庭の尊さと意義深さとを心魂にまで銘じさせ、人間が、なまじいの根性では、余戯では、決して、それを地上に存在する価値あらしめ得ないことを思わせる。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二三年（大正十二年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その自分がこれらの余戯に耽り乍ら、とにかく卒業する事の出来たのは、一に同大学諸教授の雅量に負う所が少くない。",
+              "citation": {
+                "source": "羅生門の後に",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは先生には短歌や発句は余戯に外ならなかつた為であらうか？",
+              "citation": {
+                "source": "文芸的な、余りに文芸的な",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）のみならず夏目先生の余戯だつた漢詩は、――殊に晩年の絶句などはおのづからこの微妙なものを捉へることに成功してゐる。",
+              "citation": {
+                "source": "文芸的な、余りに文芸的な",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "トコトンヤレを口ずさみながら、米友がそこに踏みとどまって、棒を弄して以てあえて弁信のあとを追おうとしないのは、あらかじめ諒解があって、弁信は弁信としての当座の使命があり、その使命を果すべく自由行動を取り、米友は米友として、その待合せの時間を余戯でつぶしていると見ればいいのです。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "山科の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "よって余戯に、船渠桟上往来繁、博物場中古版存、此地可驚唯一事、紅毛女子解和言。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが横長の麻布山水図だけはどうもただのアマチュアかセミ・プロ程度の人の余戯らしい。",
+              "citation": {
+                "source": "正倉院展を観る",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "畑作りの余戯みたいなものだ。",
+              "citation": {
+                "source": "雪村筆「茄子図」",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "餘戯"
+      ]
     }
   }
 ]

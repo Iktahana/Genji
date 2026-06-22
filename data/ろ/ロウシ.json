@@ -624,10 +624,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 26
-      }
+      },
+      "variant_writings": [
+        "勞資"
+      ]
     }
   },
   {
@@ -2643,6 +2646,148 @@
       "frequencies": {
         "aozora": 1
       }
+    }
+  },
+  {
+    "uuid": "f00c34a8-77a3-5acb-8669-c26a85e4bdea",
+    "entry": "労仕",
+    "reading": {
+      "primary": "ろうし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "当人病気に而者船中に而乗組之内に病気之者御坐候共、中々療治致候事難相成、将亦上陸之後も必疲労仕候而、御用有之候共相勤候儀無覚束奉存候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「……太夫房覚明という者が労仕の衆の中におるそうじゃの」「はい、見えております」「おん身を慕って、この禅房に、置いてくれという頼みを、蓮生からすがってきた。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御祖母樣如何｜計之御驚嘆と、是｜而已｜案勞仕候儀に御座候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "勞仕"
+      ]
+    }
+  },
+  {
+    "uuid": "0769822d-785c-51a3-9eea-1c8ce5e7b07f",
+    "entry": "労師",
+    "reading": {
+      "primary": "ろうし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "景公與諸大夫郊迎勞師成禮。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "勞師"
+      ]
     }
   }
 ]

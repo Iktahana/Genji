@@ -371,11 +371,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:19:10.756683+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 668,
       "frequencies": {
         "aozora": 13649
-      }
+      },
+      "variant_writings": [
+        "戰争",
+        "戰爭"
+      ]
     }
   },
   {
@@ -698,10 +702,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 26
-      }
+      },
+      "variant_writings": [
+        "船艙"
+      ]
     }
   },
   {
@@ -1345,6 +1352,166 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "ea819aa6-dd4c-5aa4-89b7-02547e21f94b",
+    "entry": "占相",
+    "reading": {
+      "primary": "せんそう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『華厳経』には「占相をはなれて、正見を修習せしめ、決定してふかく罪福の因縁を信ずべし。",
+              "citation": {
+                "source": "親鸞",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるにやゝもすれば占ふといふ処に占合、占相、たをやめに手弱女などゝあて字を用ゐる。",
+              "citation": {
+                "source": "用言の発展",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……公事にも占相ということが与って力をなす。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "紙凧",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  },
+  {
+    "uuid": "6f435a4d-0cd6-5358-b174-029cb802f7e2",
+    "entry": "センソウ",
+    "reading": {
+      "primary": "せんそう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「コレガ　センソウト　イフモノカモ　シレナイ。",
+              "citation": {
+                "source": "オホサウヂ",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ポチサン、センソウダ。",
+              "citation": {
+                "source": "オホサウヂ",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茜草はアカネの草の漢名で字音はセンソウであってセイソウではない。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「父さんはナァ、センソウにゆきなさるけん、温なしゅうして、遊んでいなはり――、ナァ好えかい？",
+              "citation": {
+                "source": "戦争雑記",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

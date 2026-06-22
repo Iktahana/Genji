@@ -1113,6 +1113,22 @@
                 "author": "宮本百合子",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "若しあなたが、そんな調子で、何でもお考へになるのなら、私はもう即刻あなたにおさらばをしてスタムブウルの慈善市に行つて、あなたが、此處で滿足に使ひ切れなくて困つてゐらつしやるらしい、その要らないお金を、手廣い奴隷購賣に使ひますわ。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金が減ると云ふことになると金利が上り、さうして國民の日常所有して居る通貨が減るのであるから購賣力が減る。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1189,10 +1205,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8078,
       "frequencies": {
         "aozora": 311
+      },
+      "variant_writings": [
+        "購賣"
+      ]
+    }
+  },
+  {
+    "uuid": "55355a5f-6ad6-5fe9-a1c4-f87b144efd88",
+    "entry": "購売",
+    "reading": {
+      "primary": "こうばい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "というのは、父兄の営む商売も、百貨店や、公設市場、購売組合等の圧迫を受けて、さっぱり振わない。",
+              "citation": {
+                "source": "私の小売商道",
+                "author": "相馬愛蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "購売の方ぢや物価が高くなつたの一点張りでグイグイ品物の値段は上げるしなあ。",
+              "citation": {
+                "source": "地熱",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

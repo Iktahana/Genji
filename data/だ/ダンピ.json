@@ -71,6 +71,22 @@
                 "author": "永井荷風",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "雅典は荒草斷碑の中にあり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "當時、圓光上人、怨魂を慰めむとて、湖水のほりに、龍體院殿自山貞性大姉と題する墓を立てたる由なるが、斷碑、今何づれの處にか存する。",
+              "citation": {
+                "source": "冬の榛名山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -91,9 +107,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T06:06:52.049974+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 2
+      },
+      "variant_writings": [
+        "斷碑"
+      ]
+    }
+  },
+  {
+    "uuid": "16f89ba5-929f-58df-8029-baebaa7b52ae",
+    "entry": "団匪",
+    "reading": {
+      "primary": "だんぴ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "団匪事件の時、陸軍通訳として招集され、従軍中しばしば清廷の宗室大官と親近する中に計らずも粛親王の知遇を得たのが青雲の機縁となった。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第八章　この年の六月頃から、清国義和団匪の暴動がますます猖獗をきわめてきた。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また団匪の乱に乗じて全く満州を軍事的に占領した。",
+              "citation": {
+                "source": "東亜の平和を論ず",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

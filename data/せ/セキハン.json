@@ -279,6 +279,22 @@
                 "author": "岡本綺堂",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "お品の耳には續いて「ぽうんとしたか、そらそつちへ行つちやつた」といふ聲がしたかと思ふと「こんだはぽうんとすんぢやねえかんな」といふ聲やそれから又「それ持ち出すんぢやねえ、聽かねえと此で切つてやんぞ、赤まんまが出るぞおゝ痛え」抔とおつぎのいふのが聞えた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なぜ歌ひださないのかさよなら、さよなら、さよならと歌ふ中野重治よ、君は最後の袂別の歌をうたふ赤まんまの花を歌ふなと、君は人間以外のものに、事実は人間そのものにも――最後の否定的態度を示した詩人だ。",
+              "citation": {
+                "source": "小熊秀雄全集-4",
+                "author": "詩集（３）小熊秀雄詩集１",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -297,10 +313,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T00:54:33.688256+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 35926,
       "frequencies": {
         "aozora": 195
+      },
+      "variant_writings": [
+        "赤まま",
+        "赤まんま"
+      ]
+    }
+  },
+  {
+    "uuid": "defc1f8c-7d6f-59dd-88b5-d870d92992a7",
+    "entry": "セキハン",
+    "reading": {
+      "primary": "せきはん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「ダイサクの墓に敬意を表しに行っただけなんだが、ヒデが来たヒデが来たと good know how many が大歓迎をしてモチ・ブレットやセキハン・ライスをいやというほど食わせた」　と、うれしそうな顔をした。",
+              "citation": {
+                "source": "南部の鼻曲り",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

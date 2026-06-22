@@ -375,11 +375,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T08:48:28.772811+00:00Z",
+      "updated_at": "2026-06-22T05:58:42Z",
       "freq_rank": 16186,
       "frequencies": {
         "aozora": 335
-      }
+      },
+      "variant_writings": [
+        "歸結"
+      ]
     }
   },
   {
@@ -783,6 +786,90 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "9b0c1aab-1704-5628-8d0b-45552f96325d",
+    "entry": "気血",
+    "reading": {
+      "primary": "きけつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又謂魂気血之精耳、故議思死魂散滅、是人間理量非神仙知、罔鎮坐、則三輪五瀬不知所立、魂散滅則菟狭芳野云何立。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また謂らく、魂は気血の精のみ。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フイゴのように肺はこの生気血液を扇いで冷やす。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俄に湯火の熱を以て温れば人精の気血をたすけ、陰毒一旦に解るといへども全く去ず、陰は陽に勝ざるを以て陽気至ば陰毒肉に暈て腐也。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

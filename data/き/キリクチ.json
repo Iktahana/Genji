@@ -279,6 +279,22 @@
                 "author": "宮沢賢治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "それから一年後に、この髄を切断し根元に穴を穿っておくと切口から澄み切った汁が出て穴にたまる。",
+              "citation": {
+                "source": "話の種",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "といひさま刀を抜き、竹藪に躍蒐りて、えいと殺ぎたる竹の切口、斜に尖れる切先に転べる胸を貫きて、其場に命を落せしとぞ。",
+              "citation": {
+                "source": "妖怪年代記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -346,10 +362,75 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T11:12:04.101065+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10744,
       "frequencies": {
         "aozora": 208
+      },
+      "variant_writings": [
+        "切りくち",
+        "切口",
+        "斬り口"
+      ]
+    }
+  },
+  {
+    "uuid": "890e2e49-bcb8-588f-807e-c2117fd7fad0",
+    "entry": "キリクチ",
+    "reading": {
+      "primary": "きりくち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "北陸から東北、関東地方から東海道にかけてはイワナと読んでいるが、和歌山県と奈良県ではキリクチと言い、中国地方ではゴギまたはコギと名づけ、滋賀県ではイモナ、イモウオと称しているそうである。",
+              "citation": {
+                "source": "雪代山女魚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

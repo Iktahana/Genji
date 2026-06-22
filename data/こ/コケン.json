@@ -697,10 +697,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 64
-      }
+      },
+      "variant_writings": [
+        "估券"
+      ]
     }
   },
   {
@@ -1022,6 +1025,90 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 32
+      }
+    }
+  },
+  {
+    "uuid": "214673f9-ef64-5eb6-91d3-afced4eb68eb",
+    "entry": "コケン",
+    "reading": {
+      "primary": "こけん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ああいう仕事するひとだから、こんなことようしまいと思っちょったらどうして上手でと、東京へ行ったとき何をたべたというようなお話で、お兄さんのお嫁さんも決して東京の奥さんたるコケンをはずかしめぬというわけです。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四〇年（昭和十五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し三平はそうとは知らず、なんしろ、高級な下宿だからネ、先生のコケンにかゝわるといけねえから、このキモノをきてくるんだ、オレは高級はキュークツで、きらいなんだ、と言っていた。",
+              "citation": {
+                "source": "死と影",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まるで忙しくやらないと麻雀打ちのコケンにかかわるかのように、ただもう四人の手がめまぐるしく往復しているのである。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "東京ジャングル探検",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加柴の四郎さんともあろう者がチンピラ扱いされちゃ、俺たち全体のコケンにかかわる。",
+              "citation": {
+                "source": "いやな感じ",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

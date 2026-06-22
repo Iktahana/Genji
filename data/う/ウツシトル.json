@@ -272,6 +272,30 @@
                 "author": "ペンは剣よりも強し",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "――が、此処で、そのハガキの裏をかへして「鯉」に与へた言葉を写しとる要もあるまい。",
+              "citation": {
+                "source": "エハガキの激賞文",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余はかつて、そのことを写真師にたずねてみたるに、写真師が申すには、「一度写したるガラスをよくみがかずして再び写しとるときは、先影の朦朧として形をとどむることがある。",
+              "citation": {
+                "source": "おばけの正体",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庭の泉水もその飛ぶ姿を写しとることができないほど、素早く、それこそ穴倉から屋根裏へまっすぐに飛び上がって行く。",
+              "citation": {
+                "source": "博物誌",
+                "author": "HISTOIRES NATURELLES",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -301,10 +325,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T22:57:02.937881+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 107
-      }
+      },
+      "variant_writings": [
+        "うつし取る",
+        "写しとる",
+        "写し取れる"
+      ]
     }
   },
   {
@@ -448,6 +477,156 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T22:30:00Z"
+    }
+  },
+  {
+    "uuid": "79fd59aa-061a-573e-835f-0cd13d9a05fc",
+    "entry": "映し取る",
+    "reading": {
+      "primary": "うつしとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此の鏡面が暗くなつて仕舞つて、對ふところのもの一切を鏡中に收めることが出來なくなり、即ち鏡イツパイに當面のものを映し取ることが出來なくなるところが即ち散亂心の有樣なのである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この鏡面が暗くなって仕舞って、対かうところのもの一切を鏡中に収めることが出来なくなり、即ち鏡イツパイに当面のものを映し取ることが出来なくなるところが、即ち散乱心の有様なのである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし地を更えて、自分が内蔵助の場合に立つならば何う動くか――何う処すか――それを思えば、自から内蔵助の行動と意中は、鏡にかけて映し取るように、彼には読めてくるのだった。",
+              "citation": {
+                "source": "新編忠臣蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そういう町すじの平和を沁々と眼底に映しとる思いだ。",
+              "citation": {
+                "source": "日記",
+                "author": "一九四四年（昭和十九年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 17
+      },
+      "variant_writings": [
+        "映しとる"
+      ]
+    }
+  },
+  {
+    "uuid": "85f2824c-754e-5ae5-8fc2-a08b6f3af796",
+    "entry": "移し取る",
+    "reading": {
+      "primary": "うつしとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "今日の活字字母面製造に用ひる方式とはちがふけれど、ガラハニ氣を利用して、陰陽二極の面に相互から移しとる原理はすでにここで達せられてゐるのがわかる。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      },
+      "variant_writings": [
+        "移しとる"
+      ]
     }
   }
 ]

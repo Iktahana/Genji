@@ -332,11 +332,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:26:20.771972+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2502,
       "frequencies": {
         "aozora": 6482
-      }
+      },
+      "variant_writings": [
+        "起る"
+      ]
     }
   },
   {
@@ -1054,11 +1057,17 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8614,
       "frequencies": {
         "aozora": 8557
-      }
+      },
+      "variant_writings": [
+        "おこれる",
+        "嗔る",
+        "怒れる",
+        "慍る"
+      ]
     }
   },
   {
@@ -1394,6 +1403,130 @@
       "freq_rank": 19102,
       "frequencies": {
         "aozora": 59
+      }
+    }
+  },
+  {
+    "uuid": "a4905b2e-5fb5-5cc1-82ef-ff7fbf58706d",
+    "entry": "オコル",
+    "reading": {
+      "primary": "おこる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "このオンゲルは「オコル」に似ている。",
+              "citation": {
+                "source": "言葉の不思議",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本でもオコルとオクルが似ているのと相対しておもしろい。",
+              "citation": {
+                "source": "言葉の不思議",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それと行き違ひに勇から轉送して來た電報には、「ダイジオコルスグコイ」とあつた。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "斷橋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シカシ、イタチダケヲ　ヨバナイト　イタチハ　キツト　オコルニ　チガヒ　アリマセン。",
+              "citation": {
+                "source": "ガチヨウノ　タンジヨウビ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ヨナカニケンカガオコルト、ウチガユキユキトユレルノ。",
+              "citation": {
+                "source": "テガミ",
+                "author": "小林多喜二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで Post office へ行き　ベコアヤマル　キゲン　ナオセ　モスク※デ　オコルト　アタマニワルイ　と打ってやった電報を。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二九年（昭和四年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "六ヒゲナシ山羊サン　ヲ見テミンナ　オコルヤラ、泣クヤラ大ヘン　ナ　サワギニナツタノ。",
+              "citation": {
+                "source": "カハイイ　山羊サン",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "●オタケサン――●ボウヤ――●ア、ココニモアッタワヨ――●ア、アソコニモオチテイルワヨ――●オバサン――●ソオネ――●ワタシオコルワヨ――●ワタシオトナシクマッテ（ナッテ？",
+              "citation": {
+                "source": "オカアサン",
+                "author": "佐藤春夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "オコス・オコルは燠（オキ）という名詞から出たらしく、少なくとも火を燃すことには関係が無い。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

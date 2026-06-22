@@ -271,6 +271,30 @@
                 "author": "LES MISERABLES",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "１□９２　　２９□１　　９７１□＋　２□１７――――――　１７５９２　まづ右端の縱列の□から考へて行く。",
+              "citation": {
+                "source": "虫喰ひ算大會",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この縱列の合計の百位の數字は５であるから、□と□との合計は８であるかもしれず、18であるかもしれない。",
+              "citation": {
+                "source": "虫喰ひ算大會",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう一つ上の千位の數字を見ると、この縱列には□がない。",
+              "citation": {
+                "source": "虫喰ひ算大會",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -295,9 +319,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:08:12.233437+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 39
+      },
+      "variant_writings": [
+        "縱列"
+      ]
+    }
+  },
+  {
+    "uuid": "53b8aa4f-5118-5a9b-ad39-709cc2eadf0d",
+    "entry": "縦裂",
+    "reading": {
+      "primary": "じゅうれつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "葯は二つの胞から成り、縦裂せる間隙から一向に油気のないサラサラとした花粉を散出し、時々吹き来る風のためにそれが散らばり飛んで花柱の毛に着き、そこに拘束せられるのである。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

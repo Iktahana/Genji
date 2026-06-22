@@ -279,6 +279,22 @@
                 "author": "THE CALL OF THE WILD",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "それには羊皮の帽子をかむり、弾丸のケースをさした帯皮を両肩からはすかいに十文字にかけた男が乗っていた。",
+              "citation": {
+                "source": "パルチザン・ウォルコフ",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "負傷者が行くと、不自然な笑い方をして、帯皮を輪にしてさげた一人は急いで編上靴を漆喰に鳴らして兵舎の方へ走せて行った。",
+              "citation": {
+                "source": "氷河",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -343,9 +359,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:07:43.119717+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 36
+      },
+      "variant_writings": [
+        "帯皮",
+        "帶革"
+      ]
+    }
+  },
+  {
+    "uuid": "5f860ed8-fc20-5fe1-841b-04751f0b8785",
+    "entry": "帯側",
+    "reading": {
+      "primary": "おびかわ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "すめばすむ、家請けまでも兄の判、母がくれます小遣金が、帯側にもなる事か。",
+              "citation": {
+                "source": "移民学園",
+                "author": "清水紫琴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

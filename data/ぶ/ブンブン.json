@@ -290,6 +290,14 @@
                 "author": "岡本綺堂",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "蜂の音は今日でもブンブンといわれていて、昔と大体変らないが、馬の声をイといったのは我々には異様に聞える。",
+              "citation": {
+                "source": "駒のいななき",
+                "author": "橋本進吉",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -353,10 +361,121 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:48:14.802829+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32722,
       "frequencies": {
         "aozora": 142
+      },
+      "variant_writings": [
+        "ブンブン"
+      ]
+    }
+  },
+  {
+    "uuid": "f0638579-6afd-5b83-abad-451fc1d3565d",
+    "entry": "文々",
+    "reading": {
+      "primary": "ぶんぶん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かの三文々士は、歯痛によって、ついに、クビをくくって死せり。",
+              "citation": {
+                "source": "不良少年とキリスト",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから坂口安吾といふ三文々士が女に惚れたり飲んだくれたり時には坊主にならうとしたり五年間思ひつめて接吻したら慌ててしまつて絶交状をしたゝめて失恋したり、近頃は又デカダンなどと益々もつて何をやらかすか分りやしない。",
+              "citation": {
+                "source": "教祖の文学",
+                "author": "――小林秀雄論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "教祖にかゝつては三文々士の実相の如き手玉にとつてチョイと投げすてられ、惨又惨たるものだ。",
+              "citation": {
+                "source": "教祖の文学",
+                "author": "――小林秀雄論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが三文々士の方では、女に惚れたり飲んだくれたり、専らその方に心掛けがこもつてゐて、死後の名声の如き、てんで問題にしてゐない。",
+              "citation": {
+                "source": "教祖の文学",
+                "author": "――小林秀雄論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女は私が三文々士であることを知つてゐるので、男に可愛く見えるにはどうすればよいかといふことを細々と訊ねた。",
+              "citation": {
+                "source": "いづこへ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三文々士は怠け者ではない。",
+              "citation": {
+                "source": "ぐうたら戦記",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私はいつたいに、小説の文章はどんなギコチない悪文であらうと構はない、要は高い精神（洞察）から出発してゐればいいといふ考へであるが、名文々々と声を高うせられる向きへ、果して名文とは如何なるものかと伺ひたいのである。",
+              "citation": {
+                "source": "文章その他",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
       }
     }
   }

@@ -322,11 +322,86 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:18:51.929741+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7121,
       "frequencies": {
         "aozora": 2055
+      },
+      "variant_writings": [
+        "タカラ",
+        "寶"
+      ]
+    }
+  },
+  {
+    "uuid": "f80e4c7f-68d5-5be8-b2ae-5b3c83f50f87",
+    "entry": "宝人",
+    "reading": {
+      "primary": "たから",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この「ゲダイ」というは馬喰町の郡代屋敷へ訴訟に上る地方人の告訴状の代書もすれば相談｜対手にもなる、走り使いもすれば下駄も洗う、逗留客の屋外囲の用事は何でも引受ける重宝人であった。",
+              "citation": {
+                "source": "淡島椿岳",
+                "author": "――過渡期の文化が産出した画界のハイブリッド――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人間の大事な礎をかいています、それらのいろいろの逸話を対比して、即効散的人物、重宝人物、何かにつけて「あの男を出せ」的人物が必ずしも人物の優秀を語らないことを書きたかったのです。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四四年（昭和十九年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "寶人"
+      ]
     }
   }
 ]

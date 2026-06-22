@@ -445,10 +445,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T11:41:34.920252+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 580
-      }
+      },
+      "variant_writings": [
+        "ぎんちゃく",
+        "キンチャク"
+      ]
     }
   },
   {
@@ -775,6 +779,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 19
+      }
+    }
+  },
+  {
+    "uuid": "f2e37db8-b5c9-5d6f-9dc5-ee4a360cf0ad",
+    "entry": "緊着",
+    "reading": {
+      "primary": "きんちゃく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "五　さあ、その、ふわふわと縦に動く白いものが、次第｜低に、耐力なく根を抜いて、すっと掻巻の上へ倒れたらしい心地がすると、ひしひしと重量が掛って、うむ、と圧された同然に、息苦しくなったので、急いで、刎退けに懸ると、胸に抱合わせている手が直ぐに解けず、緊着けられているような。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既に漁師の手に生命を握られて居る蛸は力を極めて壺の内側に緊着すれば什入したやうに拗切るまでも離れない。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この店にも店自身に緊着いてるこの蝶番いのように錆びた鉄っ片れは他にありゃしねえよ、本当にさ。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四天王が身にまとうのは恐らく獣皮によって作られたらしい武具であって、干せる皮の堅さ、体に合わせて作るための力強い撓げ方、その皮を固く緊着せる帯の織物としての柔らかさなどが、実に細かく表現せられている。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "両翼は飾釘で壁へ確りと止められてあるし、踏ひらいた脚も真鍮の環で堅く緊着けられている。",
+              "citation": {
+                "source": "廃灯台の怪鳥",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

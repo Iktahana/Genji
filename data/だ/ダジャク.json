@@ -280,6 +280,22 @@
                 "author": "阿部次郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "行きづまった、けれどもその理由は、申し上げません等と、なんという思わせ振りな懦弱な言いかたをするのだろう。",
+              "citation": {
+                "source": "風の便り",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分が人一倍、非力の懦弱者であるせいかも知れない。",
+              "citation": {
+                "source": "佳日",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -352,10 +368,85 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:46:05.600302+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 53
+      },
+      "variant_writings": [
+        "だ弱",
+        "懦弱"
+      ]
+    }
+  },
+  {
+    "uuid": "5a0323cd-d03b-582a-8803-1d8a24a80a7c",
+    "entry": "堕弱",
+    "reading": {
+      "primary": "だじゃく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "性来堕弱の彼ではあり、剣技にも勝れていない彼ではあったが、三カ月というもの秋山要介に従い義侠の精神を吹き込まれ、かつは新影流の教えを受けた。",
+              "citation": {
+                "source": "剣侠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "當時の困憊した經濟事情からただ利をもとめるやうなものもあつたらうし、齊昭が慨いたやうに士氣墮弱から安きにつく輩もあつたか知れぬ。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "墮弱"
+      ]
     }
   }
 ]

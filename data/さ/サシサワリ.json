@@ -316,10 +316,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:39:44.412719+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 43399,
       "frequencies": {
         "aozora": 30
+      },
+      "variant_writings": [
+        "差しさわり",
+        "差障り"
+      ]
+    }
+  },
+  {
+    "uuid": "d0e97af1-c547-52e6-bcf0-f54940bee4a9",
+    "entry": "サシサワリ",
+    "reading": {
+      "primary": "さしさわり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "全世界人ヘノ警告文　余スナワチ金博士は、今度ヒソカニ感ズルトコロアリテ、永年ニ亘ル秘密ノ一部ヲ告白スルト共ニ、之ニサシサワリアル向ニ対シ警告ヲ発スル次第ナリ。",
+              "citation": {
+                "source": "時限爆弾奇譚",
+                "author": "――金博士シリーズ・８――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殴ったとか殴らないとか、法にサシサワリのある点だけ一応詫びる必要があると思っているようだし、もっとも税務署は詫びたんじゃないと云ってるそうだが、どッちにしても戸のガラスを外したことなど問題にもしていないところを見ると、これが彼らの通常の心事であり処置であるように判断しなければならないようだ。",
+              "citation": {
+                "source": "安吾人生案内",
+                "author": "その一〔判官巷を往く〕",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

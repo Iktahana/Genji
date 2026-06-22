@@ -366,10 +366,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:32:35.219197+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 25882,
       "frequencies": {
         "aozora": 6487
+      },
+      "variant_writings": [
+        "呟やく"
+      ]
+    }
+  },
+  {
+    "uuid": "d7f8609c-4cf6-5970-9fdb-a18a63bfe852",
+    "entry": "ツブヤク",
+    "reading": {
+      "primary": "つぶやく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "たとえそれが誤りにした所で今日そう用うる事が長い間の習慣に成っているから、今更ら改めると不便だとツブヤク俗論的な人が無いでもない。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

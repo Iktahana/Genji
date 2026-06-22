@@ -967,10 +967,116 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 122
+      },
+      "variant_writings": [
+        "餘事"
+      ]
+    }
+  },
+  {
+    "uuid": "1dfa0056-f87f-53da-82b5-9ccaaf83e283",
+    "entry": "余字",
+    "reading": {
+      "primary": "よじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "長い物じゃないでしょう」「僅々六十余字さ」と苦沙弥先生いよいよ手製の名文を読み始める。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "漢字の数からいえば、タッタ二十五字しかありませぬが、この二十五字が、『心経』全体の中心になっておるのでありまして、二百六十余字の『心経』は、結局、この最初の二十五字をば、あるいは縦に、あるいは横に、内から外から、いろいろな方面から、説明したものにほかならぬのであります。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "書簡に曰く「王道焜書幅御手に入りたる由、字数も五十余字ありとの事、値も随分｜貴く定めて名幅の事と想像致候。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "出師の表一千余字、かりそめにも恨みがましい辞句などはない。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "願文四百余字の漢文体のそれは、かねて命をうけた引田妙源がしたためておいた物。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "新田帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那古詩の結尾には一句十餘字の長句あるを見るべし。",
+              "citation": {
+                "source": "字餘りの和歌俳句",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "餘字"
+      ]
     }
   }
 ]

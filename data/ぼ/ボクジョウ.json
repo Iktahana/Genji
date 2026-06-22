@@ -366,11 +366,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T23:05:01.043278+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 9305,
       "frequencies": {
         "aozora": 1077
-      }
+      },
+      "variant_writings": [
+        "まきば"
+      ]
     }
   },
   {
@@ -748,6 +751,114 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "1fdeb217-a2bc-5afc-9533-8af8ec76e7dd",
+    "entry": "墨縄",
+    "reading": {
+      "primary": "ぼくじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "嘉六はこゝで例のちっ／＼／＼という笑いを笑いまして、「どちらも我儘もの同志だから、これ以上、はたから墨縄をひいても無理でしょう。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "解決や完成は、人間が局部の限界で墨縄を張るのでもございましょう。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一羽の鶉が、苜蓿畑をすれすれに掠めながら、墨縄を張ったような直線を描いて飛んで行く。",
+              "citation": {
+                "source": "博物誌",
+                "author": "HISTOIRES NATURELLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かにかくに物は思はずヒダたくみ打つ墨縄のただ一筋に",
+              "citation": {
+                "source": "安吾の新日本地理",
+                "author": "飛騨・高山の抹殺――中部の巻――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……いつか宿直の折、光秀どの御自身のおことばでは、大内城、里見城などの天守の写し図も、角倉なにがしの墨縄の秘書なども、すべて、お手許に御秘蔵とか聞きました。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "要は天守閣の絵図、墨縄の資料など、そちの手もとにあるのか、ないのか」「実は、光秀の手もとに、少々ばかりはござりますが、それをもって足るほどには……」「あらばよし。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その地盤の上に十二｜間四面の伽藍の礎が、さながら地軸のように置かれた、堂塔内陣の墨縄は張りめぐらされ、やがて檜の太柱と、巨大な棟木と、荘重な梁も組まれた。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 14
+      }
     }
   }
 ]

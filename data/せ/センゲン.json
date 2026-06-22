@@ -1212,6 +1212,30 @@
                 "author": "中島敦",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "丁度夏の夜が早くも東明にならうとする頃、熱の爲に浮されて囈言を云ひながらも、うと／＼と眠つてゐたＹ子は、突然はつきり眼をあいて床の上に起き上つた。",
+              "citation": {
+                "source": "實驗室",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――どうぞ愚人の囈言も偶にはよいとして、私の語る所を聴いて貰ひたい。",
+              "citation": {
+                "source": "詩に関する話",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『然うね水野君、これも前以て注意して置きたい事だが、手術を受ける患者はコロロホルムの麻醉期に這入ると、大概の場合歌を唄ひ出したり、囈言を云つたりするものだ。",
+              "citation": {
+                "source": "疑惑",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1240,9 +1264,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 189
+      },
+      "variant_writings": [
+        "囈言"
+      ]
+    }
+  },
+  {
+    "uuid": "cd9e3a9a-6b53-55cc-8a8f-537d5686fe54",
+    "entry": "センゲン",
+    "reading": {
+      "primary": "せんげん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そしてフジはアイヌ語の火を意味する語であるそうだから、アイヌ語の富士は山の名となり、馬来語の浅間は神社の名となって、センゲンと音読され、茲に富士浅間大明神なる熟字が出来上ったものであろう。",
+              "citation": {
+                "source": "望岳都東京",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其のアサマに浅間の二字が当てられ、いつしかセンゲンと音読されて、ここに富士浅間大明神又は大菩薩となったものである。",
+              "citation": {
+                "source": "二、三の山名について",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "富士見峠には必ず浅間神社のお宮があるとは限らないけれども、センゲン峠には必ずお宮があるのである。",
+              "citation": {
+                "source": "二、三の山名について",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

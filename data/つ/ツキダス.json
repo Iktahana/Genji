@@ -353,10 +353,77 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-03T04:49:35.837674+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 44435,
       "frequencies": {
         "aozora": 1677
+      },
+      "variant_writings": [
+        "つきだせる",
+        "つき出す",
+        "つつき出す",
+        "突きだす",
+        "突き出せる"
+      ]
+    }
+  },
+  {
+    "uuid": "581d34a5-3f42-5b44-a26e-1580f910c3ef",
+    "entry": "付き出す",
+    "reading": {
+      "primary": "つきだす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こういう感じも震災とともに失われてしまったが、しかし、丹緑堂の前に立って二十年前を考えている中にやはり、三十間堀は三十堀らしい感じが出ているのに気付き出す、土地の色というものは不思議なものである。",
+              "citation": {
+                "source": "新古細句銀座通",
+                "author": "岸田劉生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

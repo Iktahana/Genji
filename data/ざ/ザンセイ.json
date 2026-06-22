@@ -111,6 +111,14 @@
                 "author": "モオパッサン",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "いかんぞ殘生を新たにするも冬の蕭條たる墓石の下に汝はその認識をも無用とせむ。",
+              "citation": {
+                "source": "氷島",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -136,10 +144,67 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:29:43.987063+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 8
+      },
+      "variant_writings": [
+        "殘生"
+      ]
+    }
+  },
+  {
+    "uuid": "b29fd626-2ec4-5733-bd2c-1a53ceae646a",
+    "entry": "残成",
+    "reading": {
+      "primary": "ざんせい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "殘成"
+      ]
     }
   }
 ]

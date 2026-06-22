@@ -202,6 +202,30 @@
                 "author": "THE MASTER CRIMINAL",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "全身打撲と足首のねん挫です。",
+              "citation": {
+                "source": "王冠の重み",
+                "author": "The Weight of the Crown",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "足首のねん挫だよ、とマクスグラジャ大将があっさり言って、「話すほどのことじゃない。",
+              "citation": {
+                "source": "王冠の重み",
+                "author": "The Weight of the Crown",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上、足首のねん挫を説明する必要があり、ご両親の不信は避けられません」　バーニ先生が感心して口ごもった。",
+              "citation": {
+                "source": "王冠の重み",
+                "author": "The Weight of the Crown",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -224,10 +248,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:24:03.370429+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 27433,
       "frequencies": {
         "aozora": 18
+      },
+      "variant_writings": [
+        "ねん挫"
+      ]
+    }
+  },
+  {
+    "uuid": "44506e29-2368-5d6c-9ebf-242d4af309db",
+    "entry": "ネンザ",
+    "reading": {
+      "primary": "ねんざ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかしあんたの場合は、やはり腰を打って、その部分がネンザしたり、よじれて炎症を起したんでしょうな。",
+              "citation": {
+                "source": "狂い凧",
+                "author": "梅崎春生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

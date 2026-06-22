@@ -365,5 +365,65 @@
       "updated_at": "2026-06-04T13:35:18.325499+00:00Z",
       "freq_rank": 6127
     }
+  },
+  {
+    "uuid": "db7f1e3f-04d6-5190-ac40-b733806b034e",
+    "entry": "ナンラ",
+    "reading": {
+      "primary": "なんら",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "七月十一日（火曜）〔発信〕第六十二信〔受信〕電報　フツカトモ　ナンラ　メンカイヲコトワツテイルニアラズ　ネンノタメニ」アサ九ジハン　ケンジ　白いきちんとした背広、紳士、そり跡蒼きやせ面。",
+              "citation": {
+                "source": "日記",
+                "author": "一九三九年（昭和十四年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

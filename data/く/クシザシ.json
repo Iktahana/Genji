@@ -357,10 +357,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:32:05.879935+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 44159,
       "frequencies": {
         "aozora": 32
+      },
+      "variant_writings": [
+        "串刺"
+      ]
+    }
+  },
+  {
+    "uuid": "c22dbcf9-d924-56d0-9215-ef46cbbe4125",
+    "entry": "クシザシ",
+    "reading": {
+      "primary": "くしざし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それは結局は、清水が自分の主体をさらけ出し、その主体を根こそぎクシザシにした形で、自分は具体的にこのように抵抗するのだといった形で論をおしだしていないからだと思います。",
+              "citation": {
+                "source": "抵抗のよりどころ",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分を人なかにさらし、クシザシにするのは、だれにしても痛い。",
+              "citation": {
+                "source": "抵抗のよりどころ",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから、自分だけの考えを語りひろげてみるのですが、それにはまず、よかれあしかれ、自分をタナの上から引きずりおろし、人なかにさらし、クシザシにし――一言にいって、自分がまず少しばかり痛い思をしてみることが第一歩だと思ったのです。",
+              "citation": {
+                "source": "抵抗のよりどころ",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

@@ -326,11 +326,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T06:47:20.237658+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 40263,
       "frequencies": {
         "aozora": 10387
-      }
+      },
+      "variant_writings": [
+        "関す",
+        "關す",
+        "關する"
+      ]
     }
   },
   {
@@ -1766,6 +1771,66 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 40263
+    }
+  },
+  {
+    "uuid": "af0e932e-c623-5b4b-a166-0b14a45800c7",
+    "entry": "箝する",
+    "reading": {
+      "primary": "かんする",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "サ行変格",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "人がわが口を箝するからである。",
+              "citation": {
+                "source": "野分",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
     }
   }
 ]

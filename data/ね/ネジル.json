@@ -365,5 +365,76 @@
         "aozora": 112
       }
     }
+  },
+  {
+    "uuid": "84ab04c1-d73a-5667-b5d5-4dcb9819700f",
+    "entry": "捩じる",
+    "reading": {
+      "primary": "ねじる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "上一段-ザ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その海の部分は、単に光るばかりでなく、光りつつ針金を捩じるように動いているのが分る。",
+              "citation": {
+                "source": "母を恋うる記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "使った針の数、捩じる方向（右か左か）、差し込む深さ（ふつう３−３．５cm）、引き抜くまでの時間は、その個人の性質、その病気の重さ、またはその病気についての中国の理論によって決まっている。",
+              "citation": {
+                "source": "医学の歴史",
+                "author": "History of Medicine",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "拗じる"
+      ]
+    }
   }
 ]

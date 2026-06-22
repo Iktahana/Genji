@@ -271,6 +271,30 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "途中の出っぱりにでもひっかかればいいが、そういう僥倖は千中の一例で、この中へ落ちこんだ人間で、曳きだされたということはまだない。",
+              "citation": {
+                "source": "白雪姫",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "智海は岩の出っぱりに力なくしがみつきながら、これでもう万事休したと、心をきめて臨終の願をたてた。",
+              "citation": {
+                "source": "新西遊記",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "円屋根のような形をした物淋しい岳の出っぱりを縫って行くと、とある木立の下に古い、くちはてたような一脚のベンチがあった。",
+              "citation": {
+                "source": "青玉の十字架",
+                "author": "THE BLUE CROSS",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -295,10 +319,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T10:28:15.753970+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 44946,
       "frequencies": {
         "aozora": 14
+      },
+      "variant_writings": [
+        "出っぱり"
+      ]
+    }
+  },
+  {
+    "uuid": "f6262d06-053b-53fd-adcd-e3a09a1def5b",
+    "entry": "デッパリ",
+    "reading": {
+      "primary": "でっぱり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "全体の構成の上に不必要な、どんなネジも持っていないし、あまったどんな偶然のデッパリもない。",
+              "citation": {
+                "source": "ソヴェトの芝居",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

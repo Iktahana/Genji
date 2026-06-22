@@ -317,10 +317,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:42:18.081440+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 27093,
       "frequencies": {
         "aozora": 146
+      },
+      "variant_writings": [
+        "目論み"
+      ]
+    }
+  },
+  {
+    "uuid": "17b52ebf-0443-5419-9e81-133e853fdd83",
+    "entry": "モクロミ",
+    "reading": {
+      "primary": "もくろみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "せっかくのモクロミが駄目になる。",
+              "citation": {
+                "source": "剣侠受難",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とは云へ肝心のみごとな女と、二人の青年が、生動してゐるから、作者のモクロミは半分以上果され、そのモクロミが甚だ興味深い。",
+              "citation": {
+                "source": "二つの戯曲時代",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ゆくゆく大旅館をたてて、儲けながら温泉気分にひたろうというモクロミであるから、当座のしのぎに小さな別荘をつくった。",
+              "citation": {
+                "source": "水鳥亭",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

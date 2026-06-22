@@ -361,9 +361,105 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:35:19.802330+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 201
+      },
+      "variant_writings": [
+        "眷屬",
+        "眷族"
+      ]
+    }
+  },
+  {
+    "uuid": "d8ad4cac-b030-50e0-916d-481f26623525",
+    "entry": "ケンゾク",
+    "reading": {
+      "primary": "けんぞく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "上京の神様一行も、総理大臣、内務大臣、ミコ、総勢五名であり、現在では、それが神様ケンゾクの全部の由、落ちぶれ果てたものらしい。",
+              "citation": {
+                "source": "呉清源",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "うっちゃって置くと、神さまも神さまのゴケンゾクもおっ死んでしまいますからねえ！",
+              "citation": {
+                "source": "その人を知らず",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だいたい田舎の湯治客は二人づれ三人づれなどというのは殆どなく、一家ケンゾク引越し遊山という奴だ。",
+              "citation": {
+                "source": "不連続殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の親類に当る地主たちは、一家ケンゾク各々私田を開墾し、肥タゴかついで勇敢にやっているという時節柄だが、彼だけは一｜段歩の私田も残さず、それというのが、彼はひところ何々会社取締役というようなことを三つばかり兼ねていたようなこともあるから、実業界でなんとかなろうと見込んでいたせいもあった。",
+              "citation": {
+                "source": "淪落の青春",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家族共犯の流行　親子強盗、一家ケンゾク集団空巣、農村はもっと派手で、近在の百姓さんで、本妻から妾にも動員を発し、さらに娘の情夫も動員して、仲良く荒し廻っていたのもあった。",
+              "citation": {
+                "source": "ヤミ論語",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

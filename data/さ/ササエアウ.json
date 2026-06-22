@@ -55,7 +55,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "おびえたように信二を強く抱いて、二人は脚でたがいに支えあうようにしていた。",
+              "citation": {
+                "source": "その一年",
+                "author": "山川方夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼らはもうたがいにささえ合うことができなかった。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -74,10 +91,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:38:16.763929+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 7
-      }
+      },
+      "variant_writings": [
+        "ささえ合う",
+        "支えあう"
+      ]
     }
   }
 ]

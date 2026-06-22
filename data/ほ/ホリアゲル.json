@@ -71,6 +71,22 @@
                 "author": "宮本百合子",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "もしここに、彫りあげるまで人に見られたくないという絶対境の作阿弥の芸術心に、些少の尊敬しかはらわない人があって、今この小屋をすき間から、ソッとのぞいたとしたら……。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "日光の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無言といえば、彼はまた、黙々として余暇に刀をとって彫った弥陀像と、普賢像の二体とを、彫りあげると、それを、無動寺に住んでいた自身のかたみとして残して、間もなく、東山の聖光院へと身を移した。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -142,9 +158,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:24:00.055581+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 23
+      },
+      "variant_writings": [
+        "彫りあげる"
+      ]
+    }
+  },
+  {
+    "uuid": "10931b95-288d-5b7b-9f32-30d995a53ab9",
+    "entry": "掘り上げる",
+    "reading": {
+      "primary": "ほりあげる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ガ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "役員は、それをも掘り上げることを命じた。",
+              "citation": {
+                "source": "土鼠と落盤",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後別に手入れもせず、冬が来ても掘り上げるだけの世話もせずに、打ち棄ててあるが、それでも春が来ると、忘れずに芽を出して、まだ雑草も生え出ぬ黒い土の上にあざやかな緑色の焔を燃え立たせる。",
+              "citation": {
+                "source": "柿の種",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼らの疲れた身体では、温かみを感ずるほど掘り上げることも出来なかったのだ。",
+              "citation": {
+                "source": "石狩川",
+                "author": "本庄陸男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "＊233　コペルニクスが、われわれの恆星と、われわれの遊星との間にひらいた溝を、より深く掘り上げること、これが近代人類史であるとすれば、進歩主義者はすべからく、かく語らねばならぬ。",
+              "citation": {
+                "source": "二十歳のエチュード",
+                "author": "原口統三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたくし共は例の小刀で土を掘り上げる。",
+              "citation": {
+                "source": "樺太脱獄記",
+                "author": "コロレンコ　Vladimir Galaktionovick Korolenko",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 34
       }
     }
   }

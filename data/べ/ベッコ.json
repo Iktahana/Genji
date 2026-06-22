@@ -321,11 +321,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T20:55:11.169629+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14436,
       "frequencies": {
         "aozora": 356
-      }
+      },
+      "variant_writings": [
+        "別箇"
+      ]
     }
   },
   {
@@ -652,6 +655,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 7
+      }
+    }
+  },
+  {
+    "uuid": "00be2fa9-99fe-5acc-8eea-b70899e1c5d6",
+    "entry": "ベッコ",
+    "reading": {
+      "primary": "べっこ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十五年ぶりじゃないのよー」　むこう側の通路には、ベッコウ縁の眼鏡をかけ、明るいグレイのスーツに、淡いブルーのタイを締めた男がとりのこされている。",
+              "citation": {
+                "source": "45回転の夏",
+                "author": "第３章　フルサークル、１９９１年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ベッコウバチの標本写真は五枚も撮つた。",
+              "citation": {
+                "source": "ベツコウ蜂",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と倉市は、僕の頭上の壁に懸つた標本箱に、ベッコウバチを指さした。",
+              "citation": {
+                "source": "ベツコウ蜂",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「俺がベッコウにやられたのは、この辺だつたよ。",
+              "citation": {
+                "source": "ベツコウ蜂",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白髪の小さいマゲ、大きいベッコウの老眼鏡をかけて、五十年もの昔のことを思いだし思いだし、自分のことはともかく、徳川家のこと、いまはなき戦友たちのことを、せっせとつづっているのでした。",
+              "citation": {
+                "source": "幻術天魔太郎",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

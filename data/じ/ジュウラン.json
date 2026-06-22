@@ -281,6 +281,22 @@
                 "author": "永井荷風",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "さても、私が櫻木海軍大佐と武村兵曹の案内に從つて、海底戰鬪艇の縱覽を終つて後、再び艇外に出でたのは、かれこれ二時間程後であつた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから宗助の淋しみは單なる散歩か觀工場縱覽位な所で、次の日曜迄は何うか斯うか慰藉されるのである。",
+              "citation": {
+                "source": "門",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -305,9 +321,143 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:08:37.119152+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 37
+      },
+      "variant_writings": [
+        "縱覽"
+      ]
+    }
+  },
+  {
+    "uuid": "092ee18f-d4f8-563d-b246-2d78fded422d",
+    "entry": "獣欄",
+    "reading": {
+      "primary": "じゅうらん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "之に反してトロイアの軍は豐かの村人の獸欄の中、數知れぬ牝羊――乳を搾られて、立つ時兒らの聲を聞き、絶えずも叫び鳴く如し。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "譬へば山の頂に繁る叢林奧深く、母獸によりて養はれ長ぜし荒き獅子二頭、　555牧牛並に肉肥えし群羊屠り餌食とし、獸欄いたく荒らす後遂に主人の手にかゝり、其青銅の鋭刄に撃たれて斃れ伏す如し、二人正しく斯の如、アイナイアースの手によりて、打たれて伏して、おほいなる樅の倒れを見る如し。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "獸欄"
+      ]
+    }
+  },
+  {
+    "uuid": "a4e08520-7d03-50f6-b421-86676207b580",
+    "entry": "縦欄",
+    "reading": {
+      "primary": "じゅうらん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "法文は壁石の合せ目にかかわらず彫刻してあって、全部を十二の縦欄に分ち、各欄毎に五十三乃至五十五行を刻し、各行毎に二十字乃至二十五字があって、文字には赤色の色彩を入れて明白に読めるようにしてある。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

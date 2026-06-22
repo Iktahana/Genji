@@ -136,6 +136,54 @@
                 "author": "泉鏡花",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "やがて、十枚ばかり書きちらすと、後は鉛筆を投げ出して溜息をついた。",
+              "citation": {
+                "source": "潮風",
+                "author": "――「小悪魔の記録」――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "反故以下のものをも書きちらすからである。",
+              "citation": {
+                "source": "情意の干満",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文学者友――おれをダシに使っていろんなことを書きちらすのは、もういいかげんにしないか。",
+              "citation": {
+                "source": "ぶどう畑のぶどう作り",
+                "author": "LE VIGNERON DANS SA VIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "原稿紙を五千八百九枚あてがうと、その五千八百九枚目まで書きちらすだろう。",
+              "citation": {
+                "source": "恐怖の季節",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "悪い事は言わないから、そんな物を書きちらす事なぞよして、何でもいい、どんな小さな仕事でもいいから、もっと有用な仕事を捜すんだな。",
+              "citation": {
+                "source": "好日",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真面目ではあるがしかし無選択な思想のおもむくがままに、ごたごたと饒多に書きちらす癖のある、彼の生来の傾向は、なるべくわずかな時間になるべく多く仕上げるのを余儀なくされることに、その矯正物を見出した。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN CHRISTOPHE",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -158,10 +206,77 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:37:18.576538+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 83
+      },
+      "variant_writings": [
+        "書きちらす",
+        "書散らす"
+      ]
+    }
+  },
+  {
+    "uuid": "452029c2-6cbc-5279-bc9e-051cf2ba158c",
+    "entry": "掻き散らす",
+    "reading": {
+      "primary": "かきちらす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "だから山見鬼が出て山割りの儀式をし、また柴燈の火を掻き散らす所作をする事にもなるのでせう。",
+              "citation": {
+                "source": "山の霜月舞",
+                "author": "――花祭り解説――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 22
+      },
+      "variant_writings": [
+        "かき散らす"
+      ]
     }
   }
 ]

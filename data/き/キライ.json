@@ -733,11 +733,17 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2427,
       "frequencies": {
         "aozora": 3005
-      }
+      },
+      "variant_writings": [
+        "キラい",
+        "キライ",
+        "ギライ",
+        "嫌ひ"
+      ]
     }
   },
   {
@@ -1070,6 +1076,133 @@
       "frequencies": {
         "aozora": 144
       }
+    }
+  },
+  {
+    "uuid": "75dd0d5d-0aa8-5d8e-8535-09519b0b64b3",
+    "entry": "歸来",
+    "reading": {
+      "primary": "きらい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "義雄は歸來早々また一つの考へが出來なかつた。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "斷橋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "谷の百合は一名を君影草とも言つて、「幸福の歸來」を意味するなどと、花好きなＢ君が話した。",
+              "citation": {
+                "source": "烏帽子山麓の牧場",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "九月二日午後五時頃、當時燒跡ニ歸來シ、境内ニ掘立小屋ヲ作ツテヰタガ、南方カラ大判罫紙ノ燒焦ゲタ片ガ數多落チテ來タ。",
+              "citation": {
+                "source": "寺田先生と僕",
+                "author": "海野十三（佐野昌一）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「三田の文人中近く海外より歸來せしもの文明を一覽して甚しく余が藝術家としての態度の不眞面目なるを攻撃したりと聞く」といふ一事より出發して先生の「文明一周年の辭」は起草せられしものなりとぞ。",
+              "citation": {
+                "source": "貝殼追放",
+                "author": "「文明一周年の辭」を讀みて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三田の文人中近く海外より歸來せしものとは余の事なりと聞く。",
+              "citation": {
+                "source": "貝殼追放",
+                "author": "「文明一周年の辭」を讀みて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大師も三四月の交に、越州附近まで歸來せらるるには、二月中旬後くもその二十日頃までに、長安を出發する必要がある。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アンドレイ、エヒミチは歸來早々先づ其住居を尋ねねばならぬ。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "良人の東京より歸來るを待つらしく見ゆるもあり。",
+              "citation": {
+                "source": "荷風戰後日歴　第一",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "香港でそのニユースを知つたプーチヤチンはペルリの歸來を待たずに、長崎へむかつたわけであつた。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 14
+      },
+      "variant_writings": [
+        "歸來"
+      ]
     }
   }
 ]

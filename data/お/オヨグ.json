@@ -448,10 +448,91 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:24:02.310139+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 12652,
       "frequencies": {
         "aozora": 3225
+      },
+      "variant_writings": [
+        "およげる",
+        "泳げる",
+        "游ぐ"
+      ]
+    }
+  },
+  {
+    "uuid": "2fdfdca6-e497-517d-b969-8a0f82740dd5",
+    "entry": "オヨグ",
+    "reading": {
+      "primary": "およぐ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ソレカラ、アソコニハ、サカナ　ト　イウ　キレイナ　オヨグ　モノ　ガ　イテ、ソレハ、ソレハ、オモシロイ　トコロダ　ト　タカ　ハ、ヤマキチ　ヘ　オシエマシタ。",
+              "citation": {
+                "source": "山のコドモ",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ボタンの図シャクヤク　和名として今日わが邦では、芍薬をシャクヤクと字音で呼んでいることは、だれもが知っているとおりであるが、しかし昔はこれをエビスグサ、あるいはエビスグスリと称え、古歌ではカオヨグサといった。",
+              "citation": {
+                "source": "植物知識",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "カオヨグサは顔美草で、花が美麗だから、そういったものであろう。",
+              "citation": {
+                "source": "植物知識",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

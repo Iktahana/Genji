@@ -319,10 +319,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:15:09.572457+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 1807
-      }
+      },
+      "variant_writings": [
+        "白くも"
+      ]
     }
   },
   {
@@ -512,6 +515,82 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 7
+      }
+    }
+  },
+  {
+    "uuid": "375afa46-3b44-540b-bff5-f964b87497e4",
+    "entry": "シラクモ",
+    "reading": {
+      "primary": "しらくも",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "倉の木槌型の頭は虎斑で、シラクモが蔓つてゐた。",
+              "citation": {
+                "source": "創作生活にて",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「目マルの奴、もうせんには床場賃を呉れたのに、この頃はケチになりやがつて……」「シラクモさへなければ、俺ンちで剃つてやるつて云つてるぞ。",
+              "citation": {
+                "source": "創作生活にて",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子供のシラクモとかタイワン坊主（ハゲ）とか、そういう皮膚の病気は扱っているが、リン病、バイ毒の治療はこの診療所ではやってないと言う。",
+              "citation": {
+                "source": "いやな感じ",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

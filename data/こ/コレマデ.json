@@ -364,5 +364,73 @@
       "updated_at": "2026-06-02T14:55:50.338370+00:00Z",
       "freq_rank": 16289
     }
+  },
+  {
+    "uuid": "8c6299a9-cc5c-5b82-81d4-48edbd851ec5",
+    "entry": "コレマデ",
+    "reading": {
+      "primary": "これまで",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼女ハコレマデ決シテ必要以外ノ部分ヲ見タリ触レタリシタハ今モナオ疑問ダ。",
+              "citation": {
+                "source": "鍵",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソシテアナタガ“存在者”トシテ目覚メタ今、コレマデアナタノ意識ニ投影シタ架空ノ世界ハ幕ヲ閉ジタノダ」　あなたは何かしら名状し難い虚無感に苛まれる。",
+              "citation": {
+                "source": "人生は擬似体験ゲーム",
+                "author": "太田健一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

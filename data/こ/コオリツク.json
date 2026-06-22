@@ -373,5 +373,81 @@
         "aozora": 376
       }
     }
+  },
+  {
+    "uuid": "596578e5-ac52-5bf8-b06e-453216be3be0",
+    "entry": "凍り付く",
+    "reading": {
+      "primary": "こおりつく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "折角暖かになつた二人の身体はまた凍り付くかと思はれた。",
+              "citation": {
+                "source": "二黒の巳",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう一度、宗匠の家へ行ってその後の模様を見とどけて来ようと思って、半七もつづいて表へ出ると、風のない夜ではあるが凍り付くような寒さが身にしみた。",
+              "citation": {
+                "source": "半七捕物帳",
+                "author": "冬の金魚",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "常識的な範囲の温度には驚くほど見事に耐え、凍り付く水中でもそのままの状態で生きることができた。",
+              "citation": {
+                "source": "狂気の山脈にて",
+                "author": "H. P. ラヴクラフト　H.P.Lovecraft",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 39
+      }
+    }
   }
 ]

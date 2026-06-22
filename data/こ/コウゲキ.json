@@ -281,6 +281,14 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "私は今朝の新聞に、カラフトの郵便局の九人の女事務員が、ソビエト軍の攻げきに電信事務を死守し、いよいよ砲弾が四辺に落下しはじめたとき、つぎつぎに服毒しておのおのの部署に倒れていったという帰還者の報告を読んだ。",
+              "citation": {
+                "source": "二合五勺に関する愛国的考察",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -394,11 +402,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:05:59.481363+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1064,
       "frequencies": {
         "aozora": 2561
-      }
+      },
+      "variant_writings": [
+        "攻げき"
+      ]
     }
   },
   {
@@ -491,6 +502,66 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "150a765a-926c-50fe-a410-7fd94230e157",
+    "entry": "交戟",
+    "reading": {
+      "primary": "こうげき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "交戟三十余合、曹洪はかなわじとばかり引きしりぞく。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
     }
   }
 ]

@@ -82,10 +82,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T11:55:49.400832+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "僞言"
+      ]
     }
   },
   {
@@ -327,6 +330,38 @@
                 "author": "幽霊水",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "で、客が問うて曰、「それを家まで持つて來たの、」　女房が答へて、「串戲言つちや可けません。",
+              "citation": {
+                "source": "廓そだち",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "姫は譯もなき戲言をも、面白くいひ出でゝ、我をも人をも興ぜさせ居たりしが、俄にこゝろ付きたるやうに※を見て、はや化粧すべき時こそ來ぬれ、今宵は樂劇の本讀のうちなる役に中り居ればとて座を起ち、側なる小房のうちに入りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人々よ、我詞は戲言にあらず、人々は再び其品を得給ふまじといふに、滿座の客は、さもあらばあれ君が奇術こそ見まほしけれと、金銀、指環、鎖の類を堆く卓上に積みたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "市長とロオザとは戲言まじりに我無情を譴め、おとなしきマリアは局外に立ちて主客の爭をまもり居たり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -353,10 +388,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14281,
       "frequencies": {
         "aozora": 129
+      },
+      "variant_writings": [
+        "ざれ言",
+        "戲言"
+      ]
+    }
+  },
+  {
+    "uuid": "0ff166a5-e30f-5a8a-92ff-13709b234176",
+    "entry": "議言",
+    "reading": {
+      "primary": "ぎげん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "顧みれば、わが見証の意識の、超絶｜駭絶にして幽玄深奥なる、到底思議言説の以て加ふべきものなからむとす。",
+              "citation": {
+                "source": "予が見神の実験",
+                "author": "綱島梁川",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

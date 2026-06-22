@@ -343,7 +343,32 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "孫徳謙は漢書藝文志擧例を作り、藝文志の作り方につき、その例を擧げて、特別に注意された點を明かにしてゐる。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孫徳謙が漢書藝文志擧例を書いたとき、王國維がその跋文を書き、まだ解決の出來ない問題を數條擧げてゐる。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "張爾田には史微の著があり、孫徳謙には諸子通考（未完）・漢書藝文志擧例・劉向校讐學纂微の著がある。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -364,7 +389,110 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "擧例"
+      ]
+    }
+  },
+  {
+    "uuid": "e5655c62-ba2c-5b89-8ba2-753e7de1a03c",
+    "entry": "虚霊",
+    "reading": {
+      "primary": "きょれい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "壁を前に坐禅して悟りを開くような、虚霊の沙汰ではないのである。",
+              "citation": {
+                "source": "一貫章義（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "着衣喫飯の主人公たる我は何物ぞと考え考えて煎じ詰めてくると、仕舞には、自分と世界との障壁がなくなって天地が一枚で出来た様な虚霊皎潔な心持になる。",
+              "citation": {
+                "source": "高浜虚子著『鶏頭』序",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "説き去り説き進む中斎の講義……「虚霊不昧、理具万事出、心外無理、心外無事」　ちょうどこの辺りまで来た時であった、夕陽が消えて宵となった。",
+              "citation": {
+                "source": "前記天満焼",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いわゆる本曲について、見よう見まねのたしなみは持っているというこの男が、「虚霊」を吹かず「虚空」を吹かず、好んで「鈴慕」を吹きたがるところから見れば、それは何か手ざわりがよくて、虫が好くといったような、共鳴するところのものがあればこそだろうと思われます。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "鈴慕の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「虚霊」は天上の音、「虚空」は空中の音、「鈴慕」に至ってはじめて人間の音であります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "鈴慕の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それ、「虚空」が天上の音であって「虚霊」が中有の音、「鈴慕」に至って、はじめて人間の音である――ということは前に述べたこともある。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "不破の関の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
     }
   }
 ]

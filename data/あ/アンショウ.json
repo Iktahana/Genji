@@ -323,6 +323,22 @@
                 "author": "DE VILDE SVANER",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "長塚が始めて先生に逢った時、長塚は先生の俳句及び歌の、自分が面白く感じた数十首をことごとく記臆していてこれを暗誦したのには、先生も一驚を喫したそうで、一体長塚は記臆のよい男であるが、先生を慕うこと深くなければ、決してそんなことが出来るものでない。",
+              "citation": {
+                "source": "正岡子規君",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又生徒達は、彼の修身の時間、吃度三つは引用される、カーライルかそれでなければスマイルスかの言葉を、暗誦してはその後に「さう、なくちや――さうなくちやならぬ」と喰ッ付けた。",
+              "citation": {
+                "source": "校長",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -346,11 +362,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T14:01:45.655593+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32697,
       "frequencies": {
         "aozora": 29
-      }
+      },
+      "variant_writings": [
+        "暗誦",
+        "諳誦"
+      ]
     }
   },
   {
@@ -956,6 +976,126 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 21805
+    }
+  },
+  {
+    "uuid": "56f9d25d-4084-569e-a3ee-4e28750ba4b7",
+    "entry": "アンショウ",
+    "reading": {
+      "primary": "あんしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「アンショウ、アンショウ――」　そう叫んで物見のものが戻って来た。",
+              "citation": {
+                "source": "石狩川",
+                "author": "本庄陸男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
+  },
+  {
+    "uuid": "e2f4426b-5a9c-5847-9d82-03c57cd19c94",
+    "entry": "鞍傷",
+    "reading": {
+      "primary": "あんしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "見給へ、その高く聳えた腰骨を、露はな肋骨を、無慙な鞍傷を。",
+              "citation": {
+                "source": "艸千里",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
     }
   }
 ]

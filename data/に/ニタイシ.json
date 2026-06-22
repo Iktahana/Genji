@@ -320,5 +320,65 @@
       "updated_at": "2026-06-04T13:42:46.636802+00:00Z",
       "freq_rank": 1395
     }
+  },
+  {
+    "uuid": "f4229593-eacf-5cf6-955c-86df83aa4890",
+    "entry": "ニタイシ",
+    "reading": {
+      "primary": "にたいし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "なにかといえば、それは諸国の武家地頭への“非常税”ともいえるもので、諸国ノ庄田ニタイシ歳入ノ二十分ノ一ヲ新ニ徴ス　と勅令されていたのである。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "建武らくがき帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

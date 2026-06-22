@@ -55,7 +55,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "昼めしどきの潮だまりで舟へあがって、やっと生き返ったようになった。",
+              "citation": {
+                "source": "江戸前の釣り",
+                "author": "三遊亭金馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「颶風がくる」　跳り狂って飛びまわっているうちに、彼は砂地の窪んだところへ足をふみ込んで、引き残った潮溜りのなかに横ざまに倒れた。",
+              "citation": {
+                "source": "半七捕物帳",
+                "author": "海坊主",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -77,7 +94,11 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:33:57.959579+00:00Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "潮だまり",
+        "潮溜り"
+      ]
     }
   }
 ]

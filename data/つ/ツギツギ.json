@@ -320,10 +320,115 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:11:06.396354+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3068,
       "frequencies": {
         "aozora": 1573
+      },
+      "variant_writings": [
+        "次ぎ次ぎ",
+        "次つぎ",
+        "次次"
+      ]
+    }
+  },
+  {
+    "uuid": "dc914858-d830-5f54-b5fa-1410d1a8533d",
+    "entry": "ツギツギ",
+    "reading": {
+      "primary": "つぎつぎ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ソレカラ　ツギツギニ　ツボミタチハ　上ノ　方カラ　下ノ　方ヘ　ヒライテ　イキマシタ。",
+              "citation": {
+                "source": "ウマヤノ　ソバノ　ナタネ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紀州有田郡のツギツギグサなどは杉菜であり、土佐でツギマツというものも杉菜を意味し、土筆はこれをツギノコといえば杉菜の方が前らしい。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "越後には草をツギナ、花茎をツギツギという土地があるのではなかろうか。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とにかくに特にツギナという語の発生しやすかった事情はあるので、仮に杉菜という方言が独立に始まったとしても、これもツギツギがツクシと連携したように、久しからずして二種の趣旨を混同することになったかと思う。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東北地方の土筆も太平洋側の半面には、前に引例した如く自分のいう第一第二の系統、即ちツクシとツギツギとの交錯に止まっているらしいが、他の半面の日本海側にはまたやや異様なる変化が認められる。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たとえば淡路の浦村では杉菜でなくツギナ、磐城の相馬ではツギグサ、紀州の有田郡ではツギツギグサ、その他ツギノコ・ツンギノコなどと、呼んでいる村は関東にも多い。",
+              "citation": {
+                "source": "野草雑記・野鳥雑記",
+                "author": "野草雑記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

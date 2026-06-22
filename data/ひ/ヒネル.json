@@ -579,11 +579,17 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:37:18.338746+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32626,
       "frequencies": {
         "aozora": 964
-      }
+      },
+      "variant_writings": [
+        "ひねれる",
+        "ヒネる",
+        "拈る",
+        "撚れる"
+      ]
     }
   },
   {
@@ -998,6 +1004,90 @@
       "freq_rank": 32626,
       "frequencies": {
         "aozora": 19
+      }
+    }
+  },
+  {
+    "uuid": "1575dcbe-c176-5137-b1a3-6d9097f2da57",
+    "entry": "ヒネル",
+    "reading": {
+      "primary": "ひねる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ビュヒネル著物質と精力、ドーソン著近代思想史、ゴーリキー短篇集。",
+              "citation": {
+                "source": "獄中消息",
+                "author": "大杉栄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フェヒネルは或朝ライプチヒのローゼンタールの腰掛に休らいながら、日｜麗に花｜薫り鳥歌い蝶舞う春の牧場を眺め、色もなく音もなき自然科学的な夜の見方に反して、ありの儘が真である昼の見方に耽ったと自らいっている。",
+              "citation": {
+                "source": "善の研究",
+                "author": "西田幾多郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私はフェヒネルのダス、レエベン、ナハ、トーデとプラトンのゲスプレヒ、ユーベル、ディ、リーベなどを今読んでいます。",
+              "citation": {
+                "source": "青春の息の痕",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "觀念と其聯合から一切の心的生活を説明しようとした英國の聯想派やヘルバルトの心理學もさうであり、フェヒネルから初まつた精神物理學もさうであつた。",
+              "citation": {
+                "source": "知的作用と感情と",
+                "author": "増田惟茂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

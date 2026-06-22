@@ -287,6 +287,14 @@
                 "author": "太宰治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "鰭一つ動かすときは、おそらく、水紋が一つ描かれ、水楊の葉が一枚散り、谷の中には大入道のような雲がぬうっと立ち昇って、私たちを包んで、白くしてしまうときであろう。",
+              "citation": {
+                "source": "白峰山脈縦断記",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -310,11 +318,109 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T02:01:35.403244+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 15823,
       "frequencies": {
         "aozora": 488
+      },
+      "variant_writings": [
+        "水楊"
+      ]
+    }
+  },
+  {
+    "uuid": "1d47940e-ceb3-5a61-8f97-caa4c95ab70c",
+    "entry": "潜流",
+    "reading": {
+      "primary": "せんりゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "自分は今此の詩全體を生ませるに至つた自分の此の潜流を此の序文であらはにしようと思ふ。",
+              "citation": {
+                "source": "太陽の子",
+                "author": "福士幸次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し宗教性も人の心の中を流るる潜流である。",
+              "citation": {
+                "source": "石を積む",
+                "author": "別所梅之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし社会でもそういうものが許されたら、この潜流も亦、或る程度日向に出るかも知れない。",
+              "citation": {
+                "source": "一九三七年を送る日本",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "塗桶ノ西麓利根川土中ヲ潜流スルコト壱里余、其中ニ岩竅一ヶ所アリ。",
+              "citation": {
+                "source": "利根川水源地の山々",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二葉亭氏の文壇に於ける行動の間歇的であつた如く、その感化影響も潛流的であつたが、新舊文學の交替遷移の傍にあつて、何物にも累はされることのなかつたのは洵に異色と云はねばならない。",
+              "citation": {
+                "source": "「あひびき」に就て",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "潛流"
+      ]
     }
   }
 ]

@@ -326,11 +326,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:14:44.897247+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7746,
       "frequencies": {
         "aozora": 1220
-      }
+      },
+      "variant_writings": [
+        "宏大"
+      ]
     }
   },
   {
@@ -1599,6 +1602,74 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "95bbf3e7-1800-5c3a-b028-60160c0b9e42",
+    "entry": "弘大",
+    "reading": {
+      "primary": "こうだい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "なんでも飛騨の方から出て来た人の話には、今度の水無神社の宮司さまのなさるものは、それは弘大な御説教で、この国の歴史のことや神さまのことを村の者に説いて聞かせるうちに、いつでもしまいには自分で泣いておしまいなさる。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――仏の弘大な慈悲というものが初めて身に沁みてわかった気がする。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

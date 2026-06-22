@@ -299,5 +299,81 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T02:24:55.506810+00:00Z"
     }
+  },
+  {
+    "uuid": "fdf69dc9-5edb-556e-bd7a-17bf56347a1f",
+    "entry": "折句",
+    "reading": {
+      "primary": "おりく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "では、短歌、俳句とはどう違ふかと云ふに、その最も大事だと思はれる点は、短歌・俳句よりも、度合的にではあるが、繰返し、あの折句だの畳句だのと呼ばれるものの容れられる余地が、殆んど質的と云つても好い程に詩の方には存してゐる。",
+              "citation": {
+                "source": "詩と其の伝統",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の諧謔詩、四句詩、題韻詩、折句詩、諷詩、歌謡詩、などは幾度も人々の口にのぼった。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は時折句を作りに奈良の森林へゆく。",
+              "citation": {
+                "source": "椎の実",
+                "author": "橋本多佳子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

@@ -611,6 +611,14 @@
                 "author": "幸田露伴",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "べんとうのあと、久助君は教だんのわきで日なたぼっこをしていた。",
+              "citation": {
+                "source": "川",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -639,11 +647,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 26151,
       "frequencies": {
         "aozora": 313
-      }
+      },
+      "variant_writings": [
+        "教だん"
+      ]
     }
   },
   {
@@ -729,6 +740,66 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "81a0b8ea-8713-5d2c-8a5e-f2ec572c809f",
+    "entry": "嬌談",
+    "reading": {
+      "primary": "きょうだん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "また外部に現れぬ秘密の事にしても、道徳上恥ずるに足らぬ秘密ならば、すなわち人には明せられぬが、己れが心に明し、あるいは天に明して恥ずべきことでない秘密ならば、暴露したところでこれまた一場の笑話となるか、愛嬌談となるにとどまり、これがために心を痛め、胸を苦しめ、人に顔見らるるを怖るるにあたらない。",
+              "citation": {
+                "source": "自警録",
+                "author": "新渡戸稲造",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

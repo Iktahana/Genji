@@ -265,6 +265,38 @@
                 "author": "室生犀星",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "菖蒲とセキショウ　日本にショウブ（Acorus Calamus L. var. asiaticus Pers.）とセキショウ（Acorus gramineus Soland.）との二つがある。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かく和名でショウブ、セキショウといえば、少しも紛らわしく混雑することもなく、極めて明々瞭々たりであるが、さてそこへ漢名が割りこんで来るとたちまち面倒が起こってきて、是非とも一言を費さねばすまん始末となる。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この菖蒲はセキショウそのものである。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "セキショウはサトイモ科で、それが本当の菖蒲である、すなわち菖蒲はセキショウである。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -286,10 +318,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T00:55:11.636109+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 35
-      }
+      },
+      "variant_writings": [
+        "セキショウ"
+      ]
     }
   },
   {
@@ -415,6 +450,474 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 5
+      }
+    }
+  },
+  {
+    "uuid": "3faa4c48-bae2-522b-b4a3-090f3cf8b923",
+    "entry": "夕照",
+    "reading": {
+      "primary": "せきしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "夕照丘々は、胸に手を当て退けり。",
+              "citation": {
+                "source": "山羊の歌",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その想像に動かされつつ夕照に向かって黄葉の中を歩けるだけ歩くことがどんなにおもしろかろう。",
+              "citation": {
+                "source": "武蔵野",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右側の林の頂は夕照｜鮮かにかがやいている。",
+              "citation": {
+                "source": "武蔵野",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今の何々八景といふのは、白石手簡に八景のはじめは宋人か元人かにて宋復古と申す畫工云々とあるが、それは夢溪筆談に出てゐる度支員外郎｜宋迪の事で、平沙落雁、遠浦歸帆、山中晴嵐、江天暮雪、洞庭秋月、瀟湘夜雨、煙寺晩鐘、漁村夕照、之を八景といつて得意の畫であつたといふのである。",
+              "citation": {
+                "source": "華嚴瀧",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕照りうららかな四囲の若葉をその水面に写し、湖心寂然として人世以外に別天地の意味を湛えている。",
+              "citation": {
+                "source": "春の潮",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "森の木葉のしげみは、闇を吐き出だす如くなれど、夕照は湖水に映じて纔にゆくてに迷はざらしむ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高低のある積雪の面に照り映えた夕照のように。",
+              "citation": {
+                "source": "星座",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金泥を空にながして彩つた眞夏のその壯麗なる夕照に對してこころゆくまで、銀鈴の聲を振りしぼつて唄ひつづけた獨唱の名手、天飛ぶ鳥も翼をとどめてその耳を傾けた、ああ、これがかの夕日の森に名高く、齢若き閨秀樂師のなれの果であらうとは！",
+              "citation": {
+                "source": "ちるちる・みちる",
+                "author": "山村暮鳥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "相模の海の夕焼け空も、太平洋の夕照とかわりありません。",
+              "citation": {
+                "source": "オリンポスの果実",
+                "author": "田中英光",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空は雲｜一片なく穏かに晴渡つて、紫深く黝んだ岩手山が、歴然と夕照の名残の中に浮んでゐる。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空は雲一片なく穩かに晴れ渡つて、紫深く黝んだ岩手山が、くつきり夕照の名殘の中に浮んでゐる。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空は僅かに夕照の名残をとどめてゐるだけで、光の淡い星影が三つ四つ数へられた。",
+              "citation": {
+                "source": "道",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうして何時も谷を隔てた圓い丘の上に、また圓るな明るい月が夕照の赤く殘った空を恰度花札の二十坊主のやうにのぼつたものである。",
+              "citation": {
+                "source": "思ひ出　抒情小曲集",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうして何時も谷を隔てた圓い丘の上に、また圓るな明るい月が夕照の赤く殘つた空を恰度花札の二十坊主のやうにのぼつたものである。",
+              "citation": {
+                "source": "思ひ出",
+                "author": "抒情小曲集",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕照が赤く水を染めて居た。",
+              "citation": {
+                "source": "朝",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而してその少年が高山の巓に沈み行く夕日の影を仰ぎ見て、山の彼方なるめづらしき國々にあくがるゝ段は、ことに全篇の骨子として皆な人の唱道するところ、あゝこの木曾山中、この駒ヶ嶽の絶巓に微かに消え行く夕照の光を望み見て、日夜都門に向ひて志を馳せつゝある少年なきや。",
+              "citation": {
+                "source": "秋の岐蘇路",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山巓なる夕照の光は次第に微かに、いつか全く消え失せて、終にはその尨大なる黒き姿を留むるのみになりぬ。",
+              "citation": {
+                "source": "秋の岐蘇路",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日光八景中第一の美と称せらるる山菅夕照。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "日光の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月堂のところにあるお百度ふむ竹ぎれ、夕照。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二五年（大正十四年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこに夕照を受けて涼みの群が円を造くっていた。",
+              "citation": {
+                "source": "十姉妹",
+                "author": "山本勝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北には筑波が朝紫に、西に富士はくれなゐの夕照にくつきりと白く、東南に安房上總は青黛のやうに、海となる空のはてに淡い。",
+              "citation": {
+                "source": "大川ばた",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "風はピッタリやんでしまって、陰欝な圧しつけられるような夏雲に、夕照の色の胸苦しい夕ぐれであった。",
+              "citation": {
+                "source": "駅夫日記",
+                "author": "白柳秀湖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　　蘇士運河砂原連両岸、送暑去来風、蘇士船将泊、関山夕照紅。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一帯峰巒繞碧湾、風収檣影落波間、濠西夕照何辺好、在此港頭雨後山。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天気清朗、風波穏静、海水油のごとく、夕照朱のごとし。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一湾曲水繞王宮、夕照※波橋幾弓、歩入公園多落葉、典都八月秋已風。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勁風吹海面、夕照射波頭、噴沫散為霧、虹霓随処浮。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 57
+      }
+    }
+  },
+  {
+    "uuid": "88ec0ca7-e248-591f-b937-644a6632a128",
+    "entry": "積小",
+    "reading": {
+      "primary": "せきしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "若松港｜汽船積小頭組合ちゅうもんを組織するというて、飛びまわっとるが、自分がその組合長になって、港の仕事を自由勝手にしようと企らんどる。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「若松港汽船積小頭組合」の発会式まで、どうにか漕ぎつけることが出来たのである。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若松港汽船積小頭組合長として、港湾石炭荷役の元締となり、働く者の代表という意味で、市会に押されて、当選した。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聯合組の隣りに、「若松港汽船積小頭組合」の事務所がある。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「新免家侍覚書」を見ると、戦後新免伊賀殿の内の六人衆といわれる内海孫兵衛、安積小四郎、香山半兵太、船曳杢右衛門、井戸亀右衛門、木南加賀右衛門などとよぶ家臣たちが、小倉に流れて来て、小さな借家に同居し、馬の草鞋を作って生活していたという話が載っている。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  },
+  {
+    "uuid": "98ee69d4-5930-5fb8-a736-8398eb7e8f88",
+    "entry": "石勝",
+    "reading": {
+      "primary": "せきしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幼君快活なる御聲にて、「予が十萬石勝手にいたせ。",
+              "citation": {
+                "source": "十萬石",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一杯の水も仏の涙かな――といふ風の閼迦流山くづしがむき出してある、放浪詩人三石勝五郎さんの作。",
+              "citation": {
+                "source": "旅日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古い時代の岩石の崇拜は、この地方に限つたことでもなく、伊豆あたりの神社にもそれを見つけるといふが、益田にある天の石勝神社といふやうな古祠そのものがすでに、この地方のことを語つてゐるやうにも見える。",
+              "citation": {
+                "source": "山陰土産",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一丁目の停留場で降り、本郷から来ると右側の、石勝と云う石屋の横を入って、突当りから左に小一町行った処にあると云うのである。",
+              "citation": {
+                "source": "又、家",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午後、石勝の隣の家具屋によいサイドボールドが七十円であると云う。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二二年（大正十一年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして最初にプールをもった茨木中学から高石勝男が現れたのである。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "世界新記録病",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高石勝男は長距離から短距離専門に変って、まず日本で最初の国際レベルの選手になった。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "世界新記録病",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

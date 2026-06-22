@@ -18,7 +18,8 @@ https://幻辞.com
 
 1.  **[JMdict (yomidevs/jmdict-yomitan)](https://github.com/yomidevs/jmdict-yomitan)** - 広範な辞書定義および語彙データ。
 2.  **[Japanese Word Frequency (hingston/japanese)](https://github.com/hingston/japanese)** - 語彙の頻度・優先順位データ。
-3.  **Genji Crawler System** - 独自のクローリングシステムによる最新のトレンド語彙および語法データ。
+3.  **[青空文庫 (aozorahack/aozorabunko_text)](https://github.com/aozorahack/aozorabunko_text)** - 文学作品コーパス。形態素解析（Sudachi）による未収録語の抽出・出典別出現頻度、および実例（`examples.literary`）の付与に使用。
+4.  **Genji Crawler System** - 独自のクローリングシステムによる最新のトレンド語彙および語法データ。
 
 ## 🚀 使い方
 
@@ -86,6 +87,30 @@ ORDER BY freq ASC LIMIT 10;
 SELECT * FROM _metadata;
 -- version, commit, branch, repository, build_date, entry_count
 ```
+
+## 🌸 青空文庫由来の語彙拡充（新語スケルトン・表記揺れ吸収）
+
+青空文庫コーパスを形態素解析（Sudachi）して未収録語を抽出し、語彙を継続的に拡充しています（`script/extract_new_words.py` → `script/create_entries.py`）。この過程で次のデータ・メタフィールドが追加されます。
+
+### 追加された `meta` フィールド
+
+| フィールド | 型 | 意味 |
+|---|---|---|
+| `meta.frequencies` | `object` | 出典別の総出現回数。例: `{"aozora": 1234}`。 |
+| `meta.variant_writings` | `string[]` | 既存エントリへ吸収した**異表記**（旧字体・歴史的仮名遣い）。例: `亜` に `["亞"]`、`居る` に `["ゐる"]`、`来` に `["來"]`。検索のエイリアスとして利用できます。 |
+| `meta.needs_gloss` | `bool` | `true` の場合、語義（`definitions[*].gloss`）が**未生成のスケルトン**。読み・品詞・青空文庫実例（`examples.literary`）のみ確定済みで、語義は後続のバックフィルで埋められます。 |
+| `meta.needs_reading` | `bool` | `true` の場合、読み（`reading.primary`）が未確定で暫定的に表記を格納。読みが付かない語は `reading` 別ディレクトリではなく `data/記号/` に格納されます。 |
+
+> **⚠️ 注意:** `meta.needs_gloss = true` のエントリは `definitions[*].gloss` が空文字です。語義の有無で絞り込む場合は次のように除外してください。
+>
+> ```sql
+> -- 語義が確定済みのエントリのみ
+> SELECT e.entry, d.gloss FROM entries e
+> JOIN definitions d ON d.entry_uuid = e.uuid
+> WHERE d.gloss <> '' AND json_extract(e.meta, '$.needs_gloss') IS NULL;
+> ```
+
+旧字体・歴史的仮名遣いの表記は、可能な限り現代表記の見出しへ正規化（`ゐる→居る`・`來→来`・`氣→気` 等）して吸収し、原表記は `meta.variant_writings` に保持します。
 
 ### Docker
 

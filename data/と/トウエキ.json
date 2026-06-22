@@ -343,5 +343,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "2968a28c-1cd5-511d-a022-5d24687b8068",
+    "entry": "糖液",
+    "reading": {
+      "primary": "とうえき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "糖液に発酵を起こす微生物が大気から入るのと同じように、傷の分解を起こす微生物は外からのものであると信じて、グラスゴーの若い外科医ジョセフ・リスターはパストゥールの実験の原理を治療に応用した。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アルコール発酵に使う酵母は発酵させる糖液に人工的に加えられていた。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

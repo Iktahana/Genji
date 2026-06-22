@@ -408,11 +408,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:06:56.989454+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 25689,
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "黄沙"
+      ]
     }
   },
   {
@@ -784,11 +787,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 12516,
       "frequencies": {
         "aozora": 75
-      }
+      },
+      "variant_writings": [
+        "交さ",
+        "交叉"
+      ]
     }
   },
   {
@@ -1487,6 +1494,74 @@
       "freq_rank": 28273,
       "frequencies": {
         "aozora": 67
+      }
+    }
+  },
+  {
+    "uuid": "2cddeaeb-0a8f-5c33-8e73-ddc1f0e812b0",
+    "entry": "降砂",
+    "reading": {
+      "primary": "こうさ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "事によると、昔のある時代に繁茂していた植物のコロニーが、ある年の大噴火で死滅し、その上に一メートルほどの降砂が堆積した後に、再び植物の移住定着が始まり、その後は無事で今日に到ったのではないかという気がする。",
+              "citation": {
+                "source": "浅間山麓より",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「勝ちさびに天照大御神の営田の畔離ち溝埋め、また大嘗きこしめす殿に屎まり散らしき」というのも噴火による降砂降灰の災害を暗示するようにも見られる。",
+              "citation": {
+                "source": "神話と地球物理学",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

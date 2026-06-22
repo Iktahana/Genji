@@ -247,6 +247,54 @@
                 "author": "横瀬夜雨",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "続いて出でける男は、『しれ者かな』とて馬の口に取り附く処を、同じ様に斬り給えば、籠手の覆より打ちて、打ち落されて退きにけり。",
+              "citation": {
+                "source": "花吹雪",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その態度は物の味の試しを勧めるというより芝居でしれ者が脅しに突出す白刃に似ていた。",
+              "citation": {
+                "source": "食魔",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金谷の隧道長くて灯を点したる、これは昔蛇の住みし穴かと云いししれ者の事など思い出す。",
+              "citation": {
+                "source": "東上記",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先づそこから出立して考へて見ることを敢てしないで、いきなり幸島の偽闕、平親王呼はり、といふところから不届至極のしれ者とされゝば、一言も無いには定まつて居るが、事跡からのみ論じて心理を問は無いのは、乾燥派史家の安全な遣り方であるにせよ、情無いことであつて、今日の裁判には少し潤ひがあつて宜い訳だ。",
+              "citation": {
+                "source": "平将門",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "むろんそれが女ばくちのしれ者と名の高い三つ輪のお絹に相違なく、その隣にてらてらと油光りのする卑しい顔に、みだらな笑いを浮かべて、つくねいものごとくすわっていたのは、ひと目にいなかの物持ちだんなとわかる好色そうな五十おやじでした。",
+              "citation": {
+                "source": "右門捕物帖",
+                "author": "卒塔婆を祭った米びつ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かく申さば、讒謗罵詈礼を知らぬしれ者と思ふ人もあるべけれど、実際なれば致方無之候。",
+              "citation": {
+                "source": "歌よみに与ふる書",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -271,9 +319,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:18:11.287735+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 13
+      },
+      "variant_writings": [
+        "しれ者"
+      ]
+    }
+  },
+  {
+    "uuid": "c53e2579-ff59-53f4-b914-11686baba4a5",
+    "entry": "シレモノ",
+    "reading": {
+      "primary": "しれもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかしこやつもシレモノである。",
+              "citation": {
+                "source": "剣侠受難",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "トボケルと今ならば謂うところで、古くはシレル・シレモノと謂い、それから移ってジラコクまたはジラなどともなり、戯れという語も是とよほど近かった。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

@@ -322,10 +322,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:38:57.933289+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14243,
       "frequencies": {
         "aozora": 250
+      },
+      "variant_writings": [
+        "ホンロウ",
+        "飜弄"
+      ]
+    }
+  },
+  {
+    "uuid": "3855f903-6fa7-5e8f-93c4-351d4d1e2afd",
+    "entry": "奔狼",
+    "reading": {
+      "primary": "ほんろう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「倭寇の到る処、人民一空す」とか、「其の来るや奔狼の如く、其の去るや驚鳥の如し、来るも或は知るなく、去るも捕ふるに易からず」などといわれたのは、その頃のことである。",
+              "citation": {
+                "source": "鎖国",
+                "author": "日本の悲劇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

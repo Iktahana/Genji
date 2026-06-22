@@ -199,6 +199,22 @@
                 "author": "山本周五郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "彼は扉のとじ目に魔法の封をした上、或る呪文によってその墓の入口が全然人目につかないように変えて了った。",
+              "citation": {
+                "source": "セトナ皇子（仮題）",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "リョウヘイは雑誌なぞは、とじ目のこわれたのでも、半分しかない本でも、だいじにしまっていたから、きっとおじさんの板きれも、おじさんの本のようなものだろうと、考えるようになっていた。",
+              "citation": {
+                "source": "ふたりのおばさん",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -220,10 +236,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:55:33.778039+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
+      },
+      "variant_writings": [
+        "とじ目"
+      ]
+    }
+  },
+  {
+    "uuid": "8d04974a-a03c-5e42-b6e9-c41baa1e96e6",
+    "entry": "閉じめ",
+    "reading": {
+      "primary": "とじめ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "汀まで雪に埋まった海岸には、見渡せる限り、白波がざぶんざぶん砕けて、風が――空気そのものをかっさらってしまいそうな激しい寒い風が雪に閉ざされた山を吹き、漁夫を吹き、海を吹きまくって、まっしぐらに水と空との閉じ目をめがけて突きぬけて行く。",
+              "citation": {
+                "source": "生まれいずる悩み",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "閉じ目"
+      ]
     }
   }
 ]

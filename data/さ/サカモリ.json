@@ -317,10 +317,98 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:33:32.595452+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 41516,
       "frequencies": {
         "aozora": 144
+      },
+      "variant_writings": [
+        "酒もり",
+        "酒盛"
+      ]
+    }
+  },
+  {
+    "uuid": "9c29d68f-d7cb-5234-9f6a-c0eca1f1e71d",
+    "entry": "サカモリ",
+    "reading": {
+      "primary": "さかもり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "夕方から、サカモリがはじまる、Ｍ氏に好感を持つて飲み合つた、ほどよく酔うて安眠。",
+              "citation": {
+                "source": "行乞記",
+                "author": "室積行乞",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "サカモリしましょうよ」「あなた、お酒のむんですか」「えゝ、のむわよ。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それほどの酒豪とあれば敢ておひきとめは致しませんが、人は見かけによらないものだ」　そこでサカモリがはじまったが、ジンという酒はアブサンや火酒につぐ強い酒だが、アッサリした甘味があって、女の好きそうな香気がある。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "九州の或る島などの方言集には、サカモリと謂うのは男女相会して酒を飲むことであり、男ばかりで飲む酒は酒盛りとは謂わぬと記してある。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

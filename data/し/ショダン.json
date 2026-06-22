@@ -560,6 +560,38 @@
                 "author": "穂積陳重",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "さうして窓の彼方の赤煉瓦の建物のなかでは、着々として彼を處斷するための仕事が進行しつゝあるのである。",
+              "citation": {
+                "source": "盲目",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し本人はもとより彼等の周圍に、その處斷を肯はぬ蒙昧な人々がゐる。",
+              "citation": {
+                "source": "人間惡の創造",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吉良邸討入事件のあつた直後においてさへ、四十七人の浪士をいかに處斷すべきかといふことについては、幕府の政治顧問ともいふべき學者のあひだにも諸説紛々たるものがあつた。",
+              "citation": {
+                "source": "生きている忠臣藏",
+                "author": "――忠臣藏は何故流行するか――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いづれにしても處理に窮した幕府は、兩派の意見を折衷して、鳩巣一派の助命論を加味した法理論に基いて處斷を下した。",
+              "citation": {
+                "source": "生きている忠臣藏",
+                "author": "――忠臣藏は何故流行するか――",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -628,9 +660,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 78
+      },
+      "variant_writings": [
+        "處斷"
+      ]
+    }
+  },
+  {
+    "uuid": "c1a1ff6e-2dcb-50ea-b65f-a4df40131b3b",
+    "entry": "初弾",
+    "reading": {
+      "primary": "しょだん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ですから、最初弾いた経文歌の中頃になると、もう手も足も萎えきってしまって、視界がしだいに朦朧となってまいりました。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今にも発砲しそうで、初弾の効き目があったかどうかも確かめない。",
+              "citation": {
+                "source": "黄金薔薇",
+                "author": "The Golden Rose",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

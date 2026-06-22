@@ -615,6 +615,46 @@
                 "author": "芥川龍之介",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "足輕といふものは舊記などにも書いてないと言ふことですが、塙檢校の調べによると、源平盛衰記、太平記などにも載つて居るさうであります。",
+              "citation": {
+                "source": "應仁の亂に就て",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一年ばかり前から、此家に引取られて居りますが、へエ」「何んとか檢校――といふと音曲の方か」「いえ、鍼の方ださうで、――尤も檢校は嘘でございませう。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "桐の極印",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「盲目の望みは檢校でございます。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "九百九十兩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「檢校の位になるには、千兩要るといふことだが、お前の父さんはその用意の金を盜られたのかい。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "九百九十兩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　盲人の保護は中古以來のことですが、徳川時代になつてその制度を確立し、上は檢校總録から最下位の半打掛座頭に至るまで、階級を七十三の小刻みに分けました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "九百九十兩",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -765,10 +805,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 267
-      }
+      },
+      "variant_writings": [
+        "檢校"
+      ]
     }
   },
   {
@@ -851,6 +894,66 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "515de425-7ad3-56b0-8e73-0e456e093ceb",
+    "entry": "絹業",
+    "reading": {
+      "primary": "けんぎょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "聊か政治的批評もするヨーロッパの文士は、日本人絹業の興隆、その背後の力とリオンの絹業者の破産との相互関係も知っているであろう。",
+              "citation": {
+                "source": "「迷いの末は」",
+                "author": "――横光氏の「厨房日記」について――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

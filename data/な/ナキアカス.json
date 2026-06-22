@@ -96,6 +96,22 @@
                 "author": "三輪の神杉の巻",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "かきつばた柳河の古きながれのかきつばた、晝は ONGO の手にかをり、夜は萎れて三味線の細い吐息に泣きあかす。",
+              "citation": {
+                "source": "思ひ出　抒情小曲集",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かきつばた柳河の古きながれのかきつばた、晝は ＊ONGO の手にかをり、夜は萎れて三味線の細い吐息に泣きあかす。",
+              "citation": {
+                "source": "思ひ出",
+                "author": "抒情小曲集",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -118,10 +134,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:16:39.948590+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 31
-      }
+      },
+      "variant_writings": [
+        "泣きあかす",
+        "泣き明す",
+        "泣明かす"
+      ]
     }
   }
 ]

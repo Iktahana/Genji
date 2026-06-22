@@ -319,9 +319,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:56:52.920863+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 225
+      },
+      "variant_writings": [
+        "凉み"
+      ]
+    }
+  },
+  {
+    "uuid": "cc65bf79-7434-5b05-a43b-263bc1b8f54e",
+    "entry": "スズミ",
+    "reading": {
+      "primary": "すずみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『本草啓蒙』に猴の和名を挙げてコノミドリ、ヨブコトリ、イソノタチハキ、イソノタモトマイ、コガノミコ、タカノミコ、タカ、マシラ、マシコ、マシ、スズミノコ、サルと十二まで列ねた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東日本でこれをニホまたはニョーと謂うに対して、西の方にはホヅミという語があり、転じてはコヅミ・スズミ・ススキなどと呼んでいる土地がある。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ニオはすなわち稲村のこと、中央部でスズミともスズシともいうものと同じであって、この日新たにこれを積んで見るのは、秋の豊饒を祝する意と思われるが、今はもうそういう手数をする家も少なく、ただ朝から一日ゆっくりと休んで、炬燵にでも入って寝転んでいるだけだそうである。",
+              "citation": {
+                "source": "年中行事覚書",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それと接続した紀伊、伊勢、尾張等の方言の、スズキ、スズミ、スズシというなども、もとはこの稲積の上に取つけた呪物から生まれた名だったように私は聴いているが、はたして正しいかどうか。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼らの発音はスズミで、これは無論シジミの地方訛りにちがいないが、意味は貝の蜆というより、「シジ見」ではないかと思われるのだ。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

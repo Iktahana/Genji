@@ -289,6 +289,22 @@
                 "author": "牧野信一",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "だが意志の無力が實證され、救ひなき絶望に陷入つた時、人人はそこに「奇蹟」を見る。",
+              "citation": {
+                "source": "宿命",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それによると、僕のあの文章は室生君の舊惡をあばいたもので、故意に友人を陷入れ、他人の過去を恥かしめ、以て獨り自ら正義を賣らうとするものであるさうだ。",
+              "citation": {
+                "source": "常識家の非常識",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -373,10 +389,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T07:06:57.862378+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 9
-      }
+      },
+      "variant_writings": [
+        "陷入"
+      ]
     }
   },
   {
@@ -1144,6 +1163,82 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "e6f71217-67e3-5baf-ab88-7c222eadca28",
+    "entry": "乾乳",
+    "reading": {
+      "primary": "かんにゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それが即ち乾乳である。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "園遊に用うる酒　その御馳走は小麦の焼｜麺麭、小麦粉の油揚、乾乳、乾葡萄、乾桃、乾肉の類で、その家の下僕がその食物と敷物および野辺で茶を沸かす道具などを持って行くです。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その物品はまず麦、豆、小麦、蕎麦、マル（バタの事なり）、乾乳等いろいろの物が出て来るです。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

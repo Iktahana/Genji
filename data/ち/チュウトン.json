@@ -323,10 +323,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T06:56:23.692580+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 20017,
       "frequencies": {
         "aozora": 121
+      },
+      "variant_writings": [
+        "駐とん"
+      ]
+    }
+  },
+  {
+    "uuid": "b6842b26-07d6-5baa-9204-68c595642b53",
+    "entry": "チュウトン",
+    "reading": {
+      "primary": "ちゅうとん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四三　甲谷が山口からチュウトン系のがっしりと腰の張った若いオルガを紹介されたのは、それから間もなくであった。",
+              "citation": {
+                "source": "上海",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かつて共和国の繁栄期に無数のサンブリ族及びチュウトン族を吐き出したバルチックの同じ沿海地方からは、四十万の移民が送り出された３）。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

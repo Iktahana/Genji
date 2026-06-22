@@ -2635,10 +2635,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3829,
       "frequencies": {
         "aozora": 652
+      },
+      "variant_writings": [
+        "キサキ"
+      ]
+    }
+  },
+  {
+    "uuid": "b8fcffee-eac0-5ccd-ac22-7f9e5512654c",
+    "entry": "忌祭",
+    "reading": {
+      "primary": "きさい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又は広瀬大忌祭に広瀬の川合に称辞竟へ奉る、皇神の御名を白さく、御膳持たす若宇加ノ売ノ命と御名は白して、此の皇神の前に辞竟へ奉らく。",
+              "citation": {
+                "source": "山の今昔",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

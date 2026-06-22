@@ -56,7 +56,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "女房の何となく悚然としたのは、黄菊の露の置きかわる、霜の白菊を渡り来る、夕暮の小路の風の、冷やかなばかりではなかった。",
+              "citation": {
+                "source": "式部小路",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -77,10 +86,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:22:22.449503+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 6
-      }
+      },
+      "variant_writings": [
+        "置きかわる",
+        "置き変わる"
+      ]
     }
   }
 ]

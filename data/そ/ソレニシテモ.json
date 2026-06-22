@@ -322,5 +322,81 @@
       "updated_at": "2026-06-04T03:26:49.921639+00:00Z",
       "freq_rank": 1988
     }
+  },
+  {
+    "uuid": "e81e0d85-d5f4-5728-a1d8-d99f049a94fc",
+    "entry": "ソレニシテモ",
+    "reading": {
+      "primary": "それにしても",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ソレニシテモ不思議デアル。",
+              "citation": {
+                "source": "瘋癲老人日記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "敏子モ一緒ニツイテ行ッタノハ、今マデノ慣例ニヨッタノダロウガ、ソレニシテモ彼女ノ気持ヲ解スルニ苦シム。",
+              "citation": {
+                "source": "鍵",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソレニシテモ、場所ガ大阪デアルノハ初耳デアッタ。",
+              "citation": {
+                "source": "鍵",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

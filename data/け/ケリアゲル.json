@@ -56,7 +56,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "だんろはすごくきちきちだけど、たぶんちょっとけり上げるくらいは！",
+              "citation": {
+                "source": "アリスの地底めぐり",
+                "author": "ALICE'S ADVENTURES UNDER GROUND",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこのだんろはたしかにせまいけど、たぶんちょっとけり上げるくらいは！",
+              "citation": {
+                "source": "アリスはふしぎの国で",
+                "author": "ALICE IN WONDERLAND",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       },
       {
@@ -118,10 +135,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:28:12.510697+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 12
-      }
+      },
+      "variant_writings": [
+        "けり上げる",
+        "蹴りあげる"
+      ]
     }
   }
 ]

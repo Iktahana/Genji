@@ -239,6 +239,62 @@
                 "author": "田中貢太郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ああ　この道徳の人を知らない晝頃になつて村に行きあなたは農家の庖廚に坐るでせう。",
+              "citation": {
+                "source": "定本青猫",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」四「さあさあ、追立を食わないうちに、君子は庖廚を遠ざかろう。",
+              "citation": {
+                "source": "卵塔場の天女",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渠等が妄執｜瞑せず、帰せず、陰々たる燈火に映じて動出ださんばかりなる、ここ屠犬児の働場にして、地獄は目前の庖廚たり。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――君子は庖廚の事になんぞ、關しないで居たが、段々茶の間に成り、座敷に及んで、棚、小棚を掻きまはし、抽斗をがたつかせる。",
+              "citation": {
+                "source": "間引菜",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このとき戸口に人の声して、ほどなく庖廚にありしエリスが母は、郵便の書状を持て来て余にわたしつ。",
+              "citation": {
+                "source": "舞姫",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庖廚を過ぎ、室の戸を開きて入りしに、机に倚りて襁褓縫いたりしエリスは振り返りて、「あ」と叫びぬ。",
+              "citation": {
+                "source": "舞姫",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それ朝餉の竈を跡に見て跡を追いに出る庖廚の炊婢。",
+              "citation": {
+                "source": "武蔵野",
+                "author": "山田美妙",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -265,10 +321,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:41:29.084520+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 79
-      }
+      },
+      "variant_writings": [
+        "庖廚"
+      ]
     }
   },
   {
@@ -492,6 +551,66 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "48721cfe-2847-5958-ab97-acdc1af4f02f",
+    "entry": "放虫",
+    "reading": {
+      "primary": "ほうちゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又はそこいらの地物や、自分より強い者の姿に化ける……なぞ、低級、卑怯な人間のする事は皆、かような虫の本能の丸出しで、俗諺にいう弱虫、蛆虫、米喰虫、泣虫、血吸虫、雪隠虫、屁放虫、ゲジゲジ野郎、ボーフラ野郎なぞいう言葉は、こうした虫ケラ時代の心理の遺伝したもののあらわれを指した軽蔑詞に外ならない。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

@@ -104,6 +104,22 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "それらの人々は、自分たちに一本の棒の切れはしを研究させ、その先をとがらせ、手にもちいいように小型のものとし、さらにそれにめどをつけて、からだにかぶる皮と皮とをつぎ合わせるに便利な道具に発展させてゆくそのあくことない興味を、幸福に生きようとする人間の願いなどという言葉で表現することさえもしらなかった。",
+              "citation": {
+                "source": "いのちのある智慧",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このバラバラの手足を、つぎ合わせるなんて、できっこないと思っているのだろう。",
+              "citation": {
+                "source": "魔法博士",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -129,10 +145,87 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:11:06.390684+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 24
+      },
+      "variant_writings": [
+        "つぎ合わせる",
+        "接ぎあわせる",
+        "継ぎあわせる",
+        "継ぎ合せる"
+      ]
+    }
+  },
+  {
+    "uuid": "1b9b9e79-2b4f-58e1-a199-44becc5f796b",
+    "entry": "接ぎ合わせる",
+    "reading": {
+      "primary": "つぎあわせる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「この数日でバーリー・ハウスの歴史を相当部分接ぎ合わせるのに成功したのさ。",
+              "citation": {
+                "source": "長い部屋",
+                "author": "O. H. ダンバー　O. H. Dunbar",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから鍋や薬鑵などのイカケもすれば、瀬戸物の毀れを接ぎ合せることも出来た。",
+              "citation": {
+                "source": "鴻ノ巣女房",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 18
+      },
+      "variant_writings": [
+        "接ぎ合せる"
+      ]
     }
   }
 ]

@@ -255,6 +255,46 @@
                 "author": "斎藤茂吉",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ちゞれ雲西に傷みて、　　　　いささかの粉雪ふりしき、警察のスレートも暮れ、　　　売り出しの旗もわびしき。",
+              "citation": {
+                "source": "文語詩稿　一百篇",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔雪とひのきの坂上に〕宮沢賢治雪とひのきの坂上に粗き板もてゴシックを辛く畳みて写真師の聖のねぐらを営みぬぼたと名づくる雪ふりていましめさけぶ橇のこらよきデュイエットうちふるひひかりて暮るゝガラス屋根",
+              "citation": {
+                "source": "〔雪とひのきの坂上に〕",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "廿一日、夜雪ふりて深さ五寸に及ぶ、此の如きは此地稀に有る所なりといふ。",
+              "citation": {
+                "source": "長塚節歌集　中",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "持　戒草木を信念すれば雪ふり百足ちぎればゆび光り。",
+              "citation": {
+                "source": "聖三稜玻璃",
+                "author": "山村暮鳥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "持戒草木を信念すれば雪ふり百足ちぎればゆび光り。",
+              "citation": {
+                "source": "聖三稜玻璃",
+                "author": "山村暮鳥",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -274,9 +314,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T05:43:48.559290+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 55
+      },
+      "variant_writings": [
+        "雪ふり"
+      ]
+    }
+  },
+  {
+    "uuid": "2b221a19-e5b7-56e5-843c-ed71335ac7bf",
+    "entry": "ユキフリ",
+    "reading": {
+      "primary": "ゆきふり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "自分の国のブルウ・マウンテンの頂上にある雪は見ましたが、空から降る雪……そうして地面につもる雪……ユキフリですね、あのときの強烈な印象は死ぬまで忘れないでしょう」　いつまで出鱈目をいっているつもりなんだ。",
+              "citation": {
+                "source": "三界万霊塔",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

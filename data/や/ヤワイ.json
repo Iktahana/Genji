@@ -362,9 +362,90 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T05:10:30.409236+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 660
+      },
+      "variant_writings": [
+        "やええ",
+        "柔え",
+        "軟い"
+      ]
+    }
+  },
+  {
+    "uuid": "a518b4a8-5cf3-519e-af08-87c64fceceae",
+    "entry": "ヤワイ",
+    "reading": {
+      "primary": "やわい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その旅も、今夜でおしまいだというので、腕の立つわかい連中の大一座、ガヤガヤワイワイと、伊賀の山猿の吐く酒気で、室内は、むっと蒸れている。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "こけ猿の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その二人を取り巻いて、ガヤガヤワイワイ騒いでいるのは、さっきまで、要介を向こうへ廻し、切り合っていた海賊どもで、白布で手足を巻いているのは、いずれも要介に船板子で、打ち倒された者どもであった。",
+              "citation": {
+                "source": "名人地獄",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが大人になるにつれて人道主義のヤワイ（柔い）ことが判って来た。",
+              "citation": {
+                "source": "ブルジョア作家のファッショ化に就て",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

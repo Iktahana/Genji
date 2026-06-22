@@ -409,11 +409,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:07:16.291270+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2455,
       "frequencies": {
         "aozora": 262
-      }
+      },
+      "variant_writings": [
+        "發想"
+      ]
     }
   },
   {
@@ -706,6 +709,14 @@
                 "author": "――婦人民主クラブの生い立ちと櫛田ふきさん――",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "發送せし後は心やゝ安きに似たれど、或は姫を失はんをりの苦痛を想ひ遣りて、プロメテウスの鷲の嘴に刺さるゝ如き念をなし、或は姫に許されて戲場を雙棲のところとなさん日の樂｜奈何なるべきと思ひ浮べて、獨り微笑を催すなど、ほとほど心亂れたる人に殊ならざりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -734,11 +745,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4636,
       "frequencies": {
         "aozora": 198
-      }
+      },
+      "variant_writings": [
+        "發送"
+      ]
     }
   },
   {
@@ -1056,6 +1070,98 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "5eb1c9de-0934-5473-9f5f-5f0dceaa86f4",
+    "entry": "発喪",
+    "reading": {
+      "primary": "はっそう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「正月廿七日小野蘭山（八十二歳、二月発喪）細見権十郎（三月十六日、実は八月十四日、号秋月院道法日観居士）加藤定四郎（四月十九日朝）太田備後守殿（六月十七日於掛川死去、脚気腫之由）望之妻（六月十八日朝）吉川熊太郎（七月十四日病死）おのふ（八月。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「七月廿日夕、柏軒先生京師旅寓より、御同人御大病に付、繰合早々上京可致旨、安策より申越候に付、願書差出候処、即刻願之通勝手次第被仰付、翌朝発足、廿六日朝京著之処、去十九日御卒去之由、八月廿一日発喪相成、九月十九日京発、十月三日福山帰著。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」正寧の発喪である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、発喪は東京の本邸でといふ習はしに従ひ、伯爵の遺骸はこれら近親の人々に護られて、翌朝、この山荘を出る手筈になつてゐる。",
+              "citation": {
+                "source": "泉",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「お前はこういふことに大変くわしいと思ふのだが、あのねえ、お峯や、高貴な方には一日ばかり発喪をおくらすといふことも間々あるやうに言はれとるが……」　ところが、めざとい女房は夫の魂胆をひどく悪く観察してしまつた。",
+              "citation": {
+                "source": "村のひと騒ぎ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
     }
   }
 ]

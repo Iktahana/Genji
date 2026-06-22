@@ -366,10 +366,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T07:49:13.919291+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3295,
       "frequencies": {
         "aozora": 6355
+      },
+      "variant_writings": [
+        "學問"
+      ]
+    }
+  },
+  {
+    "uuid": "4d8438a6-3eb1-52c8-b9cb-a69dc3ebeb22",
+    "entry": "ガクモン",
+    "reading": {
+      "primary": "がくもん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "……これは僕に数限りない生きガクモンを実地教習してくれたものだつた。",
+              "citation": {
+                "source": "小杉放庵",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "画道については又問ふに人有るべきも、生きガクモンについては天与の他に師は無い。",
+              "citation": {
+                "source": "小杉放庵",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またこのガクモンは不日重ねて聞き込みでもあつたら又再報します、矢来先生には貴辺よりくれぐれもよろしく御鶴声の程。",
+              "citation": {
+                "source": "吉原ハネ橋考",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぼくが年のわりにわれながら芸壇の消息を随分古いことまで知つてゐるのは、これ等のガクモンから来ます。",
+              "citation": {
+                "source": "私のこと",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

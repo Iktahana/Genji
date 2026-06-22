@@ -359,10 +359,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:26:25.534321+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 19082,
       "frequencies": {
         "aozora": 205
+      },
+      "variant_writings": [
+        "なま身"
+      ]
+    }
+  },
+  {
+    "uuid": "53068ee5-e481-57d6-87ac-bd319b56ac90",
+    "entry": "ナマミ",
+    "reading": {
+      "primary": "なまみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ぜんたい、この間の戦争をふくめての此の十年二十年を、その中でチャンと日本人として――その権利と義務を行使して――つまり、ホントにナマミで生きて来た人間が、どこを押せば、その十年二十年（自分自身をも含めて）の所産である特攻隊くずれを、あのように手ばなしに一方的に非難できるのか？",
+              "citation": {
+                "source": "恐怖の季節",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去年の暮、だから彼は、「ナマミダープト」と呟きながら青酸カリを嚥んだ。",
+              "citation": {
+                "source": "ジャンの新盆",
+                "author": "山川方夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ナマミダープト」　――しかし、鳩に似た頸の長い小鳥は、まだ白象のすがたには見えなかった。",
+              "citation": {
+                "source": "ジャンの新盆",
+                "author": "山川方夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

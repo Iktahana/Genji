@@ -1012,11 +1012,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14604,
       "frequencies": {
         "aozora": 9770
-      }
+      },
+      "variant_writings": [
+        "ぎしゃ"
+      ]
     }
   },
   {
@@ -2057,6 +2060,93 @@
       "frequencies": {
         "aozora": 28
       }
+    }
+  },
+  {
+    "uuid": "c3ad57d4-fa89-555c-9dd5-dd8943a65089",
+    "entry": "揮洒",
+    "reading": {
+      "primary": "きしゃ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "殊に新聞紙の論説の如きは奇想湧くが如く、運筆飛ぶが如く、一気に揮洒し去って多く改竄しなかったに拘らず、字句軒昂して天馬行空の勢いがあった。",
+              "citation": {
+                "source": "文士としての兆民先生",
+                "author": "幸徳秋水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　併し先生自身は、単に才気に任せて揮洒し去るのに満足しては居なかった。",
+              "citation": {
+                "source": "文士としての兆民先生",
+                "author": "幸徳秋水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伯は馬上を以て天下を取りたる藩閥の、到底永く馬上を以て天下を治むる能はざるを知りたれば、時の政府の中心たる大久保利通の威望を利用して、自己の長所を縱横に揮灑し、以て徐ろに政治改革の雄心を逞うせむとしたりき。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伯は馬上を以て天下を取りたる藩閥の、到底永く馬上を以て天下を治むる能はざるを知りたれば、時の政府の中心たる大久保利通の威望を利用して、自己の長所を縦横に揮灑し、以て徐ろに政治改革の雄心を逞うせむとしたりき。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      },
+      "variant_writings": [
+        "揮灑"
+      ]
     }
   }
 ]

@@ -325,11 +325,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T08:35:28.370286+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 337,
       "frequencies": {
         "aozora": 5958
-      }
+      },
+      "variant_writings": [
+        "り用"
+      ]
     }
   },
   {
@@ -653,10 +656,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 48
-      }
+      },
+      "variant_writings": [
+        "俚謠"
+      ]
     }
   },
   {
@@ -982,6 +988,82 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 27725
+    }
+  },
+  {
+    "uuid": "219738e1-a4e9-5965-b240-7842204fdb26",
+    "entry": "利養",
+    "reading": {
+      "primary": "りよう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「山に登らせたまひしより、明けても暮れても床しさは心を砕きつれども、貴き道人となしたてまつる嬉しやと思ひしに、内裏の交りをし、紫甲青甲に衣の色をかへ、御布施の物とりたまひ候ほどの、名聞利養の聖人となりそこね給ふ口惜さよ。",
+              "citation": {
+                "source": "女性の諸問題",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "名聞利養が如何ばかり向上するとても解脱、出離の道を示してはくれない。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七五　一は利養の道、一は涅槃の道、斯く通達する佛陀の弟子なる比丘は、名聞を好むべからず、益々遠離に住すべし。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
     }
   }
 ]

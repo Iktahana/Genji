@@ -288,6 +288,14 @@
                 "author": "五十公野清一",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "齢から言へば、孝子は二十三で、健の方が一歳下の弟である。",
+              "citation": {
+                "source": "足跡",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -311,11 +319,134 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:50:58.668158+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 12521,
       "frequencies": {
         "aozora": 544
+      },
+      "variant_writings": [
+        "とし下",
+        "歳下"
+      ]
+    }
+  },
+  {
+    "uuid": "e40cadd9-83a7-5a8d-9567-93f4273d87cb",
+    "entry": "齢下",
+    "reading": {
+      "primary": "としした",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼女は自分の前に年齢下の男を見るだけであった。",
+              "citation": {
+                "source": "明暗",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうしてその年齢下の男はかねて眼下の男であった。",
+              "citation": {
+                "source": "明暗",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "井上市次郎というその甥さん――だが六つ齢下の甥さんは「何んや、喧嘩したんか」　と、大きい眼を、もっと、大きくして聞いた。",
+              "citation": {
+                "source": "死までを語る",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は、十五ほど齢下の弟との二人兄弟で、私たちは共々に幼年のころ音取かくに育てられました。",
+              "citation": {
+                "source": "月あかり",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万吉郎という五つも年齢下の男を婿に迎えたわけだが、ヒルミ夫人の見染めただけあって、人形のように顔形のととのった美男子だった。",
+              "citation": {
+                "source": "ヒルミ夫人の冷蔵鞄",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元禄袖の双子は一つ齢下の従妹を左右から囲んで坐つた。",
+              "citation": {
+                "source": "帰つてから",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吉三郎は自分より三つしか齢下ではない。",
+              "citation": {
+                "source": "青銅の基督",
+                "author": "――一名南蛮鋳物師の死――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――少し、禿すぎてゐるが）愛する於莵吉は十一も齡下で、女性の持ちうる幸福を一人でもつてゐる人である。",
+              "citation": {
+                "source": "長谷川時雨が卅歳若かつたら",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "齡下"
+      ]
     }
   }
 ]

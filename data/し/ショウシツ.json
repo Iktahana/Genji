@@ -582,6 +582,46 @@
                 "author": "岡本綺堂",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "手紙には「西神田はのこらず燒失、北は小川町へ燒け出で、南は本町一丁目片かは燒申候、（中略）町數七十丁餘、死亡の者六十三人と申候ことに御座候」と云つてある。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手紙に「愚姪方は大道一筋の境にて東神田故、此度は免れ候へ共、向側は西神田故過半燒失仕り候」と云つてある。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "風ハ其後一度東風ニ變リヤガテ西風ニ變リ、四時半ニ長昌寺ガ燒失シタ。",
+              "citation": {
+                "source": "寺田先生と僕",
+                "author": "海野十三（佐野昌一）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もと本堂があつたのだけれど、この大正三年に燒失したのださうだ。",
+              "citation": {
+                "source": "鳳來寺紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何處々々が燒失したと聞けば其處に住んで居る誰彼の名が、顏が、直ぐ心に浮んだ。",
+              "citation": {
+                "source": "樹木とその葉",
+                "author": "地震日記",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -607,10 +647,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 27388,
       "frequencies": {
         "aozora": 203
+      },
+      "variant_writings": [
+        "燒失"
+      ]
+    }
+  },
+  {
+    "uuid": "90767384-03ff-54ca-99a3-b9f5f30fcc8b",
+    "entry": "少室",
+    "reading": {
+      "primary": "しょうしつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "冠氣、履氣、少室氣、營頭氣、車氣、騎氣、烏氣なんどと云ふのは、其の形象によつて名があるので、白氣は其の色、善氣喜氣等は其の結果によつて存する名であらう。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "冠気・履気・少室気・営頭気・車気・騎気・烏気などというのはその形象によって名があるので、白気はその色、善気喜気等はその結果によって存在する名であろう。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

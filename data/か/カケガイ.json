@@ -97,6 +97,46 @@
                 "author": "加藤道夫",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "一年のうち、きまった時しか金の入らない百姓は、どうしても掛買しか出来ない。",
+              "citation": {
+                "source": "不在地主",
+                "author": "小林多喜二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "烏の小母さん烏の小母さん　機織つてたチンバタ　チンバタ機織つてた木綿の腹掛　機織つてた泣く児に腹掛買つてやれ烏の小母さん　機織つてたチンバタ　チンバタ機織つてた更紗の綿入　機織つてた泣く児に綿入買つてやれ。",
+              "citation": {
+                "source": "十五夜お月さん",
+                "author": "野口雨情",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元園町の女中に遣らうと思つて四十五銭と云ふ紅入のを一｜掛買つたが、外にも何か買はせようとする熱誠と云ふものが主人と小僧さんの顔に満ちて居るので、気が弱くなつて鼠地に蝶燕の模様のある襟を私のに買つた。",
+              "citation": {
+                "source": "六日間",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上骨董に溺れた晩年の重兵衞は、女房のお倉に半襟一と掛買つてやる氣さへ失つてしまつたのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "茶碗割り",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上骨董に溺れた晩年の重兵衛は、女房のお倉に半襟一と掛買ってやる気さえ失ってしまったのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "茶碗割り",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -120,7 +160,70 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:59:02.908671+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "掛買"
+      ]
+    }
+  },
+  {
+    "uuid": "67215d5c-0f67-5d2b-bb95-47ebb901371a",
+    "entry": "カケガイ",
+    "reading": {
+      "primary": "かけがい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "雪は一分間もするとドアの面から融けはじめ、やがて雪自身の重みで、下に落ち、カケガイがかかり落ちた雪は完全に消えて終いました。",
+              "citation": {
+                "source": "雪",
+                "author": "楠田匡介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
       "frequencies": {
         "aozora": 2
       }

@@ -609,10 +609,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:42:32.763073+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7950,
       "frequencies": {
         "aozora": 1154
+      },
+      "variant_writings": [
+        "歩び"
+      ]
+    }
+  },
+  {
+    "uuid": "92ccb23f-9e89-52c1-8eb1-34e84bf470fb",
+    "entry": "アユミ",
+    "reading": {
+      "primary": "あゆみ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかし、迎えに出ていたおばんは、どこの親たちよりもまっさきに、船にアユミのかかるのもまちきれず、じゃぶじゃぶと海の中へはいってゆき、どの子よりもまっさきにコトエを船から抱きおろしたのである。",
+              "citation": {
+                "source": "二十四の瞳",
+                "author": "壺井栄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まるでがいせん将軍のように晴れがましくアユミをわたる子どもらとそれを迎える親たちのなかで、コトエとおばんだけは泣いていた、藪へまわって本包みをとってもどりながら、もうそのときは二人ともふだんの顔になって話しあった。",
+              "citation": {
+                "source": "二十四の瞳",
+                "author": "壺井栄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あやしげな荷物をしょった丸万が、表の玄関から出入りするのを嫌ったというのでなく、二階へあがるカルアユミ（階段）が、不思議なことにその家は台所に作ってあった。",
+              "citation": {
+                "source": "いやな感じ",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

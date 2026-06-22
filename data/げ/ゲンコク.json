@@ -570,6 +570,14 @@
                 "author": "――一名南蛮鋳物師の死",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "そこに人間の本然のすがたを見せ、はたまた嚴酷なるダンデイスムを感じさせるものをのみ指して言ふのであらう。",
+              "citation": {
+                "source": "人物に就いて",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -600,10 +608,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 53
-      }
+      },
+      "variant_writings": [
+        "嚴酷"
+      ]
     }
   },
   {
@@ -748,6 +759,153 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "74192e88-8299-59e6-8525-49e089055c8a",
+    "entry": "厳刻",
+    "reading": {
+      "primary": "げんこく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "是より作左が心は常に上方に馳せて、二人の身の上に到ると共に、秀吉が振舞を注目することも一層厳刻となりしなるべし。",
+              "citation": {
+                "source": "大久保湖州",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その冷徹にして厳刻なる氷雪の大音楽！",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嚴刻を認めて以て直諒と爲すこと勿れ。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "嚴刻"
+      ]
+    }
+  },
+  {
+    "uuid": "4915dca3-1407-5c23-807e-a0f2e1887bbd",
+    "entry": "減石",
+    "reading": {
+      "primary": "げんこく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "江戸幕府の制度は、外面は最も地方分権的体裁を示してゐるが、内面は最も精緻な中央集権制で、自領内では行政権、警察権をもつてゐる百万石の大名も、幕府の一片の命令で蟄居、国替、減石、断絶せしめられるので、その何れも今の内閣が地方官の変更任免を奏請するよりも、まだ容易であつた。",
+              "citation": {
+                "source": "二千六百年史抄",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "記録によれば、「……重成は郡民の窮状を目のあたりに見ては、哀憫の情を禁ずることが出来ず、承応二年遂に意を決して江戸に上り、直接老中に謁見してるる郡情を具陳して、減石の正道なることを誠意歎願したが、又もや不許可となつた。",
+              "citation": {
+                "source": "天草の春",
+                "author": "長谷健",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

@@ -271,6 +271,30 @@
                 "author": "泉鏡花",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "「一泊だとよ、何の何番に御案内しな」　そう云い捨てておいて今一組の商人態の二人連に同じ様な事を訊き、滞在と聞くや小腰をかがめて向って左手の渓に面した方の新しい建築へ連れて行った。",
+              "citation": {
+                "source": "みなかみ紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　さう言ひ捨てゝおいて今一組の商人態の二人連に同じ樣な事を訊き、滯在と聞くや小腰をかゞめて向つて左手の溪に面した方の新しい建築へ連れて行つた。",
+              "citation": {
+                "source": "みなかみ紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてかかる心なき対人態度を当然のこととして流行せしむるにいたった責を私は文壇に嫁したい気がしている。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -294,11 +318,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:35:25.041385+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8781,
       "frequencies": {
         "aozora": 861
-      }
+      },
+      "variant_writings": [
+        "人態"
+      ]
     }
   },
   {
@@ -380,6 +407,109 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 37527
+    }
+  },
+  {
+    "uuid": "92fb9693-0824-5924-a01b-6b25528f21f8",
+    "entry": "靱帯",
+    "reading": {
+      "primary": "じんたい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "云い終ると、伸子の全身を硬張らせていた靱帯が急に弛緩したように見え、その顔にグッタリとした疲労の色が現われた。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、頸筋の靱帯を鞭繩のようにくねらせながら、まるで彫像のよう、あらぬ方を瞶めているのだった。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ラメス５世の鼠蹊リンパ節のプーパル靱帯（鼠蹊靱帯）の部位に三角形の潰瘍が見られ、ペストの横痃か性病（王の病気）であろう。",
+              "citation": {
+                "source": "ネズミ、シラミ、歴史",
+                "author": "――専門家でない読者に必要な12章を含む発疹チフス一生の伝記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は神経が靭帯や腱に近いという信念から先には進まず、神経は血管と同じように心臓から始まっているという信じていた。",
+              "citation": {
+                "source": "ギリシャおよびローマ医学の概観",
+                "author": "OUTLINES OF GREEK AND ROMAN MEDICINE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子宮、その靭帯、および子宮で起き易い移動についての彼の記載は解剖学の実際的な知識を示している。",
+              "citation": {
+                "source": "ギリシャおよびローマ医学の概観",
+                "author": "OUTLINES OF GREEK AND ROMAN MEDICINE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人と人とを結ぶ心の靭帯のようなものが。",
+              "citation": {
+                "source": "夕張の宿",
+                "author": "小山清",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      },
+      "variant_writings": [
+        "靭帯"
+      ]
     }
   }
 ]

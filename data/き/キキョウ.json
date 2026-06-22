@@ -678,11 +678,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:58:42Z",
       "freq_rank": 35089,
       "frequencies": {
         "aozora": 713
-      }
+      },
+      "variant_writings": [
+        "歸京"
+      ]
     }
   },
   {
@@ -1295,11 +1298,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 37804,
       "frequencies": {
         "aozora": 1078
-      }
+      },
+      "variant_writings": [
+        "キキョウ"
+      ]
     }
   },
   {
@@ -1638,11 +1644,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:58:42Z",
       "freq_rank": 21576,
       "frequencies": {
         "aozora": 411
-      }
+      },
+      "variant_writings": [
+        "歸郷"
+      ]
     }
   },
   {
@@ -2497,6 +2506,74 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "2156ccb2-b2dc-56e8-af73-0e3de9dbe0e3",
+    "entry": "帰嚮",
+    "reading": {
+      "primary": "ききょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "古より英明の主、威徳宇宙に溥く、万国の帰嚮するに至る者は、其｜胸襟闊達、物として相容れざることなく、事として取らざることなく、其仁慈化育の心、天下と異なることなきなり。",
+              "citation": {
+                "source": "津下四郎左衛門",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ドイツは内治の上では、全く宗教を異にしている北と南とを擣きくるめて、人心の帰嚮を繰って行かなくてはならないし、外交の上でも、いかに勢力を失墜しているとは云え、まだ深い根柢を持っているロオマ法王を計算の外に置くことは出来ない。",
+              "citation": {
+                "source": "かのように",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

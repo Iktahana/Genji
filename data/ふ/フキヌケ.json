@@ -403,10 +403,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:32:06.424557+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 21389,
       "frequencies": {
         "aozora": 7
+      },
+      "variant_writings": [
+        "吹きぬけ",
+        "吹抜け"
+      ]
+    }
+  },
+  {
+    "uuid": "321b9809-ffcc-5b59-95cb-16aca501055e",
+    "entry": "フキヌケ",
+    "reading": {
+      "primary": "ふきぬけ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第十一回三十四、フキヌケの窓の事　　　　並に深夜の独白の事　さて、真名古捜査課長が古市加十がぶち込まれたという監房の扉を引き開けて見ると、その中は藻抜けの殻。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ご存知の方もありましょう、冬は木枯が、夏は西陽と蚊軍が自由自在に疎通するあの悩ましいフキヌケの窓。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

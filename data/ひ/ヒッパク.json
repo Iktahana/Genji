@@ -366,10 +366,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:26:21.482921+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 25094,
       "frequencies": {
         "aozora": 123
+      },
+      "variant_writings": [
+        "ひっ迫"
+      ]
+    }
+  },
+  {
+    "uuid": "b3a75f4f-dcbb-547d-aae6-cbe72ed533cb",
+    "entry": "ヒッパク",
+    "reading": {
+      "primary": "ひっぱく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "オウベイのキンユウはしだいにヒッパクをテイしたそう……。",
+              "citation": {
+                "source": "クねずみ",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "暗雲にヒッパクした故郷からの手紙だ。",
+              "citation": {
+                "source": "清貧の書",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「私、あの店を止める積りでをりますの」「さう、それはいゝ――僕が、直子さんの生活位は引き受けますよ」「いゝえそンなこと、私、母と子供がありますもの、どんなことをしたつて働かなければ――只、あのお店は、私にはやりきれないンです」　いひやうのないヒッパクした気持ちであつた。",
+              "citation": {
+                "source": "「リラ」の女達",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ヒッパクルスもグレゴリーも、みなやった。",
+              "citation": {
+                "source": "地底獣国",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

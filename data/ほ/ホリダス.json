@@ -323,10 +323,98 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:24:42.587926+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 752
+      },
+      "variant_writings": [
+        "ほりだせる",
+        "ほり出す",
+        "掘りだす",
+        "掘りだせる",
+        "掘り出せる",
+        "掘出す",
+        "掘出せる"
+      ]
+    }
+  },
+  {
+    "uuid": "57cd28af-87cd-5f8d-afa6-680aa0a103bd",
+    "entry": "彫り出す",
+    "reading": {
+      "primary": "ほりだす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一つの竹の根でいろいろのものを彫り出すのですから、ずいぶん面倒なものであろうかと思いやられますが、わたしの持っているなかでは、蝦蟆仙人が最も器用に出来ています。",
+              "citation": {
+                "source": "綺堂むかし語り",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "杏奴さんが、自身の筆でそこまで歴史的に父の姿を彫り出すことの出来ないのは、寧ろ自然であるとされなければなるまい。",
+              "citation": {
+                "source": "鴎外・漱石・藤村など",
+                "author": "――「父上様」をめぐって――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彫り出すものの像をたえず虚空に見つめ得る眼が要る。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 22
+      },
+      "variant_writings": [
+        "彫出す"
+      ]
     }
   }
 ]

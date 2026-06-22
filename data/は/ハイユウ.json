@@ -271,6 +271,30 @@
                 "author": "寺田寅彦",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "」　重ねた杯に、ぽうと染ったまなじりに、限りない媚びを見せて浪路は、一そう若きわざおぎにもたれかかるようにするのだった。",
+              "citation": {
+                "source": "雪之丞変化",
+                "author": "三上於菟吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "常の日には見られぬような化粧をして、里で散々練習をして来たよい口上で、新たな家の姥と対談している姿を、眼をまん円くして傍聴していた小娘たちが、それを自分たちの遊戯の名とし、または中心としようとした気持は、神事のわざおぎが近世のただの芝居になって来た経過と、何だか似よったものがあるような気がする。",
+              "citation": {
+                "source": "こども風土記",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが皆わざおぎの所作ではなくて、神の実在を信じたあるじ振りであったことは、ちょうど我々の盆の魂祭の後先ともよく似ている。",
+              "citation": {
+                "source": "年中行事覚書",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -294,11 +318,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:44:12.271879+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4212,
       "frequencies": {
         "aozora": 4390
-      }
+      },
+      "variant_writings": [
+        "わざおぎ"
+      ]
     }
   },
   {
@@ -613,6 +640,66 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 62
+      }
+    }
+  },
+  {
+    "uuid": "c985717b-bdf1-503a-bf8e-3f03b6652cd7",
+    "entry": "拝揖",
+    "reading": {
+      "primary": "はいゆう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「信次、そのほうの父は、家康にかわってみごとに死んだぞ」「は……」「吉信なくば生きては帰れなかった、吉信こそ家康の命の恩人だぞ」「もったいのうござります」　信次はしずかに拝揖しながら云った。",
+              "citation": {
+                "source": "死處",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

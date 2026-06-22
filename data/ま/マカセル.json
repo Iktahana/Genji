@@ -405,10 +405,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T23:50:42.354296+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10632,
       "frequencies": {
         "aozora": 3296
+      },
+      "variant_writings": [
+        "委せる"
+      ]
+    }
+  },
+  {
+    "uuid": "99065407-7cc7-583e-aa71-9f699debfd98",
+    "entry": "負かせる",
+    "reading": {
+      "primary": "まかせる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "努力と決断力で打ち負かせる。",
+              "citation": {
+                "source": "幽霊島",
+                "author": "The Island of Shadows",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本気になればどんな相手も打ち負かせると分かったし、漁に使う右手に腕相撲をさせるのは良くない。",
+              "citation": {
+                "source": "老人と海",
+                "author": "THE OLD MAN AND THE SEA",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

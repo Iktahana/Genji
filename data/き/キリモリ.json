@@ -322,10 +322,83 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32111,
       "frequencies": {
         "aozora": 65
+      },
+      "variant_writings": [
+        "切りもり",
+        "切盛",
+        "切盛り"
+      ]
+    }
+  },
+  {
+    "uuid": "574d13c5-a2b5-59b6-aaa3-3855d02c3f1e",
+    "entry": "キリモリ",
+    "reading": {
+      "primary": "きりもり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "アニキが家政のキリモリしていた時に、ちょうど妹が死んだ。",
+              "citation": {
+                "source": "狂人日記",
+                "author": "魯迅",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それがすなわち世帯のキリモリであった。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

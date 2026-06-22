@@ -256,6 +256,46 @@
                 "author": "ESSAIS DE MONTAIGNE",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "文明の急激な進歩は全く未曽有の勢いであり、今日までの常識で将来を推しはかるべきでないことを深く考えなければなりません。",
+              "citation": {
+                "source": "最終戦争論",
+                "author": "石原莞爾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われ重藏の心中を推しはかるに、左京亮に預けられたる時は、失意の極なりしなるべし。",
+              "citation": {
+                "source": "近藤重藏の富士山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あなたが、本をよめなかった間に得たものの価値について云ってらっしゃることは、大づかみではあるが私にも推しはかることが出来ないとは思いません。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三七年（昭和十二年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで爆心地にはかなり強い残存放射能があったことを推しはかることができた。",
+              "citation": {
+                "source": "この子を残して",
+                "author": "永井隆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その言葉から、その時の緊迫した情景を眼に浮べ、無量の感慨を推しはかることができた。",
+              "citation": {
+                "source": "荒天吉日",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -281,10 +321,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:28:56.695984+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 38
+      },
+      "variant_writings": [
+        "おしはかれる",
+        "おし測る",
+        "推しはかる",
+        "推しはかれる",
+        "推し測る",
+        "推し測れる",
+        "推し計る",
+        "推し量れる",
+        "推測る",
+        "推量る"
+      ]
+    }
+  },
+  {
+    "uuid": "bfe53fbc-6e6c-5bfc-bae8-dddbb2545859",
+    "entry": "押し計る",
+    "reading": {
+      "primary": "おしはかる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      },
+      "variant_writings": [
+        "押しはかる"
+      ]
     }
   }
 ]

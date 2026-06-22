@@ -1680,11 +1680,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 15661,
       "frequencies": {
         "aozora": 167
-      }
+      },
+      "variant_writings": [
+        "礦業",
+        "鑛業"
+      ]
     }
   },
   {
@@ -1884,6 +1888,141 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 13
+      }
+    }
+  },
+  {
+    "uuid": "3a130d95-6263-5f2b-a037-f3365661d26e",
+    "entry": "鋼業",
+    "reading": {
+      "primary": "こうぎょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日本では製鋼業は相當進歩して居りますが未だ自動車に最も適した材料を專門に作つて呉れる所はありません。",
+              "citation": {
+                "source": "準備は出來たトヨタは邁進します",
+                "author": "豊田喜一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "現在では、「玉井組」は、聯合組の外、三井物産、山九運輸、東海鋼業、八幡製鉄所、その他に仕事を持ち、直属の子分も、数百人を算するようになっている。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東海鋼業の仕事は、渡部徳一、八幡製鉄所の屑鉄作業の責任者は、往年の「中学生」、谷俊次である。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "篠田青年はそれまで渋谷のアパートに住んで、丸の内の東方鋼業に通勤していたのだが、そのアパートを引きはらって、行く先も告げず移転した。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
+  },
+  {
+    "uuid": "bf91f1b6-54ad-5810-8493-750300b09528",
+    "entry": "コウギョウ",
+    "reading": {
+      "primary": "こうぎょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

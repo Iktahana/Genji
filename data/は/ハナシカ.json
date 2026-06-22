@@ -317,10 +317,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:14:21.189846+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 43435,
       "frequencies": {
         "aozora": 48
+      },
+      "variant_writings": [
+        "はなし家",
+        "咄家"
+      ]
+    }
+  },
+  {
+    "uuid": "587e7cd6-047b-5566-8bfa-f2a1114880aa",
+    "entry": "ハナシカ",
+    "reading": {
+      "primary": "はなしか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "正岡容に候こと実証（昭和七年六月、国民講堂「馬楽の会」の時）　　　　二人会への口上　ハナシカは雪くれ竹のむら雀、ジャズっては泣き、じゃずっては哭きとは昔むかしその昔、九郎判官義経さまが、橋の袂に腰打ちかけて、向こうはるかに浅草の灯を、眺めし頃のタワゴトなり。",
+              "citation": {
+                "source": "寄席行燈",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "案内人の話によると、裏山からシカが湖水へ水を飲みにおりてきて、足の膝小僧まではいって水を飲んでいたところを、水の中からこのイトウが出てきて、シカの足をくわえて引きずり込んだという大陸的な話もおもしろく聞いたが、こっちもハナシカである。",
+              "citation": {
+                "source": "江戸前の釣り",
+                "author": "三遊亭金馬",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

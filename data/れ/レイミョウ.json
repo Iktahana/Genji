@@ -321,9 +321,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T09:12:47.026486+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 168
+      },
+      "variant_writings": [
+        "靈妙"
+      ]
+    }
+  },
+  {
+    "uuid": "ddca224b-4f59-5bdc-8701-5b498dacd216",
+    "entry": "霊明",
+    "reading": {
+      "primary": "れいみょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「島吉つぁん、学校に行ってるの」「尋常のしまいだけで止めた」「何に、なり度いの」　すると、この少年は功利と享楽に就て打算が速かな現代人の眼色の動きをちょっと見せたが、すぐ霊明で而も動物的な澄んだ眼に立直って言った。",
+              "citation": {
+                "source": "酋長",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "縛なく解なく、然せず滅せず」と）円覚経曰、心也者沖虚妙体、炳※霊明、無去無来、冥通三際、非中非外、洞徹十方、不滅不生、豈四山之可害、離性離相、奚五色之能盲。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（『円覚経』に曰く、「心なるものは、沖虚妙体、炳※霊明、去ることなく来たることなく、三際に冥通し、中にあらず外にあらず、十方を洞徹し、滅せず生ぜず、あに四山これを害うべからんや。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

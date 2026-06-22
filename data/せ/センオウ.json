@@ -288,6 +288,14 @@
                 "author": "地に潜むもの",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "人生の最も專横な緊急事の前にこんなにも當惑して立つてゐる私から！",
+              "citation": {
+                "source": "或女友達への手紙",
+                "author": "ライネル・マリア・リルケ　Rainer Maria Rilke",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -324,10 +332,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:11:27.909678+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 168
-      }
+      },
+      "variant_writings": [
+        "專横"
+      ]
     }
   },
   {
@@ -792,6 +803,158 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 123
+      }
+    }
+  },
+  {
+    "uuid": "52bc02a7-3624-5eed-83b1-31d777805305",
+    "entry": "鮮黄",
+    "reading": {
+      "primary": "せんおう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "菜の花の鮮黄の群れも目についた。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが十本二十本百本と次ぎ次ぎに相聳えてすくすくと伸びた大枝小枝のさきに鮮黄色の葉をつけている。",
+              "citation": {
+                "source": "みなかみ紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この開展せる瑩白色花蓋六｜片の中央に、鮮黄色を呈せる皿状花冕を据え、花より放つ佳香と相まって、その花の品位きわめて高尚であることに、われらは讃辞を吝しまない。",
+              "citation": {
+                "source": "植物知識",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右の谷間の平地に鮮黄色の花が一面に咲いている。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尾根の西側には舟底に似た草原の窪地が続いて、目のさめるような鮮黄色の信濃金梅や珍車の花などが咲いている。",
+              "citation": {
+                "source": "大井川奥山の話",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  },
+  {
+    "uuid": "0ca8bdcd-be2c-51d5-919a-ec1bc3079ec4",
+    "entry": "センオウ",
+    "reading": {
+      "primary": "せんおう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ヤナギとコケモモが咲きそろい、よい香りのするセンオウは甘い匂いをひろげていました。",
+              "citation": {
+                "source": "絵のない絵本",
+                "author": "BILLEDBOG UDEN BILLEDER",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -665,6 +665,22 @@
                 "author": "禹門三級の巻",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "溝渠の向側には小規模の鐵工場らしいものゝ廢墟がある。",
+              "citation": {
+                "source": "寫生紀行",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "櫻木海軍大佐は打笑みながらも、聲爽かに『日出雄少年は鐵工となるより、立派な海軍士官となる仕度をせねばならんよ。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -692,11 +708,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 38578,
       "frequencies": {
         "aozora": 83
-      }
+      },
+      "variant_writings": [
+        "鐵工"
+      ]
     }
   },
   {
@@ -1433,6 +1452,74 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "dcebeb36-ecae-5e8e-ac56-8d6b0bebb868",
+    "entry": "鉄鉤",
+    "reading": {
+      "primary": "てっこう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ほんとに鉄鉤に頭をぶつつけなかつたのが目つけものだよ。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　前篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白魚船ほどではないがこれも名物の鰻かき、手拭のトンガラ冠り、肩当てのある筒袖に三尺帯、「四谷怪談」の直助権兵衛という扮装で小船を操り、先の曲った所に針のある鉄鉤、一丈ばかりの竿の先へつけたのを船べりにあて、川底をグイとかく。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

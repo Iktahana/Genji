@@ -282,6 +282,22 @@
                 "author": "戸坂潤",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "さて、羽柴氏が越後で聞いた歌は、まずは『萩原随筆』のと『四神地名録』のとを折中したようだ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "和州南都の人で、詩文に深く、草書を能くし、泰勝院細川幽斎公のために、宝永年間、虚堂録を提唱し、また、折中録は一世に行われた良著だともいわれている。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -309,11 +325,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:01:01.978733+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29950,
       "frequencies": {
         "aozora": 263
-      }
+      },
+      "variant_writings": [
+        "折中"
+      ]
     }
   },
   {
@@ -623,6 +642,126 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 368
+      }
+    }
+  },
+  {
+    "uuid": "85869e18-0804-500d-aed9-d3953f9f7d32",
+    "entry": "セッチュウ",
+    "reading": {
+      "primary": "せっちゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ノコノコと怖れげもなく現れやがって、和洋セッチュウの安説法てえのがあるかい。",
+              "citation": {
+                "source": "不連続殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
+  },
+  {
+    "uuid": "13a6edb9-b405-580f-baac-be8abfd37b95",
+    "entry": "雪柱",
+    "reading": {
+      "primary": "せっちゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その覆ひのまはりには雪柱のやうなガラスの房が垂れさがつてゐて、灯をいれると、光りがキラ／＼とそれに反映して長閑な瞬きを感ぜさせるといふ風な工合が、私を悦ばせました。",
+              "citation": {
+                "source": "ランプの便り",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

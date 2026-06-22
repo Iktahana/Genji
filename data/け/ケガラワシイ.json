@@ -326,9 +326,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:23:04.995083+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 192
+      },
+      "variant_writings": [
+        "汚わしい",
+        "穢らわしい"
+      ]
+    }
+  },
+  {
+    "uuid": "339b42c6-872c-5bdc-83c3-8b7a083964b4",
+    "entry": "ケガラワシイ",
+    "reading": {
+      "primary": "けがらわしい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「あんた、あたしなんかといっしょにいるの、ケガラワシイと思っているのね」　サト子は、シヅの肩に手をまわして抱きかえしながら、「それは邪推よ……あなたが、あんまり気をつかうので、居づらくなったの。",
+              "citation": {
+                "source": "あなたも私も",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

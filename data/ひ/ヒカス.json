@@ -208,6 +208,30 @@
                 "author": "黒白帖",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "洲崎の女を落籍すとか、落籍して囲ってあるとかいう風評が、お庄らの耳へも伝わった。",
+              "citation": {
+                "source": "足迹",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでいて私は、お宮を落籍すなら受け出してすっかり自身のものとしてしまうことも出来なかった。",
+              "citation": {
+                "source": "うつり香",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、この妓を落籍するには、二千円余のお金がいった。",
+              "citation": {
+                "source": "わが寄席青春録",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -230,9 +254,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:08:08.426575+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 183
+      },
+      "variant_writings": [
+        "惹かす",
+        "落籍す"
+      ]
+    }
+  },
+  {
+    "uuid": "0e75d23c-d6ef-5679-934e-096747b4f972",
+    "entry": "弾かす",
+    "reading": {
+      "primary": "ひかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「三味は」　と、弾かすと、義太夫の食客、トテシャンと弾く。",
+              "citation": {
+                "source": "傾城買虎之巻",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 14
       }
     }
   }

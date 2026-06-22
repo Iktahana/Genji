@@ -317,10 +317,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T01:52:34.325852+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 21701,
       "frequencies": {
         "aozora": 288
+      },
+      "variant_writings": [
+        "みやげ物",
+        "土産もの"
+      ]
+    }
+  },
+  {
+    "uuid": "8eacdc42-c0bd-515e-9017-0bf637b58aa4",
+    "entry": "ミヤゲモノ",
+    "reading": {
+      "primary": "みやげもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ミヤゲモノを買いにでました。",
+              "citation": {
+                "source": "投手殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ビックリ箱でも、ミヤゲに持ッてらッしゃい」　しかし、せつ子は珍奇なミヤゲモノをズラリと並べて信長を呆気にとらせた秀吉の女房のような女であるから、放二の病床を慰めるもの、長平へのもの、ルミ子への手ミヤゲに至るまで、しこたま買いこんで、パンパンアパートへ高級車をのりつけた。",
+              "citation": {
+                "source": "街はふるさと",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

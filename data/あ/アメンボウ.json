@@ -215,6 +215,14 @@
                 "author": "芥川龍之介の囘想",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "機械の中から吹き出る綿菓子を雪のように積らせた店や、彩色入りの長い飴棒を束ねた店や、玩具店などと並んだところは、日本の縁日に似た町祭だったが、その間を歩く人人はあまり嬉しそうな様子もなかった。",
+              "citation": {
+                "source": "旅愁",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -236,9 +244,96 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:41:16.483401+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 17
+      },
+      "variant_writings": [
+        "飴棒"
+      ]
+    }
+  },
+  {
+    "uuid": "20f78a80-084c-5096-9df8-ea75b2ec5c95",
+    "entry": "アメンボウ",
+    "reading": {
+      "primary": "あめんぼう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして、かすかに眼蓋を開くと、あしもとの小川の水は眼ばゆく照り映えて、空のやうに澄んだ水底には、水カマキリやヤゴが物憂気に逼ひまはり、目高が飛び交ひ、アメンボウが水の表面を長い脚で可笑しく歩いてゐるのだ。",
+              "citation": {
+                "source": "ベツコウ蜂",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでもその三枚を仔細に見わけると、明暗の微かな相違が認められ、全々の白紙と、積乱雲の影らしいものと、また一尾のアメンボウの姿らしいものが発見出来るので、夫々に、水や倒さまの雲やアメンボウを写すのが目的ではなかつたといふ言葉を附けたして、採集日誌のスクラツプにはさんだ。",
+              "citation": {
+                "source": "ベツコウ蜂",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時、アメンボウが飛んだやうに水の上に雫が落ちるのだ。",
+              "citation": {
+                "source": "天狗洞食客記",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから高等学校入学早々、アメンボウという綽名がついてしまった。",
+              "citation": {
+                "source": "故郷七十年",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

@@ -331,11 +331,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:29:58.289931+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4875,
       "frequencies": {
         "aozora": 614
-      }
+      },
+      "variant_writings": [
+        "抛棄"
+      ]
     }
   },
   {
@@ -1327,11 +1330,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 34898,
       "frequencies": {
         "aozora": 945
-      }
+      },
+      "variant_writings": [
+        "ホウキ",
+        "ホーキ"
+      ]
     }
   },
   {
@@ -1997,11 +2004,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36250,
       "frequencies": {
         "aozora": 17
-      }
+      },
+      "variant_writings": [
+        "寶器"
+      ]
     }
   },
   {
@@ -2992,6 +3002,114 @@
       "freq_rank": 36250,
       "frequencies": {
         "aozora": 398
+      }
+    }
+  },
+  {
+    "uuid": "888df4db-0d4d-5872-9c92-1ecd05320898",
+    "entry": "法器",
+    "reading": {
+      "primary": "ほうき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もっともこう言ったからとて私は、定石的数学応用の理論や既成的の方法器械によるルーティン的の実験測定の仕事の価値を少しでもけなそうとするものではない。",
+              "citation": {
+                "source": "ルクレチウスと科学",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今この法器にあうべき前兆であったわい」　といって悦ばれた。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは叡山に修学の当然であるが、中川の阿闍梨｜実範が深く法然の法器に感じて許可｜灌頂を授け一宗の大事を残りなく伝えられた。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "建久九年の春には法然から撰択集を授けられ、「汝は法器である。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一は額頭礼、額を頭に付ける礼、一は按双手礼、それから按隻手礼と、按法器礼の四つでありますが、三つは前に言った通りで大抵分って居りましょうが第四番目のは普通に用いない。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それはそういう尊いラマが俗人の頭に手を着けるということが出来ないから、そこで采配のような仏器を拵えてその器で頭をさすってやるのが按法器礼であります。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道元は真実の道心のゆえに山門を辞して諸方を訪い、ついに栄西によって法器とされた。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
       }
     }
   }

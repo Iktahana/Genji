@@ -281,6 +281,22 @@
                 "author": "寺田寅彦",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "永遠に――おそらくは幾世紀の間を通じて――或る物すごい缺乏と不滿をもつた、人の目に見えない動物が生きて居た。",
+              "citation": {
+                "source": "宿命",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし抒情詩とちがつて、理智的な思想要素が多い散文詩では、本來さうした哲學性に缺乏してゐる日本語が、殆んど本質的に不適當である。",
+              "citation": {
+                "source": "宿命",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -307,11 +323,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:27:13.385468+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 20723,
       "frequencies": {
         "aozora": 919
-      }
+      },
+      "variant_writings": [
+        "缺乏"
+      ]
     }
   },
   {
@@ -396,6 +415,77 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "341acb59-23a0-567f-9775-8feafba48dfc",
+    "entry": "欠亡",
+    "reading": {
+      "primary": "けつぼう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "探偵ができるのは人間の理想の四分の三が全く欠亡して、残る四分の一のもっとも低度なものがむやみに働くからであります。",
+              "citation": {
+                "source": "文芸の哲学的基礎",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "といつて若し大戰後の最初のこの夏に、一般の旅客が、戰前にもまして入國しようものならば、忽ち食糧の缺亡を來たすにきまつてゐた。",
+              "citation": {
+                "source": "山岳美觀",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "缺亡"
+      ]
     }
   }
 ]

@@ -701,11 +701,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1513,
       "frequencies": {
         "aozora": 1114
-      }
+      },
+      "variant_writings": [
+        "參照"
+      ]
     }
   },
   {
@@ -1035,11 +1038,17 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 31634,
       "frequencies": {
         "aozora": 269
-      }
+      },
+      "variant_writings": [
+        "さんしょ",
+        "サンショ",
+        "サンショウ",
+        "ザンショウ"
+      ]
     }
   },
   {
@@ -1971,6 +1980,137 @@
       "frequencies": {
         "aozora": 27
       }
+    }
+  },
+  {
+    "uuid": "de48075e-4152-512b-b10f-ccc86baec087",
+    "entry": "散娼",
+    "reading": {
+      "primary": "さんしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そうして一定の場所に集って売淫するものを集娼といい、個々に諸処へ散在して売淫するものを散娼というのであるが、公娼にも巴里のそれのように散娼と集娼とがあり、私娼にも散娼と集娼とがある。",
+              "citation": {
+                "source": "私娼の撲滅について",
+                "author": "与謝野晶子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
+  },
+  {
+    "uuid": "8f52969f-a1d2-5bc2-abca-f93834f70226",
+    "entry": "参商",
+    "reading": {
+      "primary": "さんしょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "参商一隔、いかにおはすらんと筆はとれど書やるすべもなく、こゝろ迷ひぬるは、綣恋之情かたみに同じかるべし。",
+              "citation": {
+                "source": "鴎外の思い出",
+                "author": "小金井喜美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今これを星に喩えれば参商の二星が天空で相会わぬと同趣だ。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "參商"
+      ]
     }
   }
 ]

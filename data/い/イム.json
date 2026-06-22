@@ -328,11 +328,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T21:22:12.679259+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 34656,
       "frequencies": {
         "aozora": 89
-      }
+      },
+      "variant_writings": [
+        "醫務"
+      ]
     }
   },
   {
@@ -727,6 +730,114 @@
       "freq_rank": 32733,
       "frequencies": {
         "aozora": 706
+      }
+    }
+  },
+  {
+    "uuid": "34cf4f9a-6cb1-5e2a-ae6a-d753efea0a2e",
+    "entry": "異夢",
+    "reading": {
+      "primary": "いむ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "国忠の言を案ずると、フィリポス王同然自分もちょうどその時異夢を見たのだろう。",
+              "citation": {
+                "source": "十二支考",
+                "author": "蛇に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "早くも、遺臣仲間の同床異夢は見ッともない。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同舟異夢の家出だった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こういう同舟異夢の食いちがいが、内部にかもされやすいことは、聯合軍の弱点である。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十一分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遅れは許さん」第三十七章　同床異夢　ペリトリ王子が声を押し殺し、吹き出した。",
+              "citation": {
+                "source": "王冠の重み",
+                "author": "The Weight of the Crown",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまるところ、上下一体、天下分け取りの分け前に、ひとしく気が立っていたのでもあるが、しかし、　高氏　道誉　の、じつは異夢同床の二頭目だけは、やや趣がちがっていた。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "千早帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「縁あらば」　と、他日一つの酒を酌み合い、同床異夢にあらぬ同夢をみることがないでもないと思っていたのだ。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

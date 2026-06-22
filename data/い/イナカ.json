@@ -386,11 +386,77 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T18:33:39.840852+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3449,
       "frequencies": {
         "aozora": 8217
+      },
+      "variant_writings": [
+        "イナカ"
+      ]
+    }
+  },
+  {
+    "uuid": "785875fd-213a-5a0a-8507-ce8e1474ceef",
+    "entry": "医仲",
+    "reading": {
+      "primary": "いなか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "軍醫仲間の相談の結果何でも屹度彼奴は假病に相違ない。",
+              "citation": {
+                "source": "開業醫",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "醫仲"
+      ]
     }
   }
 ]

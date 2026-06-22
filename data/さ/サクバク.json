@@ -264,6 +264,38 @@
                 "author": "昭和十一年",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "そして、ゴルキイの小説によく出てくる露西亞の草原を聯想させるやうな、荒涼とした原の中に工場と、工場｜附屬の住宅と、貧しげな商家農家の百軒あまりがまばらに立ち並び、遠く北の方に樽前山の噴火の煙が見えるのも妙に索漠たる感じを誘つた。",
+              "citation": {
+                "source": "處女作の思ひ出",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ハルピンの十月末、と云つても、あたりはもう索漠たる冬景色だつた。",
+              "citation": {
+                "source": "ハルピンの一夜",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私も何か知ら不意に索漠たる氣持を胸に感じながら、そのまま口を噤んだ。",
+              "citation": {
+                "source": "ハルピンの一夜",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、私は傷ましい悲劇の女主人公を眼の前にしながら、ただ索漠たる氣持の中に陷るばかりだつた。",
+              "citation": {
+                "source": "ハルピンの一夜",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -284,9 +316,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:37:09.462252+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 26
+      },
+      "variant_writings": [
+        "索寞",
+        "索漠"
+      ]
+    }
+  },
+  {
+    "uuid": "309e1b4f-55ee-5a41-aa7f-a3dcbc3eaccc",
+    "entry": "サクバク",
+    "reading": {
+      "primary": "さくばく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然し、已を得ないと云うような言葉はつまり、弱者の云うことで――実際、此のサクバクたる農村が、郡山と同様の地租その他を負担させられると云うのは可哀そうなことです。",
+              "citation": {
+                "source": "日記・書簡",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "食事――さて、何ともサクバクとした気持になった。",
+              "citation": {
+                "source": "古川ロッパ昭和日記",
+                "author": "昭和十一年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

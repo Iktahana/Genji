@@ -734,11 +734,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6484,
       "frequencies": {
         "aozora": 358
-      }
+      },
+      "variant_writings": [
+        "さん地"
+      ]
     }
   },
   {
@@ -1061,6 +1064,85 @@
       "frequencies": {
         "aozora": 126
       }
+    }
+  },
+  {
+    "uuid": "964edbea-0e98-5c2b-b92c-6b5e5c3a0ec3",
+    "entry": "参知",
+    "reading": {
+      "primary": "さんち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "参知政事の梁粛は、若い時にこの郷の※馬嶺というところに住んでいた。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "続夷堅志・其他",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先づ昭勇大將軍（正三品）を授け、※廣大都督兵馬招討使に任じ、ついで江西行省の參知政事（從二品）となし、至元十五年（西暦一二七八）の八月には、福建行省の中書左丞（正二品）に登庸して居る。",
+              "citation": {
+                "source": "蒲壽庚の事蹟",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その他蒲壽庚の一族としては『通志』卷の三十に據ると、元の世祖の末年に、福建行省の參知政事（從二品）となつた蒲師武といふ者がある。",
+              "citation": {
+                "source": "蒲壽庚の事蹟",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "參知"
+      ]
     }
   }
 ]

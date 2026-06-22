@@ -247,6 +247,22 @@
                 "author": "高見順",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "論爭點は主として描寫の樣式、文體、せいぜいのところで藝術價値の見方、人生觀の相違にとどまつた。",
+              "citation": {
+                "source": "文藝運動と勞働運動",
+                "author": "平林初之輔",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "父と子とより出づ神學上の一論爭點なり、ダンテはトマスその他所謂｜正統派の人々の説に從へり〔うちまもり〕父なる神が子を通じて宇宙を造り給へるをいふ〔心または處〕心に現はるゝものは靈に屬する物、空間に存在するものは物質に屬する物〔これを〕この秩序を七―九〔ところ〕晝夜平分點。",
+              "citation": {
+                "source": "神曲",
+                "author": "LA DIVINA COMMEDIA",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -278,11 +294,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T02:49:15.436260+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 9490,
       "frequencies": {
         "aozora": 11
-      }
+      },
+      "variant_writings": [
+        "爭點"
+      ]
     }
   },
   {
@@ -612,11 +631,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:58:42Z",
       "freq_rank": 31377,
       "frequencies": {
         "aozora": 83
-      }
+      },
+      "variant_writings": [
+        "裝填"
+      ]
     }
   },
   {
@@ -2045,6 +2067,74 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "bf5c4645-4b8d-5a92-a5f6-c3f6ef13ff56",
+    "entry": "霜天",
+    "reading": {
+      "primary": "そうてん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然れども太平の酔客は、霜天の晨鐘に目を醒すを欲せず。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　正月十日、霜天に泡を吹いて、ガラツ八の八五郎、奔馬のやうに飛んで來たのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "江戸の夜光石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

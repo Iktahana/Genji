@@ -287,6 +287,14 @@
                 "author": "夢野久作",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "天どんなぞは驕の沙汰で、辻売のすいとん、どうまた悟りを開いたか、茶めし、餡かけ、麦とろに到るまで、食いながら、撮みながら、その色もの、また講釈、芝居の立見。",
+              "citation": {
+                "source": "雪柳",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -350,10 +358,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T09:58:16.190150+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 41007,
       "frequencies": {
         "aozora": 42
+      },
+      "variant_writings": [
+        "天どん"
+      ]
+    }
+  },
+  {
+    "uuid": "546a5efb-b64b-563a-a85b-175e43f9c824",
+    "entry": "テンドン",
+    "reading": {
+      "primary": "てんどん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――　テンドンドン、テケレンと、囃子がはじまる。",
+              "citation": {
+                "source": "河伯令嬢",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これだけは今日といえども変わっていない）、テケテン、テンドンと流れてきたろう馬鹿囃子の音色を考えると、明治の末年らしいしめやかな「東京の呼吸」をなつかしく感じないわけにはゆかない。",
+              "citation": {
+                "source": "随筆　寄席囃子",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

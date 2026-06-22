@@ -1497,11 +1497,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 40321,
       "frequencies": {
         "aozora": 231
-      }
+      },
+      "variant_writings": [
+        "騒じょう",
+        "騷擾"
+      ]
     }
   },
   {
@@ -1632,6 +1636,14 @@
                 "author": "SANS FAMILLE",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "又　　雙調憶江南春已逝　　　　　　春已に逝き、花落割愁腸　　　　花落ちて愁腸を割く。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1700,7 +1712,749 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-22T05:58:42Z",
+      "variant_writings": [
+        "雙調"
+      ]
+    }
+  },
+  {
+    "uuid": "af06af16-4cd2-5324-a3bd-f87d9d881563",
+    "entry": "葬場",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "火葬場からの帰途、それは薄曇りの日であつたが、白つぽい道の上を歩きながら、死んだ弟の次の弟が、訊かれたでもないのに、フト語り始めるのであつた。",
+              "citation": {
+                "source": "亡弟",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その火葬場のすぐ上流は、発電所工事の砂やバラスの採集所になっていた。",
+              "citation": {
+                "source": "山谿に生くる人々",
+                "author": "――生きる為に――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "棺は、釣橋を渡ったり、新らしくできた道路を通ったり、そのまだ開通しない個所から急に、山の断崖を河原に下ったり、バラス採集所の掘り残しの狭い高いところを通ったりして、火葬場まで行かねばならなかった。",
+              "citation": {
+                "source": "山谿に生くる人々",
+                "author": "――生きる為に――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "火葬場の煙突のような大きい煙突が立っていた。",
+              "citation": {
+                "source": "火の鳥",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "火葬場の煙突のやうな大きい煙突が立つてゐた。",
+              "citation": {
+                "source": "火の鳥",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大きなアカシヤのかげには火葬場が作られていた。",
+              "citation": {
+                "source": "武装せる市街",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背後の村には燃えさしの家が、ぷすぷす燻り、人を焼く、あの火葬場のような悪臭が、部隊を追っかけるようにどこまでも流れ拡がってついてきた。",
+              "citation": {
+                "source": "パルチザン・ウォルコフ",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女がこと切れた時よりも、火葬場での時よりも、変わった土地へ来てするこんな経験の方に「失った」という思いは強く刻まれた。",
+              "citation": {
+                "source": "城のある町にて",
+                "author": "梶井基次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "腕で引き裂いて総歯で噛み砕いて、滓にして吐き出して、それを靴の踵で踏みにじって、それから火葬場の炉の中ですっかり焼き尽してしまいたかった。",
+              "citation": {
+                "source": "決闘場",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見物のいない客席は夜の火葬場のようにひっそりとしていた。",
+              "citation": {
+                "source": "夜の構図",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遺骸は町屋の火葬場で火葬に付して、その翌朝Ｔ老教授とＮ教授と自分と三人で納骨に行った。",
+              "citation": {
+                "source": "Ｂ教授の死",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）「ちっとも構やしない、火葬場ですもの。",
+              "citation": {
+                "source": "卵塔場の天女",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宮中からお使いが葬場へ来た。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "桐壺",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いよいよ夫人を鳥辺野の火葬場へ送ることになった。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "葵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "院はもとよりのこと、お后方、東宮から賜わった御使いが次々に葬場へ参着して弔詞を読んだ。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "葵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空を歩くような気持ちを覚えて薫は葬場へ行ったのであるが、火葬の煙さえも多くは立たなかったのにはかなさをさらに感じて山荘へ帰った。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "総角",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牛はことごとく完全に消毒的手配をして火葬場へ運ぶのである。",
+              "citation": {
+                "source": "去年",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三日前、火葬場へ行つたときも、二十幾年も前に、嘗て私がＫ―の祖母を送つたときと同じ光景であつた。",
+              "citation": {
+                "source": "和解",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "火葬場の帰りに、私は幾年ぶりかで、その近くに住んでゐる画伯と一緒に、Ｋ―の家へ寄つてみた。",
+              "citation": {
+                "source": "和解",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私が驚いたことは、自動車の一隊が火葬場の入口へ入つたとき、何か得体の知れない音楽が、遽かに起つたことであつた。",
+              "citation": {
+                "source": "町の踊り場",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "悪性の流行感冒は日に幾十となくその善良な市民を火葬場に送つた。",
+              "citation": {
+                "source": "白帝城",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "火葬場の女松や枯｜櫟や、通り過ぎると、青い杉や小松の長い長いトンネルになる。",
+              "citation": {
+                "source": "蜜柑山散策",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南湖院｜潮騒ひくし春もやや闌けにつつありて人は果てたり臨終まで我をたのめと沙汰せよと待ちまけし君をひとり死なしぬ死顔の神さぶ見れば灯をつけて揺るるコードの影か隈だつ電気火葬仏は義妹富子の母刀自、落合火葬場にて。",
+              "citation": {
+                "source": "夢殿",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "悪性の流行｜感冒は日に幾十となくその善良な市民を火葬場に送った。",
+              "citation": {
+                "source": "木曾川",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かうしてあの暗い野道を、車夫達は掛聲から掛聲を送りながら、あの暗い險しい寂しい火葬場のある山の下に着きました。",
+              "citation": {
+                "source": "響",
+                "author": "水野仙子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、村には火葬場がなかった。",
+              "citation": {
+                "source": "或る嬰児殺しの動機",
+                "author": "佐左木俊郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伝染病患者の死体を遠くの火葬場まで運んでいくわけにもいかなかったので、駐在所巡査と村役場の書記とが立ち会い、墓場の傍の大きな樫の木の下の空地で原始的な火葬を行うのが村の習慣であった。",
+              "citation": {
+                "source": "或る嬰児殺しの動機",
+                "author": "佐左木俊郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "義雄は、弟の馨に桐ヶ｜谷の火葬場へ行くつもりで、直ぐ支度をして來いと云ふ使ひを出してから、先づ知春の室に行つた。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "毒藥を飮む女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて義雄の弟がやつて來たので、死骸に付き添つて桐ヶ谷へ行かせることにし、今夜はそこの火葬場の茶屋へとめて貰ひ、あすの朝、骨拾ひをして歸るやうに命じた。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "毒藥を飮む女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新井の薬師の帰りに、大久保へ出て、野々宮君の家へ廻らうと思つたら、落合の火葬場の辺で途を間違へて、高田へ出たので、目白から汽車へ乗つて帰つた。",
+              "citation": {
+                "source": "三四郎",
+                "author": "夏目金之助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 28
+      }
+    }
+  },
+  {
+    "uuid": "47401295-bc44-5866-97ec-14d34f453092",
+    "entry": "総状",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "すなわちその花序は閉頭総状花である。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "言葉を換えていってみれば、これは変形せる一つの総状花穂（raceme）である。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてこの植物にはかく刺はあるが、その再羽状複葉はその姿その色まことに眼に爽かであるばかりではなく、さらに大きな花穂を葉間に直立させて黄花を総状花序に綴るの状また大いに観るに足り、塀上の風趣｜転た掬すべきものがある。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花は淡黄色小形で枝頭に短縮した穂状様の総状花序をなしており、葉には毛がない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茎は緑色で枝を分ち花は小さくて多数総状花穂に着き白色の十字花で花中に四長二短の大雄蕊を有する。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花は真紅で、無数の花を綴って総状になって咲くのであるが、亜熱帯のコバルト色の空のなかに、燃える焔を高くかざしたように咲いているのは、なんとも言えない美しさで、沖縄では情熱の象徴として珍重されている花なのだ。",
+              "citation": {
+                "source": "梯梧の花",
+                "author": "山之口貘",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  },
+  {
+    "uuid": "f8424e8d-a4af-5af2-8afe-e247811f4f24",
+    "entry": "宋襄",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "物の哀れというのも安直な感傷や宋襄の仁を意味するものでは決してない。",
+              "citation": {
+                "source": "俳諧の本質的概論",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）建文帝の仁柔の性、宋襄に近きものありというべし。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は今朝パリの宿を出て以來、一物も咽喉を通して居らず、それに、がらにもない宋襄の仁は私の身體を綿のやうに疲らせ、私の足を棒のやうに麻痺させてしまつた。",
+              "citation": {
+                "source": "大戰脱出記",
+                "author": "野上豐一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いはゆる宋襄之仁とて、後世の物笑の一となつて居るが、併し『公羊傳』を見ると、當時の世評は非常に襄公を褒めて、たとひ戰爭に負けても禮儀を忘れぬ所が君子である。",
+              "citation": {
+                "source": "支那人の文弱と保守",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旺盛な敵愾心とは、敵のなかの「敵」を徹底的に憎むことであり、そのなかに「敵ならざるもの」があるといふ理由で、苟くも敵に気をゆるすが如き「宋襄の仁」を排撃する精神を云ふのである。",
+              "citation": {
+                "source": "空地利用",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  },
+  {
+    "uuid": "3e23bb23-6d12-55f9-9a4f-b46c7882c177",
+    "entry": "掃攘",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "将軍上洛、諸藩と共に攘夷を議するか没海五大藩を任じて夷狄掃攘に当らせるか慶喜を将軍後見職に越前春岳を政治総裁に任ずるか　幕府は第三条を奉承したから、一応水戸ブロックの幕政参与は実現したわけだが、その第一の政治は、参覲交代制緩和以下の幕政改革による藩権伸張策だった。",
+              "citation": {
+                "source": "尊攘戦略史",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文政八年、幕府は「異國船掃攘令」を出してゐるが、直接にはこの「突拍子もない船」の來着に原因してゐるのは自然だし、よほど手を燒いたにちがひない。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
+  },
+  {
+    "uuid": "476a3d35-8511-5a3b-bfa9-9f2c093cf3eb",
+    "entry": "奏状",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日比谷大路の拝観者の群中に混じて、時間の到来を待つて居た田中正造は、手に一通の奏状を捧げ、『御願が御座ります――』と、高く呼びつゝ、還幸の御馬車目がけて飛び出した。",
+              "citation": {
+                "source": "政治の破産者・田中正造",
+                "author": "木下尚江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから、鉱毒問題に対する最後の道として、一身を棄てゝ直訴に及ぶの苦衷を物語り、これが奏状は余の儀と違ひ、文章の間に粗漏欠礼の事などありてはならぬ故、事情斟酌の上、筆労を煩はす次第を懇談に及んだ。",
+              "citation": {
+                "source": "臨終の田中正造",
+                "author": "木下尚江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今朝芝口の旅宿を尋ねると、翁は既に身支度を調へて居り、幸徳の手から奏状を受取ると、黙つてそれを深く懐中し、用意の車に乗つて日比谷へ急がせたと云ふ。",
+              "citation": {
+                "source": "臨終の田中正造",
+                "author": "木下尚江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「もうじきお通りですよ」　正造はハッとわれに返り、あわてて奏状を懐に入れると、すぐに廊下へ走出た。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その奏状の後段には、「臣夙ニ鉱毒ノ禍害ノ滔々底止スル所ナキト民人ノ痛苦其極ニ達セルトヲ見テ、憂悶手足ヲ措クニ処ナシ。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "興福寺｜奏状　という一文を草して、表を朝廷にさし出し、つぶさに、吉水の罪状というものをかぞえ上げたものである。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さらに「元弘日記裏書」によれば、尊氏ノ奏状｜到来十一月十八日　との明記もあり。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――いずれにせよ、すでに官軍発向の準備や任命などに、朝廷の内外ともに沸くばかりな空気のところへ、この奏状がとどいたことはたしかであった。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――尊氏の奏状など、その一行の文も、おとりあげにはなっておらんが、それにせよ、ご潔白を立てる要はある」　その夜、義貞は灯をかきたてて、痛烈な反駁の一文を草し、あくる日ただちに上覧にいれた。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
+  },
+  {
+    "uuid": "697349bb-fa8a-5dd8-a9f3-163516f92161",
+    "entry": "荘襄",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二　始皇帝は孝公五世の孫、秦の莊襄王の子で、年十三の時、父の後を承けて秦王となつた。",
+              "citation": {
+                "source": "秦始皇帝",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "莊襄"
+      ]
     }
   }
 ]

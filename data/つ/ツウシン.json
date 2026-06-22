@@ -325,11 +325,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T07:58:54.784793+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 991,
       "frequencies": {
         "aozora": 1514
-      }
+      },
+      "variant_writings": [
+        "通訊"
+      ]
     }
   },
   {
@@ -652,6 +655,90 @@
       "freq_rank": 40576,
       "frequencies": {
         "aozora": 35
+      }
+    }
+  },
+  {
+    "uuid": "c30f5264-b45c-5a9d-aab0-915f941a7fb6",
+    "entry": "通身",
+    "reading": {
+      "primary": "つうしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "けふもサケナシデーだつた、いやナツシングデーだつた、時々、ちよいと一杯やりたいなあと思つた、私は凡夫、しかも下下の下だ、胸中未穏在、それは仕方がない、酒になれ、酒になれ通身アルコールとなりきれば、それはそれでまたよろしいのだが、そこまでは達しえない、咄、撞酒糟漢め。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "満心の恥、通身の汗。",
+              "citation": {
+                "source": "旅日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○　雪中の葬式　吾が国に雪吹といへるは、猛風不意に起りて高山平原の雪を吹散し、その風四方にふきめぐらして寒雪百万の箭を飛すが如く、寸隙の間をも許さずふきいるゆゑ、ましてや往来の人は通身雪に射れて少時に半身雪に埋れて凍死する※、まへにもいへるがごとし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たけは六尺ばかり、赤髪、裸身、通身灰色にて、毛の脱たるに似たり、腰より下に枯草をまとふ。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
       }
     }
   }

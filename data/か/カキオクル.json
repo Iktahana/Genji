@@ -280,6 +280,30 @@
                 "author": "JEAN CHRISTOPHE",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "就てはあなたのお筆が与へた動機に因る反省をあなたに向つて書送る事を年若き一｜仏蘭西婦人にお許し下さい。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "京都で梶原氏に別れると直ぐに手帖を取出して、先づ大阪毎日新聞に宛て、夕刊記載の記事の捏造である事、その記事を取消すべき事、その捏造を敢てしたる記者を罰すべき事を書送るつもりで草案を書き始めた。",
+              "citation": {
+                "source": "貝殼追放",
+                "author": "新聞記者を憎むの記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手紙の外は何も書かず、讀まず、その手紙もまるで日記ばかりで、その日その日の心を書きおくるだけで、不思議な位に空虚だつた。",
+              "citation": {
+                "source": "摩周湖紀行",
+                "author": "――北海道の旅より――",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -294,9 +318,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-29T15:12:00.092508+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 208
+      },
+      "variant_writings": [
+        "書きおくる",
+        "書送る"
+      ]
+    }
+  },
+  {
+    "uuid": "42b93aa2-6230-548f-aa8b-f54a14b8f6cd",
+    "entry": "書き贈る",
+    "reading": {
+      "primary": "かきおくる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "されどわれがなんじらに書き贈るところはまた新しき誡なり。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
       }
     }
   }

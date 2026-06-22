@@ -824,11 +824,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1340,
       "frequencies": {
         "aozora": 2917
-      }
+      },
+      "variant_writings": [
+        "範圍"
+      ]
     }
   },
   {
@@ -1114,6 +1117,130 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 16
+      }
+    }
+  },
+  {
+    "uuid": "3bd9e978-f566-5c16-9fdb-0d255da94c3a",
+    "entry": "反意",
+    "reading": {
+      "primary": "はんい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ひょっとしたら自分の息子と交際のある年上の女性というところをおかしく考え、一種の反意をこういう態度によって示すのではないかしらと、僻みをさえ覚えた。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは大体に於て「円破党」の反意派なのである。",
+              "citation": {
+                "source": "貧しき日録",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "解らない文字の意味も、二十も三十も同意語、反意語で例証されゝば自づと通ずるのである。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は、「同意語と反意語」を何遍も何遍もひつくり返して判読したのだが、事更にそんな言葉を与へられたかと思ふと、皮肉にとらずには居られなかつたのだ。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "母に対しても、周子に対しても、その彼の弱さは決して“Evil”の反意語ではなかつた。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "上告文には、坂東一帯の騒擾は、すべてこれ、彼の野望と、中央無視の反意によるものであるとなし――為ニ、荘園ハ枯渇シ、農民ハ焦土ニ泣涕流亡シ、ソノ暴状ハ鬼畜モヨク為ス所ニアラズ――と、誇張した文辞で、将門の反官的行為を、ある事ない事、針小棒大に書き出してある。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旧い法城に住む僧として今、信長に反意をもたない僧は、ひとりもなかったであろう。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "討伐にかからない前は、その大敵の本拠、八上城を中心として、ひとしく織田信長へ反意を示している大小地方武族の旗は、各地の要害に散在する四十余ヵ所の城と、三十余ヵ所の砦にわかれて翻っていたものである。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――偽宮方と申すものだ」「偽宮方」「六波羅の放免（密偵）どもも、次第に、賢うなって来たわ――宮方の密使や説客などが、まま山伏すがたを仮りて往来することあるを知り、近ごろは、彼らの仲間が山伏の皮をかぶって、幕府に反意あるものを、頻りに嗅ぎ歩いているものらしい」「すれや、一大事だ」「何が一大事？",
+              "citation": {
+                "source": "私本太平記",
+                "author": "婆娑羅帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
       }
     }
   }

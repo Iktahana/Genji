@@ -147,5 +147,76 @@
         "aozora": 24
       }
     }
+  },
+  {
+    "uuid": "3f065259-c766-579b-9c81-6e914d9455e7",
+    "entry": "擦り剥く",
+    "reading": {
+      "primary": "すりむく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その拍子に倒れて、膝をしたゝか打って擦り剥く。",
+              "citation": {
+                "source": "四つの都",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから海へ入ると、波に押し倒されて、すぐ手だの足だのを擦り剥くのです。",
+              "citation": {
+                "source": "こころ",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 33
+      },
+      "variant_writings": [
+        "擦剥く"
+      ]
+    }
   }
 ]

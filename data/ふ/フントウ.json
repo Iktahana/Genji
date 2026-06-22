@@ -365,11 +365,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:00:31.150732+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8005,
       "frequencies": {
         "aozora": 493
-      }
+      },
+      "variant_writings": [
+        "奮鬪"
+      ]
     }
   },
   {
@@ -550,6 +553,90 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 1
+      }
+    }
+  },
+  {
+    "uuid": "95fca17c-a90c-5f0a-a901-79d4b5ee9384",
+    "entry": "フントウ",
+    "reading": {
+      "primary": "ふんとう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "フントウ　ヲ　シャス、セイコー　ヲ　イノル、キカンブカフ　一ドー　セーラー　ショクンと電報文みたいに片仮名で書いてあった。",
+              "citation": {
+                "source": "海に生くる人々",
+                "author": "葉山嘉樹",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "結局、神蔭流の極意によって、狂六はジリジリと追いつめられ、危機打開のために、イヤでも彼が孤軍フントウ立向わねばならないようになってしまった。",
+              "citation": {
+                "source": "影のない犯人",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし尚もひるむところはなく孤軍フントウ稽古をつづけているところ、見かけとちがってオカミサンは剛気であり、大そう負けギライらしい。",
+              "citation": {
+                "source": "九段",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「どこへ行くんだ」「ちょっと」「ちょっと、なんだ」「フントウバだ」　監獄の便所のことで、ムシニン（囚人）の言葉だが、ムシ（監獄）に縁の深い俺たちはズバチョオ（手水場）なんて言葉よりもっぱらこれを使っていた。",
+              "citation": {
+                "source": "いやな感じ",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

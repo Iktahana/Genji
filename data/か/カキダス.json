@@ -272,6 +272,30 @@
                 "author": "海野十三",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "私もやうやく『行乞記』を書きだすことが出来るやうになつた。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二、三行書きだすと、与次郎がまた、耳のそばへ口を持ってきた。",
+              "citation": {
+                "source": "三四郎",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、書きだすと、さうは行かなくなつてしまふ。",
+              "citation": {
+                "source": "理想の女",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -426,11 +450,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:37:18.575147+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 43328,
       "frequencies": {
         "aozora": 476
-      }
+      },
+      "variant_writings": [
+        "書きだす",
+        "書き出だす"
+      ]
     }
   },
   {
@@ -631,6 +659,125 @@
       "frequencies": {
         "aozora": 103
       }
+    }
+  },
+  {
+    "uuid": "30157f68-e4d0-5713-9493-3a10575c9a09",
+    "entry": "掻き出す",
+    "reading": {
+      "primary": "かきだす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "燃えても構はずに掻き出す。",
+              "citation": {
+                "source": "炭燒のむすめ",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遂にはじうつと傍の流へ突つ込んで、更に水に浸して置いた鍵の手で掻き出す。",
+              "citation": {
+                "source": "炭燒のむすめ",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "少し掻き出すと一つに寄せてそれへ灰を掛ける。",
+              "citation": {
+                "source": "炭燒のむすめ",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と、父親は匙で玉菜を掻き出すやうにしながら言つた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一｜方には深き凹み有り、一方には物を掻き出すに都合好き構造有り。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "内部は二重の板張りで、貝を焼く窯が三基並んでい、おのおの貝殻を投げ入れる口と、焼きあげて出来た石灰を掻き出す口と、それらの下に、薪を燃やす大きな焚口が付いていた。",
+              "citation": {
+                "source": "青べか物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことに夜、お通夜に明かし、晨に、菊池さんの遺骸を火葬場に送つて、あの火葬場の無慈悲な煉瓦の窯口から、鐵のマンガみたいなもので、數片の白骨と灰とを掻き出すところを拜んできたばかりなので、自分のあたまも甚しく整理を缺いてゐる。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて、苦々しそうに、そして切なそうに、眉を顰めて、唇を引結ぶと、グウグウとまた鼾を掻出す。",
+              "citation": {
+                "source": "南地心中",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 51
+      },
+      "variant_writings": [
+        "掻出す"
+      ]
     }
   }
 ]

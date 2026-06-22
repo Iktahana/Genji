@@ -240,6 +240,14 @@
                 "author": "ESSAIS DE MONTAIGNE",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "で、まんまと目的を果した男は、死骸の発見を後らす為に、電燈を消して立去ったのです。",
+              "citation": {
+                "source": "Ｄ坂の殺人事件",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -268,9 +276,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:23:58.741992+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 50
+      },
+      "variant_writings": [
+        "後らす"
+      ]
+    }
+  },
+  {
+    "uuid": "91d88abe-33d8-5b00-a639-a2b1c02ed863",
+    "entry": "送らす",
+    "reading": {
+      "primary": "おくらす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大降りにならぬうち、帰ろうと言い出しますと、お幸と武の女房が止めて帰しません、武は不在でございましたが、今に帰るだろうから帰ったら橋まで送らすからと申しますのでしばらくぐずぐずしていますと、武が帰って参りました。",
+              "citation": {
+                "source": "女難",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は前に幾度も伯父から「女とさへ手を切れば、親父の方は、何うにでも説きなだめて、学資を送らすやうにするから。",
+              "citation": {
+                "source": "海の中にて",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の家が古着屋故、着物を送らすのは、金を送らすよりも便利であったから、時々口実を設けては送らせたが、それは、高の知れたものであるし、その着物を送れと書いた手紙に貼る三銭切手が買えないで、幾日も床の間の上に置いてあるようになった。",
+              "citation": {
+                "source": "死までを語る",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又白石の注意に本づき、ウメに諷し、剃髮して父や夫の後生を弔ふべく、その餘生を鎌倉の尼寺で送らすことにした。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それなのに正成はその部下をして送らす、という。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "建武らくがき帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 32
       }
     }
   }

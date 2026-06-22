@@ -2422,6 +2422,30 @@
                 "author": "海野十三",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ことこと、ことことと簾戸を搖る潮風と、絶間ない濤聲に、はたはたと廊下を行く草履の音を空聞きして、民子はまたしてもふとあの可憐なおとなしい婢のことなども思ひやつた。",
+              "citation": {
+                "source": "夜の浪",
+                "author": "水野仙子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鹿島灘は雲煙に見えざれど、近く濤聲の甚しくなりたれば、興盡きて歩をかへせり。",
+              "citation": {
+                "source": "鹿島詣",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「嵐」は一昨々年の夏鎌倉に在りし時、一夜俄に風荒れてすさまじく浪の高まりしが、海近き我が友の家の如きは深夜枕に浪をかぶりし程なりしかば、常より寢つき惡しき予の雨戸を搖る風の音、遠く砂濱を打つ濤聲の騷がしさに、曉風の靜まる迄一睡もなし能はざりし其の夜わが腦裡に成りし一幕物なり。",
+              "citation": {
+                "source": "貝殼追放",
+                "author": "「その春の頃」の序",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -2456,10 +2480,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 20
+      },
+      "variant_writings": [
+        "濤聲"
+      ]
+    }
+  },
+  {
+    "uuid": "49f2a668-4e89-545e-9629-86d7d7f31b8e",
+    "entry": "盗性",
+    "reading": {
+      "primary": "とうせい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は身を殺さうとまで其の薄弱な意思が少しのことにも彼を苦しめる時、彼を衝動つて盜性がむか／＼と首を擡げつゝあつたのである。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "盜性"
+      ]
     }
   }
 ]

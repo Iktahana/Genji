@@ -367,10 +367,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:00:40.784065+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 32353,
       "frequencies": {
         "aozora": 328
+      },
+      "variant_writings": [
+        "温順しい"
+      ]
+    }
+  },
+  {
+    "uuid": "851601fc-1f7f-510b-b2d2-b74c68371eac",
+    "entry": "オトナシイ",
+    "reading": {
+      "primary": "おとなしい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ところで村松梢風、徳川夢声の御両名が、これ又、非常にオトナシイ定石派で、凡そ喧嘩ということをやらぬ。",
+              "citation": {
+                "source": "文人囲碁会",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

@@ -1000,9 +1000,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 79
+      },
+      "variant_writings": [
+        "飜然"
+      ]
+    }
+  },
+  {
+    "uuid": "5af28c13-2782-5e71-8db9-7ea47e98e0f7",
+    "entry": "ホンゼン",
+    "reading": {
+      "primary": "ほんぜん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "夜仕事（年譜の手入れ）　仕事又やり出して□□□いるうちにホンゼンとさとるところあり。",
+              "citation": {
+                "source": "日記",
+                "author": "一九三一年（昭和六年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一目見たときから心を惹かれ、知れば知るほど香気あふるる品位の高さに、目をみはり、心をうたれているサルトル、さすがにツル子の眼力たがわず、ホンゼンとして正道に立ちかえる大勇猛心は多分にもっている。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万感コモゴモの次に、ホンゼンとして心機一転。",
+              "citation": {
+                "source": "街はふるさと",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

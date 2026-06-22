@@ -287,6 +287,14 @@
                 "author": "小出楢重",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ガン首の大きなパイプを発明するだけの実質的な便利な進化を考へ得ず、一服吸つてポンと叩く心境のサビだの美だのと下らぬことに奥義書を書いてゐた日本の精神はどうしても破滅する必要があつたのだ。",
+              "citation": {
+                "source": "デカダン文学論",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -352,9 +360,105 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-30T19:34:54.211339+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 174
+      },
+      "variant_writings": [
+        "がん首",
+        "ガン首"
+      ]
+    }
+  },
+  {
+    "uuid": "bbdb225b-7537-511f-bbdc-cb3d3c22483e",
+    "entry": "ガンクビ",
+    "reading": {
+      "primary": "がんくび",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "平日でも細い板切れへ竹づッぽのガンクビをつけたのをもって、お店から小僧さんが沢山買いに来た。",
+              "citation": {
+                "source": "旧聞日本橋",
+                "author": "蕎麦屋の利久",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道三は行儀作法を知らないという尾張のバカ小僧をからかってやるために、特に行儀がいかめしくてガンクビの物々しい年寄ばかり七百何十人も取りそろえ、これに折目高の肩衣袴という古風な装束をさせて、正徳寺の廊下にズラリとならべ、信長の到着を迎えさせる計略であった。",
+              "citation": {
+                "source": "梟雄",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ズラリと物々しいガンクビが居並んでいる。",
+              "citation": {
+                "source": "梟雄",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長助のヘロヘロダマにまさるタマを投げる者なら、人口ただの十万のこの市だけでも四千人ぐらいはズラリとガンクビが揃ってらア。",
+              "citation": {
+                "source": "町内の二天才",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一昔前と思い合せれば、月とスッポンの差があって、当時は囲碁界に於て木谷怪童丸と呉清源の両新人が現れて、碁界は三連星、天元等々新風サッソウたるにひきかえ、将棋の方は老朽七八段がガンクビを揃えて、あとにつゞく新風なく、養老院のような衰弱ぶりを示していたのであった。",
+              "citation": {
+                "source": "戦後新人論",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

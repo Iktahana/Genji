@@ -146,6 +146,30 @@
                 "author": "柳田国男",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "櫛※玉命、櫛明玉命、天明玉命、天太玉命、豐玉彦命又倉稻魂命、宇都志國玉神など、玉、魂の語を有せる神名甚だ多し。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうして銀河白道がその夜の色の桁、火の涙、血の黴の條理と共に、かなた至上高點に卷込まれて、消失せる處は、稻魂の光明に包まれた「五角」である。",
+              "citation": {
+                "source": "さしあげた腕",
+                "author": "レミ・ドゥ・グルモン　Remy de Gourmont",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その破片が引力によつて中心に吸集されると、ひとつ道がかなた至上高點に卷込まれて消失せる處は、稻魂の光明に包まれた「三角」である。",
+              "citation": {
+                "source": "さしあげた腕",
+                "author": "レミ・ドゥ・グルモン　Remy de Gourmont",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -167,7 +191,86 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T22:03:01.873144+00:00Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "稻魂"
+      ]
+    }
+  },
+  {
+    "uuid": "cfa1f2c3-21e6-513a-8b61-6f36d3ba0952",
+    "entry": "ウカノミタマ",
+    "reading": {
+      "primary": "うかのみたま",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "以下スサノヲの命の子孫の系譜であるが大年の神とウカノミタマの神とは穀物の神で下の五二頁に出る系譜の準備になる。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このうち、オホトシの神とウカノミタマとは穀物の神で、二三〇頁に出る系譜に連絡する。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またオホヤマツミの神の女のカムオホチ姫と結婚をして生んだ子は、オホトシの神、次にウカノミタマです。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

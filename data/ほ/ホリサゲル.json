@@ -256,6 +256,46 @@
                 "author": "DER TOD IN VENEDIG",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "・安宿のざくろたくさん花つけた　　　　□・六月六日、こゝにおちついた雨（追加）　　蠅取紙・大きな声で死ぬるほかない　　鑿泉工事・掘りさげる土の底からふきあがる　　鮮人ルンペン　拾ふことの、生きることの、袋ふくれる　六月廿八日　同前。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（a）けれども、そこをさらに深く掘りさげるとか、（c）近代の学問の帝王たる（a）アリストテレスの研究に苦労するとか、特に何かの学問に執心するとかいうことは、一ぺんもしたことがなかったのでございます。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「そして麒麟の頭が天井につかえるなら、床の地べたを幾らでも掘下げるんだ。",
+              "citation": {
+                "source": "艸木虫魚",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いいかえ、天井を低くこしらえる代りに、地べたを深く掘下げるんだよ。",
+              "citation": {
+                "source": "艸木虫魚",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大體から見て他國の學者と著しく相違する點は支那の學者達が、彼等の收得した科學的智識をヨリ深く掘下げるところの純學究的態度に滿足し得ずして之を自國の諸現象に當てはめ謂はゞ當用的研究に傾きたがると云ふ風がある。",
+              "citation": {
+                "source": "支那を識るの途",
+                "author": "橘樸",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -324,10 +364,75 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:24:42.583060+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 33943,
       "frequencies": {
         "aozora": 193
+      },
+      "variant_writings": [
+        "ほり下げる",
+        "掘りさげる",
+        "掘下げる"
+      ]
+    }
+  },
+  {
+    "uuid": "484e2aed-18d6-54bc-9b6f-bcc2f8f3b5e4",
+    "entry": "彫り下げる",
+    "reading": {
+      "primary": "ほりさげる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ガ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ただ小説家としての目下の感想をいえば、小説とちがって、シナリオの形式で人物を彫り下げることは実に困難な仕事だということを痛感している。",
+              "citation": {
+                "source": "四つの都",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

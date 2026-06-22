@@ -55,7 +55,40 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "栗本も同様に、憐れみを乞い求める眼と、弱々しげな恰好をして、軍医の前へやって行った。",
+              "citation": {
+                "source": "氷河",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう諦めてはいるものの、彼女は、また何かを乞い求めるように見えた。",
+              "citation": {
+                "source": "ぶどう畑のぶどう作り",
+                "author": "LE VIGNERON DANS SA VIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "粗暴な向う気の強い彼には珍しく、おとなしいというよりはなにか乞い求めるような表情だった。",
+              "citation": {
+                "source": "柳橋物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五年ごとに彼らはこの神の許にその仲間の誰かを送り、その代りにもろもろの必要な物を乞い求める。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -75,9 +108,63 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:59:23.947664+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 4
+      },
+      "variant_writings": [
+        "乞い求める"
+      ]
+    }
+  },
+  {
+    "uuid": "9ea3cadb-59cc-53f8-a975-becbf5247ccf",
+    "entry": "恋い求める",
+    "reading": {
+      "primary": "こいもとめる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-マ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

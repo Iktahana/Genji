@@ -154,5 +154,76 @@
         "aozora": 28
       }
     }
+  },
+  {
+    "uuid": "d1ff5cb6-5dde-5dbf-8cfa-513303fccbcb",
+    "entry": "掻き曇る",
+    "reading": {
+      "primary": "かきくもる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こう願文のうえに自己の本心をさらけ出したときは、自然、そのわずかな間では、きっと尊氏の眼には、ぼうだと、掻き曇るばかりな涙がわいたことであろう。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "湊川帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見よ夕波のたゆたひて、知らずや、かしこ掻曇る夜の一天、葉越にもゆる金星のものすさまじき憎しみの眼をもて瞰むかの邦を。",
+              "citation": {
+                "source": "エロディヤッド",
+                "author": "HERODIADE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 29
+      },
+      "variant_writings": [
+        "掻曇る"
+      ]
+    }
   }
 ]

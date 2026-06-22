@@ -324,9 +324,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T05:36:32.395255+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 22
+      },
+      "variant_writings": [
+        "髮床"
+      ]
+    }
+  },
+  {
+    "uuid": "64fbe2a3-fdd1-562b-8c86-636d876b92fa",
+    "entry": "カミドコ",
+    "reading": {
+      "primary": "かみどこ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "げほうから二軒おいて先きの、われわれ「カミドコ」といつた、理髪店｜勇床のおやぢは、芝居きちがひで、ぼくはこゝで初めてもみ上げを短かく剃られたチヤン苅りにされ、当分このアタマに拘泥したものだつた。",
+              "citation": {
+                "source": "両国界隈",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -312,11 +312,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:32:59.628766+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 987,
       "frequencies": {
         "aozora": 627
-      }
+      },
+      "variant_writings": [
+        "豫算"
+      ]
     }
   },
   {
@@ -585,6 +588,137 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "01f2433f-8c00-51c4-be64-bf74aa4a3197",
+    "entry": "予讃",
+    "reading": {
+      "primary": "よさん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四国で、勤王の魁首である土佐藩は、早くも朝敵追討の軍を起して、伊予に入り、同じく勤王の宇和島の藩兵を加え、松山の久松松平家を帰順させ、予讃の国境を越えて、讃岐へ入って来た。",
+              "citation": {
+                "source": "仇討禁止令",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
+  },
+  {
+    "uuid": "e85d3c53-89f5-52c9-908d-d0401ef8c5e1",
+    "entry": "余算",
+    "reading": {
+      "primary": "よさん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それで町の有志ともはかって、十万円ばかりの余算で、内苑外苑からすっかり改築して、伊勢まで行かれない人々は、此処へ来て、お参〔以下欠〕　四月二十七日　今日大学の大通りを散歩して、計らずも、久しい間求めて居たリビングストン伝を見出す事が出来た。",
+              "citation": {
+                "source": "日記・書簡",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』そもそも一期の月影かたぶきて餘算山のはに近し。",
+              "citation": {
+                "source": "方丈記",
+                "author": "鴨長明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "餘算"
+      ]
     }
   }
 ]

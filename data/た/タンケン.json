@@ -694,11 +694,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7783,
       "frequencies": {
         "aozora": 1085
-      }
+      },
+      "variant_writings": [
+        "探険"
+      ]
     }
   },
   {
@@ -1027,6 +1030,82 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 19
+      }
+    }
+  },
+  {
+    "uuid": "dda2cee8-c67a-5e3e-9251-4e938f7f9de7",
+    "entry": "探見",
+    "reading": {
+      "primary": "たんけん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さあ、私が、あの入口まで送つてあげますから、一つ探見していらつしやい」「いやだ／＼、僕、こわい。",
+              "citation": {
+                "source": "ラマ塔の秘密",
+                "author": "宮原晃一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幸いに今回湯川博士はノーベル賞を受け、初めて原子核構造を探見した元祖として盛名世界に赫々として傳わつています。",
+              "citation": {
+                "source": "湯川博士の受賞を祝す",
+                "author": "長岡半太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は幸か不幸か例の『探見隊』の一行に參加する幸榮を得なかつたが、『不知火』を動物の光と考へる何らの根據もゝつてゐない。",
+              "citation": {
+                "source": "光る生物",
+                "author": "神田左京",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

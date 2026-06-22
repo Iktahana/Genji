@@ -315,10 +315,113 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T10:05:57.788973+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14538,
       "frequencies": {
         "aozora": 365
+      },
+      "variant_writings": [
+        "ロクに"
+      ]
+    }
+  },
+  {
+    "uuid": "bd9a0517-2287-5e4b-b082-ea0c9247b688",
+    "entry": "ロクニ",
+    "reading": {
+      "primary": "ろくに",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "颯子ハ支度ダケハ甲斐々々シイガ、離レタトコロカラ見テイルダケデ、ロクニ何モシテクレナイ。",
+              "citation": {
+                "source": "瘋癲老人日記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また尾張の連等の祖先のオホシの連の妹のメコの郎女と結婚してお生みになつた御子はヒロクニオシタケカナヒの命・タケヲヒロクニオシタテの命のお二方です。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次にヒロクニオシタケカナヒの命も天下をお治めなさいました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次にタケヲヒロクニオシタテの命も天下をお治めなさいました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "安閑天皇　御子のヒロクニオシタケカナヒの王（安閑天皇）、大和の勾の金箸の宮においでになつて、天下をお治めなさいました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宣化天皇　弟のタケヲヒロクニオシタテの命（宣化天皇）、大和の檜隈の廬入野の宮においでになつて、天下をお治めなさいました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

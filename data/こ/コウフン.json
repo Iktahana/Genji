@@ -567,11 +567,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4104,
       "frequencies": {
         "aozora": 4011
-      }
+      },
+      "variant_writings": [
+        "コーフン",
+        "亢奮",
+        "昂奮"
+      ]
     }
   },
   {
@@ -1269,6 +1274,114 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 703
+      }
+    }
+  },
+  {
+    "uuid": "150a450d-8ca4-55a2-af44-a9046b67119a",
+    "entry": "コウフン",
+    "reading": {
+      "primary": "こうふん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　美しいお千代さんの束ねた髪に、白く埃がつもっているのを見ると、街の華やかな、一切のものに、私は火をつけてやりたいようなコウフンを感じてくる。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十月の外房州の海は黒くもりあがっていて、海のおそろしいまでな情熱が私をコウフンさせてしまった。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コウフンして眠れず。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一種のコウフンは私達には薬かも知れない二人は幼稚園の子供のように足並をそろえて街の片隅を歩いていた。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男のコウフン状態なんて、政治家と同じようなものだ、駄目だと思ったらケロリとしている。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コウフンしながら、楽しみに私は夜風の冷たい町へ出て行った。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでは御当人たちに失礼でありますし、かつ、そんな罵倒の言葉ばかりをつらねて、己れ一人高しといばりくさって、ただ、いたずらに御当人たちをコウフンさせることは、私の本意でありません。",
+              "citation": {
+                "source": "恐怖の季節",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

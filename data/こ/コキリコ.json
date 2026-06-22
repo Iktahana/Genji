@@ -74,5 +74,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T14:23:14.880552+00:00Z"
     }
+  },
+  {
+    "uuid": "6abb1126-cbc7-511a-b972-1927f1c35164",
+    "entry": "コキリコ",
+    "reading": {
+      "primary": "こきりこ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "各地の鹿島踊歌のうち、武州小河内のものには紛乱があり、全くちがったコキリコ踊と繋がって、もう意味が取れなくなっている。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すべてこの地方の平家遺蹟は、一昨年、飛騨から五箇山をこえて来た曾遊の地だが、先ごろ五箇山の平家村の読者から、同地方につたわるコキリコ歌というのを知らせてよこした。",
+              "citation": {
+                "source": "随筆　新平家",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

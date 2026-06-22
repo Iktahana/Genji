@@ -265,6 +265,38 @@
                 "author": "木暮理太郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "かの歐洲の聯合艦隊※飛龍は何ぞ、東洋の。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "飛龍に似たる一小邦。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道衍騒がず、殿下｜聞しめさずや、飛龍天に在れば、従うに風雨を以てすと申す、瓦墜ちて砕けぬ、これ黄屋に易るべきのみ、と泰然として対えければ、王も頓に眉を開いて悦び、衆将も皆どよめき立って勇みぬ。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "通例は森を避けて、猪鼻から、岡見、御岳、飛龍山、唐松、猿山などという部落づたいに龍巻村へ向うのが順当なのであるが、私は既に塚田村で遠回りをしたばかりでなく驢馬事件のために思わぬ道草を喰ってしまった後であるから是非ともこの森を踏み越えなければ途中で日暮に出遇う怖れがあるのだ。",
+              "citation": {
+                "source": "ゼーロン",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -286,9 +318,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:46:43.735697+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 55
+      },
+      "variant_writings": [
+        "飛龍"
+      ]
+    }
+  },
+  {
+    "uuid": "a1901250-5884-5453-9c94-431b85585d49",
+    "entry": "飛流",
+    "reading": {
+      "primary": "ひりゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかれども唯｜飛流の白雲の中より落るを見るのみ、真に奇観なり。",
+              "citation": {
+                "source": "甲乙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こゝより溪を上に徒渉して、數十丈の絶壁の間を二三町も行けば、川水一落して、僅に五六尺の飛流となる。",
+              "citation": {
+                "source": "赤城山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一溪に沿うて右折し、不動堂の前を過ぎて溪に下り、四五町ゆけば、溪窮まりて、飛流絶壁を走る。",
+              "citation": {
+                "source": "足柄の山水",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山市場にいたりて、向ひの山に一條の飛流を見る。",
+              "citation": {
+                "source": "足柄の山水",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "下り舟岩に松ありつゝじあり　或は千仭の山峰雲間に突出して翠鬟鏡影に映じ或は一道の飛流銀漢より瀉ぎて白竜樹間に躍る。",
+              "citation": {
+                "source": "かけはしの記",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
       }
     }
   }

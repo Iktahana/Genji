@@ -541,10 +541,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:29:05.142185+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 42995,
       "frequencies": {
         "aozora": 557
+      },
+      "variant_writings": [
+        "くくれる"
+      ]
+    }
+  },
+  {
+    "uuid": "7a04616c-a59c-5f64-ae89-59e401495415",
+    "entry": "ククル",
+    "reading": {
+      "primary": "くくる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この竹園の名、迦蘭陀は動物の名でホトトギスの一種、学名ククルス・メラノレウクスという鳥に基づくとも、一種の鼠の名に拠るともいう（『翻訳名義集』六。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神さまの世界の広さや深さを、われわれ弱い小さい者が、自分の量見で区切ってタカをククル――というのもへんだけど――てはいけない。",
+              "citation": {
+                "source": "その人を知らず",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

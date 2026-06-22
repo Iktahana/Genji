@@ -638,6 +638,30 @@
                 "author": "佐藤紅緑",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "疊に頬杖して、謄寫版の小册子に讀み入つて居たすず子は、顔をあげて男の方を見た。",
+              "citation": {
+                "source": "計畫",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "筆や墨汁や、紙の類は片隅によせた小机の上におかれ、謄寫版は久しぶりに箱のなかにをさめられてこれも片隅にあつた。",
+              "citation": {
+                "source": "一過程",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは謄寫版で刷つてみんなに配らうと思ふのです。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -664,10 +688,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 84
-      }
+      },
+      "variant_writings": [
+        "謄寫"
+      ]
     }
   },
   {
@@ -1194,6 +1221,109 @@
       "frequencies": {
         "aozora": 2
       }
+    }
+  },
+  {
+    "uuid": "50df3b90-0b35-54af-bd52-a90db7461aa2",
+    "entry": "盗者",
+    "reading": {
+      "primary": "とうしゃ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "熊か、狼にでも食われたか、牛盗者か、後生者にか――血眼になって騒いでいるに相違ない。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "Ocean の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これによって見ると、彼は窃盗を罪するより盗者の心を労わることを重しとするのである。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "理平もお槙も、その後、亀田がほんとの窃盗者でないことは、うすうす感じていたのであったが、そういう階級の人間に、何らの同情も介意もしない富豪通有の冷淡さが、彼らにもあって、いいかげんに放念していたのである。",
+              "citation": {
+                "source": "かんかん虫は唄う",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何年か前、私がここにいたときも、その筋の常習窃盗者がいましたね」「確かに。",
+              "citation": {
+                "source": "鉄面皮",
+                "author": "A Front of Brass",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殺人と窃盗ばかりがあって、殺人者、窃盗者は影も形もないのである。",
+              "citation": {
+                "source": "孤島の鬼",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戸可十萬、其俗殺人強盜及姦皆死、盜者計贓酬物、無財者沒身爲奴、自餘輕重、或流或杖、毎訊究獄訟、不承引者、以木壓膝、或張強弓以弦鋸其項、或置小石於沸湯中、令所競者探之、云理曲者即手爛、或置蛇瓮中令取之、云曲者即螫手矣。",
+              "citation": {
+                "source": "隋書倭國傳",
+                "author": "魏徴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "盜者"
+      ]
     }
   }
 ]

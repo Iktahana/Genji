@@ -323,5 +323,76 @@
         "aozora": 155
       }
     }
+  },
+  {
+    "uuid": "b17131e9-d5ca-5620-97fe-e19947dec771",
+    "entry": "燃え付く",
+    "reading": {
+      "primary": "もえつく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "燃え上った火に薪を入れて、火のこれに燃え付くのを見守っている。",
+              "citation": {
+                "source": "越後の冬",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "困つたことに、人の氣も知らない彌次馬が、近くから遠くから、ヌケヌケとした顏で、或は素知らぬ顏で、燃え付くやうな好奇の眼を光らせて、雷鳴が鳴つても動きさうもありません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "乘合舟",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 24
+      },
+      "variant_writings": [
+        "燃付く"
+      ]
+    }
   }
 ]

@@ -56,7 +56,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "ミネは押えても押えてもいぶり出す煙を消し去ることに苦労した。",
+              "citation": {
+                "source": "妻の座",
+                "author": "壺井榮",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -79,10 +88,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T20:29:31.835189+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "いぶり出す"
+      ]
     }
   }
 ]

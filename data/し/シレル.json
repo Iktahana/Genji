@@ -866,5 +866,73 @@
         "aozora": 91
       }
     }
+  },
+  {
+    "uuid": "4580bd5c-e168-5728-8347-be069658481c",
+    "entry": "シレル",
+    "reading": {
+      "primary": "しれる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この本の終りの所にファラデーをゲーテに比し、自分を暗にシレルがゲーテよりも生き長らえたという風な記事がある。",
+              "citation": {
+                "source": "ファラデーの伝",
+                "author": "電気学の泰斗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "トボケルと今ならば謂うところで、古くはシレル・シレモノと謂い、それから移ってジラコクまたはジラなどともなり、戯れという語も是とよほど近かった。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

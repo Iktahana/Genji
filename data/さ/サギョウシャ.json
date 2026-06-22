@@ -160,5 +160,73 @@
         "aozora": 11
       }
     }
+  },
+  {
+    "uuid": "27e88a3e-7f01-5205-8332-bb1f7c2d91cf",
+    "entry": "作業車",
+    "reading": {
+      "primary": "さぎょうしゃ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「情報の通り道は何度も舗装のやり直しを繰り返した挙げ句、とうとう〈歩行者禁止、二輪車禁止、農作業車両禁止〉と〈禁止〉の標識だらけになった。",
+              "citation": {
+                "source": "本の未来",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "民家を取り壊し、建設作業車のための道路づくりがスタートする。",
+              "citation": {
+                "source": "波乗りの島",
+                "author": "片岡義男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

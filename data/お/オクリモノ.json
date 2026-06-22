@@ -317,10 +317,83 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:25:12.911494+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8154,
       "frequencies": {
         "aozora": 473
+      },
+      "variant_writings": [
+        "おくり物",
+        "贈りもの",
+        "贈物"
+      ]
+    }
+  },
+  {
+    "uuid": "8bd21bc7-02d4-55bc-867d-a41e1e012788",
+    "entry": "オクリモノ",
+    "reading": {
+      "primary": "おくりもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私は夜毎、衣子を訪れるたびに、高価なオクリモノを忘れなかった。",
+              "citation": {
+                "source": "ジロリの女",
+                "author": "――ゴロー三船とマゴコロの手記――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この男の心境をきいていただきたいと思いまして」「そんな心境はききたくないよ、早く精神病院へ入院させなさい」「つきましては先生にオクリモノを差上げたい。",
+              "citation": {
+                "source": "明日は天気になれ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

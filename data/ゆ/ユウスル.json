@@ -288,6 +288,14 @@
                 "author": "小島烏水",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "かように或る言語を形づくる音単位は、それぞれ一をもって他に代え難い独自の用い場所を有する一定数のものに限られ、しかも、これらは互いにしっかりと組合って一つの組織体または体系をなし、それ以外のものを排除しているのである。",
+              "citation": {
+                "source": "国語音韻の変遷",
+                "author": "橋本進吉",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -314,10 +322,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T05:29:34.978416+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4414,
       "frequencies": {
         "aozora": 5862
+      },
+      "variant_writings": [
+        "有す"
+      ]
+    }
+  },
+  {
+    "uuid": "5ab4dbf8-d6a2-5578-827d-99286a1d7d17",
+    "entry": "幽する",
+    "reading": {
+      "primary": "ゆうする",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "サ行変格",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "帝｜大に怒れども、元勲｜国舅たるを以て誅する能わず、爵を削って之を私第に幽するのみ。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "他なし、多くの霊魂が無理に肉体から引き離されて帰幽するからで、つまり資格のない未熟の霊魂が、幽界に充満する訳なのである。",
+              "citation": {
+                "source": "霊訓",
+                "author": "SPIRIT TEACHINGS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既にして七卿が勤王の士を募り國家を亂さんと欲するを憂へ、浪華に幽するの議あり。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 19
       }
     }
   }

@@ -504,5 +504,89 @@
         "aozora": 11
       }
     }
+  },
+  {
+    "uuid": "1be9ec85-60af-5531-8ea6-e2c57b7d5238",
+    "entry": "信号器",
+    "reading": {
+      "primary": "しんごうき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "続いて交叉点の交通巡査がピリピリーを鳴らして信号器が赤燈に廻転した。",
+              "citation": {
+                "source": "指と指環",
+                "author": "佐左木俊郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五分おきにコツコツと水中信号器が鳴って、おたがいが航路から外れることのないように、警戒をしあっています。",
+              "citation": {
+                "source": "太平洋雷撃戦隊",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その外、海中標識灯や海中信号器に通信機、それから昇降機などの大きな機械類も手落ちなく点検され用意された。",
+              "citation": {
+                "source": "地球発狂事件",
+                "author": "海野十三（丘丘十郎）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこにベッドもあれば、冷凍機械もあり、温度調節器もあり、ガス発生器とか発電機とか信号器とかいろいろの機械がならんでいる。",
+              "citation": {
+                "source": "千年後の世界",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
   }
 ]

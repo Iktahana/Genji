@@ -652,10 +652,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 60
-      }
+      },
+      "variant_writings": [
+        "轉戰"
+      ]
     }
   },
   {
@@ -928,6 +931,161 @@
       "frequencies": {
         "aozora": 15
       }
+    }
+  },
+  {
+    "uuid": "136a1968-e29b-5a45-8bd4-5d432dc36d4d",
+    "entry": "テンセン",
+    "reading": {
+      "primary": "てんせん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もう十年にもなるだろうか、チェリーという煙草が十銭で買えた頃、テンセン（十銭）という言葉が流行して、十銭寿司、十銭ランチ、十銭マーケット、十銭博奕、十銭漫才、活動小屋も割引時間は十銭で、ニュース館も十銭均一、十銭で買え、十銭で食べ十銭で見られるものなら猫も杓子も飛びついたことがある。",
+              "citation": {
+                "source": "世相",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私たちが旅行するときには、デパートへいってファイバーのトランクを一つ買い、あとはテンセンストアで、一つ十銭の歯ブラッシや雲脂取り香水や時間表や蚤取粉などを買い集めてそのトランクの中に叩きこんで出かける手軽さとは、正に天地霄壌の差があった。",
+              "citation": {
+                "source": "戦時旅行鞄",
+                "author": "――金博士シリーズ・６――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのうちの１人であるデンマーク人のステンセン（1638-1686）は有名な解剖学者であり生理学者であった。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は耳下腺管（ステンセン管）の発見者であった。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
+  },
+  {
+    "uuid": "c6745717-f7d1-5f97-a28e-7a2c97a5eb84",
+    "entry": "転旋",
+    "reading": {
+      "primary": "てんせん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "即、目眩く如く、三尊の光転旋して直視することの出来ぬことを表す語とも見られるのである。",
+              "citation": {
+                "source": "山越しの阿弥陀像の画因",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即、目眩く如く、三尊の光轉旋して直視することの出來ぬことを表す語とも見られるのである。",
+              "citation": {
+                "source": "山越しの彌陀",
+                "author": "釈迢空",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "轉旋"
+      ]
     }
   }
 ]

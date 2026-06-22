@@ -1311,11 +1311,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6626,
       "frequencies": {
         "aozora": 25
-      }
+      },
+      "variant_writings": [
+        "添附"
+      ]
     }
   },
   {
@@ -1936,6 +1939,161 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 7
+      }
+    }
+  },
+  {
+    "uuid": "ad15d6b1-fccf-5828-a328-d27a9163838e",
+    "entry": "天桴",
+    "reading": {
+      "primary": "てんぷ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "麻雀も可成り好きで先頃四段をもらつたが、運符天符の麻雀技の段位などはあてにならぬ。",
+              "citation": {
+                "source": "自分のこと",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「われは天符を受取って、それに因るとこの城中の者はみな死すべきである。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "夷堅志",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天符を持ち来たれる神が同じく朱衣である。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしながらそれでも結局は例の運符天符……そこに落ちつくのが百姓の常道で、まず曲りなりにでも月日が過ごせれば、それで文句は言えなかった。",
+              "citation": {
+                "source": "荒蕪地",
+                "author": "犬田卯",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "天符"
+      ]
+    }
+  },
+  {
+    "uuid": "7b7d77c8-4ecb-5a4b-9e21-425c71cb775b",
+    "entry": "転付",
+    "reading": {
+      "primary": "てんぷ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "山を去る四月一日　晴　今日はもはや転付を越えるばかり。",
+              "citation": {
+                "source": "春の遠山入り",
+                "author": "松濤明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故に九幽の主に命じ、無間地獄中に不忠不孝無礼義破廉恥諸罪の魂を選び取つてこの間に録送し、膏血を搾取して地上山陵原隰墳衍の神に転付し、この膏血をして罌粟の花根内に灌ぎ入らしめ、根よりして上は花苞に達せしむれば、則ちその汁も自然に濃郁にして、一たび熬錬を経れば、光色黝然たらん。",
+              "citation": {
+                "source": "鴉片",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

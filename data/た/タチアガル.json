@@ -582,10 +582,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:34:55.196607+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 12539,
       "frequencies": {
         "aozora": 2778
+      },
+      "variant_writings": [
+        "たちあがれる",
+        "たち上がる",
+        "たち上る",
+        "立ちあがる",
+        "立ちあがれる",
+        "立ち上がれる",
+        "立ち上れる",
+        "立上がる",
+        "立上がれる",
+        "立上れる",
+        "起ちあがる",
+        "起ち上がる",
+        "起ち上る"
+      ]
+    }
+  },
+  {
+    "uuid": "488a3a88-74ba-564f-89ba-8340ad3dd195",
+    "entry": "建ち上がる",
+    "reading": {
+      "primary": "たちあがる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

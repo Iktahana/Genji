@@ -281,6 +281,22 @@
                 "author": "吉川英治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "あたい、両方のかけ持ちでしょう、上したの焼き持ち責めで困っちまった、わ。",
+              "citation": {
+                "source": "耽溺",
+                "author": "岩野泡鳴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二十年（丁亥）　一八八七○三月、中村福助の人気頂上に達し、新富、市村、千歳の三座かけ持ちにて出勤。",
+              "citation": {
+                "source": "明治演劇年表",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -307,10 +323,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:02:10.537649+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 33468,
       "frequencies": {
         "aozora": 19
+      },
+      "variant_writings": [
+        "かけ持ち",
+        "掛持ち"
+      ]
+    }
+  },
+  {
+    "uuid": "e37c6e01-19b9-5ce8-bb4a-c56c56b6f8c0",
+    "entry": "カケモチ",
+    "reading": {
+      "primary": "かけもち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして、昔も今も、寄席から寄席へ、いくつかのカケモチを、電車にもまれてとびまわり、こまかく稼いでいらッしゃるのだろう。",
+              "citation": {
+                "source": "我が人生観",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

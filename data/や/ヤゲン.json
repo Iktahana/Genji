@@ -318,9 +318,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:37:05.233684+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 98
+      },
+      "variant_writings": [
+        "藥研"
+      ]
+    }
+  },
+  {
+    "uuid": "d7367fe6-9f0c-5e55-8817-4702f690c643",
+    "entry": "ヤゲン",
+    "reading": {
+      "primary": "やげん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この坂一名をヤゲン坂、ヤゲン坂は八景をヤケイと呼んでからの誤りだろうという人もあるが、これも素読学問時代の臆説でヤゲンは語のままに薬研のこと、久保を利用した緩傾斜の坂であったがゆえに、両側が高かったからの命名に違いない。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いけねえ」　※公は血塗れになりながら、あのヤゲン（ニワトリ）のように生きていた。",
+              "citation": {
+                "source": "いやな感じ",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

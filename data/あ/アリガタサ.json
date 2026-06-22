@@ -360,5 +360,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-01T13:46:22.341563+00:00Z"
     }
+  },
+  {
+    "uuid": "14e71f9e-2518-5660-a4f2-21ed7c24bf79",
+    "entry": "アリガタサ",
+    "reading": {
+      "primary": "ありがたさ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "能の隅々までも行き渡っている、云い知れぬ「アリガタサ」や「ヨサ」はかくして生み出され、伝えられたものに外ならないのである。",
+              "citation": {
+                "source": "能とは何か",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その「ヨサ」や「アリガタサ」を学ぶだけの苦労で、これを楽しみ、これによって衣食する事が出来るのである。",
+              "citation": {
+                "source": "能とは何か",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

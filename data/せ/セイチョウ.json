@@ -2262,6 +2262,22 @@
                 "author": "ALICE'S ADVENTURES UNDER GROUND",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "村の夜は寂としてゐるので、歌の文句はわからぬながら、聲調は山の下までもはつきり聞えた。",
+              "citation": {
+                "source": "生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その聲調は、始て我をしてさきよりの月旦評の毫もマリアが耳に入らざりしを悟らしめき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -2343,10 +2359,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 128
-      }
+      },
+      "variant_writings": [
+        "聲調"
+      ]
     }
   },
   {
@@ -3867,6 +3886,114 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 24
+      }
+    }
+  },
+  {
+    "uuid": "43149a91-50a8-5eb9-a21e-49bb6dcf083b",
+    "entry": "征長",
+    "reading": {
+      "primary": "せいちょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十一月三日、征長御出馬御供被仰付、出立す。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんなに半蔵も長逗留で、追い追いと懐の寒くなったところへ、西の方からは尾張の御隠居を総督にする三十五藩の征長軍が陸路からも海路からも山口の攻撃に向かうとのうわさすら伝わって来た。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第一部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "閏五月十六日、将軍はついに征長のために進発した。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第一部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それまでまだ将軍家は大坂に在城で征長の指揮に当たっていたことのように、喪は秘してあったともいう。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第一部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元治元年幕府征長の役には楓江は田辺藩の陣中にあって軍議に与った。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さらに、改良派ブロックの盟主であり、寺田屋事件以後は藩士尊攘派にたいしては寸毫も容れるところのなかった薩藩が、最初の親英藩となるや、文久以来犬猿もただならぬ長薩拮抗の歴史に邪魔されながらも、第一征長軍には事実上の調停者となり再生長藩の最初の同盟者となった点も、同じ視角から見直して見る必要があろう。",
+              "citation": {
+                "source": "尊攘戦略史",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十二月には孝明天皇が崩御され、年があけると今上の践祚された知らせがあり、二月には征長軍が解かれるなど、幕府の勢力の衰退と、王政復古の気運の増大とが、もはや避けがたい時の来たことを示すように、はっきりとかたちをあらわし始めました。",
+              "citation": {
+                "source": "失蝶記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
       }
     }
   }

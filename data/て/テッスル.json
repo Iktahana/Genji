@@ -358,10 +358,113 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T09:30:20.492810+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 26848,
       "frequencies": {
         "aozora": 878
+      },
+      "variant_writings": [
+        "徹す"
+      ]
+    }
+  },
+  {
+    "uuid": "5492441d-8bf9-524c-a456-7d20f9dd81a2",
+    "entry": "撤する",
+    "reading": {
+      "primary": "てっする",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "サ行変格",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其の時忽然として心が俄に開け朗かになつて、門※を開き屏障を撤するが如くになり、それから頴悟異常になつたと云ふでは無いか。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浚稽山の陣を撤するときは夜が暗かったのに、またも月が明るくなりはじめたのである。",
+              "citation": {
+                "source": "李陵",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宴を撤するに先だつて総踊と云ふことがある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "更に天才と凡人とを、試煉と勞苦とに喘ぐ人間共通の運命に照し出す時、彼等は温情を以て涙と笑とを分かつ可き兄弟として、能力の大小強弱による相互の墻壁を撤する。",
+              "citation": {
+                "source": "三太郎の日記　第一",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ボシュエが言ったようにわれわれは営を撤する。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "逮夜の坊さんが帰ったのは薄明るいうち、抹香臭い一式の道具を撤すると、もう酒肴が運び込まれ、芸子が呼出されて、二階は一瞬にして、酒神の狂宴と変ります。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "春宵",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 57
       }
     }
   }

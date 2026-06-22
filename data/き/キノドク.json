@@ -401,10 +401,106 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T09:32:42.373737+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7503,
       "frequencies": {
         "aozora": 8533
+      },
+      "variant_writings": [
+        "気のどく",
+        "気毒"
+      ]
+    }
+  },
+  {
+    "uuid": "83260055-5364-5659-82c3-974f6a3dfa86",
+    "entry": "キノドク",
+    "reading": {
+      "primary": "きのどく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "イヘノ　ナカニハ　フタリノ　トシヨリガ　ヰテ　チヨウド　ヒトツノ　パンヲ　フタツニ　キラウト　シテ　ヰル　トコロデシタガ、ハラノ　スイタ　ヲトコヲ　キノドクニ　オモツテ　パンヲ　ミツツニ　キリ、ソノ　ヒトキレヲ　ヲトコニ　メグンデ　ヤリマシタ。",
+              "citation": {
+                "source": "ヒロツタ　ラツパ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ヲトコハ　コノ　ヒトビトガ　キノドクニ　ナリマシタ。",
+              "citation": {
+                "source": "ヒロツタ　ラツパ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ソウダ、コノ　キノドクナ　ヒトビトヲ　タスケテ　ヤラネバ　ナラナイ」　ヲトコハ　アチラ　コチラノ　ムラニ　ノコツテ　ヰル　ヒトビトヲ　ヒトトコロニ　アツメマシタ。",
+              "citation": {
+                "source": "ヒロツタ　ラツパ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キノドクナワンコチヤンデスネ。",
+              "citation": {
+                "source": "バウシ　ノ　ユクヘ",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "―――「そのお婆ちゃんの日本語云うたらなあ、この間もうちに『あなたキノドクでごぜえます』云うねんけど、発音がけったいで早口やさかい、『あなたクニドコでごぜえます』と聞えるねんわ。",
+              "citation": {
+                "source": "細雪",
+                "author": "上巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

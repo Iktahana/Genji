@@ -266,6 +266,38 @@
                 "author": "林芙美子",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "これみな恬澹な名僧といわれた父親の世務をうるさがる性癖から来た結果だが、母親はどういうものか父を恨まなかった。",
+              "citation": {
+                "source": "食魔",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また物質的にも、精神的にも、何物をも希求せぬほど恬澹であったとは、誰も信ずることが出来ない。",
+              "citation": {
+                "source": "安井夫人",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "博士は今年四十を二つ越した男で、身体は壮健であるが、自制力の強い性で、性欲は頗る恬澹である。",
+              "citation": {
+                "source": "魔睡",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "但し一生の作を通じて恬澹なる気味あるは、父が一面の性癖に本づき、且つ幼きより父母の感化を受けて心を内典に傾けられたるにも由るべし。",
+              "citation": {
+                "source": "禮嚴法師歌集",
+                "author": "與謝野禮嚴",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -294,9 +326,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T09:55:47.651789+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 148
+      },
+      "variant_writings": [
+        "恬澹"
+      ]
+    }
+  },
+  {
+    "uuid": "9f37ef31-9f76-5012-a95a-7c5c96796033",
+    "entry": "テンタン",
+    "reading": {
+      "primary": "てんたん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "むしろやはり一種のトーテンタンツであるような気がする。",
+              "citation": {
+                "source": "映画雑感（２）",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は然し、さういふ興味にテンタンで、雰囲気的なものなどに惹かれることのない気質のやうで、この家を訪ねたことは一度だけ、たしか、さういふ話である。",
+              "citation": {
+                "source": "暗い青春",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ワガハイは社長の椅子にテンタンであり、運命に従順であるから、汝らも、嘆くでないぞ」「イヤーッ、社長！",
+              "citation": {
+                "source": "カストリ社事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

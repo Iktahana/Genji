@@ -454,5 +454,92 @@
         "aozora": 547
       }
     }
+  },
+  {
+    "uuid": "69866f43-056e-5521-9bdb-765576f73c8e",
+    "entry": "有り明け",
+    "reading": {
+      "primary": "ありあけ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "有り明けの月が派手に光を放って、宇治川の水の鮮明に澄んで見えるころ、そちらに向いて揚げ戸を上げさせて、二人は外の景色にながめ入っていると、鐘の声がかすかに響いてきた。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "椎が本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有り明けの燈に、刀の鞘を照らしながら、頼母は部屋を出、廊下を右の方へ歩き、それが、さらに右の方へ曲がっている角の雨戸を、そっと開けて見た。",
+              "citation": {
+                "source": "血曼陀羅紙帳武士",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○暗中在明、明中在暗、明暗雙々底。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "難波宮のあったところは現在明かでない。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "在明"
+      ]
+    }
   }
 ]

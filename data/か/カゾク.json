@@ -328,11 +328,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:38:37.253589+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 618,
       "frequencies": {
         "aozora": 6880
-      }
+      },
+      "variant_writings": [
+        "家ぞく"
+      ]
     }
   },
   {
@@ -668,6 +671,114 @@
       "freq_rank": 43873,
       "frequencies": {
         "aozora": 801
+      }
+    }
+  },
+  {
+    "uuid": "1f72bae3-1cb6-5295-af98-618aa39a1818",
+    "entry": "下属",
+    "reading": {
+      "primary": "かぞく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "深い藪中に棲み人家に近づかず、神の下属なれば神蛇と名づく。",
+              "citation": {
+                "source": "十二支考",
+                "author": "蛇に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今按ずるに、世俗に白鼠は大黒天の使令とし白蛇は弁財天の使令として福神の下属という、これ西土の書にも世々いう事と見ゆと記す。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それに対応して物質的な歴史社会は人格的個人に、人格的個人は絶対的神に、その概念の高貴の度に於て、カトリック風な教職段階をなして下属する。",
+              "citation": {
+                "source": "イデオロギー概論",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元来性格それ自身が、上属性格に関して下属性格を Konfigurieren する原理だったのである。",
+              "citation": {
+                "source": "現代哲学講話",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後者は前者の或る一部分として下属することによって、初めて社会学的となるのである。",
+              "citation": {
+                "source": "現代哲学講話",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イデオロギーの問題――イデオロギー論的な問題――となれば、すでにそこには必要な理論的な諸機関の準備が出来ているのだから、ジャーナリズムの問題は之に下属することによって方式的に解くことが出来るに相違ない。",
+              "citation": {
+                "source": "現代哲学講話",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だからそれは又、イデオロギーの諸規定に下属して説明されねばならぬのである。",
+              "citation": {
+                "source": "現代哲学講話",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
       }
     }
   }
