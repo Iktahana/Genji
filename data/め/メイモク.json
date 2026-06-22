@@ -704,9 +704,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 309
+      },
+      "variant_writings": [
+        "暝目"
+      ]
+    }
+  },
+  {
+    "uuid": "58f27b8c-e399-53cd-933a-7c72ce344121",
+    "entry": "明目",
+    "reading": {
+      "primary": "めいもく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "殊にこの人の理論があまりに高いので、後人はややもすれば彼に反感を起し、清朝で四庫全書總目を作つた時もさうで、四庫簡明目録には、鄭樵が惡罵した崇文總目をほめて、その出來榮えは鄭樵の藝文略よりも十倍もよいと云つた。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

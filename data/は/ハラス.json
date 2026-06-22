@@ -407,11 +407,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:21:04.298012+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29060,
       "frequencies": {
         "aozora": 475
-      }
+      },
+      "variant_writings": [
+        "晴す",
+        "晴らせる"
+      ]
     }
   },
   {
@@ -844,6 +848,117 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "ddc00ad7-52bf-55c6-85e4-bcb62690d52f",
+    "entry": "張らす",
+    "reading": {
+      "primary": "はらす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それを選び取って食べながら窓から見張らす東京郊外の田園の景色、蝉が丘を揺がすばかりに鳴立てゝおります。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道義や宗教の上だけではない、数学や天学や地学ないし理学化学その他の学科について、我が信じるところと我との一致の自覚は、明らかにその人をして十二分にその気を張らすに疑ない。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその変化の状態はどうかというと、人体の事であるから植物学者が植物の根を截って水圧の力を計るようには出来ないけれども、我々の内省や理解によってまた他人の上の観察や校量によって、明らかに春は自然に人の気を張らすこと草木を張らすようであると知れるのである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこへ乗って四方を見張らす。",
+              "citation": {
+                "source": "佐竹の原へ大仏をこしらえたはなし",
+                "author": "高村光雲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから内部の階段を曲がりながら登って行くと、頭の中になって広さが二坪位、ここにはその目の孔、耳の孔、口の孔、並びに後頭に窓があって、そこから人間が顔を出して四方を見張らすと江戸中が一目に見える。",
+              "citation": {
+                "source": "佐竹の原へ大仏をこしらえたはなし",
+                "author": "高村光雲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "へん、笠太公、お前あんまり慾の皮突張らすのよしな。",
+              "citation": {
+                "source": "妻恋行",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とうとうきたな」　麓のほうをのぞみながら、お十夜と一角が、口のうちで強くうなずくと、気早に、下緒を解いて、袖を引っからげた原士の面々も、「オオ、あの一節切か」　と、険しい目合図を投げ交わしながら、あたりの空気に氷を張らすばかり、シーンとした緊張味をみなぎらせた。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "木曾の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 27
+      },
+      "variant_writings": [
+        "貼らす"
+      ]
     }
   }
 ]

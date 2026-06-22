@@ -55,7 +55,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "貝焼の訛りであらうと思はれる。",
+              "citation": {
+                "source": "津軽",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       },
       {
@@ -118,7 +127,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:31:11.481449+00:00Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "貝焼"
+      ]
+    }
+  },
+  {
+    "uuid": "46fdd2d4-c7a7-58c2-99bd-05e83490b339",
+    "entry": "壊焼",
+    "reading": {
+      "primary": "かいやき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大神殿も破壊焼却された。",
+              "citation": {
+                "source": "鎖国",
+                "author": "日本の悲劇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長崎へは諸方の追放者が集まり、だんだん感情が激して受難覚悟の行列なども繰り返されたが、幕府の官吏は諸大名の兵を集めて厳戒しつつ、会堂の破壊焼打ちを断行し、十一月に至って四百余人のキリシタンを海外に送り出した。",
+              "citation": {
+                "source": "鎖国",
+                "author": "日本の悲劇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "壞燒"
+      ]
     }
   }
 ]

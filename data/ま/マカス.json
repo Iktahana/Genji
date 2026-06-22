@@ -322,10 +322,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T23:50:42.350063+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 674
-      }
+      },
+      "variant_writings": [
+        "委す"
+      ]
     }
   },
   {
@@ -655,6 +658,66 @@
       "freq_rank": 34516,
       "frequencies": {
         "aozora": 322
+      }
+    }
+  },
+  {
+    "uuid": "0bdac2db-a68f-5fc2-ae5e-4395f25e0e07",
+    "entry": "巻かす",
+    "reading": {
+      "primary": "まかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あはれ初花は全く身に大波を打たせ、乱髪を逆立たせ渦巻かする大苦悶、大叫喚のうちに、「……母しやま……済みませぬツ」　と云ふ。",
+              "citation": {
+                "source": "白くれない",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
       }
     }
   }

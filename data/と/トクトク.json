@@ -324,11 +324,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:43:34.044908+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36891,
       "frequencies": {
         "aozora": 264
-      }
+      },
+      "variant_writings": [
+        "トクトク",
+        "得得",
+        "特得"
+      ]
     }
   },
   {
@@ -936,6 +941,66 @@
       "freq_rank": 36891,
       "frequencies": {
         "aozora": 30
+      }
+    }
+  },
+  {
+    "uuid": "a314197f-9eb4-54d5-8e7b-1884fd178df2",
+    "entry": "特々",
+    "reading": {
+      "primary": "とくとく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "個々特々の悲苦及び悦楽、要するにこの大琴の一部分のみ。",
+              "citation": {
+                "source": "万物の声と詩人",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

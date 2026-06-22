@@ -964,10 +964,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 149
-      }
+      },
+      "variant_writings": [
+        "汲汲"
+      ]
     }
   },
   {
@@ -1592,6 +1595,82 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "5f5b9f53-2e70-59d2-b72e-3e052982d350",
+    "entry": "岌々",
+    "reading": {
+      "primary": "きゅうきゅう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此時や燕の軍の勢、実に岌々乎として将に崩れんとするの危に居れり。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "卒に踵を回して急げば、行路の雲間に塞りて、咄々、何等の物か、と先驚かさるる異形の屏風巌、地を抜く何百｜丈と見挙る絶頂には、はらはら松も危く立竦み、幹竹割に割放したる断面は、半空より一文字に垂下して、岌々たるその勢、幾ど眺むる眼も留らず。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仰げば、石磴三百級、岌々として天に朝す。",
+              "citation": {
+                "source": "鹿野山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

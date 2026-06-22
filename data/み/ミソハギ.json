@@ -91,6 +91,30 @@
                 "author": "井上円了",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "旅人は妻が閨なる床に栖む蟋蟀思ふ千屈菜の花　旅人が留守する妻を思ふ歌の代表的なものの一つに軍王の　山越しの風を時じみ寝る夜落ちず家なる妹をかけて偲びつ　といふのがある。",
+              "citation": {
+                "source": "晶子鑑賞",
+                "author": "平野萬里",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して万葉人などの夢にも想到しない繊度と新味とを出さうと努めたのであつた、作者は千屈菜の花の咲いてゐるのを見てふと蟋蟀の事を思つた。",
+              "citation": {
+                "source": "晶子鑑賞",
+                "author": "平野萬里",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私達は、この河底の露れた方に居て、溝萩の花などの咲いた岩の蔭で、二時間ばかりを過した。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -110,7 +134,79 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T01:26:12.709479+00:00Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "千屈菜",
+        "溝萩"
+      ]
+    }
+  },
+  {
+    "uuid": "dd100c06-a9b1-5878-bad2-7064298c61e6",
+    "entry": "ミソハギ",
+    "reading": {
+      "primary": "みそはぎ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "中部以西の盆の精霊棚には、この白い米の水のかわりに、鉢に水を入れたものを具え、ミソハギの枝をもって供物の上にふり掛け、または墓参の往復にもこれを路上に注ぐが、その水鉢の中へは茄子や※豆などの細かく刻んだもののほかに、家によっては米粒を入れておく。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことにいわゆるミソハギの用途には、まだ沢山の窮められざる神秘がある。",
+              "citation": {
+                "source": "年中行事覚書",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
     }
   }
 ]

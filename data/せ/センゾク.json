@@ -265,6 +265,38 @@
                 "author": "折口信夫",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "一人專屬で代らないものがゐなければ子供は懷きませんからね。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老爺は、一平と謂ツて、解剖室專屬の小使であツた。",
+              "citation": {
+                "source": "解剖室",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その間彼女は、無産者××同盟の支部で働く傍、あるデパート專屬の刺繍工場に通つて生活を支へた。",
+              "citation": {
+                "source": "彼女こゝに眠る",
+                "author": "若杉鳥子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水面の占有が二三部落に專屬して居る事で、此等村々の漁業が、圓滿に行つて居つて、共同して養殖事業をやつて居るのです。",
+              "citation": {
+                "source": "潟に關する聯想",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -290,10 +322,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:20:09.741916+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 15469,
       "frequencies": {
         "aozora": 130
+      },
+      "variant_writings": [
+        "專屬"
+      ]
+    }
+  },
+  {
+    "uuid": "f86c047a-7cb8-597f-8ba4-1fad869d2c46",
+    "entry": "センゾク",
+    "reading": {
+      "primary": "せんぞく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "センゾクという所　日本の地名を調べてゆくと、説明のつかないものが多いのに驚く。",
+              "citation": {
+                "source": "故郷七十年",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

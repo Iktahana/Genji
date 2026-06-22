@@ -515,5 +515,73 @@
         "aozora": 23
       }
     }
+  },
+  {
+    "uuid": "fd81f9bd-1267-5383-acc0-a495031174b8",
+    "entry": "壁岩",
+    "reading": {
+      "primary": "へきがん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "常磐・堅磐は実は古代の室ほぎから出たもので、床岩・壁岩と、生命の堅固との間に、類似を見たのである。",
+              "citation": {
+                "source": "国文学の発生（第二稿）",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実にその物凄く快濶なる有様に見惚れて私は湖岸の断壁岩に屹立して遙かに雲間に隠顕するところのヒマラヤ雪峰を見ますると儼然たる白衣の神仙が雲間に震動するがごとく、実に豪壮なる光景に無限の情緒を喚起されました。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

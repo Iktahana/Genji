@@ -395,5 +395,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "42d254b2-6e55-5f23-9f2b-ba03b62a7ef6",
+    "entry": "農料",
+    "reading": {
+      "primary": "のうりょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『吾妻鏡』文治五年十一月八日の条によれば、窮民賑給のために農料種子を供給した範囲は、磐井・胆沢・江刺・和賀・稗貫の五郡であって、紫波・岩手等その以北には及んでおらぬ。",
+              "citation": {
+                "source": "奥州における御館藤原氏",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人倫禽獸魚肉等を食として、五穀の農料を知らず。",
+              "citation": {
+                "source": "蝦夷とコロボツクルとの異同を論ず之に潜みて",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

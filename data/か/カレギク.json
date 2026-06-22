@@ -207,5 +207,65 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T06:10:44.567717+00:00Z"
     }
+  },
+  {
+    "uuid": "6eaeab2e-2075-5e96-a825-bac48f5a5d6c",
+    "entry": "枯れ菊",
+    "reading": {
+      "primary": "かれぎく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "去年の枯れ菊が引かれたままで、あわれに朽ちている、それに千代紙の切れか何かが引っ掛かって風のないのに、寒そうにふるえている。",
+              "citation": {
+                "source": "どんぐり",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

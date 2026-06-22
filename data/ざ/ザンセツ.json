@@ -279,6 +279,22 @@
                 "author": "種田山頭火",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "町々はまだ春先の殘雪のために埋められ、とき／″＼恐ろしげな地響きを立てゝ屋根から崩れ落ちる雪の音もするが、この雪に濡れて反つて光を増す槲の葉などの輝くさまは眼もさめるばかり。",
+              "citation": {
+                "source": "桃の雫",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "くつきりと冴えた山肌の紫地に、殘雪の痕が翼を擴げて舞ひ立つた鶴のやうに飛び散つてゐた。",
+              "citation": {
+                "source": "痴日",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -305,9 +321,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:29:43.987998+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 310
+      },
+      "variant_writings": [
+        "殘雪"
+      ]
+    }
+  },
+  {
+    "uuid": "3020a25d-4dce-5834-a297-cff172e92d09",
+    "entry": "残屑",
+    "reading": {
+      "primary": "ざんせつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "飢餓は煙の立たぬ煙突からじっと見下していたし、塵芥の中にさえ食えるものの残屑一つない穢い街路から跳び立った。",
+              "citation": {
+                "source": "二都物語",
+                "author": "上巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最も貧弱な日本食を食うべく余儀なくされたので、私の胃袋はほとんど空虚であり、また始終非常に咽喉がかわくので、ちょいちょい水をのみながら、私は残屑物の山をかきまわしていたのである。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

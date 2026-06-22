@@ -357,10 +357,115 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:35:05.541657+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 26335,
       "frequencies": {
         "aozora": 348
+      },
+      "variant_writings": [
+        "サカキ",
+        "榊木",
+        "賢木"
+      ]
+    }
+  },
+  {
+    "uuid": "ddaa1ce8-9a01-58f3-9717-25d49d5f72bb",
+    "entry": "逆木",
+    "reading": {
+      "primary": "さかき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又逆木を使ってはならない。",
+              "citation": {
+                "source": "天主閣の音",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この木をさかきというのも、逆木の意味で、ここが始まりであったと土地の人はいっております。",
+              "citation": {
+                "source": "日本の伝説",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが、寺には堀がひかれ、要所には楯を並べ逆木を立てつらねるなど、急造ながら厳重な防備が作られてあったため、軍の進発にはこれを一つ一つ取りのぞいてゆかねばならなかった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第四巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堀に橋を渡し、逆木を取り払うなど面倒な作業を行って、漸く、逢坂の関にかかったとき、鶏鳴が暁を告げる始末、夜襲の時刻は遥かに過ぎてしまった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第四巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "逆木を設け、関所を数多くつくった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第四巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方奈良の大衆老若合わせて七千余人、武具に身を固めると、奈良坂、般若寺の二カ所の路に掘割を作り、楯垣を並べ、逆木を引いて防備を固めて待ち受けた。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第五巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

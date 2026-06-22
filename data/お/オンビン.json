@@ -288,6 +288,14 @@
                 "author": "秘田余四郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "そこで、よんどころなく長屋中の者うち寄つて右三人を取押へ、かやうに引立ててまゐりましたれば、何とぞ上の御威光を以て彼等に理解を加へ、穩便に引取りまするやうに御取計らひを願ひ上げますると、おれの口から斯う訴へ出るのだ。",
+              "citation": {
+                "source": "權三と助十",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -357,11 +365,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:30:36.483821+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 44065,
       "frequencies": {
         "aozora": 161
-      }
+      },
+      "variant_writings": [
+        "穩便"
+      ]
     }
   },
   {
@@ -684,6 +695,66 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 39
+      }
+    }
+  },
+  {
+    "uuid": "ea4fb0dd-2fe8-54f0-9fcc-0bd6b6f96caa",
+    "entry": "オンビン",
+    "reading": {
+      "primary": "おんびん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "泥棒だの殺人なども退歩の一策であり、あえて辞せないところであるが、一応はオンビンに運びたいと思ったのはムリのないところである。",
+              "citation": {
+                "source": "退歩主義者",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

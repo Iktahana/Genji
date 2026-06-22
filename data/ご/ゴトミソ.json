@@ -75,5 +75,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-03T10:11:03.126531+00:00Z"
     }
+  },
+  {
+    "uuid": "d6388509-46db-5771-9177-1ed237639843",
+    "entry": "ゴトミソ",
+    "reading": {
+      "primary": "ごとみそ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "糠味噌をゴトミソといふ地方もあるのを見ると、ゴといふものゝ範圍は豆だけに限らなかつたか、もしくはこのものにも元は豆を入れて居たかである。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "糠味噌をゴトミソという地方もあるのを見ると、ゴというものの範囲は豆だけに限らなかったか、もしくはこのものにも元は豆を入れていたかである。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

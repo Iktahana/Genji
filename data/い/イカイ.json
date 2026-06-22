@@ -705,10 +705,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "遺誡"
+      ]
     }
   },
   {
@@ -1067,10 +1070,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 8
-      }
+      },
+      "variant_writings": [
+        "醫界"
+      ]
     }
   },
   {
@@ -1938,9 +1944,159 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 133
+      },
+      "variant_writings": [
+        "いけえ"
+      ]
+    }
+  },
+  {
+    "uuid": "5193e92b-fb2c-5798-8572-b13172c2f5f4",
+    "entry": "医戒",
+    "reading": {
+      "primary": "いかい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "手がかりは二つあつて、一つは前記の「昔時本邦創成の和歐活字製作略傳」中の末尾に見える、嘉平の活字がサツマ辭書の印刷に用ひられたといふのであり、いま一つはＫ・Ｈ氏が私に見せた大福帳型のオランダ單語篇と、同じくＫ・Ｈ氏が「八王子の活字」と稱ぶところの、やはり蘭書「濟生三方附醫戒」である。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「濟生三方附醫戒」はＫ・Ｈ氏もまだ見てないらしいが、同氏が「八王子の活字」と名づけてゐるところの所以たる、ある文獻を貸してくれた。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのどつちにも陸軍軍醫中將秋山練造といふ人が書いてゐるが、別刷の方には「安政五年父の飜刻せる蘭書「濟生三方附醫戒」について」と題してある。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "練造氏の文によれば秋山氏は代々八王子に住んで、「濟生三方附醫戒」を出版した先代方齋は「幼名佐藏と云ひ、祖父の死後家と名を襲ぎて、義方と稱し、醫にして士であつ」た。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      },
+      "variant_writings": [
+        "醫戒"
+      ]
+    }
+  },
+  {
+    "uuid": "5b38ceac-4273-5548-a7a9-77791a032596",
+    "entry": "異解",
+    "reading": {
+      "primary": "いかい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかしこれとても、誤解や異解を受ける事において、五十歩百歩であった。",
+              "citation": {
+                "source": "改めて民藝について",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -180,9 +180,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:45:55.552717+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 411
+      },
+      "variant_writings": [
+        "銹びる"
+      ]
+    }
+  },
+  {
+    "uuid": "c608493c-43fb-5b96-93aa-c7d3cf715a36",
+    "entry": "寂びる",
+    "reading": {
+      "primary": "さびる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "上一段-バ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此奴が取澄ましていかにも高慢で、且つ翁寂びる。",
+              "citation": {
+                "source": "茸の舞姫",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "深めよ、日のまぼろし、冬はただ寂びるを、また、風よ光よと。",
+              "citation": {
+                "source": "海豹と雲",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 281
       }
     }
   }

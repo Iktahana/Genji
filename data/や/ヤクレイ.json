@@ -263,6 +263,14 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ところが美濃守殿の一｜件で、言はゞ五｜萬三｜千石の家が立つか潰れるかを、其方の掌に握つたも同樣、どんな言ひがかりでも付けられるところだと、内々で注意してゐると、潔白の其方は、ほんの僅かな藥禮を受けて、見立て書きを認めたと聞き、實に感心したのだ。",
+              "citation": {
+                "source": "死刑",
+                "author": "上司小劍",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -284,9 +292,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:38:07.587555+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 48
+      },
+      "variant_writings": [
+        "藥禮"
+      ]
+    }
+  },
+  {
+    "uuid": "a97fbfd1-bb6f-5020-af92-2bad6291eb8c",
+    "entry": "訳例",
+    "reading": {
+      "primary": "やくれい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "宮田の所へ行って、訳例を見せてもらいたかったのであるが、宮田のつんと取りすました皮肉な態度に、何となく親しめないところがあるのと、この文書を訳させることが、自分に対するテストのように思われたので、村川は我慢して考えつづけた。",
+              "citation": {
+                "source": "第二の接吻",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "簿記法を飜訳して簿記を見るに面倒なり先ずこの位なことで、その癖私は維新後早く帳合之法と云う簿記法の書を飜訳して、今日世の中にある簿記の書は皆私の訳例に傚うて書たものである。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

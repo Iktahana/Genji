@@ -376,5 +376,81 @@
         "aozora": 57
       }
     }
+  },
+  {
+    "uuid": "36cd8c00-c698-54c7-97df-128c900d25a7",
+    "entry": "聴訴",
+    "reading": {
+      "primary": "ちょうそ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いうまでもなく、ここの管下では、巡察、糺弾、勘問、聴訴、追捕、囚獄、断罪、免囚など、刑務と検察行政のすべてに亘っている。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、小次郎を、聴訴門の庭にすえ、どういうわけで、八坂の群盗共の中にいたかを取調べ、理由を聞きとると、むずかしい追及はせず、彼の所持品を、眼のまえに、返してくれた。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聴訴閣の一面に座を設け、やがて階下にひきすえられた吉平を、曹操は、くわっと睨めつけて云った。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
   }
 ]

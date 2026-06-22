@@ -318,10 +318,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:25:42.474086+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 39975,
       "frequencies": {
         "aozora": 220
+      },
+      "variant_writings": [
+        "闌"
+      ]
+    }
+  },
+  {
+    "uuid": "5225de68-b73d-5a64-95ae-c91360e724bd",
+    "entry": "タケナワ",
+    "reading": {
+      "primary": "たけなわ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "とはいえ、当時は戦争熱のタケナワの頃のことで、土地の新聞もさしたる報道を行わず、巷説も、他殺、自殺、いゝ加減なものだった。",
+              "citation": {
+                "source": "復員殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "目をさますと、もう、とっぷり夜になっていて、私の枕元では、益々酒宴はタケナワとなっているのを発見するのである。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "麻薬・自殺・宗教",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新宿のヨタ公は、戦争がタケナワとなり、飲み屋がなくなるまで、残っていた。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "東京ジャングル探検",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戦争がタケナワとなって、町の一流の温泉旅館八ヶ所が徴用され、傷痍軍人や治療所関係者の宿舎にあてられた。",
+              "citation": {
+                "source": "肝臓先生",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

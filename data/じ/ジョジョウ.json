@@ -288,6 +288,14 @@
                 "author": "石川啄木",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "一月号の『思ひ出』の作も極めて平淡な抒情の内に深い味いのある歌であったが、二月号の『独都より』の作はまた一層面白い歌である。",
+              "citation": {
+                "source": "歌の潤い",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -315,11 +323,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:29:42.359081+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29583,
       "frequencies": {
         "aozora": 64
-      }
+      },
+      "variant_writings": [
+        "抒情"
+      ]
     }
   },
   {
@@ -642,6 +653,90 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 122
+      }
+    }
+  },
+  {
+    "uuid": "dccefecb-577c-5445-850c-fa193ba9fdc8",
+    "entry": "叙上",
+    "reading": {
+      "primary": "じょじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あの短歌を作るといふ事は、言ふまでもなく叙上の心持と齟齬してゐる。",
+              "citation": {
+                "source": "弓町より",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "予は今ここに文明の意義と特質を論議せむとする者ではないが、もし叙上のごとき状態をもって真の文明と称するものとすれば、すべての人の誇りとするその「文明」なるものは、けっしてありがたいものではない。",
+              "citation": {
+                "source": "初めて見たる小樽",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの短歌を作るということは、いうまでもなく叙上の心持と齟齬している。",
+              "citation": {
+                "source": "弓町より",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し現今の學風に於て哲學史を離れた哲學研究に不滿を感ずる場合には、哲學史に對する叙上の見方によつて自己の哲學研究と哲學史研究とを結合し得るのではあるまいか。",
+              "citation": {
+                "source": "哲學と哲學史",
+                "author": "桑木嚴翼",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

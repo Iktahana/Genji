@@ -363,5 +363,73 @@
         "aozora": 417
       }
     }
+  },
+  {
+    "uuid": "6c4e4aa2-c01e-5f36-867d-184c8ba6fe48",
+    "entry": "ザトウ",
+    "reading": {
+      "primary": "ざとう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ところが十時弥君の話を聴くと、筑後柳河でも上流の士分の家では、子供のオヤスミナサイが定まってオイザトウであったそうだ。",
+              "citation": {
+                "source": "年中行事覚書",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ザトウクジラだった。",
+              "citation": {
+                "source": "くじらようかん",
+                "author": "澤西祐典",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

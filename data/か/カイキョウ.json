@@ -906,6 +906,22 @@
                 "author": "柴田宵曲",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "作品の取捨に當り、懷郷の匂ひの強い作品のみを集めるといふ事を、根本方針とした。",
+              "citation": {
+                "source": "『老ハイデルベルヒ』序",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幼齡の兒の爲す如く、或は寡婦のわざに似て、衆人おの／＼懷郷の嘆に堪へず、悲めり。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -934,10 +950,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 31
-      }
+      },
+      "variant_writings": [
+        "懷郷"
+      ]
     }
   },
   {
@@ -1264,6 +1283,114 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 1
+      }
+    }
+  },
+  {
+    "uuid": "cb9ee929-d3da-5c8f-8c3f-987339abefe3",
+    "entry": "開教",
+    "reading": {
+      "primary": "かいきょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "釈尊が仏教開教以来、今日まで二千五百年間、その間に数え切れぬほど覚者が出ておられます。",
+              "citation": {
+                "source": "仏教人生読本",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仏教の開教偈に、微妙甚深無上の法は、百千万劫にも遇ひ難し。",
+              "citation": {
+                "source": "学生と読書",
+                "author": "――いかに書を読むべきか――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この船の船長はかねて印度の開教者フランシスコ・サビエルの徳を慕ふ者だつたので、弥次郎の行末をあはれみ、改宗をすゝめて、サビエルに会ふ手引をした。",
+              "citation": {
+                "source": "イノチガケ",
+                "author": "――ヨワン・シローテの殉教――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "京畿地方を開教したビレラが将軍足利義輝に謁見して布教の免許を受けることができたのも、建仁寺の一禅僧の斡旋であつた。",
+              "citation": {
+                "source": "イノチガケ",
+                "author": "――ヨワン・シローテの殉教――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当時の日本の国情では乱暴極まる計画で、将軍に会はないうちに命を落してしまふのが当然すぎる筋書だつたが、拷問刑死は覚悟のことで、ただ日本開教者フランシスコ・サビエルの遺志を継ぐことだけが一途の念願であつた。",
+              "citation": {
+                "source": "イノチガケ",
+                "author": "――ヨワン・シローテの殉教――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すくなくとも、直接将軍に直談判して布教の公許をもとめようとの潜入は、開教者サビエルについでは、マストリリ、シドチの二人があるのみだつた。",
+              "citation": {
+                "source": "イノチガケ",
+                "author": "――ヨワン・シローテの殉教――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "景教はネストル僧正の派に屬する耶蘇教にして、唐太宗の時＝紀元六百三十五年＝波斯の大徳阿羅本及その隨員に依て、支那に開教せられたるものなり、阿羅本は青雲を占ふて聖典を載せ、風律を望んで艱險を亘り、以て傳教の任を全ふせりと云ふ。",
+              "citation": {
+                "source": "弘法大師と景教との關係",
+                "author": "イー、エー、ゴルドン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

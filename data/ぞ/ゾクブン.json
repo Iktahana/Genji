@@ -346,5 +346,76 @@
         "aozora": 10
       }
     }
+  },
+  {
+    "uuid": "a8212c29-963f-536d-9db1-036db744693f",
+    "entry": "属文",
+    "reading": {
+      "primary": "ぞくぶん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "猿楽に神聖せられて来た「翁」の、由来不明な「おうさい／＼」の句も、唯の囃し詞ではなく、「ほさき／＼」と言ふ風な畳語で、呪文の附属文句から変化したのではないかとも考へられる。",
+              "citation": {
+                "source": "「ほ」・「うら」から「ほがひ」へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして別にその裏面に、劉之※の属文を劉霊正が書いて彫らせた。",
+              "citation": {
+                "source": "一片の石",
+                "author": "會津八一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "屬文"
+      ]
+    }
   }
 ]

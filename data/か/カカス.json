@@ -372,10 +372,106 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:29:10.684888+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 30117,
       "frequencies": {
         "aozora": 484
+      },
+      "variant_writings": [
+        "かかせる",
+        "欠かせる"
+      ]
+    }
+  },
+  {
+    "uuid": "1a34110d-dfc6-5d1a-b13c-5b19c65f2f2c",
+    "entry": "書かす",
+    "reading": {
+      "primary": "かかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「私はいつも速記者に口授して書かすので、私の書いたものといつては先づ校正書位のものでせうからね。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ジエームスは無趣味な男だね、いつも速記者に書かすのだつて。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従前と変わりしこともなければ、氏子また策を運らし、俸給を定規より少なく神職に与え、ないよりは増しだろう、ぐずぐず言わば合祀するぞ、と今度は氏子より神職を脅し、実際は割引で与えながら規定の俸給を受けおるような受取証を書かすこと。",
+              "citation": {
+                "source": "神社合祀に関する意見",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのうち、松村先生は『大日本植物志』を牧野以外の者にも書かすといい出した。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いずれにしても教養が書かすのではなく、もとより自信あって書くのでもない。",
+              "citation": {
+                "source": "美術芸術としての生命の書道",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 191
       }
     }
   }

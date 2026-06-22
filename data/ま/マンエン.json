@@ -326,11 +326,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T00:46:09.699696+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 11622,
       "frequencies": {
         "aozora": 237
-      }
+      },
+      "variant_writings": [
+        "マンエン",
+        "蔓衍"
+      ]
     }
   },
   {
@@ -653,6 +657,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 86
+      }
+    }
+  },
+  {
+    "uuid": "aa54364f-8b78-52a7-a068-93f4313dc55f",
+    "entry": "満園",
+    "reading": {
+      "primary": "まんえん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "満園の青青した楡の木立が、どの木の蔭にも堆く楡莢を散らしてゐる。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この落葉蹊をうずむるの晩秋に当たりて、緑草紅花、満園春の光景を呈す。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "満園の春色、欄干に映じ来たる。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "満園ノ奇香微風ニ動クハ菟裘ノ薔薇ヲ栽ルナリ。",
+              "citation": {
+                "source": "向嶋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夏夜の雑沓に反して、満園寂々人影なし。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 9
       }
     }
   }

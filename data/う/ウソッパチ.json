@@ -322,9 +322,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T22:13:28.970689+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 49
+      },
+      "variant_writings": [
+        "嘘っ八"
+      ]
+    }
+  },
+  {
+    "uuid": "81a58192-2836-543b-9faf-b5c743062858",
+    "entry": "ウソッパチ",
+    "reading": {
+      "primary": "うそっぱち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "泣きながらアア無情と喚いたとき、三高はその秘密をさらけだしているじゃないか」「ウソッパチ云いなさんな。",
+              "citation": {
+                "source": "選挙殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もとよりウソッパチであらう。",
+              "citation": {
+                "source": "勝負師",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まさに彼の言い張ることは何よりもウソッパチに見えた。",
+              "citation": {
+                "source": "都会の中の孤島",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

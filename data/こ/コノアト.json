@@ -325,5 +325,76 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T14:43:53.347912+00:00Z"
     }
+  },
+  {
+    "uuid": "0c2eb823-a80c-526e-ada5-4fcfeb3ef9e2",
+    "entry": "此の跡",
+    "reading": {
+      "primary": "このあと",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "連体詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "少年の足跡のこん跡は、ほとんどかき消されていました。",
+              "citation": {
+                "source": "フランダースの犬",
+                "author": "A Dog of Flanders",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ネロの足跡のこん跡は、新しく積もった雪の下にあって、かすかであいまいでしたが、それは、通い慣れたアントワープへの道に向かっていました。",
+              "citation": {
+                "source": "フランダースの犬",
+                "author": "A Dog of Flanders",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "こん跡"
+      ]
+    }
   }
 ]

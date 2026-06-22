@@ -380,5 +380,65 @@
       "updated_at": "2026-06-02T05:16:58.131491+00:00Z",
       "freq_rank": 231
     }
+  },
+  {
+    "uuid": "739b1254-1243-56d5-92d7-0d8d8f6726a9",
+    "entry": "刈野",
+    "reading": {
+      "primary": "かの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "夢か、――さは、わが世の刈野、片日向、小春日和の日かげぬるに。",
+              "citation": {
+                "source": "白羊宮",
+                "author": "薄田淳介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

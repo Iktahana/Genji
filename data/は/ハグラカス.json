@@ -288,6 +288,14 @@
                 "author": "御代参の乗物",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "大衆のその望みは、深刻な恐慌につれダンダン形をとって来るから、各国のブルジョアは、大衆のその的を自分等の罪からハグらかすため、敵らしいものを外に求め、それを押しつける。",
+              "citation": {
+                "source": "「モダン猿蟹合戦」",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -356,9 +364,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:50:16.786287+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 197
+      },
+      "variant_writings": [
+        "ハグらかす"
+      ]
+    }
+  },
+  {
+    "uuid": "32f702fc-fe0b-5653-94a2-4f288d243323",
+    "entry": "ハグラカス",
+    "reading": {
+      "primary": "はぐらかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それをハグラカスために、あるひは酒といふ窮余の手を用ひたことも、有り得ないことではないのである。",
+              "citation": {
+                "source": "勝負師",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

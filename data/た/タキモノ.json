@@ -321,10 +321,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:21:55.792148+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 16
-      }
+      },
+      "variant_writings": [
+        "焚物"
+      ]
     }
   },
   {
@@ -696,6 +699,106 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 30
+      }
+    }
+  },
+  {
+    "uuid": "6b7696c6-b4d5-57c6-b7c0-05854c007967",
+    "entry": "たき物",
+    "reading": {
+      "primary": "たきもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "小柄で浅黒くてかてか光った皮膚をして、顔はとがった形にこぢんまり整い、長屋住いには惜しい男だと、おたかは眼をきょろきょろさせたが、もうその日から煮たき物を花井の家へ持って行った。",
+              "citation": {
+                "source": "婚期はずれ",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「変わった風流男だね」　と院は冗談をお言いになって、竹の子を離させておしまいになり、憂きふしも忘れずながらくれ竹の子は捨てがたき物にぞありける　こんなことをお言いかけになるが、若君は笑っているだけで何のことであるとも知らない。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "横笛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土間にはお風呂のたき物にでもするかと思うような枯枝が積んでありました。",
+              "citation": {
+                "source": "探偵夜話",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "爐の口へたき物をくべる者、爐の上は大釜がかかっている。",
+              "citation": {
+                "source": "剣侠受難",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戦争で国も家々もだんだん貧乏して来た時に、たき物の都合から私はやうやく思ひきつて街の湯に出かけることにした。",
+              "citation": {
+                "source": "入浴",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アユチのチは東風をコチというチも同じに、やはりめでたき物をもたらす風を、もとはここでもアユチと謂っていたのではないかと思う。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

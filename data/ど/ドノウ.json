@@ -317,9 +317,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T12:59:32.531919+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 41
+      },
+      "variant_writings": [
+        "土のう"
+      ]
+    }
+  },
+  {
+    "uuid": "755c0be4-aa8a-5f53-9160-faaa18067342",
+    "entry": "ドノウ",
+    "reading": {
+      "primary": "どのう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「この河はダニューブ、ドノウ、ドナウレスク、ドユナ、それぞれ読み方がありますが、むかしからドユナでもこの地が一番好かれますために、各民族から取り合いが激しかったところです。",
+              "citation": {
+                "source": "罌粟の中",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ネコ　ノ　オバアサン村山籌子　タイヘントシトツタオバアサンネコガ、オヒルコロニナツテメヲサマシテ、ベツドノウヘヘオキアガリマシタ。",
+              "citation": {
+                "source": "ネコ　ノ　オバアサン",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」オバアサンハ、ベツドノウヘデオコツテヰマシタガ、「モウシカタガナイ。",
+              "citation": {
+                "source": "ネコ　ノ　オバアサン",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

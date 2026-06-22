@@ -658,11 +658,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10775,
       "frequencies": {
         "aozora": 355
-      }
+      },
+      "variant_writings": [
+        "獨創"
+      ]
     }
   },
   {
@@ -1419,6 +1422,117 @@
       "frequencies": {
         "aozora": 10
       }
+    }
+  },
+  {
+    "uuid": "c6131cf1-cab7-545f-b5de-55c7fd31831e",
+    "entry": "独想",
+    "reading": {
+      "primary": "どくそう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一分間の独想を二頁も三頁も書いてゐるところがある。",
+              "citation": {
+                "source": "J. K. Huys Mans の小説",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "趣味ではなしにアメリカ風の学生気質に習慣づけられてゐる彼の父は、普段から友達の子息達と彼に自由な交際をさせてゐるので、これが若し自家での彼であつたら彼も礼儀を知る小さな主人になることに何の苦もなかつたのであるが、今の彼は余りに冷い独想家であつた。",
+              "citation": {
+                "source": "山を越えて",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「独想ではない、厳然たる事実なのだ、いいか」と辻永は圧迫するような口調で云った。",
+              "citation": {
+                "source": "地獄街道",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かれの書斎であり独想の室であった。",
+              "citation": {
+                "source": "梅里先生行状記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "指折れば去年の十月以来、半歳というものは、こんな独想と同じ闇との中に、生ける屍のごとく過ごして来た。",
+              "citation": {
+                "source": "黒田如水",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晩秋獨想　いまは、亂世にちがひない。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いまに馴れるとそんなつまらない獨想はやむにちがひないが、住居が變つたばかりのせゐか、とかく煙突と無言の對談をやつてゐるわけである。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      },
+      "variant_writings": [
+        "獨想"
+      ]
     }
   }
 ]

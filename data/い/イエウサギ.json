@@ -297,6 +297,14 @@
                 "author": "小酒井不木",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "そして、野ウサギや、家ウサギが、くしざしにされて、火の上でぐるぐるまわされていました。",
+              "citation": {
+                "source": "雪の女王",
+                "author": "――七つのお話からできている物語――",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -320,9 +328,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T16:06:30.023264+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 37
+      },
+      "variant_writings": [
+        "家ウサギ"
+      ]
+    }
+  },
+  {
+    "uuid": "b2cf4edf-5d30-5995-b764-e3da58299887",
+    "entry": "イエウサギ",
+    "reading": {
+      "primary": "いえうさぎ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "自然でこの病気はロッキー山脈の州のジリス、野生のイエウサギやノウサギ、ロスアンジェルスのノネズミ、カリフォルニアの野生マウス、日本、ノルウェー、カナダの野生イエウサギ、ロシアの水生ネズミ、カリフォルニア、モンタナのキジオライチョウ、ライチョウ、マガモ、感染である。",
+              "citation": {
+                "source": "ネズミ、シラミ、歴史",
+                "author": "――専門家でない読者に必要な12章を含む発疹チフス一生の伝記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

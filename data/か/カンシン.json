@@ -1094,11 +1094,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4009,
       "frequencies": {
         "aozora": 5584
-      }
+      },
+      "variant_writings": [
+        "かん心"
+      ]
     }
   },
   {
@@ -1428,10 +1431,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 151
-      }
+      },
+      "variant_writings": [
+        "歡心"
+      ]
     }
   },
   {
@@ -1763,11 +1769,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1742,
       "frequencies": {
         "aozora": 2052
-      }
+      },
+      "variant_writings": [
+        "關心"
+      ]
     }
   },
   {
@@ -3106,10 +3115,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 55
-      }
+      },
+      "variant_writings": [
+        "姦臣"
+      ]
     }
   },
   {
@@ -3438,6 +3450,74 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z",
+      "frequencies": {
+        "aozora": 1
+      }
+    }
+  },
+  {
+    "uuid": "34920394-f9ea-55a0-888a-ee8188edeade",
+    "entry": "カンシン",
+    "reading": {
+      "primary": "かんしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」ト　カンシンシマシタ。",
+              "citation": {
+                "source": "三匹ノ　コグマサント　キシヤ",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぼくはその「江戸前」といふことについてカンシンしてゐるのではなく、また江戸前あたりを殊更にものゝ基尺として振り廻すものでもないが、たゞ、事実として、鏑木さんこそは江戸前のおひとだといふことである。",
+              "citation": {
+                "source": "鏑木さん雑感",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
       "frequencies": {
         "aozora": 1
       }

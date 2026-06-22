@@ -31,7 +31,16 @@
         "collocations": [],
         "examples": {
           "standard": [],
-          "literary": []
+          "literary": [
+            {
+              "text": "内膳正は屠蘇を汲み乾すと、立ちながら、膳を踏み砕いて、必死の覚悟を示した。",
+              "citation": {
+                "source": "恩を返す話",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -51,10 +60,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:45:27.490800+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 1
-      }
+      },
+      "variant_writings": [
+        "汲み乾す"
+      ]
     }
   }
 ]

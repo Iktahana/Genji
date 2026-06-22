@@ -152,6 +152,62 @@
                 "author": "ESSAIS DE MONTAIGNE",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "吹きはらう河風に桜の病葉がはらはら散る。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼がその蓋の表面から、余分の粉を吹きはらうと、見ていた二人の警官は、賛嘆の声をもらした。",
+              "citation": {
+                "source": "予謀殺人",
+                "author": "A CASE OF PREMEDITATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　ソーンダイクが黄色い粉を蓋以外の部分にふりかけて吹きはらうと、またたくさんの卵型の指紋があらわれた。",
+              "citation": {
+                "source": "予謀殺人",
+                "author": "A CASE OF PREMEDITATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「さっと吹払う朝風に、霧晴れやったる、川中島を見渡せば、天よりや降ったりけん。",
+              "citation": {
+                "source": "相馬の仇討",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土地の繁昌は結構だが、自働車の音は我々を駆逐する声、塵埃の飛散は我々を吹払う風である。",
+              "citation": {
+                "source": "駆逐されんとする文人",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※堅い石場の約束に、話は積る雪の肌、とけて嬉しき胸の雲、吹払うたる晴嵐は、しん新地じゃないかいな……」今井　同志の誓よりは女の方が大事か。",
+              "citation": {
+                "source": "天狗外伝　斬られの仙太",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※堅い石場の約束に、話は積る雪の肌、とけて嬉しき胸の雲、吹払うたる晴嵐は、しん新地じゃないかいな……」今井　同志の誓いよりは女の方が大事か。",
+              "citation": {
+                "source": "斬られの仙太",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -172,9 +228,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:32:06.429389+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 103
+      },
+      "variant_writings": [
+        "吹きはらう",
+        "吹払う"
+      ]
+    }
+  },
+  {
+    "uuid": "eb6e976d-c982-5a17-9dc7-219d3721c356",
+    "entry": "拭き払う",
+    "reading": {
+      "primary": "ふきはらう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ワア行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "よし一つ、それを拭き払う方法を教えてやろう。",
+              "citation": {
+                "source": "仏教人生読本",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

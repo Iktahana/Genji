@@ -416,11 +416,18 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T06:16:45.056499+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 16043,
       "frequencies": {
         "aozora": 1220
-      }
+      },
+      "variant_writings": [
+        "かわせる",
+        "交す",
+        "交せる",
+        "交はす",
+        "交わせる"
+      ]
     }
   },
   {
@@ -749,11 +756,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 24755,
       "frequencies": {
         "aozora": 176
-      }
+      },
+      "variant_writings": [
+        "躱せる",
+        "躱わす"
+      ]
     }
   },
   {
@@ -1089,6 +1100,133 @@
       "freq_rank": 24755,
       "frequencies": {
         "aozora": 16
+      }
+    }
+  },
+  {
+    "uuid": "4baed69c-8404-55c8-9c5b-753233a3727b",
+    "entry": "買わす",
+    "reading": {
+      "primary": "かわす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "太田ミサコは売あびせのために底値を入れた××新株の反撥を予想して買いあつめると、雑株安をねらって、引たたぬ××百貨店株を後場引値で、これを指名人に買わすとさっさと場内を引あげた。",
+              "citation": {
+                "source": "女百貨店",
+                "author": "吉行エイスケ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "相談して岡田をひっかけ買わす。",
+              "citation": {
+                "source": "一九二五年より一九二七年一月まで",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お常に歸りに牛肉を買わすことにして置いたのですが」と細君は戸棚から菓子器を出して「まアこれでも食べて辛抱してゐて下さいな。",
+              "citation": {
+                "source": "俳諧師",
+                "author": "高濱虚子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 80
+      }
+    }
+  },
+  {
+    "uuid": "22984416-ae73-5cfe-a379-97b2a5bec85e",
+    "entry": "飼わす",
+    "reading": {
+      "primary": "かわす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

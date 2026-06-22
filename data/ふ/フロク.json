@@ -320,11 +320,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T18:53:30.716143+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 11574,
       "frequencies": {
         "aozora": 120
-      }
+      },
+      "variant_writings": [
+        "附録"
+      ]
     }
   },
   {
@@ -435,6 +438,98 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "39811f41-ba98-5b69-bbc4-e2977f36c4dd",
+    "entry": "フロク",
+    "reading": {
+      "primary": "ふろく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四角張つたところへ出るには、いつも同じ古ぼけたフロクコートを着して行き、そのしみだらけで、色のさめてゐるなどに無頓着なので、却つて實着な人物として人々に信用されてゐる。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "放浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いわば、よけいなフロクの買物であった。",
+              "citation": {
+                "source": "怪星ガン",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしこのフロクの買物が、やがて三根夫にとって、思いがけないたいへんな役目をつとめてくれることになろうとは、さすがに気がつかなかった。",
+              "citation": {
+                "source": "怪星ガン",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この人や他の二三の人の著作、文学活動が、『タイムス』の文芸フロクの社説で新しき文芸批評の社会的必然を認めさせたのであったのに。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三八年（昭和十三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なんなら、この家にあの子もフロクに添えて御用立てしますか？",
+              "citation": {
+                "source": "猿の図",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

@@ -750,10 +750,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8348,
       "frequencies": {
         "aozora": 1219
+      },
+      "variant_writings": [
+        "搜索"
+      ]
+    }
+  },
+  {
+    "uuid": "cddd8e50-4af6-57f4-b388-6acfc32b5360",
+    "entry": "痩削",
+    "reading": {
+      "primary": "そうさく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もし富士山の位置を、北アルプスに移し換えて、その痩削的の山容を改めたらば、あるいはどういう雪の結果を齎らしたか、予め知り難いのである。",
+              "citation": {
+                "source": "高山の雪",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又病を発してより未だ幾ならぬに、全身｜痩削して相貌が変じたと伝へられてゐるのが其証の二である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すらりとした痩削な細君はやがてきまりがわるさうにして、ビスケツトを入れた菓子器などをそこに運んで来た。",
+              "citation": {
+                "source": "モウタアの輪",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斜草地、目もさめるやうな紅葉、畠の黒い土にくつきりと鮮かな菊の一叢二叢、青々とした菜畠――ふと丘の上の家の前に、若い上品な色の白い痩削な青年がぢつと此方を見て立つてゐるのを私達は認めた。",
+              "citation": {
+                "source": "丘の上の家",
+                "author": "抄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

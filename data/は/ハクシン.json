@@ -288,6 +288,14 @@
                 "author": "新美南吉",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "全體のがつしりした安定感はこの男のもつ職務意識の強さを物語り、顏面骨相の品格に乏しい鋭い小人物的個性は迫眞を通り越し、横向はことに暴露的である。",
+              "citation": {
+                "source": "古代エジプトの作品",
+                "author": "高村光太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -313,10 +321,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:48:19.474715+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 38682,
       "frequencies": {
         "aozora": 62
+      },
+      "variant_writings": [
+        "迫眞"
+      ]
+    }
+  },
+  {
+    "uuid": "d358f43d-9e50-5eaf-bbc4-2c72b9c07c79",
+    "entry": "ハクシン",
+    "reading": {
+      "primary": "はくしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「一体何の為めに学校へ、ハクシン、学校へ来ている、ヘキスン、御覧なさい、私はお前さんの為に風邪を引いて了った。",
+              "citation": {
+                "source": "いたずら小僧日記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

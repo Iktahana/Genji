@@ -279,6 +279,22 @@
                 "author": "牧逸馬",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "小屋は三間に四間を出でず、屋根も周囲の壁も大木の皮を幅広く剥ぎて組合したもので、板を用ゐしは床のみ、床には莚を敷き、出入の口はこれ又樹皮を組みて戸となしたるが一枚｜被はれてあるばかりこれ開墾者の巣なり家なり、いな城廓なり。",
+              "citation": {
+                "source": "空知川の岸辺",
+                "author": "國木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の唯一つの城廓なる私自身が見る見る廃墟の姿を現わすのを見なければならないのは、私の眼前を暗黒にする。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -351,10 +367,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:20:02.835274+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 141
-      }
+      },
+      "variant_writings": [
+        "城廓"
+      ]
     }
   },
   {
@@ -438,6 +457,82 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "ad31f378-67a0-5efc-81ef-c5109620907e",
+    "entry": "成覚",
+    "reading": {
+      "primary": "じょうかく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "人の性は不調子なり、人の命は不規律なり、争ふ事を好むは猿猴よりも多く、満足する事｜能はざるは空の鳥に学ばざる可からざるが如し、是非曲直を論ずれども、我利の為に立論するの外を知らず、正邪真偽を説けども、遂に成覚の見を養ひし事なし、知らず、人間の運命｜遂にいかならむ。",
+              "citation": {
+                "source": "最後の勝利者は誰ぞ",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "独逸から帰って来てからの漣は出山の釈迦が成覚したように小説家たる過去を忘れてお伽噺の小波となってしまった。",
+              "citation": {
+                "source": "硯友社の勃興と道程",
+                "author": "――尾崎紅葉――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この外法本房行空、成覚房幸西は共に一念義をたてて法然の命に背いたにより破門されてしまった。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
     }
   }
 ]

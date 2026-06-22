@@ -324,10 +324,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T10:09:23.576193+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 131
-      }
+      },
+      "variant_writings": [
+        "纒綿"
+      ]
     }
   },
   {
@@ -465,6 +468,106 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 2
+      }
+    }
+  },
+  {
+    "uuid": "b21f7b20-7f01-5899-8aa4-da3d384e7d79",
+    "entry": "テンメン",
+    "reading": {
+      "primary": "てんめん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ブランデスはあんなに鋭く背景となった十八世紀時代の動きを分析していながら『人間喜劇』の作者が、上品な詩的な情感をもっていたから、復古時代にテンメンとしたといっているのですもの（ブランデスの本はなかなかないので弱ります）。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三四年（昭和九年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去った女房の荷物をそうたやすくは渡さない心持も、表面から見ると、欲張りらしくて、芯ではそうでもないテンメンたるものがあるのではないか。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二三年（大正十二年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "学術、芸術の理解にはちっとも標準を持たず、しきりに「泣く」情緒にテンメンとして居た。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二四年（大正十三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ヤーホー」という叫び声を闇にもとめて滑ると、初めは小さく見えた小さい塊が急に大きくなってくるとステンメンをして近づく。",
+              "citation": {
+                "source": "山と雪の日記",
+                "author": "板倉勝宣",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ステンメンの足が、疲労することおびただしい。",
+              "citation": {
+                "source": "山と雪の日記",
+                "author": "板倉勝宣",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ステンメン」とどなっている。",
+              "citation": {
+                "source": "五色温泉スキー日記",
+                "author": "板倉勝宣",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

@@ -297,5 +297,73 @@
         "aozora": 24
       }
     }
+  },
+  {
+    "uuid": "45f0c16e-3a5a-5826-bf5f-4a23ca9546c3",
+    "entry": "別義",
+    "reading": {
+      "primary": "べつぎ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かく韻文という言語が、一つの思想中で二つの別義に解釈されている。",
+              "citation": {
+                "source": "詩の原理",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（二十三）存別義　これは本の名前が色々あつたりした時、その別の名前をも併せて擧げる。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
   }
 ]

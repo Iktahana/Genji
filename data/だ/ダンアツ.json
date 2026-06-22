@@ -323,10 +323,65 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:56:22.427131+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 7188,
       "frequencies": {
         "aozora": 326
+      },
+      "variant_writings": [
+        "彈圧",
+        "彈壓"
+      ]
+    }
+  },
+  {
+    "uuid": "3187bcc4-eb61-5a61-8a4a-9d1a97a380fa",
+    "entry": "ダンアツ",
+    "reading": {
+      "primary": "だんあつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

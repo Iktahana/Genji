@@ -406,10 +406,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:02:10.538808+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 61
-      }
+      },
+      "variant_writings": [
+        "懸物"
+      ]
     }
   },
   {
@@ -732,9 +735,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 9
+      },
+      "variant_writings": [
+        "かけ物"
+      ]
+    }
+  },
+  {
+    "uuid": "95332dfb-4641-58b3-8594-cf3b07074c19",
+    "entry": "カケモノ",
+    "reading": {
+      "primary": "かけもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そう余計作っておく品物ではない」「何に使うものですか」「棺桶の上にかけて葬るものだ」２　その後、イエメンの王様の誕生日の祝い物と、棺桶のカケモノとがダンピングされて、日本国内津々浦々に行きわたって、ミーチャン、ハーチャンのネッカチーフやフトンなぞになったのはいうまでもない。",
+              "citation": {
+                "source": "明日は天気になれ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "目の高い人はイエメンの王様の記念品や棺桶のカケモノの方を掘りだすべきである。",
+              "citation": {
+                "source": "明日は天気になれ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嵐、凪、霧、雨、雪、花、季節による色彩のうつり変り、穏かな河、とどろく滝、飛ぶ鳥、跳ねる魚、そそり立つ峰、深い渓谷――自然のすべての形相は、単に嘆美されるのみでなく、数知れぬ写生図やカケモノに描かれるのである。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蜷川の友人達には、陶器、磁器、貨幣、刀剣、カケモノ（絵）、錦襴の切、石器、屋根瓦等を、それぞれ蒐集している者がある。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "部屋の隅々には、最も素晴しい黄金漆器や最古のカケモノがあった。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

@@ -271,6 +271,14 @@
                 "author": "吉川英治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "駈込んでゆくと、父親の奴腹を切っていやがったんだ。",
+              "citation": {
+                "source": "雪之丞変化",
+                "author": "三上於菟吉",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -293,9 +301,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:44:47.040710+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 29
+      },
+      "variant_writings": [
+        "奴腹"
+      ]
+    }
+  },
+  {
+    "uuid": "cb3f2b89-9774-5b69-99b0-626e6d64e155",
+    "entry": "ヤツバラ",
+    "reading": {
+      "primary": "やつばら",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "フツカヨイに赤面逆上するだけでも、赤面逆上しないヤツバラよりも、どれぐらい、マットウに、人間的であったか知れぬ。",
+              "citation": {
+                "source": "不良少年とキリスト",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -927,11 +927,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 38059,
       "frequencies": {
         "aozora": 115
-      }
+      },
+      "variant_writings": [
+        "遞信"
+      ]
     }
   },
   {
@@ -1368,6 +1371,90 @@
       "freq_rank": 42416,
       "frequencies": {
         "aozora": 73
+      }
+    }
+  },
+  {
+    "uuid": "7443e688-47fe-5bdd-a830-0fe6d1ad89c6",
+    "entry": "貞心",
+    "reading": {
+      "primary": "ていしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（編者・吉本明光）わが母　永田トワ子　安政五年三月六日生　昭和二十年四月十九日死　（見性院唯室貞心大姉）山梨県南都留郡中野村平野、寿徳寺に永眠二　病床手記　絶筆昭和二十一年三月二十五日東京玉川上野毛の大東病院の病室にてここは東京とはいうても誠に院の廻りが広くていい処。",
+              "citation": {
+                "source": "お蝶夫人",
+                "author": "三浦環",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんなところは、これっぱかりもありゃしないよ……」「僕は何も考えてやしないよ」「あれは、君、はにかみやで、無口で、引っ込み思案で、その上驚くばかり童貞心を持ってるんだ。",
+              "citation": {
+                "source": "罪と罰",
+                "author": "フョードル・ミハイロヴィッチ・ドストエフスキー",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なれどもお隅は貞心な者でございますから、能いように切り脱けては客と一つ寝をする様なことは致しません、素より器量は好し、様子は好し、其の上世辞がありまするので、大して客がござります。",
+              "citation": {
+                "source": "真景累ヶ淵",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「あんたはなんのためにこんな法要をするんですか、なんのためです」と鎌二郎が叫ぶように云った、「こうすれば世間や親族の者が、貞心の篤い男だと思うだろうという計算ですか」　安宅はまた鵜殿の叔父のほうへ向き直り、それまで話していたことを話し続けようとした。",
+              "citation": {
+                "source": "滝口",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 11
       }
     }
   }

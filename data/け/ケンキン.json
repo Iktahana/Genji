@@ -428,6 +428,22 @@
                 "author": "――大統領選挙の感想――",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "國家ハ此ノ合理的勤勞ニ對シテ其ノ納付金ヲ國家ニ對スル獻金トシテ受ケ明カニ其ノ功勞ヲ表彰スルノ道ヲ取ルベシ。",
+              "citation": {
+                "source": "日本改造法案大綱",
+                "author": "北一輝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「プロ・コンバチェンテス」（戰士のために）と呼んで、戰歿軍人遺族扶養の獻金章ださうで、一個三十錢以上といふことになつてるのだが、Ｉ君は日本の名譽のために氣前を見せて札びら二枚を奮發した。",
+              "citation": {
+                "source": "大戰脱出記",
+                "author": "野上豐一郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -454,11 +470,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10836,
       "frequencies": {
         "aozora": 121
-      }
+      },
+      "variant_writings": [
+        "獻金"
+      ]
     }
   },
   {
@@ -592,6 +611,82 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "5b9f2ac0-9324-5413-bbdc-511c35eb7a9a",
+    "entry": "ケンキン",
+    "reading": {
+      "primary": "けんきん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こりゃその、ケンキンでさ。",
+              "citation": {
+                "source": "その人を知らず",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神さまがケンキンを突き返したりなんか、コセコセすると、ありがたみがなくならあ。",
+              "citation": {
+                "source": "その人を知らず",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正面大階段の大きな螺旋状なした立派な木材の手すりは、その小間に痛々しく白木の板がくぎ付けにしてあるので、どうしてだらうときいて見ると、その空間を埋めてゐたカネの唐草模様をはづして、当局まづ率先してケンキンしたとのことだつた。",
+              "citation": {
+                "source": "東京の風俗",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
     }
   }
 ]

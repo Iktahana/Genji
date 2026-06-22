@@ -271,6 +271,30 @@
                 "author": "活き仏",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "虎は――普通想像されるように、足をちぢめ揃えて、跳びかかるような姿勢ではなくて――猫がものにじゃれる時のように、右の前肢をあげて、チョッカイを出すような様子で、前に進み出そうとしている。",
+              "citation": {
+                "source": "虎狩",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "現代の文士とか批評家とか、又は学者、その他の芸術研究家、もしくは芸術愛好者の類で、時々「能」にチョッカイを出す人があるが、筆者の思うほどに「能」に突込んでくれる人が一人もいない。",
+              "citation": {
+                "source": "道成寺不見記",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしその中にタッタ一人、このマユミにチョッカイを出しに来ない青年が居た。",
+              "citation": {
+                "source": "巡査辞職",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -424,10 +448,105 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T07:32:36.599640+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 33948,
       "frequencies": {
         "aozora": 85
+      },
+      "variant_writings": [
+        "チョッカイ"
+      ]
+    }
+  },
+  {
+    "uuid": "08fa9c63-93e3-511d-8c8c-81793e54bdb8",
+    "entry": "直解",
+    "reading": {
+      "primary": "ちょっかい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此處に所謂『惡少年』の何を意味するかは嘗て本紙に出た『滿都の惡少年』といふ記事を讀んだ人には直解るに違ひない。",
+              "citation": {
+                "source": "女郎買の歌",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『勿憚改』は延宝元年（一六七三）村瀬義益の作であるが、中に武州目黒村の不動堂に算額を奉納した者があって、片岡豊忠の『算法｜直解』にもその答術があり、『勿憚改』もまた別に答術を作ったのであることを記す。",
+              "citation": {
+                "source": "芸術と数学及び科学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『算法直解』は寛文十年（一六七〇）の作にて、不動堂の算額はその以前のものと知られる。",
+              "citation": {
+                "source": "芸術と数学及び科学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "但し此の横綱之事といふのは、其の力士が紫の「化粧廻し」の上に帯ぶる処の七五三縄を意味するものであるが後には之を直解して、其の力士に天下一、即ち日の下開山の位を許したものとして居る。",
+              "citation": {
+                "source": "初代谷風梶之助",
+                "author": "三木貞一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それはこの悲惨な出来ごとを簡単に述べたもので、私は高嶺氏に、これ等の文字を順序に従って、直解的に訳してくれぬかと依頼した。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

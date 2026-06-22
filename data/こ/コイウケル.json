@@ -55,7 +55,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "そして一人が恵み手から銭を乞い受ける間、一人はあとに退っていて尋常に待っているのでした。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -76,10 +85,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:59:16.824127+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 10
-      }
+      },
+      "variant_writings": [
+        "乞い受ける",
+        "乞い請ける",
+        "請いうける"
+      ]
     }
   }
 ]

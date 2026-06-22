@@ -363,10 +363,106 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:35:20.351861+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2718,
       "frequencies": {
         "aozora": 13728
+      },
+      "variant_writings": [
+        "時どき",
+        "時時"
+      ]
+    }
+  },
+  {
+    "uuid": "23f894a8-5d7e-573a-b562-b8fe99ba1b07",
+    "entry": "トキドキ",
+    "reading": {
+      "primary": "ときどき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "カクテアシタハヒルトナリ、　　水音イヨヨシゲクシテ、　鳥トキドキニ群レタレド、　　　ヒトノケハヒハナカリケリ。",
+              "citation": {
+                "source": "文語詩稿　一百篇",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "スルト　ダンダン　センサウノ　アル　トコロニ　チカヅイテ　キタラシク、トキドキ　トホクノ　ハウカラ　カスカニ　タイハウノ　トドロキガ　キコエテ　キマシタ。",
+              "citation": {
+                "source": "ヒロツタ　ラツパ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソレデモトキドキ私ニコンナコト云ウノ。",
+              "citation": {
+                "source": "テガミ",
+                "author": "小林多喜二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ナオ戦闘開始ノノチハ、トキドキニセノ無電ヲウチ、アタカモ日本潜水艦デアルヨウニ、アメリカ艦隊ニ思ワセルコト」　と、命令をだした。",
+              "citation": {
+                "source": "太平洋魔城",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東日本ではかわり物、何かふだんとちがう食物をこしらえて食べる日を、トキドキと今でもいっている土地がある。",
+              "citation": {
+                "source": "年中行事覚書",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

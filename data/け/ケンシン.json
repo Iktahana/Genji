@@ -808,11 +808,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 12924,
       "frequencies": {
         "aozora": 393
-      }
+      },
+      "variant_writings": [
+        "獻身"
+      ]
     }
   },
   {
@@ -2852,6 +2855,106 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "8b29e49b-62a6-5145-8938-99d79f5c18d7",
+    "entry": "剣神",
+    "reading": {
+      "primary": "けんしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――処で、名剣神社前の、もとの、私どもの横町の錦絵の中で、今の、それ、婀娜一番、という島田髷を覚えていらっしゃろう。",
+              "citation": {
+                "source": "菊あわせ",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "名剣神社の拝殿には、紅の袴の、お巫子が二人、かよいをして、歌の会があった。",
+              "citation": {
+                "source": "菊あわせ",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手裏剣神妙剣などといって、一に本朝剣法の精極手字の則に出ている。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "剣神ともいうべき丹下左膳の腕前を見せられて、もうこの連中、すっかり怖気づいているのだ。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "こけ猿の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遂に醒めざれば即ち鹿島香取剣神の御罰まずこの通りたるべきもの。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……そも、織田氏の御先祖様と申せば、越前丹生氏神、織田｜剣神社の神官に在しました。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第一分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
     }
   }
 ]

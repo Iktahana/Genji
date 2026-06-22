@@ -317,10 +317,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:22:34.873639+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3801,
       "frequencies": {
         "aozora": 55
+      },
+      "variant_writings": [
+        "かしわ手"
+      ]
+    }
+  },
+  {
+    "uuid": "d6420669-86c2-56aa-ad54-4ee73743f7aa",
+    "entry": "カシワデ",
+    "reading": {
+      "primary": "かしわで",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "オレは進駐軍関係の土建業務もやっとるから、キリスト教のよいところも充分に知っとるが、やっぱし宗教はカシワデ、指圧。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戦争中、カシワデのようなことをして、朝な朝なノリトのようなものを唸る行事に幸い一度も参加せずにすむことができたし、電車の中で宮城の方向に向って、人のお尻を拝まずにすんだ。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "麻薬・自殺・宗教",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この競技会の主催者や日本海を渡ってくる宗教団体は、悪質な宗教中毒の親玉であり、ノリトやカシワデが国を亡したように、こんな宗教行事が国家的に行われるようになると国は又亡びる。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "麻薬・自殺・宗教",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ノリトやカシワデや聖火リレーや天皇服やインターナショナルの合唱は、美ではないことが分るからである。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "麻薬・自殺・宗教",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

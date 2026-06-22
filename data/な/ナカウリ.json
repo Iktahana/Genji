@@ -119,6 +119,54 @@
                 "author": "吉川英治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "こんな工合で、一日中売つて歩きましたけれど、誰も買つてくれる人がありません。",
+              "citation": {
+                "source": "竜宮の犬",
+                "author": "宮原晃一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木戸銭安く中売の婆酒｜珈琲なぞ売るさまモンマルトルの卑しき寄席に異らねど演芸は極めて高尚に極めて新しき管絃楽またはオペラの断片にて毎夜コンセルヴァトアルの若き楽師｜来つて演奏す。",
+              "citation": {
+                "source": "書かでもの記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "胸中売宅の事を悔ひ悵然として眠ること能はず。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後三河屋が破産してからお福は零落して三味線堀の小芝居柳盛座の中売になっていたそうである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「中売」以下は、それ／″＼の寄席、寄席フアン百態として趣深い。",
+              "citation": {
+                "source": "大正東京錦絵",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長いあいだ芝居の中売や寄席の下足番などをしてきた男で、人の世の隅という隅を見て歩いたはてに、辛うじてみつけ出した最後の片隅がそこだったのだ。",
+              "citation": {
+                "source": "溜息の部屋",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -137,10 +185,84 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:13:38.661832+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 6
+      },
+      "variant_writings": [
+        "中売"
+      ]
+    }
+  },
+  {
+    "uuid": "022e8da1-b49e-52b6-8cf0-015663c5842d",
+    "entry": "仲売り",
+    "reading": {
+      "primary": "なかうり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "仲売りが、菓子などとともに、「おうむせきえぞうしばんづけ」と、呼び売りして歩く習慣だった。",
+              "citation": {
+                "source": "あの顔",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婆さんはそこで仲売の女として働いてゐるので、爺さんは竹本駒若と云ふ義太夫語りが好きで毎晩聴きに出かけてゐるうち、お互ひに馴染みあつて了つた。",
+              "citation": {
+                "source": "日本三文オペラ",
+                "author": "武田麟太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "仲売"
+      ]
     }
   }
 ]

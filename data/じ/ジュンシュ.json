@@ -629,5 +629,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "420c898f-cd41-5deb-85f2-57c01d595c4a",
+    "entry": "順守",
+    "reading": {
+      "primary": "じゅんしゅ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "従って、我々はこの法律を順守して、日本人の海外渡航を扶助すべきではない。",
+              "citation": {
+                "source": "船医の立場",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）もしも看護婦（乳母）が母親の代わりをするならば、医師はまず最初に彼女を注意深く検査し、最も実際的な食養生の規則を順守させる。",
+              "citation": {
+                "source": "医学の歴史",
+                "author": "History of Medicine",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

@@ -332,10 +332,133 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:37:43.476321+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29779,
       "frequencies": {
         "aozora": 279
+      },
+      "variant_writings": [
+        "書きなおせる",
+        "書直す"
+      ]
+    }
+  },
+  {
+    "uuid": "93895bdd-51a6-5dd1-a5f1-366e0ab0800f",
+    "entry": "描き直す",
+    "reading": {
+      "primary": "かきなおす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "蛇行して達しうる人間の実際の方向を、直線によって描き直すことである。",
+              "citation": {
+                "source": "広津氏に答う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本画の場合にも、何枚も描き直すということはあるであろうが、画面に対する気持としてはむしろ絶対に描き直しをしないという心持の方が尊重されるのではないかと思われる。",
+              "citation": {
+                "source": "画室の言葉",
+                "author": "藤島武二",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 18
+      }
+    }
+  },
+  {
+    "uuid": "d16ca363-0ffb-596b-b6e9-3f37cdcedc04",
+    "entry": "掻き直す",
+    "reading": {
+      "primary": "かきなおす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

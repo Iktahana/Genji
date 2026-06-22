@@ -188,5 +188,65 @@
         "aozora": 101
       }
     }
+  },
+  {
+    "uuid": "bbce30fd-1b37-5443-9cf4-3cf57cf3727a",
+    "entry": "寝かし付ける",
+    "reading": {
+      "primary": "ねかしつける",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "吾等の祖先及びその時代の人が、曾て子供を寝かし付ける時に、こういう自然の声調をなした。",
+              "citation": {
+                "source": "単純な詩形を思う",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
   }
 ]

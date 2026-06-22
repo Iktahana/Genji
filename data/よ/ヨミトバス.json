@@ -56,7 +56,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "「明日は某男爵の歌留多会、明後日は審美学協会の新年宴会、其明日は鳥部教授歓迎会、其又明日は……」　うるさいなと、主人は読みとばす。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -76,10 +85,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T06:52:34.496958+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "読みとばす"
+      ]
     }
   }
 ]

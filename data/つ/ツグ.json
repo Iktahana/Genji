@@ -456,11 +456,19 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:17:05.213107+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 18480,
       "frequencies": {
         "aozora": 1667
-      }
+      },
+      "variant_writings": [
+        "ツぐ",
+        "ツグ",
+        "嗣ぐ",
+        "嗣げる",
+        "継げる",
+        "繼ぐ"
+      ]
     }
   },
   {
@@ -788,11 +796,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14549,
       "frequencies": {
         "aozora": 2200
-      }
+      },
+      "variant_writings": [
+        "亜ぐ",
+        "次ぎ"
+      ]
     }
   },
   {
@@ -1882,6 +1894,57 @@
       "freq_rank": 36796,
       "frequencies": {
         "aozora": 450
+      }
+    }
+  },
+  {
+    "uuid": "12405740-fd8c-55fb-b3ca-5610c8b384d7",
+    "entry": "訃ぐ",
+    "reading": {
+      "primary": "つぐ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ガ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

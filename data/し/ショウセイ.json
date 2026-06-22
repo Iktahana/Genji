@@ -1203,6 +1203,14 @@
                 "author": "北大路魯山人",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "青磁は鐵料の還元焔達成である、胎土に鐵分があり且つ厚手である、厚手の青磁にいゝものがあるのは當時の燒成の條件が厚手でないと失敗したからで、へたにまごつくと怪しげなものをつかませられる。",
+              "citation": {
+                "source": "やきもの讀本",
+                "author": "小野賢一郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1233,11 +1241,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 44822,
       "frequencies": {
         "aozora": 7
-      }
+      },
+      "variant_writings": [
+        "燒成"
+      ]
     }
   },
   {
@@ -2177,10 +2188,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 34
-      }
+      },
+      "variant_writings": [
+        "將星"
+      ]
     }
   },
   {
@@ -2284,6 +2298,131 @@
       "frequencies": {
         "aozora": 1
       }
+    }
+  },
+  {
+    "uuid": "0b12ca60-d161-56c6-a96e-d5a196a4e9d1",
+    "entry": "焼生",
+    "reading": {
+      "primary": "しょうせい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（世話焼生）」　無責任て一体何の事だろう。",
+              "citation": {
+                "source": "いたずら小僧日記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日の山小屋の寂しく薄暗い炭焼生活を知っている人々に、一人としてこんな莫大なる将来の幸運を想像しうる者があろうか。",
+              "citation": {
+                "source": "雪国の春",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "燒生"
+      ]
+    }
+  },
+  {
+    "uuid": "fa5bdc93-e2d4-5b7d-b131-99f3a9f2a5fd",
+    "entry": "将精",
+    "reading": {
+      "primary": "しょうせい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "將精"
+      ]
     }
   }
 ]

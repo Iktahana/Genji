@@ -352,10 +352,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-04-02T21:14:54.420996+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 30551,
       "frequencies": {
         "aozora": 601
+      },
+      "variant_writings": [
+        "高だか",
+        "高高"
+      ]
+    }
+  },
+  {
+    "uuid": "d2edbaf5-fb82-53af-8db1-e7a670bac3ed",
+    "entry": "タカダカ",
+    "reading": {
+      "primary": "たかだか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "タカダカ三円か五円ソコラの一発だからね。",
+              "citation": {
+                "source": "爆弾太平記",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

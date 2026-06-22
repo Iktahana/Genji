@@ -56,7 +56,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "あれは、最初の水道樋の挿話を物語の最後にするか、若しくは以後のいくつかの挿話を最初の挿話の中に織り混ぜるか、するのが本当でした。",
+              "citation": {
+                "source": "五題",
+                "author": "山中貞雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -76,10 +85,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:25:41.595069+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 23
-      }
+      },
+      "variant_writings": [
+        "織りまぜる",
+        "織り混ぜる"
+      ]
     }
   }
 ]

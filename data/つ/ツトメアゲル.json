@@ -80,6 +80,22 @@
                 "author": "西尾正",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "要吉が徴兵検査まで勤めあげるという約束で、要吉の父は、水菓子屋の主人から何百円かのお金をかりたのです。",
+              "citation": {
+                "source": "水菓子屋の要吉",
+                "author": "木内高音",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去定ならそう云うであろう、年月は知らないが、遊女などで年期を勤めあげるうちには、人の想像も及ばないようなことを経験するだろう。",
+              "citation": {
+                "source": "赤ひげ診療譚",
+                "author": "鶯ばか",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -104,9 +120,63 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:28:54.677924+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 41
+      },
+      "variant_writings": [
+        "勤めあげる"
+      ]
+    }
+  },
+  {
+    "uuid": "3b88fbee-0f6b-5d49-8cda-d8c152e47f57",
+    "entry": "務め上げる",
+    "reading": {
+      "primary": "つとめあげる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ガ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

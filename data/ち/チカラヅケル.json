@@ -332,5 +332,73 @@
         "aozora": 179
       }
     }
+  },
+  {
+    "uuid": "aef62cbc-966a-5b5d-94bb-5596f584c921",
+    "entry": "力付ける",
+    "reading": {
+      "primary": "ちからづける",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "お光が力付ける、Ｔ「頑張ってね」　と云われると、仲蔵自信ありげに、Ｔ「頑張る」　先程とは打って変って元気づいた。",
+              "citation": {
+                "source": "中村仲蔵",
+                "author": "山中貞雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このいまわしい経験を裏返えしても自分を力付けるような温い運命の微笑がにおい出ることはなかろう。",
+              "citation": {
+                "source": "小さき良心",
+                "author": "断片",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

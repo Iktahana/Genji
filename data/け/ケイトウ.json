@@ -1271,10 +1271,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 166
-      }
+      },
+      "variant_writings": [
+        "ケイトウ",
+        "ゲイトウ"
+      ]
     }
   },
   {
@@ -1672,6 +1676,93 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "5f03fd3b-4f7d-5f9c-950c-e6739dd243c6",
+    "entry": "軽等",
+    "reading": {
+      "primary": "けいとう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かの欽明天皇の朝に粛慎人が佐渡島に漂着した事実を始めとして、敦賀を目指した勃海の船が、しばしば能代・津軽等に漂着した実例は少くない。",
+              "citation": {
+                "source": "奥羽北部の石器時代文化における古代シナ文化の影響について",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軍団は幾部隊にも分れて前後し、部隊はまた小荷駄、大荷駄、鉄砲、鑓、騎馬、足軽等の組々に分れて、雪泥を冒しつつ進んで行く。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三、其地方は、必ず今の青森縣の津輕又は渡島の津輕等よりも、一層白河地方に近きものならざるべからざる事。",
+              "citation": {
+                "source": "蝦夷とコロボツクルとの異同を論ず之に潜みて",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "内留河、比羅三井天、尻屋、羽禮須多院、奈保禮恩、和阿戸留樓、治部良留多留、金田、輕骨田、荒火屋、衞士府都、麻田糟輕等々々）　但し流石の先生も、米國に行て其物質文明に眩惑されて、極端の米國崇拜となつたのは無理もない。",
+              "citation": {
+                "source": "新詩發生時代の思ひ出",
+                "author": "土井晩翠",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "輕等"
+      ]
     }
   }
 ]

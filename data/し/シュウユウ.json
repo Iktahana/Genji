@@ -289,6 +289,14 @@
                 "author": "中谷宇吉郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "二月から六月まで約四ヶ月間、大師は西明寺に滯在しつつ城内の名刹を訪ひ、大徳を叩いて請益されたことは、その「上新請來經等目録表」に、周游諸寺、訪擇師依といへる通りである。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -316,10 +324,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:49:50.134602+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 30172,
       "frequencies": {
         "aozora": 74
+      },
+      "variant_writings": [
+        "周游"
+      ]
+    }
+  },
+  {
+    "uuid": "03edca4f-58c5-5091-88e4-b9c0dcd1df4f",
+    "entry": "修友",
+    "reading": {
+      "primary": "しゅうゆう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あの多くの窓に眠つてゐる修友たちよ。",
+              "citation": {
+                "source": "修道院の月",
+                "author": "三木露風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

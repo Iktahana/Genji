@@ -358,10 +358,67 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:03:27.466891+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 2385,
       "frequencies": {
         "aozora": 832
+      },
+      "variant_writings": [
+        "目ざす",
+        "目ざせる",
+        "目差す",
+        "目指せる"
+      ]
+    }
+  },
+  {
+    "uuid": "6ac8d027-e5a6-5d23-bb6d-f75fb0c9a9b0",
+    "entry": "芽差す",
+    "reading": {
+      "primary": "めざす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

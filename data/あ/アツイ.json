@@ -554,11 +554,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:13:18.277465+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10256,
       "frequencies": {
         "aozora": 4737
-      }
+      },
+      "variant_writings": [
+        "敦い",
+        "篤い",
+        "篤し"
+      ]
     }
   },
   {
@@ -1048,11 +1053,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3712,
       "frequencies": {
         "aozora": 4277
-      }
+      },
+      "variant_writings": [
+        "暑し"
+      ]
     }
   },
   {
@@ -1784,11 +1792,94 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4156,
       "frequencies": {
         "aozora": 4734
+      },
+      "variant_writings": [
+        "アツい",
+        "アツイ"
+      ]
+    }
+  },
+  {
+    "uuid": "fac6e1cf-225f-52a5-8048-2102fd86009e",
+    "entry": "圧威",
+    "reading": {
+      "primary": "あつい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "蓋し斯の如きは人生の圧威を自力を以て排斥したりと思惟する者にして、抑も経験の結果なり。",
+              "citation": {
+                "source": "厭世詩家と女性",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "侯の初めに綏撫手段を採りたるもの、今や一転して圧威手段を執るの止むを得ざるに至れり。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "侯の初めに綏撫手段を採りたるもの、今や一轉して壓威手段を執るの止むを得ざるに至れり。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "壓威"
+      ]
     }
   }
 ]

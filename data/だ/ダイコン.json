@@ -361,11 +361,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:25:54.669587+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 8146,
       "frequencies": {
         "aozora": 1721
-      }
+      },
+      "variant_writings": [
+        "羅蔔",
+        "蘿葡"
+      ]
     }
   },
   {
@@ -598,6 +602,77 @@
       "frequencies": {
         "aozora": 18
       }
+    }
+  },
+  {
+    "uuid": "e61c2cf2-0a24-5ae2-9465-6b6400d09e9d",
+    "entry": "台献",
+    "reading": {
+      "primary": "だいこん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "まあ聞いて下さい」　軽く手を打って、「飛行機をですな、一台献納しようと思って一生懸命貯金している。",
+              "citation": {
+                "source": "如何なる星の下に",
+                "author": "高見順",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因詣臺獻上男女生口三十人。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "臺獻"
+      ]
     }
   }
 ]

@@ -324,11 +324,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:53:42.029890+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 35692,
       "frequencies": {
         "aozora": 900
-      }
+      },
+      "variant_writings": [
+        "ぼう然",
+        "惘然"
+      ]
     }
   },
   {
@@ -658,6 +662,169 @@
       "freq_rank": 35542,
       "frequencies": {
         "aozora": 2071
+      }
+    }
+  },
+  {
+    "uuid": "c3cec359-f45d-5ae7-9edc-659c3434b2ac",
+    "entry": "尨然",
+    "reading": {
+      "primary": "ぼうぜん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして、若し運命がその政治家に苛酷でなかったならば、彼は尨然たる国家的若しくは世界的大事業なるものを完成する。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四六版アンカト、五二五頁、部厚で重く、兎も角尨然たる大冊となつた。",
+              "citation": {
+                "source": "文庫版『雀の卵』覚書",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『成吉思汗實録』が出版されて間もなく先生を訪うた時、先生は尨然たる草稿を示されて、『成吉思汗實録』著述の際、蒙古に關する漢洋の史料を渉獵した間に、種々從來氣附かなんだ事柄を發見して、一寸抄録したのが是だけある。",
+              "citation": {
+                "source": "那珂先生を憶ふ",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "棊の由つて来ること是の如く久しきを以て、若し棊に関するの文献を索めんには、厖然たる大冊を為すべし。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし厖然たる連歌大発句帳を示して、この書冊が尽くこの種の発句にて埋められたるを説かば、誰かその馬鹿げたるに驚かざる者ぞ。",
+              "citation": {
+                "source": "古池の句の弁",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "優に一部の書を成すに足るこの題目を、かくの如く要約する一事に至っては、厖然たる大著とするよりあるいは困難であるかも知れぬ。",
+              "citation": {
+                "source": "「俳諧大要」解説",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      },
+      "variant_writings": [
+        "厖然"
+      ]
+    }
+  },
+  {
+    "uuid": "14711527-d6f8-5be6-acfc-69a91e9345f6",
+    "entry": "ボウゼン",
+    "reading": {
+      "primary": "ぼうぜん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ボウゼンとしているうちに、彼の入社は確定的なものとなっていた。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -354,5 +354,73 @@
         "aozora": 309
       }
     }
+  },
+  {
+    "uuid": "08718f09-91b8-5a8c-9b5b-6b33aab4ce2a",
+    "entry": "ヘンレキ",
+    "reading": {
+      "primary": "へんれき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私は今も、楽器をかゝえ、野山をヘンレキして、ひなびた村の門に立って、自作の詩劇を唄う旅人を考える。",
+              "citation": {
+                "source": "後記にかえて〔『教祖の文学』〕",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は時の政治に対する傲慢な批判や、権門富貴に対する反骨が生れながら身についていて、その生れながらの魂を唄声にして、ヘンレキ流浪の一生を送るように定まっているのだと考える。",
+              "citation": {
+                "source": "後記にかえて〔『教祖の文学』〕",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

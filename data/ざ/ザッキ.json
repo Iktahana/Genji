@@ -279,6 +279,22 @@
                 "author": "虎に関する史話と伝説民俗",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "お道は本や雜記帳をのせた小机を持ち上げて次の部屋へ立つた。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは心に止つた記事を、切り拔いて、雜記帖に張りつけたものである。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -303,11 +319,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:26:26.057245+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 5824,
       "frequencies": {
         "aozora": 159
-      }
+      },
+      "variant_writings": [
+        "雜記"
+      ]
     }
   },
   {
@@ -674,9 +693,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 224
+      },
+      "variant_writings": [
+        "雜器"
+      ]
+    }
+  },
+  {
+    "uuid": "41401d4a-aec6-55e2-b84b-b568cad6236b",
+    "entry": "ザッキ",
+    "reading": {
+      "primary": "ざっき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これと反対に、例えばザッキンの妙な人形の絵など、随分形式的にはグロテスクに出来ているが、感じの内容には、どこかある明るさと愉快さがある。",
+              "citation": {
+                "source": "二科会展覧会雑感",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ドン・ザッキと云う面白い人物にあう。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

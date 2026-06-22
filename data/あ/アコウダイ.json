@@ -116,5 +116,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-01T13:27:58.564321+00:00Z"
     }
+  },
+  {
+    "uuid": "31705bbc-6db0-5a78-b914-03cb6f23b0c6",
+    "entry": "あこう鯛",
+    "reading": {
+      "primary": "あこうだい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "専ら、あこう鯛を食う。",
+              "citation": {
+                "source": "このたび大阪",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "色々出た中で、あこう鯛の蒸したのが実にうまく、あこうというものを、あらためて認識した。",
+              "citation": {
+                "source": "このたび大阪",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

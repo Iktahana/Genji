@@ -413,11 +413,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:33:27.638735+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 34171,
       "frequencies": {
         "aozora": 406
-      }
+      },
+      "variant_writings": [
+        "溶かせる",
+        "融かす",
+        "鑠かす"
+      ]
     }
   },
   {
@@ -735,10 +740,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 11
-      }
+      },
+      "variant_writings": [
+        "梳す"
+      ]
     }
   },
   {
@@ -1071,6 +1079,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 53
+      }
+    }
+  },
+  {
+    "uuid": "39607f03-72fc-56d7-af82-d58c8fa6a786",
+    "entry": "解かす",
+    "reading": {
+      "primary": "とかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "普通なら大病人扱いにされそうに※れたお咲が、せくせくしながら働いているのを見ると、浩は僅かばかりの雪を掌にのせて、輝く日光の下で解かすまい解かすまいとしながら立たせられているような心持になった。",
+              "citation": {
+                "source": "日は輝けり",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "クリスチナさん、あなたは髮を解かすから手傳つて頂戴。",
+              "citation": {
+                "source": "人形の家",
+                "author": "ET DUKKEHJEM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども、橡に結べる御髪を解かする間に、遠く逃げ給いき。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　そしてあたかもその太陽が、彼女の頭の中の怪しい言葉の雪崩を解かす力でも持ってたかのように、彼女は言い続けた。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども椽に結へる髮を解かす間に遠く逃げたまひき。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 62
       }
     }
   }

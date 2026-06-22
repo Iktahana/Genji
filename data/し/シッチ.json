@@ -657,10 +657,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 23940,
       "frequencies": {
         "aozora": 257
+      },
+      "variant_writings": [
+        "濕地"
+      ]
+    }
+  },
+  {
+    "uuid": "faa58a5e-ecfc-5fd9-8fde-42774820ee37",
+    "entry": "悉地",
+    "reading": {
+      "primary": "しっち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "覚海伝の賛の終りに曰く、「遍照岡崛ノ枯枝落葉毫釐モ之ヲ採ルトキハ厳祟ヲ施ス、其ノ威其ノ霊信ズ可ク懼ル可シ、其ノ悉地ヲ成ズル上カ中カ下カ、都ベテ即身ノ佛カ、嗚呼奇ナル哉遊戯三昧」と。",
+              "citation": {
+                "source": "覚海上人天狗になる事",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山門滅亡　後白河法皇は、前々から、三井寺の公顕僧正を師範として、真言の秘法を学んでいられたが、大日経、金剛頂経、蘇悉地経の三部の伝授も済み、九月四日、三井寺で御灌頂をお受けになることとなった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第二巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

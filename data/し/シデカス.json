@@ -367,5 +367,73 @@
         "aozora": 166
       }
     }
+  },
+  {
+    "uuid": "6f7ec600-70e9-5fa1-81c0-140098b0be1c",
+    "entry": "為出かす",
+    "reading": {
+      "primary": "しでかす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大阪では、仁左衛門も鴈治郎も中年に至るまでは、その心掛が見えたが、女形を加役以上に為出かす事が出来ないのに諦めをつけてしまつたやうである。",
+              "citation": {
+                "source": "実川延若讃",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し二人とも心の中ではどんなことを栄一が為出かすか知れぬと思つて心配して居る。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

@@ -56,7 +56,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "おくれた座敷は、若い妓の背後に控えて、動く処は前へ立って目立たないように取り廻す、というのであるから、お茶屋の蔵の前に目の光る古狸から、新道の塒を巣立ちの雛児まで、「ああ、いい姉さん。",
+              "citation": {
+                "source": "日本橋",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "出雲人の作つた、幾重にも取り廻す、屏風・張の類よ。",
+              "citation": {
+                "source": "歌の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       },
       {
@@ -120,10 +137,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T12:37:32.542025+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 4
-      }
+      },
+      "variant_writings": [
+        "取りまわす",
+        "取り廻す"
+      ]
     }
   }
 ]

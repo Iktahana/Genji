@@ -693,11 +693,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10661,
       "frequencies": {
         "aozora": 160
-      }
+      },
+      "variant_writings": [
+        "辭める"
+      ]
     }
   },
   {
@@ -1068,6 +1071,66 @@
       "freq_rank": 31657,
       "frequencies": {
         "aozora": 375
+      }
+    }
+  },
+  {
+    "uuid": "c72cd55b-7b62-58d6-9d63-a28f366b1815",
+    "entry": "ヤメル",
+    "reading": {
+      "primary": "やめる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其つゥばきだァてのつゥばき御寺へもォててそォだてた日が照ェればすゥずみどォころあァめが降ゥればやめどころ　にわか雨をさけて、軒の下や大木の蔭に、立ちよって晴間を待つことを、昔の人たちはヤメルといっていた。",
+              "citation": {
+                "source": "母の手毬歌",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

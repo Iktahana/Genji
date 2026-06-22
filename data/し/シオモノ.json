@@ -231,6 +231,54 @@
                 "author": "第一分冊",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ぶえんとは多分無鹽とでも書くのであらう、氷も自動車もなかつた當時にあつては、普通の肴屋の持つて來る魚といへば鹽物か干物に限られてゐた。",
+              "citation": {
+                "source": "鮎釣に過した夏休み",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シホモノ　春のうち野山から採つて來た蕨・蕗・いたどり・エニヨなどゝいふ類の若芽を、一度水で煮てから鹽に漬けて置くものを、東北では一般に鹽物と謂つて居る。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋田の男鹿地方などは、正月十五日の前夕、一晩がかりでこの鹽物を大鍋に煮て置いて、正月中之を食べて居るといふ。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし四十物と書いてアイモノと訓ませるやうになると、此品目の中には鹽物も入つて居たかも知れぬ。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宿までさせて頂いて、いろいろと御造作に預る居候の身がわがまま言うて相済まぬが、旅に出るとどういうものか身共、三日目に一度位ずつ、塩ものを食さぬと骨放れが致すようでならぬのじゃ。",
+              "citation": {
+                "source": "旗本退屈男　第八話",
+                "author": "日光に現れた退屈男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山国にいたころの家族は、お正月とか物日とかでなければ塩ものの魚さえも味わうことができないのであった。",
+              "citation": {
+                "source": "うむどん",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -251,9 +299,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:36:27.638498+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 27
+      },
+      "variant_writings": [
+        "塩もの",
+        "鹽物"
+      ]
+    }
+  },
+  {
+    "uuid": "8c23cdb1-91d9-5b67-9ac6-5ee93e33c95e",
+    "entry": "シオモノ",
+    "reading": {
+      "primary": "しおもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "シオモノ　春のうち野山から採って来た蕨・蕗・いたどり・エニヨなどという類の若芽を、一度水で煮てから塩に漬けておくものを、東北では一般に塩物といっている。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

@@ -609,6 +609,30 @@
                 "author": "正岡子規",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "この歌中のアサガオを桔梗だとする人の説に私は賛成して右手を挙げるが、このアサガオをもって木槿すなわちムクゲだとする説には無論反対する。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元来ムクゲは昔中国から渡った外来の灌木で、七｜種の一つとしてはけっしてふさわしいものではない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またこの万葉歌の時代に果たしてムクゲが日本へ来ていたのかどうかもすこぶる疑わしい、したがってこれをアサガオというのは当っていない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -631,9 +655,120 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 132
+      },
+      "variant_writings": [
+        "ムクゲ"
+      ]
+    }
+  },
+  {
+    "uuid": "dde3a1d0-d75b-5261-b6b2-9f1bb79e9bd6",
+    "entry": "尨毛",
+    "reading": {
+      "primary": "むくげ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その犬の狐色の尨毛や、鼻頭の斑点などが、細君の目にも見覚えがあった。",
+              "citation": {
+                "source": "爛",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人の後から尨毛のアデリと脚のひょろ長いポプリが、くんくん言いながら駈けこんだ。",
+              "citation": {
+                "source": "死せる魂",
+                "author": "または　チチコフの遍歴　第一部　第二分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは森の大入道の尨毛の頭に生えた髪の毛だ。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大変ものやわらかに、品のいいような快さを感じるとともに、年に似合わない単純さに、罪のない愛情を感じて、尨毛だらけの耳朶を眺めながら自ずと微笑まれるような心持になるのである。",
+              "citation": {
+                "source": "禰宜様宮田",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女は眼を涙でいっぱいにして、画家の尨毛の頭に見入っている。",
+              "citation": {
+                "source": "天才",
+                "author": "ТАЛАНТ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "エゴール・サヴィチは醜悪なほど、獣めいているほど、尨毛である。",
+              "citation": {
+                "source": "天才",
+                "author": "ТАЛАНТ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最初に彼の目にとまったのは、彼が自分だけで「尨毛の猟犬」と仇名を与えている二面の主任のＫさんであった。",
+              "citation": {
+                "source": "六月",
+                "author": "相馬泰三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
       }
     }
   }

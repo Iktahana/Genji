@@ -675,5 +675,81 @@
         "aozora": 109
       }
     }
+  },
+  {
+    "uuid": "1e376d66-3ab2-5d6f-822b-aea212b56109",
+    "entry": "難山",
+    "reading": {
+      "primary": "なんざん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "成程、此處から大佐等の住へる海岸の家までは三十｜里以上、飛ぶ鳥でもなければ通はれぬ此難山を、如何にして目下の急難を報知するかと審るのであらう。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それにいくら涼んでもお茶代いらずというのだからこれがほんに有難山の時鳥さ。",
+              "citation": {
+                "source": "散柳窓夕栄",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大望の一路をさまたげる難山となるかもしれない。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "建武らくがき帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

@@ -364,9 +364,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:35:06.580809+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 83
+      },
+      "variant_writings": [
+        "蜂火"
+      ]
+    }
+  },
+  {
+    "uuid": "ccc51105-1479-5782-b88e-78dcdbb6c341",
+    "entry": "ノロシ",
+    "reading": {
+      "primary": "のろし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十日前にはチョロ／＼と一本、ノロシのような赤い火の手が細く上へあがっているだけであったが、今日は北方一面に赤々と、戦災の火の海を思わせる広さであった。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "熱海復興",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これでは勝手もとから苦情のノロシがあがるから、しろうと料理の簡単なものを並べてみよう。",
+              "citation": {
+                "source": "江戸前の釣り",
+                "author": "三遊亭金馬",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

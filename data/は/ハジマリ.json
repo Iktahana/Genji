@@ -323,10 +323,90 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:55:52.556476+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 1979,
       "frequencies": {
         "aozora": 515
+      },
+      "variant_writings": [
+        "初まり",
+        "始り"
+      ]
+    }
+  },
+  {
+    "uuid": "7f8acae5-aa9a-553c-b9ed-4925785c0a10",
+    "entry": "ハジマリ",
+    "reading": {
+      "primary": "はじまり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "★　事は神速を尊ぶ、思案に凝るのは失敗のもとで、最上先生もとより事物のカンドコロにぬかりはないから、模倣は創造発見のハジマリ、ためらふところなく自分の近所の天妙教々会へでかける。",
+              "citation": {
+                "source": "金銭無情",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が大学生というものに必死の闘争意識をいだいたのは、この日をもってハジマリとする。",
+              "citation": {
+                "source": "現代忍術伝",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時が南雲さんとの交渉のハジマリだが、私のためにも、女房のためにも、幸運であったと云えよう。",
+              "citation": {
+                "source": "我が人生観",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

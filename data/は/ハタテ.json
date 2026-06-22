@@ -307,5 +307,73 @@
       "updated_at": "2026-06-04T14:57:16.152511+00:00Z",
       "freq_rank": 5790
     }
+  },
+  {
+    "uuid": "10424bac-586a-56a0-9b75-4578a1738b4a",
+    "entry": "ハタテ",
+    "reading": {
+      "primary": "はたて",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そうして赤椿黄色山吹紫ニムレテ咲ケルハタテタテノ花という一首の歌を書きその横に年月を書き、それで出来上った。",
+              "citation": {
+                "source": "病牀苦語",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この「は」に「た」（直線に走る力感）が加わると、「涯」（ハタテ）、それから「徴」（ハタラ）、「さと長ら我課役（エズキ）徴ばいましもなかむ」と云ったように、「遠くにポーンと徴発されて行ってしまったら悲しいことだ」と慨く、このハタラから、働くは出たんだろうが。",
+              "citation": {
+                "source": "言語は生きている",
+                "author": "中井正一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

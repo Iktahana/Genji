@@ -360,10 +360,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:25:42.192153+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4122,
       "frequencies": {
         "aozora": 378
+      },
+      "variant_writings": [
+        "占"
+      ]
+    }
+  },
+  {
+    "uuid": "2682dba3-c58a-520a-b55f-53d6a2e18865",
+    "entry": "ウラナイ",
+    "reading": {
+      "primary": "うらない",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "最上清人先生がおのづからアル・カポネになるなんて、日本歴史のカイビャク以来、人相手相星ウラナイ、物の本にこんな予言のあつたタメシはないだらうな。",
+              "citation": {
+                "source": "金銭無情",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

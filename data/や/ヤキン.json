@@ -279,6 +279,22 @@
                 "author": "谷崎潤一郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "大和大峰いりのほら貝は聞えないが、町から野、野から山へと、秋草をわたり、落葉松の枯木をからんで、涼しくなる鈴の音は、往さ来さの白衣の菅笠や金剛杖に伴って、いかに富士登山を、絵巻物に仕立てることであろうか。",
+              "citation": {
+                "source": "不尽の高根",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木製の頑丈なベッドが南枕で四つ並んでいて、僕のベッドは部屋の一ばん奥にあって、枕元の大きい硝子窓の下には、十坪くらいの「乙女ヶ池」とかいう（この名は、あまり感心しないが）いつも涼しく澄んでいる池があって、鮒や金魚が泳いでいるのもはっきり見えて、まあ、僕のベッドの位置に就いては不服は無い。",
+              "citation": {
+                "source": "パンドラの匣",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -302,10 +318,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:26:30.802587+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 27
-      }
+      },
+      "variant_writings": [
+        "や金"
+      ]
     }
   },
   {
@@ -888,6 +907,66 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 18
+      }
+    }
+  },
+  {
+    "uuid": "5f553fdf-2b59-5af8-981a-4f65c16afc02",
+    "entry": "夜禽",
+    "reading": {
+      "primary": "やきん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして彼等は己れの評価を自ら信じて悠揚せまらざる剛毅の風なく、徒らに他の評価に心をみだし己れを守るために警戒の眼のみ夜禽の如くけはしきこと、これまた恰も巾着切りその人に彷彿としてゐる。",
+              "citation": {
+                "source": "吹雪物語",
+                "author": "――夢と知性――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

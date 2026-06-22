@@ -477,10 +477,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:39:59.939961+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 19099,
       "frequencies": {
         "aozora": 1906
+      },
+      "variant_writings": [
+        "ツメる",
+        "凝める"
+      ]
+    }
+  },
+  {
+    "uuid": "8ed4cf88-0fa1-5793-8038-fe5d8d6257c3",
+    "entry": "ツメル",
+    "reading": {
+      "primary": "つめる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ユライ芸術トハ、コンナモノサ、譬噺デモナシ、修養ノ糧デモナシ、キザナ、メメシイ、売名ノ徒ノ仕事ニチガイナイノダ、ト言ワレテ、カエス言葉ナシ、素直ニ首肯、ソット爪サキ立チ、夕焼ノ雲ヲ見ツメル。",
+              "citation": {
+                "source": "走ラヌ名馬",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

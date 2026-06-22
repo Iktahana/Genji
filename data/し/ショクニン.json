@@ -293,10 +293,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:10:17.890837+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4378,
       "frequencies": {
         "aozora": 2945
+      },
+      "variant_writings": [
+        "しょく人"
+      ]
+    }
+  },
+  {
+    "uuid": "ca6a5401-22a2-58df-b3e8-fd4c49cb61ca",
+    "entry": "職任",
+    "reading": {
+      "primary": "しょくにん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「俺の訟えが勝って、鬼どもは夷滅せられた、それとともに天では俺の正直を認めてくれて、俺を太虚殿の司法にしてくれた、俺は職任が重くなったから、再びこの世にはこないのだ」　大異の家ではそこで大異を葬ったが、葬る時その柩の周囲に、大異の霊の髣髴としているのを感じた。",
+              "citation": {
+                "source": "太虚司法伝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

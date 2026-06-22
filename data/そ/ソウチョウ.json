@@ -1417,10 +1417,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 349
-      }
+      },
+      "variant_writings": [
+        "莊重"
+      ]
     }
   },
   {
@@ -1748,6 +1751,74 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 89
+      }
+    }
+  },
+  {
+    "uuid": "f8a96879-084e-5dd7-933e-356dc765cca9",
+    "entry": "双鳥",
+    "reading": {
+      "primary": "そうちょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "新羅山人の複製は家にあと二枚あって、時々懸け換えるのであるが、他の一作には孤煙双鳥下幽趣迫疎林と書かれている。",
+              "citation": {
+                "source": "画室の言葉",
+                "author": "藤島武二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "らんらんたる太陽のもと、双鳥たちまち血みどろになってつかみあった。",
+              "citation": {
+                "source": "神州天馬侠",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

@@ -80,6 +80,14 @@
                 "author": "河口慧海",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "わたしは孤独を愛しそれを説きすすめるが、それはただわたしの思想と感情とを自分に向けるためである。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -105,9 +113,63 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T11:36:25.463810+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 34
+      },
+      "variant_writings": [
+        "説きすすめる"
+      ]
+    }
+  },
+  {
+    "uuid": "e572c858-6472-587a-84ab-4d857f574f4e",
+    "entry": "説き進める",
+    "reading": {
+      "primary": "ときすすめる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-マ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

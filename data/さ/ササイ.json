@@ -317,10 +317,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:38:16.762202+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 10798,
       "frequencies": {
         "aozora": 1077
+      },
+      "variant_writings": [
+        "さ細",
+        "瑣細"
+      ]
+    }
+  },
+  {
+    "uuid": "427629ac-2fa9-52c8-832a-aeb130feeff1",
+    "entry": "ササイ",
+    "reading": {
+      "primary": "ささい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "がスポーツとか、エキササイスとか言うものへの私の興味が動きつつあったのだ。",
+              "citation": {
+                "source": "光り合ういのち",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この仲間はササイなことでオレに恨みを持っていたのだ。",
+              "citation": {
+                "source": "夜長姫と耳男",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

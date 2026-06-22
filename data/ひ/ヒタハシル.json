@@ -275,5 +275,73 @@
         "aozora": 69
       }
     }
+  },
+  {
+    "uuid": "b12192da-88f6-5be7-958a-cc929a1051a5",
+    "entry": "直走る",
+    "reading": {
+      "primary": "ひたはしる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「さてこそ」と運八は思いながら、二間あまりの間隔を取りこれも負けずに直走る。",
+              "citation": {
+                "source": "八ヶ嶽の魔神",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真直走ると殺されちまうぞ」僕は圧しつけるように命令した。",
+              "citation": {
+                "source": "人造人間殺害事件",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

@@ -398,5 +398,73 @@
         "aozora": 65
       }
     }
+  },
+  {
+    "uuid": "52be7319-d12d-5add-a793-66c26258c458",
+    "entry": "貸し座敷",
+    "reading": {
+      "primary": "かしざしき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "やっと中学を出たばかりの、そのお茶屋の若旦那は、時々よその貸し座敷などから、そっと口をかけた。",
+              "citation": {
+                "source": "爛",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貸し座敷はしばしば禁止されたが、すでに世間の必要なものになっていたので、実際には数が多くなりつつあるくらいだった。",
+              "citation": {
+                "source": "樅ノ木は残った",
+                "author": "第四部",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

@@ -287,6 +287,14 @@
                 "author": "夢野久作",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "入口にはいつもの魚屋があって、塩鮭のきたない俵だの、くしゃくしゃになった鰯のつらだのが台にのり、軒には赤ぐろいゆで章魚が、五つつるしてありました。",
+              "citation": {
+                "source": "山男の四月",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -308,9 +316,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:03:34.620481+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 407
+      },
+      "variant_writings": [
+        "赤ぐろい"
+      ]
+    }
+  },
+  {
+    "uuid": "4d5f9a64-aaba-59db-990f-21504ff7f766",
+    "entry": "垢黒い",
+    "reading": {
+      "primary": "あかぐろい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "形容詞"
+      ],
+      "ctype": "形容詞",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "白木綿に朱印をベタベタと捺した巡礼の笈摺を素肌に引っかけて、腰から下に色々ボロ布片を継合わせた垢黒い、大きな風呂敷｜様のものを腰巻のように捲付けている恰好を見ると、どうやら若い女らしい。",
+              "citation": {
+                "source": "笑う唖女",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

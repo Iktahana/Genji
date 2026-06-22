@@ -317,9 +317,120 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T06:29:11.737551+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 12
+      },
+      "variant_writings": [
+        "チヌ"
+      ]
+    }
+  },
+  {
+    "uuid": "9d62d00f-c12b-5597-98e4-63f818d935d3",
+    "entry": "血沼",
+    "reading": {
+      "primary": "ちぬ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "神武天皇自身すでに五瀬命という兄があって、神武と共に力を合せて戦ううち日本平定直前にチヌ山城水戸で敵の矢に当り、古事記によると途中血だらけの手を洗ったところを血沼海と云い、人に負われて紀国男水門に行って雄叫びをあげて死んだと云うが、書紀は紀伊カマ山まで行って死んだ。",
+              "citation": {
+                "source": "安吾の新日本地理",
+                "author": "飛騨・高山の抹殺――中部の巻――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今よは行きり幸でます時に、血沼の海五に到りて、その御手の血を洗ひたまひき。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かれ血沼の海といふ。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に當藝志比古の命は、血沼の別、多遲麻の竹の別、葦井の稻置が祖なり。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に印色の入日子の命は、血沼の池五を作り、また狹山の池を作り、また日下の高津の池六を作りたまひき。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次にタギシ彦の命は、血沼の別・多遲麻の竹の別・葦井の稻置の祖先です。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次にイニシキノイリ彦の命は、血沼の池・狹山の池を作り、また日下の高津の池をお作りになりました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
       }
     }
   }

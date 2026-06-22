@@ -436,5 +436,76 @@
         "aozora": 847
       }
     }
+  },
+  {
+    "uuid": "dfac39ac-e741-5078-88f3-1a868fb84979",
+    "entry": "聞き付ける",
+    "reading": {
+      "primary": "ききつける",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "みのるはその音を聞き付けるとふと懷しくなつて其所に降る雨をいつまでも見詰めてゐた。",
+              "citation": {
+                "source": "木乃伊の口紅",
+                "author": "田村俊子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人で屋外からでも帰って来ると、一番先におせんの足音を聞付けるのはこのマルだった。",
+              "citation": {
+                "source": "刺繍",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 117
+      },
+      "variant_writings": [
+        "聞付ける"
+      ]
+    }
   }
 ]

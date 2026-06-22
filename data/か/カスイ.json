@@ -1658,10 +1658,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 94
-      }
+      },
+      "variant_writings": [
+        "假睡"
+      ]
     }
   },
   {
@@ -2419,6 +2422,90 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "f7720983-a99f-5394-96c0-f4f4685813da",
+    "entry": "歌吹",
+    "reading": {
+      "primary": "かすい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "鷦鷯の歌吹革祭の日は寒く、鍛冶が妻ぞ唯ひとり、ひねもす窓に居｜凭る時、軒端づたひにこそつきて、掛菜をそそる音きけば、鷦鷯來と知られけり。",
+              "citation": {
+                "source": "泣菫詩抄",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その外、酒宴談笑歌吹のあひだにも、ゆくりなく人のことばの、ふと耳にとまりて、はたと膝打ち、さなり／＼と覺りて、手帳にかいつけなどして、人のあやしみをうけ、又、汽車の中にて田舍人をとらへ、その地方の方言を問ひつめて、はては、うるさく思はれつることなど、およそ、かゝるをこなる事もしば／＼ありき。",
+              "citation": {
+                "source": "ことばのうみのおくがき",
+                "author": "大槻文彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遊人嘔唖歌吹シ遅遅タル春日興ヲ追ヒ歓ヲ尽シテ、惟夕照ノ西ニ没シ鐘声ノ暮ヲ報ズルヲ恨ムノミ。",
+              "citation": {
+                "source": "上野",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歌吹音楽のほか、人なみの学問から女の諸芸、学び得ないことはなに一つありませんでした。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
     }
   }
 ]

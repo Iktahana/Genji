@@ -56,7 +56,16 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "かれは、そのつめたい空気の針をなぎ払うように、ばたばたと部屋中にはたきをかけはじめた。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第五部",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -78,10 +87,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:17:28.277861+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 28
-      }
+      },
+      "variant_writings": [
+        "なぎ払う",
+        "薙ぎはらう"
+      ]
     }
   }
 ]

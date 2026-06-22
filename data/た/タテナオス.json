@@ -411,11 +411,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:41:11.999546+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29065,
       "frequencies": {
         "aozora": 268
-      }
+      },
+      "variant_writings": [
+        "立てなおす",
+        "立て直せる"
+      ]
     }
   },
   {
@@ -744,9 +748,114 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 104
+      },
+      "variant_writings": [
+        "建てなおす",
+        "建て直せる",
+        "建直す"
+      ]
+    }
+  },
+  {
+    "uuid": "d891b901-11e0-5a13-9646-6ed0e2bc8c20",
+    "entry": "たて直す",
+    "reading": {
+      "primary": "たてなおす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "字凧、絵凧、扇凧、奴凧、トンビ凧の数を尽し、或るものは唸りを立てて勇躍飛動する、或るものはクルクル水を汲んでたて直す体を見て、神尾主膳がカラカラと笑いました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "めいろの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "康継は寸刻も惜しむというようすで、――この悪弊をうち毀し、紊乱した藩政をたて直すのは当面に迫った問題である、その第一は汚職の老臣どもの譴責であるが、いままでのところ汚職の事実を明らかにする的確な証拠がない、つづめて云うとかれらが経営する商舗とかれら一味との関係をはっきり証拠だてる物がない。",
+              "citation": {
+                "source": "落ち梅記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女と別れること、生活をたて直すこと、飾らない言葉でずばずば意見をした。",
+              "citation": {
+                "source": "葦",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "劉※は始め、秣陵へ退いて、陣容をたて直すつもりだったが、敗戦の上にまた敗北を重ねてしまい、全軍まったく支離滅裂となって、彼自身からして抗戦の気力を失ってしまったので、「この上は、劉表へすがろう」とばかり、命からがら逃げ落ちてしまったのである。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "義貞はひとまず三島ノ国府に兵をまとめて陣容をたて直すつもりで藍沢ヶ原を駈けていたが、幾度となく、「裏切りとは何者の裏切りだ。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ぜひもない」　一時、都を退いて、陣容をたて直すときめ、義詮や師直と共に、尊氏は丹波へ走った。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "黒白帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 23
       }
     }
   }

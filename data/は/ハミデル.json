@@ -265,5 +265,73 @@
         "aozora": 119
       }
     }
+  },
+  {
+    "uuid": "bdcc8330-db6c-5fe6-a8cc-2fea9fe72f31",
+    "entry": "食み出る",
+    "reading": {
+      "primary": "はみでる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ダ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「｜日本の将校さん」食み出る程どつさり載つた群衆の中から黄ろい女の声が突走つた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正八（一九一九）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "せまいなどというのを通りこして、まっすぐに寝れば足が戸口に食み出るほどだったが――。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
   }
 ]

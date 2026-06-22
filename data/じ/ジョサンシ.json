@@ -77,5 +77,65 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-03T14:27:46.521620+00:00Z"
     }
+  },
+  {
+    "uuid": "99e4f105-9b79-51c2-8c0a-d19911ffbb38",
+    "entry": "助産士",
+    "reading": {
+      "primary": "じょさんし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ソクラテスが sage homme といわれたのは homme sage の意味であったに相違ないが、彼自らはその母が sage femme であったことを想起し、自分を精神上の助産士と見たのであろう。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

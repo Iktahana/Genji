@@ -112,6 +112,38 @@
                 "author": "服部之総",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "が、ここに書きとると何だか誇張したもののように聞こえてよくない。",
+              "citation": {
+                "source": "開扉一妖帖",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鬚は、小さい手帖へそれを書きとるのであつた。",
+              "citation": {
+                "source": "道化の華",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眼に見えないところで節子が手帳でも取出して、此方から知らせる町名番地などを書取る光景が想像せられた。",
+              "citation": {
+                "source": "新生",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し世に細君の自ら筆を染めて、細かに良人が日常の振舞を書き取れる日記と、金銀出納帳とだにあらば、之れに優る伝記の材料はなかるべし。",
+              "citation": {
+                "source": "大久保湖州",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -183,9 +215,160 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:37:43.474888+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 69
+      },
+      "variant_writings": [
+        "書きとる",
+        "書き取れる",
+        "書取る"
+      ]
+    }
+  },
+  {
+    "uuid": "3004d7b7-e16b-5cfe-8946-181e1c6f7a55",
+    "entry": "掻き取る",
+    "reading": {
+      "primary": "かきとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日暮れから煙草畑へ行つて、明日朝乾燥に釣る葉を掻き取る。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其使用の目的は鳥獸の皮を剥ぎたる後に脂肪を掻き取るが如き事に在るなり。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "はまぐり貝は又物を掻き取るに適したり。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしまたカキは万物を掻き取るの義として祝の一にしたものといわれる。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "にもかかわらず、我々の科学者魂と冒険心は完全に死に絶えたわけではなく、石組を構成する全ての岩石種毎に標本の細片をかき取る手続きを機械的に繰り返していた。",
+              "citation": {
+                "source": "狂気の山脈にて",
+                "author": "H. P. ラヴクラフト　H.P.Lovecraft",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 37
+      },
+      "variant_writings": [
+        "かき取る"
+      ]
+    }
+  },
+  {
+    "uuid": "dc795e2b-1e1e-5758-b6ad-dccb13c5b7ce",
+    "entry": "欠き取る",
+    "reading": {
+      "primary": "かきとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

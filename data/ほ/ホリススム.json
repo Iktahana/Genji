@@ -127,6 +127,14 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ここでは、海の中へ、中へと掘りすすむほど良質な石油が量も沢山出るのが特徴なのだそうである。",
+              "citation": {
+                "source": "石油の都バクーへ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -153,9 +161,72 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:24:42.585044+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 25
+      },
+      "variant_writings": [
+        "掘りすすむ"
+      ]
+    }
+  },
+  {
+    "uuid": "06233e3c-137b-5796-8691-084da69a49a6",
+    "entry": "彫り進む",
+    "reading": {
+      "primary": "ほりすすむ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-マ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "お角の刺青が彫り進むと共に、回向院境内の小屋がけも進んで行くうちに、以前の広小路の女軽業の小屋の一部は、新しい一座の楽屋にあてられました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "白骨の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

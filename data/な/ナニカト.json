@@ -321,5 +321,65 @@
       "updated_at": "2026-06-04T13:24:09.299965+00:00Z",
       "freq_rank": 7990
     }
+  },
+  {
+    "uuid": "5b49423d-d7cb-525b-80a1-e970944e0ac9",
+    "entry": "ナニカト",
+    "reading": {
+      "primary": "なにかと",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ナニカト　マウシマスト、ホカデモ　アリマセン、オホキナ　ハゲシイ　オナラヲ　スル　コトデ　アリマス。",
+              "citation": {
+                "source": "ガチヨウノ　タンジヨウビ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

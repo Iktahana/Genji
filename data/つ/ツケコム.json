@@ -216,6 +216,14 @@
                 "author": "赤壁の巻",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "梢からもいだ實を、一粒々々、布巾で丹念にこすつて、燒酎へ漬けこむ。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -247,10 +255,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:18:26.797062+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 17
-      }
+      },
+      "variant_writings": [
+        "漬けこむ"
+      ]
     }
   },
   {
@@ -623,6 +634,138 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 204
+      }
+    }
+  },
+  {
+    "uuid": "680a275e-49e2-5fbc-84bf-a66188a58dd5",
+    "entry": "付け込む",
+    "reading": {
+      "primary": "つけこむ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-マ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ジャストシステムが付け込む狙い目は、ここにあった。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「こっちの気が張っているので、妖怪も付け込むすきがなくなったのかも知れない。",
+              "citation": {
+                "source": "青蛙堂鬼談",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」などゝ繰り返しながら、ピエロオに紛つたやうな陰鬱な、悲惨な、それでゐて莫迦に愉快なやうな気持に追はれながら、素直な叔母を付け込むで出放題な文句を能弁に口走つて、「どうせ云ふからは。",
+              "citation": {
+                "source": "白明",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこへこの俺が付け込むのだ。",
+              "citation": {
+                "source": "首頂戴",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「付け込むことなどいたしましょう。",
+              "citation": {
+                "source": "娘煙術師",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……恋されている殿方というものは、恋している女をあつかましい者にも、付け込む人間にも見なさいますもので」こういってお粂は柄にも似合わず、台の上で指をもてあそび出した。",
+              "citation": {
+                "source": "娘煙術師",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほんとにそんな塩梅なら、弱気に付け込む貧乏神で、今もお前さんが云った通り、先々ろくなこたアなさそうだねえ。",
+              "citation": {
+                "source": "任侠二刀流",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "付け込む輩がありますので、その好意ある見方にですよ。",
+              "citation": {
+                "source": "奥さんの家出",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "只一つ自分の弱味に付け込む男の勢力の強い事をお関は怖れずには居られなかった。",
+              "citation": {
+                "source": "お久美さんと其の周囲",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "およそ天災、不幸は弱点に付け込むものなれば、あまり災難を恐れて迷心を増長せしむれば、ますます種々の災難が四方よりおしかけて来るものであります。",
+              "citation": {
+                "source": "おばけの正体",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 98
       }
     }
   }

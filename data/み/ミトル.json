@@ -655,5 +655,77 @@
         "aozora": 68
       }
     }
+  },
+  {
+    "uuid": "63b7622d-2509-5762-8e8b-08cb839c479d",
+    "entry": "見取る",
+    "reading": {
+      "primary": "みとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "危篤の親族の最後を見取る為です。",
+              "citation": {
+                "source": "真劇シリーズ",
+                "author": "REAL DRAMAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "疎開先で看とるものもなく死にかけているのをあわれに思うかして、このごろは午後か夜か、かならず一度はやってくる。",
+              "citation": {
+                "source": "骨仏",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 35
+      },
+      "variant_writings": [
+        "看とる",
+        "見取れる"
+      ]
+    }
   }
 ]

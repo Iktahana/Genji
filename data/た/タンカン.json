@@ -851,5 +851,65 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "0e5e24a0-a52d-5fda-960b-f5fbf3c68ca0",
+    "entry": "単艦",
+    "reading": {
+      "primary": "たんかん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十九日の夕方、ラ・メデュウズはカナリー群島のテネリフ島で気紛れに沖がかりをしたので、やっとのことでレコォが追いついて来たが、ショオマレェはなんの連絡もとらずにまたもや単艦で出帆し、危険な接岸航路をとりながら亜弗利加に向って航行して行った。",
+              "citation": {
+                "source": "海難記",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

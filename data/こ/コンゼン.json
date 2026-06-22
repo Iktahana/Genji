@@ -315,10 +315,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:59:28.483950+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 258
-      }
+      },
+      "variant_writings": [
+        "混然"
+      ]
     }
   },
   {
@@ -641,6 +644,82 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 9
+      }
+    }
+  },
+  {
+    "uuid": "cb9086f4-a563-5dcb-b644-09dfa3ebc958",
+    "entry": "コンゼン",
+    "reading": {
+      "primary": "こんぜん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "頭の中の感覚が、酒の酩酊と同じようにモーローとカスンでくるのであるが、酒より重くネットリと、又、ドロンと澱みのようなものができて、酒の酩酊よりもコンゼンたる経過を経験する。",
+              "citation": {
+                "source": "安吾巷談",
+                "author": "麻薬・自殺・宗教",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし中途ハンパの現実感は芸術のコンゼンたる構成を損いやすいもので、よッぽど芸が達者でないと危ッかしくて見ていられないものである。",
+              "citation": {
+                "source": "安吾の新日本地理",
+                "author": "宝塚女子占領軍――阪神の巻――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "学芸会の大がかりな余興のような乳くさいところがあっても、そこにコンゼンたる構成があってオヤジが娘の出来栄えにハラハラしなければならないような危ッかしさがなければ何よりの娯楽の一ツに数えうるであろう。",
+              "citation": {
+                "source": "安吾の新日本地理",
+                "author": "宝塚女子占領軍――阪神の巻――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

@@ -247,6 +247,54 @@
                 "author": "千早帖",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ドイツの下宿屋で、室に備え付けの洗面鉢を過ってこわしたある日本人が、主婦に対して色々詫言を云うのを、主婦の方では極めて機嫌よく「いや何でもありません、ビッテ、シェーン」を繰返していた。",
+              "citation": {
+                "source": "ある日の経験",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "途中で待っていたお客に対して運転手が一々丁寧に、どうも気の毒だが御覧の通り一杯だからと云って、本当に気の毒そうに詫言を云っている。",
+              "citation": {
+                "source": "静岡地震被害見学記",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東京では運転手は器械の一部であり、乗客は荷重であるに過ぎない、従って詫言などはおよそ無用な勢力の浪費である。",
+              "citation": {
+                "source": "静岡地震被害見学記",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大阪中の詫言を一人でされた気がしたぜ。",
+              "citation": {
+                "source": "南地心中",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嘗て九州陣巌石の城攻の時に軍令に背いて勘当された臣下の者共が、氏郷と交情の好かった細川越中守忠興を頼んで詫言をして貰って、復新に召抱えられることになった。",
+              "citation": {
+                "source": "蒲生氏郷",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今更未練が出てお勢を捨るなどという事は勿躰なくて出来ず、と言ッて叔母に詫言を言うも無念、あれも厭なりこれも厭なりで思案の糸筋が乱れ出し、肚の裏では上を下へとゴッタ返えすが、この時より既にどうやら人が止めずとも遂には我から止まりそうな心地がせられた。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -267,10 +315,77 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T10:50:31.314381+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 29
+      },
+      "variant_writings": [
+        "わび言",
+        "詫言"
+      ]
+    }
+  },
+  {
+    "uuid": "e7a953ec-2a5f-56b8-a6f2-496a2e2eaa26",
+    "entry": "詫び事",
+    "reading": {
+      "primary": "わびごと",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "谷風は然もこそあらんと徐ろに其の米俵を置き、故らに怒りの色を為し『扨こそ米俵は持ち上げしぞ、斯く不正の策を構へて、人々に天秤棒を食はらせし其の罪は免しがたし、イザ汝の首を引き抜かん』と叫び立てたので、其の家の人々が走り出て、只管詫び事して辛くも事を済ましたとの伝説もあるが、之れも仮作であらう。",
+              "citation": {
+                "source": "初代谷風梶之助",
+                "author": "三木貞一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
+      },
+      "variant_writings": [
+        "詫事"
+      ]
     }
   }
 ]

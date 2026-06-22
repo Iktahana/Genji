@@ -487,5 +487,73 @@
         "aozora": 5
       }
     }
+  },
+  {
+    "uuid": "c76d237d-85ba-5986-9135-9e0fe675f9a0",
+    "entry": "正米",
+    "reading": {
+      "primary": "しょうまい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "藤井の隣りが小栗、之は正米の相場師である。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今に残る日本銀行最初の赤煉瓦が左の橋詰、右方は江戸川通いの汽船発着所、橋を渡れば深川佐賀町の正米市場、一方は相川町から熊井町の漁師町、バカの剥身がこの辺の名物。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
   }
 ]

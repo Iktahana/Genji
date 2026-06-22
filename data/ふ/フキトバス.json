@@ -405,10 +405,79 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:29:59.526297+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 38353,
       "frequencies": {
         "aozora": 415
+      },
+      "variant_writings": [
+        "ふきとばせる",
+        "ふき飛ばす",
+        "ふっ飛ばす",
+        "吹きとばす",
+        "吹き飛ばせる",
+        "吹飛ばす",
+        "吹飛ばせる"
+      ]
+    }
+  },
+  {
+    "uuid": "25899986-0f52-5be7-9fb7-2a1045946a9d",
+    "entry": "噴き飛ばす",
+    "reading": {
+      "primary": "ふきとばす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "荒れ山が噴き飛ばす灰を定めて地蔵様は被られたことであろう。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
       }
     }
   }

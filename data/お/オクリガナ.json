@@ -119,6 +119,22 @@
                 "author": "断膓亭日記巻之二大正七戊午年",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "従って同じ書き下し文を書くにしても、つい六つかしい文字を使えば、送りがなも概して倹約する。",
+              "citation": {
+                "source": "書物を愛する道",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たとえば送りがなの数を加え、振りがなが見苦しいとならば、そこだけはかな文字に改め、又は返り点の付くような文字はまっすぐに書くとかいう類の、ほんの僅かな工作を施せば、一見した所非常に親しみやすく、且つ読んで見てもずっと楽になる。",
+              "citation": {
+                "source": "書物を愛する道",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -139,9 +155,96 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:24:26.029833+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 3
+      },
+      "variant_writings": [
+        "送りがな"
+      ]
+    }
+  },
+  {
+    "uuid": "9ab43d91-36e0-5239-a078-bf59dbf8e30a",
+    "entry": "送仮名",
+    "reading": {
+      "primary": "おくりがな",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "用字法や送仮名なども、大概もとのままにしたので、不穏当なものや不統一な所もある。",
+              "citation": {
+                "source": "古代国語の音韻に就いて",
+                "author": "橋本進吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "句読も送仮名も何も付いてない……トテモ僕には読めません。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今｜妄に送仮名を附して次の如く書き改めた。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今｜妄に送仮名を附して左の如く書改めた。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

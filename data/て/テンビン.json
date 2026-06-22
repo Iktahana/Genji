@@ -446,10 +446,105 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T10:02:12.508928+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 19496,
       "frequencies": {
         "aozora": 221
+      },
+      "variant_writings": [
+        "天びん"
+      ]
+    }
+  },
+  {
+    "uuid": "3408d890-8164-5e15-bfc1-6e68ec6bc477",
+    "entry": "テンビン",
+    "reading": {
+      "primary": "てんびん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "牛肉屋の牛じゃアあるまいし、それでも今日テンビン棒が一人前に担げるようになったのはお天道サマのお慈悲だなア。",
+              "citation": {
+                "source": "町内の二天才",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "桶もテンビンも、噴霧器まで揃ってますぜ。",
+              "citation": {
+                "source": "水鳥亭",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お前の持てるだけの力量と、オレの力量と、掛値なしの裸でテンビンにかゝってみようじゃないか。",
+              "citation": {
+                "source": "街はふるさと",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "テンビン棒で百ぶんなぐってやる」　光也は落付きを取り戻せば長い時間をかけて自分の考えを割合にシッカリと述べられるタチであった。",
+              "citation": {
+                "source": "牛",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "左肩には、空になつたマユ袋をしばり付けテンビン棒をかついでゐるので、踊ると云つても右手を差上げたり、腰をグラグラさせるだけのものである）仇六　はあーあ、踊る阿呆よ、踊らぬ阿呆、同じ阿呆なら踊らんと損ぢやい、と。",
+              "citation": {
+                "source": "妻恋行",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

@@ -361,9 +361,96 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:03:33.928969+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 50
+      },
+      "variant_writings": [
+        "もの入り"
+      ]
+    }
+  },
+  {
+    "uuid": "a811bb70-a85f-520d-a452-ab603b7f3872",
+    "entry": "モノイリ",
+    "reading": {
+      "primary": "ものいり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "アキニ、ナッテ、イロイロ、モノイリガ、シテオクレマシタ。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アキニ、ナツテ、イロイロ、モノイリガ、シテ、オクレマシタ。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こういう彼のことで、いろいろと特別のモノイリがかさむ。",
+              "citation": {
+                "source": "お奈良さま",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "モノイリがかさんでミイリがへるのだから心境円熟にいたるまでには長の悲しい年月があったわけだ。",
+              "citation": {
+                "source": "お奈良さま",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

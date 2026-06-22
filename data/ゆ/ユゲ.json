@@ -317,10 +317,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T05:44:57.090888+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 22135,
       "frequencies": {
         "aozora": 1289
+      },
+      "variant_writings": [
+        "湯げ"
+      ]
+    }
+  },
+  {
+    "uuid": "04c98780-a1cd-580c-9bbb-dd50163ff598",
+    "entry": "ユゲ",
+    "reading": {
+      "primary": "ゆげ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「キヤンユゲルマン。",
+              "citation": {
+                "source": "微笑の渦",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ウマヤノ　マエノ　ヒザシガ　ヒニ　ヒニ　アタタカク　ナツテ　クロイ　土カラ　白イ　ユゲガ　ノボリハヂメテ　ヰマス。",
+              "citation": {
+                "source": "ウマヤノ　ソバノ　ナタネ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女帝は道鏡に帝位を与えなかったが、彼の生地にユゲの宮をつくって太夫職をおき、実質的にはまったく天皇と変りのない扱いであったのである。",
+              "citation": {
+                "source": "安吾史譚",
+                "author": "道鏡童子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

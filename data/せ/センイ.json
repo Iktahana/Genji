@@ -323,11 +323,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:09:20.894591+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4478,
       "frequencies": {
         "aozora": 384
-      }
+      },
+      "variant_writings": [
+        "センイ",
+        "纖維"
+      ]
     }
   },
   {
@@ -1764,6 +1768,214 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "58ad229c-194d-5008-9252-b147ffe1439a",
+    "entry": "線維",
+    "reading": {
+      "primary": "せんい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これらはジェリーのような原形質がまったく木材線維のように固い膜で包まれている。",
+              "citation": {
+                "source": "簡約医学史",
+                "author": "A Concise History of Medicine",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これらすべての動きから、心臓の運動はその線維の収縮によるものであり、これによって血液は心室から吐き出される、という非常に自然な結論をハーヴィは得た。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例えばリネンのテープやその他のこの種の家庭で使う商品はリネン線維だけでなくリネンと木綿から出来ている。",
+              "citation": {
+                "source": "食品の混ぜ物処理および調理の毒物（1820）",
+                "author": "A TREATISE ON ADULTERATIONS OF FOOD, AND CULINARY POISONS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるときに硬水はそれに充満している土地の物質および塩類を材料の繊細な線維に沈殿させ、このようにして染料の柔らかさおよび華やかさを邪魔する。",
+              "citation": {
+                "source": "食品の混ぜ物処理および調理の毒物（1820）",
+                "author": "A TREATISE ON ADULTERATIONS OF FOOD, AND CULINARY POISONS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "亜麻線維を浸すのに軟水は絶対的に必要である。",
+              "citation": {
+                "source": "食品の混ぜ物処理および調理の毒物（1820）",
+                "author": "A TREATISE ON ADULTERATIONS OF FOOD, AND CULINARY POISONS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "硬水中で線維は組織の傷害が起きるまで何月も浸すとしても木質の物質が分解して線維が適当に分離しない。",
+              "citation": {
+                "source": "食品の混ぜ物処理および調理の毒物（1820）",
+                "author": "A TREATISE ON ADULTERATIONS OF FOOD, AND CULINARY POISONS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "良い純粋な水は硬水と呼ばれるものよりも動物の線維および野菜の物質を容易に柔らかくする。",
+              "citation": {
+                "source": "食品の混ぜ物処理および調理の毒物（1820）",
+                "author": "A TREATISE ON ADULTERATIONS OF FOOD, AND CULINARY POISONS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "種々の木材の線維や鋸屑およびスパイス類や種々の粉薬に見つかる多くの混ぜ物は、主としてスパイスや薬を粉にする人たちによって添加されている。",
+              "citation": {
+                "source": "食品とその混ぜ物処理",
+                "author": "FOOD AND ITS ADULTERATIONS; ANALYTICAL SANITARY COMMISSION OF \"THE LANCET\"",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "脊髄神経の前角は遠心性線維からなり後角は求心性線維からなることを示したベル（―マジャンディ）法則をミュラーは詳細に実験で示しその後は一般に認められるようになった。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軟骨についていた線維組織が染まらなかったことは軟骨構造が選択的に染まることを示している。",
+              "citation": {
+                "source": "先天性代謝異常",
+                "author": "INBORN ERRORS OF METABOLISM (1909)",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時期におけるアトウォーターの仕事の主な点は食物を近似システム（プロクシメート　システム）（窒素、線維、灰、エーテル抽出物、水分、“差分による炭水化物”）によって測定し、この値を使ってもっとも高価であるタンパク質の必要量を経済的に得るにはどうすれば良いかを、貧しい人に教えることであった（表１）。",
+              "citation": {
+                "source": "栄養学小史",
+                "author": "A Short History of Nutritional Science",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南カロライナの線維工場のある村の調査で、ゴールドバーガーのグループは、ペラグラ患者の家庭で買っている食品のパターンが健康な家庭と非常に似ていることを見出した。",
+              "citation": {
+                "source": "栄養学小史",
+                "author": "A Short History of Nutritional Science",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  },
+  {
+    "uuid": "fae0ba28-2fab-5d86-add6-5a7aa608dbf3",
+    "entry": "船位",
+    "reading": {
+      "primary": "せんい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "裏の航路図に、インクであらましの船位がしるしてある。",
+              "citation": {
+                "source": "中條精一郎の「家信抄」まえがきおよび註",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
     }
   }
 ]

@@ -294,5 +294,81 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T08:10:31.652839+00:00Z"
     }
+  },
+  {
+    "uuid": "7db4844d-1120-55a6-85c4-84d2fc53e690",
+    "entry": "硝子絵",
+    "reading": {
+      "primary": "がらすえ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "やがて橋の上流がぱっと明るくなって河容の一部は硝子絵のように滑っこく照し出されて来ました。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "硝子絵の窓だの噴水だの薔薇の花だの、壁にかける氈だの、――そんな物は見た事もありますまい。",
+              "citation": {
+                "source": "長崎小品",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "うつし絵はずっと子供衆向きで、船いっぱいに白布、粗末な木箱に仕組んだ硝子絵を写して手先の熟練、もちろん電気はなし灯心の明りで写し、最初が福助の口上から三番叟、器用に動く。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

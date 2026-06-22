@@ -64,6 +64,38 @@
                 "author": "ЗАПИСКИ　ИЗ　ПОДПОЛЬЯ",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "――米良、貴方は妾を世界の花から花に住みかえる毒蛾のように思っては不可ないのです。",
+              "citation": {
+                "source": "地図に出てくる男女",
+                "author": "吉行エイスケ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "経師屋夫婦は、もっと割のいい奉公口を探してやろうと云うのだったが、ぎんは他へ住みかえる気がしなかった。",
+              "citation": {
+                "source": "鴻ノ巣女房",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山の石にとまっていたトンボが里へ住みかえるだけの話だ。",
+              "citation": {
+                "source": "女剣士",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一月か半月もいると、すぐに次の別の下宿屋へと住みかえるのです。",
+              "citation": {
+                "source": "屋根裏の散歩者",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -90,10 +122,93 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T15:14:37.020001+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 10
+      },
+      "variant_writings": [
+        "住みかえる",
+        "住替える"
+      ]
+    }
+  },
+  {
+    "uuid": "909ddeab-8330-54e4-abc4-3527a6607529",
+    "entry": "澄み返る",
+    "reading": {
+      "primary": "すみかえる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その寂しさが極った時人の心は澄み返る。",
+              "citation": {
+                "source": "蔦葛木曽棧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてそれを見つめていると、心が朗らかに澄み返るのを覚えた。",
+              "citation": {
+                "source": "楠の話",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝は、山国川の流れが星の光を写す頃から起き出て、夕は瀬鳴の音が静寂の天地に澄みかえる頃までも、止めなかった。",
+              "citation": {
+                "source": "恩讐の彼方に",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 32
+      },
+      "variant_writings": [
+        "澄みかえる"
+      ]
     }
   }
 ]

@@ -321,10 +321,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T08:01:22.403556+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36114,
       "frequencies": {
         "aozora": 150
+      },
+      "variant_writings": [
+        "離叛"
+      ]
+    }
+  },
+  {
+    "uuid": "82aef317-5f55-5077-83a3-1372bdc4abe8",
+    "entry": "理藩",
+    "reading": {
+      "primary": "りはん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "理藩院の尚書を勤める留という人が曾て西蔵に駐在しているときに、何かの事で一人の紅教喇嘛に恨まれた。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "閲微草堂筆記（清）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

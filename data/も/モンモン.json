@@ -361,11 +361,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:26:05.404974+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 25502,
       "frequencies": {
         "aozora": 216
-      }
+      },
+      "variant_writings": [
+        "モンモン",
+        "悶悶"
+      ]
     }
   },
   {
@@ -716,6 +720,106 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 23
+      }
+    }
+  },
+  {
+    "uuid": "e36a63e7-0354-5177-879a-cfd07956a9c5",
+    "entry": "紋紋",
+    "reading": {
+      "primary": "もんもん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もしそれ南枝の梢に短冊の昔を愛する振舞いに至っては、必ずしも歌句の拙きを嗤うを要せぬ、倶利迦羅紋紋の兄哥にもこの風流あるは寧ろ頼もしからずとせんや。",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それからなお一つ、近頃の相撲好きは贔負からの入れ力ではなく、可哀相にかれらの勝負を賭けごとの道具にしておる、まさかに江戸ッ児はそんなこともしめえが、するやつがあったら己が聴かねえと、倶利迦羅紋紋の兄哥が力んでいた。",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘇子、白居易が雅懐も、倶利迦羅紋紋の兄哥が風流も詮ずるところは同じ境地、忘我の途に踏み入って煩襟を滌うを得ば庶幾は已に何も叶うたのである。",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――一つは倶利迦羅紋紋の腕から背を、これ見よがしの罪のない誇りを抱く手あいもあるからであろう。",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本の倶利加羅紋紋とはちょっと気分がちがっている。",
+              "citation": {
+                "source": "アラスカ通信",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぢき裏の路地の奥に蓬莱豆をこしらへる家があつて倶梨迦羅紋紋の男たちが犢鼻褌ひとつの向ふ鉢巻で唄をうたひながら豆を煎つてたが、そこは鬼みたいな男たちが怖いのと、がらがらいふ音が頭の心へひびくのとで嫌ひであつた。",
+              "citation": {
+                "source": "銀の匙",
+                "author": "中勘助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
       }
     }
   }

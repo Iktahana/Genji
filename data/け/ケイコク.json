@@ -247,6 +247,14 @@
                 "author": "ペロー　Perrault",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "其の振り上ぐる顏を見れば、鬚眉の魂を蕩かして此世の外ならで六尺の體を天地の間に置き所なきまでに狂はせし傾國の色、凄き迄に美はしく、何を悲しみてか眼に湛ゆる涙の珠、海棠の雨も及ばず。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -316,10 +324,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:15:21.466852+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 21
-      }
+      },
+      "variant_writings": [
+        "傾國"
+      ]
     }
   },
   {
@@ -646,11 +657,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 19106,
       "frequencies": {
         "aozora": 455
-      }
+      },
+      "variant_writings": [
+        "溪谷",
+        "谿谷"
+      ]
     }
   },
   {
@@ -1743,6 +1758,66 @@
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "8af5acf8-e826-5a85-b430-0d1727b2c454",
+    "entry": "軽国",
+    "reading": {
+      "primary": "けいこく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "加藤氏が「軽国政府」と言える題にて述べたる短文にも「人民をしてあえて国事を聴く能わざらしめもって恣に人民を制圧せんと欲するところの政府は余これを目して国家を軽んずるの政府と言う云々」と明言したり。",
+              "citation": {
+                "source": "近時政論考",
+                "author": "陸羯南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
     }
   }
 ]

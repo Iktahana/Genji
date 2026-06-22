@@ -183,6 +183,14 @@
                 "author": "フョードル・ミハイロヴィッチ・ドストエフスキー",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "「俺はあんなゴクつぶしのストライキなぞに入るんじゃ無かった、いい年をして」爺さん、お前は血迷って、そう言ったな、よかろう！",
+              "citation": {
+                "source": "棺の後ろから",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -211,9 +219,88 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:03:29.576554+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 17
+      },
+      "variant_writings": [
+        "ゴクつぶし"
+      ]
+    }
+  },
+  {
+    "uuid": "0e6da614-133f-51b1-a3d7-0fbb43b1d50a",
+    "entry": "ゴクツブシ",
+    "reading": {
+      "primary": "ごくつぶし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「このゴクツブシめ。",
+              "citation": {
+                "source": "退歩主義者",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "働かざるもの食うべからず、ゴクツブシ、というような思想が――思想よりも強力な制度が、たとえば配給量という当時の最も切実なものの上で「お前はゴクツブシ」だという無言の審判を押しつけてくる。",
+              "citation": {
+                "source": "親が捨てられる世相",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老いては子に従えというアキラメと忍従の心境は、子供自慢の心境などから発して自発的に生まれ深まるところにそれに耐える力もあるのだが、配給量という甘やかしようのない規定で「お前はゴクツブシである」という抜きさしならぬ審判を押しつけられては、ヒガマざるを得ない。",
+              "citation": {
+                "source": "親が捨てられる世相",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

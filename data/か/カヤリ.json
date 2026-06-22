@@ -316,9 +316,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T05:45:34.636804+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 46
+      },
+      "variant_writings": [
+        "蚊やり",
+        "蚊遣"
+      ]
+    }
+  },
+  {
+    "uuid": "4d8db6da-3a7d-5feb-b7a7-1e75853b947a",
+    "entry": "カヤリ",
+    "reading": {
+      "primary": "かやり",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "横手の障子をアケヒロゲて、カヤリを焚いてゐた。",
+              "citation": {
+                "source": "思ひ出す牧野信一",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "カヤリの煙がユラユラと壁に映つて、十一時頃であり、そのうちまた出掛けさうな気配にもなつたりして、時は刻々に過ぎつゝあつた。",
+              "citation": {
+                "source": "思ひ出す牧野信一",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

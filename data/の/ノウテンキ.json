@@ -66,6 +66,46 @@
                 "author": "Le Pere Goriot",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "だが何はともあれ、既存の概念を打ち壊す秩序紊乱者の脳天気ぶりは、ええやないかええやないか。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さっさとやってみて、間違えたと思ったらそこですぐに直せばいいじゃないかという脳天気主義である。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方それとは無関係なところで、一九七〇年代の半ばに脳天気な連中がマイクロコンピューターを使えば個人がコンピューターを持てると騒ぎ始めた。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "脳天気なお母様はそれをスペンサに渡した。",
+              "citation": {
+                "source": "鉄面皮",
+                "author": "A Front of Brass",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "学校当局と、ノーテンキ野郎だけでやってくれ」　そういう高志の声には、なんの感情もこもっていなかった。",
+              "citation": {
+                "source": "45回転の夏",
+                "author": "第３章　フルサークル、１９９１年",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -91,9 +131,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:27:52.913824+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 1
+      },
+      "variant_writings": [
+        "ノーテンキ",
+        "脳天気"
+      ]
+    }
+  },
+  {
+    "uuid": "61804fbd-52c8-5e51-bfe1-a874765d8f63",
+    "entry": "ノウテンキ",
+    "reading": {
+      "primary": "のうてんき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "長い間平次の家に居候していた八五郎は、二、三年前十手一本の主になった時、嫁でももらって一家をもつ用意に、一応叔母さんのところに引取られましたが、持って生れたノウテンキで、金もたまらず女も出来ず、だれも嫁の世話をしてくれる者もないままに、相変らず極楽トンボで、江戸中を飛びまわっているのでした。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "怪盗系図",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あんなノウテンキな野郎だが、命の恩人だと思つたら、髻を掴まれたくらゐ勘辨出來ねえこともあるめえ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "盜まれた十手",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

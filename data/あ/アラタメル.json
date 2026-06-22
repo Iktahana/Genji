@@ -609,10 +609,82 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:43:53.285897+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14834,
       "frequencies": {
         "aozora": 2383
+      },
+      "variant_writings": [
+        "検める",
+        "革める"
+      ]
+    }
+  },
+  {
+    "uuid": "9c105be9-2a02-51c6-a031-6ce5fca7672f",
+    "entry": "アラタメル",
+    "reading": {
+      "primary": "あらためる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "是で盃を濯ぐことをアラタメルと謂ったのも、もとは別の盃にするという意味で、「金色夜叉」の赤樫満枝という婦人などが、「改めてございませんよ」と謂って、盃を貫一にさしたのを見ても判るように、本来は同じ盃の中のものを、分ち飲む方が原則だったから改めなかった。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを今日は見事に飲み乾すのをアラタメルのだと思う者さえある。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

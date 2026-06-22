@@ -1276,6 +1276,14 @@
                 "author": "墨丸",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "それらの囃子の中で、あの哀調に充ちた笛を「過ぎゆく時間の我々の耳に對するときをりの轉調、演者の背後での時間と瞬間との對話」であると言つてゐるなどは面白い。",
+              "citation": {
+                "source": "クロオデルの「能」",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1300,11 +1308,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 36123,
       "frequencies": {
         "aozora": 19
-      }
+      },
+      "variant_writings": [
+        "轉調"
+      ]
     }
   },
   {
@@ -1621,6 +1632,66 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 35
+      }
+    }
+  },
+  {
+    "uuid": "bae242fb-bdf0-57bb-97d1-3d312b140728",
+    "entry": "展張",
+    "reading": {
+      "primary": "てんちょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "赤石沢の奥、百間平から、長い尾根を絶頂の南角まで引き上げ、少し力を撓めて、小赤石から北稜を、間近かの尾根に切って落し、ぐっとのけぞるように、山の広い南東面を展張している。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

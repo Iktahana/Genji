@@ -403,10 +403,73 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:23:39.987833+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 385,
       "frequencies": {
         "aozora": 7508
+      },
+      "variant_writings": [
+        "大學"
+      ]
+    }
+  },
+  {
+    "uuid": "c9aaf4d1-7336-5134-856f-6d5284e582c7",
+    "entry": "題額",
+    "reading": {
+      "primary": "だいがく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かくのごときの有様であったから、忠通が題額を拒絶したのは当然の次第であるが、しかも例の黄金の力はよく九条関白や参議教長を動かして、これがために揮毫を試むるを余儀なくせしめたものと見える。",
+              "citation": {
+                "source": "奥州における御館藤原氏",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

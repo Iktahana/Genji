@@ -318,11 +318,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T02:53:30.921996+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 40494,
       "frequencies": {
         "aozora": 73
-      }
+      },
+      "variant_writings": [
+        "ソーメン",
+        "索麪",
+        "索麺"
+      ]
     }
   },
   {
@@ -639,6 +644,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 3
+      }
+    }
+  },
+  {
+    "uuid": "a1a03219-6e68-52e2-ac8a-551fb39f2545",
+    "entry": "双面",
+    "reading": {
+      "primary": "そうめん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二部興行で、昼の部は忠信の道行、躄の仇討、鳥辺山心中、夜の部は信長記、浪華の春雨、双面という番組も大きく貼り出してある。",
+              "citation": {
+                "source": "綺堂むかし語り",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幸いに家橘も勘当されず、歌舞伎座も舞台を削り直さず、おん大将の団十郎と菊五郎の顔あわせで十月興行を開演することになって、一番目「双面忠義鑑」、中幕「毛谷村」、二番目「新皿屋敷」という列べ方であったが、甚だしい不評不入りで、両大将ともに器量を下げた。",
+              "citation": {
+                "source": "明治劇談　ランプの下にて",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二部興行で、昼の部は『忠信の道行』、『躄の仇討』、『鳥辺山心中』、夜の部は『信長記』、『浪花の春雨』、『双面』という番組も大きく貼り出してある。",
+              "citation": {
+                "source": "十番雑記",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このイグナチオ・ヴィテリオの双面を感づいた第二号である。",
+              "citation": {
+                "source": "戦雲を駆る女怪",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その辺りは、羅馬、西班牙、また、埃及などという国々の抱いておる内海――」　その屏風の左半双の端から、右の半双面の方へと、信長は秀吉をさしまねいた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

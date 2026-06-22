@@ -278,6 +278,36 @@ def load_new_words(path: Path, min_count: int, limit: Optional[int]) -> list[tup
     return rows
 
 
+def prune_new_words(path: Path, processed: set[str]) -> tuple[int, int]:
+    """処理済み（吸収/新語化）の語を new_words.txt から削除して書き戻す。
+
+    Returns: (残存行数, 削除行数)。アトミック書き込み。
+    """
+    kept: list[str] = []
+    removed = 0
+    with path.open(encoding="utf-8") as f:
+        for line in f:
+            raw = line.rstrip("\n")
+            if not raw:
+                continue
+            word = raw.split("\t", 1)[0]
+            if word in processed:
+                removed += 1
+            else:
+                kept.append(raw)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    try:
+        with tmp.open("w", encoding="utf-8") as f:
+            f.write("\n".join(kept))
+            if kept:
+                f.write("\n")
+        tmp.rename(path)
+    except Exception:
+        tmp.unlink(missing_ok=True)
+        raise
+    return len(kept), removed
+
+
 def load_known_index(db_path: Path) -> tuple[set[str], dict[str, list[tuple[str, str]]]]:
     """
     DB から既知語を読む。
@@ -346,6 +376,7 @@ def classify(
     news: dict[str, NewWord] = {}
     skipped = 0
     low_quality = 0
+    processed: set[str] = set()  # 吸収 or 新語化された元表記（new_words.txt から削除する対象）
 
     for word, count in rows:
         an = analyze_word(word)
@@ -363,6 +394,7 @@ def classify(
             tgt_reading, tgt_uuid = target
             if word != canonical:
                 absorbs.append(AbsorbOp(tgt_uuid, canonical, tgt_reading, word, count))
+            processed.add(word)  # 既存エントリに解決済み
             continue
 
         # canonical 自体は entry に無いが、読みが既知（かな表記の既存語）→ 吸収せずスキップ
@@ -382,8 +414,9 @@ def classify(
         if word != canonical:
             nw.variants.add(word)
         nw.count += count
+        processed.add(word)  # 新語エントリに寄与
 
-    return absorbs, news, skipped + low_quality
+    return absorbs, news, skipped + low_quality, processed
 
 
 # ──────────────────────────────────────────────────────────
@@ -665,6 +698,8 @@ def main() -> None:
                         help="青空例句収集をスキップ（分類・統計のみ）")
     parser.add_argument("--resume", action="store_true",
                         help="例句インデックスをチェックポイントから再開")
+    parser.add_argument("--prune-input", action="store_true",
+                        help="処理済み（吸収/新語化）の語を new_words.txt から削除")
     parser.add_argument("--dry-run", action="store_true",
                         help="ファイルを書き換えず統計のみ")
     parser.add_argument("--verbose", action="store_true")
@@ -689,7 +724,7 @@ def main() -> None:
 
     # Phase 2: 分類
     bd.Progress.group("Phase 2 │ 正規化・分類（旧字体/旧仮名の吸収判定）")
-    absorbs, news, skipped = classify(rows, known, by_entry)
+    absorbs, news, skipped, processed = classify(rows, known, by_entry)
     bd.Progress.ok(f"吸収候補 {len(absorbs):,}  新語 {len(news):,}  スキップ {skipped:,}")
     bd.Progress.endgroup()
 
@@ -714,6 +749,13 @@ def main() -> None:
         do_new=not args.no_new,
     )
 
+    # new_words.txt から処理済み語を削除
+    pruned = (0, 0)
+    if args.prune_input and not args.dry_run:
+        kept, removed = prune_new_words(args.new_words, processed)
+        pruned = (kept, removed)
+        bd.Progress.step(f"new_words.txt 更新: {removed:,} 語削除 / {kept:,} 語残存")
+
     # サマリ
     bd.Progress.group("完了サマリ")
     bd.Progress.step(f"new_words 入力           : {len(rows):,}")
@@ -724,6 +766,8 @@ def main() -> None:
     bd.Progress.step(f"分類スキップ              : {skipped:,}")
     if stats["skipped_existing_new"]:
         bd.Progress.step(f"既存 uuid 衝突でスキップ   : {stats['skipped_existing_new']:,}")
+    if args.prune_input and not args.dry_run:
+        bd.Progress.step(f"new_words.txt 削除/残存    : {pruned[1]:,} / {pruned[0]:,}")
     if args.dry_run:
         bd.Progress.warn("dry-run: ファイルは変更していません")
     bd.Progress.endgroup()

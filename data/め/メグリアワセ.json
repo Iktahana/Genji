@@ -317,9 +317,92 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:04:42.483212+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 18
+      },
+      "variant_writings": [
+        "めぐり合わせ",
+        "巡りあわせ",
+        "巡り合せ",
+        "廻り合せ",
+        "廻り合わせ"
+      ]
+    }
+  },
+  {
+    "uuid": "80b6cb25-d908-523b-860f-ac50ba9835e8",
+    "entry": "メグリアワセ",
+    "reading": {
+      "primary": "めぐりあわせ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "氏家は左近に杯をさして、「例のメモの印刷をボクが引きうけたのはよその印刷屋が引きうけてくれないからと泣きつかれて柄になくオトコギをだしての仕儀だが、ボクのところには脅迫などは一度もなくてキミだけが妙な変事に見舞われ通しというのはフシギなメグリアワセだね。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ボクが今日にわかにキミのあとを追うようにして訪問したのはキミの離京の名残りを惜しむためではなくて、キミのメグリアワセがあまりフシギだから、大竜出版社そのものに何かイワクがあるのじゃないかと見届けてみたくなったせいだ。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その生き神様のオメガネに易々とかなうことのできなかった木々彦は、そのために村人になんとなく安ッぽく見られるような貧乏クジをひくメグリアワセになってしまった。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その九　覆面屋敷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

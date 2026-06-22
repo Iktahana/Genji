@@ -983,11 +983,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:47:19.381119+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3275,
       "frequencies": {
         "aozora": 24165
-      }
+      },
+      "variant_writings": [
+        "展く",
+        "開らく"
+      ]
     }
   },
   {
@@ -2663,6 +2667,98 @@
       "freq_rank": 24241,
       "frequencies": {
         "aozora": 7
+      }
+    }
+  },
+  {
+    "uuid": "6455a3be-7fcb-5bda-af1f-73a4904a3d04",
+    "entry": "ヒラク",
+    "reading": {
+      "primary": "ひらく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "事実、演者がその心持でシカケてヒラクと、観者は主観的に演者を鬼と感じて終うので扮装の有無には拘わらない。",
+              "citation": {
+                "source": "能とは何か",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の郷里では蝮をヒラクチと云う。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ある年の秋、西山に遊びに往って、唯有る崖を攀じて居ると、「ヒラクチが居ったぞゥ」と上から誰やら警戒を叫んだ。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こつちが唇を刺すヒラクチの実なら、あつちは舌の上で融ける水蜜桃である。",
+              "citation": {
+                "source": "山形屋の青春",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天地初發之時の句にしても、アメツチノハジメノトキ、アメツチノハジメテオコリシトキ、アメツチノハジメテヒラクルトキなど、さまざまの讀み方が考えられている。",
+              "citation": {
+                "source": "古事記",
+                "author": "解説",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

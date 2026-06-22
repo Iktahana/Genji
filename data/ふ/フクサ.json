@@ -316,9 +316,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:37:04.384088+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 189
+      },
+      "variant_writings": [
+        "帛紗",
+        "服紗"
+      ]
+    }
+  },
+  {
+    "uuid": "91328516-7b15-57d6-93ea-d1a1dd220a2b",
+    "entry": "フクサ",
+    "reading": {
+      "primary": "ふくさ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこで私は傘と一緒に持っていた黒いフクサ包から別の下駄を出して、草履をしまって、玉子のことや何か云いつけて、珍しく戸塚へゆきました。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三七年（昭和十二年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "傘をさして待って居た自分、パンを入れたフクサを忘れたのに心づき、大いそぎで引かえす。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二八年（昭和三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "野草の懐中からは手の切れるような十円札の百枚束、千円という大金のフクサ包みが出てきたが、立派な和紙で包まれていて、小銭入れと別になっているのを見ると、人にやる金か、人から貰った金か、特別な金であるらしく思われる。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その五　万引家族",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或いは一年中を通じて、彼らをオフクサンと謂ったり、またはヨメサマと謂ったりする人も少なくはない。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

@@ -497,11 +497,87 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T16:43:20.680951+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 427,
       "frequencies": {
         "aozora": 17777
+      },
+      "variant_writings": [
+        "1番",
+        "イチバン",
+        "一ばん"
+      ]
+    }
+  },
+  {
+    "uuid": "3c3cdc8b-e35d-5273-9c6c-885d813f25e6",
+    "entry": "壱番",
+    "reading": {
+      "primary": "いちばん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "明治十二年、日本橋区通油町壱番地。",
+              "citation": {
+                "source": "渡りきらぬ橋",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その頃横浜居留地の一号地にあって、英壹番と云われていた奴でね。",
+              "citation": {
+                "source": "私は隠居ではない",
+                "author": "吉田茂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "壹番"
+      ]
     }
   }
 ]

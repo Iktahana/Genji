@@ -404,9 +404,114 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:15:09.579571+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 851
+      },
+      "variant_writings": [
+        "しらしら",
+        "白じろ",
+        "白白"
+      ]
+    }
+  },
+  {
+    "uuid": "3d232e6c-8569-5c71-b1df-f8ecf93b2677",
+    "entry": "シラジラ",
+    "reading": {
+      "primary": "しらじら",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "話しながら医者が再び弟の方を向いてをり、はじめて云つてゐることではないといふ調子であり、弟がまた、まんざらシラジラと初めて聞くやうな顔も出来ないといつた表情をして、私の方に視線を送つた時には私はギヨツとした。",
+              "citation": {
+                "source": "亡弟",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうだ、さうだと、近頃でもその時のことを思ひ出すと、わけても酒をあふつた夜なぞ、独りになると思ふのだ、私はシラジラしい男だ。",
+              "citation": {
+                "source": "亡弟",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――人々よ、君等には私をシラジラしい男といふ権利がある！",
+              "citation": {
+                "source": "亡弟",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かういふことを、都の人は、えてシラジラしいことのやうにも考へるやうですが、却々それどころでもないのです。",
+              "citation": {
+                "source": "感情喪失時代",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時はモウ夜がシラジラと明けかかっていたので、私はチョット引返して持っていた懐中電燈を机の横に置いて出て来た。",
+              "citation": {
+                "source": "眼を開く",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、闇の中にシラジラと、砕ける波の穂頭が、物の怪のように見えて来た。",
+              "citation": {
+                "source": "神州纐纈城",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

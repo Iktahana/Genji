@@ -99,5 +99,73 @@
         "aozora": 2
       }
     }
+  },
+  {
+    "uuid": "812c32a9-b84a-57ed-b1fc-35c4c64a9f36",
+    "entry": "差し替える",
+    "reading": {
+      "primary": "さしかえる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-ア行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "鯨よりも由兵衛の方が腐ってしまって、何か他のものと差換えるあいだ、ひとまず木戸をしめることになった。",
+              "citation": {
+                "source": "虎",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 25
+      },
+      "variant_writings": [
+        "さし替える",
+        "差しかえる",
+        "差し変える",
+        "差換える",
+        "差替える",
+        "指し替える"
+      ]
+    }
   }
 ]

@@ -274,6 +274,30 @@
                 "author": "大杉栄",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "依て追次此等の文書に就き、其文體、其書體及び其内容の檢討を遂げ、悉く最近の僞造であることを暴露せしめたのである。",
+              "citation": {
+                "source": "天津教古文書の批判",
+                "author": "狩野亨吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此上疑問として殘る變態性は之を稱明し得たところで、僞造の事實を動かすことは出來ない。",
+              "citation": {
+                "source": "天津教古文書の批判",
+                "author": "狩野亨吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先づ大祀神御之物及び天子の乘輿、御衣、御物、御寶を盜んだり僞造したりする罪であります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -288,10 +312,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T05:36:13.911749+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6463,
       "frequencies": {
         "aozora": 237
+      },
+      "variant_writings": [
+        "僞造"
+      ]
+    }
+  },
+  {
+    "uuid": "fd1e7ebe-a8c8-5407-803a-512e1d8ea6d9",
+    "entry": "ギゾウ",
+    "reading": {
+      "primary": "ぎぞう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ローマ法皇もツァールも、メッテルニヒもギゾウも、フランスの急進黨もドイツの探偵も。",
+              "citation": {
+                "source": "共産黨宣言",
+                "author": "カール・マルクス",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔譯者註〕メッテルニヒはオーストリーの宰相、ギゾウはフランスの首相。",
+              "citation": {
+                "source": "共産黨宣言",
+                "author": "カール・マルクス",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

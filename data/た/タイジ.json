@@ -1110,11 +1110,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14745,
       "frequencies": {
         "aozora": 880
-      }
+      },
+      "variant_writings": [
+        "対治"
+      ]
     }
   },
   {
@@ -1438,6 +1441,166 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 31
+      }
+    }
+  },
+  {
+    "uuid": "dcac3cb2-1b08-5842-b9c5-2785107b8680",
+    "entry": "待時",
+    "reading": {
+      "primary": "たいじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "遠藤の招待時間に一時間後れたわけだ。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "斷橋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斬罪者不待時而殺之。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それからここに絞と云ふのは待時決と稱して、時を待つて決すると云ふのであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "待時決は之を秋から以後に行ひますから、或は秋後決とも云ひます。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "所が斬の方は、大體に於て時を待つて決すといふことはなく不待時決と稱しまして、愈※判決が決れば直ちに實行するので、之を立決とも稱するのであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  },
+  {
+    "uuid": "babf3666-2b93-5909-8112-3b991f3feff9",
+    "entry": "タイジ",
+    "reading": {
+      "primary": "たいじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "寄宿舎の南京虫をタイジしろ！",
+              "citation": {
+                "source": "工場労働者の生活について",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうすると、急に娘の言葉が甘ったるくなって、「ねえ、マドロスさん」「エ」「そんなに苛めなくてもいいことよ」「ワタシ、チットモ、アナタイジメルコトアリマセン、アナタ可愛クテタマラナイデス」「可愛がって頂戴。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "恐山の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

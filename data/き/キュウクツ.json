@@ -488,10 +488,89 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T10:01:59.738592+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 15298,
       "frequencies": {
         "aozora": 1833
+      },
+      "variant_writings": [
+        "窮窟"
+      ]
+    }
+  },
+  {
+    "uuid": "2cc9cb3f-2ee8-5472-b503-f041dbdcc484",
+    "entry": "キュウクツ",
+    "reading": {
+      "primary": "きゅうくつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」とだらだらと叔母が口誼を述べると、続いて兄もキュウクツ張った調子で挨拶を済ました。",
+              "citation": {
+                "source": "新世帯",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ワタクシという無理でキュウクツな言葉のように。",
+              "citation": {
+                "source": "選挙殺人事件",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "西洋博士、日本美男子、紳士探偵、結城新十郎の名は津々浦々になりひびき、新聞の人気投票日本一、警視庁は、探偵長に迎えたいと頼んできたが、キュウクツな務めは大キライとあって、オコトワリに及んだが、しかし彼も好きな道、雇いという軽い肩書で、大事件の通報一下、出馬して神業の心眼をはたらかすことになっている。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その一　舞踏会殺人事件",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

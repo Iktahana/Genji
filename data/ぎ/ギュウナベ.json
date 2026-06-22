@@ -287,6 +287,14 @@
                 "author": "室生犀星",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "西洋料理屋といっても牛なべ屋にちかく、コオノスがいちばんフランスのカフェーの感じだった。",
+              "citation": {
+                "source": "カフェー",
+                "author": "勝本清一郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -306,9 +314,104 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:11:14.865727+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 118
+      },
+      "variant_writings": [
+        "牛なべ"
+      ]
+    }
+  },
+  {
+    "uuid": "86c86c75-3bf3-543a-95db-3a30f25669a8",
+    "entry": "ギュウナベ",
+    "reading": {
+      "primary": "ぎゅうなべ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "だから、その頃は、牛鍋は、ギュウナベと言いました。",
+              "citation": {
+                "source": "牛鍋からすき焼へ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今でこそ、牛肉すき焼と、東京でも言うようになったが、すき焼というのは、関西流で、東京では、ギュウナベだったんだ。",
+              "citation": {
+                "source": "牛鍋からすき焼へ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今でも、ギュウナベと言いたいんだが、そんなこと言ったら、映画を活動写真と言うのより、もっと嘲われそうだ。",
+              "citation": {
+                "source": "牛鍋からすき焼へ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なるほど、こいつは、ギュウナベじゃなくって、すき焼って感じだった。",
+              "citation": {
+                "source": "牛鍋からすき焼へ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて、前回に、関西の牛肉すき焼と、関東の牛鍋（ギュウナベと読むんですぞ）の在り方について、かなり、くどく語ったが、それは、関東流と関西流とが、かなり違った食いものであったことを、念を押したかったのである。",
+              "citation": {
+                "source": "牛鍋からすき焼へ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
       }
     }
   }

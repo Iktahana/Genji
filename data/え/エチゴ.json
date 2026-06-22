@@ -301,5 +301,65 @@
         "aozora": 2163
       }
     }
+  },
+  {
+    "uuid": "0157ca7a-ab01-57e3-b0de-70c2492c761d",
+    "entry": "エチゴ",
+    "reading": {
+      "primary": "えちご",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それは即ちほぼ今のカントウ（関東）からシナノ（信濃）を経てエチゴ（越後）の中部地方に至るまでである。",
+              "citation": {
+                "source": "建国の事情と万世一系の思想",
+                "author": "津田左右吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
+    }
   }
 ]

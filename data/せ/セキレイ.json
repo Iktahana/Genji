@@ -319,10 +319,84 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T00:57:40.631478+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 202
+      },
+      "variant_writings": [
+        "セキレイ"
+      ]
+    }
+  },
+  {
+    "uuid": "23fe1706-5532-5070-a845-43503000f228",
+    "entry": "関令",
+    "reading": {
+      "primary": "せきれい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一八　関尹――関令尹喜。",
+              "citation": {
+                "source": "茶の本",
+                "author": "茶の本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（一三）關令尹喜曰く、『子將に隱れんとす、彊ひて我が爲めに書を著はせ』と。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "老莊申韓列傳第三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "關令"
+      ]
     }
   }
 ]

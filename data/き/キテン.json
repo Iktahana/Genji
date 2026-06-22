@@ -672,11 +672,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 29532,
       "frequencies": {
         "aozora": 135
-      }
+      },
+      "variant_writings": [
+        "気転"
+      ]
     }
   },
   {
@@ -1766,6 +1769,174 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 1
+      }
+    }
+  },
+  {
+    "uuid": "2cb487d1-24e4-588c-8136-79d30a280742",
+    "entry": "キテン",
+    "reading": {
+      "primary": "きてん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "イキテンノ」「サウ、デモ　ドウモ　シヤ　シナイカラ　ダイヂヨウブ。",
+              "citation": {
+                "source": "デンデンムシ",
+                "author": "新美南吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と、キテンをきかしてお母さんが、佗し気にほめてくれた事があった。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し、キテンはきく。",
+              "citation": {
+                "source": "無毛談",
+                "author": "――横山泰三にさゝぐ――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男のアンマと女のアンマの年寄夫婦に、若い車夫の夫婦がいるうちはどこだい、と、お龍がキテンをきかして質問の方法をかえてみると、さすがに分った。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その八　時計館の秘密",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コマメで、キテンがきいて、一応思慮があって、礼儀正しくて、いかにも日本風のヨタモノであったからサビエルを感心させることができたのだろうが、現代日本にはなんとヤジローが多いではありませんか。",
+              "citation": {
+                "source": "明日は天気になれ",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  },
+  {
+    "uuid": "8174aa30-ddd9-5dfc-8f9e-c3ece13ca01f",
+    "entry": "帰店",
+    "reading": {
+      "primary": "きてん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "朝、矢島さん来訪、一応帰店して新聞を持つて来てくれた、多謝々々。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝から拘引されていた給仕長の圭さんと、コックの吉公とが、夕方になって一｜先ず帰店を許され、これと入れかわりに電気商岩田京四郎が、検挙られてしまった。",
+              "citation": {
+                "source": "電気看板の神経",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "皆がさわぎたてるのは、復員して帰店した二十七八の社員や、ふっくらした赤ら顔の少年達であったから。",
+              "citation": {
+                "source": "灰色の記憶",
+                "author": "久坂葉子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

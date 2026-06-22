@@ -321,11 +321,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:31:16.424216+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 302,
       "frequencies": {
         "aozora": 6122
-      }
+      },
+      "variant_writings": [
+        "エイガ",
+        "映畫"
+      ]
     }
   },
   {
@@ -652,10 +656,154 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 35707,
       "frequencies": {
         "aozora": 454
+      },
+      "variant_writings": [
+        "栄花",
+        "榮花"
+      ]
+    }
+  },
+  {
+    "uuid": "f794cfea-0e65-5cf0-bb46-0d5a536f1739",
+    "entry": "英華",
+    "reading": {
+      "primary": "えいが",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "次で保は七月一日に静岡高等｜英華学校に聘せられ、九月十五日にまた静岡文武館の嘱託を受けて、英語を生徒に授けた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "静岡を去るに臨んで、渋江塾を閉じ、英学校、英華学校、文武館三校の教職を辞した。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この「統計」の二字は、恐らくは「英華字典」にスタチスチックに対して「統紀」という訳字を用いておったのに拠って案出したものであろう。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東西文明の英華を食ひ、世界の高所に立つ國民をして、退きて東洋歴史の惰力に制せられしむる也。",
+              "citation": {
+                "source": "世界の日本乎、亞細亞の日本乎",
+                "author": "竹越三叉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐人はこの學風の相違に就いて、南人約簡得其英華。",
+              "citation": {
+                "source": "晉室の南渡と南方の開發",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "序ながら菅原家は編史事業に關係したのであるが、其の續紀等の序文は之れを唐文粹、文苑英華等の中へそつと入れて置けば、支那人が見ても日本人の作と云ふ事が分らぬ程巧いものである。",
+              "citation": {
+                "source": "平安朝時代の漢文學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "類書としては三通、又大平御覽、册府元龜、文苑英華を三大書とし、藝文類聚、初學記、北堂書抄を唐の三書として擧げたるなど、皆其の選擇の當を得たるを見るべく、本草學、脈學、醫方學を專門の學とし、醫は暦術と同じ後世ほど委くなるべしといへるも、學術に對する理解の非凡なるを見るに足る。",
+              "citation": {
+                "source": "敬首和尚の典籍概見",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでも好い字が無い時には英華辭典で支那語の翻譯を見ます。",
+              "citation": {
+                "source": "鴎外全集を讀む",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼のロブスチード氏の『英華字典』などにもそんな名は見付からない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ロブスチード氏の『英華字典』には大薯と訳してあるが、これは薯と訳すれば宜しく大の字はいらない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ベルリンに遊ばざればもって学問の英華を知るあたわずとして天下の書生が欽慕おくあたわざる哲学の楽園、碩儒の淵叢たるゲルマン帝国のごとき、その政治ははたして人民の幸福を進捗するに足るか。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 13
       }
     }
   }

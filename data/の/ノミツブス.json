@@ -56,7 +56,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "青山二郎は身代を飲みつぶす直前で、彼だけはシャンパンを飲みあかしたり、大いに景気がよかつたが、他の我々は大いに貧乏であつた。",
+              "citation": {
+                "source": "二十七歳",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "青山二郎は身代を飲みつぶす直前で、彼だけはシャンパンを飲みあかしたり、大いに景気がよかったが、他の我々は大いに貧乏であった。",
+              "citation": {
+                "source": "二十七歳",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       },
       {
@@ -122,10 +139,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:34:00.407912+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 5
-      }
+      },
+      "variant_writings": [
+        "飲みつぶす"
+      ]
     }
   }
 ]

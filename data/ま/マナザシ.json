@@ -315,10 +315,76 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T00:22:50.916576+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 16653,
       "frequencies": {
         "aozora": 279
+      },
+      "variant_writings": [
+        "目なざし",
+        "目差",
+        "眼ざし",
+        "眼差"
+      ]
+    }
+  },
+  {
+    "uuid": "e0633b51-a763-5bbe-ac20-e2d41e1be4f4",
+    "entry": "マナザシ",
+    "reading": {
+      "primary": "まなざし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "深窓に閉じこもっているせいか、なんとなく苦行僧のようなうッとうしいマナザシをしているところが面白い。",
+              "citation": {
+                "source": "文化祭",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

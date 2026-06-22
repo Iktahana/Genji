@@ -413,11 +413,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T11:35:23.448089+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 41022,
       "frequencies": {
         "aozora": 478
-      }
+      },
+      "variant_writings": [
+        "謹愼"
+      ]
     }
   },
   {
@@ -1196,6 +1199,141 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 2
+      }
+    }
+  },
+  {
+    "uuid": "2f53c1ff-9fa8-5c48-970f-e666db2d0f6d",
+    "entry": "キンシン",
+    "reading": {
+      "primary": "きんしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私は最も重い刑、三日間の絶食と一週間のキンシンをくう。",
+              "citation": {
+                "source": "工場労働者の生活について",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一ヵ月もたたないうちに二週間のキンシンと二ヵ月の外出キンシ。",
+              "citation": {
+                "source": "工場労働者の生活について",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "目下キンシン中の教祖かなア。",
+              "citation": {
+                "source": "安吾人生案内",
+                "author": "その八　安吾愛妻物語",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……まあまあ、なんだなあ、私の方も、よく心がけておくから、君の家でも、まあ、出来るだけ、友吉の事は世間にパッとしないようにして、この、キンシンしてだ。",
+              "citation": {
+                "source": "その人を知らず",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  },
+  {
+    "uuid": "14e07980-8021-5ed2-94f2-b95aa425f506",
+    "entry": "麕身",
+    "reading": {
+      "primary": "きんしん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

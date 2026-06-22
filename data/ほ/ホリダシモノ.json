@@ -316,10 +316,81 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:24:42.587380+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 28623,
       "frequencies": {
         "aozora": 7
+      },
+      "variant_writings": [
+        "掘出物"
+      ]
+    }
+  },
+  {
+    "uuid": "566ed109-c50e-5521-96f6-0618d0d12056",
+    "entry": "ホリダシモノ",
+    "reading": {
+      "primary": "ほりだしもの",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "思いのほかに上乗な感じであるから、これは案外ホリダシモノだと内心よろこんでいる。",
+              "citation": {
+                "source": "ニューフェイス",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――せめてヒダ人の顔がいくらかでも残っておれば、それだけでもホリダシモノだな……　私はヒダの旅にでるときバクゼンとそう考えて、そこにだけ多少の期待をもっていたのであった。",
+              "citation": {
+                "source": "飛騨の顔",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

@@ -192,6 +192,46 @@
                 "author": "吉川英治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "牢蔵玄関（出入り口に留めおく）と云って、厳しく気を惜しむことは凡人には出来ないまでも、発揮し過ぎてはもとより種子なしになって仕舞うから甚だ宜しくない。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此事逸聞らしいから、忘れぬ内に書留めおく）。",
+              "citation": {
+                "source": "蓮の花開く音を聽く事",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平凡な西洋封筒で、狩屋三郎殿と書いてあり、封もしてありませんが、中から出たのは、さっき窓から投り込まれたと同じ紙片に書いた三行、愛子は九つの鍵が手にはいるまでこっちに留めおく、ただし警察に訴えると、愛子の命はないぞＫ　こう読めるのです。",
+              "citation": {
+                "source": "九つの鍵",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "身不つつかのため、御陣中に留めおくこと相成らぬとの御叱責なれば、自決して相はてたほうが老父のよろこびと存じまする」「はははは、疑うはもっともじゃが、そち一身に関わったことではない。",
+              "citation": {
+                "source": "剣の四君子",
+                "author": "柳生石舟斎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ高氏の質子をこれへ留めおくゆえ、お身はこのまま伊吹にあって、素知らぬ顔で見ていてくれ。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "千早帖",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -215,9 +255,97 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T12:12:22.110443+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 94
+      },
+      "variant_writings": [
+        "留めおく",
+        "留置く"
+      ]
+    }
+  },
+  {
+    "uuid": "85dc6f7f-9f18-551f-a8b0-65bcff7491c3",
+    "entry": "止め置く",
+    "reading": {
+      "primary": "とめおく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（窓口に行き、音楽堂を眺め）悪しき紀念の音楽堂が、不貞の妻のために造られて、白からぬ女の霊魂を、何時まで彼処に止め置くのか。",
+              "citation": {
+                "source": "レモンの花の咲く丘へ",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、兎に角、近頃の大物で、番所へ止め置くわけにも行かず、平次、ガラツ八、勘助の三人で數寄屋橋まで送らうと言ふ時、「た、大變ツ」　町の若い者が二三人轉がるやうに飛込んで來ました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "庚申横町",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、とにかく、近頃の大物で、番所へ止め置くわけにも行かず、平次、ガラッ八、勘助の三人で、数寄屋橋まで送ろうと言う時、「た、大変ッ」　町の若い者が二三人転がるように飛込んで来ました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "庚申横町",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「作戦終了まで、あなたをここへ止め置くことが出来るし、殺す事もできますよ。",
+              "citation": {
+                "source": "くちなしの花",
+                "author": "The Slave of Silence",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 24
       }
     }
   }

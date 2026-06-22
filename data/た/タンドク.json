@@ -994,6 +994,22 @@
                 "author": "芥川龍之介",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "私達が押川春浪の小説に熱中する時、彼は大西博士の「西洋哲學史」などを耽讀してゐた。",
+              "citation": {
+                "source": "猫又先生",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し、然うした小説類を暇さへあれば耽讀して居る中に、無味乾燥な教科書類が面白くなく、親父の入れると云ふ學校にも入らず、毎日ぶら／″＼して、好きな小説に讀み耽つて二三年間と云ふもの、怠け者のやうに要領を得ずに暮した。",
+              "citation": {
+                "source": "自傳",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1028,9 +1044,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 85
+      },
+      "variant_writings": [
+        "耽讀"
+      ]
+    }
+  },
+  {
+    "uuid": "59addd1c-ff7f-554d-868a-c34411ab7ecf",
+    "entry": "タンドク",
+    "reading": {
+      "primary": "たんどく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "するとそのキズからバイキンが入って、妾はタンドクと言う病気にかかりました。",
+              "citation": {
+                "source": "とむらい機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "でもおどろいて医者にかかりましたのでその病気はまもなく治りましたが、又半年程すると、今度はサイハツタンドクと言う、先の病気とよく似た病気にかかりました。",
+              "citation": {
+                "source": "とむらい機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

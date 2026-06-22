@@ -323,10 +323,106 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:54:58.591510+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 4266,
       "frequencies": {
         "aozora": 500
+      },
+      "variant_writings": [
+        "會本",
+        "艶本"
+      ]
+    }
+  },
+  {
+    "uuid": "2c3c79f0-aa58-5165-8c1f-652466c3e89a",
+    "entry": "エホン",
+    "reading": {
+      "primary": "えほん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "◯エホンの稲垣さん来宅。",
+              "citation": {
+                "source": "海野十三敗戦日記",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子供たちのおみやげはエホン、繩とび、リンゴ（大人へ一ヶずつきっちり）岩手から送ってくれ。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四三年（昭和十八年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしこれがほしさに、その本やでエホンも買うという工合よ。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四三年（昭和十八年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "矢張いつものやうに、今持つて来たばかりのポシエホンスキイ・ヘロルド新聞も、卓の上に置いてある。",
+              "citation": {
+                "source": "板ばさみ",
+                "author": "オイゲン・チリコフ　Evgenii Nikolaevich Chirikov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "題号はポシエホンスキイ・ヘロルドと云ふのである。",
+              "citation": {
+                "source": "板ばさみ",
+                "author": "オイゲン・チリコフ　Evgenii Nikolaevich Chirikov",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

@@ -401,9 +401,80 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 70
+      },
+      "variant_writings": [
+        "拜顏"
+      ]
+    }
+  },
+  {
+    "uuid": "2d28b18e-271e-5e2c-b74f-70a248f6ea2c",
+    "entry": "肺癌",
+    "reading": {
+      "primary": "はいがん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（後略）　千葉の岩井町に百田宗治を訪ねた或る詩人は、百田はただの病ではなく肺癌だということを私に話し、退院後も本人には知らせてないが絶望だというのである。",
+              "citation": {
+                "source": "我が愛する詩人の伝記",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妻、この夜初めて、余の病症のまことは「肺癌」なることを打ち明ける。",
+              "citation": {
+                "source": "年譜",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

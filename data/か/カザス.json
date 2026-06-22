@@ -413,10 +413,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T04:13:56.456210+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 42257,
       "frequencies": {
         "aozora": 641
+      },
+      "variant_writings": [
+        "かざせる",
+        "翳せる"
+      ]
+    }
+  },
+  {
+    "uuid": "459eca43-f0b0-5814-883c-c6ed05bda6d3",
+    "entry": "挿頭す",
+    "reading": {
+      "primary": "かざす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "美しい物でもないこの夜の綿の花も、挿頭す若｜公達に引き立てられて見えた。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "竹河",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

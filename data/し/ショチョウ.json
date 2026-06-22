@@ -399,6 +399,14 @@
                 "author": "井沢衣水",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "とあって、それから、夢入家門上沙渚、　　　　天河落処長洲路、願君光明如太陽、　妾を放て、そうすれば、魚に騎し、波をって、その水中の木材よ、いで、浮べ、鰭ふって木戸に迎えよ、と睨むばかりに瞻めたのでござるそうな。",
+              "citation": {
+                "source": "春昼",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -424,11 +432,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 6287,
       "frequencies": {
         "aozora": 530
-      }
+      },
+      "variant_writings": [
+        "処長"
+      ]
     }
   },
   {
@@ -676,6 +687,93 @@
       "frequencies": {
         "aozora": 1363
       }
+    }
+  },
+  {
+    "uuid": "6bb47785-5bd4-56f0-ae23-f397fe23bf02",
+    "entry": "処長",
+    "reading": {
+      "primary": "しょちょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "とあって、それから、夢入家門上沙渚、　　　　天河落処長洲路、願君光明如太陽、　妾を放て、そうすれば、魚に騎し、波をって、その水中の木材よ、いで、浮べ、鰭ふって木戸に迎えよ、と睨むばかりに瞻めたのでござるそうな。",
+              "citation": {
+                "source": "春昼",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "魂が沙漠をさまよって歩行くようね、天河落処長洲路、あわれじゃありませんか。",
+              "citation": {
+                "source": "春昼",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一人は此の黒竜江省の督弁呉俊陞氏の第二夫人李氏、一人は此省の警務処処長（警視総監）で猶外に幾つかの要職を兼ねた中将劉得權氏の夫人馬氏である。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十七日　きのうは、午後から評論家協会の催しで、駐日弁事処長とかいう仕事をしている人で趙滉という人の芸術に現れた日支民族性という話をききに出かけました。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三九年（昭和十四年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "處長"
+      ]
     }
   }
 ]

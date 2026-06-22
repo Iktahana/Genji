@@ -239,6 +239,14 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "何か藥方でも御存じか。",
+              "citation": {
+                "source": "寒山拾得",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -263,10 +271,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T04:35:44.648136+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 38
-      }
+      },
+      "variant_writings": [
+        "藥方"
+      ]
     }
   },
   {
@@ -608,6 +619,85 @@
       "frequencies": {
         "aozora": 11
       }
+    }
+  },
+  {
+    "uuid": "1a75bf63-c797-5767-b7f1-5c623807d6f9",
+    "entry": "訳法",
+    "reading": {
+      "primary": "やくほう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "従来やり来った翻訳法で見ると、よし成功はしない乍らも、形は原文に捉っているのだから、非常にやり損うことがない。",
+              "citation": {
+                "source": "余が翻訳の標準",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で、依然旧翻訳法でやっていたが、……　併しそれは以前自分が真面目な頭で、翻訳に従事した頃のことである、近頃のは、いやもうお話しにならない。",
+              "citation": {
+                "source": "余が翻訳の標準",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又之れと全く反對の自由なる意譯法は、單に譯文として見る時は兎に角、諸子が修學の助けとして遺憾甚だ多し。",
+              "citation": {
+                "source": "アーサー王物語",
+                "author": "KING ARTHUR'S ROUND TABLE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "譯法"
+      ]
     }
   }
 ]

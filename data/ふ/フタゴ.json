@@ -319,10 +319,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T18:05:07.041059+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 9009,
       "frequencies": {
         "aozora": 204
+      },
+      "variant_writings": [
+        "ふた児",
+        "ふた子"
+      ]
+    }
+  },
+  {
+    "uuid": "7f253116-f532-5157-ab9e-87bf9b26d88f",
+    "entry": "フタゴ",
+    "reading": {
+      "primary": "ふたご",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ほかに兄弟神話はというと大ナムチとスクナヒコナが同一神の大国主をさしているらしいのが神話中の第一の大物で、次に神武天皇紀が登場人物の多くにわたって両面的に、フタゴ的である。",
+              "citation": {
+                "source": "安吾の新日本地理",
+                "author": "飛騨・高山の抹殺――中部の巻――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

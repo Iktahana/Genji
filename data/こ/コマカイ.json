@@ -489,10 +489,74 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:51:56.176455+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 3417,
       "frequencies": {
         "aozora": 2970
+      },
+      "variant_writings": [
+        "こまけえ",
+        "細けえ"
+      ]
+    }
+  },
+  {
+    "uuid": "9d5a4eff-cc4e-5876-8d9a-b9bd1e8e0e27",
+    "entry": "コマカイ",
+    "reading": {
+      "primary": "こまかい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "寺島の母が着いた時は、真実に無いと言っても無い……葉書一枚買うことも出来ませんでしたよ、母が、国へ安着の報知を出しとくれ、ちょいとコマカイのが無いからお前の方で立替えといとくれッて、言いましても、それを買いに行くことが出来ません。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
       }
     }
   }

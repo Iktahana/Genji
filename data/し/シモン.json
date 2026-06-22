@@ -1501,5 +1501,81 @@
         "aozora": 63
       }
     }
+  },
+  {
+    "uuid": "06fb105a-8543-550d-93dd-6a78b1918abc",
+    "entry": "死門",
+    "reading": {
+      "primary": "しもん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "道に大なる鳥あり、二つの羽折って既に死門に入る。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大鳥大王に申さく、日来附き奉りたりつる梵士后を盗み奉りて逃れ侍りつるを、大王還りたもうまでと思いて防ぎ侍りつれども、梵士竜王の姿を現じてこの羽を蹴折りたりといいてついに死門に入りぬ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると、ややおくれて、矢来の死門から三人の縄つきがひかれてきた。",
+              "citation": {
+                "source": "神州天馬侠",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

@@ -79,5 +79,81 @@
         "aozora": 11
       }
     }
+  },
+  {
+    "uuid": "c6719da1-3001-50a2-b0f4-2c17eb8e2f35",
+    "entry": "病像",
+    "reading": {
+      "primary": "びょうぞう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ある症状はふつう互いに関連を持っていて現在は「症状群」と呼んでいるものを形成し、これらの症状群を幾つもの病例について研究することによって病像の得られることが明らかになっていた。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし病像は厳密には理解されていなかった。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とくに明らかな病像がそれまで存在しない分野および病理解剖学がまだ不明瞭な分野であった。",
+              "citation": {
+                "source": "偉大な医師たち",
+                "author": "伝記による医学史",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      }
+    }
   }
 ]

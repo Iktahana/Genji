@@ -247,6 +247,14 @@
                 "author": "第三分冊",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "――一度蕉園さんが住んで居た、おまじなひ横町へ入らうとする、小さな道具屋の店に、火鉢、塗箱、茶碗、花活、盆、鬱金の切の上に古い茶碗、柱にふツさりと白い拂子などの掛つた中に、掛字が四五幅。",
+              "citation": {
+                "source": "松の葉",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -267,7 +275,70 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:59:50.853695+00:00Z"
+      "updated_at": "2026-06-22T05:38:08Z",
+      "variant_writings": [
+        "掛字"
+      ]
+    }
+  },
+  {
+    "uuid": "c2d7cf75-05ff-57da-ad99-6b8fac5c5b2a",
+    "entry": "カケジ",
+    "reading": {
+      "primary": "かけじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日本橋の店も土地もそッくりタンポにとられているから仕様がないが、カケジや焼物なんぞに何かないかな」　ちゃんとタンポまで調べあげている。",
+              "citation": {
+                "source": "明治開化　安吾捕物",
+                "author": "その十九　乞食男爵",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      }
     }
   }
 ]

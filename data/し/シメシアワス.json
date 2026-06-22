@@ -55,7 +55,24 @@
               }
             }
           ],
-          "literary": []
+          "literary": [
+            {
+              "text": "耳こすりや、眼まぜでしめし合わすのではない。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "恋人たちは互いに眼で怒ったり、仲直りしたり、求めたり、感謝したり、約束したり、何から何までしめし合わす。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            }
+          ]
         }
       }
     ],
@@ -76,10 +93,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:36:26.177930+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 2
-      }
+      },
+      "variant_writings": [
+        "しめし合わす"
+      ]
     }
   }
 ]

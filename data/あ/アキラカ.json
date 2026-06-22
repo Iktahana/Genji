@@ -365,10 +365,98 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:10:21.297853+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 768,
       "frequencies": {
         "aozora": 8661
+      },
+      "variant_writings": [
+        "明きらか",
+        "燎か"
+      ]
+    }
+  },
+  {
+    "uuid": "77f76949-8dea-548a-a534-07e84eb6b55b",
+    "entry": "アキラカ",
+    "reading": {
+      "primary": "あきらか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "男兄弟の五人目だから五の字がついてるが、炳はアキラカというような意味のほかにこれ一字でヒノエウマを表している字でもある。",
+              "citation": {
+                "source": "ヒノエウマの話",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて、結句の「清明己曾」をアキラケクコソと訓んだが、これに異論を唱える人は、万葉時代には月光の形容にキヨシ、サヤケシが用いられ、アカシ、アキラカ、アキラケシの類は絶対に使わぬというのである。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿加之、佐也加爾在、佐也介之、明介志（阿支良介之）等とあり、類聚名義抄に、明　アキラカナリ、ヒカル等とあるのを見ても、サヤケシ、アキラケシの流用を認め得るのである。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キヨラ・ウマラは南島にまで共通した、古い形容詞の常の形であったけれども、別に活用の目途を拡大したヤスラカ・アキラカなどの、今も決して衰えておらぬのを見ると、カ行の導入のその後さらに著しいものがあったものとも推測し得られる。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
       }
     }
   }

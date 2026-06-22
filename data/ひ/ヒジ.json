@@ -319,11 +319,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:21:33.932328+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 13034,
       "frequencies": {
         "aozora": 819
-      }
+      },
+      "variant_writings": [
+        "ヒジ",
+        "肱",
+        "臂"
+      ]
     }
   },
   {
@@ -649,11 +654,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 22364,
       "frequencies": {
         "aozora": 185
-      }
+      },
+      "variant_writings": [
+        "祕事"
+      ]
     }
   },
   {
@@ -1394,6 +1402,154 @@
       "freq_rank": 22364,
       "frequencies": {
         "aozora": 14
+      }
+    }
+  },
+  {
+    "uuid": "da4eee0d-ffec-5b37-9220-d59dc29352ef",
+    "entry": "飛耳",
+    "reading": {
+      "primary": "ひじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ここにおいて飛耳長目の徒は忽ちわが身辺を揣摩して艶事あるものとなした。",
+              "citation": {
+                "source": "十日の菊",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殊に新奇を好んで飛耳張目する俳諧者流の手にかからぬはずはなかろう。",
+              "citation": {
+                "source": "夢は呼び交す",
+                "author": "――黙子覚書――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――先に黄信が劉高の手に乗って宋江と花栄を檻車に封じたことも、また何から何まですべての予察は、みな彼ら特有なこの“飛耳張目”の探りによっていたのである。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もちろん、彼らはその手先を使って、たえず江を渡らせ、その飛耳張目を八方へくばらせてもいた。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "飛耳張目の稼業がらとはいえ、どうしてそこまで仔細に釘勘の探りが早くついていたかといえば、手懸りは例の切支丹屋敷――官庫荒しの一件が逐一町奉行所の手へ移されたがためでした。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "飛耳張目　江の島から藤沢の宿を駕で通して、大山街道の一｜立場、厚木の町へ這入ッたふたりの侍があります。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この間うちから「目ざまし草」の箱胴乱をかけて、しきりと秦野屋に出入りし、折あるごとに九兵衛の手をへて、奥へ密書をもたらして来た者たちは、皆これ、日本左衛門のさしがねをうけて何物かを探しあるく、彼の視る目かぐ鼻ともいうべき役者――飛耳張目の報告なのであります。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いや、暗に巣を張る、多くの手下の飛耳張目が、雲をつかむような迷宮のうちから、その手がかりをだんだんと積層してきて、今では、そのありかがこことまでは分らないが、ある地域の範囲内に限定されて来ております。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おれには、関東一円、江戸の内外、いたるところに飛耳張目の手下があるから、きッとどいつか見つけるだろう。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「おう」「秦野屋さんで」　逢うのはみんな日本左衛門の手下、この甲府に入りこんで、飛耳張目となって町をうろついている者達です。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、清盛入道の飛耳張目――六波羅童と呼んで市人に恐れられている赤い直垂を着た十四、五歳の少年らが、なにか、平相国の悪口でも演じているのではないかと、こましゃくれた眼を、きょろきょろさせ、手に鞭を持って、群れの蔭からのぞいている。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "侏儒はやや怖るるような目色をしたが、「はい、私は阿波の者でござります」と悪びれずに――「ご承知でもございましょうが、原士の長、龍耳老人とおっしゃる方の飛耳張目に使われまする者で、永年の間、私のいいつけられていた役目は、関屋孫兵衛の頭巾を監視することでございました。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "鳴門の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 13
       }
     }
   }

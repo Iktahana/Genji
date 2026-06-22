@@ -320,10 +320,69 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T03:19:50.365817+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 26793,
       "frequencies": {
         "aozora": 312
+      },
+      "variant_writings": [
+        "かいとれる",
+        "買いとる",
+        "買い取り",
+        "買い取れる",
+        "買取る",
+        "買取れる"
+      ]
+    }
+  },
+  {
+    "uuid": "5eb17eac-441d-5dd9-9765-62d0d3367f5a",
+    "entry": "掻い取る",
+    "reading": {
+      "primary": "かいとる",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-ラ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
       }
     }
   }

@@ -288,6 +288,14 @@
                 "author": "――四半自叙伝――",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "僕は先ず、お前の病室や裏庭のよく見晴らせる松林の中に入って、そこから双眼鏡で様子を窺った。",
+              "citation": {
+                "source": "勝敗",
+                "author": "渡辺温",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -312,9 +320,90 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T01:46:16.975577+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 107
+      },
+      "variant_writings": [
+        "みはらせる",
+        "見晴せる",
+        "見晴らせる"
+      ]
+    }
+  },
+  {
+    "uuid": "2ebd917e-5e23-5ce4-b0ab-5937c0eed98d",
+    "entry": "見張らす",
+    "reading": {
+      "primary": "みはらす",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それを選び取って食べながら窓から見張らす東京郊外の田園の景色、蝉が丘を揺がすばかりに鳴立てゝおります。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこへ乗って四方を見張らす。",
+              "citation": {
+                "source": "佐竹の原へ大仏をこしらえたはなし",
+                "author": "高村光雲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから内部の階段を曲がりながら登って行くと、頭の中になって広さが二坪位、ここにはその目の孔、耳の孔、口の孔、並びに後頭に窓があって、そこから人間が顔を出して四方を見張らすと江戸中が一目に見える。",
+              "citation": {
+                "source": "佐竹の原へ大仏をこしらえたはなし",
+                "author": "高村光雲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 9
       }
     }
   }

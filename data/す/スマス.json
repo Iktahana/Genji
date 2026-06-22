@@ -882,5 +882,81 @@
         "aozora": 1788
       }
     }
+  },
+  {
+    "uuid": "a20f46b8-6b43-5b6f-ab49-f25ec5d04eaf",
+    "entry": "住ます",
+    "reading": {
+      "primary": "すます",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "五段-サ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そしてそれを機会にひとまず吉田も吉田の母も弟も、それまで外で家を持っていた吉田の兄の家の世話になることになり、その兄がそれまで住んでいた町から少し離れた田舎に、病人を住ますに都合のいい離れ家のあるいい家が見つかったのでそこへ引っ越したのがまだ三ヶ月ほど前であった。",
+              "citation": {
+                "source": "のんきな患者",
+                "author": "梶井基次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "姫君を住ます所をどこにしようかと源氏は考えたが、南の一廓はあいた御殿もない。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "玉鬘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "繁り生ふ蓬はかたみにからみあひ、　　　　毒のをろちを住ますらめ。",
+              "citation": {
+                "source": "北村透谷詩集",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
   }
 ]

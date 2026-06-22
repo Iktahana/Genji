@@ -322,10 +322,77 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T01:24:26.037381+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "frequencies": {
         "aozora": 289
+      },
+      "variant_writings": [
+        "おくり届ける",
+        "送りとどける"
+      ]
+    }
+  },
+  {
+    "uuid": "2d9ade50-d3fe-5f75-b73a-b18170938bbc",
+    "entry": "贈り届ける",
+    "reading": {
+      "primary": "おくりとどける",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "動詞"
+      ],
+      "ctype": "下一段-カ行",
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "時をえた浪士の「非常手段」は、文久二年師走以来の暦をくってみるだけでも、品川｜御殿山英国公使館の焼打、廃帝故事を調査したといわれた塙次郎の暗殺、京都ではもうひとつあくどくなって、「天誅」の犠牲の首や耳や手やを書状に添えて政敵のもとへ贈り届ける。",
+              "citation": {
+                "source": "新撰組",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      },
+      "variant_writings": [
+        "贈りとどける"
+      ]
     }
   }
 ]

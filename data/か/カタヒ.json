@@ -139,5 +139,73 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-06-02T04:44:10.641307+00:00Z"
     }
+  },
+  {
+    "uuid": "61f39faf-91c6-55b7-9506-d3a820b7cb77",
+    "entry": "カタヒ",
+    "reading": {
+      "primary": "かたひ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それを非人・カタヒ・ヱタなど、人まじろひもせぬ同じ様の者なれば、まぎらかして非人の名をヱタにつけたるなり。",
+              "citation": {
+                "source": "旃陀羅考",
+                "author": "日蓮聖人はエタの子なりという事",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其れを非人・カタヒ・ヱタなど、人まじろひもせぬおなじさまのものなれば、まぎらかして非人の名をヱタにつけたる也。",
+              "citation": {
+                "source": "濫僧考",
+                "author": "河原者・坂の者・宿の者・非人法師",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      }
+    }
   }
 ]

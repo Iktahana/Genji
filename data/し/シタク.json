@@ -319,11 +319,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:06:27.058287+00:00Z",
+      "updated_at": "2026-06-22T05:38:08Z",
       "freq_rank": 14515,
       "frequencies": {
         "aozora": 3873
-      }
+      },
+      "variant_writings": [
+        "仕度"
+      ]
     }
   },
   {
@@ -647,6 +650,98 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 149
+      }
+    }
+  },
+  {
+    "uuid": "beab2fd3-5652-52c2-8825-036a597ac790",
+    "entry": "シタク",
+    "reading": {
+      "primary": "したく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "○オクツタ」ユイノウタノム」ケツコンシキノシタクセヨ」アスペキンタツ」オオスミチユウタロウ　同時に電報｜為替で百円送られて来たのである。",
+              "citation": {
+                "source": "佳日",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」トプリプリシテ、オダイドコロヘオリテユキマシタガ、マダ、オシタクガデキテヰマセン。",
+              "citation": {
+                "source": "ネコ　ノ　オバアサン",
+                "author": "村山籌子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソコデソレデハ　ユカウトオホイソギデシタクシテ、ジドウシヤニノリマシタ。",
+              "citation": {
+                "source": "ユメノリヨカウ",
+                "author": "岡本歸一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "オジサンワ　言イマシタ支那ワ　ホントワ俺達ノ敵デワ無イヨシカシ　出征シナンナラン行キタク無イノニ行カンナラン殺シタク無イノニ殺サンナランゾータンノゴトホントノ敵ハ支那ジャナカ殺サンナランノワ　外国ニワ居ランソイデモ出征セニャナラン支那兵ヲ殺サンナランゾータンノゴト。",
+              "citation": {
+                "source": "山東へやった手紙",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長イ／＼人生モコレデイヨ／＼終ルノカナト、イクラカホットシタクライダッタ。",
+              "citation": {
+                "source": "瘋癲老人日記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
       }
     }
   }
