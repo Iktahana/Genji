@@ -129,3 +129,13 @@ docker compose up -d --build
 
 `http://localhost:8080` で API、`http://localhost:8080/docs` で仕様を閲覧できます。
 詳細なビルドオプション（`GENJI_DB_SOURCE` や Redis 併用）は [`api/README.md`](./api/README.md) を参照してください。
+
+
+<div align="right">
+  <a href="https://www.art.nihon-u.ac.jp/education/department/literature/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illusions-lab/.github/refs/heads/main/images/NUArt_colored.svg">
+      <img src="https://raw.githubusercontent.com/illusions-lab/.github/refs/heads/main/images/NUArt.svg" height="64" alt="日本大学芸術学部">
+    </picture>
+  </a>
+</div>
