@@ -52,6 +52,7 @@ def create_metadata(conn: sqlite3.Connection, entry_count: int) -> None:
         ("repository", repo),
         ("build_date", build_date),
         ("entry_count", str(entry_count)),
+        ("schema_version", "2"),
     ]
     conn.executemany(
         "INSERT OR REPLACE INTO _metadata (key, value) VALUES (?, ?)", rows
@@ -98,7 +99,10 @@ def create_schema(conn: sqlite3.Connection) -> None:
             inflections     TEXT,       -- JSON
             relations       TEXT,       -- JSON
             meta            TEXT,       -- JSON
-            raw_json        TEXT NOT NULL
+            raw_json        TEXT NOT NULL,
+            freq_rank       INTEGER,
+            needs_gloss     INTEGER NOT NULL DEFAULT 0,
+            lookup_register TEXT
         );
 
         CREATE TABLE IF NOT EXISTS definitions (
@@ -116,8 +120,15 @@ def create_schema(conn: sqlite3.Connection) -> None:
         );
 
         CREATE INDEX IF NOT EXISTS idx_entries_entry ON entries(entry);
+        CREATE INDEX IF NOT EXISTS idx_entries_entry_nocase ON entries(entry COLLATE NOCASE);
         CREATE INDEX IF NOT EXISTS idx_entries_reading ON entries(reading_primary);
         CREATE INDEX IF NOT EXISTS idx_definitions_uuid ON definitions(entry_uuid);
+        CREATE TABLE IF NOT EXISTS variant_lookup (
+            variant TEXT NOT NULL,
+            entry TEXT NOT NULL,
+            entry_uuid TEXT NOT NULL
+        );
+        CREATE INDEX IF NOT EXISTS idx_variant_lookup_variant ON variant_lookup(variant);
     """)
 
 
@@ -128,8 +139,9 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
     conn.execute(
         """INSERT OR REPLACE INTO entries
            (uuid, entry, reading_primary, reading_alternatives, is_heteronym,
-            pos, ctype, inflections, relations, meta, raw_json)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            pos, ctype, inflections, relations, meta, raw_json,
+            freq_rank, needs_gloss, lookup_register)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (
             item.get("uuid"),
             item.get("entry"),
@@ -142,7 +154,16 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
             json.dumps(item.get("relations", {}), ensure_ascii=False),
             json.dumps(item.get("meta", {}), ensure_ascii=False),
             json.dumps(item, ensure_ascii=False),
+            item.get("meta", {}).get("freq_rank"),
+            1 if item.get("meta", {}).get("needs_gloss") else 0,
+            next((d.get("register") for d in item.get("definitions", []) if d.get("register")), None),
         ),
+    )
+
+    conn.execute("DELETE FROM variant_lookup WHERE entry_uuid = ?", (item.get("uuid"),))
+    conn.executemany(
+        "INSERT INTO variant_lookup(variant, entry, entry_uuid) VALUES (?, ?, ?)",
+        [(variant, item.get("entry"), item.get("uuid")) for variant in item.get("meta", {}).get("variant_writings", [])],
     )
 
     for defn in item.get("definitions", []):
@@ -178,6 +199,7 @@ def main() -> None:
     print(f"Found {len(json_files)} JSON files")
 
     conn = sqlite3.connect(str(output_path))
+    conn.execute("PRAGMA foreign_keys=ON")
     conn.execute("PRAGMA journal_mode=WAL")
     conn.execute("PRAGMA synchronous=OFF")
     create_schema(conn)
@@ -206,6 +228,18 @@ def main() -> None:
     conn.execute("COMMIT")
     create_metadata(conn, count)
     create_fts(conn)
+    conn.execute("PRAGMA user_version = 2")
+    conn.execute("ANALYZE")
+    if conn.execute("PRAGMA integrity_check").fetchone()[0] != "ok":
+        raise RuntimeError("SQLite integrity_check failed")
+    if conn.execute("PRAGMA foreign_key_check").fetchone() is not None:
+        raise RuntimeError("SQLite foreign_key_check failed")
+    plan = " ".join(row[3] for row in conn.execute(
+        "EXPLAIN QUERY PLAN SELECT entry FROM entries WHERE entry >= ? AND entry < ?",
+        ("語", "語\U0010ffff"),
+    ))
+    if "SCAN entries" in plan:
+        raise RuntimeError(f"prefix query lost its index: {plan}")
     conn.execute("PRAGMA journal_mode=DELETE")
     conn.execute("VACUUM")
     conn.close()
