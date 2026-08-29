@@ -13,6 +13,10 @@ type Config struct {
 	DBPath string
 	// Port は HTTP リッスンポート。
 	Port string
+	// DBMaxOpenConns / DBMaxIdleConns は SQLite 接続プールの上限。
+	// 小さいインスタンスで接続ごとの SQLite ページキャッシュが増え過ぎるのを防ぐ。
+	DBMaxOpenConns int
+	DBMaxIdleConns int
 
 	// RedisAddr が空ならキャッシュ・熱度集計とも無効（Noop）。
 	RedisAddr     string
@@ -35,6 +39,8 @@ func Load() Config {
 	return Config{
 		DBPath:          getenv("GENJI_DB_PATH", "genji.db"),
 		Port:            getenv("PORT", "8080"),
+		DBMaxOpenConns:  getenvInt("GENJI_DB_MAX_OPEN_CONNS", 4),
+		DBMaxIdleConns:  getenvInt("GENJI_DB_MAX_IDLE_CONNS", 4),
 		RedisAddr:       os.Getenv("GENJI_REDIS_ADDR"),
 		RedisPassword:   os.Getenv("GENJI_REDIS_PASSWORD"),
 		RedisDB:         getenvInt("GENJI_REDIS_DB", 0),

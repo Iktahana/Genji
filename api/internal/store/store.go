@@ -8,6 +8,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"math/rand/v2"
 	"strings"
 
 	"github.com/Iktahana/Genji/api/internal/api"
@@ -19,13 +20,15 @@ var ErrNotFound = errors.New("not found")
 
 // Store は DB 接続をラップする。
 type Store struct {
-	db *sql.DB
+	db          *sql.DB
+	randomUUIDs []string
 }
 
 // Open は SQLite DB を read-only で開く。
 func Open(path string) (*Store, error) {
-	// mode=ro で read-only、immutable=1 は使わない（更新検知のため通常 ro）。
-	dsn := fmt.Sprintf("file:%s?mode=ro&_query_only=1", path)
+	// DB はイメージに内蔵され、更新時はコンテナごと入れ替わるため immutable=1 が安全。
+	// SQLite のロック・変更検出を省ける read-only 最適化を有効にする。
+	dsn := fmt.Sprintf("file:%s?mode=ro&immutable=1&_query_only=1", path)
 	db, err := sql.Open("sqlite3", dsn)
 	if err != nil {
 		return nil, err
@@ -34,7 +37,50 @@ func Open(path string) (*Store, error) {
 		_ = db.Close()
 		return nil, err
 	}
-	return &Store{db: db}, nil
+	s := &Store{db: db}
+	if err := s.loadRandomUUIDs(); err != nil {
+		_ = db.Close()
+		return nil, err
+	}
+	return s, nil
+}
+
+// SetPoolLimits は SQLite 接続プールを小さなインスタンス向けに制限する。
+// 0 以下は database/sql の既定動作を避け、少なくとも 1 接続に丸める。
+func (s *Store) SetPoolLimits(maxOpen, maxIdle int) {
+	if maxOpen < 1 {
+		maxOpen = 1
+	}
+	if maxIdle < 1 {
+		maxIdle = 1
+	}
+	if maxIdle > maxOpen {
+		maxIdle = maxOpen
+	}
+	s.db.SetMaxOpenConns(maxOpen)
+	s.db.SetMaxIdleConns(maxIdle)
+}
+
+func (s *Store) loadRandomUUIDs() error {
+	rows, err := s.db.Query(`SELECT uuid FROM entries`)
+	if err != nil {
+		return err
+	}
+	defer rows.Close()
+
+	ids := make([]string, 0, 220000)
+	for rows.Next() {
+		var uuid string
+		if err := rows.Scan(&uuid); err != nil {
+			return err
+		}
+		ids = append(ids, uuid)
+	}
+	if err := rows.Err(); err != nil {
+		return err
+	}
+	s.randomUUIDs = ids
+	return nil
 }
 
 // Close は DB 接続を閉じる。
@@ -95,27 +141,61 @@ func (s *Store) lookup(query, arg string) ([]api.Entry, error) {
 	return entries, rows.Err()
 }
 
-// Random はランダムなエントリを count 件取得する。
+// Random は起動時に読み込んだ UUID から抽選してエントリを取得する。
+// ORDER BY RANDOM() の全表走査・ソートを避けるため、約21.5万語でも O(count) で動作する。
 func (s *Store) Random(count int) ([]api.Entry, error) {
-	rows, err := s.db.Query(`SELECT raw_json FROM entries ORDER BY RANDOM() LIMIT ?`, count)
+	if count <= 0 || len(s.randomUUIDs) == 0 {
+		return []api.Entry{}, nil
+	}
+	if count > len(s.randomUUIDs) {
+		count = len(s.randomUUIDs)
+	}
+
+	selected := make([]string, 0, count)
+	seen := make(map[int]struct{}, count)
+	for len(selected) < count {
+		i := rand.IntN(len(s.randomUUIDs))
+		if _, ok := seen[i]; ok {
+			continue
+		}
+		seen[i] = struct{}{}
+		selected = append(selected, s.randomUUIDs[i])
+	}
+
+	placeholders := strings.TrimSuffix(strings.Repeat("?,", len(selected)), ",")
+	args := make([]any, len(selected))
+	for i, uuid := range selected {
+		args[i] = uuid
+	}
+	rows, err := s.db.Query(`SELECT uuid, raw_json FROM entries WHERE uuid IN (`+placeholders+`)`, args...)
 	if err != nil {
 		return nil, err
 	}
 	defer rows.Close()
 
-	entries := make([]api.Entry, 0, count)
+	byUUID := make(map[string]api.Entry, count)
 	for rows.Next() {
-		var raw string
-		if err := rows.Scan(&raw); err != nil {
+		var uuid, raw string
+		if err := rows.Scan(&uuid, &raw); err != nil {
 			return nil, err
 		}
 		e, err := entryFromRawJSON(raw)
 		if err != nil {
 			return nil, err
 		}
-		entries = append(entries, e)
+		byUUID[uuid] = e
 	}
-	return entries, rows.Err()
+	if err := rows.Err(); err != nil {
+		return nil, err
+	}
+
+	entries := make([]api.Entry, 0, count)
+	for _, uuid := range selected {
+		if e, ok := byUUID[uuid]; ok {
+			entries = append(entries, e)
+		}
+	}
+	return entries, nil
 }
 
 // SearchEntries は見出し語・読みを FTS5 で検索する。

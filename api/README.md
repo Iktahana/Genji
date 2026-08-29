@@ -62,6 +62,8 @@ API 仕様の全体はサーバー起動後にブラウザで `http://localhost:
 |---|---|---|
 | `GENJI_DB_PATH` | `genji.db` | SQLite DB へのパス（Docker イメージ内は `/data/genji.db`） |
 | `PORT` | `8080` | HTTP リッスンポート |
+| `GENJI_DB_MAX_OPEN_CONNS` | `4` | SQLite 接続プールの最大接続数 |
+| `GENJI_DB_MAX_IDLE_CONNS` | `4` | SQLite 接続プールで維持するアイドル接続数 |
 | `GENJI_REDIS_ADDR` | （空） | Redis アドレス（例 `localhost:6379`）。**空ならキャッシュ無効** |
 | `GENJI_REDIS_PASSWORD` | （空） | Redis パスワード |
 | `GENJI_REDIS_DB` | `0` | Redis DB 番号 |

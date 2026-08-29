@@ -30,6 +30,7 @@ func main() {
 		log.Fatalf("failed to open database %q: %v", cfg.DBPath, err)
 	}
 	defer st.Close()
+	st.SetPoolLimits(cfg.DBMaxOpenConns, cfg.DBMaxIdleConns)
 	log.Printf("database opened: %s", cfg.DBPath)
 
 	// Redis クライアントは一度だけ生成し cache / heat で共有する（nil = 無効）。

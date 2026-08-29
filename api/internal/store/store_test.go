@@ -3,6 +3,7 @@ package store
 import (
 	"database/sql"
 	"path/filepath"
+	"strings"
 	"testing"
 
 	_ "github.com/mattn/go-sqlite3"
@@ -172,6 +173,40 @@ func TestRandom(t *testing.T) {
 	}
 	if len(entries) != 1 { // テスト DB には1件のみ
 		t.Fatalf("got %d entries, want 1", len(entries))
+	}
+}
+
+func TestRandomReturnsDistinctEntries(t *testing.T) {
+	path := buildTestDB(t)
+	db, err := sql.Open("sqlite3", path)
+	if err != nil {
+		t.Fatalf("open writable test DB: %v", err)
+	}
+	secondRaw := strings.Replace(sampleRawJSON, "11111111-1111-1111-1111-111111111111", "22222222-2222-2222-2222-222222222222", 1)
+	if _, err := db.Exec(
+		`INSERT INTO entries (uuid, entry, reading_primary, pos, raw_json) VALUES (?, ?, ?, ?, ?)`,
+		"22222222-2222-2222-2222-222222222222", "雨", "あめ", `["名詞"]`, secondRaw,
+	); err != nil {
+		t.Fatalf("insert second entry: %v", err)
+	}
+	if err := db.Close(); err != nil {
+		t.Fatalf("close writable test DB: %v", err)
+	}
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("open store: %v", err)
+	}
+	t.Cleanup(func() { s.Close() })
+
+	entries, err := s.Random(2)
+	if err != nil {
+		t.Fatalf("Random(2): %v", err)
+	}
+	if len(entries) != 2 {
+		t.Fatalf("got %d entries, want 2", len(entries))
+	}
+	if entries[0].Uuid == entries[1].Uuid {
+		t.Errorf("random entries should be distinct: %+v", entries)
 	}
 }
 
