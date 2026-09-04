@@ -17,93 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "rudder",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "船の方向を制御するラダーが壊れてしまい、航海が困難になった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "飛行機のラダーを操作して、機体を旋回させた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "強風の中、船長は必死にラダーを握り、船の向きを保とうとした。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "わたしゃほんとうにそんな名前って、ついぞ聞いたこともありませんよ、ワラダートとか、ワルーフとでもいうのならまだしも、トリフィーリイだのワラハーシイだなんて！",
-              "citation": {
-                "source": "外套",
-                "author": "ニコライ・ゴーゴリ",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "舵"
-      ],
-      "antonyms": [],
-      "related": [
-        "船舶",
-        "操舵",
-        "航海"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T07:22:03.454485+00:00Z"
-    }
-  },
-  {
-    "uuid": "b127cc1f-b7cb-5ddb-b169-6a938e0bf477",
-    "entry": "ラダー",
-    "reading": {
-      "primary": "ラダー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "ladder",
         "register": "standard",
         "nuance": null,
@@ -196,19 +109,75 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "rudder",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "船の方向を制御するラダーが壊れてしまい、航海が困難になった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "飛行機のラダーを操作して、機体を旋回させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "強風の中、船長は必死にラダーを握り、船の向きを保とうとした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "わたしゃほんとうにそんな名前って、ついぞ聞いたこともありませんよ、ワラダートとか、ワルーフとでもいうのならまだしも、トリフィーリイだのワラハーシイだなんて！",
+              "citation": {
+                "source": "外套",
+                "author": "ニコライ・ゴーゴリ",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
         "梯子",
-        "はしご"
+        "はしご",
+        "舵"
       ],
       "antonyms": [],
       "related": [
         "PLC",
         "プログラミング",
-        "自動制御"
+        "自動制御",
+        "船舶",
+        "操舵",
+        "航海"
       ]
     },
     "meta": {

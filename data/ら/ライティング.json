@@ -282,51 +282,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "照明",
-        "灯火"
-      ],
-      "antonyms": [
-        "消灯"
-      ],
-      "related": [
-        "電灯",
-        "光",
-        "照度"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T07:06:58.481673+00:00Z",
-      "freq_rank": 18036,
-      "frequencies": {
-        "aozora": 30
-      }
-    }
-  },
-  {
-    "uuid": "fa8c08b7-fe45-58d8-9697-c3028d71a6eb",
-    "entry": "ライティング",
-    "reading": {
-      "primary": "ライティング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "writing",
         "register": "standard",
         "nuance": null,
@@ -597,11 +555,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "照明",
+        "灯火",
         "執筆",
         "著述"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "消灯"
+      ],
       "related": [
+        "電灯",
+        "光",
+        "照度",
         "記述",
         "作成",
         "著作"
@@ -610,7 +575,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T07:06:58.481673+00:00Z",
       "freq_rank": 18036,
       "frequencies": {
         "aozora": 30

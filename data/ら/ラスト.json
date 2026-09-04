@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -341,50 +342,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "最終"
-      ],
-      "antonyms": [
-        "最初"
-      ],
-      "related": [
-        "終わり",
-        "末尾",
-        "完了"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T07:21:01.719418+00:00Z",
-      "freq_rank": 4319,
-      "frequencies": {
-        "aozora": 63
-      }
-    }
-  },
-  {
-    "uuid": "ac42843f-11ce-5a86-9f7d-76ebe990123d",
-    "entry": "ラスト",
-    "reading": {
-      "primary": "ラスト",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "rust",
         "register": "standard",
         "nuance": null,
@@ -670,9 +630,16 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "最終"
+      ],
+      "antonyms": [
+        "最初"
+      ],
       "related": [
+        "終わり",
+        "末尾",
+        "完了",
         "酸化",
         "金属",
         "腐食"
@@ -681,7 +648,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-05T07:21:01.719418+00:00Z",
       "freq_rank": 4319,
       "frequencies": {
         "aozora": 63

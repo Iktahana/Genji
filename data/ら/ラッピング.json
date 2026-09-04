@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -124,53 +126,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "包装",
-        "巻く"
-      ],
-      "antonyms": [],
-      "related": [
-        "ラップ",
-        "装飾",
-        "プレゼント",
-        "包む",
-        "贈答"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T07:24:30.254663+00:00Z",
-      "freq_rank": 26123,
-      "frequencies": {
-        "aozora": 4
-      }
-    }
-  },
-  {
-    "uuid": "32d8137d-63fd-5a1d-a7ec-8c04500ee1c9",
-    "entry": "ラッピング",
-    "reading": {
-      "primary": "ラッピング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "lapping (i.e. grinding, polishing)",
         "register": "standard",
         "nuance": null,
@@ -281,11 +239,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "包装",
+        "巻く",
         "研磨",
         "ラップ加工"
       ],
       "antonyms": [],
       "related": [
+        "ラップ",
+        "装飾",
+        "プレゼント",
+        "包む",
+        "贈答",
         "加工",
         "仕上げ",
         "研ぐ",
@@ -295,7 +260,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T07:24:30.254663+00:00Z",
       "freq_rank": 26123,
       "frequencies": {
         "aozora": 4
