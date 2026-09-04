@@ -602,53 +602,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "北風",
-        "強風",
-        "寒風"
-      ],
-      "antonyms": [
-        "そよ風",
-        "微風"
-      ],
-      "related": [
-        "風",
-        "気象",
-        "天候"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 18351,
-      "frequencies": {
-        "aozora": 91
-      }
-    }
-  },
-  {
-    "uuid": "6588aadc-ed52-5862-b736-e0ffa324f43e",
-    "entry": "ボラ",
-    "reading": {
-      "primary": "ボラ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "volatility (esp. of a financial market)",
         "register": "standard",
         "nuance": null,
@@ -871,14 +827,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "北風",
+        "強風",
+        "寒風",
         "変動性",
         "不安定性"
       ],
       "antonyms": [
+        "そよ風",
+        "微風",
         "安定性",
         "固定"
       ],
       "related": [
+        "風",
+        "気象",
+        "天候",
         "金融",
         "市場",
         "リスク"

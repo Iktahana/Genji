@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -300,50 +302,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "加熱",
-        "沸騰"
-      ],
-      "antonyms": [
-        "冷却"
-      ],
-      "related": [
-        "熱",
-        "液体"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:43:57.229824+00:00Z",
-      "freq_rank": 36038,
-      "frequencies": {
-        "aozora": 104
-      }
-    }
-  },
-  {
-    "uuid": "d4602252-9e99-5838-ad36-767a60a5ea22",
-    "entry": "ボイル",
-    "reading": {
-      "primary": "ボイル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "voile (type of fabric)",
         "register": "standard",
         "nuance": null,
@@ -629,9 +590,16 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "加熱",
+        "沸騰"
+      ],
+      "antonyms": [
+        "冷却"
+      ],
       "related": [
+        "熱",
+        "液体",
         "生地",
         "綿",
         "織物"
@@ -640,7 +608,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T22:43:57.229824+00:00Z",
       "freq_rank": 36038,
       "frequencies": {
         "aozora": 104

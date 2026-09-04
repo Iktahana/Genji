@@ -202,44 +202,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "分量"
-      ],
-      "antonyms": [],
-      "related": [
-        "食事",
-        "栄養",
-        "量"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T23:39:17.501135+00:00Z"
-    }
-  },
-  {
-    "uuid": "44492d6f-dff7-5d37-ac15-3dfdbfd41414",
-    "entry": "ポーション",
-    "reading": {
-      "primary": "ポーション",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "potion",
         "register": "standard",
         "nuance": null,
@@ -429,9 +394,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "分量"
+      ],
       "antonyms": [],
       "related": [
+        "食事",
+        "栄養",
+        "量",
         "薬",
         "ゲーム",
         "魔法"
@@ -440,7 +410,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T23:39:17.501135+00:00Z"
     }
   }
 ]

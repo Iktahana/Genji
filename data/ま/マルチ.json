@@ -10,10 +10,15 @@
     "grammar": {
       "pos": [
         "接頭辞",
-        "形容動詞"
+        "形容動詞",
+        "名詞",
+        "動詞-サ変",
+        "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -385,52 +390,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "複数",
-        "多数"
-      ],
-      "antonyms": [
-        "シングル",
-        "単一"
-      ],
-      "related": [
-        "複合"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T00:39:11.840235+00:00Z",
-      "freq_rank": 6378,
-      "frequencies": {
-        "aozora": 89
-      }
-    }
-  },
-  {
-    "uuid": "7a9f8ea3-c07a-5da5-a666-4a093c255cd5",
-    "entry": "マルチ",
-    "reading": {
-      "primary": "マルチ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "mulch",
         "register": "standard",
         "nuance": null,
@@ -717,10 +679,16 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "複数",
+        "多数",
         "マルチング"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "シングル",
+        "単一"
+      ],
       "related": [
+        "複合",
         "園芸",
         "農業",
         "土壌"
@@ -729,7 +697,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T00:39:11.840235+00:00Z",
       "freq_rank": 6378,
       "frequencies": {
         "aozora": 89

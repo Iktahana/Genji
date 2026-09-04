@@ -12,7 +12,8 @@
     "grammar": {
       "pos": [
         "副詞",
-        "副詞-と"
+        "副詞-と",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -460,48 +461,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "汽車",
-        "列車"
-      ],
-      "antonyms": [],
-      "related": [
-        "蒸気",
-        "煙",
-        "鳩"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T23:27:39.208942+00:00Z",
-      "frequencies": {
-        "aozora": 48
-      }
-    }
-  },
-  {
-    "uuid": "f073a5b4-154e-58bc-97ea-53fbd4e9b62c",
-    "entry": "ぽっぽ",
-    "reading": {
-      "primary": "ぽっぽ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 7,
         "gloss": "(one's) purse",
         "register": "standard",
         "nuance": null,
@@ -788,10 +750,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "汽車",
+        "列車",
         "財布"
       ],
       "antonyms": [],
       "related": [
+        "蒸気",
+        "煙",
+        "鳩",
         "金銭",
         "貯金"
       ]
@@ -799,7 +766,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-04T23:27:39.208942+00:00Z",
       "frequencies": {
         "aozora": 48
       },
