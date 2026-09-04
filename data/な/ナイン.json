@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "感動詞"
       ],
       "ctype": null,
       "inflections": null
@@ -341,49 +342,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "9",
-        "九",
-        "チーム"
-      ],
-      "antonyms": [],
-      "related": [
-        "野球",
-        "数字"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:12:16.659742+00:00Z",
-      "freq_rank": 24678,
-      "frequencies": {
-        "aozora": 138
-      }
-    }
-  },
-  {
-    "uuid": "48216764-76fe-5cc7-8ffd-52b3c86e0234",
-    "entry": "ナイン",
-    "reading": {
-      "primary": "ナイン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "感動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "no",
         "register": "standard",
         "nuance": null,
@@ -670,6 +631,9 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "9",
+        "九",
+        "チーム",
         "ノー",
         "いいえ",
         "否"
@@ -680,6 +644,8 @@
         "ヤー"
       ],
       "related": [
+        "野球",
+        "数字",
         "否定",
         "ドイツ語"
       ]
@@ -687,7 +653,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T13:12:16.659742+00:00Z",
       "freq_rank": 24678,
       "frequencies": {
         "aozora": 138

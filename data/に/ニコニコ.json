@@ -13,10 +13,13 @@
       "pos": [
         "副詞",
         "副詞-と",
-        "動詞-サ変"
+        "動詞-サ変",
+        "名詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -294,53 +297,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "にっこり",
-        "ほほえむ",
-        "穏やか"
-      ],
-      "antonyms": [
-        "むっつり",
-        "ムスッ"
-      ],
-      "related": [
-        "笑顔",
-        "楽しい",
-        "優しい"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:39:45.299055+00:00Z",
-      "freq_rank": 11749,
-      "frequencies": {
-        "aozora": 1007
-      }
-    }
-  },
-  {
-    "uuid": "36c2c233-055e-5084-89d4-caddc81debd4",
-    "entry": "ニコニコ",
-    "reading": {
-      "primary": "ニコニコ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Niconico (video-sharing website)",
         "register": "standard",
         "nuance": null,
@@ -618,9 +577,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "にっこり",
+        "ほほえむ",
+        "穏やか"
+      ],
+      "antonyms": [
+        "むっつり",
+        "ムスッ"
+      ],
       "related": [
+        "笑顔",
+        "楽しい",
+        "優しい",
         "動画",
         "配信",
         "インターネット"
@@ -629,7 +598,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T13:39:45.299055+00:00Z",
       "freq_rank": 11749,
       "frequencies": {
         "aozora": 1007

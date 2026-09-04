@@ -186,52 +186,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "日本",
-        "大和",
-        "豊葦原中津国"
-      ],
-      "antonyms": [
-        "根の国",
-        "高天原"
-      ],
-      "related": [
-        "日本神話",
-        "古事記",
-        "日本書紀"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:14:17.142026+00:00Z",
-      "frequencies": {
-        "aozora": 16
-      }
-    }
-  },
-  {
-    "uuid": "00af50a4-867d-56f6-b809-3da77e20fdf0",
-    "entry": "中つ国",
-    "reading": {
-      "primary": "なかつくに",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Middle-earth (in J.R.R. Tolkien's works)",
         "register": "standard",
         "nuance": null,
@@ -405,9 +362,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "日本",
+        "大和",
+        "豊葦原中津国"
+      ],
+      "antonyms": [
+        "根の国",
+        "高天原"
+      ],
       "related": [
+        "日本神話",
+        "古事記",
+        "日本書紀",
         "指輪物語",
         "トールキン",
         "ファンタジー",
@@ -417,7 +384,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T13:14:17.142026+00:00Z",
       "frequencies": {
         "aozora": 16
       }

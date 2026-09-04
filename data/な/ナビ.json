@@ -4,7 +4,10 @@
     "entry": "ナビ",
     "reading": {
       "primary": "ナビ",
-      "alternatives": [],
+      "alternatives": [
+        "ナービー",
+        "ナビー"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -293,52 +296,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ナビゲーション",
-        "案内",
-        "誘導",
-        "道案内"
-      ],
-      "antonyms": [],
-      "related": [
-        "カーナビ",
-        "GPS",
-        "地図",
-        "運転手"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:25:29.102028+00:00Z",
-      "freq_rank": 11254
-    }
-  },
-  {
-    "uuid": "0d840d84-8d21-5491-9380-5398908245c0",
-    "entry": "ナビ",
-    "reading": {
-      "primary": "ナビ",
-      "alternatives": [
-        "ナービー",
-        "ナビー"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "prophet of Islam",
         "register": "standard",
         "nuance": null,
@@ -577,10 +537,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "ナビゲーション",
+        "案内",
+        "誘導",
+        "道案内",
         "預言者"
       ],
       "antonyms": [],
       "related": [
+        "カーナビ",
+        "GPS",
+        "地図",
+        "運転手",
         "イスラム教",
         "ムハンマド",
         "宗教",
@@ -590,7 +558,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T13:25:29.102028+00:00Z",
       "freq_rank": 11254
     }
   }
