@@ -13,7 +13,8 @@
     },
     "grammar": {
       "pos": [
-        "副詞-と"
+        "副詞-と",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -380,51 +381,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "西"
-      ],
-      "synonyms": [
-        "シュー",
-        "ジャー"
-      ],
-      "antonyms": [],
-      "related": [
-        "擬音語",
-        "水音",
-        "ヒュー"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:44:32.293266+00:00Z",
-      "freq_rank": 7784,
-      "frequencies": {
-        "aozora": 61
-      }
-    }
-  },
-  {
-    "uuid": "0b2fc042-3ac4-5f92-8b84-975b93cc5631",
-    "entry": "シャー",
-    "reading": {
-      "primary": "シャー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "shah (royal title used by Iranian monarchs)",
         "register": "standard",
         "nuance": null,
@@ -713,12 +672,17 @@
         "西"
       ],
       "synonyms": [
+        "シュー",
+        "ジャー",
         "国王",
         "皇帝",
         "王"
       ],
       "antonyms": [],
       "related": [
+        "擬音語",
+        "水音",
+        "ヒュー",
         "イラン",
         "ペルシャ",
         "君主",
@@ -728,7 +692,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-03T12:44:32.293266+00:00Z",
       "freq_rank": 7784,
       "frequencies": {
         "aozora": 61

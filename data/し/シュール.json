@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容動詞"
+        "形容動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -317,52 +318,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "超現実的",
-        "非現実的"
-      ],
-      "antonyms": [
-        "現実的",
-        "写実的"
-      ],
-      "related": [
-        "シュルレアリスム",
-        "芸術",
-        "不条理"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:58:55.393262+00:00Z",
-      "freq_rank": 20561,
-      "frequencies": {
-        "aozora": 86
-      }
-    }
-  },
-  {
-    "uuid": "443f5a51-86e2-5cef-83ff-b396ff6784a9",
-    "entry": "シュール",
-    "reading": {
-      "primary": "シュール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "shul",
         "register": "standard",
         "nuance": null,
@@ -625,11 +583,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "超現実的",
+        "非現実的",
         "シナゴーグ",
         "会堂"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "現実的",
+        "写実的"
+      ],
       "related": [
+        "シュルレアリスム",
+        "芸術",
+        "不条理",
         "ユダヤ教",
         "宗教",
         "礼拝所"
@@ -638,7 +604,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T12:58:55.393262+00:00Z",
       "freq_rank": 20561,
       "frequencies": {
         "aozora": 86

@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容動詞"
+        "形容動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -419,55 +420,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "鋭い",
-        "鋭利",
-        "明瞭",
-        "明晰"
-      ],
-      "antonyms": [
-        "鈍い",
-        "ぼんやり"
-      ],
-      "related": [
-        "切れ味",
-        "音楽記号",
-        "刃物",
-        "シャープペンシル"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:44:32.297490+00:00Z",
-      "freq_rank": 6932,
-      "frequencies": {
-        "aozora": 50
-      }
-    }
-  },
-  {
-    "uuid": "03d648fc-ea6d-5017-9fc0-b42ddd38e0c5",
-    "entry": "シャープ",
-    "reading": {
-      "primary": "シャープ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 5,
         "gloss": "Sharp",
         "register": "standard",
         "nuance": null,
@@ -499,6 +454,30 @@
             },
             {
               "text": "彼はシャープ製の電子レンジを長年愛用している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "スコットランドの作家、イアン・バンクスは、その文学的功績から「現代のシャープ」と称されることがある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "音楽評論家のピーター・シャープは、その的確な批評で知られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このゲームの主人公の名前は、シャープという名前だった。",
               "citation": {
                 "source": "Illusions AI",
                 "author": "Gemini",
@@ -741,56 +720,25 @@
             }
           ]
         }
-      },
-      {
-        "index": 2,
-        "gloss": "Sharp",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "スコットランドの作家、イアン・バンクスは、その文学的功績から「現代のシャープ」と称されることがある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "音楽評論家のピーター・シャープは、その的確な批評で知られている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "このゲームの主人公の名前は、シャープという名前だった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            }
-          ],
-          "literary": []
-        }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "鋭い",
+        "鋭利",
+        "明瞭",
+        "明晰"
+      ],
+      "antonyms": [
+        "鈍い",
+        "ぼんやり"
+      ],
       "related": [
+        "切れ味",
+        "音楽記号",
+        "刃物",
+        "シャープペンシル",
         "家電",
         "液晶",
         "テレビ",
@@ -800,7 +748,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T12:44:32.297490+00:00Z",
       "freq_rank": 6932,
       "frequencies": {
         "aozora": 50

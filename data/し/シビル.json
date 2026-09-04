@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -325,51 +326,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "市民的",
-        "民間人的"
-      ],
-      "antonyms": [
-        "軍事的"
-      ],
-      "related": [
-        "市民",
-        "権利",
-        "社会",
-        "法律"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T12:30:38.478461+00:00Z",
-      "frequencies": {
-        "aozora": 16
-      }
-    }
-  },
-  {
-    "uuid": "3d596b0c-db0e-5eab-9291-f20398011e2d",
-    "entry": "シビル",
-    "reading": {
-      "primary": "シビル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Sybil",
         "register": "standard",
         "nuance": null,
@@ -655,9 +614,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "市民的",
+        "民間人的"
+      ],
+      "antonyms": [
+        "軍事的"
+      ],
       "related": [
+        "市民",
+        "権利",
+        "社会",
+        "法律",
         "女性名",
         "人名"
       ]
@@ -665,7 +633,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-03T12:30:38.478461+00:00Z",
       "frequencies": {
         "aozora": 16
       },
