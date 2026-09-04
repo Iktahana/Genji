@@ -14,8 +14,10 @@
         "動詞-他動詞",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -60,54 +62,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "大逆転劇",
-        "大どんでん返し",
-        "大反転",
-        "形勢逆転"
-      ],
-      "antonyms": [
-        "大差",
-        "圧勝",
-        "完敗"
-      ],
-      "related": [
-        "逆転",
-        "逆転勝利",
-        "番狂わせ",
-        "逆転負け",
-        "劇的展開",
-        "追い上げ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:24:54.534859+00:00Z"
-    }
-  },
-  {
-    "uuid": "e0771b1f-2e5b-5e3a-a74d-962df0e7db64",
-    "entry": "大逆転",
-    "reading": {
-      "primary": "だいぎゃくてん",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Trading Places (1983 film)",
         "register": "standard",
         "nuance": null,
@@ -152,9 +109,24 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "大逆転劇",
+        "大どんでん返し",
+        "大反転",
+        "形勢逆転"
+      ],
+      "antonyms": [
+        "大差",
+        "圧勝",
+        "完敗"
+      ],
       "related": [
+        "逆転",
+        "逆転勝利",
+        "番狂わせ",
+        "逆転負け",
+        "劇的展開",
+        "追い上げ",
         "映画",
         "コメディ",
         "ウォール街",
@@ -166,7 +138,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T05:24:54.534859+00:00Z"
     }
   }
 ]

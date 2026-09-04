@@ -376,48 +376,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "区切り"
-      ],
-      "antonyms": [],
-      "related": [
-        "コンピュータ",
-        "キー",
-        "文字"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T04:48:47.152280+00:00Z",
-      "freq_rank": 8812,
-      "frequencies": {
-        "aozora": 14
-      }
-    }
-  },
-  {
-    "uuid": "ca03dc25-3df8-5da4-ac46-0994785c714b",
-    "entry": "タブ",
-    "reading": {
-      "primary": "タブ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "tub",
         "register": "standard",
         "nuance": null,
@@ -696,11 +657,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "区切り",
         "浴槽",
         "バスタブ"
       ],
       "antonyms": [],
       "related": [
+        "コンピュータ",
+        "キー",
+        "文字",
         "入浴",
         "水",
         "風呂"
@@ -709,7 +674,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T04:48:47.152280+00:00Z",
       "freq_rank": 8812,
       "frequencies": {
         "aozora": 14
@@ -729,7 +694,9 @@
         "動詞"
       ],
       "ctype": "文語下二段-バ行",
-      "inflections": null
+      "inflections": null,
+      "ctype_source": "existing",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -960,7 +927,9 @@
         "動詞"
       ],
       "ctype": "文語下二段-バ行",
-      "inflections": null
+      "inflections": null,
+      "ctype_source": "existing",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
