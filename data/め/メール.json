@@ -16,8 +16,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -389,49 +391,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "電子メール"
-      ],
-      "antonyms": [],
-      "related": [
-        "通信",
-        "送信",
-        "受信",
-        "アドレス"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:26:49.342057+00:00Z",
-      "freq_rank": 409,
-      "frequencies": {
-        "aozora": 227
-      }
-    }
-  },
-  {
-    "uuid": "f14e4f3d-898d-5ddf-a4e0-9bd40730ce59",
-    "entry": "メール",
-    "reading": {
-      "primary": "メール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "male",
         "register": "standard",
         "nuance": null,
@@ -718,6 +680,7 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "電子メール",
         "男性",
         "男"
       ],
@@ -726,13 +689,17 @@
         "フィメール"
       ],
       "related": [
+        "通信",
+        "送信",
+        "受信",
+        "アドレス",
         "性別"
       ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-05T03:26:49.342057+00:00Z",
       "freq_rank": 409,
       "frequencies": {
         "aozora": 227

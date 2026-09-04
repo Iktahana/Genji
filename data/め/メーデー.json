@@ -4,7 +4,11 @@
     "entry": "メーデー",
     "reading": {
       "primary": "メーデー",
-      "alternatives": [],
+      "alternatives": [
+        "メー・デー",
+        "メイデイ",
+        "メイデー"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -298,53 +302,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "SOS"
-      ],
-      "antonyms": [],
-      "related": [
-        "遭難",
-        "信号",
-        "無線",
-        "緊急"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T03:26:49.330008+00:00Z",
-      "freq_rank": 21910,
-      "frequencies": {
-        "aozora": 383
-      }
-    }
-  },
-  {
-    "uuid": "ab0fe852-a8a7-5872-adaa-215bbedd5aa8",
-    "entry": "メーデー",
-    "reading": {
-      "primary": "メーデー",
-      "alternatives": [
-        "メー・デー",
-        "メイデイ",
-        "メイデー"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "May Day (May 1)",
         "register": "standard",
         "nuance": null,
@@ -630,9 +590,15 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "SOS"
+      ],
       "antonyms": [],
       "related": [
+        "遭難",
+        "信号",
+        "無線",
+        "緊急",
         "祝日",
         "5月",
         "労働者",
@@ -642,7 +608,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T03:26:49.330008+00:00Z",
       "freq_rank": 21910,
       "frequencies": {
         "aozora": 383

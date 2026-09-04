@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞-の形容詞"
+        "名詞-の形容詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -386,53 +387,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "主要",
-        "中心",
-        "本体"
-      ],
-      "antonyms": [
-        "サイド",
-        "副"
-      ],
-      "related": [
-        "主要",
-        "中心",
-        "本体"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T02:56:15.499678+00:00Z",
-      "freq_rank": 2159,
-      "frequencies": {
-        "aozora": 92
-      }
-    }
-  },
-  {
-    "uuid": "5d5fe560-3137-5bd0-b862-96da674143ec",
-    "entry": "メイン",
-    "reading": {
-      "primary": "メイン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "Maine",
         "register": "standard",
         "nuance": null,
@@ -718,9 +675,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "主要",
+        "中心",
+        "本体"
+      ],
+      "antonyms": [
+        "サイド",
+        "副"
+      ],
       "related": [
+        "主要",
+        "中心",
+        "本体",
         "州",
         "アメリカ",
         "地名"
@@ -729,7 +696,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T02:56:15.499678+00:00Z",
       "freq_rank": 2159,
       "frequencies": {
         "aozora": 92
