@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -376,48 +377,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "自動"
-      ],
-      "antonyms": [
-        "手動"
-      ],
-      "related": [
-        "機械"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:32:59.321721+00:00Z",
-      "freq_rank": 9055,
-      "frequencies": {
-        "aozora": 66
-      }
-    }
-  },
-  {
-    "uuid": "34930c4e-fe91-5781-83b3-4c64cd104b8b",
-    "entry": "オート",
-    "reading": {
-      "primary": "オート",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "oat",
         "register": "standard",
         "nuance": null,
@@ -696,11 +658,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "自動",
         "燕麦",
         "エンバク"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "手動"
+      ],
       "related": [
+        "機械",
         "穀物",
         "食物"
       ]
@@ -708,7 +674,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T02:32:59.321721+00:00Z",
       "freq_rank": 9055,
       "frequencies": {
         "aozora": 66

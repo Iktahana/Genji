@@ -17,6 +17,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "listening to a foreign-language recording while simultaneously reading aloud from a transcript (as a technique for improving listening skills, intonation, etc.)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "英語学習でオーバーラッピングを練習して、発音が改善された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "オーバーラッピングは、リスニングとスピーキングの両方を鍛える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            },
+            {
+              "text": "毎日オーバーラッピングを続けることで、英語の流暢性が高まった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-haiku-4-5-20251001"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "画面を単純に複数のウインドウに分割するだけのタイリング方式も試みられたが、ウインドウの大きさを自由に設定できて、重ね合わせることのできるオーバーラッピングウインドウを考案し、スモールトークに組み込んだ。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "overwrapping",
         "register": "standard",
         "nuance": null,
@@ -73,97 +125,15 @@
       "synonyms": [],
       "antonyms": [],
       "related": [
-        "ラップ",
-        "包装",
-        "梱包",
-        "フィルム"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T02:35:01.205129+00:00Z"
-    }
-  },
-  {
-    "uuid": "806bf31e-f4f7-5395-9ab4-aa2af1fe9f62",
-    "entry": "オーバーラッピング",
-    "reading": {
-      "primary": "オーバーラッピング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "listening to a foreign-language recording while simultaneously reading aloud from a transcript (as a technique for improving listening skills, intonation, etc.)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "英語学習でオーバーラッピングを練習して、発音が改善された。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-haiku-4-5-20251001"
-              }
-            },
-            {
-              "text": "オーバーラッピングは、リスニングとスピーキングの両方を鍛える。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-haiku-4-5-20251001"
-              }
-            },
-            {
-              "text": "毎日オーバーラッピングを続けることで、英語の流暢性が高まった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-haiku-4-5-20251001"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "画面を単純に複数のウインドウに分割するだけのタイリング方式も試みられたが、ウインドウの大きさを自由に設定できて、重ね合わせることのできるオーバーラッピングウインドウを考案し、スモールトークに組み込んだ。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
         "学習",
         "言語",
         "リスニング",
         "発音",
-        "読み上げ"
+        "読み上げ",
+        "ラップ",
+        "包装",
+        "梱包",
+        "フィルム"
       ]
     },
     "meta": {
