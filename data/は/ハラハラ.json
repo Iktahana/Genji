@@ -12,10 +12,13 @@
     "grammar": {
       "pos": [
         "動詞-サ変",
-        "副詞"
+        "副詞",
+        "名詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -347,55 +350,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ドキドキ",
-        "そわそわ",
-        "不安",
-        "心配",
-        "緊張"
-      ],
-      "antonyms": [
-        "安心",
-        "落ち着き"
-      ],
-      "related": [
-        "焦り",
-        "懸念",
-        "気がかり"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:21:49.781234+00:00Z",
-      "freq_rank": 17541,
-      "frequencies": {
-        "aozora": 410
-      }
-    }
-  },
-  {
-    "uuid": "e2f7d51d-3613-5e2f-8692-9c15950e89bd",
-    "entry": "ハラハラ",
-    "reading": {
-      "primary": "ハラハラ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "harassing someone by claiming they are harassing someone",
         "register": "standard",
         "nuance": null,
@@ -642,11 +599,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "ドキドキ",
+        "そわそわ",
+        "不安",
+        "心配",
+        "緊張",
         "嫌がらせ",
         "いじめ"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "安心",
+        "落ち着き"
+      ],
       "related": [
+        "焦り",
+        "懸念",
+        "気がかり",
         "クレーム",
         "苦情"
       ]
@@ -654,7 +622,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T15:21:49.781234+00:00Z",
       "freq_rank": 17541,
       "frequencies": {
         "aozora": 410

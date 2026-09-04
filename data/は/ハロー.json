@@ -4,12 +4,15 @@
     "entry": "ハロー",
     "reading": {
       "primary": "ハロー",
-      "alternatives": [],
+      "alternatives": [
+        "ハロ"
+      ],
       "is_heteronym": false
     },
     "grammar": {
       "pos": [
-        "感動詞"
+        "感動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -274,55 +277,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "こんにちは",
-        "やあ",
-        "もしもし"
-      ],
-      "antonyms": [
-        "さようなら",
-        "バイバイ"
-      ],
-      "related": [
-        "挨拶",
-        "英会話",
-        "会話"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:25:27.444992+00:00Z",
-      "freq_rank": 21328,
-      "frequencies": {
-        "aozora": 34
-      }
-    }
-  },
-  {
-    "uuid": "6cbb736f-daad-5a16-b6d3-c5caf8b5c5f4",
-    "entry": "ハロー",
-    "reading": {
-      "primary": "ハロー",
-      "alternatives": [
-        "ハロ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "halo",
         "register": "standard",
         "nuance": null,
@@ -580,51 +537,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "暈",
-        "光輪",
-        "光環"
-      ],
-      "antonyms": [],
-      "related": [
-        "気象",
-        "日暈",
-        "月暈",
-        "光学現象"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 21328,
-      "frequencies": {
-        "aozora": 34
-      }
-    }
-  },
-  {
-    "uuid": "6cbb736f-daad-5a16-b6d3-c5caf8b5c5f4",
-    "entry": "ハロー",
-    "reading": {
-      "primary": "ハロー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "harrow",
         "register": "standard",
         "nuance": null,
@@ -887,11 +802,27 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "こんにちは",
+        "やあ",
+        "もしもし",
+        "暈",
+        "光輪",
+        "光環",
         "まぐわ",
         "砕土機"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "さようなら",
+        "バイバイ"
+      ],
       "related": [
+        "挨拶",
+        "英会話",
+        "会話",
+        "気象",
+        "日暈",
+        "月暈",
+        "光学現象",
         "農具",
         "耕作",
         "農業",
@@ -901,7 +832,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T15:25:27.444992+00:00Z",
       "freq_rank": 21328,
       "frequencies": {
         "aozora": 34
