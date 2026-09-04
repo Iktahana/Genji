@@ -19,6 +19,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "track-suit trousers",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "冬の朝のランニングには、裏起毛の暖かいトレーニングパンツが欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼はジャージの上着を脱ぎ、トレーニングパンツの裾をまくって入念にストレッチを始めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "部活動の遠征用に、チーム全員でお揃いのロゴが入ったトレーニングパンツを特注した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "白いトレーニングパンツをはいておしまい頃には靴下はだしになって広い地面を踏みしめながら楽しんだ。",
+              "citation": {
+                "source": "遺愛集",
+                "author": "島秋人",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "training pants (for toddlers to transition from diapers)",
         "register": "standard",
         "nuance": null,
@@ -73,108 +125,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "スウェットパンツ",
+        "トレパン",
         "パンツ",
         "ズボン"
-      ],
-      "antonyms": [],
-      "related": [
-        "衣類",
-        "子ども用品",
-        "訓練"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T12:38:15.093992+00:00Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "ec8ba430-407c-59b9-bf6e-bb1fb75aa31f",
-    "entry": "トレーニングパンツ",
-    "reading": {
-      "primary": "トレーニングパンツ",
-      "alternatives": [
-        "トレーニング・パンツ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "track-suit trousers",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "冬の朝のランニングには、裏起毛の暖かいトレーニングパンツが欠かせない。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "彼はジャージの上着を脱ぎ、トレーニングパンツの裾をまくって入念にストレッチを始めた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "部活動の遠征用に、チーム全員でお揃いのロゴが入ったトレーニングパンツを特注した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "白いトレーニングパンツをはいておしまい頃には靴下はだしになって広い地面を踏みしめながら楽しんだ。",
-              "citation": {
-                "source": "遺愛集",
-                "author": "島秋人",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "スウェットパンツ",
-        "トレパン"
       ],
       "antonyms": [],
       "related": [
         "パンツ",
         "衣類",
         "スポーツ",
-        "ウェア"
+        "ウェア",
+        "子ども用品",
+        "訓練"
       ]
     },
     "meta": {

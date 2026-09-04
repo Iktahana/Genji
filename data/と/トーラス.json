@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "torus",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ドーナツのような形をした物体は、数学的にトーラスと呼ばれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "物理学の実験で、トーラス状のプラズマが生成された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この美術作品は、複数のトーラスが複雑に絡み合った構造をしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "Taurus",
         "register": "standard",
         "nuance": null,
@@ -62,87 +105,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "円環面",
+        "円環体",
         "牡牛座",
         "金牛宮"
-      ],
-      "antonyms": [],
-      "related": [
-        "星座",
-        "黄道十二星座",
-        "占星術"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T12:41:25.879654+00:00Z"
-    }
-  },
-  {
-    "uuid": "62819372-acc8-5fb3-acb1-0838f0cbc6c2",
-    "entry": "トーラス",
-    "reading": {
-      "primary": "トーラス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "torus",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "ドーナツのような形をした物体は、数学的にトーラスと呼ばれる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "物理学の実験で、トーラス状のプラズマが生成された。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "この美術作品は、複数のトーラスが複雑に絡み合った構造をしている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "円環面",
-        "円環体"
       ],
       "antonyms": [],
       "related": [
@@ -150,7 +116,10 @@
         "幾何学",
         "位相幾何学",
         "トポロジー",
-        "図形"
+        "図形",
+        "星座",
+        "黄道十二星座",
+        "占星術"
       ]
     },
     "meta": {
