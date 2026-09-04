@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容動詞"
+        "形容動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -341,57 +342,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "低速",
-        "緩慢",
-        "ゆっくり"
-      ],
-      "antonyms": [
-        "ファスト",
-        "高速",
-        "スピーディ",
-        "急速"
-      ],
-      "related": [
-        "スローモーション",
-        "スロー映像",
-        "低速度撮影",
-        "テンポ",
-        "速度"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T15:19:59.610683+00:00Z",
-      "freq_rank": 6705,
-      "frequencies": {
-        "aozora": 40
-      }
-    }
-  },
-  {
-    "uuid": "67311842-3f40-5267-8dd8-3ae68215d9ab",
-    "entry": "スロー",
-    "reading": {
-      "primary": "スロー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "throw",
         "register": "standard",
         "nuance": null,
@@ -678,11 +631,24 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "低速",
+        "緩慢",
+        "ゆっくり",
         "投球",
         "投げ"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ファスト",
+        "高速",
+        "スピーディ",
+        "急速"
+      ],
       "related": [
+        "スローモーション",
+        "スロー映像",
+        "低速度撮影",
+        "テンポ",
+        "速度",
         "スローイン",
         "スローイング",
         "ピッチ",
@@ -693,7 +659,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T15:19:59.610683+00:00Z",
       "freq_rank": 6705,
       "frequencies": {
         "aozora": 40

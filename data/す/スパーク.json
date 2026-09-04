@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -604,45 +606,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "スパーク"
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "CPU",
-        "アーキテクチャ",
-        "マイクロプロセッサ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 25253
-    }
-  },
-  {
-    "uuid": "62ac97da-9093-5424-b5b1-505981d932a4",
-    "entry": "ＳＰＡＲＣ",
-    "reading": {
-      "primary": "スパーク",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Scholarly Publishing and Academic Resources Coalition",
         "register": "standard",
         "nuance": null,
@@ -933,6 +899,9 @@
       "synonyms": [],
       "antonyms": [],
       "related": [
+        "CPU",
+        "アーキテクチャ",
+        "マイクロプロセッサ",
         "学術出版",
         "オープンアクセス",
         "論文"

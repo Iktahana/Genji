@@ -9,10 +9,14 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変",
+        "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -133,47 +137,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "プログラミング",
-        "キュー"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:58:03.210881+00:00Z",
-      "freq_rank": 18723,
-      "frequencies": {
-        "aozora": 7
-      }
-    }
-  },
-  {
-    "uuid": "daeb4ce0-cb67-5034-9d72-f1e685ed165a",
-    "entry": "スタック",
-    "reading": {
-      "primary": "スタック",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-自動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "getting stuck (in snow, mud, etc.; of a vehicle)",
         "register": "standard",
         "nuance": null,
@@ -258,6 +224,8 @@
         "脱出"
       ],
       "related": [
+        "プログラミング",
+        "キュー",
         "泥",
         "雪"
       ]
@@ -265,7 +233,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T14:58:03.210881+00:00Z",
       "freq_rank": 18723,
       "frequencies": {
         "aozora": 7

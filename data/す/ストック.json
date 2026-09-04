@@ -4,7 +4,9 @@
     "entry": "ストック",
     "reading": {
       "primary": "ストック",
-      "alternatives": [],
+      "alternatives": [
+        "シュトック"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -513,55 +515,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "在庫",
-        "備蓄",
-        "蓄え"
-      ],
-      "antonyms": [
-        "フロー"
-      ],
-      "related": [
-        "在庫管理",
-        "株式",
-        "仕入れ",
-        "貯蔵"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T15:02:57.122426+00:00Z",
-      "freq_rank": 7022,
-      "frequencies": {
-        "aozora": 79
-      }
-    }
-  },
-  {
-    "uuid": "73fee801-a2b5-55fe-8500-355a59d35dac",
-    "entry": "ストック",
-    "reading": {
-      "primary": "ストック",
-      "alternatives": [
-        "シュトック"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 7,
         "gloss": "ski pole",
         "register": "standard",
         "nuance": null,
@@ -845,7 +801,7 @@
         }
       },
       {
-        "index": 2,
+        "index": 8,
         "gloss": "trekking pole",
         "register": "standard",
         "nuance": null,
@@ -891,11 +847,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "在庫",
+        "備蓄",
+        "蓄え",
         "スキーポール",
         "ポール"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "フロー"
+      ],
       "related": [
+        "在庫管理",
+        "株式",
+        "仕入れ",
+        "貯蔵",
         "スキー",
         "スキー板",
         "トレッキング",
@@ -905,7 +870,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T15:02:57.122426+00:00Z",
       "freq_rank": 7022,
       "frequencies": {
         "aozora": 79

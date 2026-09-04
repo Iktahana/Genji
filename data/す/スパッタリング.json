@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "sputtering",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "真空チャンバー内でスパッタリングを行い、ガラス基板の上に金のスキャッタリング層を作った。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "スパッタリングのターゲットとなる純銀のプレートが、摩耗してきたので交換する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "スパッタリング現象を利用して、レンズの表面に反射防止のコーティングを施す。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "spattering (paint or ink)",
         "register": "standard",
         "nuance": null,
@@ -62,89 +105,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
-        "ぼかし網"
-      ],
-      "antonyms": [],
-      "related": [
-        "美術",
-        "技法",
-        "絵の具",
-        "網",
-        "霧吹き"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T15:07:27.868254+00:00Z"
-    }
-  },
-  {
-    "uuid": "274ecda3-cded-5b38-89c1-80a3faac1a69",
-    "entry": "スパッタリング",
-    "reading": {
-      "primary": "スパッタリング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "sputtering",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "真空チャンバー内でスパッタリングを行い、ガラス基板の上に金のスキャッタリング層を作った。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "スパッタリングのターゲットとなる純銀のプレートが、摩耗してきたので交換する必要がある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "スパッタリング現象を利用して、レンズの表面に反射防止のコーティングを施す。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
         "スパッタ法",
         "スパッタリング法",
-        "物理気相成長法"
+        "物理気相成長法",
+        "ぼかし網"
       ],
       "antonyms": [],
       "related": [
@@ -153,7 +117,12 @@
         "成膜",
         "真空",
         "プラズマ",
-        "コーティング"
+        "コーティング",
+        "美術",
+        "技法",
+        "絵の具",
+        "網",
+        "霧吹き"
       ]
     },
     "meta": {

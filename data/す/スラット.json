@@ -15,8 +15,10 @@
         "副詞",
         "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -388,47 +390,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "羽根板",
-        "薄板"
-      ],
-      "antonyms": [],
-      "related": [
-        "ブラインド",
-        "ルーバー",
-        "窓",
-        "航空機",
-        "翼"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
-    }
-  },
-  {
-    "uuid": "41da8729-b165-5df0-850b-0f87a6e3c14b",
-    "entry": "スラット",
-    "reading": {
-      "primary": "スラット",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "slut",
         "register": "standard",
         "nuance": null,
@@ -474,6 +438,8 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "羽根板",
+        "薄板",
         "尻軽女",
         "ふしだらな女",
         "売春婦",
@@ -483,6 +449,11 @@
         "淑女"
       ],
       "related": [
+        "ブラインド",
+        "ルーバー",
+        "窓",
+        "航空機",
+        "翼",
         "淫乱",
         "軽薄"
       ]

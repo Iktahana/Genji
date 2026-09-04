@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "steam convection oven",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "最新のキッチンには、スチコン（スチームコンベクションオーブン）が搭載されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "スチコンを使えば、蒸し料理や焼き料理を同時に、しかも美味しく作れる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このオーブン、スチコン機能もあるんだ。パンも焼けるかな？」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "polystyrene capacitor",
         "register": "standard",
         "nuance": null,
@@ -62,89 +105,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "スチームコンベクションオーブン",
+        "コンビオーブン",
         "スチロールコンデンサ",
         "ポリスチレンコンデンサ"
-      ],
-      "antonyms": [],
-      "related": [
-        "コンデンサ",
-        "電子部品",
-        "フィルムコンデンサ",
-        "静電容量",
-        "回路"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:59:45.901156+00:00Z"
-    }
-  },
-  {
-    "uuid": "69d60f8b-3ef5-53a2-8f06-e6bdbfdb051a",
-    "entry": "スチコン",
-    "reading": {
-      "primary": "スチコン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "steam convection oven",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "最新のキッチンには、スチコン（スチームコンベクションオーブン）が搭載されている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "スチコンを使えば、蒸し料理や焼き料理を同時に、しかも美味しく作れる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "「このオーブン、スチコン機能もあるんだ。パンも焼けるかな？」",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "スチームコンベクションオーブン",
-        "コンビオーブン"
       ],
       "antonyms": [],
       "related": [
@@ -153,7 +117,12 @@
         "加熱調理",
         "厨房機器",
         "オーブン",
-        "業務用調理器"
+        "業務用調理器",
+        "コンデンサ",
+        "電子部品",
+        "フィルムコンデンサ",
+        "静電容量",
+        "回路"
       ]
     },
     "meta": {

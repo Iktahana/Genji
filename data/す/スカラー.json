@@ -19,6 +19,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "scholar",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼は古典文学の分野で世界的に知られるスカラーであり、多くの著作がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "若きスカラーたちが図書館に集まり、夜遅くまで学術的な議論を交わしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "フルブライト・スカラーとして米国に派遣され、現地の大学で客員教授を務めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "髪ヲパーマネントニシ、耳ニイヤリングヲ下ゲ、唇ヲコーラル・ピンクダノパール・ピンクダノコーヒー・ブラウンダノニ塗リ、眉ニ黛、瞼ニアイ・シャドウヲ着ケ、フォールス・アイラッシュデ附ケ睫ヲ着ケ、ソレデモ足リナイデマスカラーデ睫ヲ長ク見セヨウトスル。",
+              "citation": {
+                "source": "瘋癲老人日記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "scalar",
         "register": "standard",
         "nuance": null,
@@ -73,109 +125,25 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "学者",
+        "研究者",
+        "学徒",
+        "博識家",
         "スカラー量"
       ],
       "antonyms": [
         "ベクトル"
       ],
       "related": [
-        "物理量",
-        "数学",
-        "大きさ",
-        "テンソル"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:49:12.140741+00:00Z",
-      "freq_rank": 40802
-    }
-  },
-  {
-    "uuid": "52ce24be-9c4c-5826-b8bf-1bb447dd74ec",
-    "entry": "スカラー",
-    "reading": {
-      "primary": "スカラー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "scholar",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼は古典文学の分野で世界的に知られるスカラーであり、多くの著作がある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "若きスカラーたちが図書館に集まり、夜遅くまで学術的な議論を交わしている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "フルブライト・スカラーとして米国に派遣され、現地の大学で客員教授を務めた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "髪ヲパーマネントニシ、耳ニイヤリングヲ下ゲ、唇ヲコーラル・ピンクダノパール・ピンクダノコーヒー・ブラウンダノニ塗リ、眉ニ黛、瞼ニアイ・シャドウヲ着ケ、フォールス・アイラッシュデ附ケ睫ヲ着ケ、ソレデモ足リナイデマスカラーデ睫ヲ長ク見セヨウトスル。",
-              "citation": {
-                "source": "瘋癲老人日記",
-                "author": "谷崎潤一郎",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "学者",
-        "研究者",
-        "学徒",
-        "博識家"
-      ],
-      "antonyms": [],
-      "related": [
         "奨学金",
         "アカデミー",
         "大学",
         "学問",
-        "知識"
+        "知識",
+        "物理量",
+        "数学",
+        "大きさ",
+        "テンソル"
       ]
     },
     "meta": {

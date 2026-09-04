@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -276,50 +278,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "かき混ぜ",
-        "混合"
-      ],
-      "antonyms": [],
-      "related": [
-        "カクテル",
-        "バーテンダー",
-        "シェイク",
-        "マドラー",
-        "バー"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T15:01:40.602324+00:00Z",
-      "frequencies": {
-        "aozora": 15
-      }
-    }
-  },
-  {
-    "uuid": "5b6ea559-dd27-58ae-a89a-04db9509800c",
-    "entry": "ステア",
-    "reading": {
-      "primary": "ステア",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "steer",
         "register": "standard",
         "nuance": null,
@@ -577,49 +538,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "去勢牛"
-      ],
-      "antonyms": [],
-      "related": [
-        "牛",
-        "畜産",
-        "牧場",
-        "肉牛",
-        "家畜"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "frequencies": {
-        "aozora": 15
-      }
-    }
-  },
-  {
-    "uuid": "5b6ea559-dd27-58ae-a89a-04db9509800c",
-    "entry": "ステア",
-    "reading": {
-      "primary": "ステア",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "stair",
         "register": "standard",
         "nuance": null,
@@ -882,11 +803,24 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "かき混ぜ",
+        "混合",
+        "去勢牛",
         "階段",
         "段"
       ],
       "antonyms": [],
       "related": [
+        "カクテル",
+        "バーテンダー",
+        "シェイク",
+        "マドラー",
+        "バー",
+        "牛",
+        "畜産",
+        "牧場",
+        "肉牛",
+        "家畜",
         "エスカレーター",
         "踏み台",
         "段差",
@@ -896,7 +830,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T15:01:40.602324+00:00Z",
       "frequencies": {
         "aozora": 15
       }

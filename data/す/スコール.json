@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "感動詞"
       ],
       "ctype": null,
       "inflections": null
@@ -290,52 +291,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "突風",
-        "俄雨",
-        "驟雨",
-        "にわか雨"
-      ],
-      "antonyms": [],
-      "related": [
-        "熱帯",
-        "気象",
-        "雨",
-        "嵐"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:55:54.858964+00:00Z",
-      "freq_rank": 32140,
-      "frequencies": {
-        "aozora": 90
-      }
-    }
-  },
-  {
-    "uuid": "51a823af-08aa-52f9-9340-fe873621424c",
-    "entry": "スコール",
-    "reading": {
-      "primary": "スコール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "感動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "skoal",
         "register": "standard",
         "nuance": null,
@@ -614,10 +572,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "突風",
+        "俄雨",
+        "驟雨",
+        "にわか雨",
         "乾杯"
       ],
       "antonyms": [],
       "related": [
+        "熱帯",
+        "気象",
+        "雨",
+        "嵐",
         "酒",
         "宴会",
         "祝杯"
@@ -626,7 +592,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T14:55:54.858964+00:00Z",
       "freq_rank": 32140,
       "frequencies": {
         "aozora": 90
