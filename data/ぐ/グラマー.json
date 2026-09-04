@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容動詞"
+        "形容動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -325,52 +326,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "艶やか",
-        "豊満",
-        "色っぽい"
-      ],
-      "antonyms": [
-        "痩せ型",
-        "貧相"
-      ],
-      "related": [
-        "セクシー",
-        "体型"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:07:29.422758+00:00Z",
-      "freq_rank": 40214,
-      "frequencies": {
-        "aozora": 8
-      }
-    }
-  },
-  {
-    "uuid": "e40a8725-75f8-5dfc-9402-1b0c7e26416f",
-    "entry": "グラマー",
-    "reading": {
-      "primary": "グラマー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "grammar",
         "register": "standard",
         "nuance": null,
@@ -641,11 +599,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "艶やか",
+        "豊満",
+        "色っぽい",
         "文法",
         "文法学"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "痩せ型",
+        "貧相"
+      ],
       "related": [
+        "セクシー",
+        "体型",
         "言語学",
         "構文",
         "語法"
@@ -654,7 +620,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T13:07:29.422758+00:00Z",
       "freq_rank": 40214,
       "frequencies": {
         "aozora": 8

@@ -21,102 +21,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "green peas",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "「もう、シュウマイの上のグリーンピースだけ残さないの！」と母に叱られた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "春先にスーパーに並ぶ生のグリーンピースは、冷凍のものとは香りが全然違う。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "豆ご飯を作るために、子供と一緒に鞘からグリーンピースを取り出した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "ハネてから明日の新喜劇まつりのけい古へ、その前にホテルへ寄り、オルドヴル、グリーンピースのスープ、フィレソール。",
-              "citation": {
-                "source": "古川ロッパ昭和日記",
-                "author": "昭和十二年",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "えんどう豆",
-        "豌豆",
-        "さやえんどう"
-      ],
-      "antonyms": [],
-      "related": [
-        "豆類",
-        "野菜",
-        "カレー",
-        "料理",
-        "スープ",
-        "グリンピース"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:09:33.852403+00:00Z",
-      "freq_rank": 20169,
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "9d657f09-68b7-5bf8-8b9b-a636dc9eeb9c",
-    "entry": "グリーンピース",
-    "reading": {
-      "primary": "グリーンピース",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "Greenpeace",
         "register": "standard",
         "nuance": null,
@@ -238,11 +142,67 @@
             }
           ]
         }
+      },
+      {
+        "index": 2,
+        "gloss": "green peas",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "「もう、シュウマイの上のグリーンピースだけ残さないの！」と母に叱られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "春先にスーパーに並ぶ生のグリーンピースは、冷凍のものとは香りが全然違う。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "豆ご飯を作るために、子供と一緒に鞘からグリーンピースを取り出した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "ハネてから明日の新喜劇まつりのけい古へ、その前にホテルへ寄り、オルドヴル、グリーンピースのスープ、フィレソール。",
+              "citation": {
+                "source": "古川ロッパ昭和日記",
+                "author": "昭和十二年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "えんどう豆",
+        "豌豆",
+        "さやえんどう"
+      ],
       "antonyms": [],
       "related": [
         "環境団体",
@@ -250,7 +210,13 @@
         "環境保護",
         "反捕鯨",
         "核実験反対",
-        "国際団体"
+        "国際団体",
+        "豆類",
+        "野菜",
+        "カレー",
+        "料理",
+        "スープ",
+        "グリンピース"
       ]
     },
     "meta": {

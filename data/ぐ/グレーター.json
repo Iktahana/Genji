@@ -11,93 +11,8 @@
     },
     "grammar": {
       "pos": [
+        "形容詞-語幹",
         "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "grater",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "パスタの仕上げに、チーズグレーターでパルミジャーノを惜しみなく削り落とした。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "生姜をすりおろす時は、この目の細かいグレーターを使うと口当たりが滑らかになる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "キッチン雑貨店で、レモンの皮を薄く削れるゼスタータイプのグレーターを購入した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "かのパンジャーマニズムとか、パンスラヴィズムとか、グレーターブリタニズムとか、パンアメリカニズムとかいうの類は、すべてこの民族的国家が帝国主義を行わんとする思想を説明したるものに外ならぬ。",
-              "citation": {
-                "source": "文明史上の一新紀元",
-                "author": "大隈重信",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "おろし金"
-      ],
-      "antonyms": [],
-      "related": [
-        "調理器具",
-        "台所"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T13:09:23.797992+00:00Z"
-    }
-  },
-  {
-    "uuid": "c04aa65f-b50c-5f04-8a28-99f1f4b3c1d2",
-    "entry": "グレーター",
-    "reading": {
-      "primary": "グレーター",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "形容詞-語幹"
       ],
       "ctype": null,
       "inflections": null
@@ -154,19 +69,74 @@
             }
           ]
         }
+      },
+      {
+        "index": 2,
+        "gloss": "grater",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "パスタの仕上げに、チーズグレーターでパルミジャーノを惜しみなく削り落とした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "生姜をすりおろす時は、この目の細かいグレーターを使うと口当たりが滑らかになる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "キッチン雑貨店で、レモンの皮を薄く削れるゼスタータイプのグレーターを購入した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "かのパンジャーマニズムとか、パンスラヴィズムとか、グレーターブリタニズムとか、パンアメリカニズムとかいうの類は、すべてこの民族的国家が帝国主義を行わんとする思想を説明したるものに外ならぬ。",
+              "citation": {
+                "source": "文明史上の一新紀元",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
-        "より大きい"
+        "より大きい",
+        "おろし金"
       ],
       "antonyms": [
         "より小さい"
       ],
       "related": [
         "比較",
-        "数量"
+        "数量",
+        "調理器具",
+        "台所"
       ]
     },
     "meta": {
