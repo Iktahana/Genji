@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -290,54 +291,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "淡い",
-        "薄い",
-        "かすかな"
-      ],
-      "antonyms": [
-        "濃い",
-        "鮮やか"
-      ],
-      "related": [
-        "色",
-        "光",
-        "彩度",
-        "明るさ",
-        "淡色"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:24:58.706934+00:00Z",
-      "frequencies": {
-        "aozora": 51
-      }
-    }
-  },
-  {
-    "uuid": "97b8662d-f799-5378-abca-fbf0025af5a0",
-    "entry": "ペール",
-    "reading": {
-      "primary": "ペール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "pail",
         "register": "standard",
         "nuance": null,
@@ -616,12 +572,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "淡い",
+        "薄い",
+        "かすかな",
         "バケツ",
         "桶",
         "樽"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "濃い",
+        "鮮やか"
+      ],
       "related": [
+        "色",
+        "光",
+        "彩度",
+        "明るさ",
+        "淡色",
         "容器",
         "水",
         "運搬",
@@ -631,7 +598,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T21:24:58.706934+00:00Z",
       "frequencies": {
         "aozora": 51
       }

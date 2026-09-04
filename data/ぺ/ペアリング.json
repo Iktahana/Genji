@@ -11,10 +11,13 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -59,45 +62,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "婚約指輪"
-      ],
-      "antonyms": [],
-      "related": [
-        "指輪",
-        "カップル",
-        "婚約"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:14:52.794339+00:00Z"
-    }
-  },
-  {
-    "uuid": "2c84ccf0-95a9-588e-9aa2-60d384d1a433",
-    "entry": "ペアリング",
-    "reading": {
-      "primary": "ペアリング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "pairing",
         "register": "standard",
         "nuance": null,
@@ -143,10 +110,14 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "婚約指輪",
         "組み合わせ"
       ],
       "antonyms": [],
       "related": [
+        "指輪",
+        "カップル",
+        "婚約",
         "マッチング",
         "配対",
         "組対"
@@ -155,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T21:14:52.794339+00:00Z"
     }
   }
 ]

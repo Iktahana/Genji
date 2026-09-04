@@ -4,7 +4,10 @@
     "entry": "ホイスト",
     "reading": {
       "primary": "ホイスト",
-      "alternatives": [],
+      "alternatives": [
+        "ウィスト",
+        "ウイスト"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -162,51 +165,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "巻き上げ機",
-        "リフト",
-        "クレーン"
-      ],
-      "antonyms": [],
-      "related": [
-        "機械",
-        "装置"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:25:59.322025+00:00Z",
-      "frequencies": {
-        "aozora": 13
-      }
-    }
-  },
-  {
-    "uuid": "b8cd914e-6e14-5d4e-af2a-e4508f9377be",
-    "entry": "ホイスト",
-    "reading": {
-      "primary": "ホイスト",
-      "alternatives": [
-        "ウィスト",
-        "ウイスト"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "whist",
         "register": "standard",
         "nuance": null,
@@ -356,9 +317,15 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "巻き上げ機",
+        "リフト",
+        "クレーン"
+      ],
       "antonyms": [],
       "related": [
+        "機械",
+        "装置",
         "トランプ",
         "カードゲーム"
       ]
@@ -366,7 +333,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T21:25:59.322025+00:00Z",
       "frequencies": {
         "aozora": 13
       }

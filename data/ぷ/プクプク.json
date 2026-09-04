@@ -10,7 +10,8 @@
     "grammar": {
       "pos": [
         "副詞",
-        "副詞-と"
+        "副詞-と",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -222,48 +223,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ぷくり"
-      ],
-      "antonyms": [
-        "痩せ細る"
-      ],
-      "related": [
-        "泡",
-        "膨らむ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:52:57.526406+00:00Z",
-      "frequencies": {
-        "aozora": 21
-      }
-    }
-  },
-  {
-    "uuid": "2a597a26-c742-55a7-9151-a05c4ad28940",
-    "entry": "ぷくぷく",
-    "reading": {
-      "primary": "ぷくぷく",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Puku Puku",
         "register": "standard",
         "nuance": null,
@@ -509,14 +471,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": []
+      "synonyms": [
+        "ぷくり"
+      ],
+      "antonyms": [
+        "痩せ細る"
+      ],
+      "related": [
+        "泡",
+        "膨らむ"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-04T19:52:57.526406+00:00Z",
       "frequencies": {
         "aozora": 21
       },

@@ -4,7 +4,9 @@
     "entry": "ペスト",
     "reading": {
       "primary": "ペスト",
-      "alternatives": [],
+      "alternatives": [
+        "ペストウ"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -258,51 +260,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "黒死病",
-        "流行病"
-      ],
-      "antonyms": [],
-      "related": [
-        "伝染病",
-        "疾病",
-        "感染症"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:15:36.636105+00:00Z",
-      "freq_rank": 26819,
-      "frequencies": {
-        "aozora": 363
-      }
-    }
-  },
-  {
-    "uuid": "97dac668-e934-59d8-a3ed-47ea2e242fcb",
-    "entry": "ペスト",
-    "reading": {
-      "primary": "ペスト",
-      "alternatives": [
-        "ペストウ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "pesto",
         "register": "standard",
         "nuance": null,
@@ -548,9 +508,15 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "黒死病",
+        "流行病"
+      ],
       "antonyms": [],
       "related": [
+        "伝染病",
+        "疾病",
+        "感染症",
         "ソース",
         "パスタ",
         "バジル"
@@ -559,7 +525,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T21:15:36.636105+00:00Z",
       "freq_rank": 26819,
       "frequencies": {
         "aozora": 363

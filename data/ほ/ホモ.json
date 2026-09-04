@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "接頭辞"
+        "接頭辞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -470,49 +471,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [
-        "ヘテロ"
-      ],
-      "related": [
-        "同",
-        "同質",
-        "相同",
-        "統一"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T22:30:46.449213+00:00Z",
-      "freq_rank": 16886,
-      "frequencies": {
-        "aozora": 15
-      }
-    }
-  },
-  {
-    "uuid": "49aa1ff5-455b-53b9-b707-d596b8a16104",
-    "entry": "ホモ",
-    "reading": {
-      "primary": "ホモ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 6,
         "gloss": "Homo (genus of primates that includes modern humans)",
         "register": "standard",
         "nuance": null,
@@ -802,8 +763,14 @@
         "原人",
         "人類"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ヘテロ"
+      ],
       "related": [
+        "同",
+        "同質",
+        "相同",
+        "統一",
         "類人猿",
         "進化",
         "化石",
@@ -814,7 +781,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T22:30:46.449213+00:00Z",
       "freq_rank": 16886,
       "frequencies": {
         "aozora": 15

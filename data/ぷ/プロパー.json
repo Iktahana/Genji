@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞-の形容詞"
+        "名詞-の形容詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -378,50 +379,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "正規",
-        "本来"
-      ],
-      "antonyms": [
-        "非正規"
-      ],
-      "related": [
-        "社員"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T20:12:44.898621+00:00Z",
-      "frequencies": {
-        "aozora": 99
-      }
-    }
-  },
-  {
-    "uuid": "4658d085-86fd-517b-b10a-a6cab646dda3",
-    "entry": "プロパー",
-    "reading": {
-      "primary": "プロパー",
-      "alternatives": [
-        "プロパ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "pharmaceutical sales representative",
         "register": "standard",
         "nuance": null,
@@ -699,9 +659,15 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "正規",
+        "本来"
+      ],
+      "antonyms": [
+        "非正規"
+      ],
       "related": [
+        "社員",
         "営業",
         "医薬品"
       ]
@@ -709,7 +675,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T20:12:44.898621+00:00Z",
       "frequencies": {
         "aozora": 99
       }

@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -68,49 +70,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "漂白"
-      ],
-      "antonyms": [
-        "着色"
-      ],
-      "related": [
-        "洗濯",
-        "衣類",
-        "白"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:32:43.395480+00:00Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "9022b56f-f771-5813-966c-55fc582d2d98",
-    "entry": "ブリーチ",
-    "reading": {
-      "primary": "ブリーチ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "breach (of a whale)",
         "register": "standard",
         "nuance": null,
@@ -164,9 +126,16 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "漂白"
+      ],
+      "antonyms": [
+        "着色"
+      ],
       "related": [
+        "洗濯",
+        "衣類",
+        "白",
         "クジラ",
         "海",
         "行動"
@@ -175,7 +144,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T19:32:43.395480+00:00Z",
       "frequencies": {
         "aozora": 1
       }

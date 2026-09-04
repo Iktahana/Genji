@@ -11,10 +11,14 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変",
+        "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -59,45 +63,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "本",
-        "背",
-        "表紙",
-        "装丁"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T20:34:09.562867+00:00Z"
-    }
-  },
-  {
-    "uuid": "bb3fcc80-fa57-50a4-b07d-bd6c53dac374",
-    "entry": "ヘドバン",
-    "reading": {
-      "primary": "ヘドバン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-自動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "headbanging",
         "register": "standard",
         "nuance": null,
@@ -145,6 +113,10 @@
       "synonyms": [],
       "antonyms": [],
       "related": [
+        "本",
+        "背",
+        "表紙",
+        "装丁",
         "ロック",
         "音楽",
         "バンド",
@@ -154,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T20:34:09.562867+00:00Z"
     }
   }
 ]

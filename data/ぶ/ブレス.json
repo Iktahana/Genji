@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -292,49 +294,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "呼吸",
-        "息"
-      ],
-      "antonyms": [],
-      "related": [
-        "吸う",
-        "吐く",
-        "呼吸器"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:37:45.602237+00:00Z",
-      "freq_rank": 29468,
-      "frequencies": {
-        "aozora": 7
-      }
-    }
-  },
-  {
-    "uuid": "3ef316df-3efa-5093-b863-1d086436e601",
-    "entry": "ブレス",
-    "reading": {
-      "primary": "ブレス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "bracelet",
         "register": "standard",
         "nuance": null,
@@ -613,11 +575,16 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "呼吸",
+        "息",
         "ブレスレット",
         "腕輪"
       ],
       "antonyms": [],
       "related": [
+        "吸う",
+        "吐く",
+        "呼吸器",
         "アクセサリー",
         "装飾品",
         "宝飾品"
@@ -626,7 +593,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T19:37:45.602237+00:00Z",
       "freq_rank": 29468,
       "frequencies": {
         "aozora": 7

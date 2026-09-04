@@ -11,10 +11,13 @@
       "pos": [
         "名詞",
         "動詞-サ変",
-        "動詞-自動詞"
+        "動詞-自動詞",
+        "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -102,44 +105,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "漂白",
-        "クジラ",
-        "海"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:32:43.396134+00:00Z"
-    }
-  },
-  {
-    "uuid": "bea66036-e413-520d-8ed0-7aec80e56732",
-    "entry": "ブリーチング",
-    "reading": {
-      "primary": "ブリーチング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "bleaching",
         "register": "standard",
         "nuance": null,
@@ -189,6 +157,9 @@
       ],
       "antonyms": [],
       "related": [
+        "漂白",
+        "クジラ",
+        "海",
         "洗濯",
         "衣類"
       ]
@@ -196,7 +167,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T19:32:43.396134+00:00Z"
     }
   }
 ]

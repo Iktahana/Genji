@@ -4,12 +4,16 @@
     "entry": "ベリベリ",
     "reading": {
       "primary": "ベリベリ",
-      "alternatives": [],
+      "alternatives": [
+        "べりべり"
+      ],
       "is_heteronym": false
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "副詞",
+        "副詞-と"
       ],
       "ctype": null,
       "inflections": null
@@ -258,48 +262,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "栄養失調",
-        "病気",
-        "ビタミン欠乏"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T21:04:35.235082+00:00Z",
-      "frequencies": {
-        "aozora": 27
-      }
-    }
-  },
-  {
-    "uuid": "67cac22b-ee46-5acb-b67d-dd833381b7a9",
-    "entry": "ベリベリ",
-    "reading": {
-      "primary": "ベリベリ",
-      "alternatives": [
-        "べりべり"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "副詞",
-        "副詞-と"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "peeling off (adhesive tape, wallpaper, etc.)",
         "register": "standard",
         "nuance": null,
@@ -548,6 +513,9 @@
       "synonyms": [],
       "antonyms": [],
       "related": [
+        "栄養失調",
+        "病気",
+        "ビタミン欠乏",
         "粘着テープ",
         "剥がす",
         "剥離"
@@ -556,7 +524,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T21:04:35.235082+00:00Z",
       "frequencies": {
         "aozora": 27
       }

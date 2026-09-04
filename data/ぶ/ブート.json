@@ -12,10 +12,13 @@
         "名詞",
         "動詞-サ変",
         "動詞-他動詞",
-        "動詞-自動詞"
+        "動詞-自動詞",
+        "名詞-の形容詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -197,51 +200,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "起動"
-      ],
-      "antonyms": [
-        "シャットダウン"
-      ],
-      "related": [
-        "プログラム",
-        "システム",
-        "立ち上げ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:54:47.392778+00:00Z",
-      "freq_rank": 31749,
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "3639e7c2-3d5b-5b0b-ba0c-85b4e5c80a83",
-    "entry": "ブート",
-    "reading": {
-      "primary": "ブート",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞-の形容詞",
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "bootleg",
         "register": "standard",
         "nuance": null,
@@ -424,12 +385,17 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "起動",
         "海賊盤"
       ],
       "antonyms": [
+        "シャットダウン",
         "正規盤"
       ],
       "related": [
+        "プログラム",
+        "システム",
+        "立ち上げ",
         "音楽",
         "レコード",
         "非公式"
@@ -438,7 +404,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T19:54:47.392778+00:00Z",
       "freq_rank": 31749,
       "frequencies": {
         "aozora": 1

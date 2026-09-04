@@ -74,52 +74,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "約束",
-        "誓い",
-        "保証"
-      ],
-      "antonyms": [
-        "破約",
-        "違反"
-      ],
-      "related": [
-        "契約",
-        "約定",
-        "信頼"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T20:13:21.385591+00:00Z",
-      "frequencies": {
-        "aozora": 2
-      }
-    }
-  },
-  {
-    "uuid": "bc6495d7-8040-5569-8f10-44dbbb054c48",
-    "entry": "プロミス",
-    "reading": {
-      "primary": "プロミス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Promise (consumer loan firm)",
         "register": "standard",
         "nuance": null,
@@ -181,9 +138,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "約束",
+        "誓い",
+        "保証"
+      ],
+      "antonyms": [
+        "破約",
+        "違反"
+      ],
       "related": [
+        "契約",
+        "約定",
+        "信頼",
         "ローン",
         "金融",
         "消費者金融"
@@ -192,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T20:13:21.385591+00:00Z",
       "frequencies": {
         "aozora": 2
       }
