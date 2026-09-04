@@ -12,7 +12,8 @@
     "grammar": {
       "pos": [
         "副詞",
-        "副詞-と"
+        "副詞-と",
+        "接尾辞"
       ],
       "ctype": null,
       "inflections": null
@@ -77,47 +78,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "どきどき",
-        "ときめき"
-      ],
-      "antonyms": [],
-      "related": [
-        "感動",
-        "恋愛",
-        "胸がいっぱい",
-        "ときめく",
-        "萌え"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T10:20:46.330414+00:00Z"
-    }
-  },
-  {
-    "uuid": "0227abdd-5ccb-5c06-aa83-2a449c24eeb1",
-    "entry": "きゅん",
-    "reading": {
-      "primary": "きゅん",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "接尾辞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Mr",
         "register": "standard",
         "nuance": null,
@@ -180,11 +143,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "どきどき",
+        "ときめき",
         "くん",
         "さん"
       ],
       "antonyms": [],
       "related": [
+        "感動",
+        "恋愛",
+        "胸がいっぱい",
+        "ときめく",
+        "萌え",
         "敬称",
         "人名",
         "呼称",
@@ -194,7 +164,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T10:20:46.330414+00:00Z"
     }
   }
 ]

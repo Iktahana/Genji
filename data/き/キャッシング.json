@@ -17,102 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "caching",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "ウェブサイトの表示速度を改善するために、画像をキャッシングする設定にした。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "データベースの負荷を軽減するため、頻繁にアクセスされるデータをキャッシングしている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "このアプリケーションは、ユーザーの操作履歴をローカルにキャッシングしてUXを高めている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "過剰なキャッシングは、メモリを圧迫し逆効果になることもある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "サーバーサイドでのキャッシング戦略が、システムの応答速度に直結する。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "キャッシュ"
-      ],
-      "antonyms": [],
-      "related": [
-        "メモリ",
-        "データ",
-        "アクセス",
-        "パフォーマンス"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T09:48:18.625719+00:00Z",
-      "freq_rank": 26384
-    }
-  },
-  {
-    "uuid": "cb4e48f4-dc38-5216-b33b-f93ec11d0819",
-    "entry": "キャッシング",
-    "reading": {
-      "primary": "キャッシング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "small-loan lending to individuals",
         "register": "standard",
         "nuance": null,
@@ -228,20 +132,84 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "caching",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ウェブサイトの表示速度を改善するために、画像をキャッシングする設定にした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "データベースの負荷を軽減するため、頻繁にアクセスされるデータをキャッシングしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このアプリケーションは、ユーザーの操作履歴をローカルにキャッシングしてUXを高めている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "過剰なキャッシングは、メモリを圧迫し逆効果になることもある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "サーバーサイドでのキャッシング戦略が、システムの応答速度に直結する。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
         "小口融資",
-        "ローン"
+        "ローン",
+        "キャッシュ"
       ],
       "antonyms": [],
       "related": [
         "融資",
         "返済",
         "利息",
-        "クレジット"
+        "クレジット",
+        "メモリ",
+        "データ",
+        "アクセス",
+        "パフォーマンス"
       ]
     },
     "meta": {
