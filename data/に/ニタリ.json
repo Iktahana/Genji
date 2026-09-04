@@ -367,7 +367,8 @@
     },
     "grammar": {
       "pos": [
-        "副詞-と"
+        "副詞-と",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -632,47 +633,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "にやりと"
-      ],
-      "antonyms": [],
-      "related": [
-        "笑う",
-        "薄笑い",
-        "表情"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "frequencies": {
-        "aozora": 137
-      }
-    }
-  },
-  {
-    "uuid": "cb54e9ed-7c31-5f5d-b015-0c547038a3ad",
-    "entry": "ニタリ",
-    "reading": {
-      "primary": "ニタリ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "pelagic thresher (Alopias pelagicus)",
         "register": "standard",
         "nuance": null,
@@ -934,9 +897,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "にやりと"
+      ],
       "antonyms": [],
       "related": [
+        "笑う",
+        "薄笑い",
+        "表情",
         "魚",
         "サメ",
         "ネズミザメ目",

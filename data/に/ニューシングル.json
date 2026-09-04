@@ -19,6 +19,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "person of marriageable age who remains single (e.g. to focus on their career)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼女はキャリアを重視し、あえてニューシングルとしての生き方を選んだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現代社会ではニューシングルのライフスタイルも多様化している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ニューシングルの増加は社会構造の変化を反映している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "new single (by a recording artist)",
         "register": "standard",
         "nuance": null,
@@ -63,84 +106,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "楽曲",
-        "CD",
-        "アーティスト"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T13:57:07.554734+00:00Z"
-    }
-  },
-  {
-    "uuid": "bf5b59df-d034-5e7d-9960-d9960955c98b",
-    "entry": "ニューシングル",
-    "reading": {
-      "primary": "ニューシングル",
-      "alternatives": [
-        "ニュー・シングル"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "person of marriageable age who remains single (e.g. to focus on their career)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼女はキャリアを重視し、あえてニューシングルとしての生き方を選んだ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "現代社会ではニューシングルのライフスタイルも多様化している。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "ニューシングルの増加は社会構造の変化を反映している。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "独身",
         "未婚"
@@ -150,7 +115,10 @@
       ],
       "related": [
         "結婚",
-        "ライフスタイル"
+        "ライフスタイル",
+        "楽曲",
+        "CD",
+        "アーティスト"
       ]
     },
     "meta": {

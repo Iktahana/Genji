@@ -21,6 +21,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "instant (e.g. for display speed of text in computer games)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ゲームの会話はノーウェイトで表示され、ストレスなく読み進められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "シナリオモードでは、メッセージ表示速度をノーウェイトに設定できる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あのアクションゲームは、ノーウェイトの操作感が爽快だ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "no wait state memory (memory the CPU can access without requiring wait states)",
         "register": "standard",
         "nuance": null,
@@ -65,103 +108,25 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [
-        "ウェイト"
-      ],
-      "related": [
-        "メモリ",
-        "CPU",
-        "アクセス速度",
-        "コンピュータ",
-        "遅延"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:35:36.639595+00:00Z"
-    }
-  },
-  {
-    "uuid": "a70c65e8-286b-5110-8006-0d3066d9af96",
-    "entry": "ノーウェイト",
-    "reading": {
-      "primary": "ノーウェイト",
-      "alternatives": [
-        "ノーウエイト",
-        "ノー・ウェイト",
-        "ノー・ウエイト"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "instant (e.g. for display speed of text in computer games)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "ゲームの会話はノーウェイトで表示され、ストレスなく読み進められる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "シナリオモードでは、メッセージ表示速度をノーウェイトに設定できる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "あのアクションゲームは、ノーウェイトの操作感が爽快だ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "瞬間表示",
         "ウェイトなし"
       ],
       "antonyms": [
-        "ウェイトあり"
+        "ウェイトあり",
+        "ウェイト"
       ],
       "related": [
         "ゲーム",
         "メッセージ",
         "設定",
         "表示速度",
-        "アドベンチャー"
+        "アドベンチャー",
+        "メモリ",
+        "CPU",
+        "アクセス速度",
+        "コンピュータ",
+        "遅延"
       ]
     },
     "meta": {

@@ -298,48 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "台風",
-        "暴風",
-        "烈風"
-      ],
-      "antonyms": [],
-      "related": [
-        "秋",
-        "風",
-        "俳句",
-        "季語",
-        "二百十日"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:35:06.585596+00:00Z"
-    }
-  },
-  {
-    "uuid": "ba458190-a0f0-5d83-9db8-00735d2a876c",
-    "entry": "野分き",
-    "reading": {
-      "primary": "のわき",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Nowaki (28th roll of the Tale of Genji)",
         "register": "standard",
         "nuance": null,
@@ -625,9 +586,18 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "台風",
+        "暴風",
+        "烈風"
+      ],
       "antonyms": [],
       "related": [
+        "秋",
+        "風",
+        "俳句",
+        "季語",
+        "二百十日",
         "源氏物語",
         "紫式部",
         "帖",
@@ -637,7 +607,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T14:35:06.585596+00:00Z"
     }
   }
 ]

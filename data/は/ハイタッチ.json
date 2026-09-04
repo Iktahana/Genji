@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "名詞-の形容詞"
       ],
       "ctype": null,
       "inflections": null
@@ -59,47 +60,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "タッチ"
-      ],
-      "antonyms": [],
-      "related": [
-        "挨拶",
-        "喜び",
-        "交流"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T14:41:19.358697+00:00Z"
-    }
-  },
-  {
-    "uuid": "b3aff3de-362a-59d8-bd31-caa75b3b0909",
-    "entry": "ハイタッチ",
-    "reading": {
-      "primary": "ハイタッチ",
-      "alternatives": [
-        "ハイ・タッチ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "名詞-の形容詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "high touch (involvement of personal attention and service)",
         "register": "standard",
         "nuance": null,
@@ -144,9 +107,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "タッチ"
+      ],
       "antonyms": [],
       "related": [
+        "挨拶",
+        "喜び",
+        "交流",
         "高付加価値",
         "サービス",
         "対応"
@@ -155,7 +123,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T14:41:19.358697+00:00Z"
     }
   }
 ]
