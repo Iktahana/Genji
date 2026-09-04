@@ -14,8 +14,10 @@
         "動詞-他動詞",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -449,49 +451,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "呼び出し",
-        "通話"
-      ],
-      "antonyms": [],
-      "related": [
-        "電話",
-        "信号",
-        "応答"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T09:55:52.867506+00:00Z",
-      "freq_rank": 5224,
-      "frequencies": {
-        "aozora": 96
-      }
-    }
-  },
-  {
-    "uuid": "e5c64c28-900c-52fe-b080-e0c58c81b2d6",
-    "entry": "コール",
-    "reading": {
-      "primary": "コール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 6,
         "gloss": "coal",
         "register": "standard",
         "nuance": null,
@@ -754,10 +716,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "呼び出し",
+        "通話",
         "石炭"
       ],
       "antonyms": [],
       "related": [
+        "電話",
+        "信号",
+        "応答",
         "燃料",
         "採掘",
         "エネルギー"
@@ -766,7 +733,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T09:55:52.867506+00:00Z",
       "freq_rank": 5224,
       "frequencies": {
         "aozora": 96

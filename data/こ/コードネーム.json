@@ -19,149 +19,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "chord name",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "楽譜には、各コードのコードネームが丁寧に記されていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "ギターの初心者は、まず基本的なコードネームを覚えることから始める。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "「この曲、サビのコードネームがちょっと変わってるね。」",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "開発コードネームは、ブックマンという。",
-              "citation": {
-                "source": "青空のリスタート",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "だがコードネームをＰＣＸ―01とした新機種では、渡辺たちは明らかにコンピューターに向けて大きく一歩踏み出そうとしていた。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "発表済みのコンポＢＳに続いて日本電気が開発を進めている八ビットの新機種は、ＰＣＸ―01とコードネームで呼ばれていた。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "開発コードネームをリサと付けられたマシンは、解像度を大幅に高め、グラフィックスを強化することを狙っていた。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "坂村のＴＲＯＮプロジェクトは、一九八四（昭和五十九）年六月にスタートするが、もしもＰＣ―１００として発表されるこのマシンの開発コードネームがすっぱぬかれていたら、あの構想はなんと呼ばれていただろう。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "アップルはマッキントッシュに、ＯＭＮＩネットに似通った開発コードネーム、スクールバス★というネットワーク技術を用意していたが、西はより伝送能力の高いＯＭＮＩネットの採用を念頭に置いていた。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "従来の同社のパーソナルコンピューターと同様、半導体が本業の電子デバイス事業本部による、ベティとコードネームで呼ばれたマシンは、情報によればＣＰ／Ｍ―86をメインのＯＳとし、グラフィックスを機能強化しているとのことだった。",
-              "citation": {
-                "source": "パソコン創世記",
-                "author": "富田倫生",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "和音名"
-      ],
-      "antonyms": [],
-      "related": [
-        "音楽理論",
-        "和音",
-        "ギター",
-        "ピアノ",
-        "楽譜"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T09:54:52.993417+00:00Z",
-      "freq_rank": 37621,
-      "frequencies": {
-        "aozora": 7
-      }
-    }
-  },
-  {
-    "uuid": "f930e50a-a4f2-50cc-9ee6-c508773b459c",
-    "entry": "コードネーム",
-    "reading": {
-      "primary": "コードネーム",
-      "alternatives": [
-        "コード・ネーム"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "code name",
         "register": "standard",
         "nuance": null,
@@ -275,6 +132,106 @@
             }
           ]
         }
+      },
+      {
+        "index": 2,
+        "gloss": "chord name",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "楽譜には、各コードのコードネームが丁寧に記されていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ギターの初心者は、まず基本的なコードネームを覚えることから始める。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この曲、サビのコードネームがちょっと変わってるね。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "開発コードネームは、ブックマンという。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だがコードネームをＰＣＸ―01とした新機種では、渡辺たちは明らかにコンピューターに向けて大きく一歩踏み出そうとしていた。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "発表済みのコンポＢＳに続いて日本電気が開発を進めている八ビットの新機種は、ＰＣＸ―01とコードネームで呼ばれていた。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "開発コードネームをリサと付けられたマシンは、解像度を大幅に高め、グラフィックスを強化することを狙っていた。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "坂村のＴＲＯＮプロジェクトは、一九八四（昭和五十九）年六月にスタートするが、もしもＰＣ―１００として発表されるこのマシンの開発コードネームがすっぱぬかれていたら、あの構想はなんと呼ばれていただろう。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アップルはマッキントッシュに、ＯＭＮＩネットに似通った開発コードネーム、スクールバス★というネットワーク技術を用意していたが、西はより伝送能力の高いＯＭＮＩネットの採用を念頭に置いていた。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従来の同社のパーソナルコンピューターと同様、半導体が本業の電子デバイス事業本部による、ベティとコードネームで呼ばれたマシンは、情報によればＣＰ／Ｍ―86をメインのＯＳとし、グラフィックスを機能強化しているとのことだった。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
@@ -282,7 +239,8 @@
       "synonyms": [
         "暗号名",
         "通称",
-        "秘匿名"
+        "秘匿名",
+        "和音名"
       ],
       "antonyms": [
         "本名",
@@ -292,7 +250,12 @@
         "スパイ",
         "作戦名",
         "プロジェクト",
-        "諜報"
+        "諜報",
+        "音楽理論",
+        "和音",
+        "ギター",
+        "ピアノ",
+        "楽譜"
       ]
     },
     "meta": {

@@ -17,93 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "Little Edo",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "川越は「小江戸」と呼ばれ、蔵造りの街並みが今も大切に残されている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "今週末は着物を着て、小江戸の情緒溢れる街をゆっくり散策したい。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "小江戸の風景を写真に収めようと、多くの観光客がカメラを手に歩いている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "」　一こえどなるより早く、パッ！",
-              "citation": {
-                "source": "丹下左膳",
-                "author": "乾雲坤竜の巻",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "川越",
-        "江戸"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:21:31.629890+00:00Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "95d042c8-2cbb-5de2-8ceb-bd53bd31bb9e",
-    "entry": "小江戸",
-    "reading": {
-      "primary": "こえど",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "Koedo",
         "register": "standard",
         "nuance": null,
@@ -196,6 +109,58 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "Little Edo",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "川越は「小江戸」と呼ばれ、蔵造りの街並みが今も大切に残されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今週末は着物を着て、小江戸の情緒溢れる街をゆっくり散策したい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "小江戸の風景を写真に収めようと、多くの観光客がカメラを手に歩いている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "」　一こえどなるより早く、パッ！",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
@@ -204,7 +169,9 @@
       "antonyms": [],
       "related": [
         "列車",
-        "西武鉄道"
+        "西武鉄道",
+        "川越",
+        "江戸"
       ]
     },
     "meta": {

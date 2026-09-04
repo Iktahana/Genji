@@ -298,58 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "科学",
-        "理科",
-        "学術",
-        "自然科学"
-      ],
-      "antonyms": [
-        "人文学",
-        "芸術",
-        "文学"
-      ],
-      "related": [
-        "技術",
-        "研究",
-        "実験",
-        "学問",
-        "テクノロジー",
-        "理論"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:23:25.892960+00:00Z",
-      "freq_rank": 5809,
-      "frequencies": {
-        "aozora": 43
-      }
-    }
-  },
-  {
-    "uuid": "ef6bd5af-cf13-51fd-a5a6-77422e3b3bae",
-    "entry": "サイエンス",
-    "reading": {
-      "primary": "サイエンス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Science (journal)",
         "register": "standard",
         "nuance": null,
@@ -635,21 +586,35 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "科学",
+        "理科",
+        "学術",
+        "自然科学"
+      ],
+      "antonyms": [
+        "人文学",
+        "芸術",
+        "文学"
+      ],
       "related": [
+        "技術",
+        "研究",
+        "実験",
+        "学問",
+        "テクノロジー",
+        "理論",
         "学術誌",
         "科学雑誌",
         "論文",
         "学術出版",
-        "ネイチャー",
-        "研究"
+        "ネイチャー"
       ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T10:23:25.892960+00:00Z",
       "freq_rank": 5809,
       "frequencies": {
         "aozora": 43

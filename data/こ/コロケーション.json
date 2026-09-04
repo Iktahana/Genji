@@ -57,44 +57,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "連語"
-      ],
-      "antonyms": [],
-      "related": [
-        "語彙",
-        "言語学",
-        "組み合わせ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:56:15.277560+00:00Z"
-    }
-  },
-  {
-    "uuid": "408425bc-e247-5ad2-9090-3ee1c845eff1",
-    "entry": "コロケーション",
-    "reading": {
-      "primary": "コロケーション",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "colocation",
         "register": "standard",
         "nuance": null,
@@ -140,11 +105,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "連語",
         "共配置",
         "共同利用"
       ],
       "antonyms": [],
       "related": [
+        "語彙",
+        "言語学",
+        "組み合わせ",
         "データセンター",
         "ネットワーク"
       ]
@@ -152,7 +121,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T14:56:15.277560+00:00Z"
     }
   }
 ]

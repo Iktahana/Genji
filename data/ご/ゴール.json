@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -389,55 +391,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "終点",
-        "到達点",
-        "目標",
-        "目的",
-        "達成"
-      ],
-      "antonyms": [
-        "スタート",
-        "出発点"
-      ],
-      "related": [
-        "競技",
-        "優勝",
-        "締め切り"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:22:44.487589+00:00Z",
-      "freq_rank": 2496,
-      "frequencies": {
-        "aozora": 163
-      }
-    }
-  },
-  {
-    "uuid": "b975d723-4e91-5d08-a76a-249d10d5df39",
-    "entry": "ゴール",
-    "reading": {
-      "primary": "ゴール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 5,
         "gloss": "Gaul (region)",
         "register": "standard",
         "nuance": null,
@@ -724,10 +680,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "終点",
+        "到達点",
+        "目標",
+        "目的",
+        "達成",
         "ガリア"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "スタート",
+        "出発点"
+      ],
       "related": [
+        "競技",
+        "優勝",
+        "締め切り",
         "ローマ帝国",
         "ケルト人",
         "フランス"
@@ -736,7 +703,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-03T10:22:44.487589+00:00Z",
       "freq_rank": 2496,
       "frequencies": {
         "aozora": 163

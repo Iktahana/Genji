@@ -14,7 +14,8 @@
     "grammar": {
       "pos": [
         "副詞",
-        "副詞-と"
+        "副詞-と",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -548,48 +549,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "頻繁に",
-        "次々と"
-      ],
-      "antonyms": [],
-      "related": [
-        "変化",
-        "様子"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T14:56:15.281964+00:00Z",
-      "freq_rank": 19750,
-      "frequencies": {
-        "aozora": 188
-      }
-    }
-  },
-  {
-    "uuid": "2bc3430c-b7d0-5e61-80a4-441c991888f2",
-    "entry": "コロコロ",
-    "reading": {
-      "primary": "コロコロ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 9,
         "gloss": "colocolo (Leopardus colocolo)",
         "register": "standard",
         "nuance": null,
@@ -820,11 +782,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "頻繁に",
+        "次々と",
         "ネコ",
         "野生動物"
       ],
       "antonyms": [],
       "related": [
+        "変化",
+        "様子",
         "動物",
         "南米",
         "猫科"
@@ -833,7 +799,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T14:56:15.281964+00:00Z",
       "freq_rank": 19750,
       "frequencies": {
         "aozora": 188

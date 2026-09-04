@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -76,49 +78,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ビルド",
-        "翻訳"
-      ],
-      "antonyms": [],
-      "related": [
-        "コンパイラ",
-        "ソースコード",
-        "実行ファイル"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T15:01:38.428334+00:00Z",
-      "freq_rank": 16549,
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "7dfb83e5-7e71-5b3c-bc4f-3baa77d12d52",
-    "entry": "コンパイル",
-    "reading": {
-      "primary": "コンパイル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Compile",
         "register": "standard",
         "nuance": null,
@@ -194,7 +156,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T15:01:38.428334+00:00Z",
       "freq_rank": 16549,
       "frequencies": {
         "aozora": 1
