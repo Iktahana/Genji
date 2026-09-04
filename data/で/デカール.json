@@ -4,7 +4,9 @@
     "entry": "デカール",
     "reading": {
       "primary": "デカール",
-      "alternatives": [],
+      "alternatives": [
+        "デカアール"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -57,46 +59,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "転写",
-        "シール"
-      ],
-      "antonyms": [],
-      "related": [
-        "ステッカー",
-        "装飾"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T10:17:57.104247+00:00Z"
-    }
-  },
-  {
-    "uuid": "acc6f963-af8c-5424-bb0c-998178bb7ed5",
-    "entry": "デカール",
-    "reading": {
-      "primary": "デカール",
-      "alternatives": [
-        "デカアール"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "decare (10 ares; 1000 square meters)",
         "register": "standard",
         "nuance": null,
@@ -141,9 +106,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "転写",
+        "シール"
+      ],
       "antonyms": [],
       "related": [
+        "ステッカー",
+        "装飾",
         "面積",
         "単位"
       ]
@@ -151,7 +121,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T10:17:57.104247+00:00Z"
     }
   }
 ]

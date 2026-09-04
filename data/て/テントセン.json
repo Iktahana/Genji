@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "表現"
+        "表現",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -90,42 +91,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "点",
-        "線",
-        "幾何学"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T10:01:44.305574+00:00Z"
-    }
-  },
-  {
-    "uuid": "ad917c5f-7499-5d37-8fef-13c3d5097e35",
-    "entry": "点と線",
-    "reading": {
-      "primary": "てんとせん",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Points and Lines (1958 novel by Matsumoto Seichou)",
         "register": "standard",
         "nuance": null,
@@ -206,6 +174,9 @@
       "synonyms": [],
       "antonyms": [],
       "related": [
+        "点",
+        "線",
+        "幾何学",
         "小説",
         "松本清張",
         "推理小説"
@@ -214,7 +185,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-04T10:01:44.305574+00:00Z"
     }
   }
 ]

@@ -591,12 +591,16 @@
     "entry": "で",
     "reading": {
       "primary": "で",
-      "alternatives": [],
+      "alternatives": [
+        "いで"
+      ],
       "is_heteronym": false
     },
     "grammar": {
       "pos": [
-        "助詞"
+        "助詞",
+        "接続詞",
+        "助動詞"
       ],
       "ctype": null,
       "inflections": null
@@ -860,53 +864,9 @@
           "standard": [],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "出"
-      ],
-      "synonyms": [
-        "において"
-      ],
-      "antonyms": [],
-      "related": [
-        "助詞",
-        "文法",
-        "位置"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 8,
-      "frequencies": {
-        "aozora": 19803
-      }
-    }
-  },
-  {
-    "uuid": "13d2e40e-4141-5465-a920-58c3de31dd87",
-    "entry": "で",
-    "reading": {
-      "primary": "で",
-      "alternatives": [
-        "いで"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "接続詞",
-        "助動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 6,
         "gloss": "without doing ...",
         "register": "standard",
         "nuance": null,
@@ -1170,19 +1130,22 @@
         "出"
       ],
       "synonyms": [
+        "において",
         "ず"
       ],
       "antonyms": [],
       "related": [
+        "助詞",
+        "文法",
+        "位置",
         "助動詞",
-        "否定",
-        "文法"
+        "否定"
       ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 8,
       "frequencies": {
         "aozora": 19803

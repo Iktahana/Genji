@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -300,48 +302,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ドライブ"
-      ],
-      "antonyms": [],
-      "related": [
-        "旅行",
-        "バイク",
-        "自動車"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T08:51:03.501628+00:00Z",
-      "freq_rank": 11122,
-      "frequencies": {
-        "aozora": 38
-      }
-    }
-  },
-  {
-    "uuid": "8ed231e1-68f1-5718-b02c-b7382b0071fb",
-    "entry": "ツーリング",
-    "reading": {
-      "primary": "ツーリング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "tooling",
         "register": "standard",
         "nuance": null,
@@ -627,9 +590,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ドライブ"
+      ],
       "antonyms": [],
       "related": [
+        "旅行",
+        "バイク",
+        "自動車",
         "加工",
         "製造",
         "工具",
@@ -639,7 +607,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T08:51:03.501628+00:00Z",
       "freq_rank": 11122,
       "frequencies": {
         "aozora": 38
