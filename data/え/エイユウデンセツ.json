@@ -17,87 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "heroic legendary tale",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "この山には、かつてこの地を守った英雄伝説が今も語り継がれている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "子供向けの絵本には、勇敢な騎士とドラゴンが登場する英雄伝説が描かれていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "歴史学者は、英雄伝説に残された手がかりから、失われた古代文明の謎を解き明かそうとしている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "英雄譚",
-        "神話"
-      ],
-      "antonyms": [],
-      "related": [
-        "伝説",
-        "物語",
-        "英雄",
-        "冒険",
-        "伝承"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:35:44.014412+00:00Z"
-    }
-  },
-  {
-    "uuid": "96c90875-01fe-5e1e-9aab-d059a55fddfa",
-    "entry": "英雄伝説",
-    "reading": {
-      "primary": "えいゆうでんせつ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "Legend of Heroes (video game series)",
         "register": "standard",
         "nuance": null,
@@ -154,12 +73,57 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 2,
+        "gloss": "heroic legendary tale",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "この山には、かつてこの地を守った英雄伝説が今も語り継がれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供向けの絵本には、勇敢な騎士とドラゴンが登場する英雄伝説が描かれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史学者は、英雄伝説に残された手がかりから、失われた古代文明の謎を解き明かそうとしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
-        "軌跡シリーズ"
+        "軌跡シリーズ",
+        "英雄譚",
+        "神話"
       ],
       "antonyms": [],
       "related": [
@@ -167,7 +131,12 @@
         "ロールプレイングゲーム",
         "空の軌跡",
         "ガガーブ",
-        "RPG"
+        "RPG",
+        "伝説",
+        "物語",
+        "英雄",
+        "冒険",
+        "伝承"
       ]
     },
     "meta": {

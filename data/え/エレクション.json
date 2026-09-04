@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "election",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "次の「エレクション」では、どんな候補者が現れるだろうか。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「エレクション」の結果が速報で伝えられ、会場は興奮に包まれた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "国民は「エレクション」を通じて、国の未来を決める権利を持つ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "erection",
         "register": "standard",
         "nuance": null,
@@ -62,92 +105,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
-        "勃起"
-      ],
-      "antonyms": [],
-      "related": [
-        "性",
-        "男性",
-        "生理現象",
-        "インポテンツ",
-        "勃起不全"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:59:32.413233+00:00Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "885c1a74-0be3-55bd-9306-2417e654e85f",
-    "entry": "エレクション",
-    "reading": {
-      "primary": "エレクション",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "election",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "次の「エレクション」では、どんな候補者が現れるだろうか。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "「エレクション」の結果が速報で伝えられ、会場は興奮に包まれた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "国民は「エレクション」を通じて、国の未来を決める権利を持つ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
         "選挙",
         "投票",
-        "選出"
+        "選出",
+        "勃起"
       ],
       "antonyms": [],
       "related": [
@@ -156,7 +117,12 @@
         "候補者",
         "議会",
         "政治",
-        "選挙権"
+        "選挙権",
+        "性",
+        "男性",
+        "生理現象",
+        "インポテンツ",
+        "勃起不全"
       ]
     },
     "meta": {

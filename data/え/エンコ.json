@@ -991,8 +991,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -1297,45 +1299,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "座る",
-        "抗議"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
-      "frequencies": {
-        "aozora": 28
-      }
-    }
-  },
-  {
-    "uuid": "9dd5cf66-ee1f-5f10-972b-a60a80830387",
-    "entry": "エンコ",
-    "reading": {
-      "primary": "エンコ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "encoding",
         "register": "standard",
         "nuance": null,
@@ -1602,6 +1568,8 @@
       ],
       "antonyms": [],
       "related": [
+        "座る",
+        "抗議",
         "復号化",
         "デコード",
         "変換"
