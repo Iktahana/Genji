@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -311,53 +313,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "静寂",
-        "無言",
-        "黙秘"
-      ],
-      "antonyms": [
-        "喧騒",
-        "会話"
-      ],
-      "related": [
-        "静か",
-        "話さない",
-        "耳を傾ける"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T07:47:08.967504+00:00Z",
-      "freq_rank": 6079,
-      "frequencies": {
-        "aozora": 4307
-      }
-    }
-  },
-  {
-    "uuid": "d0a862ab-4267-52a1-8f13-cf487e0ad6f7",
-    "entry": "沈黙",
-    "reading": {
-      "primary": "ちんもく",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Silence (1966 novel by Shūsaku Endō)",
         "register": "standard",
         "nuance": null,
@@ -611,9 +569,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "静寂",
+        "無言",
+        "黙秘"
+      ],
+      "antonyms": [
+        "喧騒",
+        "会話"
+      ],
       "related": [
+        "静か",
+        "話さない",
+        "耳を傾ける",
         "遠藤周作",
         "小説",
         "文学",
@@ -623,7 +591,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T07:47:08.967504+00:00Z",
       "freq_rank": 6079,
       "frequencies": {
         "aozora": 4307

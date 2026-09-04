@@ -19,6 +19,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "cheater (esp. in video games)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "あのプレイヤーは明らかにチーターだ、あんなに早くレベルアップできるはずがない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "オンラインゲームでチーターが増えると、真面目にプレイしている人がやる気をなくす。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はチーター行為がばれて、ゲームのアカウントを永久停止された。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "cheetah (Acinonyx jubatus)",
         "register": "standard",
         "nuance": null,
@@ -63,82 +106,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "肉食動物",
-        "ネコ科",
-        "アフリカ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T07:49:08.583022+00:00Z"
-    }
-  },
-  {
-    "uuid": "1d8ddfb3-f44f-5574-bec1-f4effd8ba399",
-    "entry": "チーター",
-    "reading": {
-      "primary": "チーター",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "cheater (esp. in video games)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "あのプレイヤーは明らかにチーターだ、あんなに早くレベルアップできるはずがない。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "オンラインゲームでチーターが増えると、真面目にプレイしている人がやる気をなくす。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "彼はチーター行為がばれて、ゲームのアカウントを永久停止された。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "不正者",
         "ズル"
@@ -149,7 +116,10 @@
       "related": [
         "ゲーム",
         "不正",
-        "プレイ"
+        "プレイ",
+        "肉食動物",
+        "ネコ科",
+        "アフリカ"
       ]
     },
     "meta": {

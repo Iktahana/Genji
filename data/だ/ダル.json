@@ -4,12 +4,15 @@
     "entry": "ダル",
     "reading": {
       "primary": "ダル",
-      "alternatives": [],
+      "alternatives": [
+        "ダール"
+      ],
       "is_heteronym": false
     },
     "grammar": {
       "pos": [
-        "形容動詞"
+        "形容動詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -290,49 +293,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "豆",
-        "インド料理",
-        "食事",
-        "食材"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T05:55:31.626617+00:00Z",
-      "freq_rank": 11148,
-      "frequencies": {
-        "aozora": 38
-      }
-    }
-  },
-  {
-    "uuid": "18c82ecb-5486-5439-82c9-cdf9829e9a8f",
-    "entry": "ダル",
-    "reading": {
-      "primary": "ダル",
-      "alternatives": [
-        "ダール"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Indian split pulse (lentils, peas or beans)",
         "register": "standard",
         "nuance": null,
@@ -615,14 +578,15 @@
       "related": [
         "豆",
         "インド料理",
-        "カレー",
-        "食材"
+        "食事",
+        "食材",
+        "カレー"
       ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T05:55:31.626617+00:00Z",
       "freq_rank": 11148,
       "frequencies": {
         "aozora": 38
