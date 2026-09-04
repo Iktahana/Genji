@@ -206,8 +206,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -583,49 +585,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "乾田",
-        "感電"
-      ],
-      "synonyms": [
-        "電極"
-      ],
-      "antonyms": [],
-      "related": [
-        "陽極",
-        "陰極",
-        "電池",
-        "電気分解",
-        "電流"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
-    }
-  },
-  {
-    "uuid": "ac7cfc88-ac0a-549d-a25c-4241e052c599",
-    "entry": "関電",
-    "reading": {
-      "primary": "かんでん",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Kansai Electric Power (abbr)",
         "register": "standard",
         "nuance": null,
@@ -683,10 +645,16 @@
         "感電"
       ],
       "synonyms": [
+        "電極",
         "関西電力"
       ],
       "antonyms": [],
       "related": [
+        "陽極",
+        "陰極",
+        "電池",
+        "電気分解",
+        "電流",
         "電力会社",
         "電気",
         "関西",

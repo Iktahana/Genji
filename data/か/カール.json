@@ -14,8 +14,10 @@
         "動詞-他動詞",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -293,52 +295,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "巻く",
-        "カーブ"
-      ],
-      "antonyms": [
-        "ストレート",
-        "伸ばす"
-      ],
-      "related": [
-        "巻き毛",
-        "波状",
-        "ウェーブ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T07:25:23.069730+00:00Z",
-      "freq_rank": 8933,
-      "frequencies": {
-        "aozora": 409
-      }
-    }
-  },
-  {
-    "uuid": "199b8d6c-2f65-50d0-bbbc-28348637e2c5",
-    "entry": "カール",
-    "reading": {
-      "primary": "カール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "cirque",
         "register": "standard",
         "nuance": null,
@@ -609,10 +568,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "巻く",
+        "カーブ",
         "圏谷"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ストレート",
+        "伸ばす"
+      ],
       "related": [
+        "巻き毛",
+        "波状",
+        "ウェーブ",
         "氷河",
         "山谷",
         "地形",
@@ -622,7 +589,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T07:25:23.069730+00:00Z",
       "freq_rank": 8933,
       "frequencies": {
         "aozora": 409

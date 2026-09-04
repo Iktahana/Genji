@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -276,55 +278,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "守備",
-        "防御",
-        "防衛",
-        "護衛",
-        "警備"
-      ],
-      "antonyms": [
-        "攻撃"
-      ],
-      "related": [
-        "警護",
-        "盾",
-        "ボディーガード",
-        "防具"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T08:19:49.835978+00:00Z",
-      "freq_rank": 9203,
-      "frequencies": {
-        "aozora": 191
-      }
-    }
-  },
-  {
-    "uuid": "d712f3f8-bc76-5a5c-80ec-ea4b62c18018",
-    "entry": "ガード",
-    "reading": {
-      "primary": "ガード",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "railway bridge (over a road)",
         "register": "standard",
         "nuance": null,
@@ -579,11 +535,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "守備",
+        "防御",
+        "防衛",
+        "護衛",
+        "警備",
         "高架橋",
         "高架"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "攻撃"
+      ],
       "related": [
+        "警護",
+        "盾",
+        "ボディーガード",
+        "防具",
         "鉄道",
         "高架線",
         "跨線橋",
@@ -593,7 +560,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T08:19:49.835978+00:00Z",
       "freq_rank": 9203,
       "frequencies": {
         "aozora": 191

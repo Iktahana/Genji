@@ -18,95 +18,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "collarless",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "クールビズのため、夏はカラーレスのシャツを好んで着ている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "そのジャケットはカラーレスなので、首元がすっきりして見える。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "彼女はいつもシンプルなカラーレスのワンピースを上品に着こなしている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "このユニフォームは動きやすさを重視し、襟のないカラーレスデザインになっている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "襟なし"
-      ],
-      "antonyms": [
-        "有襟"
-      ],
-      "related": [
-        "衣類",
-        "ファッション",
-        "デザイン"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T05:59:41.709255+00:00Z"
-    }
-  },
-  {
-    "uuid": "14815010-c59b-5160-abd9-ef7fb1b4a9e4",
-    "entry": "カラーレス",
-    "reading": {
-      "primary": "カラーレス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "形容動詞",
-        "名詞-の形容詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "colorless",
         "register": "standard",
         "nuance": null,
@@ -163,22 +74,78 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 2,
+        "gloss": "collarless",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "クールビズのため、夏はカラーレスのシャツを好んで着ている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのジャケットはカラーレスなので、首元がすっきりして見える。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はいつもシンプルなカラーレスのワンピースを上品に着こなしている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このユニフォームは動きやすさを重視し、襟のないカラーレスデザインになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
         "無色",
-        "無彩色"
+        "無彩色",
+        "襟なし"
       ],
       "antonyms": [
         "有色",
-        "着色"
+        "着色",
+        "有襟"
       ],
       "related": [
         "透明",
         "色",
-        "化学"
+        "化学",
+        "衣類",
+        "ファッション",
+        "デザイン"
       ]
     },
     "meta": {

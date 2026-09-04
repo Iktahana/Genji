@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -308,52 +310,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "空騒動",
-        "徒労",
-        "無駄"
-      ],
-      "antonyms": [
-        "静寂",
-        "沈黙"
-      ],
-      "related": [
-        "騒ぎ",
-        "騒音",
-        "騒々しい"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T05:50:25.128411+00:00Z",
-      "frequencies": {
-        "aozora": 30
-      }
-    }
-  },
-  {
-    "uuid": "eb5b639d-ef17-5258-b387-f1334ca81381",
-    "entry": "空騒ぎ",
-    "reading": {
-      "primary": "からさわぎ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Much Ado about Nothing (Shakespeare)",
         "register": "standard",
         "nuance": null,
@@ -639,9 +598,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "空騒動",
+        "徒労",
+        "無駄"
+      ],
+      "antonyms": [
+        "静寂",
+        "沈黙"
+      ],
       "related": [
+        "騒ぎ",
+        "騒音",
+        "騒々しい",
         "シェイクスピア",
         "劇作品",
         "英語文学"
@@ -650,7 +619,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-02T05:50:25.128411+00:00Z",
       "frequencies": {
         "aozora": 30
       },

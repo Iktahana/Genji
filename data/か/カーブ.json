@@ -15,8 +15,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -361,50 +363,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "曲線",
-        "弧"
-      ],
-      "antonyms": [
-        "直線"
-      ],
-      "related": [
-        "球",
-        "野球"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T07:24:12.062537+00:00Z",
-      "freq_rank": 8952,
-      "frequencies": {
-        "aozora": 218
-      }
-    }
-  },
-  {
-    "uuid": "0d49c1e7-aa36-5a96-a499-28185daac7eb",
-    "entry": "カーブ",
-    "reading": {
-      "primary": "カーブ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "(wine) cellar",
         "register": "standard",
         "nuance": null,
@@ -699,13 +660,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "曲線",
+        "弧",
         "地下室",
         "セラー"
       ],
       "antonyms": [
+        "直線",
         "屋上"
       ],
       "related": [
+        "球",
+        "野球",
         "ワイン",
         "貯蔵"
       ]
@@ -713,7 +679,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-02T07:24:12.062537+00:00Z",
       "freq_rank": 8952,
       "frequencies": {
         "aozora": 218
