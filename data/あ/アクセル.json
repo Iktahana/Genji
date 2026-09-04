@@ -298,52 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "アクセルペダル",
-        "スロットル"
-      ],
-      "antonyms": [
-        "ブレーキ"
-      ],
-      "related": [
-        "自動車",
-        "運転",
-        "加速",
-        "ペダル"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:13:07.969516+00:00Z",
-      "freq_rank": 13412,
-      "frequencies": {
-        "aozora": 43
-      }
-    }
-  },
-  {
-    "uuid": "fceb61c1-0b21-577e-a8de-e6b09e183fec",
-    "entry": "アクセル",
-    "reading": {
-      "primary": "アクセル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Axel (jump)",
         "register": "standard",
         "nuance": null,
@@ -630,10 +587,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "アクセルペダル",
+        "スロットル",
         "アクセルジャンプ"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ブレーキ"
+      ],
       "related": [
+        "自動車",
+        "運転",
+        "加速",
+        "ペダル",
         "フィギュアスケート",
         "ジャンプ",
         "ルッツ",
@@ -643,7 +608,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:13:07.969516+00:00Z",
       "freq_rank": 13412,
       "frequencies": {
         "aozora": 43

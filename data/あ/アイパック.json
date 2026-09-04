@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "iPaq",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "昔、スケジュール管理のためにコンパックのアイパックを常に持ち歩いていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "引き出しの奥から、画面に傷のついた古いアイパックが出てきて懐かしくなった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "スマートフォンが普及する前、彼は最新型のアイパックで外出先からメールをチェックしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "eye pack (beauty treatment)",
         "register": "standard",
         "nuance": null,
@@ -64,10 +107,16 @@
         "ＡＩＰＡＣ"
       ],
       "synonyms": [
+        "PDA",
+        "携帯情報端末",
         "目元パック"
       ],
       "antonyms": [],
       "related": [
+        "ヒューレット・パッカード",
+        "コンピュータ",
+        "ガジェット",
+        "スマートフォン",
         "美容",
         "スキンケア",
         "化粧品",
@@ -77,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:52:44.614758+00:00Z"
+      "updated_at": "2026-03-22T12:50:57Z"
     }
   },
   {
@@ -153,88 +202,6 @@
         "アメリカ",
         "イスラエル",
         "政治"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
-    }
-  },
-  {
-    "uuid": "596a5d1f-46a7-5eb5-9c25-c31c6b607cb0",
-    "entry": "アイパック",
-    "reading": {
-      "primary": "アイパック",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "iPaq",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "昔、スケジュール管理のためにコンパックのアイパックを常に持ち歩いていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "引き出しの奥から、画面に傷のついた古いアイパックが出てきて懐かしくなった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "スマートフォンが普及する前、彼は最新型のアイパックで外出先からメールをチェックしていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "ＡＩＰＡＣ"
-      ],
-      "synonyms": [
-        "PDA",
-        "携帯情報端末"
-      ],
-      "antonyms": [],
-      "related": [
-        "ヒューレット・パッカード",
-        "コンピュータ",
-        "ガジェット",
-        "スマートフォン"
       ]
     },
     "meta": {

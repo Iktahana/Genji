@@ -13,7 +13,8 @@
     "grammar": {
       "pos": [
         "名詞",
-        "名詞-の形容詞"
+        "名詞-の形容詞",
+        "形容動詞"
       ],
       "ctype": null,
       "inflections": null
@@ -57,53 +58,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "向かい風",
-        "逆風"
-      ],
-      "antonyms": [
-        "フォロー",
-        "追い風",
-        "順風"
-      ],
-      "related": [
-        "風",
-        "ゴルフ",
-        "アゲインスト"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:27:58.559838+00:00Z"
-    }
-  },
-  {
-    "uuid": "8eed64ad-4b56-54eb-b76a-0d7034dbed05",
-    "entry": "アゲンスト",
-    "reading": {
-      "primary": "アゲンスト",
-      "alternatives": [
-        "アゲインスト",
-        "アゲィンスト"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "形容動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "opposition",
         "register": "standard",
         "nuance": null,
@@ -145,15 +102,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "向かい風",
+        "逆風",
         "反対",
         "逆",
         "対立"
       ],
       "antonyms": [
+        "フォロー",
+        "追い風",
+        "順風",
         "賛成",
         "プロ"
       ],
       "related": [
+        "風",
+        "ゴルフ",
+        "アゲインスト",
         "抗議",
         "対抗",
         "逆境"
@@ -162,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z"
+      "updated_at": "2026-06-01T13:27:58.559838+00:00Z"
     }
   }
 ]

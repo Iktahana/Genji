@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "形容詞-語幹"
       ],
       "ctype": null,
       "inflections": null
@@ -288,54 +289,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "偶像",
-        "スター",
-        "カリスマ",
-        "人気者"
-      ],
-      "antonyms": [],
-      "related": [
-        "芸能人",
-        "歌手",
-        "タレント",
-        "ファン",
-        "オタク",
-        "推し"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T12:51:30.123623+00:00Z",
-      "freq_rank": 4863,
-      "frequencies": {
-        "aozora": 18
-      }
-    }
-  },
-  {
-    "uuid": "25ae3663-72f9-5648-ac26-5dbeeae9f102",
-    "entry": "アイドル",
-    "reading": {
-      "primary": "アイドル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "形容詞-語幹"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "idle",
         "register": "standard",
         "nuance": null,
@@ -526,6 +482,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "偶像",
+        "スター",
+        "カリスマ",
+        "人気者",
         "休止",
         "空き",
         "無操作",
@@ -537,6 +497,12 @@
         "ビジー"
       ],
       "related": [
+        "芸能人",
+        "歌手",
+        "タレント",
+        "ファン",
+        "オタク",
+        "推し",
         "アイドルタイム",
         "アイドル状態",
         "遊休",
@@ -546,7 +512,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T12:51:30.123623+00:00Z",
       "freq_rank": 4863,
       "frequencies": {
         "aozora": 18

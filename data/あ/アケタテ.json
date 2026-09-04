@@ -11,10 +11,13 @@
       "pos": [
         "名詞",
         "動詞-サ変",
-        "動詞-他動詞"
+        "動詞-他動詞",
+        "名詞-の形容詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -296,49 +299,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "開け閉め",
-        "開閉"
-      ],
-      "antonyms": [],
-      "related": [
-        "戸",
-        "扉",
-        "障子",
-        "建具"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:22:43.204932+00:00Z",
-      "frequencies": {
-        "aozora": 16
-      }
-    }
-  },
-  {
-    "uuid": "d56c30c3-646f-57fd-aba7-3ea5e72efe3b",
-    "entry": "開けたて",
-    "reading": {
-      "primary": "あけたて",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞-の形容詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "just opened",
         "register": "standard",
         "nuance": null,
@@ -621,11 +584,17 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "開け閉め",
+        "開閉",
         "開きたて",
         "開封直後"
       ],
       "antonyms": [],
       "related": [
+        "戸",
+        "扉",
+        "障子",
+        "建具",
         "新鮮",
         "開封",
         "パッケージ",
@@ -635,7 +604,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T22:30:00Z",
+      "updated_at": "2026-06-01T13:22:43.204932+00:00Z",
       "frequencies": {
         "aozora": 16
       }
