@@ -84,18 +84,90 @@
             }
           ]
         }
+      },
+      {
+        "index": 2,
+        "gloss": "bump",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "スキーで転んで、体に大きなバンプができてしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "オフロードバイクは、路面のバンプを乗り越えて進む。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "練習中にボールが頭に当たり、大きなバンプができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "」何というバンプ〔vamp ＝ 妖婦、男たらし、浮気女〕だろう！",
+              "citation": {
+                "source": "オパール色の手紙",
+                "author": "――ある女の日記――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、あのバンプをのこして、おめおめと死ぬことができるだろうか。",
+              "citation": {
+                "source": "オパール色の手紙",
+                "author": "――ある女の日記――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女の態度が一変し、バンプ型の女になったのには、大した意味はなかったのであった。",
+              "citation": {
+                "source": "銀三十枚",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
-        "魔性の女"
+        "魔性の女",
+        "衝突",
+        "こぶ"
       ],
       "antonyms": [],
       "related": [
         "女性",
         "魅力",
-        "映画"
+        "映画",
+        "衝撃",
+        "凹凸"
       ]
     },
     "meta": {
@@ -425,113 +497,6 @@
       "updated_at": "2026-03-22T12:50:57Z",
       "frequencies": {
         "aozora": 41
-      }
-    }
-  },
-  {
-    "uuid": "706e5499-9dac-5d4a-9a1b-d0e66ca9adff",
-    "entry": "バンプ",
-    "reading": {
-      "primary": "バンプ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "bump",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "スキーで転んで、体に大きなバンプができてしまった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "オフロードバイクは、路面のバンプを乗り越えて進む。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "練習中にボールが頭に当たり、大きなバンプができた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "」何というバンプ〔vamp ＝ 妖婦、男たらし、浮気女〕だろう！",
-              "citation": {
-                "source": "オパール色の手紙",
-                "author": "――ある女の日記――",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "しかし、あのバンプをのこして、おめおめと死ぬことができるだろうか。",
-              "citation": {
-                "source": "オパール色の手紙",
-                "author": "――ある女の日記――",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "彼女の態度が一変し、バンプ型の女になったのには、大した意味はなかったのであった。",
-              "citation": {
-                "source": "銀三十枚",
-                "author": "国枝史郎",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "衝突",
-        "こぶ"
-      ],
-      "antonyms": [],
-      "related": [
-        "衝撃",
-        "凹凸"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 43673,
-      "frequencies": {
-        "aozora": 4
       }
     }
   }

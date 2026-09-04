@@ -298,48 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "百科事典",
-        "百科"
-      ],
-      "antonyms": [],
-      "related": [
-        "知識",
-        "学習",
-        "フランス"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:43:00.256611+00:00Z",
-      "frequencies": {
-        "aozora": 93
-      }
-    }
-  },
-  {
-    "uuid": "1e1dd885-5304-572c-bd2d-79860f7167ef",
-    "entry": "百科全書",
-    "reading": {
-      "primary": "ひゃっかぜんしょ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers (French encyclopedia edited by Denis Diderot)",
         "register": "standard",
         "nuance": null,
@@ -625,9 +586,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "百科事典",
+        "百科"
+      ],
       "antonyms": [],
       "related": [
+        "知識",
+        "学習",
         "フランス",
         "辞典",
         "著作"
@@ -636,7 +602,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T16:43:00.256611+00:00Z",
       "frequencies": {
         "aozora": 93
       }

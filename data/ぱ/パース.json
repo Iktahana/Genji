@@ -4,15 +4,21 @@
     "entry": "パース",
     "reading": {
       "primary": "パース",
-      "alternatives": [],
+      "alternatives": [
+        "パーズ"
+      ],
       "is_heteronym": false
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変",
+        "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -333,51 +339,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "ＰａａＳ"
-      ],
-      "synonyms": [
-        "遠近法",
-        "透視法"
-      ],
-      "antonyms": [],
-      "related": [
-        "建築",
-        "絵画",
-        "図法"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:04:22.088728+00:00Z",
-      "freq_rank": 12869,
-      "frequencies": {
-        "aozora": 17
-      }
-    }
-  },
-  {
-    "uuid": "3f7720cc-7511-56c2-bf9c-014bca748e13",
-    "entry": "パース",
-    "reading": {
-      "primary": "パース",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "purse",
         "register": "standard",
         "nuance": null,
@@ -651,55 +615,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "ＰａａＳ"
-      ],
-      "synonyms": [
-        "財布",
-        "小銭入れ"
-      ],
-      "antonyms": [],
-      "related": [
-        "金銭",
-        "持ち物",
-        "小物"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 12869,
-      "frequencies": {
-        "aozora": 17
-      }
-    }
-  },
-  {
-    "uuid": "3f7720cc-7511-56c2-bf9c-014bca748e13",
-    "entry": "パース",
-    "reading": {
-      "primary": "パース",
-      "alternatives": [
-        "パーズ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "parsing",
         "register": "standard",
         "nuance": null,
@@ -980,10 +898,20 @@
         "ＰａａＳ"
       ],
       "synonyms": [
+        "遠近法",
+        "透視法",
+        "財布",
+        "小銭入れ",
         "解析"
       ],
       "antonyms": [],
       "related": [
+        "建築",
+        "絵画",
+        "図法",
+        "金銭",
+        "持ち物",
+        "小物",
         "プログラム",
         "言語",
         "コンピュータ"
@@ -992,7 +920,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T16:04:22.088728+00:00Z",
       "freq_rank": 12869,
       "frequencies": {
         "aozora": 17

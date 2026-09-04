@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -92,53 +94,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "批判",
-        "非難",
-        "攻撃"
-      ],
-      "antonyms": [
-        "擁護",
-        "賛同"
-      ],
-      "related": [
-        "メディア",
-        "世論",
-        "炎上"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:44:07.993780+00:00Z",
-      "freq_rank": 15935,
-      "frequencies": {
-        "aozora": 5
-      }
-    }
-  },
-  {
-    "uuid": "b69bdbe9-9c0b-5191-869c-1f28f32e54b2",
-    "entry": "バッシング",
-    "reading": {
-      "primary": "バッシング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "bussing",
         "register": "standard",
         "nuance": null,
@@ -217,10 +175,19 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "批判",
+        "非難",
+        "攻撃",
         "皿片付け"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "擁護",
+        "賛同"
+      ],
       "related": [
+        "メディア",
+        "世論",
+        "炎上",
         "飲食店",
         "食器",
         "アルバイト"
@@ -229,7 +196,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T15:44:07.993780+00:00Z",
       "freq_rank": 15935,
       "frequencies": {
         "aozora": 5

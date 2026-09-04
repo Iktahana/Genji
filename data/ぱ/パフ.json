@@ -9,7 +9,9 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "副詞-と",
+        "副詞"
       ],
       "ctype": null,
       "inflections": null
@@ -333,50 +335,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "パウダーパフ",
-        "粉筆"
-      ],
-      "antonyms": [],
-      "related": [
-        "化粧",
-        "パウダー",
-        "スポンジ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:58:36.100557+00:00Z",
-      "freq_rank": 26533,
-      "frequencies": {
-        "aozora": 18
-      }
-    }
-  },
-  {
-    "uuid": "e3100d84-8c30-53bd-b519-57431c75ecc1",
-    "entry": "パフ",
-    "reading": {
-      "primary": "パフ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "副詞-と",
-        "副詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "parp (horn sound)",
         "register": "standard",
         "nuance": null,
@@ -655,10 +616,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "パウダーパフ",
+        "粉筆",
         "クラクション音"
       ],
       "antonyms": [],
       "related": [
+        "化粧",
+        "パウダー",
+        "スポンジ",
         "音声",
         "笛"
       ]
@@ -666,7 +632,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T15:58:36.100557+00:00Z",
       "freq_rank": 26533,
       "frequencies": {
         "aozora": 18

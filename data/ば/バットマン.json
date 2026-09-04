@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "Batman",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "子どもがハロウィンの仮装でバットマンになりきっていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "映画のバットマンは、常に正義のために戦うヒーローだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "バットマンのフィギュアをコレクションしている友人がいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "battement (ballet movement)",
         "register": "standard",
         "nuance": null,
@@ -61,83 +104,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "バレエ",
-        "舞踊",
-        "技法"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:44:19.076841+00:00Z",
-      "freq_rank": 32146
-    }
-  },
-  {
-    "uuid": "8a7f9ac0-ab31-5375-a40e-1313a4488f18",
-    "entry": "バットマン",
-    "reading": {
-      "primary": "バットマン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "Batman",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "子どもがハロウィンの仮装でバットマンになりきっていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "映画のバットマンは、常に正義のために戦うヒーローだ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "バットマンのフィギュアをコレクションしている友人がいる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "ブルース・ウェイン"
       ],
@@ -145,7 +111,10 @@
       "related": [
         "DCコミックス",
         "ヒーロー",
-        "アメコミ"
+        "アメコミ",
+        "バレエ",
+        "舞踊",
+        "技法"
       ]
     },
     "meta": {

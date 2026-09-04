@@ -17,6 +17,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "ballista",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "古代ローマ軍は強力な兵器、バリスタを攻城戦で用いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その巨大なバリスタは、重い石弾を遠くまで飛ばすことができた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "映画の中で、城壁を破壊するバリスタの迫力あるシーンに驚いた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "これに對し彼は注意を傾け數種の火藥を發明し、中には或る國で用いられたバリスタイト、コルダイトと同樣なものがあつて、前後の爭いがあつたそうだが、戰爭を忌避する我邦でその詳細を發表するは無意味であるから筆を擱く。",
+              "citation": {
+                "source": "ノーベル小傳とノーベル賞",
+                "author": "長岡半太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "barista",
         "register": "standard",
         "nuance": null,
@@ -70,91 +122,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "コーヒー",
-        "カフェ",
-        "飲食業"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:47:20.685054+00:00Z"
-    }
-  },
-  {
-    "uuid": "05230749-190d-54ee-bb9a-263321080abd",
-    "entry": "バリスタ",
-    "reading": {
-      "primary": "バリスタ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "ballista",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "古代ローマ軍は強力な兵器、バリスタを攻城戦で用いた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "その巨大なバリスタは、重い石弾を遠くまで飛ばすことができた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "映画の中で、城壁を破壊するバリスタの迫力あるシーンに驚いた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "これに對し彼は注意を傾け數種の火藥を發明し、中には或る國で用いられたバリスタイト、コルダイトと同樣なものがあつて、前後の爭いがあつたそうだが、戰爭を忌避する我邦でその詳細を發表するは無意味であるから筆を擱く。",
-              "citation": {
-                "source": "ノーベル小傳とノーベル賞",
-                "author": "長岡半太郎",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "投石機"
       ],
@@ -162,7 +129,10 @@
       "related": [
         "兵器",
         "戦争",
-        "古代兵器"
+        "古代兵器",
+        "コーヒー",
+        "カフェ",
+        "飲食業"
       ]
     },
     "meta": {

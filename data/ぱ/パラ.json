@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "接頭辞"
+        "接頭辞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -293,45 +294,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "言語",
-        "文法",
-        "接頭辞"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:02:44.534276+00:00Z",
-      "frequencies": {
-        "aozora": 68
-      }
-    }
-  },
-  {
-    "uuid": "f283d84c-9fc2-531e-aa7a-7d16a76d9986",
-    "entry": "パラ",
-    "reading": {
-      "primary": "パラ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "parallel",
         "register": "standard",
         "nuance": null,
@@ -577,6 +542,9 @@
         "垂直"
       ],
       "related": [
+        "言語",
+        "文法",
+        "接頭辞",
         "線",
         "幾何学",
         "方向"
@@ -585,7 +553,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T16:02:44.534276+00:00Z",
       "frequencies": {
         "aozora": 68
       }

@@ -19,6 +19,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "barrister",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "イギリスでは、法廷で弁護を行う専門家をバリスターと呼ぶ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はバリスターになるため、厳しい司法試験を突破した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "有名なバリスターが担当した裁判は、世間の注目を集めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "varistor",
         "register": "standard",
         "nuance": null,
@@ -63,84 +106,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "電子部品",
-        "抵抗器",
-        "半導体"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T15:47:20.685602+00:00Z"
-    }
-  },
-  {
-    "uuid": "3f3147a7-923f-5ece-aa9d-38828195bc15",
-    "entry": "バリスター",
-    "reading": {
-      "primary": "バリスター",
-      "alternatives": [
-        "バリスタ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "barrister",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "イギリスでは、法廷で弁護を行う専門家をバリスターと呼ぶ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "彼はバリスターになるため、厳しい司法試験を突破した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "有名なバリスターが担当した裁判は、世間の注目を集めた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "弁護士"
       ],
@@ -148,7 +113,10 @@
       "related": [
         "法律",
         "司法",
-        "法廷"
+        "法廷",
+        "電子部品",
+        "抵抗器",
+        "半導体"
       ]
     },
     "meta": {

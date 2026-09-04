@@ -11,14 +11,60 @@
       "pos": [
         "名詞",
         "動詞-サ変",
+        "動詞-他動詞",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
         "index": 1,
+        "gloss": "parrying",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼は相手の攻撃を素早くパーリングし、カウンターを仕掛けた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "剣術の練習では、攻撃だけでなくパーリングの技術も磨く必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "フェンシングでは、正確なパーリングがポイント獲得の鍵となる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "pearling (surfing)",
         "register": "standard",
         "nuance": null,
@@ -64,89 +110,9 @@
     "relations": {
       "homophones": [],
       "synonyms": [
-        "ノーズダイブ"
-      ],
-      "antonyms": [],
-      "related": [
-        "サーフィン",
-        "波乗り",
-        "海",
-        "ボード"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:04:48.344759+00:00Z"
-    }
-  },
-  {
-    "uuid": "e2921121-7845-54ba-bfb0-b8811eb6f49e",
-    "entry": "パーリング",
-    "reading": {
-      "primary": "パーリング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "parrying",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼は相手の攻撃を素早くパーリングし、カウンターを仕掛けた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "剣術の練習では、攻撃だけでなくパーリングの技術も磨く必要がある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "フェンシングでは、正確なパーリングがポイント獲得の鍵となる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
         "受け流し",
-        "パリィ"
+        "パリィ",
+        "ノーズダイブ"
       ],
       "antonyms": [
         "攻撃"
@@ -155,7 +121,11 @@
         "防御",
         "格闘技",
         "剣術",
-        "回避"
+        "回避",
+        "サーフィン",
+        "波乗り",
+        "海",
+        "ボード"
       ]
     },
     "meta": {
