@@ -13,129 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "uninstallation",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "アンスコを使って文を作ってみた。",
-              "source": "幻辞"
-            },
-            {
-              "text": "学生たちはアンスコについて学習した。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アンスコの使い方は難しい。",
-              "source": "幻辞"
-            },
-            {
-              "text": "先生はアンスコの定義を説明した。",
-              "source": "幻辞"
-            },
-            {
-              "text": "日本の文化ではアンスコが大切だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アンスコという概念は興味深い。",
-              "source": "幻辞"
-            },
-            {
-              "text": "この本の中にアンスコという表現がある。",
-              "source": "幻辞"
-            },
-            {
-              "text": "会社ではアンスコについての会議があった。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アンスコを正しく使うことが重要だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "研究によるとアンスコは複雑だ。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アンスコについて詳しく知りたい。",
-              "source": "幻辞"
-            },
-            {
-              "text": "医学分野ではアンスコが使われている。",
-              "source": "幻辞"
-            },
-            {
-              "text": "歴史的にアンスコは重要な役割を果たした。",
-              "source": "幻辞"
-            },
-            {
-              "text": "技術の発展によりアンスコの意味が変わった。",
-              "source": "幻辞"
-            },
-            {
-              "text": "アンスコは様々な場面で使われる。",
-              "source": "幻辞"
-            },
-            {
-              "text": "言語学的にアンスコは興味深い例である。",
-              "source": "幻辞"
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "アンインストール"
-      ],
-      "antonyms": [
-        "インストール"
-      ],
-      "related": [
-        "ソフトウェア",
-        "アプリ",
-        "削除",
-        "導入"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T14:02:28.340230+00:00Z"
-    }
-  },
-  {
-    "uuid": "c7e7bbd2-ae3b-5ed7-9d3a-8beb86fe4d68",
-    "entry": "アンスコ",
-    "reading": {
-      "primary": "アンスコ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -303,6 +184,89 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "uninstallation",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "アンスコを使って文を作ってみた。",
+              "source": "幻辞"
+            },
+            {
+              "text": "学生たちはアンスコについて学習した。",
+              "source": "幻辞"
+            },
+            {
+              "text": "アンスコの使い方は難しい。",
+              "source": "幻辞"
+            },
+            {
+              "text": "先生はアンスコの定義を説明した。",
+              "source": "幻辞"
+            },
+            {
+              "text": "日本の文化ではアンスコが大切だ。",
+              "source": "幻辞"
+            },
+            {
+              "text": "アンスコという概念は興味深い。",
+              "source": "幻辞"
+            },
+            {
+              "text": "この本の中にアンスコという表現がある。",
+              "source": "幻辞"
+            },
+            {
+              "text": "会社ではアンスコについての会議があった。",
+              "source": "幻辞"
+            },
+            {
+              "text": "アンスコを正しく使うことが重要だ。",
+              "source": "幻辞"
+            },
+            {
+              "text": "研究によるとアンスコは複雑だ。",
+              "source": "幻辞"
+            },
+            {
+              "text": "アンスコについて詳しく知りたい。",
+              "source": "幻辞"
+            },
+            {
+              "text": "医学分野ではアンスコが使われている。",
+              "source": "幻辞"
+            },
+            {
+              "text": "歴史的にアンスコは重要な役割を果たした。",
+              "source": "幻辞"
+            },
+            {
+              "text": "技術の発展によりアンスコの意味が変わった。",
+              "source": "幻辞"
+            },
+            {
+              "text": "アンスコは様々な場面で使われる。",
+              "source": "幻辞"
+            },
+            {
+              "text": "言語学的にアンスコは興味深い例である。",
+              "source": "幻辞"
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
@@ -310,14 +274,21 @@
       "synonyms": [
         "アンダースコート",
         "スパッツ",
-        "インナー"
+        "インナー",
+        "アンインストール"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "インストール"
+      ],
       "related": [
         "テニス",
         "スカート",
         "下着",
-        "スポーツウェア"
+        "スポーツウェア",
+        "ソフトウェア",
+        "アプリ",
+        "削除",
+        "導入"
       ]
     },
     "meta": {

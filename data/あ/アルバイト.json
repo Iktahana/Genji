@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -423,52 +425,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "パート",
-        "バイト"
-      ],
-      "antonyms": [
-        "正社員"
-      ],
-      "related": [
-        "就労",
-        "収入",
-        "労働",
-        "学生"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:51:55.643850+00:00Z",
-      "freq_rank": 4275,
-      "frequencies": {
-        "aozora": 225
-      }
-    }
-  },
-  {
-    "uuid": "67c63b45-2980-515f-9ce6-120130fe12be",
-    "entry": "アルバイト",
-    "reading": {
-      "primary": "アルバイト",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "albite",
         "register": "standard",
         "nuance": null,
@@ -795,10 +754,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "パート",
+        "バイト",
         "曹長石"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "正社員"
+      ],
       "related": [
+        "就労",
+        "収入",
+        "労働",
+        "学生",
         "長石",
         "鉱物",
         "斜長石"
@@ -807,7 +774,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T13:51:55.643850+00:00Z",
       "freq_rank": 4275,
       "frequencies": {
         "aozora": 225

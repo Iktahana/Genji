@@ -242,53 +242,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "叔父",
-        "伯父"
-      ],
-      "antonyms": [
-        "オーント",
-        "叔母",
-        "伯母"
-      ],
-      "related": [
-        "家族",
-        "親族",
-        "甥",
-        "姪"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:58:05.607022+00:00Z",
-      "frequencies": {
-        "aozora": 17
-      }
-    }
-  },
-  {
-    "uuid": "be35f2d8-78f7-56ae-bfdd-3ec5b0d592c5",
-    "entry": "アンクル",
-    "reading": {
-      "primary": "アンクル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "ankle",
         "register": "standard",
         "nuance": null,
@@ -514,50 +470,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "足首"
-      ],
-      "antonyms": [],
-      "related": [
-        "足",
-        "くるぶし",
-        "足関節",
-        "捻挫",
-        "アンクルブーツ",
-        "アンクレット"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "frequencies": {
-        "aozora": 17
-      }
-    }
-  },
-  {
-    "uuid": "be35f2d8-78f7-56ae-bfdd-3ec5b0d592c5",
-    "entry": "アンクル",
-    "reading": {
-      "primary": "アンクル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "anchor (of an anchor escapement in a clock)",
         "register": "standard",
         "nuance": null,
@@ -787,9 +702,27 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "叔父",
+        "伯父",
+        "足首"
+      ],
+      "antonyms": [
+        "オーント",
+        "叔母",
+        "伯母"
+      ],
       "related": [
+        "家族",
+        "親族",
+        "甥",
+        "姪",
+        "足",
+        "くるぶし",
+        "足関節",
+        "捻挫",
+        "アンクルブーツ",
+        "アンクレット",
         "時計",
         "脱進機",
         "歯車",
@@ -800,7 +733,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T13:58:05.607022+00:00Z",
       "frequencies": {
         "aozora": 17
       }

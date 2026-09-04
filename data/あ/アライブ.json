@@ -9,10 +9,14 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "動詞-サ変",
+        "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -97,46 +101,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "生存"
-      ],
-      "antonyms": [
-        "デッド"
-      ],
-      "related": [
-        "サバイバル",
-        "生命"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:43:03.856328+00:00Z"
-    }
-  },
-  {
-    "uuid": "0f9262b8-80b0-5201-85b3-5a31af2c6724",
-    "entry": "アライブ",
-    "reading": {
-      "primary": "アライブ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "動詞-サ変",
-        "動詞-自動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "to arrive",
         "register": "standard",
         "nuance": null,
@@ -222,17 +189,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "生存",
         "到着"
       ],
       "antonyms": [
+        "デッド",
         "出発"
       ],
-      "related": []
+      "related": [
+        "サバイバル",
+        "生命"
+      ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-01T13:43:03.856328+00:00Z"
     }
   }
 ]
