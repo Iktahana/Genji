@@ -14,8 +14,10 @@
         "動詞-他動詞",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -285,52 +287,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "閉じる",
-        "終了する"
-      ],
-      "antonyms": [
-        "オープン",
-        "開く"
-      ],
-      "related": [
-        "閉鎖",
-        "終了",
-        "接続"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:59:30.113051+00:00Z",
-      "freq_rank": 18088,
-      "frequencies": {
-        "aozora": 38
-      }
-    }
-  },
-  {
-    "uuid": "7dc6c25b-6f93-57df-a060-8ccbcd1c49a1",
-    "entry": "クローズ",
-    "reading": {
-      "primary": "クローズ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "clause",
         "register": "standard",
         "nuance": null,
@@ -596,49 +555,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "条項",
-        "規定"
-      ],
-      "antonyms": [],
-      "related": [
-        "契約",
-        "文章",
-        "法律"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 18088,
-      "frequencies": {
-        "aozora": 38
-      }
-    }
-  },
-  {
-    "uuid": "7dc6c25b-6f93-57df-a060-8ccbcd1c49a1",
-    "entry": "クローズ",
-    "reading": {
-      "primary": "クローズ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "clothes",
         "register": "standard",
         "nuance": null,
@@ -909,11 +828,24 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "閉じる",
+        "終了する",
+        "条項",
+        "規定",
         "衣類",
         "服"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "オープン",
+        "開く"
+      ],
       "related": [
+        "閉鎖",
+        "終了",
+        "接続",
+        "契約",
+        "文章",
+        "法律",
         "ファッション",
         "アパレル",
         "被服"
@@ -922,7 +854,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:59:30.113051+00:00Z",
       "freq_rank": 18088,
       "frequencies": {
         "aozora": 38

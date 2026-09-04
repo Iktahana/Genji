@@ -9,10 +9,14 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変",
+        "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -90,54 +94,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "犯罪",
-        "罪",
-        "悪行"
-      ],
-      "antonyms": [
-        "善行",
-        "功徳"
-      ],
-      "related": [
-        "犯人",
-        "警察",
-        "刑法"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:46:27.981697+00:00Z",
-      "frequencies": {
-        "aozora": 5
-      }
-    }
-  },
-  {
-    "uuid": "4d4b5911-2155-5b6e-883b-c45a55517fb4",
-    "entry": "クライム",
-    "reading": {
-      "primary": "クライム",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変",
-        "動詞-他動詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "climb",
         "register": "standard",
         "nuance": null,
@@ -216,15 +175,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "犯罪",
+        "罪",
+        "悪行",
         "登攀",
         "上昇",
         "登山"
       ],
       "antonyms": [
+        "善行",
+        "功徳",
         "下落",
         "下降"
       ],
       "related": [
+        "犯人",
+        "警察",
+        "刑法",
         "斜面",
         "高度",
         "ヒルクライム"
@@ -233,7 +200,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:46:27.981697+00:00Z",
       "frequencies": {
         "aozora": 5
       }

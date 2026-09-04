@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "数詞"
+        "数詞",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -59,43 +60,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "四"
-      ],
-      "antonyms": [],
-      "related": [
-        "数字",
-        "数"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:23:14.785052+00:00Z"
-    }
-  },
-  {
-    "uuid": "5c5d5351-c8ea-54b7-ac6a-f0b01ad496d5",
-    "entry": "クアトロ",
-    "reading": {
-      "primary": "クアトロ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "cuatro (guitar)",
         "register": "standard",
         "nuance": null,
@@ -140,9 +107,13 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "四"
+      ],
       "antonyms": [],
       "related": [
+        "数字",
+        "数",
         "ギター",
         "弦楽器",
         "楽器"
@@ -151,7 +122,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-06-02T12:23:14.785052+00:00Z"
     }
   }
 ]

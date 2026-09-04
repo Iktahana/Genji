@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -151,57 +153,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "衝突",
-        "墜落",
-        "損壊",
-        "故障",
-        "停止"
-      ],
-      "antonyms": [
-        "正常動作",
-        "復旧"
-      ],
-      "related": [
-        "事故",
-        "コンピュータ",
-        "衝撃",
-        "破損",
-        "データ損失"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:48:50.550654+00:00Z",
-      "freq_rank": 12531,
-      "frequencies": {
-        "aozora": 6
-      }
-    }
-  },
-  {
-    "uuid": "e6c5c67c-8544-52fa-a2c3-7a5eed55bcd0",
-    "entry": "クラッシュ",
-    "reading": {
-      "primary": "クラッシュ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "kurash (Central Asian form of wrestling)",
         "register": "standard",
         "nuance": null,
@@ -296,10 +250,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "衝突",
+        "墜落",
+        "損壊",
+        "故障",
+        "停止",
         "ウズベク相撲"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "正常動作",
+        "復旧"
+      ],
       "related": [
+        "事故",
+        "コンピュータ",
+        "衝撃",
+        "破損",
+        "データ損失",
         "格闘技",
         "レスリング",
         "柔道",
@@ -310,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:48:50.550654+00:00Z",
       "freq_rank": 12531,
       "frequencies": {
         "aozora": 6

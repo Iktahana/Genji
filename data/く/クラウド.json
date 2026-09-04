@@ -304,51 +304,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "クラウドコンピューティング"
-      ],
-      "antonyms": [
-        "オンプレミス",
-        "ローカル"
-      ],
-      "related": [
-        "サーバー",
-        "インターネット",
-        "データセンター",
-        "仮想化"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:47:05.241423+00:00Z",
-      "frequencies": {
-        "aozora": 18
-      }
-    }
-  },
-  {
-    "uuid": "ac1d44ee-5e08-58a2-80dc-4e7b7cacbc7f",
-    "entry": "クラウド",
-    "reading": {
-      "primary": "クラウド",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "crowd",
         "register": "standard",
         "nuance": null,
@@ -555,15 +513,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "クラウドコンピューティング",
         "群衆",
         "人混み",
         "観衆"
       ],
       "antonyms": [
+        "オンプレミス",
+        "ローカル",
         "個人",
         "孤独"
       ],
       "related": [
+        "サーバー",
+        "インターネット",
+        "データセンター",
+        "仮想化",
         "集会",
         "密集",
         "モッシュ",
@@ -573,7 +538,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-02T12:47:05.241423+00:00Z",
       "frequencies": {
         "aozora": 18
       }

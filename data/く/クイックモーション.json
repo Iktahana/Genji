@@ -19,6 +19,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "fast motion (video)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "花が開くまでの過程をクイックモーションで撮影した映像が美しかった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "工事現場の一日の流れをクイックモーションで編集してSNSに投稿したら大反響だった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            },
+            {
+              "text": "「このクイックモーション、何倍速で撮ったの？」と友人が動画を見て尋ねた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Claude",
+                "note": "claude-sonnet-4-6"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "quick motion (e.g. slide step)",
         "register": "standard",
         "nuance": null,
@@ -64,92 +107,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "早送り",
+        "倍速再生",
         "クイック",
         "スライドステップ"
-      ],
-      "antonyms": [],
-      "related": [
-        "野球",
-        "投手",
-        "盗塁",
-        "牽制",
-        "投球",
-        "セットポジション"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:23:07.043416+00:00Z"
-    }
-  },
-  {
-    "uuid": "33eeb0b8-f80c-5a60-9485-d979be03683d",
-    "entry": "クイックモーション",
-    "reading": {
-      "primary": "クイックモーション",
-      "alternatives": [
-        "クイック・モーション"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "fast motion (video)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "花が開くまでの過程をクイックモーションで撮影した映像が美しかった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-sonnet-4-6"
-              }
-            },
-            {
-              "text": "工事現場の一日の流れをクイックモーションで編集してSNSに投稿したら大反響だった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-sonnet-4-6"
-              }
-            },
-            {
-              "text": "「このクイックモーション、何倍速で撮ったの？」と友人が動画を見て尋ねた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Claude",
-                "note": "claude-sonnet-4-6"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "早送り",
-        "倍速再生"
       ],
       "antonyms": [
         "スローモーション"
@@ -160,7 +121,13 @@
         "再生",
         "編集",
         "エフェクト",
-        "タイムラプス"
+        "タイムラプス",
+        "野球",
+        "投手",
+        "盗塁",
+        "牽制",
+        "投球",
+        "セットポジション"
       ]
     },
     "meta": {

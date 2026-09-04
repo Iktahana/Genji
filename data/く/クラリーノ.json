@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "Clarino (brand-name synthetic leather)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "軽くて丈夫なクラリーノ素材のランドセルは、毎日通学する子供たちの身体的負担を軽減してくれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "このビジネスバッグは本革のように見えるが、実は手入れの簡単なクラリーノで作られている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "クラリーノは耐久性と撥水性が高いため、スポーツシューズの素材としても広く採用されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "clarino (baroque high trumpet)",
         "register": "standard",
         "nuance": null,
@@ -61,84 +104,6 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "トランペット",
-        "バロック音楽",
-        "楽器",
-        "高音",
-        "管楽器"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T12:49:34.879979+00:00Z"
-    }
-  },
-  {
-    "uuid": "e75283c2-9592-5edf-84c3-f18905dcda03",
-    "entry": "クラリーノ",
-    "reading": {
-      "primary": "クラリーノ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "Clarino (brand-name synthetic leather)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "軽くて丈夫なクラリーノ素材のランドセルは、毎日通学する子供たちの身体的負担を軽減してくれる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "このビジネスバッグは本革のように見えるが、実は手入れの簡単なクラリーノで作られている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "クラリーノは耐久性と撥水性が高いため、スポーツシューズの素材としても広く採用されている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
       "synonyms": [
         "合成皮革",
         "合皮",
@@ -152,7 +117,12 @@
         "ランドセル",
         "靴",
         "クラレ",
-        "素材"
+        "素材",
+        "トランペット",
+        "バロック音楽",
+        "楽器",
+        "高音",
+        "管楽器"
       ]
     },
     "meta": {
