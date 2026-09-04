@@ -4,7 +4,11 @@
     "entry": "ジュピター",
     "reading": {
       "primary": "ジュピター",
-      "alternatives": [],
+      "alternatives": [
+        "ユピテル",
+        "ユッピテル",
+        "ユーピテル"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -341,52 +345,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "木星"
-      ],
-      "antonyms": [],
-      "related": [
-        "惑星",
-        "天体",
-        "神話"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:14:39.380028+00:00Z",
-      "freq_rank": 39389,
-      "frequencies": {
-        "aozora": 98
-      }
-    }
-  },
-  {
-    "uuid": "5cc165b0-7bef-5694-a1f6-f40dd0617257",
-    "entry": "ジュピター",
-    "reading": {
-      "primary": "ジュピター",
-      "alternatives": [
-        "ユピテル",
-        "ユッピテル",
-        "ユーピテル"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Jupiter",
         "register": "standard",
         "nuance": null,
@@ -670,7 +631,7 @@
         }
       },
       {
-        "index": 2,
+        "index": 4,
         "gloss": "Jupiter Symphony (No. 41 by Mozart)",
         "register": "standard",
         "nuance": null,
@@ -722,13 +683,14 @@
       "related": [
         "惑星",
         "天体",
+        "神話",
         "交響曲"
       ]
     },
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T14:14:39.380028+00:00Z",
       "freq_rank": 39389,
       "frequencies": {
         "aozora": 98

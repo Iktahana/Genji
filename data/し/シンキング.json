@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "sinking",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "船は氷山に衝突した後、ゆっくりとシンキングしていった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "経済状況の悪化は、企業のシンキングを加速させた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ああ、もうだめだ！僕たちの計画はシンキング状態だよ…」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "thinking",
         "register": "standard",
         "nuance": null,
@@ -62,93 +105,13 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "沈没",
+        "沈降",
+        "沈下",
         "思考",
         "考え",
         "思索",
         "熟慮"
-      ],
-      "antonyms": [],
-      "related": [
-        "アイデア",
-        "判断",
-        "論理",
-        "思索",
-        "発想",
-        "認知"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:25:34.511441+00:00Z"
-    }
-  },
-  {
-    "uuid": "87851fa6-8d39-597c-a4c0-b0e0e0dd4e7d",
-    "entry": "シンキング",
-    "reading": {
-      "primary": "シンキング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "sinking",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "船は氷山に衝突した後、ゆっくりとシンキングしていった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "経済状況の悪化は、企業のシンキングを加速させた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "「ああ、もうだめだ！僕たちの計画はシンキング状態だよ…」",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "沈没",
-        "沈降",
-        "沈下"
       ],
       "antonyms": [
         "浮上",
@@ -160,7 +123,13 @@
         "海難",
         "沈む",
         "浮力",
-        "難破"
+        "難破",
+        "アイデア",
+        "判断",
+        "論理",
+        "思索",
+        "発想",
+        "認知"
       ]
     },
     "meta": {

@@ -600,54 +600,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "単一",
-        "一つ",
-        "独身"
-      ],
-      "antonyms": [
-        "ダブル",
-        "複数",
-        "ペア"
-      ],
-      "related": [
-        "1",
-        "個別",
-        "独り"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:25:17.270610+00:00Z",
-      "freq_rank": 4888,
-      "frequencies": {
-        "aozora": 68
-      }
-    }
-  },
-  {
-    "uuid": "09309b62-064a-5b4b-8769-c31d80c3cc13",
-    "entry": "シングル",
-    "reading": {
-      "primary": "シングル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 9,
         "gloss": "shingle (wooden tile)",
         "register": "standard",
         "nuance": null,
@@ -934,11 +889,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "単一",
+        "一つ",
+        "独身",
         "木板",
         "こけら板"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ダブル",
+        "複数",
+        "ペア"
+      ],
       "related": [
+        "1",
+        "個別",
+        "独り",
         "屋根",
         "建築",
         "瓦"
@@ -947,7 +912,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T13:25:17.270610+00:00Z",
       "freq_rank": 4888,
       "frequencies": {
         "aozora": 68

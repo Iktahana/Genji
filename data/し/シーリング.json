@@ -17,6 +17,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "sealing",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "窓枠のシーリングが劣化しているので、新しいものに交換する必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "食品の容器には、鮮度を保つための強力なシーリングが施されている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "浴室のタイルの目地には、防水のためのシーリング材が使われている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "ceiling",
         "register": "standard",
         "nuance": null,
@@ -62,99 +105,23 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "密封",
+        "封印",
+        "密閉",
         "天井",
         "上天井"
       ],
       "antonyms": [
+        "開放",
+        "開封",
         "フロア",
         "床"
       ],
       "related": [
+        "隙間",
+        "防水",
         "内装",
         "照明"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:39:10.093705+00:00Z",
-      "freq_rank": 34361
-    }
-  },
-  {
-    "uuid": "f45813d2-fe48-5dd7-ae9b-e15f453e13f1",
-    "entry": "シーリング",
-    "reading": {
-      "primary": "シーリング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "sealing",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "窓枠のシーリングが劣化しているので、新しいものに交換する必要がある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "食品の容器には、鮮度を保つための強力なシーリングが施されている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "浴室のタイルの目地には、防水のためのシーリング材が使われている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "密封",
-        "封印",
-        "密閉"
-      ],
-      "antonyms": [
-        "開放",
-        "開封"
-      ],
-      "related": [
-        "隙間",
-        "防水"
       ]
     },
     "meta": {

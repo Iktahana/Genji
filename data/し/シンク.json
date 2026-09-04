@@ -9,14 +9,612 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
         "index": 1,
+        "gloss": "synchronization (esp. of data)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "スマートフォンとPCのデータは、常にシンクさせている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "クラウドサービスを使えば、複数のデバイス間で自動的にシンクされる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「このファイルのシンクがうまくいかないんだけど。」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "自分は不幸にして未来派の画やカンジンスキーのシンクロミーなどというものに対して理解を持ち兼ねるものであるが、ただ三色版などで見るこれらの絵について自分が多少でも面白味を感ずる色彩の諧調は津田君の図案帖に遺憾なく現われている。",
+              "citation": {
+                "source": "津田青楓君の画と南画の芸術的価値",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アメリカの社会主義作家、アプトン・シンクレエアは、「義人ジミー」に於て、帝国主義戦争に対する、プロレタリア階級のいろ／＼な意識の内訌を書いている。",
+              "citation": {
+                "source": "反戦文学論",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一面では、シンクレエアが欧洲大戦当時、彼自身がとった、少なからぬ苦悶の後に武器を肯定した心の位置を書いたものであるという。",
+              "citation": {
+                "source": "反戦文学論",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうすると、今までグーグー寝ていた豚吉とヒョロ子は一時に、「クシンクシン」　とクシャミをして眼を開きましたが、玉葱のにおいが眼にしみましたので、「アッ。",
+              "citation": {
+                "source": "豚吉とヒョロ子",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "河岸地区全体でも最低最悪の地獄の馬車で、僕もネヴィル・シンクレアが入ったきり出てこないのではと心配している。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「ああ、そこがシンクレア氏の自宅だ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「数年前――正確には一八八四年五月――リーにネヴィル・シンクレアという名の紳士がやってきたのだが、財産があるらしく、大きな屋敷を手に入れ、敷地にも手を加えて整え、暮らし向きも普通に良いようであった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア氏は当年三七歳で、悪癖もなく、いい夫であり、愛情のある父親で、つきあう人みなから好感を持たれている。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今週の月曜、ネヴィル・シンクレア氏はいつもより早めに街へ向かい、出がけにこういった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は朝食を摂ってから中心区に出かけ、少し買い物をしたのちその事業所へ行き、小包を受け取ったのだが、そこから駅へ向かう際にスウォンダム横町に入り込んでしまって、それがちょうど四時三五分のことだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「思い出してほしいのだが、月曜はかなり暑い日で、シンクレア夫人はゆっくり歩きながら、馬車でもないかとあたりを見回した。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "みな巡回の最中だったので、警部と巡査二名が彼女に同行し、店主が引き続き抵抗するのをものともせず、さきほどシンクレア氏が見えた部屋に踏み込んだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あまりにも強硬に否定するので、警部も心がぐらついて、シンクレア夫人が見間違えたのだと信じそうになった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "通り側の部屋、窓掛の裏に、ネヴィル・シンクレア氏の衣類が押し込まれてあった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これら衣服に争った形跡はなく、それ以外にネヴィル・シンクレア氏を示すものはなかった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "インド人の船乗りは、経歴こそ大悪党として知られた男だが、ことシンクレア氏の件については、夫が窓際に姿を見せた数秒後には階段の下にいたことがわかっているから、この犯罪においては従犯程度の役割しかないだろう。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "店主のインド人についてはそれでよいとして、次は怪しいろくでなしの方だが、こやつがその阿片窟の三階に住んでおり、ネヴィル・シンクレア氏を最後に目撃したはずの人間となる。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「シンクレア夫人は窓の血痕を見て卒倒し、警察の馬車で自宅まで運ばれた。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これまでネヴィル・シンクレアなる人物など見たこともないと執拗に言い張り、自分の部屋にあった衣類は、警察同様、自分にも謎だと言い切るのだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は、窓際に夫がいるのをはっきり見たと言うが、頭がおかしくなったか、夢でも見たのではないかという。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるといってもネヴィル・シンクレアの外套だけで、ネヴィル・シンクレア本人ではなかったのだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "では仮に、このブーンという男がネヴィル・シンクレアを窓から投げたとして、その行為を目撃した人間はいない。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上が事件の現状だが、明らかにすべき問題は――ネヴィル・シンクレアは阿片窟で何をしていたのか。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は気前よく二部屋を自由に使わせてくれているし、僕の友人かつ協力者とくれば絶対に歓迎してくれるから、安心していい。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "うむ、シンクレアさん、雲が晴れてきましたが、危険が去ったとは言い切れません。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「結構です、シンクレアさん。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「お願いというのは、あの乞食のことで、ブーン――リーのネヴィル・シンクレア氏失踪への関与を目されている男だ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ケント州リー在住の、ネヴィル・シンクレア氏です。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「僕がネヴィル・シンクレアなる人物なら、何の犯罪も起きなかったのは明らかです。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "gloss": "synchronous (communications, etc.)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "シンク通信は、送信側と受信側でタイミングを合わせる必要がある。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はシンクモードでデータの送受信を設定した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "シンク回路の設計には高い技術が求められる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 3,
+        "gloss": "think",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼は新しい企画について、深くシンクしていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "まずは現状を把握し、それからどうすべきかシンクしよう。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「もっとクリエイティブにシンクしてみて！」",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "自分は不幸にして未来派の画やカンジンスキーのシンクロミーなどというものに対して理解を持ち兼ねるものであるが、ただ三色版などで見るこれらの絵について自分が多少でも面白味を感ずる色彩の諧調は津田君の図案帖に遺憾なく現われている。",
+              "citation": {
+                "source": "津田青楓君の画と南画の芸術的価値",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アメリカの社会主義作家、アプトン・シンクレエアは、「義人ジミー」に於て、帝国主義戦争に対する、プロレタリア階級のいろ／＼な意識の内訌を書いている。",
+              "citation": {
+                "source": "反戦文学論",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一面では、シンクレエアが欧洲大戦当時、彼自身がとった、少なからぬ苦悶の後に武器を肯定した心の位置を書いたものであるという。",
+              "citation": {
+                "source": "反戦文学論",
+                "author": "黒島伝治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうすると、今までグーグー寝ていた豚吉とヒョロ子は一時に、「クシンクシン」　とクシャミをして眼を開きましたが、玉葱のにおいが眼にしみましたので、「アッ。",
+              "citation": {
+                "source": "豚吉とヒョロ子",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "河岸地区全体でも最低最悪の地獄の馬車で、僕もネヴィル・シンクレアが入ったきり出てこないのではと心配している。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「ああ、そこがシンクレア氏の自宅だ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「数年前――正確には一八八四年五月――リーにネヴィル・シンクレアという名の紳士がやってきたのだが、財産があるらしく、大きな屋敷を手に入れ、敷地にも手を加えて整え、暮らし向きも普通に良いようであった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア氏は当年三七歳で、悪癖もなく、いい夫であり、愛情のある父親で、つきあう人みなから好感を持たれている。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今週の月曜、ネヴィル・シンクレア氏はいつもより早めに街へ向かい、出がけにこういった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は朝食を摂ってから中心区に出かけ、少し買い物をしたのちその事業所へ行き、小包を受け取ったのだが、そこから駅へ向かう際にスウォンダム横町に入り込んでしまって、それがちょうど四時三五分のことだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「思い出してほしいのだが、月曜はかなり暑い日で、シンクレア夫人はゆっくり歩きながら、馬車でもないかとあたりを見回した。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "みな巡回の最中だったので、警部と巡査二名が彼女に同行し、店主が引き続き抵抗するのをものともせず、さきほどシンクレア氏が見えた部屋に踏み込んだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あまりにも強硬に否定するので、警部も心がぐらついて、シンクレア夫人が見間違えたのだと信じそうになった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "通り側の部屋、窓掛の裏に、ネヴィル・シンクレア氏の衣類が押し込まれてあった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これら衣服に争った形跡はなく、それ以外にネヴィル・シンクレア氏を示すものはなかった。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "インド人の船乗りは、経歴こそ大悪党として知られた男だが、ことシンクレア氏の件については、夫が窓際に姿を見せた数秒後には階段の下にいたことがわかっているから、この犯罪においては従犯程度の役割しかないだろう。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "店主のインド人についてはそれでよいとして、次は怪しいろくでなしの方だが、こやつがその阿片窟の三階に住んでおり、ネヴィル・シンクレア氏を最後に目撃したはずの人間となる。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「シンクレア夫人は窓の血痕を見て卒倒し、警察の馬車で自宅まで運ばれた。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これまでネヴィル・シンクレアなる人物など見たこともないと執拗に言い張り、自分の部屋にあった衣類は、警察同様、自分にも謎だと言い切るのだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は、窓際に夫がいるのをはっきり見たと言うが、頭がおかしくなったか、夢でも見たのではないかという。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるといってもネヴィル・シンクレアの外套だけで、ネヴィル・シンクレア本人ではなかったのだ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "では仮に、このブーンという男がネヴィル・シンクレアを窓から投げたとして、その行為を目撃した人間はいない。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上が事件の現状だが、明らかにすべき問題は――ネヴィル・シンクレアは阿片窟で何をしていたのか。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シンクレア夫人は気前よく二部屋を自由に使わせてくれているし、僕の友人かつ協力者とくれば絶対に歓迎してくれるから、安心していい。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "うむ、シンクレアさん、雲が晴れてきましたが、危険が去ったとは言い切れません。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「結構です、シンクレアさん。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「お願いというのは、あの乞食のことで、ブーン――リーのネヴィル・シンクレア氏失踪への関与を目されている男だ。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ケント州リー在住の、ネヴィル・シンクレア氏です。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「僕がネヴィル・シンクレアなる人物なら、何の犯罪も起きなかったのは明らかです。",
+              "citation": {
+                "source": "唇のねじれた男",
+                "author": "THE MAN WITH THE TWISTED LIP",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 4,
         "gloss": "sink",
         "register": "standard",
         "nuance": null,
@@ -295,11 +893,26 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "同期",
+        "同調",
+        "思考",
+        "考える",
         "流し",
         "洗面台"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "非同期",
+        "無視"
+      ],
       "related": [
+        "通信",
+        "データ",
+        "タイミング",
+        "コンピュータ",
+        "思想",
+        "意見",
+        "判断",
+        "認識",
         "台所",
         "洗う",
         "水道",
@@ -309,7 +922,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:25:21.937145+00:00Z",
+      "updated_at": "2026-03-22T12:50:57Z",
       "freq_rank": 25918,
       "frequencies": {
         "aozora": 7
@@ -330,8 +943,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -962,689 +1577,6 @@
       "variant_writings": [
         "真紅"
       ]
-    }
-  },
-  {
-    "uuid": "9fe9e71a-187a-5b70-88e3-c7b03322b37e",
-    "entry": "シンク",
-    "reading": {
-      "primary": "シンク",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "synchronization (esp. of data)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "スマートフォンとPCのデータは、常にシンクさせている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "クラウドサービスを使えば、複数のデバイス間で自動的にシンクされる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "「このファイルのシンクがうまくいかないんだけど。」",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "自分は不幸にして未来派の画やカンジンスキーのシンクロミーなどというものに対して理解を持ち兼ねるものであるが、ただ三色版などで見るこれらの絵について自分が多少でも面白味を感ずる色彩の諧調は津田君の図案帖に遺憾なく現われている。",
-              "citation": {
-                "source": "津田青楓君の画と南画の芸術的価値",
-                "author": "寺田寅彦",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "アメリカの社会主義作家、アプトン・シンクレエアは、「義人ジミー」に於て、帝国主義戦争に対する、プロレタリア階級のいろ／＼な意識の内訌を書いている。",
-              "citation": {
-                "source": "反戦文学論",
-                "author": "黒島伝治",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "一面では、シンクレエアが欧洲大戦当時、彼自身がとった、少なからぬ苦悶の後に武器を肯定した心の位置を書いたものであるという。",
-              "citation": {
-                "source": "反戦文学論",
-                "author": "黒島伝治",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "そうすると、今までグーグー寝ていた豚吉とヒョロ子は一時に、「クシンクシン」　とクシャミをして眼を開きましたが、玉葱のにおいが眼にしみましたので、「アッ。",
-              "citation": {
-                "source": "豚吉とヒョロ子",
-                "author": "夢野久作",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "河岸地区全体でも最低最悪の地獄の馬車で、僕もネヴィル・シンクレアが入ったきり出てこないのではと心配している。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「ああ、そこがシンクレア氏の自宅だ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「数年前――正確には一八八四年五月――リーにネヴィル・シンクレアという名の紳士がやってきたのだが、財産があるらしく、大きな屋敷を手に入れ、敷地にも手を加えて整え、暮らし向きも普通に良いようであった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア氏は当年三七歳で、悪癖もなく、いい夫であり、愛情のある父親で、つきあう人みなから好感を持たれている。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "今週の月曜、ネヴィル・シンクレア氏はいつもより早めに街へ向かい、出がけにこういった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は朝食を摂ってから中心区に出かけ、少し買い物をしたのちその事業所へ行き、小包を受け取ったのだが、そこから駅へ向かう際にスウォンダム横町に入り込んでしまって、それがちょうど四時三五分のことだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「思い出してほしいのだが、月曜はかなり暑い日で、シンクレア夫人はゆっくり歩きながら、馬車でもないかとあたりを見回した。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "みな巡回の最中だったので、警部と巡査二名が彼女に同行し、店主が引き続き抵抗するのをものともせず、さきほどシンクレア氏が見えた部屋に踏み込んだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "あまりにも強硬に否定するので、警部も心がぐらついて、シンクレア夫人が見間違えたのだと信じそうになった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "通り側の部屋、窓掛の裏に、ネヴィル・シンクレア氏の衣類が押し込まれてあった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "これら衣服に争った形跡はなく、それ以外にネヴィル・シンクレア氏を示すものはなかった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "インド人の船乗りは、経歴こそ大悪党として知られた男だが、ことシンクレア氏の件については、夫が窓際に姿を見せた数秒後には階段の下にいたことがわかっているから、この犯罪においては従犯程度の役割しかないだろう。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "店主のインド人についてはそれでよいとして、次は怪しいろくでなしの方だが、こやつがその阿片窟の三階に住んでおり、ネヴィル・シンクレア氏を最後に目撃したはずの人間となる。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「シンクレア夫人は窓の血痕を見て卒倒し、警察の馬車で自宅まで運ばれた。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "これまでネヴィル・シンクレアなる人物など見たこともないと執拗に言い張り、自分の部屋にあった衣類は、警察同様、自分にも謎だと言い切るのだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は、窓際に夫がいるのをはっきり見たと言うが、頭がおかしくなったか、夢でも見たのではないかという。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "あるといってもネヴィル・シンクレアの外套だけで、ネヴィル・シンクレア本人ではなかったのだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "では仮に、このブーンという男がネヴィル・シンクレアを窓から投げたとして、その行為を目撃した人間はいない。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "以上が事件の現状だが、明らかにすべき問題は――ネヴィル・シンクレアは阿片窟で何をしていたのか。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は気前よく二部屋を自由に使わせてくれているし、僕の友人かつ協力者とくれば絶対に歓迎してくれるから、安心していい。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "うむ、シンクレアさん、雲が晴れてきましたが、危険が去ったとは言い切れません。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「結構です、シンクレアさん。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「お願いというのは、あの乞食のことで、ブーン――リーのネヴィル・シンクレア氏失踪への関与を目されている男だ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "「ケント州リー在住の、ネヴィル・シンクレア氏です。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「僕がネヴィル・シンクレアなる人物なら、何の犯罪も起きなかったのは明らかです。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "index": 2,
-        "gloss": "synchronous (communications, etc.)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "シンク通信は、送信側と受信側でタイミングを合わせる必要がある。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "彼はシンクモードでデータの送受信を設定した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "シンク回路の設計には高い技術が求められる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "同期",
-        "同調"
-      ],
-      "antonyms": [
-        "非同期"
-      ],
-      "related": [
-        "通信",
-        "データ",
-        "タイミング",
-        "コンピュータ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 25918,
-      "frequencies": {
-        "aozora": 7
-      }
-    }
-  },
-  {
-    "uuid": "9fe9e71a-187a-5b70-88e3-c7b03322b37e",
-    "entry": "シンク",
-    "reading": {
-      "primary": "シンク",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "think",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼は新しい企画について、深くシンクしていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "まずは現状を把握し、それからどうすべきかシンクしよう。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "「もっとクリエイティブにシンクしてみて！」",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "自分は不幸にして未来派の画やカンジンスキーのシンクロミーなどというものに対して理解を持ち兼ねるものであるが、ただ三色版などで見るこれらの絵について自分が多少でも面白味を感ずる色彩の諧調は津田君の図案帖に遺憾なく現われている。",
-              "citation": {
-                "source": "津田青楓君の画と南画の芸術的価値",
-                "author": "寺田寅彦",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "アメリカの社会主義作家、アプトン・シンクレエアは、「義人ジミー」に於て、帝国主義戦争に対する、プロレタリア階級のいろ／＼な意識の内訌を書いている。",
-              "citation": {
-                "source": "反戦文学論",
-                "author": "黒島伝治",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "一面では、シンクレエアが欧洲大戦当時、彼自身がとった、少なからぬ苦悶の後に武器を肯定した心の位置を書いたものであるという。",
-              "citation": {
-                "source": "反戦文学論",
-                "author": "黒島伝治",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "そうすると、今までグーグー寝ていた豚吉とヒョロ子は一時に、「クシンクシン」　とクシャミをして眼を開きましたが、玉葱のにおいが眼にしみましたので、「アッ。",
-              "citation": {
-                "source": "豚吉とヒョロ子",
-                "author": "夢野久作",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "河岸地区全体でも最低最悪の地獄の馬車で、僕もネヴィル・シンクレアが入ったきり出てこないのではと心配している。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「ああ、そこがシンクレア氏の自宅だ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「数年前――正確には一八八四年五月――リーにネヴィル・シンクレアという名の紳士がやってきたのだが、財産があるらしく、大きな屋敷を手に入れ、敷地にも手を加えて整え、暮らし向きも普通に良いようであった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア氏は当年三七歳で、悪癖もなく、いい夫であり、愛情のある父親で、つきあう人みなから好感を持たれている。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "今週の月曜、ネヴィル・シンクレア氏はいつもより早めに街へ向かい、出がけにこういった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は朝食を摂ってから中心区に出かけ、少し買い物をしたのちその事業所へ行き、小包を受け取ったのだが、そこから駅へ向かう際にスウォンダム横町に入り込んでしまって、それがちょうど四時三五分のことだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「思い出してほしいのだが、月曜はかなり暑い日で、シンクレア夫人はゆっくり歩きながら、馬車でもないかとあたりを見回した。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "みな巡回の最中だったので、警部と巡査二名が彼女に同行し、店主が引き続き抵抗するのをものともせず、さきほどシンクレア氏が見えた部屋に踏み込んだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "あまりにも強硬に否定するので、警部も心がぐらついて、シンクレア夫人が見間違えたのだと信じそうになった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "通り側の部屋、窓掛の裏に、ネヴィル・シンクレア氏の衣類が押し込まれてあった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "これら衣服に争った形跡はなく、それ以外にネヴィル・シンクレア氏を示すものはなかった。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "インド人の船乗りは、経歴こそ大悪党として知られた男だが、ことシンクレア氏の件については、夫が窓際に姿を見せた数秒後には階段の下にいたことがわかっているから、この犯罪においては従犯程度の役割しかないだろう。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "店主のインド人についてはそれでよいとして、次は怪しいろくでなしの方だが、こやつがその阿片窟の三階に住んでおり、ネヴィル・シンクレア氏を最後に目撃したはずの人間となる。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「シンクレア夫人は窓の血痕を見て卒倒し、警察の馬車で自宅まで運ばれた。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "これまでネヴィル・シンクレアなる人物など見たこともないと執拗に言い張り、自分の部屋にあった衣類は、警察同様、自分にも謎だと言い切るのだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は、窓際に夫がいるのをはっきり見たと言うが、頭がおかしくなったか、夢でも見たのではないかという。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "あるといってもネヴィル・シンクレアの外套だけで、ネヴィル・シンクレア本人ではなかったのだ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "では仮に、このブーンという男がネヴィル・シンクレアを窓から投げたとして、その行為を目撃した人間はいない。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "以上が事件の現状だが、明らかにすべき問題は――ネヴィル・シンクレアは阿片窟で何をしていたのか。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "シンクレア夫人は気前よく二部屋を自由に使わせてくれているし、僕の友人かつ協力者とくれば絶対に歓迎してくれるから、安心していい。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "うむ、シンクレアさん、雲が晴れてきましたが、危険が去ったとは言い切れません。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「結構です、シンクレアさん。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「お願いというのは、あの乞食のことで、ブーン――リーのネヴィル・シンクレア氏失踪への関与を目されている男だ。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "「ケント州リー在住の、ネヴィル・シンクレア氏です。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「僕がネヴィル・シンクレアなる人物なら、何の犯罪も起きなかったのは明らかです。",
-              "citation": {
-                "source": "唇のねじれた男",
-                "author": "THE MAN WITH THE TWISTED LIP",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "思考",
-        "考える"
-      ],
-      "antonyms": [
-        "無視"
-      ],
-      "related": [
-        "思想",
-        "意見",
-        "判断",
-        "認識"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 25918,
-      "frequencies": {
-        "aozora": 7
-      }
     }
   }
 ]

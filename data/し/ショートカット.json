@@ -15,8 +15,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -129,51 +131,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "近道",
-        "短縮"
-      ],
-      "antonyms": [
-        "遠回り"
-      ],
-      "related": [
-        "パソコン"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:14:22.861462+00:00Z",
-      "freq_rank": 15191,
-      "frequencies": {
-        "aozora": 3
-      }
-    }
-  },
-  {
-    "uuid": "2f982565-5e7c-51a1-8085-0ed24c1f75bf",
-    "entry": "ショートカット",
-    "reading": {
-      "primary": "ショートカット",
-      "alternatives": [
-        "ショート・カット"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "short-cut hairstyle for women",
         "register": "standard",
         "nuance": null,
@@ -244,10 +204,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "近道",
+        "短縮",
         "短髪"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "遠回り"
+      ],
       "related": [
+        "パソコン",
         "髪型",
         "美容"
       ]
@@ -255,7 +220,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T13:14:22.861462+00:00Z",
       "freq_rank": 15191,
       "frequencies": {
         "aozora": 3

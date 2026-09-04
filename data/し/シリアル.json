@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "形容詞-語幹"
+        "形容詞-語幹",
+        "名詞"
       ],
       "ctype": null,
       "inflections": null
@@ -100,51 +101,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "逐次的",
-        "連続的"
-      ],
-      "antonyms": [
-        "パラレル",
-        "並列的"
-      ],
-      "related": [
-        "通信",
-        "コンピュータ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T13:15:49.379313+00:00Z",
-      "freq_rank": 14000,
-      "frequencies": {
-        "aozora": 5
-      }
-    }
-  },
-  {
-    "uuid": "5db96694-a536-57d6-b484-67ddf04fc311",
-    "entry": "シリアル",
-    "reading": {
-      "primary": "シリアル",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "cereal",
         "register": "standard",
         "nuance": null,
@@ -231,11 +190,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "逐次的",
+        "連続的",
         "朝食シリアル",
         "コーンフレーク"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "パラレル",
+        "並列的"
+      ],
       "related": [
+        "通信",
+        "コンピュータ",
         "朝食",
         "穀物",
         "牛乳"
@@ -244,7 +210,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T13:15:49.379313+00:00Z",
       "freq_rank": 14000,
       "frequencies": {
         "aozora": 5

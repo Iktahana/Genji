@@ -11,7 +11,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "接続詞"
       ],
       "ctype": null,
       "inflections": null
@@ -300,52 +301,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "じゃが芋",
-        "ポテト",
-        "馬鈴薯"
-      ],
-      "antonyms": [],
-      "related": [
-        "野菜",
-        "サツマイモ",
-        "里芋",
-        "でんぷん",
-        "ナス科"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T14:00:37.865868+00:00Z",
-      "freq_rank": 35319,
-      "frequencies": {
-        "aozora": 372
-      }
-    }
-  },
-  {
-    "uuid": "eca9d988-3cf9-5259-9aaf-17eed4bef41d",
-    "entry": "じゃが",
-    "reading": {
-      "primary": "じゃが",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "接続詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "but",
         "register": "standard",
         "nuance": null,
@@ -632,6 +590,9 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "じゃが芋",
+        "ポテト",
+        "馬鈴薯",
         "しかし",
         "だが",
         "けれど",
@@ -639,6 +600,11 @@
       ],
       "antonyms": [],
       "related": [
+        "野菜",
+        "サツマイモ",
+        "里芋",
+        "でんぷん",
+        "ナス科",
         "接続詞",
         "逆接",
         "口語"
@@ -647,7 +613,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-06-03T14:00:37.865868+00:00Z",
       "freq_rank": 35319,
       "frequencies": {
         "aozora": 372
