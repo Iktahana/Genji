@@ -298,122 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ワンピース",
-        "ドレス"
-      ],
-      "antonyms": [],
-      "related": [
-        "衣服",
-        "洋装"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T11:03:42.337087+00:00Z",
-      "freq_rank": 41841
-    }
-  },
-  {
-    "uuid": "2f167a72-72b6-5622-a952-285f581b19df",
-    "entry": "黄皮木",
-    "reading": {
-      "primary": "わんぴ",
-      "alternatives": [
-        "ワンピ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
-        "gloss": "wampee (Clausena lansium)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "黄皮木の実は甘酸っぱくて美味しい。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "市場で珍しい黄皮木の果実が売られていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "黄皮木の木は、庭のシンボルツリーとして植えられている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "果実",
-        "東南アジア"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
-    }
-  },
-  {
-    "uuid": "1ad6c1aa-f0e2-5f15-965f-973c3c9c553b",
-    "entry": "ワンピ",
-    "reading": {
-      "primary": "ワンピ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
+        "index": 2,
         "gloss": "One Piece (manga series and media franchise) (abbr)",
         "register": "standard",
         "nuance": null,
@@ -699,9 +586,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "ワンピース",
+        "ドレス"
+      ],
       "antonyms": [],
       "related": [
+        "衣服",
+        "洋装",
         "漫画",
         "アニメ"
       ]
@@ -709,8 +601,85 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T11:03:42.337087+00:00Z",
       "freq_rank": 41841
+    }
+  },
+  {
+    "uuid": "2f167a72-72b6-5622-a952-285f581b19df",
+    "entry": "黄皮木",
+    "reading": {
+      "primary": "わんぴ",
+      "alternatives": [
+        "ワンピ"
+      ],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "wampee (Clausena lansium)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "黄皮木の実は甘酸っぱくて美味しい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "市場で珍しい黄皮木の果実が売られていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "黄皮木の木は、庭のシンボルツリーとして植えられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "果実",
+        "東南アジア"
+      ]
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
     }
   }
 ]

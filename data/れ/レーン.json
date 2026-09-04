@@ -4,7 +4,9 @@
     "entry": "レーン",
     "reading": {
       "primary": "レーン",
-      "alternatives": [],
+      "alternatives": [
+        "レイン"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -376,54 +378,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "車線",
-        "道",
-        "路線",
-        "通路"
-      ],
-      "antonyms": [],
-      "related": [
-        "道路",
-        "交通",
-        "走行",
-        "速度"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T09:52:35.027856+00:00Z",
-      "freq_rank": 14948,
-      "frequencies": {
-        "aozora": 59
-      }
-    }
-  },
-  {
-    "uuid": "87741b39-1b74-56a5-a24a-ccefc2358362",
-    "entry": "レーン",
-    "reading": {
-      "primary": "レーン",
-      "alternatives": [
-        "レイン"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 4,
         "gloss": "rain",
         "register": "standard",
         "nuance": null,
@@ -702,6 +659,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "車線",
+        "道",
+        "路線",
+        "通路",
         "雨",
         "降水",
         "降雨"
@@ -711,6 +672,10 @@
         "晴天"
       ],
       "related": [
+        "道路",
+        "交通",
+        "走行",
+        "速度",
         "天気",
         "天候",
         "気象"
@@ -719,7 +684,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T09:52:35.027856+00:00Z",
       "freq_rank": 14948,
       "frequencies": {
         "aozora": 59

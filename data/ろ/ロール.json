@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -472,49 +474,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "回転"
-      ],
-      "antonyms": [],
-      "related": [
-        "転動",
-        "フィルム",
-        "船",
-        "パン"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T10:29:45.229880+00:00Z",
-      "freq_rank": 6171,
-      "frequencies": {
-        "aozora": 94
-      }
-    }
-  },
-  {
-    "uuid": "c3e73df2-1961-5111-a0e7-5fbecc851214",
-    "entry": "ロール",
-    "reading": {
-      "primary": "ロール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 6,
         "gloss": "role",
         "register": "standard",
         "nuance": null,
@@ -801,11 +763,16 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "回転",
         "役割",
         "役"
       ],
       "antonyms": [],
       "related": [
+        "転動",
+        "フィルム",
+        "船",
+        "パン",
         "演技",
         "責任",
         "劇",
@@ -815,7 +782,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T10:29:45.229880+00:00Z",
       "freq_rank": 6171,
       "frequencies": {
         "aozora": 94

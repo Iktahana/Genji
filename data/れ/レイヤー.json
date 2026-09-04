@@ -5,7 +5,8 @@
     "reading": {
       "primary": "レイヤー",
       "alternatives": [
-        "レイヤ"
+        "レイヤ",
+        "レーヤー"
       ],
       "is_heteronym": false
     },
@@ -292,50 +293,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "層",
-        "階層",
-        "段階"
-      ],
-      "antonyms": [],
-      "related": [
-        "構造",
-        "システム"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T09:12:47.031293+00:00Z",
-      "frequencies": {
-        "aozora": 2
-      }
-    }
-  },
-  {
-    "uuid": "de160b37-03fe-5545-9f9f-35e7fcb71140",
-    "entry": "レイヤー",
-    "reading": {
-      "primary": "レイヤー",
-      "alternatives": [
-        "レーヤー"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "cosplayer",
         "register": "standard",
         "nuance": null,
@@ -614,10 +574,15 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "層",
+        "階層",
+        "段階",
         "コスプレイヤー"
       ],
       "antonyms": [],
       "related": [
+        "構造",
+        "システム",
         "コスプレ",
         "衣装",
         "アニメ"
@@ -626,7 +591,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T09:12:47.031293+00:00Z",
       "frequencies": {
         "aozora": 2
       }

@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -284,52 +286,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "賃貸",
-        "貸借"
-      ],
-      "antonyms": [
-        "売却",
-        "購入"
-      ],
-      "related": [
-        "契約",
-        "賃料",
-        "返却"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T08:52:36.736907+00:00Z",
-      "freq_rank": 9781,
-      "frequencies": {
-        "aozora": 24
-      }
-    }
-  },
-  {
-    "uuid": "9a3638e1-1830-5f61-afa3-299b4053245a",
-    "entry": "リース",
-    "reading": {
-      "primary": "リース",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "wreath",
         "register": "standard",
         "nuance": null,
@@ -600,10 +559,18 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "賃貸",
+        "貸借",
         "花輪"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "売却",
+        "購入"
+      ],
       "related": [
+        "契約",
+        "賃料",
+        "返却",
         "装飾",
         "花",
         "クリスマス"
@@ -612,7 +579,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T08:52:36.736907+00:00Z",
       "freq_rank": 9781,
       "frequencies": {
         "aozora": 24

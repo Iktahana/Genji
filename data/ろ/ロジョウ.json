@@ -341,166 +341,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "露場"
-      ],
-      "synonyms": [
-        "街路",
-        "路面",
-        "街中"
-      ],
-      "antonyms": [
-        "室内",
-        "屋内"
-      ],
-      "related": [
-        "歩道",
-        "道路",
-        "交通",
-        "舗装"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T10:11:52.425673+00:00Z",
-      "freq_rank": 7165,
-      "frequencies": {
-        "aozora": 504
-      }
-    }
-  },
-  {
-    "uuid": "38d58d87-ce1e-570e-88b1-27089781a414",
-    "entry": "露場",
-    "reading": {
-      "primary": "ろじょう",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
-        "gloss": "weather measurement station",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "小学校の校庭の片隅には、百葉箱や雨量計が設置された小さな露場があり、理科の授業で毎日の気温を記録していた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "気象庁の観測所では、周囲の建物や樹木の影響を受けないよう、開けた芝生の上に作られた露場で正確な気象データを測定している。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "正確な気温を測るためには、直射日光や地面からの照り返しを防ぐなど、露場の環境を適切に維持することが非常に重要です。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "それどころでなく、朝の六時の観測の時などは、真暗な中を、吹雪をついて、吹き溜りの中を泳ぐようにして、やっと露場へたどり着くこともあるそうである。",
-              "citation": {
-                "source": "ツンドラへの旅",
-                "author": "中谷宇吉郎",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "男は、なおもいろいろじょうだんをいって、小林君をからかっていましたが、小林君がだまりこんでしまったので、つまらなそうに、おしゃべりをやめて、どこかへ立ちさってしまいました。",
-              "citation": {
-                "source": "大金塊",
-                "author": "江戸川乱歩",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "これで、わたくしも、こころじょうぶですわ。",
-              "citation": {
-                "source": "透明怪人",
-                "author": "江戸川乱歩",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "路上"
-      ],
-      "synonyms": [
-        "気象観測所",
-        "観測所"
-      ],
-      "antonyms": [],
-      "related": [
-        "温度計",
-        "雨量計",
-        "気象",
-        "観測"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "d548d005-53e8-5491-8503-5c07a59aa785",
-    "entry": "路上",
-    "reading": {
-      "primary": "ろじょう",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
+        "index": 3,
         "gloss": "On the Road (novel by Jack Kerouac)",
         "register": "standard",
         "nuance": null,
@@ -788,9 +631,20 @@
       "homophones": [
         "露場"
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "街路",
+        "路面",
+        "街中"
+      ],
+      "antonyms": [
+        "室内",
+        "屋内"
+      ],
       "related": [
+        "歩道",
+        "道路",
+        "交通",
+        "舗装",
         "小説",
         "文学",
         "ケルアック",
@@ -800,10 +654,120 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T10:11:52.425673+00:00Z",
       "freq_rank": 7165,
       "frequencies": {
         "aozora": 504
+      }
+    }
+  },
+  {
+    "uuid": "38d58d87-ce1e-570e-88b1-27089781a414",
+    "entry": "露場",
+    "reading": {
+      "primary": "ろじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "weather measurement station",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "小学校の校庭の片隅には、百葉箱や雨量計が設置された小さな露場があり、理科の授業で毎日の気温を記録していた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "気象庁の観測所では、周囲の建物や樹木の影響を受けないよう、開けた芝生の上に作られた露場で正確な気象データを測定している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "正確な気温を測るためには、直射日光や地面からの照り返しを防ぐなど、露場の環境を適切に維持することが非常に重要です。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "それどころでなく、朝の六時の観測の時などは、真暗な中を、吹雪をついて、吹き溜りの中を泳ぐようにして、やっと露場へたどり着くこともあるそうである。",
+              "citation": {
+                "source": "ツンドラへの旅",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男は、なおもいろいろじょうだんをいって、小林君をからかっていましたが、小林君がだまりこんでしまったので、つまらなそうに、おしゃべりをやめて、どこかへ立ちさってしまいました。",
+              "citation": {
+                "source": "大金塊",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これで、わたくしも、こころじょうぶですわ。",
+              "citation": {
+                "source": "透明怪人",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [
+        "路上"
+      ],
+      "synonyms": [
+        "気象観測所",
+        "観測所"
+      ],
+      "antonyms": [],
+      "related": [
+        "温度計",
+        "雨量計",
+        "気象",
+        "観測"
+      ]
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z",
+      "frequencies": {
+        "aozora": 1
       }
     }
   }

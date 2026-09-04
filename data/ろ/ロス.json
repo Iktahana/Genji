@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -263,54 +265,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "損失",
-        "喪失",
-        "損害"
-      ],
-      "antonyms": [
-        "利益",
-        "利得",
-        "獲得"
-      ],
-      "related": [
-        "感情",
-        "金銭",
-        "取引"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T10:11:52.430669+00:00Z",
-      "freq_rank": 5071,
-      "frequencies": {
-        "aozora": 170
-      }
-    }
-  },
-  {
-    "uuid": "3925d472-d84a-5623-b154-07a3b973099f",
-    "entry": "ロス",
-    "reading": {
-      "primary": "ロス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Los Angeles",
         "register": "standard",
         "nuance": null,
@@ -517,11 +474,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "損失",
+        "喪失",
+        "損害",
         "ロサンゼルス",
         "LA"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "利益",
+        "利得",
+        "獲得"
+      ],
       "related": [
+        "感情",
+        "金銭",
+        "取引",
         "カリフォルニア",
         "アメリカ",
         "都市"
@@ -530,7 +497,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T10:11:52.430669+00:00Z",
       "freq_rank": 5071,
       "frequencies": {
         "aozora": 170

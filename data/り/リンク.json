@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -421,54 +423,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "接続",
-        "結合",
-        "繋ぎ"
-      ],
-      "antonyms": [
-        "切断",
-        "分離"
-      ],
-      "related": [
-        "URL",
-        "ハイパーリンク",
-        "ウェブ",
-        "接続"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-05T08:45:55.831555+00:00Z",
-      "freq_rank": 278,
-      "frequencies": {
-        "aozora": 164
-      }
-    }
-  },
-  {
-    "uuid": "7e9d7e8f-3672-5c7f-91d8-7c7290843a98",
-    "entry": "リンク",
-    "reading": {
-      "primary": "リンク",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 5,
         "gloss": "(ice) rink",
         "register": "standard",
         "nuance": null,
@@ -747,11 +704,21 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "接続",
+        "結合",
+        "繋ぎ",
         "スケートリンク",
         "アイスリンク"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "切断",
+        "分離"
+      ],
       "related": [
+        "URL",
+        "ハイパーリンク",
+        "ウェブ",
+        "接続",
         "スケート",
         "アイスホッケー",
         "氷"
@@ -760,7 +727,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-05T08:45:55.831555+00:00Z",
       "freq_rank": 278,
       "frequencies": {
         "aozora": 164
