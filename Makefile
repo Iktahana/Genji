@@ -1,6 +1,15 @@
-.PHONY: db image up down clean
+.PHONY: quality quality-fix test db image up down clean
 
-db: ## Build genji.db from JSON data
+quality: ## Audit dictionary consistency (read-only)
+	python3 script/check_data_quality.py
+
+quality-fix: ## Apply deterministic fixes except UUID changes
+	python3 script/check_data_quality.py --fix
+
+test: ## Run data quality rule tests
+	python3 -m unittest discover -s tests -v
+
+db: quality ## Build genji.db from JSON data
 	python3 script/json_to_sqlite.py
 
 image: ## Build Docker image

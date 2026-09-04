@@ -378,6 +378,14 @@ components:
         ctype:
           type: string
           nullable: true
+        ctype_source:
+          type: string
+          description: 活用型の由来。既存値、POS からの推導、または人工指定。
+          enum: [existing, pos-derived, manual]
+        ctype_confidence:
+          type: string
+          description: 活用型の信頼度。
+          enum: [high, medium, low]
         inflections:
           nullable: true
           description: 活用情報（任意の JSON）

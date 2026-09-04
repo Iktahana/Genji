@@ -14,6 +14,48 @@ import (
 	"github.com/oapi-codegen/runtime"
 )
 
+// Defines values for GrammarCtypeConfidence.
+const (
+	High   GrammarCtypeConfidence = "high"
+	Low    GrammarCtypeConfidence = "low"
+	Medium GrammarCtypeConfidence = "medium"
+)
+
+// Valid indicates whether the value is a known member of the GrammarCtypeConfidence enum.
+func (e GrammarCtypeConfidence) Valid() bool {
+	switch e {
+	case High:
+		return true
+	case Low:
+		return true
+	case Medium:
+		return true
+	default:
+		return false
+	}
+}
+
+// Defines values for GrammarCtypeSource.
+const (
+	Existing   GrammarCtypeSource = "existing"
+	Manual     GrammarCtypeSource = "manual"
+	PosDerived GrammarCtypeSource = "pos-derived"
+)
+
+// Valid indicates whether the value is a known member of the GrammarCtypeSource enum.
+func (e GrammarCtypeSource) Valid() bool {
+	switch e {
+	case Existing:
+		return true
+	case Manual:
+		return true
+	case PosDerived:
+		return true
+	default:
+		return false
+	}
+}
+
 // ApiInfo API トップページの基本情報
 type ApiInfo struct {
 	BuildDate   *string `json:"build_date,omitempty"`
@@ -135,10 +177,22 @@ type Examples struct {
 type Grammar struct {
 	Ctype *string `json:"ctype,omitempty"`
 
+	// CtypeConfidence 活用型の信頼度。
+	CtypeConfidence *GrammarCtypeConfidence `json:"ctype_confidence,omitempty"`
+
+	// CtypeSource 活用型の由来。既存値、POS からの推導、または人工指定。
+	CtypeSource *GrammarCtypeSource `json:"ctype_source,omitempty"`
+
 	// Inflections 活用情報（任意の JSON）
 	Inflections interface{} `json:"inflections,omitempty"`
 	Pos         *[]string   `json:"pos,omitempty"`
 }
+
+// GrammarCtypeConfidence 活用型の信頼度。
+type GrammarCtypeConfidence string
+
+// GrammarCtypeSource 活用型の由来。既存値、POS からの推導、または人工指定。
+type GrammarCtypeSource string
 
 // Health defines model for Health.
 type Health struct {

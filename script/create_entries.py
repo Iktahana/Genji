@@ -16,8 +16,9 @@ new_words.txt から幻辭の新語条を作成し、表記揺れを既存エン
    無ければ **新語（new）**：canonical を見出しにスケルトン・エントリを生成
    （読み・品詞・青空例句のみ。`gloss` は空、`meta.needs_gloss=true`。語義は後で AI 付与）。
 4. 青空例句は `build_dictionary.build_aozora_index` を再利用して1回のコーパス走査で収集。
-5. 出力はファイル単位（`data/<頭文字>/<カタカナ読み>.json`）でアトミックに書き換える。
-   吸収・新語ともに既存ファイルを load → 変更/追記 → atomic replace。冪等。
+5. 確定読音は `data/<頭文字>/<カタカナ読み>.json`、Unicode 上の仮名として
+   完結しない読音は `pending/needs_reading/` へ出力する。ファイル単位で
+   load → 変更/追記 → atomic replace し、正式データへの混入を防ぐ。
 
 このスクリプトは語義（gloss）を生成しない。空欄のまま残し、後工程の AI 付与を
 `meta.needs_gloss=true` で追跡できるようにする（GitHub issue 参照）。
@@ -42,6 +43,12 @@ _SCRIPT_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _SCRIPT_DIR.parent
 sys.path.insert(0, str(_SCRIPT_DIR))
 import build_dictionary as bd  # noqa: E402
+from dictionary_rules import (  # noqa: E402
+    expected_data_path,
+    is_valid_reading,
+    quarantine_relative_path,
+    reading_to_file_key,
+)
 
 log = logging.getLogger("create_entries")
 
@@ -51,6 +58,7 @@ log = logging.getLogger("create_entries")
 _DEFAULT_NEW_WORDS = _PROJECT_ROOT / "new_words.txt"
 _DEFAULT_DB = _PROJECT_ROOT / "genji.db"
 _DEFAULT_DATA = _PROJECT_ROOT / "data"
+_DEFAULT_PENDING = _PROJECT_ROOT / "pending" / "needs_reading"
 _DEFAULT_TMP = Path("/tmp")
 _AOZORA_NAME = "aozorabunko_text"
 _CKPT_NAME = "aozora_newword_examples_checkpoint.json.gz"
@@ -214,9 +222,6 @@ def is_low_quality_new(canonical: str, reading: str) -> bool:
     if _RE_ASCII.match(canonical):            # ラテン文字・記号のみ
         return True
     if len(canonical) == 1 and _is_kana_char(canonical):  # 単独かなフラグメント
-        return True
-    # 読み導出失敗（OOV 漢字: 読み==表記 かつ かな無し）
-    if reading == canonical and _has_cjk(canonical) and not _has_kana(canonical):
         return True
     return False
 
@@ -529,20 +534,15 @@ def _to_literary(examples: list[dict]) -> list[dict]:
 # ──────────────────────────────────────────────────────────
 # 出力（ファイル単位でアトミック書き換え）
 # ──────────────────────────────────────────────────────────
-def _file_for(reading_primary: str) -> tuple[str, str]:
-    """reading_primary → (頭文字ディレクトリ, カタカナファイルキー)。
+def _data_file_for(reading_primary: str, data_dir: Path) -> Optional[Path]:
+    """確定済みの仮名読みに対する正式データパス。未確定なら None。"""
+    return expected_data_path(data_dir, reading_primary)
 
-    読みにかなが無い（＝読み導出不能で reading=表記の漢字）場合は、
-    bd.get_initial_hiragana が CJK を isalpha 扱いして単漢字ディレクトリを
-    量産してしまうため、`記号` バケットへ集約する（ファイル名は表記のまま）。
-    """
-    if reading_primary and _has_kana(reading_primary):
-        key = bd.hiragana_to_katakana(reading_primary)
-        initial = bd.get_initial_hiragana(key)
-    else:
-        key = reading_primary or "記号"
-        initial = "記号"
-    return initial, key
+
+def _pending_file_for(entry: str, reading_primary: str, pending_dir: Path) -> Path:
+    """読み未確定候補を Unicode コードポイント別の待審パスへ振り分ける。"""
+    key = reading_to_file_key(reading_primary) if reading_primary else entry
+    return pending_dir / quarantine_relative_path(entry, Path(f"{key}.json"))
 
 
 def make_new_record(nw: NewWord, examples: list[dict], updated_at: str) -> dict:
@@ -555,8 +555,8 @@ def make_new_record(nw: NewWord, examples: list[dict], updated_at: str) -> dict:
         "updated_at": updated_at,
         "needs_gloss": True,
     }
-    # 読みが導出できなかった（かな無し＝表記と同一）場合は後段で読み補完が必要
-    if not _has_kana(nw.reading):
+    # Unicode 上の仮名読みとして完結しない場合は正式データへ入れず、後段で補完する。
+    if not is_valid_reading(nw.reading):
         meta["needs_reading"] = True
     if nw.count:
         meta["frequencies"] = {"aozora": nw.count}
@@ -647,6 +647,7 @@ def apply_operations(
     news: dict[str, NewWord],
     index: dict[str, list[dict]],
     data_dir: Path,
+    pending_dir: Path,
     updated_at: str,
     max_examples: int,
     dry_run: bool,
@@ -654,19 +655,23 @@ def apply_operations(
     do_new: bool,
 ) -> dict[str, int]:
     """吸収・新語をファイル単位で集約し、アトミックに書き換える。"""
-    # ファイルパス → {"absorbs":[AbsorbOp], "news":[NewWord]}
-    plan: dict[tuple[str, str], dict] = defaultdict(lambda: {"absorbs": [], "news": []})
+    # 絶対ファイルパス → {"absorbs":[AbsorbOp], "news":[NewWord]}
+    plan: dict[Path, dict] = defaultdict(lambda: {"absorbs": [], "news": []})
 
     if do_absorb:
         for op in absorbs:
-            initial, key = _file_for(op.target_reading)
-            plan[(initial, key)]["absorbs"].append(op)
+            path = _data_file_for(op.target_reading, data_dir)
+            if path is not None:
+                plan[path]["absorbs"].append(op)
     if do_new:
         for nw in news.values():
-            initial, key = _file_for(nw.reading)
-            plan[(initial, key)]["news"].append(nw)
+            path = _data_file_for(nw.reading, data_dir)
+            if path is None:
+                path = _pending_file_for(nw.canonical, nw.reading, pending_dir)
+            plan[path]["news"].append(nw)
 
-    stats = {"files": 0, "absorbed": 0, "new_entries": 0, "examples_added": 0, "skipped_existing_new": 0}
+    stats = {"files": 0, "absorbed": 0, "new_entries": 0, "pending_entries": 0,
+             "examples_added": 0, "skipped_existing_new": 0}
 
     bd.Progress.group(f"Phase 6 │ エントリ書き出し  ({len(plan):,} ファイル予定)"
                       + ("  [dry-run]" if dry_run else ""))
@@ -676,8 +681,7 @@ def apply_operations(
     last = time.perf_counter()
     done = 0
 
-    for (initial, key), ops in sorted(plan.items()):
-        path = data_dir / initial / f"{key}.json"
+    for path, ops in sorted(plan.items(), key=lambda pair: str(pair[0])):
         items = _load_file(path)
         by_uuid = {it.get("uuid"): it for it in items}
         by_entry_reading = {(it.get("entry"), (it.get("reading") or {}).get("primary")): it for it in items}
@@ -720,6 +724,8 @@ def apply_operations(
             by_uuid[uid] = rec
             file_changed = True
             stats["new_entries"] += 1
+            if pending_dir in path.parents:
+                stats["pending_entries"] += 1
             stats["examples_added"] += len(exs)
 
         if file_changed:
@@ -738,6 +744,7 @@ def apply_operations(
     bd.Progress.ok(
         f"{stats['files']:,} ファイル変更  "
         f"吸収 {stats['absorbed']:,}  新語 {stats['new_entries']:,}  "
+        f"要読音確認 {stats['pending_entries']:,}  "
         f"例句 +{stats['examples_added']:,}"
     )
     bd.Progress.endgroup()
@@ -755,6 +762,8 @@ def main() -> None:
     parser.add_argument("--new-words", type=Path, default=_DEFAULT_NEW_WORDS)
     parser.add_argument("--db", type=Path, default=_DEFAULT_DB)
     parser.add_argument("--data-dir", type=Path, default=_DEFAULT_DATA)
+    parser.add_argument("--pending-dir", type=Path, default=_DEFAULT_PENDING,
+                        help="読み解析失敗候補の隔離先（data/ の外であること）")
     parser.add_argument("--tmp-dir", type=Path, default=_DEFAULT_TMP)
     parser.add_argument("--aozora-dir", type=Path, default=None,
                         help="既定: <tmp-dir>/aozorabunko_text")
@@ -779,6 +788,11 @@ def main() -> None:
                         help="ファイルを書き換えず統計のみ")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
+
+    args.data_dir = args.data_dir.resolve()
+    args.pending_dir = args.pending_dir.resolve()
+    if args.pending_dir == args.data_dir or args.data_dir in args.pending_dir.parents:
+        parser.error("--pending-dir must be outside --data-dir so pending entries are not built")
 
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
@@ -817,7 +831,7 @@ def main() -> None:
 
     # Phase 6: 出力
     stats = apply_operations(
-        absorbs, news, index, args.data_dir, updated_at,
+        absorbs, news, index, args.data_dir, args.pending_dir, updated_at,
         max_examples=args.max_examples,
         dry_run=args.dry_run,
         do_absorb=not args.no_absorb,
@@ -836,6 +850,7 @@ def main() -> None:
     bd.Progress.step(f"new_words 入力           : {len(rows):,}")
     bd.Progress.step(f"吸収（既存へ統合）        : {stats['absorbed']:,}")
     bd.Progress.step(f"新語エントリ作成          : {stats['new_entries']:,}")
+    bd.Progress.step(f"うち読音待ち（data外）      : {stats['pending_entries']:,}")
     bd.Progress.step(f"青空例句 付与             : +{stats['examples_added']:,}")
     bd.Progress.step(f"変更ファイル              : {stats['files']:,}")
     bd.Progress.step(f"分類スキップ              : {skipped:,}")

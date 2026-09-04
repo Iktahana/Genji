@@ -13,9 +13,12 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+from check_data_quality import audit
+
 _SCRIPT_DIR = Path(__file__).resolve().parent
 _REPO_ROOT = _SCRIPT_DIR.parent
 _DATA_DIR = _REPO_ROOT / "data"
+_PENDING_DIR = _REPO_ROOT / "pending" / "needs_reading"
 
 
 def _git(args: list[str]) -> str:
@@ -52,7 +55,7 @@ def create_metadata(conn: sqlite3.Connection, entry_count: int) -> None:
         ("repository", repo),
         ("build_date", build_date),
         ("entry_count", str(entry_count)),
-        ("schema_version", "2"),
+        ("schema_version", "3"),
     ]
     conn.executemany(
         "INSERT OR REPLACE INTO _metadata (key, value) VALUES (?, ?)", rows
@@ -96,6 +99,8 @@ def create_schema(conn: sqlite3.Connection) -> None:
             is_heteronym    INTEGER DEFAULT 0,
             pos             TEXT,       -- JSON array
             ctype           TEXT,
+            ctype_source    TEXT,
+            ctype_confidence TEXT,
             inflections     TEXT,       -- JSON
             relations       TEXT,       -- JSON
             meta            TEXT,       -- JSON
@@ -129,6 +134,8 @@ def create_schema(conn: sqlite3.Connection) -> None:
             entry_uuid TEXT NOT NULL
         );
         CREATE INDEX IF NOT EXISTS idx_variant_lookup_variant ON variant_lookup(variant);
+
+        PRAGMA user_version = 3;
     """)
 
 
@@ -139,9 +146,10 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
     conn.execute(
         """INSERT OR REPLACE INTO entries
            (uuid, entry, reading_primary, reading_alternatives, is_heteronym,
-            pos, ctype, inflections, relations, meta, raw_json,
+            pos, ctype, ctype_source, ctype_confidence,
+            inflections, relations, meta, raw_json,
             freq_rank, needs_gloss, lookup_register)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (
             item.get("uuid"),
             item.get("entry"),
@@ -150,6 +158,8 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
             1 if reading.get("is_heteronym") else 0,
             json.dumps(grammar.get("pos", []), ensure_ascii=False),
             grammar.get("ctype"),
+            grammar.get("ctype_source"),
+            grammar.get("ctype_confidence"),
             json.dumps(grammar.get("inflections"), ensure_ascii=False) if grammar.get("inflections") else None,
             json.dumps(item.get("relations", {}), ensure_ascii=False),
             json.dumps(item.get("meta", {}), ensure_ascii=False),
@@ -187,6 +197,15 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
 
 
 def main() -> None:
+    # 發布資料庫只收錄 data/；pending 的完整性由 CI/`make quality` 檢查。
+    quality = audit(_DATA_DIR, _PENDING_DIR, fix=False, include_pending=False)
+    if quality.error_count:
+        print("Dictionary quality check failed; SQLite was not rebuilt.", file=sys.stderr)
+        for code, count in quality.issue_counts.most_common():
+            print(f"  {code}: {count}", file=sys.stderr)
+        print("Run: python3 script/check_data_quality.py", file=sys.stderr)
+        sys.exit(1)
+
     output_path = _REPO_ROOT / "genji.db"
     if output_path.exists():
         output_path.unlink()
@@ -228,7 +247,7 @@ def main() -> None:
     conn.execute("COMMIT")
     create_metadata(conn, count)
     create_fts(conn)
-    conn.execute("PRAGMA user_version = 2")
+    conn.execute("PRAGMA user_version = 3")
     conn.execute("ANALYZE")
     if conn.execute("PRAGMA integrity_check").fetchone()[0] != "ok":
         raise RuntimeError("SQLite integrity_check failed")

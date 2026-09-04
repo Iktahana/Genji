@@ -32,6 +32,12 @@ jobs:
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "Version: $VERSION"
 
+      - name: Test consistency rules
+        run: make test
+
+      - name: Audit formal and pending dictionary data
+        run: make quality
+
       - name: Build SQLite database
         run: python script/json_to_sqlite.py
         env:

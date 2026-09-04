@@ -99,7 +99,7 @@ SELECT * FROM _metadata;
 | `meta.frequencies` | `object` | 出典別の総出現回数。例: `{"aozora": 1234}`。 |
 | `meta.variant_writings` | `string[]` | 既存エントリへ吸収した**異表記**（旧字体・歴史的仮名遣い）。例: `亜` に `["亞"]`、`居る` に `["ゐる"]`、`来` に `["來"]`。検索のエイリアスとして利用できます。 |
 | `meta.needs_gloss` | `bool` | `true` の場合、語義（`definitions[*].gloss`）が**未生成のスケルトン**。読み・品詞・青空文庫実例（`examples.literary`）のみ確定済みで、語義は後続のバックフィルで埋められます。 |
-| `meta.needs_reading` | `bool` | `true` の場合、読み（`reading.primary`）が未確定で暫定的に表記を格納。読みが付かない語は `reading` 別ディレクトリではなく `data/記号/` に格納されます。 |
+| `meta.needs_reading` | `bool` | `true` の場合、読み（`reading.primary`）が未確定。正式な `data/` には入れず、`pending/needs_reading/` で人工確認を待ちます。 |
 
 > **⚠️ 注意:** `meta.needs_gloss = true` のエントリは `definitions[*].gloss` が空文字です。語義の有無で絞り込む場合は次のように除外してください。
 >
@@ -111,6 +111,82 @@ SELECT * FROM _metadata;
 > ```
 
 旧字体・歴史的仮名遣いの表記は、可能な限り現代表記の見出しへ正規化（`ゐる→居る`・`來→来`・`氣→気` 等）して吸収し、原表記は `meta.variant_writings` に保持します。
+
+## 🔤 活用型（ctype）の正規化・補完
+
+`grammar.ctype` には動詞・形容詞の活用型を格納します。活用型が設定されている
+場合は、次の任意フィールドで由来と信頼度も表現できます。
+
+| フィールド | 値 | 意味 |
+|---|---|---|
+| `grammar.ctype_source` | `existing` / `pos-derived` / `manual` | 既存値、`grammar.pos` からの保守的な推導、または人工指定。 |
+| `grammar.ctype_confidence` | `high` / `medium` / `low` | 活用型の信頼度。自動補完は `high`、未知の既存値は保持した上で `medium`。`low` は将来の人工・他ソース用。 |
+
+補完スクリプトは既存の非空 `ctype` を常に優先し、空値については POS が示す
+候補が一種類だけのときに限って補完します。複数候補の衝突や、汎用的な
+`動詞`・`助動詞`・`形容動詞` だけのエントリは変更しません。既定動作は
+読み取り専用の dry-run です。
+
+```bash
+# 全データを走査して集計だけ表示（JSON は変更しない）
+python3 script/backfill_ctype.py
+
+# 衝突明細を含む機械可読レポートも保存
+python3 script/backfill_ctype.py --report ctype-report.json
+
+# 別のデータルートを検査
+python3 script/backfill_ctype.py --data-dir /path/to/data
+
+# 明示指定した場合のみ、各 JSON を同一ディレクトリ内で原子的に置換
+python3 script/backfill_ctype.py --apply
+```
+
+`--apply` 後は `ctype_source` と `ctype_confidence` を SQLite の `entries` 表へ
+反映するため、`make db` で `genji.db` を再構築してください。SQLite schema と
+`PRAGMA user_version` は version 3 です。
+
+## 🔎 詞条データ品質検査
+
+`data/` は読音が確定した正式データ専用です。読音解析に失敗した候補（漢字が
+残る `阿輩だい`、漢字をそのまま読音にした `於蘭`、不正な濁点など）は
+`pending/needs_reading/` に隔離され、SQLite には収録されません。待審データは
+先頭文字の Unicode コードポイント範囲別に配置されます。
+
+品質規則は Python 同梱の Unicode Character Database (UCD) を参照します。硬錯誤
+（終了碼 1）は SQLite 建置與 CI を阻擋し、內容上の疑点は警告（終了碼 0）として
+人工審査に回します。
+
+- UUIDv5 の形式、全域一意性、`entry:reading.primary` からの再現性
+- 読音（代替読音を含む）の Unicode、配列重複、歴史的仮名 `ゟ`、錯置濁点
+- definition の連続 index、gloss / `needs_gloss`、grammar、relations、meta、frequency の型と範囲
+- 例句 object と非空 text、および同一定義内の NFC＋trim 後の重複
+- パス NFC、255-byte component 制限、正規化／大小文字衝突、読音から計算した配置
+- 正式データの `needs_reading` 禁止と、待審データの同 marker 必須
+
+未知詞性、異常に長い見出し／読音、標準例句なし、存在しない relation target は
+警告です。AI による意味判断や曖昧な類似例句の削除は行いません。
+
+```bash
+# 読み取り専用の全件検査（問題があれば終了コード 1）
+make quality
+
+# 安全で冪等な修復（隔離、待審 marker、配列、index、exact 例句、重複 record）
+python3 script/check_data_quality.py --fix
+
+# severity → code → data/pending でグループ化した機械可読レポート
+python3 script/check_data_quality.py --json > quality-report.json
+
+# UUIDv5 遷移は一般修復と分離。--apply 時は対照表の指定が必須
+python3 script/migrate_uuids.py --map migrations/uuid-v5.json --apply
+
+# 読音を人工補完し needs_reading を削除、UUID 遷移後に正式領域へ昇格
+python3 script/promote_pending.py pending/needs_reading/U+4E00-U+4EFF/候補.json
+python3 script/promote_pending.py --apply pending/needs_reading/U+4E00-U+4EFF/候補.json
+```
+
+`script/json_to_sqlite.py` は正式 `data/` の硬錯誤だけをビルド前に検査します。
+`make quality` と CI は待審領域も含めた完全検査を行います。一般 `--fix` は UUID を
+変更せず、UUID 遷移は必ず旧値・新値・見出し・読音・原パスを台帳に残します。
 
 ### Docker
 
