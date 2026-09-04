@@ -336,8 +336,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -927,50 +929,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "仙"
-      ],
-      "synonyms": [
-        "聖人"
-      ],
-      "antonyms": [],
-      "related": [
-        "宗教",
-        "信仰",
-        "聖"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 6966,
-      "frequencies": {
-        "aozora": 642
-      }
-    }
-  },
-  {
-    "uuid": "2383ef86-2bd1-5d34-a56e-7493f6f38871",
-    "entry": "セント",
-    "reading": {
-      "primary": "セント",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "cent",
         "register": "standard",
         "nuance": null,
@@ -1234,9 +1195,14 @@
       "homophones": [
         "仙"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "聖人"
+      ],
       "antonyms": [],
       "related": [
+        "宗教",
+        "信仰",
+        "聖",
         "通貨",
         "貨幣",
         "ドル"

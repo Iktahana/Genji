@@ -17,120 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "seven",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "トランプの「セブンブリッジ」で、最後にダイヤのセブンを引いて逆転勝ちした。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "幸運の数字であるセブンが並んだスロットに、思わず歓声を上げた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "映画のクライマックスで、セブンの文字が書かれた謎の箱が届けられた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "（時計を出して見ようとして、なくなっているのを発見）時計もセブンか。",
-              "citation": {
-                "source": "ドモ又の死",
-                "author": "有島武郎",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "セブンどころじゃないイレブンくらいだろう。",
-              "citation": {
-                "source": "ドモ又の死",
-                "author": "有島武郎",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "セブンなんだけれど、ということである。",
-              "citation": {
-                "source": "まちがい",
-                "author": "宮本百合子",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "」「ラッキーセブンだ」「ぼくにラッキーはない、だめだ」「ばかいえ、きみはたしかに勝てるのに勝たずにいるんだ」「どうして？",
-              "citation": {
-                "source": "ああ玉杯に花うけて",
-                "author": "佐藤紅緑",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "七"
-      ],
-      "antonyms": [],
-      "related": [
-        "数字",
-        "数値"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T01:04:49.133102+00:00Z",
-      "freq_rank": 7553,
-      "frequencies": {
-        "aozora": 3
-      }
-    }
-  },
-  {
-    "uuid": "ecf8e4c3-b9c5-56de-b96a-c0f240297ae8",
-    "entry": "セブン",
-    "reading": {
-      "primary": "セブン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "7-Eleven (convenience store chain) (abbr)",
         "register": "standard",
         "nuance": null,
@@ -276,16 +162,96 @@
             }
           ]
         }
+      },
+      {
+        "index": 2,
+        "gloss": "seven",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "トランプの「セブンブリッジ」で、最後にダイヤのセブンを引いて逆転勝ちした。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "幸運の数字であるセブンが並んだスロットに、思わず歓声を上げた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "映画のクライマックスで、セブンの文字が書かれた謎の箱が届けられた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "（時計を出して見ようとして、なくなっているのを発見）時計もセブンか。",
+              "citation": {
+                "source": "ドモ又の死",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "セブンどころじゃないイレブンくらいだろう。",
+              "citation": {
+                "source": "ドモ又の死",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "セブンなんだけれど、ということである。",
+              "citation": {
+                "source": "まちがい",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「ラッキーセブンだ」「ぼくにラッキーはない、だめだ」「ばかいえ、きみはたしかに勝てるのに勝たずにいるんだ」「どうして？",
+              "citation": {
+                "source": "ああ玉杯に花うけて",
+                "author": "佐藤紅緑",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "七"
+      ],
       "antonyms": [],
       "related": [
         "コンビニ",
         "コンビニエンスストア",
-        "小売"
+        "小売",
+        "数字",
+        "数値"
       ]
     },
     "meta": {

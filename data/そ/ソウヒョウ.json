@@ -94,8 +94,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -245,52 +247,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "叢氷"
-      ],
-      "synonyms": [
-        "総合評価",
-        "全体評価",
-        "講評"
-      ],
-      "antonyms": [],
-      "related": [
-        "評価",
-        "コメント",
-        "判断"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "freq_rank": 20076,
-      "frequencies": {
-        "aozora": 12
-      }
-    }
-  },
-  {
-    "uuid": "b4dbf652-8cad-58aa-b2b6-75f9c4a4d3b9",
-    "entry": "総評",
-    "reading": {
-      "primary": "そうひょう",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Sōhyō (General Council of Trade Unions of Japan; 1950-1989)",
         "register": "standard",
         "nuance": null,
@@ -443,11 +402,17 @@
         "叢氷"
       ],
       "synonyms": [
+        "総合評価",
+        "全体評価",
+        "講評",
         "連合",
         "総同盟"
       ],
       "antonyms": [],
       "related": [
+        "評価",
+        "コメント",
+        "判断",
         "労働組合",
         "ストライキ",
         "組織"
