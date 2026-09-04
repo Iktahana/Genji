@@ -290,55 +290,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "東",
-        "東方",
-        "東部"
-      ],
-      "antonyms": [
-        "ウェスト",
-        "西"
-      ],
-      "related": [
-        "北",
-        "南",
-        "方角",
-        "東側",
-        "コンパス"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T21:52:27.651340+00:00Z",
-      "freq_rank": 17426,
-      "frequencies": {
-        "aozora": 79
-      }
-    }
-  },
-  {
-    "uuid": "268e2cbc-a9fe-52c1-87a2-ac138728958d",
-    "entry": "イースト",
-    "reading": {
-      "primary": "イースト",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "yeast",
         "register": "standard",
         "nuance": null,
@@ -617,11 +571,22 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "東",
+        "東方",
+        "東部",
         "酵母",
         "酵母菌"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ウェスト",
+        "西"
+      ],
       "related": [
+        "北",
+        "南",
+        "方角",
+        "東側",
+        "コンパス",
         "パン",
         "発酵",
         "ビール",
@@ -633,7 +598,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T21:52:27.651340+00:00Z",
       "freq_rank": 17426,
       "frequencies": {
         "aozora": 79

@@ -10,10 +10,13 @@
     "grammar": {
       "pos": [
         "副詞-と",
-        "形容詞-たる"
+        "形容詞-たる",
+        "名詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "文語形容動詞-タリ",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -299,49 +302,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "堂々たる",
-        "壮大"
-      ],
-      "antonyms": [
-        "卑屈"
-      ],
-      "related": [
-        "威風",
-        "凛々しい"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T19:55:53.726810+00:00Z",
-      "frequencies": {
-        "aozora": 41
-      }
-    }
-  },
-  {
-    "uuid": "24c45aa4-92d0-56c0-9a63-fc2367eb589c",
-    "entry": "威風堂々",
-    "reading": {
-      "primary": "いふうどうどう",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "Pomp and Circumstance (series of marches by Elgar)",
         "register": "standard",
         "nuance": null,
@@ -627,9 +590,16 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "堂々たる",
+        "壮大"
+      ],
+      "antonyms": [
+        "卑屈"
+      ],
       "related": [
+        "威風",
+        "凛々しい",
         "エルガー",
         "行進曲",
         "クラシック音楽"
@@ -638,7 +608,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T19:55:53.726810+00:00Z",
       "frequencies": {
         "aozora": 41
       }

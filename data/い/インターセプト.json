@@ -15,8 +15,10 @@
         "動詞-サ変",
         "動詞-他動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -69,45 +71,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "遮断",
-        "迎撃"
-      ],
-      "antonyms": [],
-      "related": [
-        "インターセプション",
-        "スポーツ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T21:39:05.528560+00:00Z",
-      "freq_rank": 39964
-    }
-  },
-  {
-    "uuid": "57e56fc6-5302-54db-a6d7-e08d9d1b327d",
-    "entry": "インターセプト",
-    "reading": {
-      "primary": "インターセプト",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "The Intercept (media organization)",
         "register": "standard",
         "nuance": null,
@@ -152,9 +118,14 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
+      "synonyms": [
+        "遮断",
+        "迎撃"
+      ],
       "antonyms": [],
       "related": [
+        "インターセプション",
+        "スポーツ",
         "メディア",
         "報道"
       ]
@@ -162,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-01T21:39:05.528560+00:00Z",
       "freq_rank": 39964
     }
   }

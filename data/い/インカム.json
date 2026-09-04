@@ -17,127 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "income",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼女は副業で得たインカムを、将来の旅行資金に充てている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "不動産投資からのインカムは、毎月安定して振り込まれる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            },
-            {
-              "text": "インカムが少ない時期でも、生活水準を維持するために節約を心がけている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash-lite"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "末寺にはインカムベントと称するものあり。",
-              "citation": {
-                "source": "欧米各国　政教日記",
-                "author": "井上円了",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "インカムベントのほかにキュレートと称するものあり。",
-              "citation": {
-                "source": "欧米各国　政教日記",
-                "author": "井上円了",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "沖縄では河童のことをカワカムロともインカムロともよんでいる。",
-              "citation": {
-                "source": "故郷七十年",
-                "author": "柳田国男",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "またインカムロのインというのはこちらの海ということだから、沖縄では海にも河童がいるということになる。",
-              "citation": {
-                "source": "故郷七十年",
-                "author": "柳田国男",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "収入",
-        "所得",
-        "収益"
-      ],
-      "antonyms": [
-        "支出",
-        "出費"
-      ],
-      "related": [
-        "給与",
-        "利益",
-        "歳入",
-        "インカムゲイン",
-        "収支"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T21:31:29.494614+00:00Z",
-      "frequencies": {
-        "aozora": 3
-      }
-    }
-  },
-  {
-    "uuid": "8590e28a-a528-58fb-8b6e-8a14d7edd91a",
-    "entry": "インカム",
-    "reading": {
-      "primary": "インカム",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "(portable) intercom",
         "register": "standard",
         "nuance": null,
@@ -254,6 +133,82 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "income",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼女は副業で得たインカムを、将来の旅行資金に充てている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不動産投資からのインカムは、毎月安定して振り込まれる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "インカムが少ない時期でも、生活水準を維持するために節約を心がけている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "末寺にはインカムベントと称するものあり。",
+              "citation": {
+                "source": "欧米各国　政教日記",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "インカムベントのほかにキュレートと称するものあり。",
+              "citation": {
+                "source": "欧米各国　政教日記",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "沖縄では河童のことをカワカムロともインカムロともよんでいる。",
+              "citation": {
+                "source": "故郷七十年",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またインカムロのインというのはこちらの海ということだから、沖縄では海にも河童がいるということになる。",
+              "citation": {
+                "source": "故郷七十年",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
@@ -261,15 +216,26 @@
       "synonyms": [
         "インターコム",
         "トランシーバー",
-        "無線機"
+        "無線機",
+        "収入",
+        "所得",
+        "収益"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "支出",
+        "出費"
+      ],
       "related": [
         "通信",
         "無線",
         "ヘッドセット",
         "連絡",
-        "音声通話"
+        "音声通話",
+        "給与",
+        "利益",
+        "歳入",
+        "インカムゲイン",
+        "収支"
       ]
     },
     "meta": {
