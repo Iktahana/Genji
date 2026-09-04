@@ -5,7 +5,8 @@
     "reading": {
       "primary": "ピーカン",
       "alternatives": [
-        "ぴいかん"
+        "ぴいかん",
+        "ペカン"
       ],
       "is_heteronym": false
     },
@@ -84,52 +85,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "晴天",
-        "快晴"
-      ],
-      "antonyms": [
-        "雨天",
-        "曇天"
-      ],
-      "related": [
-        "天気",
-        "晴れ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:02:37.619504+00:00Z",
-      "frequencies": {
-        "aozora": 3
-      }
-    }
-  },
-  {
-    "uuid": "f5d41e5f-378a-547f-a832-ac755fdbdf54",
-    "entry": "ピーカン",
-    "reading": {
-      "primary": "ピーカン",
-      "alternatives": [
-        "ペカン"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "pecan (Carya illinoinensis)",
         "register": "standard",
         "nuance": null,
@@ -199,9 +157,17 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "晴天",
+        "快晴"
+      ],
+      "antonyms": [
+        "雨天",
+        "曇天"
+      ],
       "related": [
+        "天気",
+        "晴れ",
         "ナッツ",
         "堅果"
       ]
@@ -209,7 +175,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T17:02:37.619504+00:00Z",
       "frequencies": {
         "aozora": 3
       }

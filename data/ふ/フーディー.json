@@ -19,6 +19,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "foodie (person with an avid interest in food)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "彼は自他共に認めるフーディーで、週末になると話題のレストランを巡っては詳細なレビューをブログに書き込んでいる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "そのアプリは、世界中のフーディーたちが共有する隠れ家的なビストロや屋台の情報を地図上で探せるようになっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "単に高級食材を食べるだけでなく、生産者のこだわりや料理の歴史的背景にまで興味を持つのが真のフーディーだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "hoodie",
         "register": "standard",
         "nuance": null,
@@ -64,92 +107,16 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "グルメ",
+        "美食家",
         "パーカー"
       ],
       "antonyms": [],
       "related": [
+        "食道楽",
+        "美食",
         "衣類",
         "上着"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T19:01:45.476732+00:00Z"
-    }
-  },
-  {
-    "uuid": "6d43b30f-c9cc-5d00-9f86-bc926cd080d9",
-    "entry": "フーディー",
-    "reading": {
-      "primary": "フーディー",
-      "alternatives": [
-        "フーディ"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "foodie (person with an avid interest in food)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "彼は自他共に認めるフーディーで、週末になると話題のレストランを巡っては詳細なレビューをブログに書き込んでいる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "そのアプリは、世界中のフーディーたちが共有する隠れ家的なビストロや屋台の情報を地図上で探せるようになっている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "単に高級食材を食べるだけでなく、生産者のこだわりや料理の歴史的背景にまで興味を持つのが真のフーディーだ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "グルメ",
-        "美食家"
-      ],
-      "antonyms": [],
-      "related": [
-        "食道楽",
-        "美食"
       ]
     },
     "meta": {

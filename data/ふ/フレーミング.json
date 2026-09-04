@@ -17,6 +17,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "flaming",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "企業の公式アカウントが不適切な発言をしたことで、SNS上で大規模なフレーミングが発生した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "掲示板での些細な意見の食い違いが、あっという間に過激なフレーミングへと発展してしまった。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "インターネット上で活動する上で、意図しないフレーミングを避けるためのネットリテラシー教育が欠かせない。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "ちょっと、環境をととのえすぎたな」「企画力がありすぎるのも、考えもんだ」「おれのせいじゃなくて、地霊のしわざだろうよ」　紫陽花と軒にフレーミングされて、ここの空はあまり大きくはないが、もうディフュージョンをかけた光源のように、あいまいな白になっていることは充分にわかる。",
+              "citation": {
+                "source": "45回転の夏",
+                "author": "第３章　フルサークル、１９９１年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "framing",
         "register": "standard",
         "nuance": null,
@@ -71,99 +123,10 @@
     "relations": {
       "homophones": [],
       "synonyms": [
-        "枠組み"
-      ],
-      "antonyms": [],
-      "related": [
-        "構図",
-        "表現",
-        "映像"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T18:56:01.200172+00:00Z",
-      "frequencies": {
-        "aozora": 1
-      }
-    }
-  },
-  {
-    "uuid": "51aa26e3-0f78-5df5-bc59-160a3f209813",
-    "entry": "フレーミング",
-    "reading": {
-      "primary": "フレーミング",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "flaming",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "企業の公式アカウントが不適切な発言をしたことで、SNS上で大規模なフレーミングが発生した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "掲示板での些細な意見の食い違いが、あっという間に過激なフレーミングへと発展してしまった。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "インターネット上で活動する上で、意図しないフレーミングを避けるためのネットリテラシー教育が欠かせない。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "ちょっと、環境をととのえすぎたな」「企画力がありすぎるのも、考えもんだ」「おれのせいじゃなくて、地霊のしわざだろうよ」　紫陽花と軒にフレーミングされて、ここの空はあまり大きくはないが、もうディフュージョンをかけた光源のように、あいまいな白になっていることは充分にわかる。",
-              "citation": {
-                "source": "45回転の夏",
-                "author": "第３章　フルサークル、１９９１年",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
         "炎",
         "火炎",
-        "燃焼"
+        "燃焼",
+        "枠組み"
       ],
       "antonyms": [
         "消火"
@@ -171,7 +134,10 @@
       "related": [
         "火",
         "熱",
-        "燃える"
+        "燃える",
+        "構図",
+        "表現",
+        "映像"
       ]
     },
     "meta": {

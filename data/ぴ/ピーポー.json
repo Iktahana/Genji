@@ -17,6 +17,58 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "people",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "このレセプションには、ファッション業界の最先端を行くピーポーたちが集まっている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "パーティーピーポーたちが夜通しダンスを楽しみ、会場内は熱気に包まれていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最近の若いピーポーの間では、動画配信からブームが生まれることが多いらしい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "もとは、「ポーピーポー」というふうに、中に一つ長三度くらい高い音をはさんで、それがどうかすると「起きろ、オーキーロー」と聞こえたものであるが、近ごろは単に「ププー、プープ」というふうに、ただひと色の音の系列になってしまった。",
+              "citation": {
+                "source": "物売りの声",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
         "gloss": "nee-naw (sound of an emergency vehicle siren)",
         "register": "standard",
         "nuance": null,
@@ -71,99 +123,16 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "人々",
+        "人間",
         "サイレン音"
       ],
       "antonyms": [],
       "related": [
+        "集団",
+        "社会",
         "音",
         "緊急車両"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:00:17.498224+00:00Z"
-    }
-  },
-  {
-    "uuid": "4bb015ed-4a87-5877-9729-1cb497754b6c",
-    "entry": "ピーポー",
-    "reading": {
-      "primary": "ピーポー",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "people",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "このレセプションには、ファッション業界の最先端を行くピーポーたちが集まっている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "パーティーピーポーたちが夜通しダンスを楽しみ、会場内は熱気に包まれていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "最近の若いピーポーの間では、動画配信からブームが生まれることが多いらしい。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "もとは、「ポーピーポー」というふうに、中に一つ長三度くらい高い音をはさんで、それがどうかすると「起きろ、オーキーロー」と聞こえたものであるが、近ごろは単に「ププー、プープ」というふうに、ただひと色の音の系列になってしまった。",
-              "citation": {
-                "source": "物売りの声",
-                "author": "寺田寅彦",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "人々",
-        "人間"
-      ],
-      "antonyms": [],
-      "related": [
-        "集団",
-        "社会"
       ]
     },
     "meta": {

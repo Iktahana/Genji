@@ -9,7 +9,8 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "接頭辞"
       ],
       "ctype": null,
       "inflections": null
@@ -274,51 +275,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [
-        "ＢＩＳ"
-      ],
-      "synonyms": [
-        "ネジ",
-        "螺子"
-      ],
-      "antonyms": [],
-      "related": [
-        "工具",
-        "固定具",
-        "金物"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:51:48.700826+00:00Z",
-      "freq_rank": 12588,
-      "frequencies": {
-        "aozora": 5
-      }
-    }
-  },
-  {
-    "uuid": "993aa151-c4b0-56f5-8844-f63b1febd183",
-    "entry": "ビス",
-    "reading": {
-      "primary": "ビス",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "接頭辞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "bis-",
         "register": "standard",
         "nuance": null,
@@ -582,9 +541,15 @@
       "homophones": [
         "ＢＩＳ"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ネジ",
+        "螺子"
+      ],
       "antonyms": [],
       "related": [
+        "工具",
+        "固定具",
+        "金物",
         "接頭辞",
         "化学",
         "科学"
@@ -593,7 +558,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T16:51:48.700826+00:00Z",
       "freq_rank": 12588,
       "frequencies": {
         "aozora": 5

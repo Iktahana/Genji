@@ -298,53 +298,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "偶然",
-        "まぐれ"
-      ],
-      "antonyms": [
-        "実力",
-        "必然"
-      ],
-      "related": [
-        "運",
-        "幸運",
-        "まぐれ当たり",
-        "スポーツ"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T18:53:30.721055+00:00Z",
-      "freq_rank": 39632,
-      "frequencies": {
-        "aozora": 224
-      }
-    }
-  },
-  {
-    "uuid": "184ca119-1d1c-5cea-8a33-0ff41fc43343",
-    "entry": "フロック",
-    "reading": {
-      "primary": "フロック",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "frock (coat)",
         "register": "standard",
         "nuance": null,
@@ -631,11 +587,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "偶然",
+        "まぐれ",
         "フロックコート",
         "上着"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "実力",
+        "必然"
+      ],
       "related": [
+        "運",
+        "幸運",
+        "まぐれ当たり",
+        "スポーツ",
         "衣服",
         "洋装",
         "19世紀",
@@ -646,7 +611,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T18:53:30.721055+00:00Z",
       "freq_rank": 39632,
       "frequencies": {
         "aozora": 224

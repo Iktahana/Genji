@@ -12,8 +12,10 @@
         "名詞",
         "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -329,8 +331,10 @@
         "名詞",
         "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -392,52 +396,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "開始",
-        "始動",
-        "着手"
-      ],
-      "antonyms": [
-        "終了",
-        "停止",
-        "完了"
-      ],
-      "related": [
-        "スタート",
-        "初め"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
-      "frequencies": {
-        "aozora": 3
-      }
-    }
-  },
-  {
-    "uuid": "7f88b20f-48b8-5329-bb6d-20fcc5e0e47e",
-    "entry": "ビギン",
-    "reading": {
-      "primary": "ビギン",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "beguine (folk dance and rhythm)",
         "register": "standard",
         "nuance": null,
@@ -500,11 +461,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "開始",
+        "始動",
+        "着手",
         "ダンス",
         "リズム"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "終了",
+        "停止",
+        "完了"
+      ],
       "related": [
+        "スタート",
+        "初め",
         "音楽",
         "カリブ海",
         "フォークダンス"

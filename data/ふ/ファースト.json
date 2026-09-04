@@ -4,7 +4,9 @@
     "entry": "ファースト",
     "reading": {
       "primary": "ファースト",
-      "alternatives": [],
+      "alternatives": [
+        "ファスト"
+      ],
       "is_heteronym": false
     },
     "grammar": {
@@ -317,53 +319,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "最初",
-        "一番目"
-      ],
-      "antonyms": [
-        "最後",
-        "最後尾"
-      ],
-      "related": [
-        "順序",
-        "ベースボール"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T17:06:37.815778+00:00Z",
-      "freq_rank": 6015,
-      "frequencies": {
-        "aozora": 42
-      }
-    }
-  },
-  {
-    "uuid": "f2998b9b-2efd-5b4b-acf9-60b5291c0813",
-    "entry": "ファースト",
-    "reading": {
-      "primary": "ファースト",
-      "alternatives": [
-        "ファスト"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "形容詞-語幹"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "fast",
         "register": "standard",
         "nuance": null,
@@ -626,14 +584,20 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "最初",
+        "一番目",
         "速い",
         "迅速"
       ],
       "antonyms": [
+        "最後",
+        "最後尾",
         "遅い",
         "低速"
       ],
       "related": [
+        "順序",
+        "ベースボール",
         "スピード",
         "速度"
       ]
@@ -641,7 +605,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T17:06:37.815778+00:00Z",
       "freq_rank": 6015,
       "frequencies": {
         "aozora": 42

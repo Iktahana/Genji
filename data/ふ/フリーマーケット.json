@@ -20,6 +20,49 @@
     "definitions": [
       {
         "index": 1,
+        "gloss": "free market",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "自由な競争が促進されるフリーマーケットの原則に従えば、価格は自然に適切な水準に落ち着くはずだ。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "政府の介入を最小限に抑えたフリーマーケット経済への移行が、この国の急務である。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "完全なフリーマーケットが機能するためには、参加者が十分な情報を持っていることが前提となる。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
         "gloss": "flea market",
         "register": "standard",
         "nuance": null,
@@ -65,90 +108,9 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "自由市場",
         "蚤の市",
         "骨董市"
-      ],
-      "antonyms": [],
-      "related": [
-        "市場",
-        "買い物",
-        "中古品",
-        "販売"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T18:42:49.164285+00:00Z"
-    }
-  },
-  {
-    "uuid": "8fbef397-5503-5b91-9119-f80ab56c90e4",
-    "entry": "フリーマーケット",
-    "reading": {
-      "primary": "フリーマーケット",
-      "alternatives": [
-        "フリー・マーケット",
-        "フリーマケット"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
-        "gloss": "free market",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "自由な競争が促進されるフリーマーケットの原則に従えば、価格は自然に適切な水準に落ち着くはずだ。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "政府の介入を最小限に抑えたフリーマーケット経済への移行が、この国の急務である。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            },
-            {
-              "text": "完全なフリーマーケットが機能するためには、参加者が十分な情報を持っていることが前提となる。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3.1-pro-preview"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "自由市場"
       ],
       "antonyms": [
         "統制経済",
@@ -158,7 +120,10 @@
         "経済",
         "市場",
         "取引",
-        "資本主義"
+        "資本主義",
+        "買い物",
+        "中古品",
+        "販売"
       ]
     },
     "meta": {

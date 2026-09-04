@@ -9,10 +9,13 @@
     },
     "grammar": {
       "pos": [
-        "名詞"
+        "名詞",
+        "動詞-サ変"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -317,51 +320,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "かかと",
-        "靴のかかと"
-      ],
-      "antonyms": [],
-      "related": [
-        "靴",
-        "パンプス",
-        "ブーツ",
-        "サンダル"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-04T16:49:24.659127+00:00Z",
-      "freq_rank": 15201,
-      "frequencies": {
-        "aozora": 47
-      }
-    }
-  },
-  {
-    "uuid": "27c8ce51-52bf-5fea-ac35-de71a2d523a1",
-    "entry": "ヒール",
-    "reading": {
-      "primary": "ヒール",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞",
-        "動詞-サ変"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "healing",
         "register": "standard",
         "nuance": null,
@@ -624,11 +585,17 @@
     "relations": {
       "homophones": [],
       "synonyms": [
+        "かかと",
+        "靴のかかと",
         "治癒",
         "回復"
       ],
       "antonyms": [],
       "related": [
+        "靴",
+        "パンプス",
+        "ブーツ",
+        "サンダル",
         "ヒーリング",
         "治療",
         "ダメージ"
@@ -637,7 +604,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-04T16:49:24.659127+00:00Z",
       "freq_rank": 15201,
       "frequencies": {
         "aozora": 47
