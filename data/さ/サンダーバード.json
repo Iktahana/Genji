@@ -17,103 +17,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "thunderbird (North-American indigenous mythical spirit bird)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "先住民の伝説に登場するサンダーバードは、羽ばたきで嵐を起こすと信じられている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "博物館の入り口に、巨大なサンダーバードの木彫りが守り神のように鎮座している。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            },
-            {
-              "text": "北米の空高く舞うサンダーバードの姿を描いた神話は、今も語り継がれている。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-3-flash-preview"
-              }
-            }
-          ],
-          "literary": [
-            {
-              "text": "「この島の友人が、こんな怪物を貸してくれたのよ」　一九五〇年代なかばの、フォード・サンダーバードのオープンだった。",
-              "citation": {
-                "source": "波乗りの島",
-                "author": "片岡義男",
-                "note": "青空文庫"
-              }
-            },
-            {
-              "text": "ハイウエイが行きどまりになるところまで走りきり、崖の上にサンダーバードを停めた。",
-              "citation": {
-                "source": "波乗りの島",
-                "author": "片岡義男",
-                "note": "青空文庫"
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
-      "related": [
-        "神話",
-        "伝説",
-        "精霊"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:02:40.650318+00:00Z",
-      "freq_rank": 37818,
-      "frequencies": {
-        "aozora": 2
-      }
-    }
-  },
-  {
-    "uuid": "11693567-eb38-5d61-8c71-697feb0cce35",
-    "entry": "サンダーバード",
-    "reading": {
-      "primary": "サンダーバード",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "Thunderbirds (TV series)",
         "register": "standard",
         "nuance": null,
@@ -214,6 +117,66 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "thunderbird (North-American indigenous mythical spirit bird)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "先住民の伝説に登場するサンダーバードは、羽ばたきで嵐を起こすと信じられている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "博物館の入り口に、巨大なサンダーバードの木彫りが守り神のように鎮座している。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "北米の空高く舞うサンダーバードの姿を描いた神話は、今も語り継がれている。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
+          "literary": [
+            {
+              "text": "「この島の友人が、こんな怪物を貸してくれたのよ」　一九五〇年代なかばの、フォード・サンダーバードのオープンだった。",
+              "citation": {
+                "source": "波乗りの島",
+                "author": "片岡義男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ハイウエイが行きどまりになるところまで走りきり、崖の上にサンダーバードを停めた。",
+              "citation": {
+                "source": "波乗りの島",
+                "author": "片岡義男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
       }
     ],
     "relations": {
@@ -223,7 +186,10 @@
       "related": [
         "特急",
         "列車",
-        "関西"
+        "関西",
+        "神話",
+        "伝説",
+        "精霊"
       ]
     },
     "meta": {

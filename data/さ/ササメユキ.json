@@ -274,52 +274,9 @@
             }
           ]
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "淡雪",
-        "薄雪"
-      ],
-      "antonyms": [
-        "豪雪",
-        "大雪"
-      ],
-      "related": [
-        "雪",
-        "冬",
-        "気象",
-        "天気"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:38:51.810620+00:00Z",
-      "frequencies": {
-        "aozora": 37
-      }
-    }
-  },
-  {
-    "uuid": "f481928f-b14c-5059-92d0-9405fabb3cde",
-    "entry": "細雪",
-    "reading": {
-      "primary": "ささめゆき",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 2,
         "gloss": "The Makioka Sisters (1957 novel by Jun'ichirō Tanizaki)",
         "register": "standard",
         "nuance": null,
@@ -581,9 +538,19 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "淡雪",
+        "薄雪"
+      ],
+      "antonyms": [
+        "豪雪",
+        "大雪"
+      ],
       "related": [
+        "雪",
+        "冬",
+        "気象",
+        "天気",
         "谷崎潤一郎",
         "文学",
         "日本文学",
@@ -593,7 +560,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T10:38:51.810620+00:00Z",
       "frequencies": {
         "aozora": 37
       }

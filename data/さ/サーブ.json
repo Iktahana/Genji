@@ -13,8 +13,10 @@
         "動詞-サ変",
         "動詞-自動詞"
       ],
-      "ctype": null,
-      "inflections": null
+      "ctype": "サ行変格",
+      "inflections": null,
+      "ctype_source": "pos-derived",
+      "ctype_confidence": "high"
     },
     "definitions": [
       {
@@ -167,55 +169,9 @@
           ],
           "literary": []
         }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "給仕",
-        "配膳",
-        "サービス"
-      ],
-      "antonyms": [
-        "レシーブ"
-      ],
-      "related": [
-        "テニス",
-        "バレーボール",
-        "サービス",
-        "スマッシュ",
-        "レシーブ",
-        "トス"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T11:22:28.554945+00:00Z",
-      "freq_rank": 16246,
-      "frequencies": {
-        "aozora": 10
-      }
-    }
-  },
-  {
-    "uuid": "a9fe8c8d-175a-532d-974b-127b2d00351d",
-    "entry": "サーブ",
-    "reading": {
-      "primary": "サーブ",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
+      },
       {
-        "index": 1,
+        "index": 3,
         "gloss": "Saab",
         "register": "standard",
         "nuance": null,
@@ -325,9 +281,21 @@
     ],
     "relations": {
       "homophones": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "給仕",
+        "配膳",
+        "サービス"
+      ],
+      "antonyms": [
+        "レシーブ"
+      ],
       "related": [
+        "テニス",
+        "バレーボール",
+        "サービス",
+        "スマッシュ",
+        "レシーブ",
+        "トス",
         "自動車",
         "スウェーデン",
         "自動車メーカー",
@@ -338,7 +306,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-06-03T11:22:28.554945+00:00Z",
       "freq_rank": 16246,
       "frequencies": {
         "aozora": 10

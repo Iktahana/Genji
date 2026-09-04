@@ -20,85 +20,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "glow stick",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "ライブ会場で、ファンが色とりどりのサイリウムを振っていた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "夜のイベントで、雰囲気を盛り上げるためにサイリウムが配られた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "子供たちは、暗闇で光るサイリウムを面白がって遊んでいた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "ケミカルライト",
-        "ルミカライト"
-      ],
-      "antonyms": [],
-      "related": [
-        "ライブ",
-        "ペンライト",
-        "コンサート"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:31:35.493714+00:00Z"
-    }
-  },
-  {
-    "uuid": "fe868339-4b48-5f75-a1ef-dabca3f8907b",
-    "entry": "サイリウム",
-    "reading": {
-      "primary": "サイリウム",
-      "alternatives": [],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "psyllium (seed husks of certain plantains used in nutritional supplements)",
         "register": "standard",
         "nuance": null,
@@ -182,18 +103,66 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "glow stick",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "ライブ会場で、ファンが色とりどりのサイリウムを振っていた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜のイベントで、雰囲気を盛り上げるためにサイリウムが配られた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは、暗闇で光るサイリウムを面白がって遊んでいた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
-        "オオバコ種皮"
+        "オオバコ種皮",
+        "ケミカルライト",
+        "ルミカライト"
       ],
       "antonyms": [],
       "related": [
         "食物繊維",
         "サプリメント",
-        "植物"
+        "植物",
+        "ライブ",
+        "ペンライト",
+        "コンサート"
       ]
     },
     "meta": {

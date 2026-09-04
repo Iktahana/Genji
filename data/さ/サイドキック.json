@@ -19,84 +19,6 @@
     "definitions": [
       {
         "index": 1,
-        "gloss": "side-foot (in soccer)",
-        "register": "standard",
-        "nuance": null,
-        "scenarios": [],
-        "sensory_tags": {
-          "colors": [],
-          "temperature": null,
-          "sounds": [],
-          "emotions": []
-        },
-        "collocations": [],
-        "examples": {
-          "standard": [
-            {
-              "text": "サッカーの練習で、サイドキックの精度を高めるために壁打ちを繰り返した。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "彼はサイドキックでゴール隅を狙い、見事なシュートを決めた。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            },
-            {
-              "text": "初心者でもサイドキックを使えば、ボールをコントロールしやすい。",
-              "citation": {
-                "source": "Illusions AI",
-                "author": "Gemini",
-                "note": "gemini-2.5-flash"
-              }
-            }
-          ],
-          "literary": []
-        }
-      }
-    ],
-    "relations": {
-      "homophones": [],
-      "synonyms": [
-        "インサイドキック"
-      ],
-      "antonyms": [],
-      "related": [
-        "サッカー"
-      ]
-    },
-    "meta": {
-      "version": "1.0.0",
-      "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-03T10:28:24.928474+00:00Z"
-    }
-  },
-  {
-    "uuid": "4e3dcc87-2c89-5312-8d98-713ec34677b9",
-    "entry": "サイドキック",
-    "reading": {
-      "primary": "サイドキック",
-      "alternatives": [
-        "サイド・キック"
-      ],
-      "is_heteronym": false
-    },
-    "grammar": {
-      "pos": [
-        "名詞"
-      ],
-      "ctype": null,
-      "inflections": null
-    },
-    "definitions": [
-      {
-        "index": 1,
         "gloss": "side kick",
         "register": "standard",
         "nuance": null,
@@ -180,18 +102,63 @@
           ],
           "literary": []
         }
+      },
+      {
+        "index": 3,
+        "gloss": "side-foot (in soccer)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [
+            {
+              "text": "サッカーの練習で、サイドキックの精度を高めるために壁打ちを繰り返した。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はサイドキックでゴール隅を狙い、見事なシュートを決めた。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "初心者でもサイドキックを使えば、ボールをコントロールしやすい。",
+              "citation": {
+                "source": "Illusions AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
+          "literary": []
+        }
       }
     ],
     "relations": {
       "homophones": [],
       "synonyms": [
         "相棒",
-        "助手"
+        "助手",
+        "インサイドキック"
       ],
       "antonyms": [],
       "related": [
         "映画",
-        "物語"
+        "物語",
+        "サッカー"
       ]
     },
     "meta": {
